@@ -1,0 +1,459 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Samhaldsfesti, sjálvbjargni og frælsi</title>
+            <title type="sub">Samgonguskjal millum Javnaðarfokkin, Tjóðveldi og Framsókn</title>
+            <author>Javnaðarflokkurin</author>
+            <author>Tjóðveldi</author>
+            <author>Framsókn</author>
+         </titleStmt>
+         <publicationStmt>
+           <publisher>Rani Høgnason Hansen</publisher>
+           <idno type="url">https://github.com/hoegnason/tingmal</idno>
+           <date when="2025-08-31">31 Aug 2025</date>
+           <availability status="free">
+           <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+           </licence>
+           <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+           </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+              <title level="a" type="main">Samhaldsfesti, sjálvbjargni og frælsi</title>
+              <title level="a" type="sub">Samgonguskjal millum Javnaðarfokkin, Tjóðveldi og Framsókn</title>
+              <publisher>Føroya Løgting</publisher>
+              <date when="2015-08-14">14. september 2015</date>
+              <idno type="url">https://www.logting.fo/media/y3mgugrq/samgonguskjal-2015.pdf</idno>
+              <ref type="source" target="https://www.logting.fo/media/y3mgugrq/samgonguskjal-2015.pdf">Original URL</ref>
+              <date type="accessed" when="2025-03-09"/>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+            <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="dateline" scheme="css"> text-align: center !important;</rendition>
+            <rendition xml:id="signed-item" scheme="css"> margin-left: 1em; margin-right: 1em; </rendition>
+            <rendition xml:id="subtitle">font-weight: normal; text-align: center;</rendition>
+            <rendition xml:id="simple">
+               width: 210mm;
+               height: 297mm;
+               margin: 20px auto;
+               padding: 20mm;
+               background-color: white;
+               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+               box-sizing: border-box;
+            </rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Samgonguskjal</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <pb n="1"/>
+         <div type="title" xml:id="e2sb7ayryv">
+            <head xml:id="bwbxrg9thn" type="main" rend="bold center"><s xml:id="nusyrjttrt">Samhaldsfesti, sjálvbjargni og frælsi</s></head>
+            <head xml:id="tlugmc7tkk" type="sub" rend="center"><s xml:id="m85rddsgnz">Samgonguskjal<lb/> millum<lb/> Javnaðarflokkin, Tjóðveldi og Framsókn<lb/></s></head>
+         </div>
+      </front>
+      <body>
+         <div type="introduction" n="1" xml:id="xmldcg86l8">
+
+            <p n="1" xml:id="wmufc88f8p">
+               <s xml:id="abnqcvklek">Vit staðfesta, at Føroyar eru millum ríkastu tjóðir í heiminum við ovurstórum<lb/> náttúruríkidømi, ríkari mentan, skapandi og dugnaligum fólki og framtakshugaðum vinnulívi.</s><lb/>
+               <s xml:id="rugepdvpxs">Vit hava allar fortreytir fyri at skapa eitt sjálvbjargið samfelag við ríkum møguleikum,<lb/> sterkum felagsskapi og javnbjóðisrættindum fyri okkum øll.<lb/></s>
+            </p>
+
+            <p n="2" xml:id="bgw6ysqf2t">
+               <s xml:id="dywchwpzwv">Aðalmálið er, at valdið og virðini skulu út til fólkið. Vit skulu skapa einar sterkar,<lb/> samhaldsfastar og sjálvbjargnar Føroyar.</s>
+               <s xml:id="due2nxyrjx">Vit vilja menna eitt tíðarhóskandi<lb/> vælferðarsamfelag fyri alt fólkið í Føroyum, sum kann kappast við grannalondini um at draga<lb/> fólk og virksemi til sín.<lb/></s>
+            </p>
+
+            <p n="3" xml:id="phz98aschg">
+               <s xml:id="njuctrmyer">Búskapurin er vaksin seinastu árini, ríkir møguleikar eru fyri framburði, og fólkatalið er<lb/> vaksið.</s>
+               <s xml:id="vfebcxnpzk">Tó staðfesta vit, at virðini eru savnað á alsamt færri hondum, ójavnin er vaksin,<lb/> skuldin er økt, aldurssamansetingin er framvegis ein avbjóðing, og búskaparliga haldførið er<lb/> versnað.</s>
+               <s xml:id="wm4uyp3kra">Gongdin fram ímóti einum sjálvberandi búskapi er steðgað, og ríkisveitingin er<lb/> hækkað.<lb/></s>
+            </p>
+
+            <p n="4" xml:id="czmcc9hedj">
+               <s xml:id="ynfhyxhvb6">Skilvísur búskaparpolitikkur skal leggja trygga grund undir ein sjálvbjargnan og haldføran<lb/> búskap.</s>
+               <s xml:id="cbzmmx4c2u">Javnari býti av ríkidøminum skal tryggja, at virðini í størri mun koma í umfar og<lb/> harvið skapa størri vøkstur og trivnað.</s>
+               <s xml:id="pqvz5ua7kd">Nýskipanirskulu menna einar vælvirkandi Føroyar við<lb/> fleiri møguleikum, framburði og dyggari áliti og javnrættindum fyri allar borgarar.<lb/></s>
+            </p>
+
+            <p n="5" xml:id="edxy4llb8f">
+                <s xml:id="dpfqz2xcq2">Skeiva aldurs- og kynsbýtið er millum størstu avbjóðingar landsins.</s>               
+                <s xml:id="lgmccf8fc8">Samgongan fer at møta<lb/> hesum við einum málsøknum vinnupolitikki, ið kann skapa arbeiðspláss, og við íløgum í<lb/> útbúgving og betri lestrarumstøður, so ungdómur og barnafamiljur kunnu støðast, virka og<lb/> trívast í Føroyum.</s>
+                <s xml:id="putjntcjtx">Fleiri mentanartilboð, betri bústaðarmøguleikar og góð livikor annars<lb/> skulu fjálga og fjølga um fólkið.</s>
+                <s xml:id="mnrhrfhbcr">Serstøk átøk skulu setast í verk í mun til kvinnuundirskotið og<lb/> integratiónina av útlendingum.<lb/></s>
+            </p>
+
+            <p n="6" xml:id="hdjhrmxm4x">
+                <s xml:id="kqn8p9y6ck">Ein nýggj stjórnarskipan skal staðfesta, at Føroya fólk hevur valdið í Føroyum.</s>
+                <s xml:id="yrr78tvm7v">Lógin skal<lb/> áseta og útgreina sjálvsavgerðarrættin og fólkaræðisliga stýrislagið hjá Føroya fólki.</s>
+                <s xml:id="hp4xds5jqg">Hon<lb/> kemur til fólkaatkvøðu í seinasta lagi í 2017.<lb/></s>
+            </p>
+
+            <p n="7" xml:id="l5anctcp6s">
+               <s xml:id="wlrpz9gszu">Spekulasjón við privatum keypi og sølu av fiskirættindum verður steðgað, og øll fyrisitingin<lb/> av lógini um vinnuligum fiskiskap eftirmett.</s>
+               <s xml:id="ycz29xnsyx">Ein grundleggjandi nýskipan av fiskivinnuni<lb/> verður millum høvuðsmálini hjá samgonguni.</s>
+               <s xml:id="mrb7ptzcgl">Ein breitt samansettur arbeiðsbólkur við<lb/><pb n="2"/> fakligum førleikum og vinnuligum royndum verður alt fyri eitt settur at gera tilmæli til<lb/> politisku skipanina um nýskipan í fiskivinnuni frá 1. januar 2018.</s>
+               <s xml:id="kll2qghndw">Meginreglan er, at vinnan<lb/> skal virka eftir marknaðartreytum.<lb/></s>
+            </p>
+
+            <p n="8" xml:id="fjfaegbjaw">
+                <s xml:id="yvwwmpermj">Ein nýhugsandi vinnupolitikkur skal skapa størri fjølbroytni, fleiri størv og hægri inntøkur.</s>
+                <lb/>
+                <s xml:id="xkngdv9sxq">Kjarnan í vinnupolitikkinum verður, at okkara fjølbroytta tilfeingi verður gagnnýtt, at fleiri<lb/> vørur og tænastur verða framleiddar, og at føroyskar loysnir og førleikar støðugt verða<lb/> ment.</s>
+                <s xml:id="epxzptw7wc">Eitt serstakt mál er at talgilda Føroyar og geva føroysku KT-vinnuni nýtt grundarlag við<lb/> millum annað at tryggja, at tær grundleggjandi KT-skipanirnar verða goymdar og viðgjørdar í<lb/> Føroyum.<lb/></s>
+            </p>
+
+            <p n="9" xml:id="hkkpwh52lr">
+                <s xml:id="qkrc4avrdp">Uttanríkistænastan verður útbygd.</s>
+                <s xml:id="hwkdna2jmv">Útflutningspolitikkur verður orðaður.</s>
+                <s xml:id="kurtabyzas">Arbeitt verður<lb/> miðvíst fyri betri handilssambandi við onnur lond og møguleikum fyri at taka lut í altjóða<lb/> sambondum og felagsskapum.<lb/></s>
+            </p>
+
+            <p n="10" xml:id="d3tzqjnrws">
+                <s xml:id="edqbyrv3cf">Sum partur í einum sínamillum tengdum heimi hava Føroyar eisini ábyrgd í mun til tær<lb/> ovurhonds stóru avbjóðingarnar við flóttafólki og neyðstøddum kring heimin - og á henda<lb/> hátt av at royna at skapa eitt tryggari heimssamfelag.<lb/></s>
+            </p>
+
+            <p n="11" xml:id="pncw5mjn8a">
+                <s xml:id="atpwsbckeq">Alment og privat eru fortreytir fyri hvørjum øðrum.</s>
+                <s xml:id="rruqhegqla">Stuðlast skal undir privat framtakssemi,<lb/> íverkseting og nýmenning.</s>
+                <s xml:id="jhymgdzbah">Tað privata skal innan ávís øki kunna bjóða seg fram at loysa<lb/> nakrar tænastur hjá tí almenna í tann mun, tað er bíligari og betri.</s>
+                <s xml:id="uyvtpwpdqd">Ein eigarapolitikkur skal<lb/> orðast fyri almennar fyritøkur, grunnar o.a., sum eisini skal lýsa, um ávísar almennar<lb/> fyritøkur, hvørs uppgávur eru vinnuligar heldur enn almennar, kunnu verða einskildar.<lb/></s>
+            </p>
+
+            <p n="12" xml:id="zauxfbhdxc">
+                <s xml:id="fer7xdsk5x">Góður skúlaskapur og lívslong læra eru grundin undir einum framkomnum samfelag.</s>
+                <lb/>
+                <s xml:id="c4cebylpce">Útbúgving og gransking verða tí millum fremstu mál samgongunnar.</s>
+                <s xml:id="zujy8gqk46">Førleikarnir at taka lut í<lb/> fólkaræðinum eiga at verða styrktir frá barnsbeini gjøgnum skúla og útbúgving.<lb/></s>
+            </p>
+
+            <p n="13" xml:id="sm63dqrcwl">
+                <s xml:id="camycm27xb">Mentan og list skapa okkum sum menniskju og samfelag, og kreativitetur er ein<lb/> grundleggjandi framdráttarmegi.</s>
+                <s xml:id="tymq5a8y3a">Mentanarpolitikkur skal tí setast høgt í politiska<lb/> arbeiðinum.<lb/></s>
+            </p>
+
+            <p n="14" xml:id="nprjrfpy7k">
+                <s xml:id="ajcwjtyt3k">Eitt gott og útbygt samferðslukervi – innanoyggja og til umheimin – er avgerandi fyri trivnað<lb/> og møguleikar hjá fólki og vinnu.</s>
+                <s xml:id="sy6rszuv52">Tí verða íløgur støðugt gjørdar og átøk framd til tess at<lb/> geva fólki javnsettar møguleikar kring landið.<lb/></s>
+            </p>
+
+            <p n="15" xml:id="su5z7rhahx">
+               <s xml:id="rwrhhfdnum">Umhvørvis- og náttúruvernd skulu uppraðfestast til gagns fyri verandi og komandi ættarlið.</s>
+               <lb/>
+               <s xml:id="b6hglxmtvy">Ferð skal av álvara setast á at leggja orkunýtsluna um, so vit gerast sjálvveitandi við grønari<lb/> orku.<lb/></s>
+            </p>
+
+            <p n="16" xml:id="meweskaes7">
+                <s xml:id="vrgzugerhs">Øllum borgarum skulu tryggjast javnrættindi.</s>
+                <s xml:id="byunwkg8mr">Hvør einstakur skal eiga møguleikan at smíða<lb/> sær eitt eydnuríkt lív eftir egnum huga og evnum og at taka lut og ábyrgd í samfelagnum.</s>
+                <lb/>
+                <s xml:id="gy6csysae4">Hetta tryggjarsosialt og mentanarligt fjølbroytni,sum gevur trivnað og skapanarhug.<lb/></s>
+            </p>
+
+            <pb n="3"/>
+
+            <p n="17" xml:id="b8rhllc9js">
+               <s xml:id="brag6gb3t4">Í sonevndum etiskum málum stendur hvørjum einstøkum tingfólki frítt at atkvøða eftir<lb/> egnari sannføring.<lb/></s>
+            </p>
+
+            <p n="18" xml:id="hw2zsr6dkd">
+                <s xml:id="zpj7gcv7uh">Í øllum arbeiði vilja vit skapa álit á politisku skipanina.</s>
+                <s xml:id="wcysfeceaw">Øll mál skulu viðgerast í opinleika, og<lb/> fólk, sum vara av, serfrøði og fakfólk verða hoyrd og vird.</s>
+                <s xml:id="xsehkpq6py">Somuleiðis skal rættartrygdin<lb/> styrkjast og verjast eins og rætturin hjá borgaranum til innlit og gjøgnumskygni.<lb/></s>
+            </p>
+
+            <p n="19" xml:id="acezwfmqzh">
+               <s xml:id="jnpwsekbmq">Øll átøk, sum samgongan fremur, eru treytað av fíggjarstøðu landsins og búskaparligum<lb/> skilvísi.</s>
+               <s xml:id="x7eh8mnmez">Samgongan vil í øllum nýskipanum leggja dent á at finna breiðar semjur og at byggja<lb/> avgerðirnar á fakligt og fólkaræðisligt grundarlag.<lb/></s>
+            </p>
+            </div>
+
+            <div type="section" n="1">
+               <head xml:id="cvvzsxplpy" rend="center">Høvuðsmál, sum vit fara undir at loysa alt fyri eitt</head>
+            
+               <p n="20" xml:id="mjhe6qzgcn">
+                  <s xml:id="f7mlntkzek">Vit ásanna, at stór og átrokandi mál skulu loysast í føroyska samfelagnum.</s>
+                  <s xml:id="xursgcsbaf">Tí fara vit alt fyri<lb/> eitt undir hesar høvuðsavbjóðingar:<lb/></s>
+                  
+                  <list xml:id="esg8tvkjxx" type="bulleted">
+                     <item n="1" xml:id="asc6g6sxf4">
+                        <s xml:id="mudxgatvj2">At seta í verk eina nýskipan av fiskivinnuni.<lb/></s>
+                     </item>
+
+                     <item n="2" xml:id="r4z7hxd2k4">
+                        <s xml:id="epxz4cd9wf">At fremja broytingar í skattapolitikkinum,so lág- og miðallønt fáa ein skattalætta.<lb/></s>
+                     </item>
+
+                     <item n="3" xml:id="cdvakss7kc">
+                        <s xml:id="zrc5dmrukr">At geva fólkinum høvi at samtykkja sína egnu stjórnarskipan á fólkaatkvøðu, at<lb/> fastfrysta ríkisveitingina og taka mál á føroyskar hendur.<lb/></s>
+                     </item>
+
+                     <item n="4" xml:id="n6bdn4vja2">
+                        <s xml:id="cjbphtpjvy">At taka avbjóðingina við aldurs- og kynssamansetingini í álvara við íløgumí ungdóm,<lb/> útbúgving, mentan og barnafamiljur.<lb/></s>
+                     </item>
+
+                     <item n="5" xml:id="hbpae5fubq">
+                        <s xml:id="xv2kjnwkps">At tryggja langtíðarhaldføran búskap við m.a. búskapargrunni og konjunkturjavnandi<lb/> fíggjarpolitikki.<lb/></s>
+                     </item>
+
+                     <item n="6" xml:id="ykynxs2wte">
+                        <s xml:id="ueu7uq4aah">At seta í verk menningarætlan fyri heilsuverkið,sum tryggjar viðgerðir og tænastur á<lb/> nútímansstøði.<lb/></s>
+                     </item>
+
+                     <item n="7" xml:id="teg66g9wms">
+                        <s xml:id="lfzwhbbzme">At gera nýggja pensjónsskipan, sum skal tryggja øllum góða pensjón og samstundis<lb/> rætta teir ójavnar og haldføristrupulleikar, sum komu í við forskattingini av<lb/> pensjónum.<lb/></s>
+                     </item>
+
+                     <item n="8" xml:id="u4uc8dg7nk">
+                        <s xml:id="mfrar5dvdb">At gera íløgur í grøna orku, so Føroyar kunnu gerast sjálvveitandi við varandi orku.<lb/></s>
+                     </item>
+                  </list>
+               </p>
+         </div>
+         <div type="section" n="2" xml:id="tkdzuug822">
+            <head xml:id="vdmgq6rdnq" rend="bold center">Nýskipan í fiskivinnuni</head>
+
+            <p n="21" xml:id="ajtavqvxc5">
+               <s xml:id="xp5gcxq3wq">Vit vilja fremja eina grundleggjandi nýskipan í fiskivinnupolitikkinum, sum verður sett í verk<lb/> frá 1. januar 2018. Nýskipanin skal byggja á hesar aðalreglur:<lb/></s>
+
+               <list xml:id="xuppgn5cgd">
+                  <item xml:id="cen2rxdwq3">
+                     <s xml:id="nah2pyway3">Allur fiskiskapur skal vera lívfrøðiliga, búskaparliga og samfelagsliga burðardyggur.<lb/></s>
+                  </item>
+
+                  <item xml:id="ky2rrdup9a">
+                     <s xml:id="tkrux5vzj2">Livandi fiskiríkidømið í føroyskum sjógvi og tað, sum Føroyar hava samráðst seg til í<lb/> avtalum við onnur lond, skal framhaldandi vera fólksins ogn og kann ikki gerast ogn<lb/> hjá privatum feløgum ella einstaklingum ella fara á útlendskar hendur.<lb/></s>
+                  </item>
+
+                  <item xml:id="bnl39ynhc8">
+                     <s xml:id="rgthszxp3k">Fiskirættindi skulu vera á føroyskum hondum.<lb/></s>
+                  </item>
+                  
+                  <item xml:id="fsemjx2mrp">
+                     <s xml:id="pnngtjyvdj">Farast skal frá privatari sølu av loyvum og fiskirættindum.</s>
+                  </item>
+
+                  <item xml:id="pn6jy7n4qz">
+                     <s xml:id="kxgbsm8gmg">Farast skal frá politiskari útluting av fiskirættindum til eina marknaðargrundaða<lb/>skipan.<lb/></s>
+                  </item>
+                  
+                  <pb n="3"/>
+
+                  <item xml:id="cxpgg8qte6">
+                     <s xml:id="h4lrgme6ng">Veiddur fiskur skal vera atkomiligur hjá virkjum á landi at bjóða uppá.<lb/></s>
+                  </item>
+                  
+                  <item xml:id="umwjhumcrj">
+                     <s xml:id="msqjntzvbz">Veiðan og alt av fiskinum eigur at verða fingið til lands og í størstan mun virðisøkt í<lb/> Føroyum.</s>
+                  </item>
+
+                  <item xml:id="yxbxxbfmc8">
+                     <s xml:id="zquqwnmhap">Bert feløg, sum hava føroyskar eigarar, eru skrásett í Føroyum, rinda skatt í Føroyum<lb/> og sum rinda manningini hýru sambært føroyskum sáttmála, kunnu bjóða seg fram í<lb/> føroyskari fiskiveiði.<lb/></s>
+                  </item>
+
+                  <item xml:id="clku8f8lar">
+                     <s xml:id="nbgruhrzvh">Serlig skipan kann gerast fyri útróðrarflotan.</s>
+                  </item>
+               </list>
+            </p>
+
+            <p xml:id="lkutk4ubbn">
+               <s xml:id="pqex3kdfgm">Til tess at fremja hesa nýskipan í verki, setur landsstýrisfólkið beinanvegin ein breitt<lb/> samansettan arbeiðsbólk við fakligum førleikum og vinnuligum royndum, ið skal gera tilmæli<lb/> til politisku skipanina, sum byggir á omanfyrinevndu aðalreglur.</s>
+               <s xml:id="wubn72mwzj">Í arbeiðinum skal bólkurin<lb/> regluliga hoyra allar partar í vinnuni.<lb/></s>
+            </p>
+
+            <p xml:id="sujk7hcq8y">
+               <s xml:id="tzfh7x94d6">Í tilmælinum skal ítøkiligt uppskot gerast til, hvussu broytingarnar frá verandi skipan til<lb/> nýggju skipanina skulu fara fram í eini skiftistíð.</s>
+               <s xml:id="aaqhmnja8t">Somuleiðisskulu atlit takast til, at støðan hjá<lb/> ymsu pørtunum av flotanum er ymisk, og at verandi aktørar á ein skynsaman hátt kunnu<lb/> laga seg til broyttu treytirnar.</s>
+               <s xml:id="ys95rxxufu">Tá ið tilmælið fyriliggur, vera politiskar samráðingar millum<lb/> allar flokkar á tingi um at gera eina varandi semju um fiskivinnuna.</s>
+               <s xml:id="bsre8asbqp">Lógaruppskotið verður<lb/> lagt fyri Løgtingið í seinasta lagi á ólavsøku 2016.<lb/></s>
+            </p>
+
+            <p xml:id="yydswkc3p2">
+               <s xml:id="pyeu2xvpvu">Fyri at lætta um trýstið á botnfiskastovnarnar undir Føroyum verður beinanvegin miðað<lb/> eftir, at vit í býtisavtalum við grannalondini kunnu økja um botnfiskakvoturnar fyri<lb/> heimaflotan í fremmandum sjógvi.<lb/></s>
+            </p>
+
+         </div>
+
+         <div type="section" n="3">
+            <head rend="bold center" xml:id="uyryxy5pvd">Stjórnarskipan og mál á føroyskar hendur</head>
+
+            <p xml:id="k6ghhqgje7">
+               <s xml:id="mfnacf54k8">Ein nýggj stjórnarskipan skal staðfesta, at Føroya fólk hevur valdið í Føroyum.</s>               
+               <s xml:id="fbpa92a4h4">Lógin skal<lb/> staðfesta og útgreina sjálvsavgerðarrætt Føroya fólks, herundir at allur rættur at avgera<lb/> framtíðar ríkisrættarstøðu Føroya er hjá Føroya fólki.</s>
+               <s xml:id="lygx6bthm4">Eisini skal stjórnarskipanin áseta<lb/> Føroya fólkaræðisliga stýrislag eins og rættindi og skyldur borgaranna, tá ið tað snýr seg um<lb/> javnrættindi, persónligt frælsi, rætt til menning, sosiala trygd, rættartrygd, arbeiði og vinnu<lb/> og rætt til innløgu og gagnnýtslu av felags tilfeingi.</s>
+               <s xml:id="h9hankrjkg">Lógin kemur til fólkaatkvøðu í seinasta<lb/> lagi í 2017.<lb/></s>
+            </p>
+
+            <p xml:id="zkt2cwnf2m">
+               <s xml:id="jquyqtn5pw">Hesi mál verða tikin á føroyskar hendur í hesum valskeiðnum:<lb/></s>
+
+               <list>
+                  <item>Útlendingamál</item>
+                  <item>Loftrúmið</item>
+                  <item>Persóns-, familju og arvarættur</item>
+               </list>
+            </p>
+         </div>
+
+         <div type="section" n="4" xml:id="wqfq4nc4gb">
+            <head rend="bold center" xml:id="juastbqucb">Lætti til lág- og miðallønt</head>
+            
+            <pb n="5"/>
+
+            <p xml:id="ls634ntq7a">
+               <s xml:id="x2ssjdcdsl">Fíggjarligir lættar verða veittir lág- og miðalløntum, herundir pensjónistum og lesandi.</s>               
+               <s xml:id="qkryvh7knq">Hetta<lb/> skal fáa størri part av ríkidømi landsins út í peningarenslið og á tann hátt styrkja búskapin og<lb/> at gera tað liviligari hjá øllum.</s>
+               <s xml:id="anlm7dmd6w">Skattagrundarlagið verður breiðkað, so trýstið á<lb/> lønarinntøkuna minkar.<lb/></s>
+            </p>
+
+            <p xml:id="asym8mugeg">
+               <s xml:id="pbxgrwljm4">Barnafamiljur, ið liva undir fátækramarkinum, skulu hava bráðfeingis lætta.</s>
+               <lb/>
+               <s xml:id="fzmfwze9mh">Kringvarpsgjaldið verður endurskoðað, barnastuðul verður latin børnum undir skúlaaldri, og<lb/> lestrarstuðulin verður hækkaður.<lb/></s>
+            </p>
+
+            <p xml:id="qvde9wavbv">
+               <s xml:id="uaua5xb73a">Nýskipanir innan almannaøkið skulu tryggja øllum borgarum góða tænastu, rættartrygd og<lb/> møguleikar at liva og virka í Føroyum, og málið er, at eingin skal liva undir fátækramarkinum.</s>
+               <lb/>
+               <s xml:id="glur2k8fdm">Ein bøttur íbúðarmarknaður og átøk fyri at lækka kostnaðarstøðið skulu gera tað lættari hjá<lb/> fólki at fáa endarnar at røkka saman.<lb/></s>
+            </p>
+         </div>
+
+         <div type="section" n="4" xml:id="n3rakvbmzp">
+            <head xml:id="p7vzacar7s" rend="bold center">Fólkatal- og samanseting</head>
+
+            <p xml:id="gbfqtaztyw">
+               <s xml:id="e3cd5jdjnb">Aldurs- og kynssamansetingin er fremsta avbjóðingin, so samgongan fer alt fyri eitt undir at<lb/> fremja átøk á hesum øki, millum annað við støði í heildarætlanini “Fólkaflyting og<lb/> fólkavøkstur”.</s>
+               <s xml:id="qutctrbsav">Hetta ber í sær íløgur í útbúgving og gransking, vinnumøguleikar, lestraríbúðir<lb/> og fjølbroytt mentanartilboð, so Føroyar gerast lokkandi hjá ungdómi.</s>
+               <s xml:id="t69xljcjpg">Hartil skal<lb/> barsilsskipanin gerast liðiligari og barnsburðarfarloyvið leingjast.<lb/></s>
+            </p>
+
+            <p xml:id="y6nxzkxp2c">
+              <s xml:id="ktgdfs3p2k">Lagt verður fyri við at gera ætlan um, hvussu vit byggja og menna Fróðskaparsetrið,<lb/> lestrarbý við tilhoyrandi bústøðum, granskingarkarmar og mentanar- og frítíðartilboð til ung<lb/> lesandi.</s>
+              <s xml:id="b7zkb5kjpv">Eisini skulu korini hjá lesandi og støkum uppihaldarum bøtast munandi, so hesi<lb/> kunnu liva og virka í Føroyum.<lb/></s>
+            </p>
+         </div>
+
+         <div type="section" n="4" xml:id="a4ybstrp76">
+            <head rend="bold center" xml:id="fqrzueby8d">Haldførur og sjálvberandi búskapur</head>
+
+            <p xml:id="rfnyw2eqsz">
+               <s xml:id="gh2zhwjzdq">Eitt av høvuðsmálunum hjá samgonguni er at tryggja haldførið í búskapinum og at vísa<lb/> fíggjarliga ábyrgd. Tí skal fígging vera til øll átøk.<lb/></s>
+            </p>
+
+            <p xml:id="zzeezfrdth">
+               <s xml:id="zje63pjus4">Ríkidømi landsins er savnað á ov fáum hondum og fer í stóran mun av landinum.</s>
+               <s xml:id="fgtpfbcsjx">Hetta skal<lb/> broytast, so tað kemur landi og fólki til góðar.</s>
+               <s xml:id="fagevyapz4">Soleiðis økist eftirspurningurin eftir vørum og<lb/> tænastum, og tað hevur við sær inntøkur og vøkstur.</s>
+               <s xml:id="k6ysbp4srn">Fleiri fáa fíggjarliga orku at seta<lb/> vinnuligt virksemi í gongd, so vit fáa størri dynamikk og menningarmøguleikarí vinnuni.<lb/></s>
+            </p>
+
+            <p xml:id="zhtyebskny">
+               <s xml:id="p5ab57eswa">Ríkisveitingin verður fastfryst beinanvegin.</s>               
+               <s xml:id="pd4qsqww6v">Búskapargrunnurin verður fingin at virka sum<lb/> barlast til tess at tryggja ein haldføran og sjálvberandi búskap, ið styrkir samhaldsfesti<lb/><pb n="5"/>millum ættarlið.</s>
+               <s xml:id="bf5l5fgexw">Í Búskapargrunnin verða settar eingangsinntøkur, serinntøkur og ein partur<lb/> av inntøkuvøkstrinum hjá landskassanum, tá ið hallið er vent til avlop. Hetta kann eisini<lb/> seinni nýtast til at niðurlaða ríksiveitingina.<lb/></s>
+            </p>
+
+            <p xml:id="v4pxzkgpxl">
+               <s xml:id="zjynhn6avh">Búskaparpolitikkurin skal javna sveiggini í búskapinum og stimbra ein sjálvbjargnan og<lb/> langtíðarhaldføran búskap.<lb/></s>
+            </p>   
+         </div>
+
+         <div type="section" n="4" xml:id="etxemjybys">
+            <head rend="bold center" xml:id="smb9ynjucu">Pensjónsnýskipan</head>
+
+            <p xml:id="n4gpcq7qgs">
+               <s xml:id="xgqht5rxn9">Arbeiðið í pensjónsbólkinum heldur fram.</s>               
+               <s xml:id="snnqbrusjf">Pensjónsnýskipanin skal vera búskaparliga haldfør<lb/> og lutvíst samhaldsføst, og hon skal tryggja, at peningarenslið í størri mun er í føroyska<lb/> samfelagnum.</s>
+               <s xml:id="mwvanavqar">Meginreglan er, at øll í Føroyum hava rætt til jøvn og virðilig kor á ellisárum.<lb/> Skipanin skal eggja fólki at arbeiða eftir pensjónsaldur, um tey hava hug og møguleika til<lb/> tess.</s>
+               <s xml:id="rckmmhuf3b">Harumframtskal pensjónsnýskipanin leggja upp fyri, at vit gerast fleiri eldri, og hon skal<lb/> rætta avleiðingarnar av, at farið varð undir at forskatta pensjónirnar.</s>
+               <s xml:id="xsartkg5ft">Uppskot um<lb/> pensjónsnýskipan verður lagt fyri Løgtingið í seinasta lagi á heysti 2016.<lb/></s>
+            </p>
+         </div>
+
+         <div type="section" n="4" xml:id="u4neetxpdp">
+            <head rend="bold center" xml:id="egcnbzjp2q">Menningarætlan fyri Heilsuverkið</head>
+
+            <p xml:id="w4gnbztwqp">
+               <s xml:id="a4jrurszsk">Allir borgarar skulu hava javnbjóðis atgongd til heilsutænastur.</s>
+               <s xml:id="qv8kn7nhgx">Fyri at geva landsins<lb/> borgarum eina trygga og samanhangandi heilsuskipan verður ein neyv lýsing gjørd av, hvat<lb/> heilsuverkið er, hvat tað skal fevna um, og hvussu tað skal skipast.<lb/></s>
+            </p>
+
+            <p xml:id="ws3hvxwgfp">
+               <s xml:id="pjt5ypkenj">Arbeiðið við ”Visjón og menningarætlan fyri <orgName>Sjúkrahúsverk Føroya</orgName>”, sum eitt samt løgting<lb/> tók undir við í mai 2015, verður sett í verk.</s>
+               <s xml:id="thxwbdeqnn">Hetta arbeiðið skal byggja á faklig tilmæli frá<lb/> øllum avvarðandi pørtum í sjúkrahúsverkinum.</s>
+               <s xml:id="qh3r8uf6ez">Farið verður somuleiðis undir at menna<lb/> samlaða heilsuverkið, eitt nú økispsykiatri,<orgName>Gigni</orgName>, heilsudeplar, endurvenjingina,<lb/> kommunulæknatænastuna og <orgName>Fólkaheilsuráðið</orgName>.<lb/></s>
+            </p>
+
+            <p xml:id="kg683uzv7f">
+               <s xml:id="dpbgtwk3qk">Sjúkrahúsverkið má dagførast fíggjarliga, og arbeitt verður miðvíst fyri at tryggja tilgongd av<lb/> serlæknum og øðrum heilsustarvsfólki.<lb/></s>
+            </p>   
+         </div>
+
+         <div type="section" n="4" xml:id="vyuntczuwz">
+            <head rend="bold center" xml:id="jlmbjva53m">Ferð á grøna orku</head>
+
+            <p xml:id="d7vnp6vseg">
+               <s xml:id="bgcxxk5uxd">Ein miðvís ætlan fyri útbygging, umlegging, framleiðslu og nýtslu av varandi orkukeldum<lb/> verður raðfest.</s>
+               <s xml:id="war6gjg6a3">Í minst lagi helvtin av øllum sethúsum og bygningum skulu innanfyri 10 ár<lb/> hitast við grønari orku.</s>
+               <s xml:id="sqxf7tb43v">Í 2030 skal øll elorka á landi koma frá varandi orku.</s>
+               <s xml:id="wpxtkuznmx">Fyri at gagnnýta<lb/> elorkuna í yvirskoti og geva rúm fyri størri útbyggingum skal eggjasttil grøna orkunýtslu hjá<lb/><pb n="7"/>húsarhaldum, í flutningi og í vinnu.</s>
+               <s xml:id="hg5djeb4kh">Verandi stuðuls- og avgjaldsskipanirskulu umleggjasttil<lb/> tess at røkka málunum.<lb/></s>
+            </p>
+
+            <p xml:id="k23dysbwbc">
+              <s xml:id="cqceqsphcz">Allir almennir nýbygningar skulu hitast við grønari orku, og ætlan fyri orkusparing og<lb/> –umlegging gerast fyri eldri bygningar.</s>
+              <s xml:id="xxfhe94apt">Vinnumenning og útbúgvingar innan grøna tøkni og<lb/> orku skulu stimbrast.<lb/></s>
+            </p>
+         </div>
+
+         <div type="section" n="4" xml:id="bazeqt7wxw">
+            <p xml:id="nrsvevg82g">
+               <s xml:id="wcxeeu3r8g">Samgongan setir særsum mál at menna samfelagið á øllum økjum. Hesi mál er nágreiniligari<lb/> lýst í fylgiskjalinum “Mál at fremja”.<lb/></s>
+            </p>
+         </div>
+
+         <space type="vertical" quantity="1" unit="chars"/>
+
+         <closer xml:id="d8esftry2s">
+            <lb/>
+            <lb/>
+            <dateline>Tórshavn <date when="2015-09-14">14. september 2015</date></dateline>
+            <lb/>
+            <lb/>
+
+            <signed>
+               <table>
+                  <row>
+                     <cell><p rendition="#signed-item"><persName>Aksel V. Johannesen</persName></p></cell>
+                     <cell><p rendition="#signed-item"><persName><forename>Høgni</forename> <surname>Hoydal</surname></persName></p></cell>
+                     <cell><p rendition="#signed-item"><persName><forename>Poul</forename> <surname>Michelsen</surname></persName></p></cell>
+                  </row>
+                  <row>
+                     <cell><p rendition="#signed-item"><orgName>Framsókn</orgName></p></cell>
+                     <cell><p rendition="#signed-item"><orgName>Tjóðveldi</orgName></p></cell>
+                     <cell><p rendition="#signed-item"><orgName>Javnaðarflokkurin</orgName></p></cell>
+                  </row>
+               </table>
+            </signed>
+         </closer>
+      </body>
+   </text>
+</TEI>
