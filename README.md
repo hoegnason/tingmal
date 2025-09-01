@@ -9,7 +9,6 @@ Tingmál is an **unofficial** structured dataset of documents, acts, and proceed
 - [Overview](#overview)
 - [Provenance & Legal Notes](#provenance--legal-notes)
 - [License](#license)
-- [How to Cite](#how-to-cite)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 
