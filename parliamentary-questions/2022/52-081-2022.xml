@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-81/2022: Seiður í alinótum og kópur á firðunum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56477" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/81">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Seiður í alinótum og kópur á firðunum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Eru hagtøl fyri, hvussu nógvur seiður svimur í alinótunum kring landið?</item>
+            <item xml:id="q2" type="question-item">Er eftirlit við, hvussu nógv verður tikið av seiði, tá alifeløgini taka laksin?</item>
+            <item xml:id="q3" type="question-item">Eru nøkur átøk ávegis fyri at fyribyrgja, at seiðurin sleppur inn í laksanótirnar?</item>
+            <item xml:id="q4" type="question-item">Hevur tøkan av seiði í samband við laksaaling nakra ávirkan á upsastovnin?</item>
+            <item xml:id="q5" type="question-item">Eru ætlanir um at geva loyvi til skipaða og burðadygga veiðu av kópi ein part av árinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hevur javnan verið frammi, at kópur og ymisk fiskasløg svimja runt aliringarnar, har aliøkini eru.</s>
+            <s>Alifóður dregur annan fisk at aliringunum.</s>
+            <s>Nógvur fiskur svimur eisini inn í ringarnar, har føðin er.</s>
+            <s>Har fiskurin samlast, samlast kópur eisini.</s>
+          </p>
+          <p>
+            <s>Sjáldan er so nógvur kópur sæddur á firðum og flesjum í Føroyum.</s>
+            <s>Men loyvt er ikki at skjóta kóp í Føroyum.</s>
+            <s>Kópastovnurin er stórur.</s>
+            <s>Ein kópur etur nógvan fisk.</s>
+            <s>Tí kundi ein skipað og burðardygg veiða verið ein møguleiki.</s>
+          </p>
+          <p>
+            <s>Serliga smáfiskur ella seiður samlast við alibrúkini.</s>
+            <s>Tað hevur verið ført fram, at hesin seiður, sum seinni eigur at gerast partur av upsastovninum, sum verður fiskaður av okkara upsaflota manglar, tí hann doyr ella verður tikin, tá laksurin verður slaktaður.</s>
+            <s>Alarar siga, at sera ymiskt er, hvussu nógvur seiður er í nótunum.</s>
+            <s>Summir alarar hava tøl fyri, hvussu nógvur seiður verður tikin hvørt ár.</s>
+            <s>Tó spurningurin er, um skipað tøl eru um hjáveiðu.</s>
+          </p>
+          <p>
+            <s>Skilagott hevði verið at kannað, hvussu nógv samlaða talið av seiði, sum verður tikið á hvørjum ári er, og um eitt skipað og gott eftirlit er við hesum.</s>
+            <s>Og eisini at loysa avbjóðingina við kópi og hjáveiðu í samband við aling.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-04-20">20. apríl 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

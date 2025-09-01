@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-148/2021: Almennar bussleiðir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52037" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/148">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Almennar bussleiðir</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er málsetningur settur um, hvussu nógv fólk skulu nýta almennu bussleiðirnar í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Hevur príslegan í dag ávirkan á nýtsluna?</item>
+            <item xml:id="q3" type="question-item">Hvørji átøk kundi mann gjørt í stutt tíðarskeið, soleiðis at fleiri fara at nýta almennu bussleiðirnar í framtíðini?</item>
+            <item xml:id="q4" type="question-item">Er ætlanin at seta hægri príslegur til útlendsk ferðafólk í verk, nú summarið stundar til?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Bygdaleiðir hava til uppgávu at flyta borgarar trygt og bíligt í Føroyum, soleiðis at allir borgarar í landinum fáa eina javna og góða tænastu, sum tey m.a. rinda fyri gjøgnum skattin.</s>
+            <s>Tað er upplagt, at hesar tænasturnar eru góðar, tá oljuprísirnir eru methøgir, og brennievnið er sera dýrt.</s>
+          </p>
+          <p>
+            <s>Vit hava eisini sæð í nýggjari frágreiðing um Strandferðsluna, at nýtslutalið á bussleiðunum bara liggur millum 10 og $40 %$.</s>
+            <s>Tí er vert at umhugsa, um fleiri átøk kunnu gerast fyri at fáa fólk at nýta almennu bussleiðirnar meira enn í dag.</s>
+          </p>
+          <p>
+            <s>Kríggið í Evropa hevur gjørt, at prísurin á brennievni eru hækkaður sera nógv.</s>
+            <s>Tí kundi hugsast, at fleiri átøk í eitt avmarkað tíðarskeið kunnu gera, at fleiri fáa sær vanan at nýta tænastuna.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-03-17">17. mars 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

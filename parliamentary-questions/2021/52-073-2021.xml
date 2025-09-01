@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-73/2021: Verkfall og tey veikastu í samfelagnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49485" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/73">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Verkfall og tey veikastu í samfelagnum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu gongst hjá landsstýrismanninum í arbeiðinum at tryggja, at tey veikastu í samfelagnum ikki verða rakt av møguligum verkføllum í framtíðini?</item>
+            <item xml:id="q2" type="question-item">Hvørja ætlanir hevur landsstýrimaðurin fyri at koma á mál hesum viðvíkjandi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Undanfarin ár, tá verkføll hava verið á almenna arbeiðsmarknaðinum, hevur nógv verið tosað um, at vit skulu fáa skipanir, sum tryggja, at tey veikastu í samfelagnum ikki verða rakt av verkføllunum.</s>
+            <s>Undanfarni landsstýrismaðurin á økinum segði seg fara at arbeiða fyri at fáa eina semju við partarnar á arbeiðsmarknaðinum, soleiðis at tey veikastu í samfelagnum ikki verða rakt av framtíðar verkføllum.</s>
+          </p>
+          <p>
+            <s>MEGD hevur millum annað víst á, at tey høvdu ynskt, at brekøkið lá uttan fyri rakt øki, tá ið verkfall rakar samfelagið.</s>
+            <s>MEGD vísir á, at tað ikki eigur at endurtaka seg, at tey, ið búgva á stovnum og líknandi fyriskipanum verða flutt til avvarðandi at vera, at ymisku skipaninar, ið veita fólki, ið bera brek, ein nøktandi gerandisdag, verða raktar - sama við náttarvakt og at næmingar á serstovum ella serdeildum á skúlum sleppa í skúla eins og javnaldrarnir v.m.</s>
+          </p>
+          <p>
+            <s>Ynskiligt er eisini, at mest týðandi virksemi á sjúkrahúsunum v.m. ikki verður rakt av framtíðar verkføllum.</s>
+          </p>
+          <p>
+            <s>Vit skulu virða tann fría samráðingarrættin á arbeiðsmarknaðinum, men tað er tó av týdningi, at vit fáa eina semju við partarnar á arbeiðsmarknaðinum, soleiðis at tey veikastu í samfelagnum ikki verða rakt av framtíðar verkføllum.</s>
+            <s>Til undanfarin verkføll á almenna arbeiðsmarknaðinum hevur verið nevnt, at tað er í friðartíð, at slík viðurskiftir skulu koma uppá pláss, og tískil er løtan tann rætta at fáa hetta uppá pláss.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-01">1. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-19/2022: Um uppsagnir og setanir hjá Atlantsflogi undir og eftir koronu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53493" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/19">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um uppsagnir og setanir hjá Atlantsflogi undir og eftir koronu</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv starvsfólk vórðu uppsøgd í tíðini við niðurgongd í flogferðsluni og stongsli vegna koronu? Ávikavist flogskiparar, flogternur, flogmekanikarar o.s.fr.</item>
+            <item xml:id="q2" type="question-item">Vóru uppsagnirnar av flogskiparum og øðrum grundaðar á koronu eina og harav avleiddari niðurgongd í virkseminum hjá Atlansflogi?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógvir av uppsøgdu flogskiparunum eru settir aftur í starv hjá felagnum, og hvussu mong úr øðrum starvsbólkum? Og hvussu mong hava enn ikki fingið starv aftur hjá felagnum?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógvir flogskiparar eru settir aftur í starv við somu lønartreytum og starvsaldri, sum áðrenn uppsøgnina og hvussu nógvir eftir nýggjum og møguliga verri treytum enn teimum, sum vóru galdandi undan uppsøgnini?</item>
+            <item xml:id="q5" type="question-item">Hvussu mong av teimum, sum ikki hava fingið starvið aftur, eru núverandi ella fyrrverandi nevndarlimir í fakfelag hjá flogskiparum ella í øðrum fakfeløgum?</item>
+            <item xml:id="q6" type="question-item">Hvussu nógvir flogskiparar, sum ikki høvdu starv hjá Atlantsflogi innan koronukreppuna, eru nú settir í starv hjá felagnum? Og hvussu mong í øðrum starvsbólkum?</item>
+            <item xml:id="q7" type="question-item">Ætlar felagið at bjóða øllum starvsfólkunum, herundir flogskiparum, sum vórðu uppsøgd í tíðini við niðurgongd orsakað av koronu, starv aftur í felagnum, tá virksemið er komið aftur á hædd við støðuna innan koronu?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er sera gleðiligt, at tað nú aftur gongur væl hjá tjóðarflogfelag okkara, Atlantsflogi.</s>
+            <s>Nú verður lýst eftir starvsfólki.</s>
+            <s>Ógvusliga niðurgongdin í flogferðsluni orsakað av koronu rakti starvsfólkini og felagið meint, og hópin av starvsfólki vórðu søgd úr starvi.</s>
+            <s>Teirra millum starvsfólk, við drúgvum royndum, sum hava verið hjartað í felagnum og verið við til at ment Atlantsflog til tað, tað er í dag.</s>
+          </p>
+          <p>
+            <s>Í desember 2020 játtaði Løgtingið at seta 100 mió. kr. í felagið til tess at bera tað ígjøgnum koronukreppuna.</s>
+            <s>Undir viðgerðini varð víst á, at tá ferð aftur fór at koma á virksemið hjá felagnum, varð væntað, at uppsøgdu starvsfólkini komu aftur í starv.</s>
+            <s>Spurningarnir verða settir fyri at fáa fram í hvønn mun tey nógvu starvsfólkini, teirra millum flogskiparar, ið mistu starv sítt undir koronukreppuni, hava fingið møguleikan at koma aftur í starv.</s>
+          </p>
+          <p>
+            <s>Fakfeløg eru ein týdningarmikil trygd fyri starvsfólk, og tí er avgerandi, at starvsfólk, ið eru virkin í fakfelagsarbeiði, eru væl vard.</s>
+            <s>Tí verður eisini spurt um starvsfólk, sum hava verið virkin í fakfelagsarbeiði.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-25">25. august 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

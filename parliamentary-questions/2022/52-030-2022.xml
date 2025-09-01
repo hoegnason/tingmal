@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-30/2022: Meirvirðisgjald og virðisgjald á ravmagns- og vetnisbilum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53771" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/30">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Meirvirðisgjald og virðisgjald á ravmagns- og vetnisbilum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin ætlanir um at leingja skipanina við frítøku av mvg og virðisgjaldi á ravmagns- og vetnisbilum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í fleiri ár hava ymisk løgting valt, at akfør, sum bara nýta ravmagn ella vetni til framdrift, skulu sleppa undan at rinda virðisgjald (skrásetingargjald) og undan øllum ella størsta partinum av meirvirðisgjaldinum.</s>
+          </p>
+          <p>
+            <s>Endamálið við avgjaldsfrítøkunum hevur verið og er framvegis at eggja fólki til at keypa el-bilar, so vit sum samfelag kunnu sleppa undan dálkandi og kostnaðarmiklu oljuni.</s>
+          </p>
+          <p>
+            <s>Tað hevur leingi gingið nokk so striltið at fáa fólk at leggja um til el-bilar.</s>
+            <s>Hetta er tó broytt í seinastuni.</s>
+            <s>Higartil í 2022 hava føroyingar keypt fleiri enn 300 el-bilar.</s>
+            <s>Orsakirnar eru helst fleiri.</s>
+            <s>Útboðið av el-bilum er vaksið munandi.</s>
+            <s>Við avgjaldsfrítøkuni eru prísirnir nú kappingarførir.</s>
+            <s>Og so spæla ógvusligu príshækkingarnar á bensin og diesel uttan iva eisini inn, tí el-bilar eru munandi bíligari í rakstri.</s>
+          </p>
+          <p>
+            <s>Verandi lóggáva, har el-bilar sleppa undan virðisgjaldinum, fer úr gildi 31. desember í ár, og frá 1. januar komandi fáa el-bilar bara helvtina av meirvirðisgjaldinum endurgoldið.</s>
+            <s>Hesar broytingar hava við sær, at ein miðal el-bilur, sum kostar 300.000 kr. nú, kemur at kosta áleið 450.000 krónur í 2023.</s>
+          </p>
+          <p>
+            <s>Vaksandi eftirspurningurin eftir el-bilum hevur við sær, at latingartíðin av el-bilum er long.</s>
+            <s>Spyrjarin veit um fleiri dømi, har fólk, sum hava bílagt el-bil fyri langari tíð síðan, ikki fáa bilin fyrr enn eftir 1. januar.</s>
+          </p>
+          <p>
+            <s>Um avgjaldsfrítøkan ikki verður longd, so verða el-bilarnir munandi dýrari, og er tað ein ítøkiligur vandi fyri, at fólk koma at avlýsa bíleggingina av el-bilunum, og sølan av el-bilum steðgar fullkomiliga upp.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-09-13">13. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

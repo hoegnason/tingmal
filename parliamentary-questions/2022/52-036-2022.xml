@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-36/2022: Um skattamál viðvíkjandi Samherja</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53813" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/36">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um skattamál viðvíkjandi Samherja</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat er hent í málinum um skatt hjá útlendska reiðarínum Samherja, har føroysk feløg og FAS-skipanin vórðu brúkt til at sleppa undan skatti uppá 17 mió. krónur?</item>
+            <item xml:id="q2" type="question-item">Hvør er órættaður, og er endurgjald goldið til órættaðar partar?</item>
+            <item xml:id="q3" type="question-item">Hvør revsing er framd mótvegis reiðarínum fyri at bróta skattalógina?</item>
+            <item xml:id="q4" type="question-item">Finst dømi um nakran vanligan borgara, sum ikki verður revsaður, tá ið tað er staðfest, at tey hava brotið skattalógina?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í mars mánað 2021 varð staðfest alment, at útlendska reiðaríið Samherji hevði brúkt føroysku skattaskipanina og FAS-skipanina at gjalda sjófólki í Namibia hýru, og hevði harvið fingið skattaafturbering av órøttum fyri 17 mió. kr.</s>
+          </p>
+          <p>
+            <s>Nú hálvt annað ár eftir, er onki frætt um nakra revsing.</s>
+            <s>Tí verður landsstýrismaðurin biðin um at greiða Løgtinginum frá, hvat er hent í málinum.</s>
+          </p>
+          <p>
+            <s>Undirritaði setti tann 7. september 2022 landsstýrismanninum somu spurningar sum teir omanfyri, men tá sum munnligan fyrispurning eftir § 52 í Tingskipanini.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin svaraði tá frá tingsins røðarapalli, at hetta eru spurningar, sum hann ikki kann svara uppá, tí at § 151 í skattalógini forbjóðar honum innlit í slíkt, sum spurt varð um, og at hann tí als ikki fekk svarað hesum fyrispurningi.</s>
+          </p>
+          <p>
+            <s>Undirritaði gjørdi tá greitt, at hann hevði fulla virðing fyri, at landsstýrismaðurin er forðaður í at fara inn í einstøk skattamál, men at hann hevði ilt við at góðtaka svarið um, at landsstýrismaðurin ikki kann biðja um upplýsingar frá TAKS um, hvar hetta málið liggur, ella at biðja embætisfólkini spyrja ákæruvaldið.</s>
+          </p>
+          <p>
+            <s>Undirritaði gjørdi síðani greitt, at hann eisini fór at seta fyrispurningin til landsstýrismannin skrivliga.</s>
+            <s>Landsstýrismaðurin segði eisini, at undirritaði kundi seta spurningin skrivliga, fyri at fáa tað svarið, sum er møguligt at fáa tann vegin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-09-16">16. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

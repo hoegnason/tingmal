@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-199/2021: Familjur og børn sum liva í fátækt ella fátækraváða</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53089" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/199">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit Nolsøe, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Familjur og børn sum liva í fátækt ella fátækraváða</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stór inntøka krevst hjá einum húsarhaldi, fyri at hava nóg nógv at liva fyri við dagsins hækkandi prísstøði?</item>
+            <item xml:id="q2" type="question-item">Nær verður ein familja ella persónur mettur at liva á ella undir fátækramarkinum?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógvar familjur og persónar í Føroyum kunnu í løtuni metast at liva í fátækt ella í fátækraváða, og hvussu mong børn teljast millum hesi?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógvar familjur og persónar metir landsstýrismaðurin hava tørv á bráðfeingis ella varandi fíggjarligum stuðli fyri at kunna liva eitt sømiligt lív?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Prísstøðið hækkar skjótt og ógvusliga.</s>
+            <s>Á mati, gerandisvørum, klæðum, olju, bensini o.s.fr.</s>
+            <s>Samstundis er prísurin á býli hægri enn nakrantíð.</s>
+          </p>
+          <p>
+            <s>Hvussu nógvur peningur, sum í minsta lagi skal til hjá einum húsarhaldi fyri at kunna hava sámilig lívskor, er alneyðug vitan hjá politiska myndugleikanum, skal nakað munagott gerast við støðuna.</s>
+          </p>
+          <p>
+            <s>Í 2014 fekk táverandi landsstýrismaður í almannamálum handað álitið "Eitt føroyskt fátækramark".</s>
+            <s>Har varð ásett, hvat eitt nú ein stakur uppihaldari við børnum, ein familja við fleiri børnum og so frameftir kravdi at hava tøkt av inntøkuni fyri at kunna liva eitt nøkulunda vanligt lív.</s>
+            <s>Í álitinum varð eisini m.a. víst á, at stakir uppihaldarar eru í størstum vanda fyri at gerast fátøk, og at hetta fátækradømi kann fáa stórar avleiðingar fyri børnini: "At vera fátækur í longri tíð er tað, sum kann hava álvarsligar avleiðingar fyri tann einstaka og ta einstøku familjuna, og fyri at koma undir fátækramarkið, skal inntøkan hava verið lægri enn 60 prosent av miðinntøkuni í 3 ár á rað.</s>
+            <s>Men nýggjasta granskingin um fátækradømi vísir, at fyri børn kann eisini stutttíðar fátækradømi fáa neilig árin seinni í lívinum.</s>
+            <s>Tí eigur áhaldandi dentur at verða lagdur á fátøk børn - eisini stutttíðar fátækradømi hjá børnum."</s>
+          </p>
+          <p>
+            <s>Barnafamiljur, fyritíðarpensjonistar og pensjonistar, sum einans hava lægstu veitingarnar at liva av, eru í størri fátækraváða, nú prísstøðið hækkar munandi.</s>
+            <s>Spurningarnir verða settir fyri at fáa fram, hvussu mong í landinum nú kunnu metast at vera fátøk ella gerast fátøk.</s>
+            <s>Hetta eru upplýsingar, myndugleikarnir vónandi hava til taks sum grundarlag undir einum neyðugum arbeiði við hjálp til fíggjarliga sperdar og neyðstaddar familjur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2022-05-24">24.maj 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-93/2021: Hvítting av pengum gjøgnum føroyskar fyritøkur og bankar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49842" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/93">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Hvítting av pengum gjøgnum føroyskar fyritøkur og bankar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Veit landsstýrismaðurin, um fleiri dømi eru um, at útlendskar fyritøkur ella persónar hava hvítvaskað pening ígjøgnum fyritøkur, skrásettar í Føroyum, og ígjøgnum føroysku bankarnar?</item>
+            <item xml:id="q2" type="question-item">Fáa føroyskir myndugleikar fráboðan frá donsku eftirlitsmyndugleikunum um tey mál, har talan er um svik ella hvítvasking av pengum, har Føroyar so ella so verða brúktar til endamálið?</item>
+            <item xml:id="q3" type="question-item">Fáa føroyskir myndugleikar yvirlit yvir, hvørjar fyritøkur ella persónar, skrásett ella búgvandi í Føroyum, ið eru partar av hvítvasking av pengum ella øðrum fíggjarligum kriminaliteti?</item>
+            <item xml:id="q4" type="question-item">Er ætlanin at kanna vavið á hvítvaski ella øðrum fíggjarligum kriminaliteti í Føroyum og gera nakað við trupulleikan?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>KVF bar í gjár tíðindini um eitt mál, har ógvusligar mongdir av pengum eru hvítvaskaðar gjøgnum eitt føroyskt skrásett felag og gjøgnum føroyskan banka.</s>
+            <s>Í hesum føri var talan um mál knýtt at sonevnda "Kongoráninum", har 100 milliónir krónur, stolnar frá fólkinum í Kongo, eru fluttar til Føroya.</s>
+          </p>
+          <p>
+            <s>Áður hava vit frætt um fyritøkur, sum brúktu føroyskar skipanir til skattaundandrátt og svik.</s>
+            <s>Í gjár boðaði Bank Nordik frá, at bankin í 2020 fráboðaði heili 176 mál til SØIK (Statsadvokaten for Særlig Økonomisk og International Kriminalitet), og at tað í danska peningastovnsgeiranum vórðu samanlagt meira enn 60.000 mál fráboðað.</s>
+          </p>
+          <p>
+            <s>Føroysku bankarnir virka undir danskari lóggávu, og eftir somu krøvum og fráboðanarskyldum um hvítvask v.m., sum danskir bankar.</s>
+            <s>Føroyskar fyritøkur eru fevndar av løgtingslóg um fyribyrgjandi tiltøk ímóti hvítvaski og fígging av yvirgangi.</s>
+          </p>
+          <p>
+            <s>Spurningarnir verða settir fyri at fáa fram, í hvønn mun føroyskir myndugleikar hava innlit í og kunning um tey mál har fyritøkur, skrásettar í Føroyum, og føroyskir bankar eru partar av. Og í hvønn mun ætlanin er at gera nakað við trupulleikan.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-23">23. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

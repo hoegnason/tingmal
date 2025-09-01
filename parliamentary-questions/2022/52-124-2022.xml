@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-124/2022: Dálking tá borað verður fyri jarðhita</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57042" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/124">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm, <roleName>landsstýrismaður í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Dálking tá borað verður fyri jarðhita</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Metir landsstýrismaðurin treytirnar fyri at bora fyri jarðhita vera nøktandi?</item>
+            <item xml:id="q2" type="question-item">Verða kanningar gjørdar av, hvørja ávirkan dálkingin av at bora jarðhitahol hevur á áarlívið í Føroyum?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýrismaðurin upplýsa, hví vatn frá jarðhitaboringum rennur út í áirnar?</item>
+            <item xml:id="q4" type="question-item">Kann landsstýrismaðurin upplýsa, um Umhvørvisstovan saman við kommununum hevur ætlanir at skipa hetta betur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Serliga nú, tá lítið vatn er í áunum, sæst týðiliga, hvussu nógv boringin av jarðhitaholum dálkar áarlívið.</s>
+          </p>
+          <p>
+            <s>Eyðgleiðingar hesar seinastu vikurnar vísa, at áin oman gjøgnum Miðvág er brún av grótgrúsi, tá borað verður í býlingum í bygdini.</s>
+            <s>Grúsið leggur seg á botnin í ánni, men tá meira vatn er í henni, rennur hetta helst út á sjógv.</s>
+          </p>
+          <p>
+            <s>Hetta er neyvan eindømi í Føroyum.</s>
+            <s>Tað, sum er ein góð grøn umlegging, skal helst ikki gerast ein staðbundin náttúrudálking um somu tíð.</s>
+          </p>
+          <p>
+            <s>Tað er Umhvørvisstovan saman við kommununum, sum gevur loyvi til hesar boringar.</s>
+            <s>Fyri at fáa at vita, um treytirnar eru í lagi í ymsu økjunum í Føroyum, og fyri at fáa at vita, hvørja ávirkan boringarnar hava á náttúru og lívið í áum og sjógvi, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-15">15. juni 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-15/2021: Hellutangi vesturi á Víkum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48291" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/15">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Hellutangi vesturi á Víkum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar verða umhvørvisligu avleiðingarnar av, at Hellutangi í longri tíð liggur vesturi á Víkum, og hvussu verður syrgt fyri, at tær verða avmarkaðar?</item>
+            <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin, at økið vesturi á Víkum er vælegnað til aling?</item>
+            <item xml:id="q3" type="question-item">Eru ætlanir um at tryggja, at tilbúgvingarætlan fylgir við umhvørvisgóðkenningum til aling o.a. virksemi, ið kann hava avleiðingar fyri náttúruøkir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Enn er ongin náttúrufriðingarlóg ella lendisætlan um, hvørji øki í Føroyum skulu varðveitast uttan at verða ávirkað av menniskjahond - eitt nú hvat skal vera ídnaðarøki og hvat skal vera friðað.</s>
+            <s>Áðrenn aliloyvið varð givið við umhvørvisgóðkenning vesturi á Víkum, heittu borgarar saman við Føroya Náttúru- og Umhvørvisfelag á Yvirfriðingarnevndina at friða alt økið vesturi á Víkum.</s>
+            <s>Hetta er eitt øki, har Fjallavatn og økið uttan um vatnið longu er friðað.</s>
+            <s>Tó høvdu felagið og borgararnir ikki rætt at verða hoyrd í málinum.</s>
+          </p>
+          <p>
+            <s>Men aliloyvið varð givið við umhvørvisgóðkenning.</s>
+            <s>Reglur eru í umhvørvisgóðkenningini um krøv, ið skulu lúkast, um óhapp er.</s>
+            <s>Tó er onki krav um tilbúgvingarætlan.</s>
+          </p>
+          <p>
+            <s>Tann 5. apríl í ár sleit fóðurflakin vesturi á Víkum seg leysan og rak á land.</s>
+            <s>Har hevur Hellutangi ligið síðan.</s>
+            <s>Fleiri royndir hava verið gjørdar at draga Hellutanga leysan, men enn er ongin roynd eydnast.</s>
+            <s>Nú hoyra vit, at Hellutangi verður liggjandi í allan vetur, og at ætlanin møguliga er at flyta hann í pettum.</s>
+            <s>Tað kann hugsast, at tað fær avleiðingar fyri umhvørvið vesturi á Víkum.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-09">9. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

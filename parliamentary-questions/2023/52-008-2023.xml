@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-8/2023: Gomlu vindmyllurnar hjá SEV</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57320" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/8">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>landsstýriskvinna í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gomlu vindmyllurnar hjá SEV</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvaðani hevði landsstýriskvinnan upplýsingarnar, sum hon gav Løgtinginum tann 3. mai í ár, í svari uppá skrivligan fyrispurning frá undirritaða, har sagt varð, at átøk eru gjørd fyri at minka um sannlíkindini fyri, at trupulleikar verða við gomlu vindmyllunum hjá SEV, og at ongar ábendingar eru um, at tillagingarnar ikki virka eftir ætlan?</item>
+            <item xml:id="q2" type="question-item">Metir landsstýriskvinnan framvegis, at svarið sum hon gav, var rætt?</item>
+            <item xml:id="q3" type="question-item">Metir landsstýriskvinnan, at gomlu vindmyllurnar hjá SEV eru í góðum standi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tann 12. apríl í ár setti undirritaði landsstýriskvinnuni við umhvørvismálum ein skrivligan fyrispurning um støðuna viðvíkjandi vindorku, SS-005/2022.</s>
+            <s>Í viðmerkingunum til fyrispurningin varð víst á, at tað hevði ljóðað, at fleiri av teimum gomlu myllunum hjá SEV annaðhvørt vóru steðgaðar ella vóru í ferð við at steðga, tí tær vóru í so vánaligum standi.</s>
+            <s>Spurt varð tí, um roknast kundi við, at fleiri myllur fóru at steðga tey næstu árini orsakað av, at tær vóru í ringum standi.</s>
+          </p>
+          <p>
+            <s>Landsstýriskvinnan svaraði fyrispurninginum tann 3 mai.</s>
+            <s>Hon segði, at átøk eru gjørd, sum skulu forða fyri, at fleiri av myllunum blíva í ólagi, og at ongar ábendingar eru um, at tillagingarnar ikki virka eftir ætlan.</s>
+          </p>
+          <p>
+            <s>Men tann 15. juni 2023 segði deildarstjórin hjá SEV við Kringvarpið, at flestu myllurnar í Neshaga standa stillar, og at ivasamt er, um nakað verður gjørt við tær, tí tað loysir seg ikki.</s>
+          </p>
+          <p>
+            <s>Her tykist ikki vera samsvar millum tað, sum landsstýriskvinnan upplýsti fyri Løgtinginum, og tað, sum SEV segði nakrar vikur seinni.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-08-22">22. august 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

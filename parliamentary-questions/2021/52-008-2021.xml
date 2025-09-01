@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-8/2021: Útreiðslur til rehabilitering á almannaøkinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48243" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/8">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Útreiðslur til rehabilitering á almannaøkinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stórar vórðu samlaðu útreiðslurnar til rehabilitering á almannaøkinum, t.v.s. til endurvenjing og endurmenning - í 2018, 2019, 2020 og játtan 2021?</item>
+            <item xml:id="q2" type="question-item">Hvussu vórðu útreiðslurnar býttar á málbólkar ella slag av sjúkum hetta sama tíðarskeiðið?</item>
+            <item xml:id="q3" type="question-item">Hvussu stóra játtan er ætlanin at seta av á fíggjarlógini til rehabilitering í 2022 og 2023?</item>
+            <item xml:id="q4" type="question-item">Kann landsstýrismaðurin geva eina stutta frágreiðing um, hvussu innihaldið í samstarvinum millum almannaøkið og kommunurnar um rehabilitering er skipað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru nógvir føroyingar, sum hava tørv á rehabilitering.</s>
+            <s>Rehabilitering byggir á ta fortreyt, at talan er um viðgerð í longri tíðarskeIð.</s>
+            <s>Sjúkralegur í styttri tíðarskeIð krevja ikki tað sama av avvarðandi, arbeiðsbyrða og familjulív - ein læknafaklig meting.</s>
+          </p>
+          <p>
+            <s>Rehabilitering fyrigongur bæði á heilsuøkinum og almannaøkinum, og tí hevur landsstýrismaðurin í heilsumálum fingið ein fyrispurning um sama evni.</s>
+          </p>
+          <p>
+            <s>Tað er trupult í løtuni neyvt at lýsa, hvør fíggjarlig orka verður brúkt ella er markað til rehabilitering í Føroyum, t.d. býtt á málbólkar og sjúkuslag.</s>
+          </p>
+          <p>
+            <s>Tað er altavgerandi at vita, hvør fíggjarlig orka verður brúkt upp á verandi skipanir, hvussu vit raðfesta avmarkaðu fíggjarligu orkuna og ikki minst, um tørvur er á at umraðfesta og umskipa rehabiliteringsøkið - við borgaranum í fokus.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-04">4. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

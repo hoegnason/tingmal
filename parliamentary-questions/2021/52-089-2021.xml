@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-89/2021: Gjald fyri koronukanningar við markið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49735" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/89">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gjald fyri koronukanningar við markið</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hví eru koronukanningar av ókoppsettum ferðandi við markið ókeypis ?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv væntar løgmaður, at kostnaðurin hjá landskassanum fyri hesar koronukanningarnar fer at verða?</item>
+            <item xml:id="q3" type="question-item">Er ætlanin at leggja uppskot fyri Løgtingið um, at øll ferðafólk, koppsett sum ókoppsett, skulu rinda fyri koronukanningar við markið á sama hátt, sum tað áður var galdandi?</item>
+            <item xml:id="q4" type="question-item">Um ikki, hvør er orsókin til hesa støðutakan ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Koronukanningar eru aftur settar í gildi við landamarkið eftir boðum frá farsóttarnevndini.</s>
+            <s>M.a. skulu fólk, sum ikki eru koppsett, ella ikki eru liðugt koppsett, kannast fyri koronu við markið, og tann kanningin er ókeypis.</s>
+          </p>
+          <p>
+            <s>Løgtingið hevur áður samtykt, at ferðafólk sjálvi skuldu rinda fyri koronukanningar við markið, men tann skipanin er ikki í gildi longur.</s>
+            <s>Hetta spardi føroyska skattgjaldaranum nógvar milliónir.</s>
+          </p>
+          <p>
+            <s>Tí kann tað tykjast undranarvert, at kanningin av ókoppsettum ferðandi nú er ókeypis, at skattgjaldarin skal rinda fyri hetta, meðan tey koppsettu ferðandi sjálvi skulu rinda, um tey ynskja at verða kannað við komu til landið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-16">16. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

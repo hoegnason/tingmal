@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-205/2021: Ættleiðing av føroyingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53121" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/205">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ættleiðing av føroyingum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir føroyingar eru ættleiddir av føroyingum frá tí, at slíkar upplýsingar eru skrásettar til í dag?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvir føroyingar eru burturættleiddir til eitt annað land sama tíðarskeiðið?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógvir føroyingar eru endaðir í fosturforeldraskipanini ella líknandi skipan sama tíðarskeiðið?</item>
+            <item xml:id="q4" type="question-item">Hvussu sær hendan gongdin út í tølum býtt á hvørt einstakt ár frá tí, at slíkar upplýsingar eru skrásettar til í dag býtt á hesar bólkar: føroyingar ættleiddir av føroyingum, føroyingar burturættleiddir til annað land og føroyingar endaðir í fosturforeldraskipanini?</item>
+            <item xml:id="q5" type="question-item">Hvørjar eru høvuðsforðingarnar fyri, at føroyingar ættleiða føroyingar undir galdandi skipan á økinum?</item>
+            <item xml:id="q6" type="question-item">Heldur landsstýrismaðurin, at møguleikarnir fyri at føroyingar ættleiða føroyingar eru nóg góðir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Teir fyrstu spurningarnir skulu fáa greiðu á, hvussu ofta tað kemur fyri, at føroyingar ættleiða føroyingar.</s>
+            <s>Tað at ættleiða og burturættleiða er sárbært, men hendan loysnin kann broyta lagnurnar hjá børnum í truplum umstøðum til tað betra.</s>
+          </p>
+          <p>
+            <s>Tað eru í høvuðsheitinum tveir møguleikar at lofta børnum, sum eru umsorgarnarsvikin ella av aðrari orsøk ikki kunnu vera hjá sínum biologisku foreldrum.</s>
+            <s>Tað er við fosturforeldraskipanini ella við ættleiðing.</s>
+            <s>Børn, sum verða tikin til fosturs, hava eitt bakland, til tey eru 18 ára gomul.</s>
+            <s>Møgulig undantøk kunnu leingja hetta tíðarskeidið til tey eru 23 ár.</s>
+            <s>Ættleiðing er hinvegin ein langtíðarloysn, ið varir alt lívið hjá barninum.</s>
+          </p>
+          <p>
+            <s>Harafturat er ættleiðing eitt alternativ til fosturtøku.</s>
+            <s>Fleiri mammur og pápar umhugsa og velja fosturtøku av ymsum orsøkum.</s>
+            <s>28 fosturtøkur vórðu framdar í Føroyum í 2020.</s>
+            <s>Um føroyingar høvdu eina góða ættleiðingarskipan, kann hugsast, at foreldur í truplum umstøðum valdu hendan møguleikan framum fosturtøku, ið hevur stórar avleiðingar við sær.</s>
+            <s>Samstundis hava vit hjún í Føroyum, ið hava trupult við at fáa børn.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-05-30">30. mai 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-216/2021: Kapellið á Landssjúkrahúsinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53203" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/216">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Kapellið á Landssjúkrahúsinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er orsøkin til, at kapellið á Landssjúkrahúsinum ikki er tøkt í løtuni?</item>
+            <item xml:id="q2" type="question-item">Nær kann roknast við, at kapellið aftur kann brúkast sum kapell?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sum skilst er kapellið á Landssjúkrahúsinum ikki tøkt í løtuni.</s>
+            <s>Kapellið hevur eina sera týdningamikla funktión.</s>
+            <s>Nógv flest fólk fara foldum frá á sjúkrahúsunum, og tað er partur av jarðarferðini, at tey nærmastu kunnu fara í kapellið, áðrenn farið verður til sjálva jarðarferðina.</s>
+          </p>
+          <p>
+            <s>Landssjúkrahúsið er meginsjúkrahús, og fólk úr øllum landinum doyggja eisini har.</s>
+            <s>Tá hevur verið vanligt, at farið varð úr kapellinum, áðrenn farið varð víðari til heimbygdina hjá viðkomandi at halda sjálva jarðarferðina.</s>
+            <s>Hetta hevur givið mongum møguleika at luttaka og siga farvæl har.</s>
+          </p>
+          <p>
+            <s>Fyri familju og avvarðandi er løtan í kapellinum sera týdningarmikil og partur av eini virðiligari samkomu, sum eisini hevur stóran týdning fyri eftirtíðina, bæði andaliga og eksistensielt.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2022-06-20">20. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

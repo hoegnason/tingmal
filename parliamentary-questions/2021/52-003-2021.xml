@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-3/2021: Suðuroyartunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48221" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/3">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Suðuroyartunnilin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær ætlar landsstýrismaðurin at kalla inn til fundar um politiskar semju um Suðuroyartunnilin?</item>
+            <item xml:id="q2" type="question-item">Hvussu gongur við undankanningunum til Suðuroyartunnilin, og nær eru tær lidnar?</item>
+            <item xml:id="q3" type="question-item">Nær kann væntast at klárt er at bora?</item>
+            <item xml:id="q4" type="question-item">Er ætlanin framvegis, at peningur fyrst skal játtast frá 2025?</item>
+            <item xml:id="q5" type="question-item">Kemur ætlanin, at tað skal vera koyrandi í 2030 at halda?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sum skilst gongur væl at bora Sandoyartunnilin, og skotið verður møguliga ígjøgnum seinni í ár.</s>
+            <s>Fyrireikingar verða í løtuni gjørdar til Suðuroyartunnilin, og enn eru hesar ikki lidnar.</s>
+            <s>Tað er upplýst fyri Løgtinginum, at fyrstu játtanirnar til Suðuroyartunnilin verða latnar í 2025.</s>
+            <s>Tað er eisini upplýst, at tað tekur millum 7-9 ár at gera Suðuroyartunnilin, og at hetta er aftaná fyrireikingar, undankanningar og projekteringar eru gjørdar.</s>
+            <s>Tískil er spyrjarin stúrin, um tað fer at bera til at halda málið um, at tað skal vera koyrandi til Suðuroynna í 2030.</s>
+            <s>Landsstýrismaðurin hevur fyrr upplýst, at hann ætlar at kalla politisku flokkarnar á fund um Suðuroyartunnilin.</s>
+            <s>Enn er eftir at finna politisku semjurnar um fígging, linjuføring, standardar, partafelag o.a. Fyri at tryggja at gongd er í málinum, og at tíðarætlanin kemur at halda, verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-02">2. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

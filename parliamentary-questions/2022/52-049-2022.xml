@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-49/2022: Samkynd og Føroya «grundlóg»</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/54227" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/49">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Samkynd og Føroya «grundlóg»</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er tað rætt, sum landsstýrismaðurin í uttanríkis- og mentamálum, Jenis av Rana, sigur, at tað stríðir ímóti føroysku “grundlógini” at liva sum samkyndur?</item>
+            <item xml:id="q2" type="question-item">Er løgmaður samdur í útsøgnini hjá landsstýrismanninum í uttanríkis- og mentamálum?</item>
+            <item xml:id="q3" type="question-item">Um nei, ætlar løgmaður, at hetta fær naknar avleiðingar fyri landsstýrismannin í uttanríkis- og mentamálum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Okkara landsstýrismaður í uttanríkis- og mentamálum segði hesi orðini í Andglettinum í Kringvarpinum í gjár: «Tað at liva sum sokallaður homosexuellur, tað er í stríð ímóti tí grundlóg, sum eg persónliga havi, og sum Miðflokkurin hevur, og sum eg eisini haldi, at Føroyar hava»</s>
+          </p>
+          <p>
+            <s>Løgmaður hevur evstu ábyrgd av førda politikkinum hjá landsstýrinum.</s>
+            <s>Tað er eisini løgmaður, sum hevur ábyrgd av, at landsstýrisfólk umboða Føroyar á virðiligan hátt.</s>
+            <s>Um tey ikki gera tað, hevur løgmaður fullan rætt og heimild at taka avgerð um, at hetta fær avleiðingar fyri landsstýrisfólk.</s>
+          </p>
+          <p>
+            <s>Ein landsstýrismaður í uttanríkismálum er andlitið úteftir hjá landsstýrinum, og tí myndar hann serliga stóran part av landsstýrinum.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir fyrispurningarnir sett.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-10-26">26. oktober 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

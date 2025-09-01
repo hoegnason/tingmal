@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-181/2021: Fróðskaparsetrið og kampusætlan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52760" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/181">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fróðskaparsetrið og kampusætlan</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær kann væntast, at farið verður undir at byggja kampus á Frælsinum?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv verður eitt kampus á Frælsinum mett at kosta at byggja?</item>
+            <item xml:id="q3" type="question-item">Metir landsstýrismaðurin, at avsettu upphæddirnar á fíggjarlógini fyri ætlanarárini 2023 og 2024 eru nøktandi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Samstarvsavtala er gjørd millum Mentamálaráðið og Tórshavnar kommunu um at staðseta eitt komandi kampus ímillum J.C. Svabosgøtu og Frælsið í Havn.</s>
+            <s>Samstarvsavtalan fevnir um bygningarnar á Frælsinum og um broytingar í byggisamtyktum.</s>
+            <s>Hetta síðsta er eitt arbeiði, sum Tórshavnar kommuna skal standa fyri.</s>
+          </p>
+          <p>
+            <s>Um dagarnar frættist eisini, at ein arkitektakapping skal gerast um eitt kampus á Fræsinum, umframt at ein byggiskrá skal gerast.</s>
+            <s>Tað er landið, sum stendur fyri hesum arbeiði, og eru 5 mió. kr. játtaðar til hetta arbeiðið á fíggjarlógini fyri 2022, meðan ávikavist 12 mió. kr. og 32 mió. kr. eru settar á fyri ætlanarárini 2023 og 2024.</s>
+          </p>
+          <p>
+            <s>Tað sum er áhugavert at vita er, um tað veruliga arbeiðið kann fara í gongd í 2023 og um nøktandi peningur verður settur av til hesa bygging á fíggjarlógini.</s>
+            <s>Tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-26">26. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-85/2023: Ítróttafaklig útbúgving í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/59970" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/85">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni N. Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ítróttafaklig útbúgving í Føroyum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin, at tað kundi verið áhugavert at byrjað eina ítróttafakliga úrbúgving í Føroyum – á Fróðskaparsetri Føroya?</item>
+            <item xml:id="q2" type="question-item">Verður arbeitt við at seta á stovn slíka ítróttafakliga útbúgving í Føroyum? Um ja, nær kundi ein tílík byrjað?</item>
+            <item xml:id="q3" type="question-item">Hvør hevði kostnaðurin verið fyri at reka eina ítróttaútbúgving av slíkum slagi, og kundi figging fingist til vegar frá ymsum pørtum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ítróttur er sera týdningarmikil partur av føroyska samfelagnum og samleikanum.</s>
+            <s>Ítróttur bindur øki og fólkið alt saman, bæði so øll kunnu vera við frá barnsbeini til ellisár, men eisini tá okkara elituítróttafólk fara út í heim at kappast - sum einstaklingar ella sum lið.</s>
+            <s>Her vantar tó, at vit fáa møguleikan at luttaka í Olympiskum Leikum undir Merkinum.</s>
+            <s>Men vit gleða okkum nógv til at kunna hýsa Oyggjaleikunum í 2027.</s>
+            <s>Tað er alment kent, at ítróttur er gagnligur fyri likam og sál, og neyvari vitan um heilsu og ítróttabrøgd koma fyri dagin javnt og samt, eisini tí at slík gransking verður framd í og út frá Føroyum við føroyskum granskarum og granskingarhjálparum.</s>
+            <s>Skúlar gera nógv við ítrótt, ítróttaháskúli er komin, og ítróttafeløgini og sambondini gera eitt alsamt størri arbeiði fyri børn og ung, kvinnur og menn og fyri eldri, í eldhuganum at fremja júst teirra ítróttagrein og at stimbra heilsuna hjá føroyingum og ikki minst at stimbra felagskensluna og samleikan.</s>
+            <s>Deildin fyri heilsu- og sjúkrarøktarvísindi grundað á góðu føroysku útbúgvingina í sjúkrarøktarfrøði og víðkað til at hýsa eini MA-útbúgving í heilsuvísindum er veruleiki, og leingi hevur føroyskur granskari eisini granskað í ítróttafrøði: heilsugagn av ítrótti, úthaldni, vøddar o.s.fr.</s>
+            <s>Fróðskaparsetur Føroya hevur eisini gjørt avtalu við Kommunufelagið um gransking og nýmenning innan hetta øki, og við Tórshavnar kommunu um ein ítróttafakligan vitanardepil knýttan at komandi Stórhøllini, ið rúmar ætlanum um gransking, venjingarsamstørv, har regluligar ph.d-verkætlanir skulu bjóðast, eins og royndarstova skal skipast o.a.</s>
+            <s>Okkara alra Ítróttasamband Føroya hevur eina nýggja visjón fyri Føroyar, sum vil fevna um børnini, breiddina og tey bestu, og nakað av hesum kom greidliga fram á góðari ráðstevnu í Kongshøll hin 2. februar í ár.</s>
+            <s>Harumframt nevndi fyrilesari, at okkum tørvar fleiri ítróttafakfólk, sum vit sjálvi eiga at kunna útbúgva til at virka ymsastaðni í samfelagnum.</s>
+            <s>Tað kundi helst verið við BA-útbugving ella MAútbúgving, tað skal óivað greinast nærri.</s>
+            <s>Tá nú so nógv og gott virksemi er í Føroyum innan ítróttafakið eins og sett í ætlan, so kundi tað møguliga verið upplagt at sett eina ítróttafakliga útbúgving á stovn, t.d. á Fróðskaparsetri Føroya.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-02-07">7. februar 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-218/2021: Bústaðir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53220" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/218">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bústaðir</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær kemur verulig ferð á íbúðarbyggingina hjá Bústøðum?</item>
+            <item xml:id="q2" type="question-item">Hvørjar byggiverkætlanir eru í gongd?</item>
+            <item xml:id="q3" type="question-item">Av hesum, hvørjar byggiverkætlanir eru settar í gongd við nýggju fíggingarheimildini?</item>
+            <item xml:id="q4" type="question-item">Hvørjar byggiverkætlanir eru ávegis saman við øðrum íleggjarum?</item>
+            <item xml:id="q5" type="question-item">Hvørjar byggiverkætlanir eru ávegis til serligar málbólkar í samstarvi við Almannaverkið?</item>
+            <item xml:id="q6" type="question-item">Manglar stjórin fyri Húsalánsgrunnin nakra heimild frá stýrinum fyri at fáa gongd á bygging saman við øðrum íleggjarum?</item>
+            <item xml:id="q7" type="question-item">Manglar stjórin fyri Húsalánsgrunnin nakra heimild frá stýrinum fyri at fara í gongd við bygging av bústøðum fyri serligar málbólkar (fyri Almannaverkið)?</item>
+            <item xml:id="q8" type="question-item">Verða byggiverkætlanir bodnar út soleiðis, at øll kunnu bjóða uppá arbeiði fyri Bústaðir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað var eitt stórt fet rætta vegin, tá bústaðarpakkin endaliga bleiv samtyktur tann 25. mars 2021.</s>
+            <s>Við bústaðarpakkanum fingu Bústaðir 450 mió. kr. at arbeiða við komandi árini.</s>
+          </p>
+          <p>
+            <s>200 mió. krónur skuldu fíggja bústaðarverkætlanir til serligar málbólkar uttanfyri vanliga bústaðarmarknaðin, eitt nú lestraríbúðir, búfelagsskapir til fólk við serligum tørvi og barnaverndarstovnar.</s>
+          </p>
+          <p>
+            <s>Hinar 250 mió. krónurnar skuldu fíggja vanligar íbúðir - saman við øðrum íleggjarum.</s>
+            <s>Harvið fer lánsheimildin hjá felagnum at røkka til munandi fleiri íbúðir enn áður.</s>
+          </p>
+          <p>
+            <s>Bústaðir søgdu longu fyri fleiri árum síðani - longu undir undanfarnu samgongu - at stovnurin hevði fleiri verkætlanir á skriviborðinum, men tey fingu ikki farið í gongd við tær, tí fígging var ikki til tað.</s>
+          </p>
+          <p>
+            <s>Tí skuldi man trúð, at Bústaðir vóru klár at fara í gongd so skjótt, sum nýggja lógin um Húsalánsgrunn varð samtykt tann 25. mars 2021, og stovnurin fekk møguleika at læna 450 mió. kr.</s>
+            <s>Tí verða hesir fyrispurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-21">21. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

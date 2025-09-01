@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-46/2021: Lántøka til Eystur- og Sandoyartunlarnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48864" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/46">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lántøka til Eystur- og Sandoyartunlarnar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landstýrismaðurin kannað møguleikan at umfiggja lánsavtaluna til Eystur- og Sandoyartunlarnar?</item>
+            <item xml:id="q2" type="question-item">Eru ætlanir um at kanna møguleikan at umfiggja tunlarnar?</item>
+            <item xml:id="q3" type="question-item">Er nøkur forðing fyri at umfiggja tunlarnar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í løgtingslóg nr. 54 frá 6. mai 2016 § 2, stk. 3 stendur, at felagið kann taka lán og ábyrgdarlán við at útskriva lánsbrøv til verkætlanina.</s>
+            <s>Landsstýrismaðurin skal í síni heild góðkenna lánstreytirnar.</s>
+          </p>
+          <p>
+            <s>Treytirnar eru broyttar munandi, síðan lán varð tikið.</s>
+            <s>Tosaði við ein, sum hevur við Femern sambandið millum Danmark og Týskland at gera.</s>
+            <s>Sum eg havi skilt, so er leisturin fyri fígging fyri Femern og Eystur- og Sandoyartunlarnar tann sami.</s>
+            <s>Talan er um almenn partafeløg, og lánið skal niðurgjaldast við brúkaragjøldum.</s>
+          </p>
+          <p>
+            <s>Femern ætlanin kostar um 60 mia. kr. og varð roknað við, at tað tók 35 ár, til hon var goldin.</s>
+            <s>Roknaða rentan væntaðist at skula liggja um 3%.</s>
+            <s>Nú avtalurnar eru komnar upp á pláss, vísir tað seg sum, at rentan er negativ og at afturgjaldstíðin er stytt frá 35 árum til 25 ár, grundað á rentustøðið.</s>
+          </p>
+          <p>
+            <s>Nú tað vísir seg, at nýtslustigið av tunlunum er í lægra lagi, grundað á príspolitikk, so kundi tað verða áhugavert at fingið útgreinað, um kanningar hava verið, sum kunnu gera, at nýtsluprosentið fer upp.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-01">1. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

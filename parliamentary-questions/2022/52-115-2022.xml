@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-115/2022: Trygging av sjófólki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56953" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/115">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>landsstýrismaður í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Trygging av sjófólki</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru mynstrað umborð á skipi?</item>
+            <item xml:id="q2" type="question-item">Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru heima millum túrar?</item>
+            <item xml:id="q3" type="question-item">Er talan um tryggingar, sum fakfeløgini sjálvi tekna hvørt sær, vegna sínar limir, ella er nøkur lóg fyri, hvussu sjófólk skulu vera tryggjað móti álvarsomum sjúkum?</item>
+            <item xml:id="q4" type="question-item">Um ein slík lóg er, hvussu leingi hevur hon so verið galdandi, og hevur hon alla tíðina eisini dekkað fyri sjúkur, sum eru íkomnar millum túrar?</item>
+            <item xml:id="q5" type="question-item">Hvussu er støðan hjá sjófólkum, sum hava fingið álvarsliga sjúku, áðrenn teirra felag hevði teknað nakra trygging?</item>
+            <item xml:id="q6" type="question-item">Um sjófólk ikki eru nóg væl tryggjað móti avleiðingum av álvarsomum sjúkum, hvat ætlar landsstýrismaðurin so at gera við tað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sjófólk eru, sambært lóg, tryggjað móti arbeiðsskaðum og sjúkum, ið beinleiðis standast av arbeiðinum umborð á skipi, men hvussu er við sjúkum, sum ikki beinleiðis eru arbeiðsskaði, men kortini til dømis kunnu vera ein avleiðing av viðurskiftunum umborð?</s>
+          </p>
+          <p>
+            <s>Samanborið við arbeiðsvanlukkur, sum henda brádliga, kann vera ringt at prógva, at ein sjúka, sum kemur langt eftir, at skaðiliga árinið byrjaði, er avleiðing av arbeiðinum umborð.</s>
+            <s>Ti kann tað henda, at tann sjúki ikki siglir við skipinum longur, tá sjúkan byrjar at gera vart við seg.</s>
+            <s>Dømi eru eisini um fólk, sum hava fingið eina álvarsliga sjúku, meðan tey hava verið heima millum túrar.</s>
+          </p>
+          <p>
+            <s>Hesin fyrispurningurin verður settur fyri at vita, hvørji rættindi hesi fólkini hava viðvíkjandi sjúkutryggingum, og hvørjar ætlanir landsstýrismaðurin hevur um so er, at tryggingarviðurskiftini ikki eru nøktandi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-08">8. juni 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

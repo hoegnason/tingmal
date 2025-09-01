@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-36/2023: Heimild hjá kommunum at taka tænastugjald</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/58176" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/36">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heimild hjá kommunum at taka tænastugjald</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær fáa kommunur heimild at taka tænastugjald fyri veitingar til summarhús?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Samgongan hevur sett sær fyri at geva kommunum heimild at taka eitt tænastugjald fyri veitingar til hús, tá húsaeigarin ikki býr í kommununi, og í samgonguskjalinum stendur m.a. soleiðis:</s>
+          </p>
+          <p>
+            <s>Heimild verður latin kommunum at taka hóskandi gjald fyri tcenastuveitingar til húsaeigarar, sum ikki búgva í kommununi, og at áseta bústaðarskyldu í sambandi við nýggjar kommunalar byggiæetlanir.</s>
+          </p>
+          <p>
+            <s>Í fleiri kommunum, serliga í nógvum av teimum smærri kommununum, eru nógv hús, har eigarin ikki býr í kommununi.</s>
+            <s>Nógv hús verða brúkt sum summarhús og verða brúkt lutfalsliga nógv, meðan onnur standa tóm stóran part av árinum.</s>
+          </p>
+          <p>
+            <s>Felags fyri øll hesi hús er, at tey fáa kommunalar tænastur so sum vatnveiting og kloakk, men heimild hjá kommunum er ikki at taka eitt gjald fyri tað.</s>
+          </p>
+          <p>
+            <s>Fastbúgvandi rinda kommunuskatt og harvið fyri tær tænastur tey fáa, men tey, ið brúka hús sum summarhús, rinda ikki fyri tænastur, sum tey fáa.</s>
+            <s>Fyri nógvar kommunur er hetta ein lutfalsliga stór útreiðsla, serliga í teimum kommunum, har fleiri súmmarhús eru.</s>
+          </p>
+          <p>
+            <s>Summar kommunur hava av sínum eintingum sett eitt tænastugjald á summarhús, men hava onga heimild at krevja pengarnar inn.</s>
+            <s>Tí er tað tilvildin, sum ræður á økinum, og greiða má fáast á lógarheimildunum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-10-17">17. oktober 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

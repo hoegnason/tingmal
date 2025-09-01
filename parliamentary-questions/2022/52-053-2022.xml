@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-53/2022: Kritiska undirstøðukervið – samskiftislinjurnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/54421" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/53">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógar- og innlendismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Kritiska undirstøðukervið – samskiftislinjurnar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat var orsøkin til, at bygdirnar norðan fyri Árnafjarðartunnilin, so at siga, mistu alt samband við umheimin tann 30. desember 2022?</item>
+            <item xml:id="q2" type="question-item">Kann sama brek henda aftur?</item>
+            <item xml:id="q3" type="question-item">Er tað aðrastaðni í landinum, at brek á ein einsamallan kaðal kann kvetta alt samband við umheimin?</item>
+            <item xml:id="q4" type="question-item">Er tað møguligt, at alt landið missir sambandið við umheimin, um ein einsamallur kaðal fær brek í miðstaðarøkinum?</item>
+            <item xml:id="q5" type="question-item">Hvussu kann ein slík støða fyribyrgjast?</item>
+            <item xml:id="q6" type="question-item">Hvat kostar tað at fyribyrgja slíkum breki?</item>
+            <item xml:id="q7" type="question-item">Hvør er tilbúgvingin í slíkari støðu, har allar vanligar “samskiftislinjur" eru óvirknar?</item>
+            <item xml:id="q8" type="question-item">Hava eitt nú løgreglan, sjúkrabilurin og sløkkiliðið nakra alternativa “samskiftislinju” tá ein slíkur kaðal fær brek?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fríggjadagin 30. desember 2022 fekk ein kaðal brek við tunnilsmunnan í Árnafjarðartunlinum.</s>
+            <s>Tað gjørdi, at Árnafjørður og allar bygdirnar fyri norðan fjall mistu sambandið við umheimin.</s>
+            <s>Ongin fastnettelefon, ongin fartelefon, onki internet, onki útvarp (KVF), onki sjónvarp og heldur einki samband við alarmsentralin á 112.</s>
+            <s>Tað einasta, sum fólkið norðanfyri fekk samband við, var FM signalið hjá eitt nú Sjey og Radio.fo.</s>
+            <s>Nøkur fangaðu eisini AM signalið frá millumbylgjusendaranum á Akrabergi.</s>
+          </p>
+          <p>
+            <s>Tilbúgvingin vísti seg ikki at vera nøktandi.</s>
+            <s>Sjálvt ikki løgreglan, ið stongdi vegin fyri ferðslu norðanfyri (tunlarnir norður um fjall vóru stongdir í umleið 4 tímar, meðan brekið skuldi rættast), hevði samband við sentralin ella meginlandið á nakran hátt.</s>
+            <s>Teir vóru í somu støðu sum allir aðrir borgarar norðanfyri.</s>
+          </p>
+          <p>
+            <s>Fyrispurningurin er ikki bara settur fyri at lýsa einstøku hendingina norðanfyri, men fyri at fáa greiðu á kritiska undirstøðukervinum sum heild, tá tað kemur til "samskiftislinjurnar".</s>
+            <s>Endamálið er at kanna, um vit eru nóg fyrireikað upp á slík óhapp, sabotasju ella hvat nú kundi komið fyri aftur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-01-11">11. januar 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

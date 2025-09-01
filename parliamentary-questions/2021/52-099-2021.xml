@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-99/2021: Søla av vørum ímillum almennar stovnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50000" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/99">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Søla av vørum ímillum almennar stovnar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er nøkur kanning gjørd av, hvussu felagsgoymslan á Landssjúkrahúsinum setur prísirnar á vøru til sjúkrahúsini?</item>
+            <item xml:id="q2" type="question-item">Um so er at kanning er gjørd, hvat sigur hon so um prísásetingina á vørurnar?</item>
+            <item xml:id="q3" type="question-item">Selur felagsgoymslan undir Landssjúkrahúsinum vørur til aðrar almennar stovnar?</item>
+            <item xml:id="q4" type="question-item">Um ja, hvørjir eru hesir stovnar, og hvussu verða prísirnir ásettir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Løgtingið játtar á hvørjum ári pengar til tær ymisku konturnar á fíggjarlógini, og sigur harvið hvar, pengarnir skulu verða brúktir.</s>
+          </p>
+          <p>
+            <s>Mær vitandi, so hevur Sjúkrahúsverkið gjørt av at hava felags innkeyp, sum felagsgoymslan undir Landssjúkrahúsinum stendur fyri.</s>
+            <s>Tað er skilagott at hava felags innkeyp, tá ið hetta kann hava eina jaliga ávirkan á innkeypsprísin.</s>
+          </p>
+          <p>
+            <s>Men um so er, at prísásetanin á vørurnar til aðrar partar í Sjúkrahúsverkinum verður sett ov høgt, verður vinningurin størri hjá tí, sum selur.</s>
+            <s>Á henda hátt vera pengarnir fluttir frá teimum kontum, Løgtingið hevur avgjørt, at teir skulu brúkast, til felagsgoymsluna undir Landssjúkrahúsinum, sum stendur fyri innkeypinum.</s>
+          </p>
+          <p>
+            <s>Um so er, at aðrir almennir stovnar keypa vørur frá felagsgoymsluni á Landssjúkrahúsinum, so ger tað sama seg galdandi viðvíkjandi Løgtingsins vilja.</s>
+          </p>
+          <p>
+            <s>Um so er at prísurin, ið verður ásettur ímillum partarnar, ikki fremur ætlanina við at hava felags innkeyp, skuldi hvør partur havt møguleikan at keypt inn, har bíligast var.</s>
+          </p>
+          <p>
+            <s>Á hendan hátt fæst best burtur úr á øllum kontum, ið Løgtingið hevur ásett, og pengarnir verða ikki fluttir frá einum almennum stovni til annan, uttan Løgtingsins vilja.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-12-02">2. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wujcg4lv">Frimodt Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

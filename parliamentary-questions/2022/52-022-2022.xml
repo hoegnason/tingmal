@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-22/2022: Navnalógin og tulkingarrættur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53510" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/22">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Navnalógin og tulkingarrættur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør landsstýrismaður hevur rætt at tulka navnalógina?</item>
+            <item xml:id="q2" type="question-item">Heldur løgmaður, at tað gongur ímóti vilja Løgtingsins, um landsstýrismaðurin í mentamálum ikki gevur fólkakirkjuni boð um at skráseta børn saman við sammøðrum í kirkjubókina?</item>
+            <item xml:id="q3" type="question-item">Ætlar løgmaður at bera so í bandi, at hesin trupulleikin verður loystur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í fyrispurningi (52-002/2022) frá undirritaðu svarar Magnus Rasmussen, landsstýrismaður í umhvørvis- og vinnumálum, at tað er ikki neyðugt at broyta navnalógina til tess at skráseta børn hjá sammøðrum við eftirnavni hjá sammøðrum.</s>
+            <s>Í svarinum verður eisini sagt, at tað er landsstýrismaðurin í umhvørvis- og vinnumálum, sum hevur rætt at tulka navnalógina.</s>
+          </p>
+          <p>
+            <s>Tó er komið fram í miðlunum, at Mentamálaraðið er ósamt í hesum og hevur ikki givið fólkakirkjuni boð um at loyva hesum skrásetingunum.</s>
+            <s>Spurningurin er tí, um landsstýrismaðurin í mentamálum gongur í móti vilja Løgtingsins, sum hevur samtykt uppskotini um at innføra sammóðurskap, ið javnsetir sammøður við onnur foreldur.</s>
+          </p>
+          <p>
+            <s>Hesin fyrispurningurin verður settur fyri at fáa greiðu á, hvat løgmaður, ið leiðir landsstýrið, ætlar at gera við hesa fløkjuna, og um løgmaður er samdur við landsstýrismannin í umhvørvis- og vinnumálum um hansara rætt at tulka navnalógina.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-29">29. august 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

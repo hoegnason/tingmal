@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-1/2023: Útoyggjamál</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57183" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/1">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni K. Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Útoyggjamál</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar ábøtur eru sambært landsstýrismanninum tær mest átrokandi fyri kor og trivnað á útoyggj í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Hvussu ætlar landsstýrismaðurin at raðfesta útoyggjamál í arbeiðinum hjá landsstýrinum?</item>
+            <item xml:id="q3" type="question-item">Nær verður nýtt álit um menningarætlan fyri útoyggjar gjørt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Samgongan hevur í samgonguskjalinum sett sær nøkur mál fyri útoyggjar, og í fíggjarlógini fyri 2023 eru m.a. tveir tættir innan samferðslu og ferðavinnu raðfestir: at fyrireika eina endurnýggjan av strandferðsluskipunum og at byggja eina farstøð á Syðradali í Kalsoynni.</s>
+          </p>
+          <p>
+            <s>Orðingarnar í samgonguskjalinum snúgva seg um menningarmøguleikar, um búseting, samferðslu, trivnað og nýtt útoyggjaálit.</s>
+            <s>Útoyggjafelagið hevur á seinastu aðalfundunum eftirlýst fleiri ítøkilig og alneyðug átøk, sum gagna útoyggjunum, og í seinasta tíðindaskrivi teirra vórðu tey sett upp í 5 punkt:</s>
+          </p>
+          <ul>
+            <li>At skapa møguleika fyri búseting, við at útstykkja, við at byggja leiguíbúðir og veita sethúsafígging.</li>
+            <li>At skipa eina samferðslu, har trygdin, tænastan og títtleikin livir upp til nútíðar standardar.</li>
+            <li>Tryggja betri karmar fyri jarðarbrúki og væl skipaðari ferðavinnu.</li>
+            <li>At tryggja lokalt fólkaræði, grundað á lokala luttøku og fíggjarorku.</li>
+            <li>At skapa sosiala trygd og veita tænastur, ið ger, at borgararnir fáa virkað og kunnu trívast í lokalsamfelagnum alt árið.</li>
+          </ul>
+          <p>
+            <s>Útoyggjarnar eru sera týdningarmikil partur av ferðavinnuni í Føroyum og eiga m.a. tí at fáa hægri raðfesting sum slíkar.</s>
+            <s>Tær eru eins týdningarmiklar fyri Føroyar og føroyingar sum heild sum bústaður, sum landbúnaðar- og vinnuøki, sum landafrøði, náttúruppliving, mentanararvur, skúlaferðamál og meira.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-08-01">1. august 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

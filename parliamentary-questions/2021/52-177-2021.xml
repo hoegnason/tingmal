@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-177/2021: Bráðfeingis sálarhjálp</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52690" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/177">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bráðfeingis sálarhjálp</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er landsstýrismaðurin vitandi um, at persónar, sum venda sær til heilsuverkið við bráðfeingistørvi á sálarhjálp, verða heimsendir uttan at røttu fakfólkini gera meting av viðkomandi?</item>
+            <item xml:id="q2" type="question-item">Hvønn rætt hava persónar við bráðfeingistørvi á sálarhjálp at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum?</item>
+            <item xml:id="q3" type="question-item">Nær verður ein skipað sálarfrøðilig skaðastova klár?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Javnan hoyrast neyðarróp frá avvarðandi hjá psykiatriskum sjúklingum, at sjúklingar ikki fáa bráðfeingis sálarhjálp.</s>
+            <s>Fólk, sum møta upp á skaðastovuni við átrokandi tørvi á hjálp, verða vend í hurðini við grundgevingini, at psykiatriski depilin ikki tekur fólk inn.</s>
+          </p>
+          <p>
+            <s>Sama ger seg galdandi, tá sjúklingar seta seg í samband við egnan lækna í dagtímunum.</s>
+          </p>
+          <p>
+            <s>Í fleiri ár hevur politiski myndugleikin arbeitt við eini sálarfrøðiligari skaðastovu.</s>
+            <s>Breið politisk semja tykist at vera um at raðfesta hetta arbeiðið.</s>
+            <s>Kortini má ásannast, at neyðugt er at skipa móttøkuna betur fram til, at arbeiðið er komið á mál.</s>
+          </p>
+          <p>
+            <s>Sum eitt minsta krav eiga psykiatriskir sjúklingar at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum, áðrenn tey verða send heim.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-22">22. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

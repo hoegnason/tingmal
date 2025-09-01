@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-207/2021: Inflasjón og progressivi landsskattastigin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53137" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/207">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Inflasjón og progressivi landsskattastigin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat var miðal árligi lønarvøksturin í prosentum hjá Føroya Arbeiðarafelag í tíðarskeiðinum 2012-2021?</item>
+            <item xml:id="q2" type="question-item">Hvussu høgur var landsskatturin í miðal í prosent av inntøkuni hjá føroysku borgarunum í tíðarskeiðinum 2012-2021 hvørt árið sær?</item>
+            <item xml:id="q3" type="question-item">Hvat var marginali landsskatturin fyri síðst tjentu krónuna hjá føroyingum í miðal í tíðarskeiðinum 2012-2021 hvørt árið sær?</item>
+            <item xml:id="q4" type="question-item">Heldur landsstýrismaðurin, at mørkini í landsskattastiganum eiga at verða prístalsjavnað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað verður nógv tosað um høgu inflasjónina í hesum døgum.</s>
+            <s>Høg inflasjón hevur nógvar keðiligar avleiðingar við sær.</s>
+            <s>Ein avleiðing av inflasjón, sum lítið ella einki hevur verið at hoyrt um, er, at borgarin sum frálíður verður skattaður harðari, og tað eisini hóast at lønir og brúkaraprístal vaksa við somu ferð.</s>
+            <s>Orsøkin er tann progressivi landsskattastigin.</s>
+            <s>Mørkini í landsskattastiganum eru føst, meðan nominellu lønirnar og prísstøðið hækka so líðandi.</s>
+            <s>Tað merkir, at alsamt størri partur av nominellu lønini sum árini ganga verður lyft upp á tey hægru landsskattastigini, og tí verða borgarar skattaðir alsamt harðari sum frálíður.</s>
+            <s>Hesum hevði ein prístalsjavning av landsskattastiganum kunna byrgt fyri.</s>
+          </p>
+          <p>
+            <s>Brúkaraprístalið vaks sambært hagtalsgrunni Hagstovunnar við í miðal 0,32% árliga árini 2012-2021.</s>
+            <s>Spurningurin er, hvussu stórur lønarvøksturin hevur verið samanborið við prístalsvøksturin í hesum tíðarskeiði, og í hvønn mun skattatrýstið er vaksið hesi árini vegna tann progressiva landsskattastigan við føstum mørkum.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-03">3. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-65/2023: Viðvíkjandi príseftirliti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/59473" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/65">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Viðvíkjandi príseftirliti</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær verður príseftirlitið skipað?</item>
+            <item xml:id="q2" type="question-item">Fer príseftirlitið at hava eftirlit við prísunum á øllum økjum um alt landið?</item>
+            <item xml:id="q3" type="question-item">Verður eftirlit við, at mvg-frítøkur fáa tann virknað, sum ætlað? Her verður hugsað um frítøku á fleiri økjum, bæði innan gerandisvørur, grønar orkuskipanir og elbilar.</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Bankar og heilsølur hava met yvirskot, meðan vanliga fólkið hevur trupulleikar at fáa endarnar at røkka saman fíggjarliga.</s>
+            <s>Hetta kann tykjast undarligt, tá hugsað verður um fíggjarstøðuna hjá landi og húsarhaldi.</s>
+            <s>Eitt príseftirlit hevur tí skund fyri at hava eitt betri eftirlit við støðuni.</s>
+          </p>
+          <p>
+            <s>Bankarnir hava seinastu árini hækkað tænastugjøldini hjá kundunum.</s>
+            <s>Ein av grundgevingunum hjá bankunum fyri at hækka gjøldini var, at rentan varð lág og lutvíst negativ.</s>
+            <s>Tað merkti, at bankarnir ikki vunnu nóg nógvan pening í mun til krøvini, teir skulu lúka.</s>
+            <s>Nú rentan er hækkað nógv og er komin upp um 5% markið, er onki at hoyra frá bankunum um at lækka gjøldini aftur.</s>
+            <s>Her kundu bankarnir hugsað sosialt rættari.</s>
+          </p>
+          <p>
+            <s>Samstundis eru húsarhaldini meira sperd við høgum prísum og høgum rentutrýsti.</s>
+            <s>Vøksturin í brúkaraprístalinum er hin hægsti í 40 ár.</s>
+            <s>Hugsast kann, at skulu bankarnir fáa viðrák millum fólkið í landinum, mugu teir eisini hjálpa sperdu húsarhaldunum.</s>
+            <s>Tað kann ikki bara snúgva seg um at vinna pening.</s>
+          </p>
+          <p>
+            <s>Eisini hoyrist at heilsølur og timburhandlar hava metyvirskot, hóast prísir fara upp og keypiorkan minkar.</s>
+            <s>Vónandi hava hesar vinnur ikki hækkað prísin óneyðuga nógv í mun til prísstøðið.</s>
+            <s>Hesin spurningurin fær ikki minni týdning, tá samgongan komandi ár fer at frítaka gerandisvørur sum mjólk, breyð, frukt og grønmeti fyri mvg, so hesar vørur gerast bíligari.</s>
+            <s>Príseftirlitið má tá halda eyga við, at føroyska familjan fær vinningin av hesum átaki - og ikki matvøruhandlarnir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-12-22">22. desember 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

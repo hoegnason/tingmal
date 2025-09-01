@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-78/2023: Landskassans samlaðu útreiðslur til gransking, menning og nýskapan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/59902" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/78">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Landskassans samlaðu útreiðslur til gransking, menning og nýskapan</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stórar vóru landskassans samlaðu útreiðslur/játtanir til gransking, menning og nýskapan í tíðarskeiðnum 2015-2023, býttar á almenna og vinnuliga gransking - málsøki, stovnar, endamál, verkætlanir o.a.?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv ársverk er talan um í tíðarskeiðnum 2015-2023?</item>
+            <item xml:id="q3" type="question-item">Hvussu stórar væntast landskassans samlaðu útreiðslur/játtanir til gransking, menning og nýskapan í tíðarskeiðnum 2024-2027 at verða, býttar á almenna og vinnuliga gransking - málsøki, stovnar, endamál, verkætlanir o.a.?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv ársverk er talan um í tíðarskeiðnum 2024-2027?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er alt meira vanligt, at nakrir almennir stovnar í Føroyum arbeiða við gransking, menning og nýskapan, sum fyri tað mesta verður fíggjað við pengum úr landskassanum og annars útlendskari fígging.</s>
+            <s>Vit vita t.d., at grundgransking er nakað, sum bara stór og búskaparliga sterk lond taka sær av. Tí er viðkomandi at lýsa, hvat vit sum eitt lítið land granska innan fyri, og hvat tað kostar landinum o.a.</s>
+          </p>
+          <p>
+            <s>Tað, sum ynskist lýst í fyrispurninginum er eitt yvirlit yvir tær samlaðu útreiðslurnar ella játtanirnar, sum standa á løgtingsfíggjarlógini - ein uppgerð býtt á ymsu málsøkini, stovnar, endamál, verkætlanir o.a.</s>
+          </p>
+          <p>
+            <s>Tá vit brúka pengar og politiskt skulu raðfesta, vil spurningurin altíð vera, um vit alternativt kundu brúkt pengarnar til onnur endamál og skapt størri nyttuvirði fyri samfelag og vinnu.</s>
+            <s>Ráðið fyri gransking, menning og nýskapan hevur lagt upp til ein málsetning um at seta av $3 %$ av BTÚ til gransking, menning og nýskapan, svarandi til millum 700 og 800 mió. kr. árliga.</s>
+            <s>Hetta mál verður ásett, uttan at upplýst verður, hvussu nógv longu verður játtað til hesi endamál, og hvat fæst fyri pengarnar.</s>
+          </p>
+          <p>
+            <s>Tað er eftir hondini sera trupult politiskt, fyri ikki at siga ógjørligt, at gjøgnumskoða, hvussu nógvir almennir pengar í løtuni verða latnir úr landskassanum tilsamans til gransking, menning og nýskapan.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+          <p>
+            <s>Víst skal vera á, at undirritaði í heyst setti landsstýrismanninum í barna- og útbúgvingarmálum ein § 52a fyrispurning um evnið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-01-26">26. januar 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

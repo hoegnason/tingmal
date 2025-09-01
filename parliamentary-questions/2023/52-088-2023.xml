@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-88/2023: Vinnulig umhvørvisárin í føroysku vistskipanini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/60058" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/88">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Vinnulig umhvørvisárin í føroysku vistskipanini</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar kanningar verða gjørdar av umhvørvisárinum av alivinnuni kring Føroyar, herímillum ávirkan á onnur fiskasløg?</item>
+            <item xml:id="q2" type="question-item">Kennir mann allar avleiðingar av avlúsing við kemiskum evnum ella feskvatni á yngul og ungfisk hjá øðrum fiskasløgum?</item>
+            <item xml:id="q3" type="question-item">Veit mann, hvussu nógv ljósini í aliringunum draga at sær av djóraæti, ungfiski og yngli hjá øðrum fiskasløgum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Alivinnan er ein hátøkniligi vinna, sum hevur verið í sera stórari framgongd seinastu áratíggjuni.</s>
+            <s>Og tað er ikki at reypa, tá vit siga, at vit liggja fremst í heiminum í laksaaling.</s>
+            <s>Hetta tí havlívfrøðiligu fortreytirnar at ala laks á føroyskum firðum eru framúr, men mest tí, vit hava havt framfýsin og dugnalig fólk á økinum leingi.</s>
+            <s>Fólk, sum hava vágað og viljað meira og meira, tá tað kemur til dygd, nøgd, djóravælferð og nógv annað.</s>
+            <s>Tað skerst ikki burtur, at havið er torskilt sum frumevni, og samanspælið millum alt lív og allar kreftir í havinum er bert kent í ávísan mun.</s>
+            <s>Granskað verður á fleiri stovnum í føroyska samfelagnum í viðurskiftum, sum hava við okkara havøki og vinnurnar, sum troyta havið, at gera.</s>
+            <s>Tær báðar størstu vinnurnar í Føroyum eru alivinnan og fiskivinnan, og tær liva síðu við síðu í somu vistskipan.</s>
+            <s>Vit eiga javnan at spyrja, hvussu tær ávirka sítt egna umhvørvi, hvussu tær ávirka hvørja aðra, og hvussu onnur viðurskifti ávirka tær báðar.</s>
+            <s>Náttúrubroytingar, uppsjóvarfiskur inni á grunninum, stór nøgd av kópi, økt alivirksemi eru nakrir av faktorunum, sum kunnu broyta fortreytirnar í føroysku vistskipanini munandi.</s>
+            <s>Spurningurin er, um samlaða vitanin um okkara vistskipan er nóg stór, og um vit veruliga gera alt, sum vit kunnu, fyri at økja støðugt um okkara vitan.</s>
+            <s>Vitan um, hvussu nýggj vinna, nýggj tøkni og nýggir arbeiðshættir ávirka vistskipanina - og her m.a. heilt ítøkiliga ungfisk og yngul hjá øðrum fiskasløgum.</s>
+            <s>Men eisini vitan um, hvørjir tættir av alivinnu kunnu ávirka havumhvørvið í Føroyum í síni heild og harvið alivinnuna sjálva upp á sikt.</s>
+            <s>Havið er okkara grundtreyt í Føroyum og fyri framhaldandi at kunna menna alivinnuna og fiskivinnuna er neyðugt, at vit spyrja okkum sjálvi, um vit hava nóg nógva vitan til at taka avgerðir nú og í framtíðini.</s>
+            <s>Eisini avgerðir, sum kunnu tryggja, at vit varðveita burðardygd fyri báðar tær týdningarmestu vinnur okkara.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-02-14">14. februar 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

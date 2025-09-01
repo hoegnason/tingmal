@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-35/2021: Siglingin hjá Hasfjord</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/pcu7aj2j">Brandur Sandoy</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48707" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/35">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/pcu7aj2j">Brandur Sandoy, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Siglingin hjá Hasfjord</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv hevði tað kostað afturat verandi kostnaði, um Hasfjord skuldi siglt hvønn dag í árinum um Skopunarfjørð á sama hátt sum Hasfjord sigldi í summar tað tíðarskeiðið, tá Ternan avloysti Teistan?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýrismaðurin at tryggja, at Hasfjord siglir eftir lýstu ferðaætlanini?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at tryggja, at tunga ferðslan frameftir í størri mun verður leidd yvir á Hasfjord?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Eitt tíðarskeIð í summar á ein umleið ein mánað, avloysti Ternan Teistan í siglingini um Skopunarfjørð, tí Teistin var í dokk.</s>
+            <s>Hetta tíðarskeIðið valdi SSL at brúka Hasfjord optimalt, og leiddi tungu ferðsluna yvir á Hasfjord.</s>
+            <s>Hetta hevði við sær eitt sera stórt nøgdsemi við siglingina um fjørðin, tí at tað gjørdist nógv lættari at ferðast við persónbilum um fjørðin við Ternuni.</s>
+          </p>
+          <p>
+            <s>Men so skjótt sum Teistin kom aftur í sigling, var sama skilið aftur, har man ikki leiðir tungu ferðsluna yvir á Hasfjord, men bara brúkar Hasfjord til at sigla um so er, at Teistin ikki tekur alla ferðsluna.</s>
+          </p>
+          <p>
+            <s>Hasfjord siglir bara 4 av 7 vikudøgum, og tí verður ferðslan til og úr Sandoynni ikki líka smidlig, sum hon kundi verið, um allur kapasiteturin um fjørðin varð brúktur.</s>
+          </p>
+          <p>
+            <s>Hetta kann tykjast sum spill av resursum og ikki at vera í samsvari við ætlanirnar hendan samgongan hevði, tá samgongan valdi at útvega Hasfjord til at taka tungu ferðsluna um Skopunarfjørð, so at kapasiteturin hjá Teistanum kundi brúkast fult út.</s>
+            <s>Hugsandi er eisini, at landið missir inntøkur, av tí at ætlaða ferðslulopið um fjørðin ikki kemur í tann mun tað kundi.</s>
+          </p>
+          <p>
+            <s>Hasfjord hevur eina lýsta ferðaætlan at sigla eftir, men hóast hetta kemur meiri enn so fyri, at Hasfjord uttan grundgeving als ikki siglir teir túrar, sum eru lýstir í ferðaætlanini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-09-10">10. september 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/pcu7aj2j">Brandur Sandoy</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

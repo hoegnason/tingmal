@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-8/2022: Heimildir, býti, fiskiskapur og keyp/søla í sambandi við royndarfiskiskap á Føroyabanka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53390" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/8">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heimildir, býti, fiskiskapur og keyp/søla í sambandi við royndarfiskiskap á Føroyabanka</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er ítøkiliga lógarheimildin til, at landsstýrismaðurin hevur býtt dagar til royndarfiskiskap á Føroyabanka til fiskifør, sum ikki brúka dagarnar, men selja teir víðari?</item>
+            <item xml:id="q2" type="question-item">Hvør er sakliga grundgevingin fyri, at landsstýrismaðurin gekk ímóti vísindaliga tilmælinum frá Havstovuni og hækkaði tilmælta fiskidagatalið?</item>
+            <item xml:id="q3" type="question-item">Hvør er sakliga grundgevingin og líkareglan í avgerðini um, at landsstýrismaðurin ásetti 150 fiskidagar til línuskipini í bólki 3 og 150 fiskidagar til útróðrarbátarnar í bólki 4, men bert 30 dagar til smærru útróðrarbátarnar í bólki 5 (sum høvdu havt 30 dagar í fleiri ár frammanundan)?</item>
+            <item xml:id="q4" type="question-item">Hvørji ítøkilig fiskifør í bólki 3 og bólki 4 hava fingið fiskidagar á Føroyabanka í 2022, og hvussu nógvar fiskidagar hevur hvørt fiskifar fingið, og hvussu nógvar fiskidagar hava tey brúkt?</item>
+            <item xml:id="q5" type="question-item">Hvørji av hesum hava verið til fiskiskap seinasta árið og lúka treytirnar í sjófeingislógini um at vera skrásett, hava siglingarloyvi, veiðiloyvi og fiskiloyvi?</item>
+            <item xml:id="q6" type="question-item">Hvussu nógvir fiskidagar eru avhendaðir og seldir millum fiskiførini, og ítøkiliga frá hvørjum fiskifari til hvat fiskifar og fyri hvussu nógvan pening?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í apríl mánaði í ár boðaði landsstýrismaðurin frá, at royndarfiskiskapur skuldi økjast á Føroyabanka í eini serskipan.</s>
+            <s>Í kunngerð varð ásett, at 150 dagar skuldu útskrivast til fiskifør í bólki 3 (línuskip), 150 dagar til bólk 4 (útróðrarbátar), meðan smærri útróðrarbátarnir í bólki 5 fingu 30 dagar - sama fiskidagatal, ið teir høvdu havt í mong ár frammanundan.</s>
+            <s>Eisini varð ásett, at fiskidagarnir í bólki 3 og 4 vórðu býttir út á fiskiførini í hesum bólkum, men kundu avhendast.</s>
+            <s>Tí verður spurt, við hvørjari heimild hetta varð gjørt, og hvørjar sakligar grundgevingar og viging av líkaregluni í fyrisitingarrættinum lógu til grund fyri at ganga ímóti vísindaligu tilmælunum frá Havstovuni og at gera eitt slíkt býti millum bólkar og eigarar av fiskiførum í húkafiskiskapi.</s>
+            <s>Eisini verður spurt, hvørji fiskifør hava fingið útskrivað fiskidagar, um tey eru í vinnu og lúka treytirnar, og hvør veruliga hevur fiskað - harundir hvørjir fiskidagar eru avhendaðir/seldir ímillum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-05">5. august 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

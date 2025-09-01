@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-32/2022: Ábyrgd av serskúlaflutningi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53784" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/32">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ábyrgd av serskúlaflutningi</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin greiða frá, hvørjar flutningstænastur kommunustýrið skal seta í verk fyri at lúka kravið í serskúlalógini um at bera kostnaðin av næmingaflutninginum?</item>
+            <item xml:id="q2" type="question-item">Hvør myndugleiki skal ávikavist skipa fyri og gjalda fyri næmingaflutning í teimum førum, har næmingurin hevur so serligan tørv, at næmingurin ikki kann ferðast saman við øðrum, t.d. við Bygdaleiðum ella aðrari busstænastu?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at taka stig til eina meira samhaldsfasta flutningstænastu, har landið átekur sær næmingaflutningin á serskúlaøkinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Serskúlalógin (ll. nr. 50 frá 9. mai 2005 um serskúla, sum broytt við løgtingslóg nr. 47 frá 6. mai 2016) ásetir í § 11, stk. 3, at kommunustýrið skal bera kostnaðin av næmingaflutninginum í og úr skúla.</s>
+            <s>Hetta skal sum skilst gerast eftir somu reglum sum eftir fólkaskúlalógini.</s>
+          </p>
+          <p>
+            <s>Eftir § 33 í fólkaskúlalógini er yvirskipaða kravið, at kommunustýrið skal skipa fyri flutningi millum skúlar og heim ella nánd av heiminum av næmingum, sum ganga í skúla uttan fyri teirra egnu bústaðarkommunu.</s>
+            <s>Lógin ásetir eisini, at hendan flutningsskyldan kann vera lokin við at vísa næmingunum til almennar ferðslumiðlar ella við at samsýna teimum útreiðslur til egnan flutning.</s>
+          </p>
+          <p>
+            <s>Spyrjarin hevur fingið kunnleika til, at hendan skipan kann vera sera óheppin í einstøkum førum.</s>
+            <s>Dømi eru um, at ein miðalstór kommuna má hava upp í tríggjar einstaklingafyriskipanir um næmingaflutning.</s>
+            <s>Orsøkin er tann einfalda, at næmingarnir hvør í sínum lagi hava so mikið serligan tørv, at teir ikki kunnu ferðast saman við øðrum.</s>
+          </p>
+          <p>
+            <s>Tað er sjálvandi sera óheppið, um kommunur kenna seg noyddar at skipa fyri slíkum næmingaflutningi, ið at síggja til liggur væl uttanfyri ta ábyrgd, sum fólkaskúlalógin áleggur kommununum; men tað verður gjørt, tí eftir øllum at døma er ongin annar sum tekur um endan, tá ið tey nærmastu ikki hava umstøður ella møguleika at átaka sær flutningin.</s>
+            <s>Spurningurin er, um tað skal vera uppgávan hjá einari kommunu - og ikki ein landsuppgáva - at hava einstaklingafyriskipanir, tá ið tað kemur til næmingaflutning.</s>
+            <s>Spurt verður tí um, hvussu lóggávan skal skiljast á hesum øki og hvørjar ætlanir landsstýrismaðurin hevur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-09-14">14. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

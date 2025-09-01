@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-102/2021: Týningarevni í matvørum í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50046" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/102">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Týningarevni í matvørum í Føroyum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin upplýsa, hvussu Heilsufrøðiliga starvsstovan hevur eftirlit við týningarevnum í matvørum í føroyskum handlum?</item>
+            <item xml:id="q2" type="question-item">Er týningarevnið Chlorpyrifos, sum er bannað í ES og Danmark, loyvt at brúka í Føroyum?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at gera reglur fyri, hvørji týningarevni kunnu brúkast, og hvørji ikki kunnu brúkast í Føroyum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í farna mánað kom fram gjøgnum Heilsufrøðiligu starvsstovuna (HFS), at týningarevnið Chlorpyrifos var funnið í eini vøru, sum er seld í føroyskum handlum.</s>
+            <s>Fleiri kanningar vísa, at sjálvt í smáum mongdum er Chlorpyrifos skaðiligt fyri heilan hjá børnum.</s>
+            <s>Um so er, at børn eru í heilsuvanda, so kann vera neyðugt at styrkja eftirlitið við slíkum vørum.</s>
+            <s>Talan er um vørur, sum eru innfluttar úr Danmark, og tað eru kanningar hjá DTU Fødevareinstituttet í Danmark, sum hava funnið týningarevnið í vøruni.</s>
+          </p>
+          <p>
+            <s>Í hesum sambandi er viðkomandi at spyrja, hvør leikluturin hjá Heilsufrøðiligu starvsstovuni er, og í hvønn mun HFS hevur eftirlit við slíkum evnum.</s>
+            <s>Harumframt eru tíverri ongar ásetingar í føroyskari lóggávu um nýtslu av týningarevnum sambært heimasíðuni hjá Umhvørvisstovuni.</s>
+            <s>Grannalond okkara hava reglur fyri, hvørji týningarevni kunnu brúkast, og hvørji ikki kunnu brúkast.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-12-07">7. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

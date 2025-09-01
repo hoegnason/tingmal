@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-102/2022: Føroyskt í Føroya Rætti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56810" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/102">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Føroyskt í Føroya Rætti</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er arbeiðið byrjað við at fáa føroyskt sum formligt rættarmál í Føroya Rætti?</item>
+            <item xml:id="q2" type="question-item">Um ja, nær verður hetta arbeiðið liðugt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Kjak hevur tikið seg upp í seinastuni eftir, at grønlendska fólkatingskvinnan, AkiMatilda Høegh Dam úr Siimut tók orðið á grønlendskum í Fólkatinginum.</s>
+            <s>Við hesum vildi hon vísa á, at Grønland ikki er eitt javnsett land í ríkisfelagsskapinum við egnum máli, mentan og søgu.</s>
+          </p>
+          <p>
+            <s>Stríðið fyri føroyska málinum hevur eisini verið langt og drúgt, men enn er langt á mál.</s>
+            <s>Í samgonguskjalinum millum Javnaðarflokkin, Tjóðveldi og Framsókn frá 2022 stendur, at virkað verður fyri, at føroyskt verður formligt rættarmál í Føroya Rætti.</s>
+          </p>
+          <p>
+            <s>Í dag eru rættarskipanin og løgreglan felagsmál.</s>
+            <s>Dómsvald og løgregla eru sera týdningarmiklir stovnar fyri eitt hvørt samfelag.</s>
+            <s>Sum ein liður í, at vit arbeiða fram ímóti at fáa rættarskipanina á føroyskar hendur, er ein fyrsta treyt, at tað verður tosað føroyskt í Føroya Rætti, og at føroyskt er formligt mál í Føroya Rætti.</s>
+          </p>
+          <p>
+            <s>Í dag kemur meir enn so fyri, at borgarar mugu tosa danskt í Føroya Rætti, tí dómarin ella ákærin ikki skilja føroyskt.</s>
+            <s>Tað eru støður, har ein føroyingur skal greiða frá truplum, eymum og syrgiligum viðurskiftum á donskum.</s>
+            <s>Tað kann til dømis vera at greiða frá einari neyðtøku ella øðrum traumatiserandi hendingum, meðan tú samstundis skalt hugsa um, hvussu tú orðar teg á einum øðrum máli enn tínum egna móðurmáli í Føroyum.</s>
+            <s>Hetta kann ganga rættartrygdini hjá okkara borgarum ov nær.</s>
+          </p>
+          <p>
+            <s>Í rættargangslógini stendur púra greitt, at føroyskt er rættarmál í Føroya Rætti, men hóast hetta er er øll kunning og skrivligt samskifti frá ríksimyndugleikunum á donskum.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-05-16">16. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

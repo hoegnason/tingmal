@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-61/2022: Endurgjald fyri mista arbeiðsinntøku í sambandi við ansing av barni, ið til dømis ber brek ella hevur varandi sjúku (uppfyljgandi spurningar)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/54633" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/61">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Endurgjald fyri mista arbeiðsinntøku í sambandi við ansing av barni, ið til dømis ber brek ella hevur varandi sjúku (uppfyljgandi spurningar)</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrið at broyta løgtingslógina um almannatrygd og tænastur og/ella tilhoyrandi kunngerð, soleiðis at frítíðarløn frá arbeiðsplássum ikki verður mótroknað í endurgjaldinum fyri mista arbeiðsinntøku í sambandi við ansing av barni, ið til dømis ber brek ella hevur varandi sjúku?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri nøkrum vikum síðani setti eg ein § 52a fyrispurning um endurgjald fyri mista arbeiðsinntøku í sambandi við ansing av barni, ið til dømis ber brek ella hevur varandi sjúku (tingmál nr. 52057/2022).</s>
+            <s>Spurt varð, hvør orsøkin er til, at endurgjald fyri mista arbeiðsinntøku í sambandi við ansing av barni, ið til dømis ber brek ella hevur varandi sjúku, ikki eisini verður veitt fyri frítíðarløn?</s>
+            <s>Eisini varð spurt, um landsstýrið ætlar at broyta hesa ásetingina?</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin svaraði, at nevndu fólk fáa endurgjald við frítíðarløn.</s>
+            <s>Tað er rætt, men spurningurin snúði seg ikki um at fáa frítíðarløn av endurgjaldinum.</s>
+            <s>Spurningurin snúði seg harafturímóti um at frítíðarløn frá øðrum arbeiðsplássi verður mótroknað í útgjaldinum.</s>
+          </p>
+          <p>
+            <s>Um til dømis eitt barn skal undir skurð í apríl, og annað av foreldrunum tí má vera heima í apríl og mai, so fáa tey ikki endurgjald fyri mai, tí tá verður frítíðarlønin frá arbeiðsplássinum útgoldin.</s>
+            <s>Skulu tey so í feriu í juli, so fáa tey einki tá, tí frítíðarlønin sum tey áttu til góðar, bleiv brúkt í mai.</s>
+            <s>Eg seti tí henda uppfylgjandi spurningin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-02-06">6. februar 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

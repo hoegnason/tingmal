@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-220/2021: Húsarhaldsskúli Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53227" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/220">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Húsarhaldsskúli Føroya</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin sær í Løgtingið at dagføra lógina um Húsarhaldsskúla Føroya beinanvegin á Ólavsøku?</item>
+            <item xml:id="q2" type="question-item">Nær verður spakin settur í til nýggja Húsarhaldsskúlan?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tann 25. mai 2022 spurdi eg landsstýrismannin, hví spakin ikki enn var settur í til nýggja Húsarhaldsskúla Føroya.</s>
+            <s>Landstýrismaðurin svaraði, at ein høvuðsorsøk var, at verkætlanin var blivin dýrari enn mett, og sum var lagt upp til í galdandi heimildarlóg um studningslán til at byggja skúlan.</s>
+          </p>
+          <p>
+            <s>Nú verður ikki bíðað eftir Bústøðum ella Klaksvíkar kommunu, men eftir Uttanríkisog mentamálaráðnum.</s>
+            <s>Sum skilst snýr tað seg um 3,4 mió. kr. í løtuni fyri at fáa sett gongd á byggingina; ein meirkostnaður, sum er íkomin av bíðing og tillagingum.</s>
+          </p>
+          <p>
+            <s>Tí vil eg nú aftur - næstan ein mánaða seinni - spyrja landsstýrismannin, um hann hevur gjørt nakað ítøkiligt fyri at broyta galdandi heimildarlóg skjótast gjørligt, so farast kann í gongd.</s>
+          </p>
+          <p>
+            <s>Tað verður uttan iva eitt ómetaliga tungt afturstig fyri skúlan, um skúlabyggingin aftur nú - eftir 16 ára royndir og bíðing - skal útsetast enn einaferð.</s>
+            <s>Tað er stórur tørvur á skúlanum, tí til komandi skeið hevur Húsarhaldsskúli Føroya fingið 65 umsóknir, men pláss er einans fyri 21 næmingum.</s>
+          </p>
+          <p>
+            <s>Vit eru ein matvørutjóð, har matgerð úr okkara rávøru fær størri og størri virðing runt um í heiminum.</s>
+            <s>Tí er hesin skúlin, sum hevur prógvað sítt virði og tilverugrundarlag nú í skjótt hálva øld, sera umráðandi fyri okkara framtíðarinntøkur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-21">21. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttir</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

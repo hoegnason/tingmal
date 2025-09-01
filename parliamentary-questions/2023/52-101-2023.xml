@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-101/2023: Bústaðir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunleygsdóttur</persName>
+            <roleName>løgtingskvinnna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/61327" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/101">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunleygsdóttur, <roleName>løgtingskvinnna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>landsstýriskvinna í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bústaðir</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Tekur landsstýriskvinnan undir við, at Bústaðir hækkar leiguprísirnar?</item>
+            <item xml:id="q2" type="question-item">Hvussu heldur landsstýriskvinnan, at hækkaði leigukostnaðurin samsvarar við bústaðarpolitikkin hjá samgonguni?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýriskvinnan at gera nakað, fyri at fáa leigukostnaðin hjá Bústøðum at lækka?</item>
+            <item xml:id="q4" type="question-item">Metir landsstýriskvinnan, at Bústaðir hevur eitt nóg stórt avlop til at kunna umsita, viðlíkahalda og byggja nýtt uttan at økja skuldarbyrðuna?</item>
+            <item xml:id="q5" type="question-item">Eigur Bústaðir at bjóða øll arbeiði út, sum verða gjørd fyri stovnin?</item>
+            <item xml:id="q6" type="question-item">Metir landsstýriskvinnan, at Bústaðir í nóg stóran mun fylgir almenna útbjóðingarpolitikkinum?</item>
+            <item xml:id="q7" type="question-item">Hvussu stórt avlop eigur Bústaðir at hava, fyri at tryggja haldførið hjá stovninum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>"Ein bústaður er ein rættur, ikki ein vøra."</s>
+            <s>Soleiðis ljóðaðu nøkur føgur orð áðrenn seinasta løgtingsval.</s>
+            <s>Eisini segði núverandi landsstýriskvinna í bústaðarmálum í einum lesarabrævi tann 24. november 2022, at vit eiga at brúka bústaðaramboð okkara, Bústaðir, til at tryggja eina bíliga leigu til tey, ið hava tørv á tí.</s>
+          </p>
+          <p>
+            <s>Nú hetta landsstýrið hevur sitið í meira enn eitt ár frættist gjøgnum miðlarnar, at Bústaðir hækkar leigukostnaðin fiórða árið á rað, og at nakrir av verandi leigarum mugu finna sær nýggjan bústað, orsakað av príshækkingini.</s>
+          </p>
+          <p>
+            <s>Viðvíkjandi spurningunum um at bjóða arbeiði út og at fylgja almenna útbjóðingarpolitikkinum, verður víst til svar uppá § 52a fyrispurning nr. 52-218/2021, frá 1. juli 2022, har upplýst varð, at innboðin lisititatión og alment útboð bert høvdu verið roynd í einstøkum førum, meðan talan í flestu førum var um undirhondsboð frá í mesta lagi tveimum arbeiðstakarum.</s>
+            <s>Undirritaða kundi hugsað sær at fingið at vita, um hendan støðan er broytt.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2024-03-07">7. mars 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunleygsdóttur</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

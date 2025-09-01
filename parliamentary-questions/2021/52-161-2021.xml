@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-161/2021: Grótkastið uttan fyri Boðakeiina í Skopun</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/s4q24t46">Sámal Hanni Lognberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52288" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/161">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/s4q24t46">Sámal Hanni Lognberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Grótkastið uttan fyri Boðakeiina í Skopun</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat ætlar landsstýrismaðurin at gera við tað, at alt grótið frá grótkastinum, sum varð lagt í nítiárunum, er endað inni á Pollinum í Skopun?</item>
+            <item xml:id="q2" type="question-item">Nær verður farið undir at gera grótkastið aftur?</item>
+            <item xml:id="q3" type="question-item">Nær ætlar landstýrismaðurin, at arbeiðið skal gerast at taka alt grótið upp, sum liggur inni á Pollinum í Skopun?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Alt grótið frá grótkastinum, sum bleiv lagt í nítiárunum, er endað inni á Pollinum í Skopun.</s>
+            <s>Ein kann undrast á, hví so man vera.</s>
+            <s>Stutta frágreiðingin er helst, at hetta arbeiðið ongantíð bleiv gjørt liðugt.</s>
+            <s>Grótið varð lagt uttanfyri boðakeiina, men forankringar vórðu ongantíð settar á grótið.</s>
+            <s>Við teimum veðurumstøðum og tí harða streymi, sum er í Skopunarfirði, er óhugsandi, at hetta grót verður liggjandi uttan forankringar.</s>
+          </p>
+          <p>
+            <s>Grótið, sum er endað inni á Pollinum í Skopun, er ongantíð blivið tikið ordiliga upp.</s>
+            <s>Vit hava sæð, at man hevur tikið tað ringasta upp, men alt, sum liggur inni á Pollinum er ikki tikið upp.</s>
+            <s>Hetta er og kann eisini í framtíðini verða til stóran ampa fyri skip og bátar heimahoyrandi í Skopun og øðrum bygdum, sum nýta skopunarhavn.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-01">1. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/s4q24t46">Sámal Hanni Lognberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

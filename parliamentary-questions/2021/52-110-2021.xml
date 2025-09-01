@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-110/2021: Veðurstova Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50360" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/110">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Veðurstova Føroya</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær verður Veðurstova Føroya staðsett á flogvøllinum í Vágum?</item>
+            <item xml:id="q2" type="question-item">Er ætlanin at skipa veðurstovuna í tríggjar eindir?</item>
+            <item xml:id="q3" type="question-item">Er ætlanin, at eindirnar skulu skipast á flogvøllinum í Vágum, í Tórshavn og í Klaksvík?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógv gleðast saman við mær um, at vit endiliga hava kjølfest eina føroyska veðurstovu í Føroyum.</s>
+            <s>Fjølmiðlarnir hava eisini tikið hetta upp í fleiri tíðindasendingum.</s>
+          </p>
+          <p>
+            <s>Veðurstova Føroya hevur lýst eftir starvsfólki, sum nú eru farin til verka.</s>
+            <s>Hesa fyrstu tíðina, meðan veðurstovan verður skipað, hevur fyrrverandi landsstýrismaður Jacob Vestergaard kjølfest føroysku veðurstovuna við leiðsluábyrgd undir Vørn.</s>
+            <s>Síðani var ætlanin at staðseta veðurstovuna endaliga á flogvøllinum í Vágum.</s>
+          </p>
+          <p>
+            <s>Ábendingar eru um, at ætlanin er at skipa Veðurstovu Føroya í tríggjar eindir.</s>
+            <s>Tó er ikki greitt, hvat liggur í hesum, og hvar hvør eind verður.</s>
+          </p>
+          <p>
+            <s>Veðurkort hava verið gjørd á flogvøllinum í Vágum í samráð við DMI í áratíggju, og veðurfrøðingar hava arbeitt á flogvøllinum við nýggjastu staðbundnu veðurforsøgnunum hesa tíðina.</s>
+          </p>
+          <p>
+            <s>Í framtíðini verður hetta eisini neyðugt, og tað hevur týdning at kjølfesta staðbundna veðurfrøði á flogvøllinum, serliga tá hugsað verður um framtíðar útbyggingar av flogvøllinum og økta virksemið innan flogvinnu í framtíðini.</s>
+          </p>
+          <p>
+            <s>Fyribilsloysnin undir Vørn verður søgd at vera avmarkað.</s>
+            <s>Tó hava fyribilsloysnir javnan tað at draga út ella gerast til endaligar loysnir.</s>
+            <s>Fyri at fáa eina frágreiðing um ætlanirnar, verður hesin fyrispurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-12">12. januar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

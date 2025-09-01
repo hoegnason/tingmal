@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-47/2021: Vinnuligar royndir og verkætlanir í 2020</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48868" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/47">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Vinnuligar royndir og verkætlanir í 2020</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvar umsóknir komu um kvotur til vinnuligar royndir og verkætlanir og ískoytiskvotur í 2020?</item>
+            <item xml:id="q2" type="question-item">Vórðu umsóknirnar viðgjørdar í umsitingini og tilmæli gjørd í Fiskimálaráðnum til landsstýrismannin um, hvørjar umsóknir luku treytirnar og eftir fakligari meting áttu at játtast sambært lóg og kunngerð?</item>
+            <item xml:id="q3" type="question-item">Hví vórðu ongar játtanir givnar til umsóknir til vinnuligar kvotur og verkætlanir í 2020 – og við hvørjari heimild og skjalfestari grundgeving vórðu kvoturnar ikki játtaðar – meðan ískoytiskvotur kortini vórðu latnar?</item>
+            <item xml:id="q4" type="question-item">Um umsóknir vórðu tilmældar frá umsitingini í Fiskimálaráðnum at játta, hvørjar vóru so tær ítøkiligu umsóknirnar, ið ikki vórðu játtaðar kortini?</item>
+            <item xml:id="q5" type="question-item">Um svarið er játtandi til spurning 2 og 4, hvør er tann lógliga, sakliga, proporsjónala og líkaregluliga grundgevingin fyri ikki at játta – og hvør er sakliga grundgevingin fyri, at landsstýrismaðurin ístaðin leggur broyting í sjófeingislógini fyri tingið, ið broytir treytirnar fyri at søkja um hesar kvotur?</item>
+            <item xml:id="q6" type="question-item">Eru umsóknir frá umsøkjarum, ið ikki vórðu tilmældar fakliga frá umsitingini í 2020, sum ístaðin hava fingið játtan í 2021 eftir broyttu treytunum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>20. juli 2020 lýsti Fiskimálaráðið eftir umsóknum til vinnuligar royndir og verkætlanir og til ískoytiskvotur.</s>
+            <s>10. August 2020 skuldu umsóknirnar vera latnar Fiskimálaráðnum.</s>
+            <s>Kvotur vórðu játtaðar til ískoytiskvotur.</s>
+            <s>Men ongar kvotur vórðu játtaðar til vinnuligar royndir og verkætlanir.</s>
+            <s>Seinni legði landsstýrismaðurin uppskot til lógarbroyting fyri tingið, ið broytti treytirnar fyri hesum kvotum, m.a. við at skoyta upp í játtan til ítøkiligt skipakeyp - sum í 2021 fór við mestu tøku tonsunum.</s>
+            <s>Tí verður spurt, hvat hendi her.</s>
+            <s>Og hvussu skjalfestast kann, at hetta er lógligt, sakligt, proporsjónalt og í samsvari við líkaregluna í fyrisiting.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-01">1. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-107/2021: Læknahúsini (Gula húsið)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50253" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/107">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Læknahúsini (Gula húsið)</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær verður verklagslógin fyri læknahúsini (Gula húsið) løgd fyri Løgtingið?</item>
+            <item xml:id="q2" type="question-item">Hvørjar forðingar eru fyri, at lógin kann leggjast fyri Løgtingið?</item>
+            <item xml:id="q3" type="question-item">Nær kann væntast, at arbeiðið at dagføra læknahúsini byrjar?</item>
+            <item xml:id="q4" type="question-item">Nær verður starvsfólkabygningurin dagførdur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Klaksvíkar Sjúkrahús og Landsverk hava gjørt eina ætlan um at dagføra gomlu læknahúsini, soleiðis at umsitingin kann flyta úr starvsfólkabygninginum og í gula hús.</s>
+            <s>Samstundis verður arbeitt við uppskoti um, hvussu starvsfólkabygningurin kann verða innrættaður.</s>
+            <s>Tað er stórur tørvur á, at fólk kunnu búgva nærhendis sjúkrahúsinum, meðan tey eru til venjingar.</s>
+            <s>Herfyri frættist, at tey, ið higartil hava gist í starvsfólkabygninginum, meðan tey hava fingið endurvenjing, ikki hava henda møguleika í løtuni orsakað av soppi í bygninginum og tí ikki fingu alneyðugu endurvenjingina.</s>
+            <s>Sostatt hevur tað stóran skund at fáa bæði verklagslóg fyri gulu húsini samtykta og at fáa sett ferð á innrætting av starvsfólkabygninginum, so avbygdafólk aftur kunnu koma til endurvenjingar og gista.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-12-16">16. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

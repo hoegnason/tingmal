@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-25/2022: Gjaldið frá Strandferðsluni til Tórshavnar havn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53737" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/25">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gjaldið frá Strandferðsluni til Tórshavnar havn</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin upplýsa, hvat Strandferðslan rindar í leigu fyri parkeringsøkið á Bursatanga?</item>
+            <item xml:id="q2" type="question-item">Hvat kostar tað hjá Strandferðsluni at leiga tornið til at ganga umborð á Smyril?</item>
+            <item xml:id="q3" type="question-item">Hvat kostar tað hjá Strandferðsluni at leiga pakkhús og skrivstovu á kaiini?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv rindar Strandferðslan í havnargjaldi fyri Smyril til Tórshavnar havn?</item>
+            <item xml:id="q5" type="question-item">Hvat er gjaldið hjá Strandferðsluni fyri ferðafólk og bilar, sum fara umborð á Smyril umframt samlaða gjaldið fyri 2021?</item>
+            <item xml:id="q6" type="question-item">Hvussu nógv rindar Strandferðslan fyri bingjur og last fyri virksemið á Bursatanga?</item>
+            <item xml:id="q7" type="question-item">Hvat er sostatt samlaða gjaldið hjá Strandferðsluni til Tórshavnar havn?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tjóðleikhúsið skal eftir ætlan byggjast á Bursatanga.</s>
+            <s>Men á leið 265.000 ferðafólk og 111.000 bilar eru farnir við Smyrli um kaikantin á Bursatanga í 2021.</s>
+            <s>Hetta merkir, at stórir kostnaðir hjá Strandferðsluni eru knýttir aftrat virkseminum hjá Smyrli.</s>
+          </p>
+          <p>
+            <s>Haraftrat kann nevnast, at í Nólsoy eru 87.000 ferðafólk og 5.500 bilar farin um kaikantin, og eisini her eru stórir kostnaðir knýttir aftrat.</s>
+          </p>
+          <p>
+            <s>Eisini byrjar farleiðin til flogvøllin og til Klaksvíkar á Bursatanga.</s>
+            <s>Tað vóru 55.000 ferðafólk frá Bursatanga til flogvøllin í 2021.</s>
+            <s>Sama ár vóru 75.000 ferðafólk úr Tórshavn til Klaksvíkar; so sigast má, at hetta má vera eitt tað mest ferðslutunga økið, sum er í landinum.</s>
+          </p>
+          <p>
+            <s>Tað er umráðandi, at kostnaðurin fyri nýtsluna á Bursatanga verður upplýstur, nú eitt tjóðleikhús eftir ætlan skal staðsetast sama stað.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-09-09">9. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-217/2021: Møguleikin hjá útlendingum at læra føroyskt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53208" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/217">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Møguleikin hjá útlendingum at læra føroyskt</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat verður gjørt fyri at tryggja sær, at útlendingar, ið flyta til Føroya, læra føroyskt?</item>
+            <item xml:id="q2" type="question-item">Hvørji krøv eru til útlendingar um, at tey skulu læra føroyskt, um tey skulu vera her í longri tíð?</item>
+            <item xml:id="q3" type="question-item">Hvør hevur ábyrgdina av at tryggja, at útlendingar, ið búsetast í Føroyum, verða integreraðir?</item>
+            <item xml:id="q4" type="question-item">Hvat verður gjørt fyri at integrera útlendingar, ið flyta til Føroya?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógvir útlendingar eru komnir til Føroya seinastu árini.</s>
+            <s>Summi fyri at arbeiða í styttri tíðarskeið, onnur fyri at búseta seg her.</s>
+            <s>Nógv av teimum vilja læra føroyskt, men sum skilst, er tað ikki altíð so lætt hjá teimum, kanska tí tilboðini ikki eru har, ella tí at hetta ikki samsvarar við arbeiðstíðina hjá teimun.</s>
+            <s>Summar fyritøkur hava av eintingum skipað fyri undirvísing í føroyskum fyri útlendskum starvsfólkum.</s>
+            <s>Hetta er eitt sera gott tiltak.</s>
+            <s>Tað er umráðandi, at útlendingar læra føroyskt, tí harvið er tað lættari hjá teimum at gerast partur av føroyska samfelagnum Eisini er tað umráðandi, at tey læra føroyskt, so tey sjálvi vita, hvørji rættindi og skyldur tey hava í føroyska samfelagnum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-20">20. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

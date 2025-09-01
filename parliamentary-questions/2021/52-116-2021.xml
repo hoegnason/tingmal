@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-116/2021: Samsýning fyri at ansa eldri og óhjálpnum persónum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50411" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/116">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Samsýning fyri at ansa eldri og óhjálpnum persónum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er nøkur ætlan um, í samráð við og eftir ynski frá kommunum, at hækka viðbótina fyri at ansa eldri og óhjálpnum persónum?</item>
+            <item xml:id="q2" type="question-item">Um ja, hvussu nógv er ætlanin at hækka samsýningina, og nær er ætlanin at seta hækkingina í gildi?</item>
+            <item xml:id="q3" type="question-item">Er nøkur ætlan um at endurskoða treytirnar fyri at gerast ansari?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Skipanin við at samsýna fólki fyri at ansa eldri og óhjálpnum heima varð - saman við eldraøkinum - løgd út til kommununar at umsita í 2015.</s>
+          </p>
+          <p>
+            <s>Skipanin er tann, at avvarðandi kunnu søkja kommununa um samsýning fyri at ansa til dømis einum eldri persóni, ið hevur tørv á røkt og støðugari hjáveru heima í staðin fyri, at viðkomandi skal á røktarheim.</s>
+            <s>Samsýningin er tann sama í dag sum í 2015, kr. 10.789 um mánaðin.</s>
+            <s>Frá 1. januar 2019 verður eftirløn tó løgd oman á veitingina.</s>
+          </p>
+          <p>
+            <s>Treytin fyri at fáa hesa samsýning er, at viðkomandi ansari bert í lítlan mun átekur sær annað arbeiði, sum í mesta lagi kann vera 20 tímar um vikuna.</s>
+          </p>
+          <p>
+            <s>Í samband við eftirmetingina av eldraøkinum er tað komið fram, at talið á teimum, ið gerast ansarar, fækkast, og at ein orsøk møguliga er lága lønin, sum ikki er hækkað síðan 2015.</s>
+          </p>
+          <p>
+            <s>Eisini stendur í eftirmetingini, at lógin um almannatrygd ásetur heimaansing av t.d. fólki undir fólkapensjónsaldur, har samsýningin vegna mista arbeiðsinntøku í mesta lagi kann verða 25.000 kr um mánaðin.</s>
+            <s>Hesin leistur kundi eisini verið nýttur á eldraøkinum.</s>
+          </p>
+          <p>
+            <s>Skipanin við ansara gevur borgarum ein valmøguleika, so tey kunnu vera í egnum heimi sum longst.</s>
+            <s>Fyri at fáa greiðu á, um ætlanin er at dagføra skipanina, verður hesin spurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-19">19. januar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

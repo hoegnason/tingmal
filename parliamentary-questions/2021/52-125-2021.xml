@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-125/2021: Stuðul úr Róðrargrunni Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50758" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/125">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Stuðul úr Róðrargrunni Føroya</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin, at stuðulsreglurnar eru rættar, sum tær eru í dag?</item>
+            <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin, at tað er rætt, at Róðrargrunnur Føroya er best egnaður til tey feløgini, sum eiga allar bátastøddir, og sum bara hava tørv til útskifting til nýggjar bátar?</item>
+            <item xml:id="q3" type="question-item">Heldur landsstýrismaðurin, at Róðrargrunnur Føroya hjálpir teimum feløgunum, sum fara at mangla bát, og síggja, at tey komandi ár mugu fáa ein bát, og fáa noktandi stuðul úr grunninum, tí at kjølurin er strektur áðrenn 25. apríl sama ár, sum søkt verður um stuðul úr grunninum?</item>
+            <item xml:id="q4" type="question-item">Heldur landsstýrismaðurin, at 100.000 kr. í árligum stuðli er nóg mikið til grunnin, nú tað verður tørvur á fleiri bátum - kappróðrarbáturin er tann mest smíðaði báturin í Føroyum, sum nú er góðtikin hjá UNESCO?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Róðrargrunnur Føroya varð stovnaður í 1970, tí róðrarfólk kring landið vildu styðja upp undir kappróðurin sum tjóðarítrótt føroyinga.</s>
+            <s>Í 2018 varð grunnurin endurreistur, tí Løgtingið á fíggjarlógini fyri 2018 játtaði pening til at smíða kappróðrarbátar at styðja upp undir tjóðarítrótt føroyinga.</s>
+          </p>
+          <p>
+            <s>Í grein 3 í viðtøkunum fyri grunnin stendur: "Rætt til studning úr grunninum hava øll føroysk róðrarfeløg við teirri ætlan at gera nýggjan róðrarbát, róðrarhús og róðrarhyl."</s>
+            <s>Haraftrat stendur, at studningur eisini kann latast til "skúlaróður og til útgávu av einari føroyskari róðrarsøgu."</s>
+            <s>Í 2018 lat grunnurin stuðul til bátasmíð.</s>
+          </p>
+          <p>
+            <s>Kappróðrarfeløg, sum eru limir í Róðrarsambandi Føroya, kunnu søkja um stuðul úr Róðrargrunni Føroya.</s>
+            <s>Grunnurin letur í hesum umfari feløgum stuðul at smíða nýggjan kappróðrarbát.</s>
+            <s>Feløg, sum ætla at søkja um stuðul, verða biðin um at senda grunninum umsókn og upplýsa kostnaðarætlan og tíðarætlan.</s>
+            <s>Eisini skulu upplýsast bátastødd og bátasmiður.</s>
+          </p>
+          <p>
+            <s>Róðrargrunnur Føroya letur í ár tilsamans 100.000 kr. í stuðli.</s>
+            <s>Róðrarfeløg kunnu søkja stuðul frá 1. apríl til 25. apríl og sleppa ikki at byrja uppá nýggjan bát, fyrr enn tey hava fingið játtandi svar frá grunninum.</s>
+            <s>Grunnurin er fyri at hjálpa einum róðrarfelag at fáa bátar til sítt felag og er fyri at hjálpa serliga teimum veiku feløgunum, sum ikki hava nógvar pengar.</s>
+          </p>
+          <p>
+            <s>Tað hevur stóran týdning, at politiski myndugleikin eru við til at stuðla undir kappróðurin sum tjóðarítrótt føroyinga.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-02-09">9. februar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-198/2021: Fólkapensjónistar í arbeiði</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53087" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/198">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit E. Nolsø, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fólkapensjónistar í arbeiði</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir fólkapensjónistar ella fólk í aldrinum 69-72 ár, 73-75 ár og frá 76 árum og uppeftir, hava eina arbeiðsinntøku - býtt á kvinnur og menn, býtt á almenna og privata geiran, og býtt á øki í landinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er møguligt hjá fólkapensjónistum, eftir galdandi lóggávu, at hava við síðuna av fólkapensjónini ávísa arbeiðsinntøku, uttan at henda ávirkar rættin til fólkapensjón.</s>
+            <s>Hetta hevur eisini við sær, at inntøkur frá arbeiði eru við til at økja og styrkja inntøkugrundarlagið hjá fólkapensjónistum.</s>
+          </p>
+          <p>
+            <s>Tað er áður upplýst undirritaða frá Almannamálaráðnum, at mótrokningin, sum stavar frá arbeiðsinntøku var umleið 74 mió. kr. í 2021.</s>
+            <s>Í hesum sambandi er eisini áhugavert at kenna talið á teimum pensjónistum, sum hava hesar arbeiðsinntøkur býtt á kvinnur og menn, býtt á almenna (land og kommunur, íroknað almenn partafeløg og felagsskapir) og privata geiran, og eisini býtt á øki í landinum.</s>
+          </p>
+          <p>
+            <s>Endamálið við skipanini er at eggja teimum pensjónistum, sum er førir fyri tí, at hava eitt hóskandi arbeiði, serliga nú arbeiðsloysið er lágt og tørvur er á arbeiðsmegi.</s>
+          </p>
+          <p>
+            <s>Tað er politiskt viðkomandi at eftirmeta, hvørja veruliga ávirkan skipanin hevur á arbeiðsmarknaðin, undir hesum, hvussu nógvir fólkapensjónistar taka av møguleikanum og hvussu nógvir ikki taka av. Tað er eisini viðkomandi at gera sær eina meting av, um t.d. ein avtøka av mótrokningini hevði havt við sær, at fólkapensjónistar, sum longu hava eitt arbeiði, høvdu viljað ella ynskt at arbeitt enn fleiri tímar, enn teir gera í løtuni.</s>
+            <s>Og hvat við teimum, sum ikki hava eitt arbeiði, høvdu teir møguliga viljað ella ynskt at átikið sær eitt arbeiði, um mótrokningin varð avtikin o.a. Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-05-24">24. mai 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

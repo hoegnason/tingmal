@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-63/2021: Møguleiki at fáa stuðlar í Suðuroynni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49192" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/63">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttir, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Møguleiki at fáa stuðlar í Suðuroynni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv fólk við serligum avbjóðingum fáa stuðul í Suðuroynni?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv fólk hava fingið játtaðan stuðul, uttan at hetta er sett í verk, og hvørjar eru orsakirnar.</item>
+            <item xml:id="q3" type="question-item">Hvussu arbeiðir Almannaverkið við at nøkta tørvin á stuðlandi fyriskipanum til fólk, sum bíða eftir stuðli ?</item>
+            <item xml:id="q4" type="question-item">Hvørji tilboð hevur Almannaverkið til fólk við demens og ella røktartørvi, sum eru undir 67 ár og búgva í Suðuroynni?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tænastutilboðini frá Almannaverkinum eru ymisk alt eftir, hvar í landinum fólk búgva.</s>
+            <s>Nøkur øki hava eitt nú tænastur til fólk undir 67 við demenssjúkum, onnur øki hava ikki; og soleiðis er við ymiskum tænastum.</s>
+          </p>
+          <p>
+            <s>Tað hevur eisini verið frammi, at tað er trupult at fáa stuðul frá Almannaverkinum.</s>
+            <s>Tað hevur verið víst á, at starvsfólkatrotið er ein av avbjóðingunum og í øðrum førum er manglandi játtan ein trupulleiki.</s>
+          </p>
+          <p>
+            <s>Tað er órógvandi at frætta, at fólk, sum hava fingið at vita, at tey hava rætt til stuðul, ikki fáa tað, tí ongir stuðlar eru at fáa.</s>
+            <s>Spurningurin er tí, hvussu landsstýrið arbeiðir við at bøta um støðuna, soleiðis at fólk kring landið verða tryggjað javnbjóðis rættindi til hjálp, røkt og stuðul.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-20">20. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

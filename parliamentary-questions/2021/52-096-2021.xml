@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-96/2021: Hagtøl um koronu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49946" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/96">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Hagtøl um koronu</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er orsøkin til, at Heilsumálaráðið upplýsir, hvussu nógv eru deyð við koronu í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Hví verður ikki upplýst, hvussu nógv doyggja við øðrum virusum ella sjúkum á sama hátt?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv eru deyð við koronu-koppseting innan 30 dagar eftir at hava fingið eina koronu-koppseting?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv eru innløgd orsakað av koronu-koppseting?</item>
+            <item xml:id="q5" type="question-item">Hvussu nógv av teimum, sum eru deyð við koronu, vóru koppsett?</item>
+            <item xml:id="q6" type="question-item">Hvussu nógv av teimum omanfyri 12 ár, sum hava fingið staðfest koronu, vóru koppsett?</item>
+            <item xml:id="q7" type="question-item">Hvussu nógv eru blivin sjúk ella potaði positiv av koronu meira enn einaferð?</item>
+            <item xml:id="q8" type="question-item">Hvussu nógv koppsett hava potað seg síðani 24. juni 2021?</item>
+            <item xml:id="q9" type="question-item">Av hesum, hvussu nógv koppsett eru potaði positiv sama tíðarskeið?</item>
+            <item xml:id="q10" type="question-item">Hvussu nógv ókoppsett hava potað seg síðani 24. juni 2021?</item>
+            <item xml:id="q11" type="question-item">Av hesum, hvussu nógv ókoppsett eru potaði positiv sama tíðarskeið?</item>
+            <item xml:id="q12" type="question-item">Hvussu nógv andingartól hevur sjúkrahúsverkið?</item>
+            <item xml:id="q13" type="question-item">Hvussu hevur belegningurin verið á omanfyri nevndu andingartólum, síðani korona breyt út í Føroyum?</item>
+            <item xml:id="q14" type="question-item">Arbeiðir landsstýrismaðurin við at almannakunngera onnur (nýggj) hagtøl, enn tey sum eru nevnd í hesum fyrispurningi, í samband við koronu?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Alt, sum verður mátað í samband við koronu, fær øgiliga stórt uppmerksemi í føroyska samfelagnum.</s>
+            <s>Tal av smittaðum, innløgdum, fólki í sóttarhaldi, deyðum við koronu og tal av koppsettum eru nøkur av tølunum, sum vera miðlað út hvønn dag.</s>
+          </p>
+          <p>
+            <s>Tað skapar tó undran, at tað ikki koma hagtøl uppá t.d. avleiðingar av koppseting og sundurgreinað tøl ímillum koppsett og ókoppsett í samband við poting o.l. Ymiskir myndugleikar og fakfólk hava meldað út, at koppsetingin riggar so og so væl.</s>
+            <s>Undirritaði metir tó, at ein almannakunngerð av hagtølunum aftan fyri hesar niðurstøðurnar heði skapt eitt størri álit ímillum myndugleikan og borgaran.</s>
+            <s>24. juni 2021 høvdu 50% av føroyingum fingið sær tað fyrra prikið.</s>
+            <s>Hetta verður brúkt sum eitt úttgangsstøði fyri spurningarnar um poting.</s>
+            <s>Fyrispurningurin er ein roynd uppá at fáa meira fjølbroytt hagtøl, sum koma út í samband við koronu.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-30">30. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

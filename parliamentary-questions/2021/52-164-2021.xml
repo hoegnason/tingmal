@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-164/2021: Starvsnormeringar hjá námsfrøðingum í fólkaskúlanum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52358" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/164">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Starvsnormeringar hjá námsfrøðingum í fólkaskúlanum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin upplýsa, hvussu nógv tað vildi kostað mánaðarliga at sett námsfrøðingar í føstum starvi, sum arbeiða á serdeildunum á fólkaskúlaøkinum, í fult starv við setanarbroti á 1,0?</item>
+            <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin, at tað er rímiligt, at fast settir námsfrøðingar á serdeildum í fólkaskúlanum hava lægri setanarbrot samanborið við líknandi námsfrøðingar á miðnámsskúlaøkinum?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýrismaðurin greiða frá og grundgeva fyri, hví setanarbrotið hjá námsfrøðingum á fólkaskúlaøkinum er væl lægri enn setanarbrotið á miðnámsskúlaøkinum, tá talan er um serdeildir?</item>
+            <item xml:id="q4" type="question-item">Ætlar landsstýrismaðurin at skipa viðurskiftini soleiðis, at námsfrøðingar á serøkinum í fólkaskúlanum verða settir í fult starvið einum setanarbroti á 1,0 og fáa eins setanarviðurskifti sum námsfrøðingarnir, sum virka á serdeild á miðnámsskúlaøkinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru níggju sertilboð/serflokkar skipað í Føroyum.</s>
+            <s>Ymiskt er, hvussu hesi sertilboð/serflokkar eru í stødd og skipan.</s>
+            <s>Felags fyri øll tilboðini er, at tey eru skipað soleiðis, at ein skúli umsitur sertilboðið og tekur tískil næmingar inn frá einum ella fleiri skúlum í nærumhvørvinum.</s>
+          </p>
+          <p>
+            <s>Á sertilboðunum starvast lærarar og námsfrøðingar.</s>
+            <s>Lærararnir í føstum starvi eru settir við setanarbroti 1,0, meðan flestu námsfrøðingarnir í føstum starvi, hóast fleiri tímar saman við næmingunum, eru settir við setanarbroti 0,85 ella lægri.</s>
+            <s>Tá talan er um at menna næmingar á serdeildini, arbeiða námsfrøðingar og lærarar í samráði og samstarvi í sjálvstýrandi toymi.</s>
+          </p>
+          <p>
+            <s>Høvuðsuppgávan er at ráðleggja, gjøgnumføra og eftirmeta skúladagin hjá næmingunum.</s>
+            <s>Arbeitt verður út frá læruætlanum hjá einstaklinginum.</s>
+            <s>Í slíkum arbeiði er avgerandi, at menningin er ein heildarmenning, har barnið hvílir trygt í, at øll starvsfólkni hjálpa til, har tørvurin er.</s>
+            <s>Hetta er tó sera torført, tá setanarbrotini til føstu størvini eru ólík.</s>
+            <s>Tí vildi tað tænt serskipanini á fólkaskúlaøkinum, at námsfrøðingarnir á serdeildum fólkaskúlans, eins og námsfrøðingarnir á miðnámi, vóru settir við setanarbroti 1,0 og kundu virkað á jøvnum føti saman við lærarunum og børnunum á serøkinum til frama.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-05">5. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

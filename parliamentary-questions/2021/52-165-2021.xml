@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-165/2021: Arktisk strategi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52404" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/165">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Arktisk strategi</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu gongur við arbeiðinum at orða eina arktiska strategi fyri Føroyar?</item>
+            <item xml:id="q2" type="question-item">Nær kann væntast, at uppskot verður lagt fyri Løgtingið?</item>
+            <item xml:id="q3" type="question-item">Hvussu ætlar landsstýrismaðurin at implementera føroysku strategiina í felags strategiina fyri alt ríkið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroyar eru partur av Arktis og Norðuratlantshavi, og tí er tað eisini av størsta týdningi, at vit hava eina arktiska strategi.</s>
+            <s>Bæði eina føroyska og eina felags strategi fyri alt ríkið.</s>
+            <s>Tað varð staðfest av landsstýrismanninum, at frá føroyskari síðu er ynski um fyrst at gera egna strategi, áðrenn farið verður undir eina felags strategi fyri alt ríkið.</s>
+            <s>Roknað var tá við, at tann føroyska strategiin fór at verða liðug á heysti 2021.</s>
+          </p>
+          <p>
+            <s>Arktis og Norðuratlanshavið er blivin heimspolitiskur brennidepil og tískil er tað meira umráðandi nú enn nakrantíð, at vit sum land hava lýst okkara leiklut í hesum partinum av samstarvinum.</s>
+            <s>Harumframt er tað umráðandi, at vit í ríkisfelagsskapinum hava eina samlaða strategi.</s>
+          </p>
+          <p>
+            <s>Seinasta útgreiningin, sum lýsir støðu Føroya í Arktis, er frá 2013, og nógv er hent síðani tá.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-07">7. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

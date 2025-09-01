@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-212/2021: Herjólfur sum avloysaraskip hjá Smyrli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53181" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/212">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Herjólfur sum avloysaraskip hjá Smyrli</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu verður ferðaætlanin við nýggja avloysaraskipinum á suðuroyarleiðini?</item>
+            <item xml:id="q2" type="question-item">Hvussu leingi tekur tað at sigla til meginøkið og aftur?</item>
+            <item xml:id="q3" type="question-item">Hvussu stór alda ella harður streymur skal vera, áðrenn túrar verða avlýstir?</item>
+            <item xml:id="q4" type="question-item">Hevur Herjólfur stabilisatorar?</item>
+            <item xml:id="q5" type="question-item">Hvussu skal ítrótturin skipa seg hesa tíðina?</item>
+            <item xml:id="q6" type="question-item">Hvussu skulu pendlarar skipa seg?</item>
+            <item xml:id="q7" type="question-item">Hvussu skulu arbeiðsplássini skipa seg?</item>
+            <item xml:id="q8" type="question-item">Hvussu skal vinnan fáa somu nøgd av farmi til og av oynni hesa tíðina?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tá Smyril skal í dokk, verður hann væntandi burtur í 7-8 vikur hesaferð.</s>
+            <s>Tað er greitt, at avloysaraskipið - Herjólfur III - hevur pláss fyri 530 fólkum, meðan Smyril hevur pláss fyri 975 ferðafólkum.</s>
+          </p>
+          <p>
+            <s>Herjólfur er 70,5 metrar til longdar.</s>
+            <s>Til samanbering var gamli Smyril (Mols) 92,66 metrar.</s>
+            <s>Altso, Herjólfur er 22,1 metrar styttri enn "gamli" Smyril og 67,5 metrar styttri enn verandi Smyril.</s>
+          </p>
+          <p>
+            <s>Hesa vikuna hevur virkandi stjórin á Strandferðsluni sagt við útvarpið - smáar tveir mánaðir, áðrenn Smyril skal í dokk - at arbeiðsplássini í Suðuroynni sjálvi mugu finna út av fraktini.</s>
+          </p>
+          <p>
+            <s>Tað fer at ávirka ítrótt, pendlarar, arbeiðspláss og framleiðslu í Suðuroynni, at Herjólfur tekur færri ferðafólk og umstøðurnar til bilaflutning og farmaflutning verða nógv skerdar.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiðu á, hvussu landsstýrismaðurin ætlar at loysa hendan trupulleikan, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-16">16. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-206/2021: Strandferðslan og ferðavinnan í Kalsoynni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53133" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/206">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Strandferðslan og ferðavinnan í Kalsoynni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Arbeiðir landsstýrismaðurin við at seta fleiri túrar inn á farleiðina í Kalsoynna?</item>
+            <item xml:id="q2" type="question-item">Er ætlanin at broyta ásetingina um, at bólkar yvir 25 fólk ikki kunnu bíleggja pláss við Sam til og frá Kalsoynni?</item>
+            <item xml:id="q3" type="question-item">Um ja, nær kunnu hesar broytingar væntast at verða settar í verk?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ferðavinnan er ein týdningarmikil inntøkukelda hjá ferðavinnuaktørum í Kalsoynni, og nú eru vit við at koma í háárstíð hjá ferðavinnuni.</s>
+            <s>Tað vísir seg tó at vera ein stór forðing, at ferðafólkabólkar omanfyri 25 fólk ikki kunnu bíleggja pláss, men mugu leiga bátin, um tey ynskja at tryggja sær pláss.</s>
+            <s>Hetta er sera kostnaðarmikið og hevur við sær avlýsingar, ið viðføra fíggjarligt tap fyri ferðavinnuna.</s>
+          </p>
+          <p>
+            <s>Eisini túratalið hjá Sam er ein forðing fyri ferðavinnuna.</s>
+            <s>Vit hava sæð, at áhugin fyri at vitja Kalsoynna er sera stórur og vaksandi.</s>
+            <s>Sostatt kundi eitt økt túratal - eitt nú um vikuskiftið - havt við sær fleiri inntøkur bæði fyri ferðavinnuna og Strandferðsluna.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiðu á, hvørjar ætlanir landsstýrismaðurin hevur, og nær nakað hendir á økinum, verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-02">2. juni 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

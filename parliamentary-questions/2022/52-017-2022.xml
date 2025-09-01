@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-17/2022: Bíðitíðin at skifta mjødn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53478" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/17">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bíðitíðin at skifta mjødn</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu long er bíðitíðin at skifta mjødn?</item>
+            <item xml:id="q2" type="question-item">Er nøkur ítøkilig ætlan at stytta um bíðitíðina?</item>
+            <item xml:id="q3" type="question-item">Hvussu ber tað til, at mjadnaskurðviðgerðir ofta verða útsettar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Øll, ið hava bíðað eftir viðgerð, vita, at bíðitíðin oftast kennist drúgv.</s>
+            <s>Tá viðgerðir ferð eftir ferð verða útsettar, kann hetta hava álvarsamar avleiðingar.</s>
+            <s>Dømi er eitt nú um, at mjadnaskurðviðgerð, ið skuldi vera í februar í ár, er útsett upp til fýra ferðir og verður nú væntandi ikki fyrr enn í novembur í fyrsta lagi.</s>
+          </p>
+          <p>
+            <s>Tá skurðviðgerðir verða fluttar, kann tað hava stórar avleiðingar fyri sjúklingin.</s>
+            <s>Møguliga kropsliga, men eisini sálarliga, arbeiðsliga og sosialt.</s>
+            <s>At skifta mjødn er sjáldan partur av eini lívshættisligari sjúku; men verður farið um 52 vikur, og talan ikki er um lívshættisliga sjúku, so hevur sjúklingurin ikki longur rætt til dagpening, hóast viðkomandi enn ikki er arbeiðsfør/ur.</s>
+            <s>Haraftrat kann sjúklingurin verða uppsagdur, um sjúkrameldingin fer út um 120 dagar.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-24">24. august 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-43/2022: Eftirlit við russiskum fiskiskipum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53879" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/43">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Eftirlit við russiskum fiskiskipum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu ofta ger Vørn eftirlit umborð á russiskum fiskiskipum, herundir skip, sum umskipa í føroyskum sjógvi?</item>
+            <item xml:id="q2" type="question-item">Hvussu ofta hevur Vørn gjørt eftirlit umborð á russiskum skipum, síðan Russland fór í kríggj við Ukraina?</item>
+            <item xml:id="q3" type="question-item">Fylgir Vørn neyvt við, hvat russisk fiskiskip fiska, og um tey fiska meira enn ásettu kvoturnar av hvørjum fiskaslagi?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv eftirlit var við ávikavist russisk og føroysk skip í 2019, 2020, 2021 og higartil í 2022?</item>
+            <item xml:id="q5" type="question-item">Liva eftirlitini hjá Vørn upp til krøvini, sum eru ásett í avtalu við Noreg og ES frá 2020?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroyar hava m.a. í avtalu við Noreg og ES frá 2020 um eftirlit við uppsjóvarfiskastovnum bundið seg til at gera fult eftirlit av $5 %$ av landingunum og 7,5% av nøgdini, sum verður landað av uppsjóvarfiski í Føroyum.</s>
+            <s>Fult eftirlit er millum annað, at eftirlitsfólk skal vera til staðar alla tíðina, meðan landað verður.</s>
+          </p>
+          <p>
+            <s>Tað hevur verið frammi í miðlunum, at Fiskimálaráðið niðurraðfestir eftirlit við fiskifør, sum fiska í Føroyum.</s>
+            <s>Vørn hevur áður sagt seg ikki hava arbeiðsorkuna til at liva upp til krøvini um eftirlit við føroyskum havnum, sum Føroyar annars hava bundið seg til í altjóða samstørvum.</s>
+          </p>
+          <p>
+            <s>Sjálvt um Russland óprovokerað hevur valt at fara í kríggj í Evropa og harvið dagliga hóttir vesturheimin, so heldur landsstýrið enn dyrnar víðopnar fyri russiskum fiskiskipum, og spurningurin er, um Føroyar eru blivnar ein frístaður hjá russiskum skipum.</s>
+            <s>Tað er av alstórum týdningi, at strangt eftirlit verður hildið við hesum skipunum og tí, sum skipini fiska í føroyskum sjógvi.</s>
+          </p>
+          <p>
+            <s>Russisku uppsjóvarkvoturnar í føroyskum sjógvi í 2022 eru: Svartkjaftakvotan er 75.000 tons; makrelkvotan er 13.300 tons og sildakvotan er 9.200 tons.</s>
+            <s>Hetta eru ovurhonds stór føroysk virði, sum hava stóran almennan áhuga.</s>
+            <s>Vit eiga at fáa góða og neyva kunning um alt, hesi skipini gera í føroyska rúminum, hvat kemur innanborða, hjáveiðu, hvat fer í lastina, hvat verður umskipað o.s.fr.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-09-26">26. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

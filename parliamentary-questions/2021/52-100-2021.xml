@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-100/2021: Um landsstýrismaður situr fyri málsøkinum á fullgóðan hátt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50014" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/100">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um landsstýrismaður situr fyri málsøkinum á fullgóðan hátt</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur løgmaður, at landsstýrismaðurin í fíggjarmálum situr fyri sínum málsøki á fullgóðan hátt í samband við ætlaðu avtøkuna av aldursmarkinum ?</item>
+            <item xml:id="q2" type="question-item">Um løgmaður ikki heldur, at landsstýrismaðurin situr fyri sínum málsøki á fullgóðan hátt, hvørji stig ætlar løgmaður tá at taka ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í samgonguskjalinum stendur soleiðis: "Aldurin eigur ikki at vera avgerandi fyri, nar farið verður av arbeiðsmarknaðinum.</s>
+            <s>Tcenastumannalógin og aðrar forskriftir verða broyttar samsvarandi.</s>
+            <s>Meginreglan er, at førleikin og ikki aldurin skal avgera, nar farið verður av arbeiðsmarknaðinum".</s>
+          </p>
+          <p>
+            <s>Hóast hesa greiðu samgonguavtalu, hevur landsstýrismaðurin í fíggjarmálum uppá fyrispurning (52-082/2021) frá undirritaða um avtøku av aldursmarkinum bert boðað frá, at "Arbeitt verður í lótuni við at hækka fráfaringaraldurin úr 70 ár upp í 72 ár, baeði fyri sáttmálasett starvsfólk og fyri tcenastumannasett."</s>
+          </p>
+          <p>
+            <s>At hækka fráfaringaraldurin er ikki tað sama sum at avtaka hann, og hetta kann ikki annað enn tulkast sum, at tað í veruleikanum ongar ætlanir eru um at avtaka fráfaringaraldurin, soleiðis at pensjónistar sjálvir gera av, nær farið verður av arbeiðsmarknaðinum í mun til áhuga og førleika hjá tí einstaka.</s>
+          </p>
+          <p>
+            <s>At avtaka aldursmarkið er fult í samljóði við tað, ið Landsfelag Pensjónista hevur víst á og hevur havt ynski um at fáa broytt, soleiðis at vit fáa bannað hesum áralanga mismuni og tryggja javnviðgerð á arbeiðsmarknaðinum.</s>
+          </p>
+          <p>
+            <s>Í Danmark varð hesin rætturin hjá pensjónistum tryggjaður við lóg fyri fleiri árum síðan.</s>
+          </p>
+          <p>
+            <s>Havandi eftirlitsskyldu løgmans í huga er tað, at spurningurin verður settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-12-06">6. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

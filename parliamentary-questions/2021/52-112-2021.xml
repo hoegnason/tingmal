@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-112/2021: Ymisk koronutilmæli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50387" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/112">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ymisk koronutilmæli</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Eru ymisk koronutilmæli galdandi fyri ávikavist kirkjur, samkomur, mentanarlív og ávísar ítróttargreinar?</item>
+            <item xml:id="q2" type="question-item">Hvat heldur løgmaður um, at ítróttartiltøk verða hildin innandura fleiri dagar á rað við fleiri hundrað áskoðarum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í skrivandi stund eru 1787 tilburðir av koronu staðfestir í Føroyum, og í meðal eru í løtuni 256 tilburðir um dagin.</s>
+          </p>
+          <p>
+            <s>Higartil í ár hava ongar guðstænastur verið hildnar, tí fólkakirkjan hevur avlýst hesar fyri at halda koronutilmælini um ikki at savna fleiri enn 100 fólk innandura.</s>
+          </p>
+          <p>
+            <s>Mentanartiltøk eru eisini avlýst ella avmarkaði, tí tilmælini verða hildin.</s>
+            <s>Til dømis sæst á heimasíðuni hjá Norðurlandahúsinum, at tá fleiri enn 100 fólk eru til eitt tiltak, steðgar atgongumerkjasølan, og at fólk so mugu seta seg á bíðilista fyri at fáa atgongumerki, sum møguliga gerast tøk.</s>
+          </p>
+          <p>
+            <s>Samstundis frættist í miðlunum um dagarnar, at ítróttartiltøk eru í fleiri dagar á rað, har fleiri hundrað áskoðarar eru savnaðir innandura.</s>
+          </p>
+          <p>
+            <s>Fólk tykjast ørkymlaði um, hvørji tilmæli eru galdandi, og tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-14">14. januar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

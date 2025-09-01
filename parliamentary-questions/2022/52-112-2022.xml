@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-112/2022: Integratiónslóg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56930" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/112">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni K. Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Integratiónslóg</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu gongur at fyirreika lógaruppskot um integratión?</item>
+            <item xml:id="q2" type="question-item">Hvørjir eru týdningarmestu tættirnir, sum ein slík lóggáva eigur at fevna um?</item>
+            <item xml:id="q3" type="question-item">Hvørjar eru størstu avbjóðingarnar at skipa ein heildarkendan føroyskan politikk á útlendingaøkinum?</item>
+            <item xml:id="q4" type="question-item">Nær væntast lógaruppskotið at vera klárt at bera í Løgtingið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinnu mongu árini er talið á útlendingum, sum seta búgv í Føroyum, vaksið skjótt og veksur enn.</s>
+            <s>Sambært Hagstovuni er ein stórur partur av orsøkini til fólkavøkstur í Føroyum seinastu árini tann stóra tilflytingin.</s>
+            <s>Talan er tá óivað um føroyingar, sum flyta heim, men ikki minni um útlendingar, sum flyta til Føroya í sambandi við arbeiði, familjuviðurskifti o.a.</s>
+          </p>
+          <p>
+            <s>Hesi ríka okkara samfelag og taka m.a. upp arbeiði, har tørvurin á arbeiðsmegi er stórur og trupul at nøkta.</s>
+            <s>Tey bera við sær nógvan kunnleika, vitan og mentan, sum kemur og í størri mun eigur at koma føroyska samfelagnum til góðar.</s>
+          </p>
+          <p>
+            <s>Fleiri og fleiri tekin eru um, at neyðugt er at styrkja fyrisitingina av hesum øki, so samfelag okkara er betur ført fyri at taka ímóti tilflytarum, og gera tað høgligt hjá teimum at lenda í skipanum, sum mynda okkara gerandisdag.</s>
+            <s>Men tørvur er helst eisini á at stýra gongdini og tryggja myndugleikum betri vitan, grundarlag og heimildir á hesum øki, og óivað er neyðugt at nágreina rættindi og skyldur hjá bæði einstaklingum og myndugleikum.</s>
+            <s>Í fleiri ár er frætt um, at arbeitt verður við føroyskari integratiónslóg, tó enn er hon ikki komin, og tað tykist sum, at málið er av meira torgreiddum slagi.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-05-30">30.mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-64/2023: Um føroyskar pengaseðlar, serliga túsundkrónuseðlar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/59455" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/64">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um føroyskar pengaseðlar, serliga túsundkrónuseðlar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar eru ætlanirnar við føroyska túsundkrónuseðlinum ?</item>
+            <item xml:id="q2" type="question-item">Hvørjar eru ætlanirnar við eldru føroysku pengaseðlunum og føroyskum pengaseðlum sum heild ?</item>
+            <item xml:id="q3" type="question-item">Hvat verður svarið til donsku stjórnina og danskar myndugleikar um hesi mál?</item>
+            <item xml:id="q4" type="question-item">Hvørjar eru langtíðarætlanirnar við pengaseðlum og myntum í Føroyum sum gjaldsmiðlar í framtíðini ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Á tíðindafundi hin 30. november 2023 kunngjørdi danski tjóðbankin, at frá 31. mai í 2025 verða allir danskir pengaseðlar, sum eru eldri enn sonevnda 2009 - røðin, ógyldugir, og at nú verða teir heintaðir inn.</s>
+            <s>Ymsir partar greiddu frá tí stóra inntrivinum, og hvørja ávirkan tað fær- og tess ávirkan á nevndu partar, og tíðindafólk settu spuningar um, hvussu hetta inntriv fór at ávirka samfelagið, serstakliga einstaka borgaran.</s>
+            <s>Pengapolitikkur er felagsmál, so hetta mál hevur stóran áhuga fyri Føroyar, tí hóast vit hava egnar pengaseðlar, so er danska krónan okkara gjaldoyra og verða vit munandi ávirkað av øllum, sum fyriferst á hesum øki í Danmark.</s>
+          </p>
+          <p>
+            <s>Ein onnur merkisverd broyting verður, at túsundkrónuseðilin, sum er partur av 2009røðini, ið annars verður varðveitt, verður ógyldugur frá 31. mai 2025.</s>
+            <s>Grundgevingarnar snúgva seg um hvítvasking og annan fíggjarligan kriminalitet og um minni nýtslu og harvið minni tørv á pengaseðlum, soleiðis at seðlarnir 500 kr., 200 kr., 100 kr. og 50 kr. metast at verða nøktandi í framtíðini.</s>
+            <s>Boðskapurin leggur upp til fleiri spurningar, m.a. hvussu ein veit, at tað ikki verður ov tvørligt ikki at kunna nýta túsundkrónuseðlar, og hvussu tann, sum fegin vil halda fram at nýta reiðan pening, skal fyrihalda seg, nú tað sýnist at fara at verða tvørligari og tvørligari sum frá líður.</s>
+            <s>Eisini verður spurt, um tey fáu kriminellu í hesum máli skulu skerja virkisfrælsið og valmøguleikarnar hjá vanligum hampafólkum, tá um góðar møguleikar at nýta reiðan pening eftir egnum vali ræður.</s>
+            <s>Sambært heimasíðu danska tjóðbankans er danska stjórnin í samskifti við føroysku myndugleikarnar um, hvørt føroyski túsundkrónuseðilin skal heintast inn, og eisini um teir eldru føroysku pengaseðlarnir skulu.</s>
+            <s>Mong spyrja um, hvat føroyskir myndugleikar ætla við pengaseðlum, hvussu ætlað er at tryggja góðar virkismøguleikar í framtíðini við reiðum peniningi, hvørjar ætlanirnar eru við eldru føroysku pengaseðlunum, við túsundkrónuseðlinum og við hesum øki sum heild og hvat svarið verður til donsku myndugleikarnar, sum siga seg vera í samskifti við føroyskar myndugleikar um málið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-12-18">18. desember 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

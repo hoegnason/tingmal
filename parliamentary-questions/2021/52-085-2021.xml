@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-85/2021: Fundur við NATO-umboð, viðgerð av hernaðarradara og ábyrgd mótvegis Løgtinginum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49697" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/85">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fundur við NATO-umboð, viðgerð av hernaðarradara og ábyrgd mótvegis Løgtinginum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hví hevur løgmaður ikki ráðført seg við Uttanlandsnevndina hjá Løgtinginum, nú hann hevur havt fund við NATO-umboð, meðan mál um hernaðarradara hjá NATO í Føroyum er á skránni?</item>
+            <item xml:id="q2" type="question-item">Hví segði løgmaður við fjølmiðlar, at hann fór ikki at viðgera spurningin um hernaðarradara í Føroyum beinleiðis við NATO-aðalskrivaran og onnur NATO-umboð, tá ið hann nú hevði allar møguleikar at gera tað?</item>
+            <item xml:id="q3" type="question-item">Var spurningurin um hernaðarradara í Føroyum viðgjørdur á fundum løgmans við NATO-umboð, og um so er, hvat varð sagt og viðgjørt?</item>
+            <item xml:id="q4" type="question-item">Hevur løgmaður givið NATO-umboðum ta fatan, at tað eru danskir myndugleikar, ið eiga endaligu avgerðirnar um hernaðarmál í Føroyum?</item>
+            <item xml:id="q5" type="question-item">Nær hava Løgtingið og Føroya fólk samtykt, at aðrir myndugleikar, enn teir, ið vit sjálv hava valt í Føroyum, kunnu samráðast um og taka avgerðir um, hvat okkara land skal brúkast til í hernaðarmálum?</item>
+            <item xml:id="q6" type="question-item">Kennir løgmaður ábyrgd mótvegis fólkavalda Løgtinginum í viðgerðini av hernaðarmálum, ella heldur hann seg verða lagdan undir danskt vald í hernaðarmálum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í fjømiðlunum fáa vit sum fólkavald løgtingsfólk í Føroyum at vita, at løgmaður hevur verið á fundi við NATO-aðalskrivaran og onnur umboð fyri NATO í Brússel.</s>
+          </p>
+          <p>
+            <s>Ongin ráðførsla ella kunning hevur verið í Uttanlandsnevndini hjá Løgtinginum um hesar fundir løgmans, hóast eitt mál um hernaðarradara hjá NATO í Føroyum hevur verið til viðgerðar í Løgtinginum.</s>
+            <s>Og hóast landsstýrismaðurin í uttanríkismálum hevur sagt alment, at ein avtala skal undirskrivast um hetta í næstum.</s>
+          </p>
+          <p>
+            <s>Á hesum fundum í Brússel hevði gylt høvi verið at viðgjørt ynskini og grundgevingarnar hjá NATO fyri einum hernaðarradara í Føroyum, beinleiðis millum Føroyar og NATO.</s>
+            <s>Men hetta skuldi ikki gerast sambært útsagnum løgmans í fjølmiðlunum.</s>
+          </p>
+          <p>
+            <s>Til tess at fáa greiði á, hví løgmaður er farin soleiðis fram, og hvussu hann sær sína ábyrgd mótvegis fólkavalda Løgtinginum, verður fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-15">15. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

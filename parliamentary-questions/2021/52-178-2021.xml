@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-178/2021: Mótrokning í fólkapensjón av arbeiðsinntøku</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52705" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/178">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/f2en7se7">Sólvit Emilsson Nolsø, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Mótrokning í fólkapensjón av arbeiðsinntøku</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stórar vóru árligu upphæddirnar í 2020 og 2021, sum vórðu mótroknaðar í fólkapensjónini ella viðbótini vegna arbeiðsinntøku?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fólkapensjónin er samansett av einari grundupphædd, sum er líka fyri øll og einari viðbót.</s>
+            <s>Í verandi løtu er grundupphæddin 3.589 kr. um mánaðin fyri støk og 2.733 kr. fyri gift.</s>
+            <s>Fyri støk er verandi viðbót í mesta lagi 3.771 kr. um mánaðin, fyri gift 3.031 kr.</s>
+          </p>
+          <p>
+            <s>Grundupphæddin er skattafrí.</s>
+            <s>Viðbótin er skattskyldug og minkar eisini, um tú hevur aðra inntøku, eitt nú arbeiðsinntøku, leiguinntøku, inntøku frá partabrøvum o.ø. Eisini verður mótroknað í brennistuðlinum.</s>
+            <s>Tá egininntøkan fer upp um 61.900 kr. árliga byrjar mótrokning í viðbótini.</s>
+            <s>Hetta verður gjørt soleiðis, at viðbótin lækkar 60% av upphæddini, ið egininntøkan er upp um 61.900 kr. árliga.</s>
+            <s>Mótrokning heldur fram til viðbótin er uppi.</s>
+          </p>
+          <p>
+            <s>Pensjonistafrádráttur er árligur skattafrádráttur til fólkapensjonistar.</s>
+            <s>Frádrátturin er upp til 6.000 krónur í løtuni.</s>
+          </p>
+          <p>
+            <s>Sostatt er tað møguligt hjá fólkapensjónistum at hava við síðuna av fólkapensjónini ávísa arbeiðsinntøku, uttan at henda verður skattað o.a.</s>
+          </p>
+          <p>
+            <s>Endamálið við hesari skipan er at eggja teimum pensjónistum, sum er førir fyri tí, at hava eitt hóskandi arbeiði, serliga nú arbeiðsloysið er lágt og tørvur er á arbeiðsmegi.</s>
+          </p>
+          <p>
+            <s>Tað politiskt áhugaverda er m.a., hvørja ávirkan hetta hevur á arbeiðsmarknaðin, hvussu nógv taka av møguleikanum, og um t.d. ein avtøka av mótrokningini hevði havt við sær, at pensjónistar høvdu viljað ella ynskt at arbeitt enn fleiri tímar, enn teir gera í løtuni, bæði teir, sum longu hava eitt arbeiði og teir, sum ikki hava eitt arbeiði.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-26">26. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

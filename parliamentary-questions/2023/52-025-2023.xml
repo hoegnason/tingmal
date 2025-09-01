@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-25/2023: Føroya Sílaveiðifelag og alistøðin hjá P/F Fiskaaling við Áir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57753" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/25">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Føroya Sílaveiðifelag og alistøðin hjá P/F Fiskaaling við Áir</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær móttók Fiskaaling umsókn frá Sílaveiðifelagnum um leigu av parti av hølunum hjá Fiskaaling við Áir?</item>
+            <item xml:id="q2" type="question-item">Nær fær Føroya Sílaveiðifelagið eitt svar upp á umsóknina um at leiga ein part av hølunum hjá Fiskaaling við Áir til at reka sítt virksemi?</item>
+            <item xml:id="q3" type="question-item">Hví hevur tað drigið út at geva Sílaveiðifelagnum eitt svar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Síluveiðifelagið hevur søkt Fiskaaling um at reka sítt virksemi í einum parti av hølunum hjá Fiskaaling við Áir.</s>
+            <s>Felagið hevur enn onki svar fingið.</s>
+          </p>
+          <p>
+            <s>Alistøðin (smoltstøð) hjá P/F Fiskaaling við Áir er ein sokallað feskvatns-alistøð, har dentur verður lagdur á teoretiska gransking um t.d. lús o.a. sum hevur við alivirksemi at gera.</s>
+          </p>
+          <p>
+            <s>Sílaveiðifelagið hevur m.a. sum endamál at vísa vegin fyri síla- og laksaaling.</s>
+            <s>Vit kunnu staðfesta eina afturgongd av síla- og laksastovninum.</s>
+            <s>Villlaksur hevur nakrar serligar ílegur og stammur; arvur sum gongur aftur í somu áum - og laksur sloppin út í alibrúkunum kann hava við sær tær avleiðingar, at bland kemur í ílegurnar, og røttu arvaeginleikarnar detta tá burtur.</s>
+          </p>
+          <p>
+            <s>Sílaveiðifelagið kann hava stýr á kleking, og at besti laksurin og sílini verða sett út í okkara áir - ætlað til vanligan laksa- og sílafiskiskap.</s>
+            <s>Eisini kann arbeiðið hjá felagnum virka fyri at fremja frítíðarfiskarí ella turistfiskarí og harvið menna okkara ferðavinnu.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-09-13">13. september 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

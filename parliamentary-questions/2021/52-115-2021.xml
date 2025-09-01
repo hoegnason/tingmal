@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-115/2021: Dagføring og trygging av havnarløgum v.m. ímóti stormskaðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50409" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/115">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Dagføring og trygging av havnarløgum v.m. ímóti stormskaðum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er fyribyrging ímóti stormskaðum partur av veðurlagspolitikkinum, sum landsstýrið arbeiðir við?</item>
+            <item xml:id="q2" type="question-item">Er nøkur ætlan gjørd hjá landinum, Landsverki og/ella kommunum fyri at dagføra og framtíðartryggja havnarløg, bryggjur, sjóvarbakkar, brimgarðar, bygningar osfr., so hesi betur tola ógvusligan storm og uppgang?</item>
+            <item xml:id="q3" type="question-item">Er nøkur ætlan um at stovnseta ein grunn ella annað, sum kann lofta fíggjarliga, tá ódnarstormar ella uppgangur gera skaða?</item>
+            <item xml:id="q4" type="question-item">Er nakað samstarv í gongd í millum avvarðandi stjórnarráð, stovnar og kommunur um at gera eina stormtilbúgving og arbeiði at fyribyrgja títtari stormskaðum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Stormar og nógvi uppgangurin herfyri gjørdu stóran skaða fleiri staðni, eins og vit hava upplivað so mangan áður.</s>
+            <s>Nógv bendir á, at vit í framtíðini fara at uppliva bæði títtari og ógvusligari ódnir, sum avleiðing av veðurlagsbroytingunum.</s>
+            <s>Flestu lond hava tí gjørt sær tilbúgving í mun til at verja fyri álvarsomum skaðum og oyðileggingum av stormi, uppgangi og vatnflóð.</s>
+            <s>Flestallar bygdir í Føroyum liggja beinleiðis út til havið, og tí er vandin fyri skaða á bryggjur, sjóvarbakkar, brimgarðar og annað stórur.</s>
+            <s>Harumframt liggja nógvir bygningar við sjóvarmálan, ábært fyri stormi, brimgangi og vatnflóð.</s>
+            <s>Vatnstøðan í heimshøvunum hækkar støðugt.</s>
+            <s>Ikki allar kommunur er nóg sterkar fíggjarliga, til at lofta stórum skaðum tá stormarnir herja.</s>
+            <s>Ti vildi ein felags "stromskaðagrunnur" verið til stórt gagns fyri ábæru plássini í Føroyum.</s>
+            <s>Í miðlunum frættist, at landsstýrismaðurin í verðurlagsmálum í næstum leggur fyri Løgtingið eitt uppskot til samtyktar um veðurlagspolitikk.</s>
+            <s>Nevnda tilbúgving og fyribyrging er týðandi táttur í at fyrireika Føroyar til broytt veðurlag, men hevur ikki verið nevnd í tí tilfari, vit higartil hava sæð um nýggjan veðurlagspolitikk.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-19">19. januar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

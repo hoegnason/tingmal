@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-133/2021: Samskifti við donsku stjórnina um radaran</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50997" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/133">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Samskifti við donsku stjórnina um radaran</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir fysiskir fundir, telefonfundir ella talgildir fundir hava verið um radaran millum landsstýrismannin og verjumálaráðharran frá september 2019 til februar 2021?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvir fysiskir fundir, telefonfundir ella talgildir fundir hava verið um radaran millum embætisfólk hjá føroyska uttanríkisráðnum og embætisfólk hjá danska verjumálaráðnum frá september 2019 til februar 2021?</item>
+            <item xml:id="q3" type="question-item">Hvør eigur sambært donsku stjórnini avgerðina, um radari skal setast upp ella ikki í Føroyum?</item>
+            <item xml:id="q4" type="question-item">Hevur danska stjórnin noktað fyri, at Løgtingið tekur prinsipiella avgerð um radaran?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ivi hevur verið sáddur um, um føroyska stjórnin varð kunnað um ætlanina at seta radara upp í Føroyum, áðrenn danska stjórnin legði ætlanina fram á tíðindafundi í februar 2021.</s>
+          </p>
+          <p>
+            <s>Trine Bramsen, táverandi verjumálaráðharri, segði í svari til Sjúrð Skaale tann 8. desember 2020, at samskifti hevur verið við føroyska landsstýrismannin um radaran áðrenn tíðindafundin.</s>
+            <s>Tí er umráðandi at staðfesta, um landsstýrið hevur verið kunnað um ætlanirnar við radaranum, og í øðrum lagi, hví landsstýrið ikki hevur kunnað Uttanlandsnevndina um samskiftið millum føroysku og donsku stjórnina.</s>
+          </p>
+          <p>
+            <s>Hóast danska stjórnin fleiri ferðir alment hevur boðað frá, at føroyingar eiga avgerðina, so hevur tað eisini verið ført fram, at danska stjórnin tekur avgerðina uttan um føroyingar.</s>
+          </p>
+          <p>
+            <s>Somuleiðis hevur verið ført fram, at danska stjórnin ynskir at seta radara upp uttan um Løgtingið.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir fyrispurningarnir settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-02-21">21. februar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

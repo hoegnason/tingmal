@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-101/2021: Ómaksgjøld fyri almennar tænastur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50020" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/101">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ómaksgjøld fyri almennar tænastur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er ómaksgjalds-politikkurin hjá landinum?</item>
+            <item xml:id="q2" type="question-item">Hvat er endamálið við ómaksgjaldum hjá landinum?</item>
+            <item xml:id="q3" type="question-item">Hvussu verða ómaksgjøld ásett og roknað út?</item>
+            <item xml:id="q4" type="question-item">Hvørjir almennir stovnar krevja ómaksgjøld fyri sínar tænastur, býtt upp á málsøki, stovnsnavn og slag av ómaksgjøldum (tænastugjald, rykkjaragjald, avgreiðslugjald o.a.)?</item>
+            <item xml:id="q5" type="question-item">Hvussu stórar upphæddir vórðu kravdar inn í ómaksgjøldum í 2020, býtt upp á almennar stovnar og slag av óamaksgjøldum (tænastugjald, rykkjaragjald, avgreiðslugjald o.a.)?</item>
+            <item xml:id="q6" type="question-item">Ætlar landsstýrismaðurin at fremja nakrar broytingar í sambandi við ómaksgjøld, og hvørji ómaksgjøld eru á veg at setast í verk og eru nøkur á veg at verða avtikin?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er vorðin ein alt meira vanligur partur av inntøkubygnaðinum hjá almennum stovnum at útvega sær inntøkur við at krevja ómaksgjøld frá sínum viðskiftafólkum, t.d. tænastugjøld, rykkjaragjøld, avgreiðslugjøld o.a.</s>
+          </p>
+          <p>
+            <s>Oftani kann tað vera sera trupult at gjøgnumskoða, hvussu hesi gjøld eru ásett og roknað út, og tað skapar eina ónøgd millum tey, sum noyðast at gjalda.</s>
+          </p>
+          <p>
+            <s>Tað virkar eisini sum um, at tá játtanin til stovnin ikki er nóg stór, so verða inn gjøgnum "bakdyrnar" ásett gjøld fyri at dekka vaksandi útreiðslurnar.</s>
+            <s>Avleiðingin er eyka kostnaður fyri brúkaran, og er hetta eisini við til at minka um eftirspurningin eftir almennu tænastuni.</s>
+          </p>
+          <p>
+            <s>Tað er týdningarmikið, at borgarin og vinnan vita m.a., hvat tað er, tey gjalda fyri í ómaksgjaldi, tá almennar tænastur verða veittar.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-12-07">7. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-118/2022: Umlætting hjá fjølbrekaðum borgarum.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56981" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/118">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýriskvinna í almanna- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Umlætting hjá fjølbrekaðum borgarum.</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu mong eru tey sum fáa umlættingartilboð frá almannaverkinum vegan fjølbrek.</item>
+            <item xml:id="q2" type="question-item">Er ein ávísur leistur fyri umlættingini, tvs. hvussu nógv verður játta til hvønn.</item>
+            <item xml:id="q3" type="question-item">Fáa tey, sum liva saman við fjølbrekaðum borgarum, tilboð um longri samanhangandi tíðarbil við umlætting, td. feriur o.l.</item>
+            <item xml:id="q4" type="question-item">Verða longri periodur við umlætting trektar frá tí umlætting sum hesar familjur vanliga fáa. Kann tað td. henda at ein familja fær at vita, at um tey skulu hava 14 samanhangandi dagar við umlætting, so verður eingin umlætting næstu 3 mánaðarnir.</item>
+            <item xml:id="q5" type="question-item">Er starvsfólka-støðan á umlættingarøkinum nøktandi.</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Vit eru sum samfelag, eitt av teimun ríkastu í heiminum.</s>
+            <s>Tí ljóðar tað merkiligt tá man í almenna rúminum hoyrir søgur um at familjur ikki fáa tað hjálp, sum, sæð uttanífrá, tykist vera sjálvsøgd.</s>
+            <s>Í einum fyrispurningi frá 2021 varð sagt at almannaverkið, millum annað vegan starvsfólkatrot ikki hevði møguleika at veita alla tað tænastuna sum man ynskti at veita.</s>
+            <s>Tað var eisini sagt at Almannamáraráðið og Mentamálaráðið vóru farin undir at útbúgva folk fyri at nøkta tørvin á arbeiðsmegi til hetta økið.</s>
+            <s>Fyri betur at skilja hvussu støðan er nú verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-12">09/06/2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

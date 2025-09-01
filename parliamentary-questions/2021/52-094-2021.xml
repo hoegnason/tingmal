@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-94/2021: Arbeiðsmegin hjá Atlantsflog</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49861" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/94">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Arbeiðsmegin hjá Atlantsflog</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin upplýsa, um Atlantic Airways raðfestir bíliga útlendska arbeiðsmegi fram um royndar føroyskar umsøkjarar?</item>
+            <item xml:id="q2" type="question-item">Kann landsstýrismaðurin upplýsa um starvsfólkakostnaðir til flogskiparar og flogternur frá 1. januar 2021 til 1. oktober 2021 í mun til sama tíðarskeið í 2019?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Atlantsflog er okkara tjóðarflogfelag og eitt av stóru arbeiðsplássunum í Føroyum.</s>
+            <s>Undir koronukreppuni, sum rakti flogvinnuna hart, varð avgjørt at seta 100 mió. kr. aftrat í almenna flogfelagið við eykajáttan.</s>
+            <s>Hetta fyri at felagið skuldi koma betur burtur úr kreppuni.</s>
+            <s>Undir viðgerðini í Løgtinginum førdu fleiri tingfólk fram, at treytin fyri íløguna var, at felagið setti føroysku starvsfólkini aftur í starv, sum høvdu mist starv sítt orsakað av minkandi flogferðslu.</s>
+            <s>Landsstýrismaðurin varð kunnaður um hetta ynskið.</s>
+          </p>
+          <p>
+            <s>Nú er stórur vøkstur í flúgving til Føroya og eisini hjá Atlantsflog.</s>
+            <s>Hetta er gleðiligt.</s>
+            <s>Røddir eru tó frammi í fjølmiðlunum um, at onnur bíligari arbeiðsmegi verður sett í størv, sum føroyingar mannaðu frammanundan koronukreppuni, hóast føroysku starvsfólkini eru tøk.</s>
+          </p>
+          <p>
+            <s>Atlantsflog hevur altíð verið eitt føroyskt felag, sum vit eru errin av. Einamest tí, at leiðsla og flestu starvsfólk eru dugnaligir føroyingar við hollum royndum - bæði á landi og í luftini.</s>
+            <s>Um bílig útlendsk arbeiðsmegi verður raðfest, kann mann ímynda sær, at tað verður fremmandamál, sum fer at mynda flogtúrin í framtíðini, hóast talan er um okkara tjóðarflogfelag.</s>
+            <s>Fyri at fáa greiðu á hesum, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-24">24. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-30/2021: Venjing til parkinsonsjúklingar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48406" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/30">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Venjing til parkinsonsjúklingar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin, at verandi venjingartilboð til parkinsonsjúklingar er nøktandi?</item>
+            <item xml:id="q2" type="question-item">Hevur landsstýrið nakra ætlan um at taka stig til - í samstarvi við kommunurnar og Almannaverkið - at lívlong málrættað venjing verður eitt tilboð fyri allar parkinsonsjúklingar í Føroyum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>20. august í ár hoyrdist í Kringvarpinum um vantandi málrættað tilboð um venjing til parkinsonsjúklingar.</s>
+            <s>Hetta, hóast vit hava tvífalt so nógvar parkinsonsjúklingar sum í Danmark, sammett við fólkatalið.</s>
+            <s>Á heysti 2020 varð endurvenjing fyri sjúklingar við Parkinson á Suðuroyar sjúkrahúsi sett á stovn í samstarvi við Landssjúkrahúsið, har sjúklingar kunnu koma á rehabiliteringsuppihald tvær ferðir um árið.</s>
+          </p>
+          <p>
+            <s>Tørvurin hjá hesum sjúklingum er lívlong støðug venjing.</s>
+            <s>Í Danmark er hetta tilboð ókeypis fyri borgaran og eitt tilboð, ið viðkomandi fær, tá sjúkan er staðfest, uttan mun til aldur.</s>
+            <s>Sum skilst er tað bert av og á, at kommunurnar hava tíðaravmarkað tilboð um venjing til borgarar yvir 67 ár, og tað kann hugsast, at ein orsøk er, at ymiskt er, hvussu stórt talið á sjúklingum er og ymiskt, hvar borgarin er í sjúkugongdini í teimum ymsu kommununum.</s>
+            <s>Venjingin er ofta ikki beinleiðis málrættað sjúklingum við Parkinson.</s>
+            <s>Eisini bjóðar Almannaverkið tíðaravmarkaða venjing.</s>
+          </p>
+          <p>
+            <s>Í Føroyum er økið tvíbýtt.</s>
+            <s>Landið hevur ábyrgdina av teimum, ið eru yngri enn 67 ár og kommunan ábyrgdina av teimum, ið eru eldri enn 67 ár.</s>
+            <s>Tað kann hava við sær, at borgarar detta ímillum skipanir - møguliga tí tað er trupult at skipa málrættaða venjing í hvørjari kommunu sær.</s>
+            <s>Tískil er spurningurin, um tað ikki hevði verið best og mest nøktandi fyri borgaran, um landið tók stig til eitt samskipað málrættað landsumfatandi tilboð til allar borgarar við Parkinson uttan mun til aldur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-31">31. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

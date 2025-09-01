@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-106/2021: Lýsingabløð hjá Posta</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/50096" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/106">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lýsingabløð hjá Posta</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat heldur landsstýrismaðurin um at seta í verk eina skipan, har lýsingabløð hjá Posta einans verða borin út til tey, sum aktivt hava valt at fáa lýsingabløð ?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv lýsingabløð verða borin út til hvørt húsarhald á hvørjum ári?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv húsarhald hava valt "Ongar lýsingar – takk" skipanina hjá Posta?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Lýsingabløð verða hvørja viku borin út í húsarhald í Føroyum.</s>
+            <s>Í dag skulu fólk sjálvi biðja um at fáa eitt klisturmerki við tekstinum "Ongar lýsingar - takk" á postkassan, um tey ikki vilja hava lýsingabløð.</s>
+            <s>Hetta er ein sokallað "nei takk" skipan.</s>
+          </p>
+          <p>
+            <s>Fyri nøkrum árum síðani skeyt Føroya Náttúru- og Umhvørvisfelag upp, at lýsingabløð áttu at verið ein "ja takk" skipan i staðin fyri ein "nei takk" skipan.</s>
+          </p>
+          <p>
+            <s>Við eini slíkari broyting merkir tað, at sum útgangsstøði verða lýsingabløð ikki borin út til húsarhald, og tí skulu fólk aktivt velja at fáa lýsingabløð, um tey vilja hava tey.</s>
+            <s>Grundarlagið fyri hesi broytingini er at minka um pappírsoyðsl, óneyðugt rusk og fyribyrgja, at fólk verða eggjað til at keypa meira, enn tey hava tørv á.</s>
+            <s>Í 2019 vórðu 385.000 kilo av lýsingabløðum borin út til føroysk húsarhald.</s>
+          </p>
+          <p>
+            <s>Haraftrat eru lýsingabløðini tøk ókeypis á talgildum palli hjá Posta, sum eitur bera.fo.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2021-12-09">8. desember 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

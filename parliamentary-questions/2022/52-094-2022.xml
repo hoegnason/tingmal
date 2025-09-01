@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-94/2022: Sandoyartunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56726" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/94">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Sandoyartunnilin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er ósemja ímillum P/F Eysturoyar- og Sandoyartunnil og arbeiðstakaran NCC um at gera Sandoyartunnilin lidnan?</item>
+            <item xml:id="q2" type="question-item">Drálar NCC við at gera Sandoyartunnilin lidnan, og um so er, hvør er orsókin?</item>
+            <item xml:id="q3" type="question-item">Sleppa undirarbeiðstakarar ikki fram at, fyrrenn NCC er liðugt við sítt arbeiði?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hoyrist millum manna, at ósemja ímillum tunnilsfelagið og NCC ger, at NCC drálar við at gera Sandoyartunnilin lidnan, samstundis sum undirarbeiðstakarar ikki sleppa framat, fyrrenn NCC er liðugt við sítt arbeiði.</s>
+          </p>
+          <p>
+            <s>Arbeiðið hevur gingið skjótari enn tíðarætlanin, og skal ósemja vera um møguligt «bonus» til NCC, um NCC letur tunnilin áðrenn ásettu tíðina.</s>
+          </p>
+          <p>
+            <s>Spurningarnir verða settir til løgmann fyri at fáa váttað ella avsannað tíðindini.</s>
+            <s>Tað kann virka skilaleyst, um ein ósemja ger, at tunnilin ikki verður gjørdur liðugur og tikin í nýtslu skjótast til ber.</s>
+          </p>
+          <p>
+            <s>Um so er, verða sandoyingar, ja allir føroyingar, hildnir sum gíslar.</s>
+            <s>Tað má vera vinningur fyri allar partar, at tunnilin verður gjørdur liðugur sum skjótast.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-05-09">9. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
