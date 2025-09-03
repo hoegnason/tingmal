@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-69/2021: Átøk at bjarga og varðveita føroyska rossastovnin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49247" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/69">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Átøk at bjarga og varðveita føroyska rossastovnin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar</head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat krevst av lógarbroytingum fyri, at føroysk ross kunnu útflytast?</item>
+            <item xml:id="q2" type="question-item">Hvørjar lógarbroytingar skulu gerast, fyri at føroysk ross kunnu verða skrásett á góðkendan hátt og ein myndugleiki ella felag fáa heimild at vátta upplýsingarnar í rossapassum?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at fáa hesa lóggávu gjørda og um ja, nær kann tað væntast?</item>
+            <item xml:id="q4" type="question-item">Ætlar landsstýrismaðurin at hækka játtanina til stuðul til at varðveita føroyska rossið?</item>
+            <item xml:id="q5" type="question-item">Ætlar landsstýrismaðurin at gera ein miðvísan alipolitikk fyri at tryggja framtíðina hjá føroyska rossastovninum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Fyri nógvum árum síðani varð farið undir at varðveita serføroyska rossið, sum var nærum útdeytt.</s>
+            <s>Føroyar hava sambært ST-sáttmála bundið seg til at at verja lívfrøðiliga margfeldið.</s>
+            <s>Føroyska rossið er eitt av gomlu serføroysku húsdýrasløgunum, og harvið fevnt av sáttmálanum.</s>
+          </p>
+          <p>
+            <s>Felagið Føroysk Ross (FFR) upplýsir á heimasíðu síni, at í verandi løtu eru 94 ross av serføroyskum slag, tá fyl og geld ross eru íroknað.</s>
+            <s>Umframt eini 500 útlendsk ross.</s>
+          </p>
+          <p>
+            <s>Støðan hjá føroyska rossinum er sera álvarsom.</s>
+            <s>Ov fá fyl verða folað árliga vegna mettaðan marknað í Føroyum.</s>
+            <s>Tað eru einans umleið 25 ryssur í burðarførum aldri, og av hesum eru tað uml. 7-10 ryssur, sum verða brúktar í aling.</s>
+            <s>Sambært The Food and Agriculture Organization (FAO) skal stovnurin av aliryssum upp um 1000 ryssur fyri ikki at vera hóttur.</s>
+          </p>
+          <p>
+            <s>Neyðugt er at skipa eina effektiva aling, ið varðvetir genetiska fjølbroytnið.</s>
+            <s>Í 2018 vórðu 13 fyl av føroyska rossaslagnum folað, sum var met, men árini eftir hetta 6-7 fyl árliga, og í 2022 væntast bert hitt eina fylið, ið er lægsta talið síðan 1990.</s>
+            <s>Alarar tora ikki at seta við, tí vandin fyri ikki at sleppa av við fylini er ov stórur.</s>
+          </p>
+          <p>
+            <s>Ein loysn á trupulleikanum, sum FFR hevur víst á, er at fáa loyvi at útflyta føroysk ross, so eisini ber til at ala hesi uttanlands.</s>
+            <s>Eitt nú í Danmark er eftirspurningur eftir føroyskum rossum.</s>
+            <s>Í løtuni vantar lóggáva um at skráseta ross, og tí hevur eingin myndugleiki ella felag í Føroyum heimild til at vátta upplýsingarnar í rossapassum.</s>
+          </p>
+          <p>
+            <s>Ein lítil játtan er á fíggjarlógini til stuðul til at varðveita føroyska rossið, men pengarnir strekkja ikki langt, og eldsálir brúka tí nógvan pening úr egnum lumma fyri at varðveita stovnin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-26">26. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
