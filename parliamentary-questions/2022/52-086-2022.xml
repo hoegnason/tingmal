@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-86/2022: Bankaskipanin og aðrar kjarnuskipanir í hesum sambandi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56572" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/86">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bankaskipanin og aðrar kjarnuskipanir í hesum sambandi</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar verða avleiðingarnar fyri føroysku bankarnar, fyri peningaflytingar og handil í Føroyum við gjaldskortum, um okkara sjóvegis kaðalsambond til útheimin slitna, eitt nú orsakað av yvirgangi?</item>
+            <item xml:id="q2" type="question-item">Metir landsstýrismaðurin, at tað er ráðiligt, at so kritiskur infrastrukturur sum bankaskipan og gjaldsskipanir, login- og lyklaskipanir, ið verða brúktar túsundtals ferðir um dagin, liggja í einum fremmandum landi, ið vit brádliga kunnu verða avskorin frá í langa tíð?</item>
+            <item xml:id="q3" type="question-item">Hvørjar eru fíggjarligu avleiðingarnar av at flyta umrøddu skipanir heim? Talan er ikki bara um útreiðslur, men eisini inntøkur.</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv nýggj føroysk kt-størv hevði ein heimtøka av hesum skipanum givið?</item>
+            <item xml:id="q5" type="question-item">Ætlar landsstýrismaðurin at áleggja føroysku peningastovnunum at flyta hesar skipanir heim?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru nú nógv ár síðani (2010) bankaskipanin hjá føroysku peningastovnunum varð flutt frá Elektron á Staravegnum í Havn og til Danmarkar.</s>
+            <s>Allar elektroniskar gjaldingar í føroyskum handlum og ein stórur partur av login- og lyklaskipanunum, ið vit brúka í Føroyum í dag, verða eisini avgreiddar í Danmark.</s>
+            <s>Sostatt liggja stórar og kritiskar kjarnuskipanir í føroyska samfelagnum í Danmark og harvið langt uttan fyri landoddarnar.</s>
+          </p>
+          <p>
+            <s>Føroyska samfelagið liggur sera fjarskotið, men vit eru von við, at internetsambandið til Danmarkar fyri tað mesta er í lagi.</s>
+            <s>Vit hava vant okkum við hetta, og tað er tí helst ein sjálvfylgja.</s>
+          </p>
+          <p>
+            <s>Men skuldi sjóvegis kaðalsambandið ímillum Føroyar og umheimin slitnað og verið burtur í eina tíð, kanska dagar, kanska vikur ella mánaðir, so er umráðandi, at kjarnuskipanir sum t.d. elveiting, samskifti og peningakervi ikki liggja lamnar.</s>
+            <s>Vit eru væl stillaði, tá umræður elveiting og samskifti.</s>
+            <s>Men vit eru prísgivin (sitting ducks), tá umræður peningakervi og elektroniskar gjaldingar.</s>
+          </p>
+          <p>
+            <s>Tað kundi verið í áhuganum hjá føroyingum at styrkt føroyska samfelagið og vinnumøguleikarnar í Føroyum.</s>
+            <s>Tað hevði borið til at lóggivið, at bankaskipan, loginog lyklaskipanir skulu liggja í Føroyum, og soleiðis styrkt um hesar vinnumøguleikar, umframt at styrkt munandi um mótstøðuførið og trygdina í føroyska samfelagnum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-01">1. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

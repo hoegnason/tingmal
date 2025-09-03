@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-88/2022: Uppgerð av mótrokning í pensjónum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/hjxf3ofj">Hans Jacob Thomsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56616" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/88">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/hjxf3ofj">Hans Jacob Thomsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýrismaður í almanna- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Uppgerð av mótrokning í pensjónum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Metir landsstýrismaðurin, at tað er nøktandi, at pensjónin verður mótroknað árliga heldur enn loypandi?</item>
+            <item xml:id="q2" type="question-item">Er nøkur ætlan um at broyta mannagongdina, so pensjónirnar verða mótroknaðar loypandi?</item>
+            <item xml:id="q3" type="question-item">Um so er, nær verður arbeiðið væntandi liðugt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Inntøkugrundarlagið fyri mótrokning av pensjón verður uppgjørt árliga.</s>
+            <s>Hetta hevur við sær, at pensjonistar, ið verða mótroknaðir, fáa eina rokning eina ferð um árið.</s>
+            <s>Hóast tað ber til at fylgja við og sjálvur rokna út, hvussu nógv skal gjaldast aftur, er hetta ikki nøkur løtt uppgáva.</s>
+          </p>
+          <p>
+            <s>Eisini eru tekin um, at pensjonistar, ið annars hava hug at arbeiða eitt sindur, halda seg aftur, tí teir eru bangnir fyri at raka loftið á 45.000 kr . um árið og harvið koma í vanda fyri at fáa eina rokning, tá inntøkugrundarlagið verður uppgjørt.</s>
+          </p>
+          <p>
+            <s>Um pensjónirnar verða mótroknaðar loypandi, vil pensjonisturin ikki merkja mótrokningina í sama mun, sum tá hon verður uppgjørd eina ferð um árið, og vandin fyri at fáa rokning, tá árið er liðugt, verður væl minni.</s>
+          </p>
+          <p>
+            <s>Hetta hevði tí eisini eggjað pensjonistum at arbeiða meira, tí ræðslan fyri at náa markið fyri, nær inntøkan verður mótroknað í pensjónini, helst hevði minkað munandi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-02">02.mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/hjxf3ofj">Hans Jacob Thomsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

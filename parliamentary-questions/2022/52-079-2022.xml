@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-79/2022: Ritalin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56422" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/79">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ritalin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv ritalin er útskrivað í Føroyum seinastu 10 árini?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvir borgarar hava fingið útskrivað ritalin seinastu 10 árini?</item>
+            <item xml:id="q3" type="question-item">Hvør skrivar út ritalinið til brúkarar – kommunulæknar, sálarlæknar ella onnur?</item>
+            <item xml:id="q4" type="question-item">Hvør hevur eftirlit við, at heilivágur ikki verður skeivt útflýggjaður?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í vikuni frættist aftur, at alsamt fleiri ung brúka rúsevni.</s>
+            <s>Talan er ikki um rúsevni, sum eru ólógliga framleidd og smuglað til landið, sum t.d. hash, kokain ella amfetamin, men um reseptheilivág, sum verður útflýggjaður av apotekinum.</s>
+            <s>Serliga ritalin, sum er ADHD-heilivágur.</s>
+          </p>
+          <p>
+            <s>Trupulleikin er, at partur av ritalininum verður ikki brúkt av teimum, sum veruliga hava tørv á tí, men verður handlað og misbrúkt av ørðum fólkum.</s>
+            <s>Hetta sæst aftur bæði hjá løgreglu og á viðgerðarstovnum kring landið.</s>
+          </p>
+          <p>
+            <s>Hetta er ikki nakar nýggjur trupulleiki í Føroyum.</s>
+            <s>Í 2013 kundi Kringvarp Føroya fortelja okkum, at frá 2005 til 2011 fimmfaldaðist talið á teimum, sum fingu útskrivað ritalin frá lækna.</s>
+          </p>
+          <p>
+            <s>Síðani hevur trupulleikin javnan verið frammi.</s>
+            <s>Seinast í vár, nú sproytur, sum eru brúktar at rúsa seg við, liggja og sløðast í Havnini.</s>
+          </p>
+          <p>
+            <s>Ofta verður tosað um at herða eftirlitið við landamørkini fyri at fyribyrgja, at ólóglig rúsevni verða smuglað til landið.</s>
+            <s>Samstundis verða “lóglig” rúsevni útflýggjað á apotekum kring landið hvønn einasta dag.</s>
+          </p>
+          <p>
+            <s>Tí hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-04-13">13. apríl 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
