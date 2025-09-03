@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-2/2025: H-bygningurin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66994" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2025/2">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <rolename>løgtingsmaður</rolename></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>H-bygningurin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu kann ein byggiverkætlan, har Heilsuverkið hevur havt bygginevnd við í allari tilgongdini, og har verkfrøðingar, arkitektar, ráðgevar og eftirlit hava verið knýtt at frá fyrsta degi, og fastir byggileiðslufundir hava verið, kortini fara so mikið av sporinum, sum byggingin av H-bygninginum er farin?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýriskvinnan at kanna málið til fulnar, við óvildigum fakfólkum við servitan og kunnleika til bygging i Føroyum, so ábyrgdin hjá teimum pørtum, ið hava staðið fyri byggingini, verður staðfest, og endurgjaldskrav kann verða kravt fyri tað, sum er farið fram?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýriskvinnan greiða frá, hvat eftir er at gera, hvat skal skiftast og broytast ella endurgerast, og hvat samlaði kostnaðurin fyri at gera bygningin lidnan verður tá avtornar?</item>
+            <item xml:id="q4" type="question-item">Kann landsstýriskvinnan vátta ella avsanna, at valda tilfarssamansetingin og mátin, ið bygningurin er klæddur uttan, er gjørt á ein hátt, sum væntandi fer at elva til álvarsligar trupulleikar innan stutta tíð bæði við tering og møguliga við soppi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>H-bygningurin á Landssjúkrahúsinum er eitt álvarsamt dømi um, hvussu ein almenn byggiverkætlan við fullari fakligari umboðan og skipaðum eftirliti kortini kann enda við so stórum avvikum kostnaðarliga og stórum avbjóðingum gjøgnum byggitiðina.</s>
+            <s>Hetta reisir grundleggjandi spurningar um stýring, ábyrgd og dygd í byggiverkætlanum, har almenningurin ríndar rokningina.</s>
+          </p>
+          <p>
+            <s>Tað er alneyðugt, at hetta málið verður kannað til fulnar, og at ábyrgdin verður staðfest.</s>
+            <s>Har, sum mistøk ella vánalig stýring er staðfest, eigur eisini at verða hugsað í endurgjaldskrøvum.</s>
+            <s>Um eingin verður drigin til ábyrgdar, sendir hetta eitt skeivt signal, sum kann undirminera álitið á framtíðar almennar byggiverkætlanir.</s>
+          </p>
+          <p>
+            <s>Bæði Løgtingið og borgarar hava rætt til greiðar og álitandi upplýsingar um, hvat eftir er at gera, og í hvørjum pørtum av bygninginum broytingar mugu gerast ella endurskapast, og hvør samlaða rokningin fyri at gera arbeiðið liðugt verður.</s>
+          </p>
+          <p>
+            <s>Um tilfar og byggiháttur bera í sær tekin um, at skeivt er farið fram, og at hetta kann føra til avbjóðingar og enn meira eykaútreiðslur, tá ikki langt er fráliðið, so eigur hetta at verða staðfest uttan drál, so neyðug stig kunnu takast beinanvegin.</s>
+            <s>Fyri at fáa greiðu á støðuni við H-bygninginum verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2025-08-13">13. august 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

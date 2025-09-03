@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-1/2025: Fráflyting av monnum og skattainntøkur frá arbeiði uttanlands</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66992" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2025/1">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fráflyting av monnum og skattainntøkur frá arbeiði uttanlands</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir føroyskir menn eru fluttir úr Føroyum higartil í 2025 samanborið við sama tíðarskeið í 2024?</item>
+            <item xml:id="q2" type="question-item">Hvussu stórar eru samlaðu skattainntøkurnar higartil í 2025 frá inntøkum, sum føroyingar hava vunnið við arbeiði uttanlands, samanborið við sama tíðarskeið í 2024?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýriskvinnan upplýsa, um broytingarnar, sum gjørdar vórðu í skattingini fyri fólk, ið arbeiða uttanlands, hava givið tær væntaðu inntøkurnar til landskassan?</item>
+            <item xml:id="q4" type="question-item">Um broytingin hevur havt neiliga ávirkan á inntøkur landskassans, er landsstýriskvinnan sinnað at umhugsa at endurskoða og møguliga broyta lógina aftur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er avgerandi at fáa greiða vitan um, hvørt tær lógarbroytingar, sum eru framdar í skattingini fyri føroyingar, ið arbeiða uttanlands, hava havt jaliga ella neiliga ávirkan á landskassans inntøkur, og um broytingarnar hava elvt til økta fráflyting, serliga av monnum, ið arbeiða í Noregi, sum eru beinleiðis ávirkaðir av broytingunum.</s>
+          </p>
+          <p>
+            <s>Teir, sum t.d. sigla undir DIS-skipanini, verða ikki ávirkaðir av broytingunum, tí talan er um eina nettoskattaskipan.</s>
+            <s>Tó hava verið fleiri ábendingar um, at lógarbroytingin, sum m.a. ávirkar útisiglarar í Noregi og onnur, ið arbeiða uttanlands, hevur havt við sær, at nógvir sjómenn eru fluttir frá norskum reiðarium til donsk og grønlendsk reiðarí.</s>
+            <s>Eisini verður ført fram, at lógarbroytingin hevur havt við sær fráflyting av monnum úr Føroyum.</s>
+          </p>
+          <p>
+            <s>Tørvur er á at fáa staðfest, um lógarbroytingin hevur havt beinleiðis ávirkan á bæði fráflytingina og skattainntøkurnar til landið og sum avleiðing av hesum hevur skapað neiligar avleiðingar fyri vinnu og familjur í Føroyum.</s>
+            <s>Hetta er neyðugt fyri at kunna taka støðu til, um lógarbroytingin eigur at verða endurskoðað og møguliga broytt aftur.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningur settur landsstýriskvinnuni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2025-08-13">13. august 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

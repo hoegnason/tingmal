@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-5/2025: Prísskipanin hjá Bygdaleiðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/67049" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2025/5">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/jcjycu4z">Jóhan Christiansen, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Prísskipanin hjá Bygdaleiðum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er grundgevingin fyri, at prísir hjá Bygdaleiðum eru ymiskir, hóast vegalongdirnar eru tær somu?</item>
+            <item xml:id="q2" type="question-item">Metir landsstýrismaðurin, at tílíkir prísmunir kunnu elva til minni nýtslu av Bygdaleiðum?</item>
+            <item xml:id="q3" type="question-item">Eru ætlanir um at endurskoða og broyta prísskipanina við atliti at møguligum ójavnum?</item>
+            <item xml:id="q4" type="question-item">Eru ætlanir um at skilja ímillum útlendingar og fastbúgvandi føroyingar, tá tað kemur til prísir við bygdaleiðum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Bygdaleiðir eru javnan á breddanum í almenna rúminum.</s>
+            <s>Bygdaleiðir eru almenn bussleið, sum skal gera tað lættari, betri og bíligari at ferðast runt landið.</s>
+            <s>Ynskiligt er sjálvandi, at so nógv fólk sum gjørligt nýta hesar almennu farleiðir, tí hetta minkar um trýstið av vaksandi talinum av bilum á vegunum.</s>
+            <s>Hugsast kann, at jú bíligari tað er at flyta seg við bussi, jú fleiri brúka leiðirnar.</s>
+            <s>Ein serlig prísskipan fyri útlendingar hevur eisini verið uppi at venda.</s>
+          </p>
+          <p>
+            <s>Flestu leiðir verða veittar út og skulu bera ein ávísan kostnað.</s>
+            <s>Tí kostar tað at koyra við almennu bussleiðunum.</s>
+            <s>Prísbroytingar vórðu gjørdar í 2025, og hesar kunnu tykjast avbjóðandi.</s>
+            <s>Tað kann til dømis undra, at ymiskir prísir eru ásettir, hóast vegastrekkini eru líka long.</s>
+            <s>Eitt dømi er, at vegalongdin úr Sandavági til Tórshavnar er 38,15 km + undirsjóvartunnil, og ferðaseðilin kostar 95 kr.</s>
+            <s>Farleiðin úr Vestmanna til Tórshavnar er á leið líka long, 38,38 km, men ferðaseðilin kostar 55 kr .</s>
+            <s>Tað vil siga, at koyring igjøgnum Vágatunnilin kostar hvørjum ferðandi 40 kr., hóast ein einvegis túrur við bussi sambært www.tunnil.fo kostar 25 kr.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2025-08-20">20. august 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
