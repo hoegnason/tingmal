@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-66/2022: Meirvirðisgjald frá stroymingartænastum o.ø.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uhgfje7f">Uni Holm Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/55382" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/66">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uhgfje7f">Uni Holm Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Meirvirðisgjald frá stroymingartænastum o.ø.</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu ætlar landsstýrismaðurin at virka fyri, at meirvirðisgjald, sum føroyingar rinda fyri útlendskar stroymingartænastur, spøl, forrit o.l., kemur í føroyska landskassan?</item>
+            <item xml:id="q2" type="question-item">Fer landsstýrismaðurin at heita á føroysku peningastovnarnar at útvega upplýsingar um, hvussu nógvar pengar umleið føroyingar brúka til hald til útlendskar stroymingartænastur, spøl og forrit?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tá ið vit í Føroyum keypa hald til Netflix, Disney+, Spotify, Office pakkar og aðrar stroymingartænastur, spøl og forrit, rinda vit eisini meirvirðisgjald, sum fer av landinum.</s>
+            <s>Tað eru pengar, sum av røttum hoyra heima í landskassanum, men sum ístaðin enda antin hjá útlendskum fyritøkum ella í danska statskassanum.</s>
+          </p>
+          <p>
+            <s>Danskir myndugleikar hava fyrr sagt, at hetta er bæði skeivt og ólógligt, men neyðug stig eru framvegis ikki tikin fyri at fáa hetta í rættlag.</s>
+            <s>Ein orsøk sigst vera, at upphæddin verður mett ov lítil.</s>
+            <s>Við støði í kanning, sum Javnaðarflokkurin á Fólkatingi gjørdi í apríl 2019, varð mett, at í minsta lagi 13,5 milliónir krónur fara av órøttum av landinum á hvørjum ári.</s>
+            <s>Tað varð mett sum ein varlig meting.</s>
+          </p>
+          <p>
+            <s>Sum skilst er einki til hindurs fyri, at teir fýra føroysku peningastovnarnir umvegis Felagið Føroyskir Peningastovnar útvega Fíggjarmálaráðnum upplýsingar um, hvussu nógvar pengar umleið føroysk gjaldkort brúka til útlendskar stroymingartænastur, spøl, forrit o.l. Hetta hevði ivaleyst givið eina nógv greiðari ábending um røttu upphæddina.</s>
+          </p>
+          <p>
+            <s>Samgongan hevur í samgonguskjalinum sett sær fyri, at mvg av útlendskum stroymingartænastum skal síggjast aftur í Føroyum, og markast til mentan og list.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-03-07">6. mars 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uhgfje7f">Uni Holm Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
