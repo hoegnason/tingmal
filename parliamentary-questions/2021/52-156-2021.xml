@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-156/2021: Heitt vatn í undirgrundini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/h6fh4hqc">Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/52200" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/156">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/h6fh4hqc">Bill Justinussen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heitt vatn í undirgrundini</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar upplýsingar hevur landsstýrismaðurin um, hvar í Føroyum heitt vatn er at finna í undirgrundini?</item>
+            <item xml:id="q2" type="question-item">Hvørjar royndir eru gjørdar at bora djúpt, eitt nú frá 500 og niður á 1000 metrar?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv kostar tað at bora 1000 metrar niður og at fáa heita vatnið upp?</item>
+            <item xml:id="q4" type="question-item">Hvussu mong húsarhald kunnu við einum slíkum jarðholi í miðal gagnnýta heita vatnið?</item>
+            <item xml:id="q5" type="question-item">Heldur landsstýrismaðurin tað vera eitt gott hugskot, at tað almenna borar niður á heitt vatn og letur føroyingum í nærumhvørvinum atgongd til heitu keldurnar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fleiri velja at fáa sær jarðhita.</s>
+            <s>Í fleiri førum er rakt við heitar vatnkeldur, tá borað verður fyri jarðhita.</s>
+            <s>Á heimasíðu Jarðfeingis stendur soleiðis um jarðhitaboringar: </s>
+          </p>
+          <p>
+            <s>«Síðani á sumri 2018 er hitin í vatninum máldur í umleið 400 jarðhitaboringum kring allar Føroyar.</s>
+            <s>Sigast kann, at jarðhitavøksturin í føroysku undirgrundini sum heild hækkar umleið 3°C pr. 100 metrar.</s>
+            <s>Hóast hetta vísa mátingar, at fjølbroytni er í jarðhitavøkstrinum á ymisku støðunum í Føroyum.»</s>
+          </p>
+          <p>
+            <s>Við vitanini hjá Jarðfeingi hækkar hitin í miðal 30 stig fyri 1000 metrar.</s>
+            <s>Um keldurnar geva so mikið av varandi vatni við varandi hita, at tær kunnu hita hús, vildi hetta verið ein alternativ orkukelda, sum kundi minkað um oljunýtsluna.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-03-28">28. mars 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/h6fh4hqc">Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
