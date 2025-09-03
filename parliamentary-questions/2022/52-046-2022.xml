@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-46/2022: Almennu bussleiðirnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/53916" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/46">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Almennu bussleiðirnar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin nakra ætlan um at gera átøk, ið skulu fáa fólk at brúka almennu bussleiðirnar meira?</item>
+            <item xml:id="q2" type="question-item">Um landsstýrismaðurin hevur eina slíka ætlan, kann hann so greiða frá, hvør hon er?</item>
+            <item xml:id="q3" type="question-item">Um landsstýrismaðurin hevur eina slíka ætlan, nær kann so roknast við, at hon verður sett í verk?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógv fokus er á orkusparingar, veðurlagspolitikk og átøk, ið skulu minka um CO2útlátið.</s>
+            <s>Á samferðsluøkinum verður nógv tosað um el-bilar o.a., men ein møguleiki sum sjáldan verður nevndur, er brúkið av almennu bussleiðunum.</s>
+          </p>
+          <p>
+            <s>Vit hava nógvar bussleiðir í landinum, og um tær vórðu brúktar meira, kundi nógv orka verið spard.</s>
+            <s>Men av tí at ruturnar í nógvum førum passa illa við arbeiðs- ella skúlatiðirnar hjá fólki, velja mong heldur at koyra við egnum bili.</s>
+            <s>Og av tí at fólk heldur velja at koyra við egnum bili, er grundarlag ikki fyri at økja um túratalið hjá bussunum.</s>
+            <s>Talan er sostatt um eina sokallaða ”ónda ringrás”.</s>
+          </p>
+          <p>
+            <s>Sambært hagtølum er ferðafólkatalið við Bygdaleiðum minkað tey seinastu nógvu árini, samtiðis sum familjur eru hart fyrispentar fíggjarliga, og tosað verður um at minka um CO2-útlátið.</s>
+          </p>
+          <p>
+            <s>Tað kann tykjast sum, at tað skal ein hugburðsbroyting til fyri at fáa føroyingar at velja almennu samferðsluna, og tí verður spurt, um landsstýrið hevur nakra ætlan á hesum økinum, og í øðrum lagi, hvør tann møguliga ætlanin er, og nær hon verður sett í verk.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2022-09-28">28. september 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
