@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-90/2021: Koronupass</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49799" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/90">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Koronupass</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Á hvørjum heimildargrundarlagi hvílir nýtslan av koronupassinum í føroyska samfelagnum?</item>
+            <item xml:id="q2" type="question-item">Hvør er orsøkin til, at spurningurin um at nýta koronupassið ikki er viðgjørdur í Løgtinginum?</item>
+            <item xml:id="q3" type="question-item">Hvørjar eru heilsufakligu grundgevingarnar fyri at seta sum treyt nýtslu av koronupassi ymsastaðni í føroyska samfelagnum ?</item>
+            <item xml:id="q4" type="question-item">Eru heilsufaklig prógv um, at koronupassið tálmar smittutrýstinum í samfeløgum, har tað verður nýtt, og er hetta effektivari enn koronukanningar ?</item>
+            <item xml:id="q5" type="question-item">Hvat merkir tað løgfrøðiliga, tøkniliga og praktiskt, at føroyska koronupassið er ES-góðkent?</item>
+            <item xml:id="q6" type="question-item">Kann uttan serstaka lógarheimild verða álagt privatpersóni at vísa ella upplýsa um viðkvæmar upplýsingar so sum kanningarúrslit og koppsetingarstøðu fyri feløgum og øðrum privatpersónum fyri at luttaka í almennum og privatum tiltøkum?</item>
+            <item xml:id="q7" type="question-item">Hava almennir og privatir arbeiðsgevarar í Føroyum heimild at krevja upplýsingar um heilsustøðuna hjá sínum starvsfólki t.d. gjøgnum koronupass, sum treyt fyri at kunna møta til arbeiðis ella fáa eitt arbeiði?</item>
+            <item xml:id="q8" type="question-item">Ætlar løgmaður at tryggja teimum, sum ikki ætla at nýta talgildar heilsuupplýsingar sum atgongumerki til arbeiði og annað virksemi í samfelagnum, frítt at ferðast og virka í samfelagnum ?</item>
+            <item xml:id="q9" type="question-item">Ætlar løgmaður at tryggja minnilutanum av føroyingum, sum ikki eru koppsettir fyri koronu, framvegis at kunna virka frítt í føroyska samfelagnum ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Á tíðindafundi 9/11 kunngjørdi løgmaður, at nú skuldi koronupass nýtast í føroyska samfelagnum frá leygardegi 13/11.</s>
+            <s>Hetta kom sum ein kvøkkur hjá fleiri.</s>
+            <s>Inntil tá hevði sitandi stjórn staðið saman um, at koronupassið, sum er fyrireikað innan heilsøkið, einans var gjørt fyri at føroyingar, sum skuldu ferðast uttanlands, kundu fáa eitt slíkt frá føroyskum myndugleika.</s>
+            <s>Nú skilst millum manna, at koronupassið elvir til fleiri spurningar, enn tað svarar uppá, um m.a. dátutrygd, viðkvæmar heilsuupplýsingar, rættartrygd hjá føroyingum og frælsi at velja, um demokratiskar heimildir til koronupassið, um minnilutaverju fyri at nevna nakrar.</s>
+            <s>Av tí at løgmaður og sitandi landsstýri gjørdu púra greitt, at m.a. koppseting fyri koronu er frítt val, hava ivamál nú tikið seg upp.</s>
+            <s>Mong uppliva, at koronupassið leggur eitt trýst afturat á tey, sum longu kenna trýst á tað lovaða fría valið - ikki minst nú borgarstjórin í Havn tosar um hetta.</s>
+            <s>Íslendski smittu-landslæknin Pórólfur Guðnason, skrivar so seint sum 17/11 í grein á covid.is, at eingin heilsufaklig orsøk er at gera mun á m.a. koppsettum og ókoppsettum, sum koronupassið er dømi um.</s>
+            <s>Fleiri stúra um frælsisrættindi føroyinga - tí verða hesir spurningar settir.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-22">22. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Bárður á Steig Nielsenløgmaður</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
