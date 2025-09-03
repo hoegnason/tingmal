@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-56/2021: Bíðilistar í Sjúkrahúsverkinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>
+            <roleName />
+          </author>
+          <ref target="https://www.logting.fo/documents/48987" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/56">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bíðilistar í Sjúkrahúsverkinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu langir eru bíðilistarnir fyri ymsar sjúkukanningar/útgreiningar og sjúkuviðgerðir í Sjúkrahúsverkinum skift á likamligar og psykiatriskar sjúkur?</item>
+            <item xml:id="q2" type="question-item">Hvat er frágreiðingin ella orsøkirnar til bíðilistarnar í Sjúkrahúsverkinum - vantandi játtan og/ella vantandi starvsfólk o.a.?</item>
+            <item xml:id="q3" type="question-item">Hvørjar avleiðingar hevur tað fyri sjúklingarnar at teir ikki sleppa framat viðgerð?</item>
+            <item xml:id="q4" type="question-item">Hvørji stig ætlar landsstýrismaðurin at taka fyri at stytta um bíðilistarnar í Sjúkrahúsverkinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sjúkrahúsverkið hevur havt trupulleikar við at skráseta og framleiða rapportir við bíðilistum skift á ymiskar sjúkur, kanningar/útgreiningar, sjúkraviðgerðir o.a.</s>
+          </p>
+          <p>
+            <s>Nú vit skriva 2021 er tað eitt minstakrav at gera skrásetingar um kjarnuvirksemi á einum stovni sum Sjúkrahúsverkinum, og at kunna fylgja við tørvinum á sjúkuviðgerð, eitt nú við bíðilistum.</s>
+            <s>Væl vitandi um, at landsstýrismaðurin hevur tað sum sína høgu raðfesting.</s>
+          </p>
+          <p>
+            <s>At framleiða rapportir við bíðilistum er ikki í sjálvum sær eitt endamál, men hesar kunnu vera hentar, tá man skal leggja til rættis og raðfesta sjúkuviðgerðirnar.</s>
+            <s>Hetta á ein slíkan hátt, at bíðilistarnir gerast so stuttir sum gjørligt, soleiðis at fólk sleppa framat viðgerð skjótast til ber fyri at kunna verða virkin aftur í samfelagnum.</s>
+            <s>Ikki minst eru rapportir við bíðilistum eitt krav og fortreyt fyri at kunna samskipa sjúkuviðgerðir millum tey trý sjúkrahúsini.</s>
+          </p>
+          <p>
+            <s>Sjálvt um Heilsuverkið er uppraðfest við hægri játtanum seinastu 2 árini, so sær tað út til, at tað enn eru langir bíðilistar í Sjúkrahúsverkinum.</s>
+          </p>
+          <p>
+            <s>Tað kann hava stórar, óhepnar avleiðingar fyri tey, sum eru rakt av sjúku og noyðast at bíða sera leingi fyri at sleppa framat hjálp og viðgerð.</s>
+            <s>Eisini fyri vinnu og almannaverk kann tað hava figgjarligan kostnað.</s>
+            <s>Ti verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-11">11. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

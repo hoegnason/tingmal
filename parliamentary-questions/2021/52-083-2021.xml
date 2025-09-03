@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-83/2021: Markamótaskjalið og tænastan til teirra, ið eru yngri enn 67 ár</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/49678" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/83">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttir, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Markamótaskjalið og tænastan til teirra, ið eru yngri enn 67 ár</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu langt er komið við at fremja ásetingarnar í Markamótaskjalinum – til gagns fyri borgarar yngri enn 67 ár ?</item>
+            <item xml:id="q2" type="question-item">Er ætlanin at fáa kommunurnar at hava ábyrgdina av tænastuni til teirra, ið eru millum 18 og 67 ár?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tá eldraøkið í 2015 varð lagt út, fingu kommunurnar ábyrgd av teim, ið eru 67+; Almannaverkið ábyrgdina av tænastuni til teirra millum 18 og 66 ár.</s>
+            <s>Nógvar kommunur hava lagt stóra orku í at veita tænastur í mun til tørvin.</s>
+            <s>Verri stendur til við teim tænastum, ið Almannamálaráðið hevur ábyrgd av.</s>
+            <s>Tað kom greitt fram undir pallborðsorðaskiftinum, sum Alzheimerfelagið á sinni skipaði fyri undir heitinum ”Demensvinarligt samfelag”.</s>
+            <s>T.d. er dømi um persónar, sum eru "strandaðir" á sjúkrahúsum í fleiri mánaðir, tí eingin tyktist at kunna og/ella vilja veita teim nøktandi tænastu, eftir at sjúkrahúsviðgerðin var lokin.</s>
+            <s>Orsøkin til hesa óvirðiligu støðu, sum persónar eru komnir í, er, at viðkomandi ikki hevur nátt pensjónsaldur, og sostatt fellur uttan fyri reglurnar um upptøku til búpláss á ellis-og røktarheimum og eldrasambýlum hjá kommununum.</s>
+            <s>Vísandi til Markamótaskjalið, undirskrivað av avvarðandi pørtum 30.05.16, verður fylgjandi staðfest í  “Markamót 3” :  “3. Markamót er somuleiðis, tá talan er um borgarar, sum ikki eru fólkapensjónistar, men hevur varandi sjúku ella serligan tørv á rokt alt samdøgrið”.</s>
+            <s>Tá slík støða tekur seg upp, verður fylgjandi sagt í sama “Markamót 3” : ”Landið hevur ábyrgdina av at veita persónum við týðandi likamligium ella sálarligum breki ella víðfevnandi sosialum trupuleikum, og sum tørva hjálp og stuðul til vanligt dagligt virksemi, umframt møguliga rokt, búpláss”.</s>
+            <s>Vísandi til løgtingslóg nr. 19 frá 2014 um heimatænastu, eldrarøkt v.m. verður í § 14, stk. 2 sagt: “Í serligum føri kann roktarheim ella eldrasambýli eisini hýsa øðrum roktarkrevjandi persóni enn fólkapensjónisti”.</s>
+            <s>Sostatt er teoretiskur møguleiki til staðar, at persónar yngri enn 67 ár kunnu fáa pláss á røktarheimi ella sambýli hjá kommununum.</s>
+            <s>Verunleikin er bert, at í slíkum førum verður kravd “gjaldváttan” frá Almannverkinum, áðrenn støða verður tikin til møguliga upptøku á røktarheimi og sambýli.</s>
+            <s>Verður slík játtan ikki givin, ja, so er eingin hjálp at heinta frá teim kommunalu stovnunum.</s>
+            <s>Um kommunurnar eisini høvdu ábyrgd av teim yngri enn 67 ár, so vildi støðan uttan iva verið munandi betri.</s>
+            <s>Sostatt er tað umráðandi og alneyðugt, sum skjótast at fáa hesar forðingar, ið raka tey yngri enn 67 ár, av vegnum.</s>
+            <s>I samgonguskjalinum, sum varð undirskrivað fyri tveimum árum síðan, stendur: ”Við atliti til borgarar millum 18-66 ár verða ásetingarnar í Markamótaskjalinum settar í verk”.</s>
+            <s>Tað er í hesum sambandi, at fyrispurningurin verður settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-12">12. november 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dp2qk6tf">Tordur Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

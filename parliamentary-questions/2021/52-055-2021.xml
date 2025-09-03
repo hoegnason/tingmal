@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-55/2021: Uppgávan hjá Sernámi og bíðilistar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>
+            <roleName />
+          </author>
+          <ref target="https://www.logting.fo/documents/48975" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/55">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Uppgávan hjá Sernámi og bíðilistar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar uppgávur í sambandi við sernámsfrøðiliga ráðgeving hevur Sernám trupulleikar við at røkja, og hvat eru orsøkirnar til hesar trupulleikar?</item>
+            <item xml:id="q2" type="question-item">Hvussu virkar samstarvið millum Sernám og t.d. psykiatriina, dagstovnar, skúlar og foreldur?</item>
+            <item xml:id="q3" type="question-item">Hvussu langir eru bíðilistarnir fyri ymsu uppgávurnar og viðgerðirnar, sum Sernám varðar av?</item>
+            <item xml:id="q4" type="question-item">Hvørjar ætlanir eru fyri framman til at tryggja, at allar uppgávur hjá Sernámi verða loystar á nøktandi hátt, og at samstarvið við aðrar myndugleikar o.o. virkar so væl sum møguligt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sernám veitir ráðgeving innan sernámsfrøðilig viðurskifti til dagstovnar og skúlar, og foreldur, sum varða av børnum og ungum.</s>
+          </p>
+          <p>
+            <s>Í Sernámi eru hesi fakøkini: ergo- og fysioterapi, sálarfrøði, sernámsfrøði, sersamskifti, sjón og tala.</s>
+            <s>Harumframt er eisini lesiráðgeving til fólkaskúlan.</s>
+            <s>Dentur verður lagdur á tvørfakligt samstarv millum hesi fakøkini í teirra samstarvi við stovnar, skúlar og foreldur.</s>
+          </p>
+          <p>
+            <s>Tað hoyrist alment millum fólk, at Sernám hevur stórar trupulleikar við at loysa og røkja sínar uppgávur í sambandi við sernámsfrøðiliga ráðgeving.</s>
+          </p>
+          <p>
+            <s>Spurningurin er um trupulleikarnir stinga djúpri og ikki einans skulu finnast á stovninum sjálvum.</s>
+          </p>
+          <p>
+            <s>Tey, sum standa sum taparar eru brúkararnir, sum ikki fáa ta hjálp og viðgerð, sum er neyðug, og sum tey hava rætt til.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-11">11. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
