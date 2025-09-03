@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-74/2022: Heilivágur innan føroysk røktarheim og heimatænastu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56094" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/74">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heilivágur innan føroysk røktarheim og heimatænastu</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er nøkur ætlan at endurskoða lóggávu viðvíkjandi heilivági í primera geiranum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein partur av arbeiðinum á sambýlum, ellisheimum, røktarheimum og í heimatænastuni er at geva linnandi røkt til borgarar, ið liggja til tað síðsta - eisini kallað terminala røkt.</s>
+            <s>Til hetta er ofta tørvur á at geva heilivág.</s>
+          </p>
+          <p>
+            <s>Sum lóggávan er í dag hava sambýli, ellisheim, røktarheim og heimatænastan ikki loyvi at liggja inni við heilivági, sum ikki er tilskrivaður einum borgara - adrenalin er undantikið.</s>
+          </p>
+          <p>
+            <s>Heilivágur, ið verður brúktur til terminala røkt, krevur læknaliga ávísing.</s>
+            <s>Tað vil siga, at heilivágurin skal koma frá apotekinum.</s>
+          </p>
+          <p>
+            <s>Røktarheim, sum liggja uttan fyri miðstaðarøkið, uppliva ofta eina avbjóðingin við at fáa heilivágin til tíðina.</s>
+            <s>Tá borgarar liggja til tað síðsta, ber tað ikki til bíða eftir Posta, har bíðitíðin kann vera upp til tveir dagar og enn longri í vikuskiftinum.</s>
+            <s>Ofta brúka avvarðandi dýrabara tí uppá at koyra til og frá apoteki.</s>
+            <s>Tíð, sum kundi verið brúkt saman við sínum nærmastu.</s>
+          </p>
+          <p>
+            <s>Í eitt nú Danmark verður ein sokallaður tryggleikakassi brúktur.</s>
+            <s>Hesin kassin inniheldur heilivág, ið verður brúktur til terminalar borgarar, sum hava tørv á linnandi heilivági.</s>
+            <s>Nøgdin røkkur til á leið eitt samdøgur.</s>
+            <s>Hetta ger, at borgarin kann fáa linnandi heilivág, so skjótt sum læknin hevur givið ávísing.</s>
+          </p>
+          <p>
+            <s>Allir føroyingar - óansæð hvar í landinum tey búgva - hava rætt til eina virðiliga fráferð úr hesum heimi.</s>
+            <s>Soleiðis er tíverri ikki í dag, men hetta kann broytast, um røktarheim, ellisheim, sambýli og heimatænastan sambært lógini fáa loyvi at hava eina heilivágsgoymslu til terminalan linna.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-03-28">28. mars 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

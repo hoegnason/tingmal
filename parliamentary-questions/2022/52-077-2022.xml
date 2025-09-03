@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-77/2022: Viðvíkjandi ógreiðu um málmenningartilboð frá Sernámi til foreldur at børnum við Down syndromi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56199" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/77">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni N. Joensen, <roleName>landsstýrismaður í barna-og undirvísingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Viðvíkjandi ógreiðu um málmenningartilboð frá Sernámi til foreldur at børnum við Down syndromi</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørji málmenningartilboð standa foreldrum at barni við Down syndromi í boði frá Sernámi?</item>
+            <item xml:id="q2" type="question-item">Fáa øll tilboð og hjálp?</item>
+            <item xml:id="q3" type="question-item">Hvussu ber tað til, at øll ikki siga seg fáa sama málmenningartilboð frá Sernámi?</item>
+            <item xml:id="q4" type="question-item">Hví siga leiðarin fyri Sernám og landsstýrismaðurin eitt, meðan brúkarar hjá Sernámi siga nakað heilt annað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>21. mars er altjóða dagur teirra, ið hava Down syndrom.</s>
+            <s>Í grannalondum okkara verða alsamt færri børn fødd við Down syndromi, meðan føroysku tølini liggja á sama støði sum fyri 10 árum síðani.</s>
+            <s>Tað er at gleðast um, at tað framvegis liggur ein djúp virðing hjá føroyinginum fyri tí ófødda - fyri lívinum - í sinum margfeldi.</s>
+            <s>Tó, so vísir tað seg ikki so sjáldan, at vit sum samfelag ikki megna nóg væl at hjálpa og stuðla familjum, sum hava tørv á serligari hjálp.</s>
+            <s>Í sambandi við altjóða Down syndrom dagin í ár var forkvinnan í Javna, Fía Petersen, frammi í miðlunum og nevndi, at tørvur er at betra um tilboðini til tey, ið hava Down syndrom.</s>
+            <s>Tað er á ymsan hátt ein avbjóðing at fáa barn við Down syndromi, m.a. innan málmenning.</s>
+            <s>Sernám er stovnurin, ið eigur at veita foreldrum og børnum tilboð av ymiskum slagi, eisini málmenning.</s>
+            <s>Tað kom fram í eini samrøðu í Kvf við eina mammu at barni við Down syndromi, at tað er sera stórur munur á, hvørja hjálp og hvønn stuðul foreldur fáa í boði.</s>
+            <s>Tað gekk bara ein dagur ella tveir, so komu fleiri mammur fram við somu søgu: Sernám ger mun á tilboðum til børn við Down syndromi.</s>
+            <s>Hetta tvíhalda hesar mammur um.</s>
+            <s>Hesar útsagnir samsvara ikki við tað, ið leiðarin fyri Sernám, Margreth Olsen, ber fram, og heldur ikki við tað, sum landsstýrismaðurin, Djóni N. Joensen, sigur, tí hann nevnir í samrøðu í Kvf, at øll foreldur hava fingið tilboð og hjálp, og at hann hevur fult álit á stovninum.</s>
+            <s>Undirritaði undrast á, at útsagnirnar eru so ymiskar - foreldur siga eitt, meðan serliga leiðarin á Sernámi og eisini landsstýrimaðurin siga nakað heilt annað.</s>
+            <s>Í roynd og veru kann sigast, at við útsagnunum hjá leiðaranum á Sernámi og landsstýrismanninum verða foreldrini løgd undir at siga ósatt.</s>
+            <s>Fyri at fáa greiðu á hesum ósamsvari og hvørja hjálp foreldur hava fingið, verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-03-31">31. mars 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
