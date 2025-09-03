@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-67/2022: Íverksetarafeløg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/55725" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/67">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Íverksetarafeløg</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu eru royndirnar í Føroyum við íverksetarafeløgum?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv íverksetarafeløg eru í Føroyum í dag?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv iverksetarafeløg eru farin á húsagang (síðan 1. januar 2017)?</item>
+            <item xml:id="q4" type="question-item">Hvussu stóra skuld høvdu hesi íverksetarafeløg til ávikavist tað almenna og til privatar kreditorar, tá tey fóru á húsagang?</item>
+            <item xml:id="q5" type="question-item">Hvussu nógv partafeløg og hvussu nógv smápartafeløg, ávikavist, eru í Føroyum í dag?</item>
+            <item xml:id="q6" type="question-item">Hvussu nógv partafeløg og hvussu nógv smápartafeløg, ávikavist, eru farin á húsagang (síðan 1. januar 2017)?</item>
+            <item xml:id="q7" type="question-item">Ætlar landsstýrismaðurin, at tað framhaldandi skal vera gjørligt, við 1. kr. í kapitali, at stovna íverksetarafeløg í Føroyum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Frá 1. januar 2017 hevur tað verið møguligt, við 1 kr . í kapitali, at stovna sokallaði íverksetarafeløg í Føroyum.</s>
+            <s>Endamálið var at stimbra íverksetan, og helst hevur fyrimyndin verið líknandi skipan í Danmark, ið tá hevði verið í gildi síðan 1. januar 2014.</s>
+          </p>
+          <p>
+            <s>Danska stjórnin gjørdi tó av, í februar 2019, at steðga hesum aftur, eftir at ein frágreiðing hjá danska Erhvevsstyrelsen, í septembur 2018, staðfesti, at íverksetarafeløgini í størri mun enn aðrir partafelagsformar blivu brúkt til undandrátt, og at feløgini settu seg í skuld, fyri síðani at fara á húsagang.</s>
+            <s>Sostatt mistu bæði landið og privatir kreditorar lutfalsliga meira pening uppá íverksetarafeløg enn uppá aðrar partafelagsformar.</s>
+          </p>
+          <p>
+            <s>Í frágreiðingini hjá danska Ervhervsstyrelsen í septembur 2018 stóð m.a. at lesa: <lb />"Analysen viser blandt andet, at antallet af tvangsopløsninger efter introduktionen af ivarkscetterselskaber er steget mere, end hvad der var forventet. Desuden var der usikkerhed om selskabsformen ville blive brugt til svig og momsunddragelse i videre udstrak end andre virksomhedsformer. Analysen viser hertil, at ivarkscetterselskaberne i større omfang end forventet har medført en forhøjet risiko for svig, og at skatte- og afgiftsrestancerne for ivarkscetterselskaberne er næsten dobbelt så høje som enkeltmandsvirksomheder."</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-03-07">7. mars 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

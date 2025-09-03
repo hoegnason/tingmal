@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-70/2022: Dygd og stuðul til stráfóður</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/55782" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/70">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Dygd og stuðul til stráfóður</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stór mongd av stuðlaðum stráfóðri hevur verið framleidd seinastu árini?</item>
+            <item xml:id="q2" type="question-item">Hevur landsstýrismaðurin umhugsað at gera dygdina av stráfóðrinum til eitt atlit, sum stuðulin verður goldin út eftir?</item>
+            <item xml:id="q3" type="question-item">Hevur landsstýrismaðurin umhugsað at lata upp fyri, at eisini onnur enn tey, ið fáast við vinnuligt neyta- ella seyðahald kunnu gerast partur av skipanini við stráfóðurstuðli?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Játtanin til stráfóðurstuðul verður sambært uppskotinum til fíggjarlóg hækkað við 920.000 krónum, so samlaða avsetingin til stuðulin er 6.000.000 kr.</s>
+          </p>
+          <p>
+            <s>Tað er greitt, at stráfóðurstuðulin hevur virkað rímiliga væl sum skipan, og at ein størri partur av føroyskum stráfóðri verður gagnnýttur, sum hevur við sær, at minni fóður verður innflutt.</s>
+            <s>Harvið verða vit meira sjálvveitandi, samstundis sum okkara egna tilfeingi verður betur gagnnýtt.</s>
+          </p>
+          <p>
+            <s>At skipanin gjøgnum seinastu árini eisini hevur verið víðkað, hevur eisini havt við sær, at nýtslan av stuðlinum hevur verið størri, og onkuntíð hevur verið at frætt, at talið av umsóknum hevur verið so mikið stórt, at játtanin til hendan stuðulin ikki hevur rokkið til.</s>
+          </p>
+          <p>
+            <s>Somuleiðis hevur í fleiri umførum verið ført fram, at tað er ein avbjóðing í skipanini, at stráfóður við púra ymiskari dygd fær júst tann sama stuðulin.</s>
+            <s>Tað kann møguliga hava við sær, at stuðul verður veittur til fóður, sum illa er egnað til fóður, samstundis sum tað í mun til stuðulin ikki loysir seg at gera sær ómak í fóðurframleiðsluni.</s>
+          </p>
+          <p>
+            <s>Tað er hartil ikki óhugsandi, at onnur enn tey, ið fáast við vinnuligt neyta- ella seyðahald, hava ein áhuga í at framleiða stráfóður við útgangsstøði í hesari stuðulsskipan.</s>
+            <s>Til dømis um ætlanin bert er at hava eina vinnuliga stráfóðurframleiðslu, sum síðan verður seld til tey, ið hava annan landbúnað.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-03-15">15. mars 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
