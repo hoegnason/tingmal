@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-96/2022: Royndir við restum frá betongi til at kálka jørð</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56753" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/96">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Royndir við restum frá betongi til at kálka jørð</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat vístu royndirnar, sum í 2021 vórðu gjørdar við at brúka restbetong til at kálka jørð við?</item>
+            <item xml:id="q2" type="question-item">Væntar landsstýrismaðurin, at hetta er ein loysn, sum føroyskir bøndur kunnu brúka til at økja pH-virðið í jørðini og harvið fáa framleitt meira stráfóður við somu ella minni nýtslu av innfluttum kunsttøðum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <ol start="18">
+            <li>juni 2021 var eitt innslag í Degi &amp; Viku um royndir við at brúka restbetong til at kálka jørð og á tann hátt hækka pH -virðið, so jørðin gerst minni súr og harvið betur før fyri at taka taðingarevni til sín.</li>
+          </ol>
+          <p>
+            <s>Greitt varð frá, at á fýra økjum á 1.000 fermetrar hvørt var ávikavist: 1) bara kálkað; 2) kálkað og taðað; 3) bara taðað; 4) einki gjørt.</s>
+          </p>
+          <p>
+            <s>Umboð fyri Búnaðarstovuna greiddi frá, at áðrenn annað varð gjørt, vórðu moldroyndir tiknar í teimum fýra økjunum.</s>
+            <s>Eftir slátturin skuldu síðani nýggjar royndir takast fyri at síggja, um jørðin hevði tikið føðslu til sín, og skuldi hetta geva fyrstu ábendingarnar um úrslitini av royndunum við restbetongi.</s>
+            <s>Roknað varð tó ikki við at síggja ordiliga ávirkan fyrr enn eftir eini fýra mánaðum, og tí skuldu moldroyndir takast aftur á vári í 2022.</s>
+          </p>
+          <p>
+            <s>Víst varð á, at jørðin í Føroyum er ógvuliga súr, men at kálk kann lyfta pH -virðið, so jørðin verður betur egnað til gras og grøði.</s>
+            <s>Vónað varð, at royndirnar við restbetongi kundu slóða fyri at fáa bæði meira og betri gras, og at fáa betri nyttu burturúr bæði mykju- og kunsttøðum.</s>
+            <s>Eitt úrslit av hesum kann so verða, at innflutningstørvurin minkar á bæði stráfóðri og kunsttøðum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2023-05-10">10. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

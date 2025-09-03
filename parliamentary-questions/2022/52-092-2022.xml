@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-92/2022: Fyrispurningur um skannaratilmæli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56687" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/92">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fyrispurningur um skannaratilmæli</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin at seta ein arbeiðsbólk at gera tilmæli í sambandi við stórfingnu gávuna, Tesla MR-skannaran, ið Klaksvíkar sjúkrahús hevur fingið?</item>
+            <item xml:id="q2" type="question-item">Um ja, hvør verður settur í hendan arbeiðsbólkin, sum skal gera tilmælið. Frá hvørjum sjúkrahúsi og hvørji deild verða tey ?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at niðurlaga sergreinar/førleikar á Klaksvíkar sjúkrahúsi ?</item>
+            <item xml:id="q4" type="question-item">Ætlar landsstýrismaðurin at steðga fyri nýggjum sergreinum/førleikum á Klaksvíkar sjúkrahúsi ?</item>
+            <item xml:id="q5" type="question-item">Hvørjar møguleikar sær landsstýrismaðurin í nýggja skannaranum, og sær hon nakra framtíð fyri honum á Klaksvíkar sjúkrahúsi ?</item>
+            <item xml:id="q6" type="question-item">Hvør er munurin á at geva Landssjúkrahúsinum eina gávu og at geva Klaksvíkar sjúkrahúsi eina gávu?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Klaksvíkar sjúkrahús fekk, sum flestu okkara vita, eina stórfingna gávu, ein spildurnýggjan framkomnan Tesla MR-skannara frá vinnulívsfólki í Klaksvík og Eysturoynni.</s>
+            <s>Ein skannari, sum stórur tørvur er á, og sum kann gera stórt gagn hjá nógvum fólki.</s>
+            <s>Vit mugu gera alt fyri at stytta bíðitíðina.</s>
+            <s>Fólk doyggja hvønn dag av krabbameini.</s>
+          </p>
+          <p>
+            <s>Eftir øllum sólarmerkjum at døma, so er hendan gávan komin sera dátt við hjá landsstýrinum.</s>
+            <s>Serliga hjá landsstýrismanninum í heilsumálum, Margit Stórá.</s>
+            <s>Hon vil ikki treytaleyst taka ímóti gávuni, hóast móttakarin, Klaksvíkar sjúkrahús, tekur ímóti gávuni við opnum ørmum og sær tørvin og stórar møguleikar.</s>
+            <s>Landsstýrismaðurin vil hava eitt tilmæli, um gávan kann móttakast.</s>
+            <s>Sambært heimasíðuni hjá Sjúkrahúsverkinum eru fólk vælkomin at geva Landssjúkrahúsinum gávur.</s>
+            <s>Tey kunnu flyta pengar á eitt uppgivið kontunummar, og gávur til Landssjúkrahúsið kunnu avgreiðast við deildarleiðara ella depilsleiðara.</s>
+            <s>Á heimasíðuni stendur onki um gávur til Klaksvíkar sjúkrahús.</s>
+            <s>Nú sýnist tað sum, at ein gáva til Klaksvíkar sjúkrahús er komin sera illa við hjá landsstýrismanninum í heilsumálum.</s>
+          </p>
+          <p>
+            <s>Henda støðan hjá sitandi landsstýri móti Klaksvíkar sjúkrahúsi fyllir rættiliga nógv hjá íbúgvunum norðanfyri.</s>
+            <s>Teir mugu tí fáa greitt at vita, hvat landsstýrismaðurin í heilsumálum ætlar við Klaksvíkar sjúkrahúsi.</s>
+            <s>Tað eru nógvir ósvaraðir spurningar.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-04">4. mei 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

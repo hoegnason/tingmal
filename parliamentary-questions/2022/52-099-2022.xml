@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-99/2022: Rúsandi heilivágur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56766" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/99">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Rúsandi heilivágur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu er býtið av diagnostiseringum av ADHD millum tað almenna og privatstarvandi serlæknar?</item>
+            <item xml:id="q2" type="question-item">Hvussu er býtið av útskrivaðum Ritalin og kopiheilivági millum tað almenna og privatstarvandi serlæknar?</item>
+            <item xml:id="q3" type="question-item">Í hvønn mun samstarvar almenni geirin við privatstarvandi serlæknar um diagnostisering og viðgerð av ADHD?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Síðani 2016 er útskrivaða nøgdin av Ritalin og øðrum ADHD-heilivági hækkað frá 8,4 samdøgursskamtum (DDD) til 31,9.</s>
+            <s>Tað vil siga, at nýtslan er næstan fýrafaldað uppá 7 ár.</s>
+            <s>Tað upplýsir landsstýrismaðurin í heilsumálum, Margit Stórá, í svari uppá fyrispurning frá undirritaðu.</s>
+            <s>Samstundis sum nýtslan er vaksin frættist javnan, at alsamt fleiri ungir føroyingar brúka reseptheilivág at rúsa seg við - serliga ADHD-heilivág, sum Ritalin og annan kopiheilivág.</s>
+            <s>Og nú er løgreglan eisini í miðlunum og greiðir frá, at tað er ein vaksandi trupulleiki, at ung fólk koyra, meðan tey eru ávirkað av rúsevnum ella heilivági.</s>
+            <s>Í fyrra svarinum frá landsstýrismanninum verður upplýst, at vit í Føroyum hava gjørt av at brúka annan heilivág enn Ritalin og kopiheilivág fyri at minka um vandan fyri skeivari nýtslu.</s>
+            <s>Allíkavæl er nøgdin av Ritalin og kopiheilvági, sum kann brúkast at rúsa seg við, nógv vaksin - frá 7,5 DDD (samdøgursskamtum) í 2016 til 17,3 í 2022.</s>
+            <s>Í svarinum verður eisini upplýst, at allir læknar kunnu útskriva ADHD-heilivág, men bert serlæknar kunnu diagnostisera og seta viðgerðina í gongd.</s>
+            <s>Í Føroyum fer hetta fram bæði hjá almenna heilsuverkinum, men eisini á privatum viðgerðarstovum.</s>
+            <s>Tí er áhugavert at fáa upplýst, hvussu býtið millum tað almenna og privatar viðgerðarstovnar sær út.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-11">11. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
