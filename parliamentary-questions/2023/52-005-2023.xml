@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-5/2023: Súkklur í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57252" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/5">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Súkklur í Føroyum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu sær landsstýrismaðurin fyri sær, at Føroyar kunnu blíva eitt súkkluvinarligari land?</item>
+            <item xml:id="q2" type="question-item">Hvat kostar ein súkklubreyt pr. kilometur framvið landsvegnum?</item>
+            <item xml:id="q3" type="question-item">Hvussu kunnu tunlarnir í Føroyum gerast tryggari fyri súkklur?</item>
+            <item xml:id="q4" type="question-item">Hvat kostar tað at seta eina “norska súkklukontakt” upp við tunnilsmunnan?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru ikki tær heilt nógvu súkklurnar at síggja á landsvegnum í Føroyum.</s>
+            <s>Umstøðurnar eru jú ikki nummar eitt til súkklur.</s>
+            <s>Serliga á teimum vegum, har tað er nógv ferðsla.</s>
+            <s>Tá eru súkklur og bilar oftani til ampa fyri hvønn annan.</s>
+            <s>Hetta kundi tó verið annarleiðis.</s>
+          </p>
+          <p>
+            <s>Til dømis hevur Danmark, so at siga, súkklubreyt framvið øllum landsvegum og í Norra hava tey eina “súkklukontakt”, sum súkklarar kunnu trýsta á, áðrenn teir fara inn í ein tunnil, fyri at ávara bilar um, at ein súkkla er í tunlinum.</s>
+          </p>
+          <p>
+            <s>Slíkar súkklubreytir og tiltøk skapa munandi betri og tryggari umstøður fyri súkklarar.</s>
+            <s>Hetta kundi verið við til at fingið fleiri føroyingar at súkkla, til og frá arbeiði, tá ørindi skulu gerast og í frítíðini annars.</s>
+            <s>Hesar somu súkklubreytir høvdu eisini verið til stórt gagn fyri borgarar, ið fara til gongu ella renna ímillum bygdirnar.</s>
+          </p>
+          <p>
+            <s>Súkklan er eitt sunt alternativ til bilin, sum brennir kaloriur til gagns fyri likamið, heldur enn at brenna olju.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-08-11">11. August 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

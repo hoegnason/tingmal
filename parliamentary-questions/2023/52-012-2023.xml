@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-12/2023: HPV koppseting til dreingir og gentur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57381" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/12">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>HPV koppseting til dreingir og gentur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er orsøkin til, at tað er ikki eru eins treytir fyri gentur og dreingir at fáa HPV koppseting, eftir at tey eru fylt 18 ár, og at dreingir skulu rinda fyri HPV koppsetingina, eftir at teir eru fyltir 18 ár ?</item>
+            <item xml:id="q2" type="question-item">Um serligar orsakir ikki eru til hendan ójavna, er landsstýriskvinnan so sinnað at broyta hetta, so kvinnur og menn fáa eins treytir ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>HPV koppsetingin verður í dag givin dreingjum og gentum frá 12 ára aldri.</s>
+            <s>Hetta er samstundis ein koppseting, sum er fyribyrgjandi fyri undirlívskrabba.</s>
+            <s>Skuldi tað hent, at koppsetingin ikki verður givin, tá barnið er fylt 12 ár, er møguleiki at fáa hana seinni.</s>
+          </p>
+          <p>
+            <s>Í kunngerð nr. 151 frá 29. oktober 2020 um ókeypis koppseting fyri ávísum smittandi sjúkum stendur soleiðis í § 4: <lb/>“Kvinnur í aldrinum 12-27 (mín undirstriking) ár kunnu verða koppsettar ókeypis ímóti humant papillomavirus HPV. Dreingir í aldrinum 12-17 (mín undirstriking) ár kunnu verða koppsettir ókeypis ímóti humant papillomavirus HPV”.</s>
+          </p>
+          <p>
+            <s>Sambært hesum verður munur gjørdum á gentum og dreingum, tá ið tað kemur til heilsufyribyrgjandi koppseting.</s>
+            <s>Dreingir, ið eru fyltir 18 ár, skulu rinda 3.000 kr . fyri at verða koppsettir.</s>
+          </p>
+          <p>
+            <s>Tað er umráðandi, tá tað snýr seg um heilsu hjá gentum og dreingjum, kvinnum og monnum, at munur ikki verður gjørdur á kynunum.</s>
+            <s>Eru serligar orsakir til hetta, er tað áhugavert at fáa at vita, hvørjar hesar eru.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir landsstýriskvinnununi í heilsumálum</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-08-28">28. august 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

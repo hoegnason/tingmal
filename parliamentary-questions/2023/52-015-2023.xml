@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-15/2023: Heimild til viðgerð á Center for kønsidentifikation</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57503" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/15">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heimild til viðgerð á Center for kønsidentifikation</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir av teimum 18 føroyingum, sum seinastu 5 árini eru sendir av landinum til danska Center for kønsidentifikation, eru, sum úrslit av hesum kanningum, vorðnir viðgjørdir við: a: hormonum ella líknandi heilivági? b: skurðviðgerðum?</item>
+            <item xml:id="q2" type="question-item">Hví sendir føroyska sjúkrahúsverkið frískar borgarar av landinum til sálarfrøðiligar, medisinskar og sosialar kanningar og metingar?</item>
+            <item xml:id="q3" type="question-item">Í hvørjari lóg, og hvar í slíkari, finst heimild hjá læknum í sjúkrahúsverkinum at senda frísk fólk av landinum og áleggja føroyska skattaborgaranum at gjalda fyri kanningar og møguliga viðgerð av hesum borgarum, sum, sambært sama sjúkrahúsverki, ikki hava staðfesta sjúku?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv hava hesar kanningar, metingar, viðgerðir, ferðingar og uppihald higartil kostað føroyska samfelagnum?</item>
+            <item xml:id="q5" type="question-item">Hvussu er aldurs- og kynsbýtið fyri hesi av landinum sendu?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í svari frá føroyska Landssjúkrahúsinum til foreldur, dagfest 21. juli 2023, lesa vit m.a.:</s>
+            <lb/>
+            <s>a: at endamálið við útgreiningini í Danmark er at finna útav, um viðgerð fyri kynsskifti er rætti vegurin at fara.</s>
+            <lb/>
+            <s>b: at vanliga fevnir útgreiningin um sálarfrøðiligar, medisinskar og sosialar kanningar og metingar.</s>
+            <s>Útgreiningin tekur í miðal 6-8 mánaðir, og um persónurin uppfyllir treytirnar fyri viðgerð, so ber til at fáa hormonviðgerð ella skurðviðgerð.</s>
+            <lb/>
+            <s>c: at heilsumyndugleikarnir ynska at undirstrika, at talan er ikki um fysiska ella psykiatriska sjúku.</s>
+            <lb/>
+            <s>e: at tað er Center fyri Kønsidentitet, sum hevur ábyrgd av viðgerðini.</s>
+          </p>
+          <p>
+            <s>Leggjast skal afturat, at í løgtingslóg um sjúkrahúsverkið, sum føroyska sjúkrahúsverkið verður stýrt eftir, herundir eisini parturin um møguliga víðarisendan av borgarum til útlond, einans fevnir um sjúklingar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-09-05">5. september 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

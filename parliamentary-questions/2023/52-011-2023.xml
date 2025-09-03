@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-11/2023: Bygdaleiðir og fallandi ferðafólkatal</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57379" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/11">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bygdaleiðir og fallandi ferðafólkatal</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er nøkur menningarætlan fyri Bygdaleiðir ?</item>
+            <item xml:id="q2" type="question-item">Er nøkur ítøkilig ætlan um at skipa ferðsluna hjá leið 400 gjøgnum Eysturoyartunnilin?</item>
+            <item xml:id="q3" type="question-item">Er ætlanin at fáa fleiri fólk at nýta Bygdaleiðir aftur, og hvat ætlar landstýrismaðurin at gera fyri at náa hesum máli?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært hagtølunum hjá SSL er talið av ferðandi við Bygdaleiðum minkað nógv seinastu árini.</s>
+            <s>Fyri Bygdaleiðir íalt er talið av ferðandi minkað so líðandi frá 580.688 ferðandi í 2012 og niður í 480.901 ferðandi í 2022.</s>
+            <s>Hetta er ein minking í ferðafólkatali á knapt 100.000 fólk eftir 10 árum.</s>
+          </p>
+          <p>
+            <s>Ynskja vit at steðga hesi gongd, og fáa fleiri at nýta kollektivu og almennu ferðamøguleikarnar - og harvið minka um samlaða útlátið frá akførum - er neyðugt við einari menningarætlan.</s>
+          </p>
+          <p>
+            <s>Størsta minkingin í tali av ferðandi er á leið 400 millum Tórshavn og Klaksvík.</s>
+            <s>Í 2012 var talið av ferðandi á leiðini 157.915.</s>
+            <s>Hetta talið er í 2022 minkað niður 81.481 ferðandi.</s>
+            <s>Sostatt er talið av ferðandi á leið 400 nærum minkað niður í helvt yvir seinastu 10 árini.</s>
+          </p>
+          <p>
+            <s>Hyggja vit at tølunum, síðan Eysturoyartunnilin lat upp í desember 2020, var talið av ferðandi á leið 400 í 2019 tilsamans 128.655.</s>
+            <s>Leggja vit tølini saman fyri ferðandi á leið 400 og 401 (tunnilsleiðin) so gevur tað 102.139, so framvegis er ein minking av ferðandi á gott og væl 25.000 fólk.</s>
+          </p>
+          <p>
+            <s>At ferðslan hjá leið 400 er skipað uttanum Eysturoyartunnilin merkir, at tey ferðandi brúka ein tíma eyka aftur og fram, hvørja ferð tey fara til Havnar ella Klaksvíkar.</s>
+            <s>Í dagsins samfelagi ynskja fólk at ferðast stytstu leið, og harumframt er tað dýrari fyri SSL og umhvørvið at koyra longstu leið.</s>
+            <s>Her eru meirútreiðslur til brennievni, størri útlát og meira slit á vegirnar.</s>
+            <s>Harumframt er tað ikki gott fyri umhvørvið, at stórir bussar við fáum ferðafólkum verða nýttir til henda flutning.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiðu á, hvat landstýrismaðurin ætlar, verða hesir spurningar settir.</s>
+          </p>
+          <h1>Á Løgtingi, 28. august 2023</h1>
+          <p>
+            <s>Eyðgunn Samuelsen</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-08-28">28. august 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
