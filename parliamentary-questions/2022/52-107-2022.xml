@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-107/2022: Fiskavirkisskipanin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56890" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/107">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm, <roleName>landsstýrismaður í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fiskavirkisskipanin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv er útgoldið úr fiskavirkisskipanini seinastu 10 árini?</item>
+            <item xml:id="q2" type="question-item">Hvussu stórur partur av hesum er útgoldið til starvsfólk á virkjum í ali- og uppsjóvarvinnuni?</item>
+            <item xml:id="q3" type="question-item">Í samgonguskjalinum stendur, at fiskavirkisskipanin skal eftirmetast. Hvussu langt er landsstýrismaðurin komin við hesum arbeiði?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroya Arbeiðsgevarafelag hevur víst á, at stuðulsskipanir sum t.d. fiskavirkisskipanin eiga at verða avtiknar.</s>
+            <s>Tað sama siga summir arbeiðsgevarar í alivinnuni, hóast hesir sjálvir hava starvsfólk í fiskavirkisskipanini.</s>
+          </p>
+          <p>
+            <s>Vit vita, at ali- og uppsjóvarvinnan eru tær vinnur, sum er mest lønsamar og hava verið tað í fleiri ár.</s>
+            <s>Allíkavæl eru starvsfólk í júst hesum vinnum í fiskavirkisskipanini, sum í roynd og veru betalir fólki fyri ikki at vera til arbeiðis.</s>
+            <s>Vit hava lægsta arbeiðsloysi í Europa.</s>
+            <s>Okkum tørvar arbeiðsmegi, bæði í privata og almenna geiranum.</s>
+            <s>Hóast trot er á arbeiðsmegi, verða ávísar vinnur stuðlaðar og fasthalda soleiðis arbeiðsmegi í størvum, sum ofta ikki løna seg - samstundis sum skipanirnar forða arbeiðsmegi í at arbeiða í øðrum vinnum ella økjum, har tørvurin er stórur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-25">25. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
