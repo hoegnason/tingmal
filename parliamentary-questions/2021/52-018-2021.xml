@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-18/2021: Javnrættindi til samkynd og børn teirra</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48300" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/18">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Javnrættindi til samkynd og børn teirra</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu og nær ætlar løgmaður at tryggja børnum at samkyndum javnrætt?</item>
+            <item xml:id="q2" type="question-item">Hevur løgmaður framvegis somu meining sum í februar, at allir borgarar og børn skulu hava javnrætt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í februar í ár varð uppskot um broyting í barsilsskipanini felt.</s>
+            <s>Uppskotið snúði seg um at javnseta samkynd við hinskynd foreldur.</s>
+            <s>Tá var samrøða við Bárð á Steig Nielsen í Degi og Viku¹, har hann vísti á, at øll ynskja javnrætt til allar borgarar og børn í Føroyum, men at tað átti at gerast í lógini um foreldramyndugleika.</s>
+          </p>
+          <p>
+            <s>Nýggj lóg um foreldramyndugleika er nú send til hoyringar, og tað er greitt, at hon loysir ikki trupulleikan við manglandi rættindum hjá samkyndum og børnum teirra.</s>
+            <s>Bárður á Steig Nielsen vísti somuleiðis á í septembur í fjør, at børn skulu ikki revsast fyri, hvussu foreldur teirra ynskja at skipa síni viðurskifti².</s>
+          </p>
+          <p>
+            <s>Enn síggja vit ikki nakrar lógarbroytingar, ið loysa teir trupulleikar, sum samkynd hava á familjurættarliga økinum.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-11">11. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

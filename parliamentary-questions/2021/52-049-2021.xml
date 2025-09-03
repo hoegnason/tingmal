@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-49/2021: Makrelkvotur sum endurgjald fyri vantandi fiskiveiðiavtalu við ES</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48888" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/49">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Makrelkvotur sum endurgjald fyri vantandi fiskiveiðiavtalu við ES</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er lógarheimildin og fyrisitingarliga heimildin fyri, at landsstýrismaðurin boðar frá í útvarpinum hjá Kringvarpi Føroya, at hann fer at lata 10.000 tons av makreli í endurgjaldi til ávísar skipabólkar, tí at ongin fiskiveiðiavtala er gjørd við ES í 2021?</item>
+            <item xml:id="q2" type="question-item">Hvør er tann sakliga og vigaða grundgevingin fyri hesi fyrisitingarligu avgerð og fráboðan, og hvør ítøkilig meting og skjalfesting liggur til grund fyri at boða frá endurgjaldi uppá 10.000 tons?</item>
+            <item xml:id="q3" type="question-item">Hvørji ítøkilig skip ella feløg er talan um, ið skulu fáa hesar kvotur, og hvussu er uppgerðin gjørd og skjalprógvað í hvørjum einstøkum føri um, hvat tey skulu hava mist, orsakað av vantandi fiskiveiðiavtalu við ES?</item>
+            <item xml:id="q4" type="question-item">Hvørji fordømi finnast í fyrisitingarlóg og -siðvenju fyri hesi avgerð, og hvørji fordømi fer henda avgerð at skapa mótvegis øðrum borgarum í landinum?</item>
+            <item xml:id="q5" type="question-item">Sambært líkareglu, proporsjónalitetsmeting og sakligari viðgerð, hvussu nógv ætlar landsstýrismaðurin skal verða latið í sonevndum endurgjaldi til skipabólkar og borgarar, sum kunnu staðfestast at hava mist, orsakað av vantandi avtalu við Stórabretland, Noreg, Ísland, ES, og tey, ið hava mist orsakað av vantandi avtalum í t.d. NAFO, Irmingerhavinum, NASCO v.m. – bæði fyrr, nú og frameftir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í útvarpinum hjá Kringvarpi Føroya 18. september 2021, boðar landsstýrismaðurin frá, at hann fer at lata 10.000 tons av makreli til ávísar skipabólkar/feløg í sonevndum endurgjaldi orsakað av, at ongin fiskiveiðiavtala er gjørd við ES í 2021.</s>
+            <s>Sí hesa leinkju: Fáa makrel fyri mist fiskirættindi | Kringvarp Føroya (kvf.fo)</s>
+            <s>Landsstýrismaðurin sigur seg hava fingið staðfest, at hetta kann gerast við kunngerð, uttan nakra lógarbroyting.</s>
+            <s>Tí verður spurt, hvør heimildin er fyri hesi avgerð, og hvussu hon er grundað og skjalfest sambært lóg og fyrisitingarreglum.</s>
+            <s>Hartil hvussu hon viðger borgarar í samfelagnum sambært líkaregluni og hvørji fordømi, hon skapar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-05">05. oktober 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

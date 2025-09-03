@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-39/2021: Byrgingin um Haraldssund</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48736" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/39">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Byrgingin um Haraldssund</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin ætlanir um at nýta ein part av grótinum úr tunlunum norður um Fjall til at gera byrgingina um Haraldssund lidna?</item>
+            <item xml:id="q2" type="question-item">Nær er ætlanin at gera byrgingina lidna?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nú gjørt verður klárt at bora norður um Fjall, kundi ein loysn verið at nýtt ein part av grótinum úr tunlunum til at gera byrgingina um Haraldssund lidna.</s>
+            <s>Tað hevur verið frammi í politisku skipanini av og á at gera byrgingina lidna, men nú tunnilsarbeiðið nærkast, hevur onki verið at hoyrt um hetta.</s>
+          </p>
+          <p>
+            <s>Tað hevur eisini verið frammi, at Klaksvíkar kommuna hevur gjørt avtalu um ein part av grótinum.</s>
+            <s>Hetta skuldi tó ikki forðað fyri, at byrgingin eisini verður gjørd liðug, uttan so, at avtala er gjørd um at veita Klaksvíkar kommunu alt grótið.</s>
+          </p>
+          <p>
+            <s>Byrgingin um Haraldssund er ongantíð gjørd heilt liðug og eru umstøðurnar at koyra ikki góðar, tá veðurlíkindini eru vánalig.¹</s>
+            <s>Landsverk hevur gjørt fyrireikingar til eina verkætlan, sum skal gera byrgingina lidna, og Landsverk hevur í samferðsluætlanini fyri 2021-2024 mælt til, at verkætlanin verður gjørd beinanveg.</s>
+          </p>
+          <p>
+            <s>Spurningurin verður settur fyri at fáa greiðu á ætlanunum hjá landsstýrismanninum hesum viðvíkjandi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-09-20">20. september 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

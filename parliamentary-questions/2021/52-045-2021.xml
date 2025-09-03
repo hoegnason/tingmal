@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-45/2021: Sernám og menning hjá børnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48822" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/45">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Sernám og menning hjá børnum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er tað framvegis Sernám, ið foreldur og starvsfólk á barnaøkinum skulu venda sær til, tá tey eru stúrin um menningina hjá barninum?</item>
+            <item xml:id="q2" type="question-item">Er tað framvegis uppgávan hjá Sernámi at greina støðuna hjá børnum, um illgruni er um autismu, ADHD o.s.fr. og um neyðugt at ávísa barnið til psykiatriina til útgreining?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinastu tíðina eru bíðilistarnir hjá psykiatriini øktir sera nógv - frá 183 børnum í 2019 til 306 í 2020.</s>
+            <s>Sambært leiðandi yvirlæknanum á Psykiatriska Deplinum er tvífaldingin av bíðilistanum tekin um, at børnini verða gjørd sjúkari enn tey eru, og at nógv av teimum áttu at verið tikin hond um aðrastaðni í skipanini.</s>
+            <s>Langi bíðilistin kann tí vera við til, at tey børn, ið hava brúk fyri skjótari hjálp, koma at bíða alt ov leingi.¹</s>
+            <s>Eisini hava vit hoyrt stúrin foreldur í miðlunum, bæði viðvíkjandi bíðitíðini og iva um, hvagar tey skulu venda sær, tá tey eru stúrin um menningina hjá teirra børnum.</s>
+          </p>
+          <p>
+            <s>Mannagongdin í dag er tann, at er barnið heima, kunnu foreldur venda sær til kommunulækna ella heilsufrøðing um stúranina, og hesi kunnu vísa víðari til Sernám, um barnið hevur tørv á tí.</s>
+          </p>
+          <p>
+            <s>Er barnið á dagstovni, kunnu foreldrini venda sær til starvsfólkini um stúranina.</s>
+            <s>Starvsfólkini skulu síðan vísa til Sernám, um tey hava somu stúran um barnið.</s>
+          </p>
+          <p>
+            <s>Tað er uppgávan hjá Sernámi at greina støðuna hjá barninum grundað á eygleiðingarnar hjá foreldrum, heilsufrøðingi og starvsfólkum í dagstovnunum.</s>
+            <s>Tá støðan er greinað, vendir Sernám aftur við ráðgeving til starvsfólk á dagstovnunum sambært innanhýsis mannagongd á Sernámi.</s>
+            <s>Sernám skal standa fyri greiningini og taka avgerð, um barnið skal vísast til Psykiatriska Depilin til útgreining.</s>
+            <s>Hetta fyri at fyribyrgja, at børn óneyðugt verða ávíst til psykiatriina, sum kann økja um bíðitíðina.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa staðfest um omanfyrinevnda mannagongd er broytt, verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-09-28">28. september 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

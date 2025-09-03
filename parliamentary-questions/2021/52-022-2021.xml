@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-22/2021: Nýggja heimið í Reynstúni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48333" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/22">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Nýggja heimið í Reynstúni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu langt er arbeiðið komið við at byggja nýtt heim til fólk við menningartarni og fjølbreki (húsfólkini á Eirargarði) í Reynstúni á Argjum?</item>
+            <item xml:id="q2" type="question-item">Nær verður heimið í Reynstúni liðugt?</item>
+            <item xml:id="q3" type="question-item">Hvat er gjørt av ábótum á núverandi Eirargarði 14 og 16, og hvat verður gjørt, meðan bíðað verður eftir nýggja heiminum í Reynstúni?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í frágreiðing løgmans á ólavsøku verður nýggja heimið í Reynstúni á Argjum nevnt sum ein ætlan, men einki verður sagt um, hvussu tað líður við arbeiðinum.¹</s>
+            <s>Nógvir vardir bústaðir eru í vánaligum standi og eru ótíðarhóskandi.</s>
+            <s>Tann 29. mars 2019 varð lógaruppskot lagt fyri Løgtingið um at byggja nýtt heim í Reynstúni.</s>
+            <s>Skipanaruppskot og tíðarætlan vóru við í uppskotinum og eftir ætlan skuldi heimið taka 24 mánaðir at byggja og standa liðugt í 2022.</s>
+            <s>Uppskotið fall burtur, tá tingið fór heim.</s>
+            <s>Bygningarnir Eirargarður 14 og 16 vórðu bygdir i 1970'unum og eru i ringum standi og ótíðarhóskandi í dag.</s>
+            <s>Ætlanin var at gera ymsar ábøtur á Eirargarð 14 og 16, meðan bíðað varð eftir nýggja heiminum.</s>
+            <s>Hetta framgongur eisini av lógaruppskotinum frá mars 2020 um dagføring av vardum bústøðum.</s>
+            <s>Eisini er tað týdningarmikið hjá húsfólki, avvarðandi og starvsfólkum at vita, um ella nær tey kunnu vænta sær eitt nýtt heim og arbeiðspláss.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-19">19. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-27/2021: Lóg um samanhangandi tænastuveitingar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48385" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/27">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lóg um samanhangandi tænastuveitingar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær verður lógin um samanhangandi tænastuveitingar løgd fyri Løgtingið?</item>
+            <item xml:id="q2" type="question-item">Verður neyðug játtan sett av til endamálið á fíggjarlógini fyri 2022?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í seinastu tingsetu samtykti eitt samt Løgting eitt uppskot til samtyktar frá einari samdari Trivnaðarnevnd um at heita á landsstýrið at gera eina lóg um samanhangandi tænastuveitingar.</s>
+            <s>Í Føroyum hava vit nógvar góðar tænastur og tilboð til borgaran, men skal borgarin flyta úr eini skipan í eina aðra, frá einum myndugleika til ein annan, er tað ofta soleiðis, at borgarin dettur niður ímillum skipanirnar, og at tænastan tískil versnar, og fyri borgarin er hetta ein stórur missur.</s>
+          </p>
+          <p>
+            <s>Fleiri royndir eru gjørdar at fyri at tryggja borgarunum eina samanhangandi tænastu eitt nú "Tann góða tilgongdin" frá 2012, sum hevði til endamáls at tryggja børnum og ungum við autismu eina samanhangandi tænastu, har myndugleikar arbeiddu saman sum eitt toymi rundanum barnið.</s>
+          </p>
+          <p>
+            <s>Ætlanin við "Tann góða tilgongdin" var, at skipanin skuldi flytast yvir á onnur øki, men tíverri er tað arbeiðið dottið niðurfyri.</s>
+          </p>
+          <p>
+            <s>Tað eru nógvir fyrimunir fyri borgaran, at vit hava eina lógartryggjaða tænastu, soleiðis at borgarin ongantið skal hugsa um, hvør skipan veitir honum eina tænastu, ella hvør er myndugleikin.</s>
+            <s>Í uppskotinum til samtyktar er ein listi yvir fleiri fyrimunum við eini slíkari lóg m.a. :</s>
+          </p>
+          <ul>
+            <li>
+              <s>Borgarin skal í miðdepilin.</s>
+            </li>
+            <li>
+              <s>Betri hjálp til borgarar og familjur við samansettum trupulleikum.</s>
+            </li>
+            <li>
+              <s>Minni umsiting og størri frælsi hjá starvsfólkunum til at meta um einstaka borgaran.</s>
+            </li>
+            <li>
+              <s>Góðar og fakliga sterkar almennar leiðslur.</s>
+            </li>
+            <li>
+              <s>Nútímans talgildar loysnir verða settar í verk.</s>
+            </li>
+            <li>
+              <s>Ein pulja verður sett av til tvørfakligt og tvørgeiraligt virksemi, tá hetta verður mett neyðugt.</s>
+            </li>
+            <li>
+              <s>Royndarskipanir tvørtur um geirar.</s>
+            </li>
+          </ul>
+          <p>
+            <s>Í løglistanum, sum fylgir við ólavsøkufrágreiðing løgmans, er hendan lóg ikki at síggja, og tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-27">27. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

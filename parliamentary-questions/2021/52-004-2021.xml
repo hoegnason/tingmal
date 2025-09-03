@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-4/2021: Nýtt tilfeingi, kvotur og gjøld í fiskivinnuni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48229" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/4">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Nýtt tilfeingi, kvotur og gjøld í fiskivinnuni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Við teimum kvotum og tí nýggja makreltilfeingi, sum Føroyar hava ásett í 2021, hvussu nógv hevði verið boðið út á uppboðssølu, um lógin hjá undanfarnu samgongu enn var í gildi (sjófeingislógin sum var galdandi í 2018 og 2019)?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógv hevði verið boðið út í tonsum í 2021 av ávikavist: - Makreli - Norðhavssild - Svartkjafti - Botnfiski í Barentshavinum og við Svalbard?</item>
+            <item xml:id="q3" type="question-item">Hvussu stór hevði inntøkan verið hjá landskassanum av hesum uppboðum, umframt veiðigjøld, um miðalprísirnir vóru teir somu fyri fiskasløgini sum í 2018 og 2019?</item>
+            <item xml:id="q4" type="question-item">Hvussu stórur er munurin í mun til tað, sum nú verður mett í inntøku til landskassan av veiðigjøldum í 2021?</item>
+            <item xml:id="q5" type="question-item">Hvussu stórar høvdu menningarkvoturnar verið í tonsum í 2021 av makreli, norðhavssild og svartkjafti, um sjófeingislógin hjá undanfarnu samgongu enn var í gildi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroyar hava hækkað sína makrelkvotu við áleið 60.000 tonsum.</s>
+            <s>Hartil er sildakvotan hækkað og kvotan av botnfiski í Barentshavinum orsakað av tilmælum og samráðingum.</s>
+          </p>
+          <p>
+            <s>Sjófeingislógin hjá undanfarnu samgongu hevði greiðar ásetingar um, at hækkaðar kvotur og nýtt tilfeingi skuldu bjóðast út.</s>
+            <s>Hartil hvussu nógv skuldi vera í menningarkvotum.</s>
+          </p>
+          <p>
+            <s>Tí verður spurt, hvussu nógv hevði verið boðið út, og hvussu nógv hevði verið í menningarkvotum, um lógin hjá undanfarnu samgongu enn var í gildi.</s>
+            <s>Hartil verður spurt, hvussu inntøkan hevði verið hjá landskassanum við somu miðalprísum sum í 2018 og 2019 - og hvør munurin er í mun til mettu inntøkurnar nú.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-03">3. august 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal
+                løgtingsmaður</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
