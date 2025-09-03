@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-29/2023: Heilivágsnýtsla og burturbeining</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57830" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/29">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heilivágsnýtsla og burturbeining</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv er heilivágsnýtslan vaksin tilsamans í Føroyum seinastu 5 árini í nøgd og kostnaði?</item>
+            <item xml:id="q2" type="question-item">Hvussu stóran lut eigur sjúkrahúsverkið í hesum vøkstri?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógvur heilivágur verður burturbeindur í Føroyum?</item>
+            <item xml:id="q4" type="question-item">Hvussu stórum parti av hesum stendur sjúkrahúsverkið fyri?</item>
+            <item xml:id="q5" type="question-item">Hvørjar mannagongdir eru fyri at minka um heilivágsnýtsluna og fyribyrgja, at heilivágur fer til spillis?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í summar komu nýggj tøl út frá “Danmarks Apotekerforening”, sum vístu, at donsku apotekini beina heilivág burtur fyri yvir 400 mió. kr. um árið.</s>
+            <s>Tá er burturkastið frá sjúkrahúsum, framleiðarum og søluliðnum ikki tikið við, men er fyrst og fremst frá borgarum.</s>
+            <s>Mett verður, at umleið ein fjórðingur av hesum eru burturspiltar skattakrónur, tí danski staturin, eins og í Føroyum, veitir tilskot til heilivág.</s>
+            <s>Altso verða umleið 100 milliónir krónur koyrdar í skrell á hvørjum ári - bara á apotekunum.</s>
+          </p>
+          <p>
+            <s>Eisini í Føroyum brúka bæði tað almenna og borgarar milliónir av krónum upp á heilivág, og nýtslan er vaksandi.</s>
+            <s>Áhugavert er at vita, hvussu nógv av hesum heilivági fer í skrell, og eisini hvussu stóran lut sjúkrahúsverkið eigur.</s>
+          </p>
+          <p>
+            <s>Nú landið brúkar so nógvar pengar upp á heilivág er eisini áhugavert at vita, hvat verður gjørt fyri at minka um heilivágsnýtsluna og ikki minst at fyribyrgja, at heilivágur fer til spillis.</s>
+          </p>
+          <p>
+            <s>Tí hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-09-20">20. september 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

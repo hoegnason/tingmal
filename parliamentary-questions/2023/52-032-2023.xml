@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-32/2023: Gerandisvørur og príseftirlit</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57957" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/32">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gerandisvørur og príseftirlit</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er nakað eftirlit við matvøruprísunum í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Hvussu tryggja vit okkum, at inflatiónin ikki rakar óneyðuga hart?</item>
+            <item xml:id="q3" type="question-item">Nær verður lógarbroytingin í kappingarlógini borin í Løgtingið?</item>
+            <item xml:id="q4" type="question-item">Hvørjar broytingar verða gjørdar í lógini?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Brúkaraprístalið heldur á at vaksa - hóast tað í seinastuni veksur eitt sindur spakuligari.</s>
+            <s>Landsbankin vísir á, at í øðrum ársfjórðingi 2023 vaks brúkaraprístalið við 4,4%, og tað er munandi lægri, enn vøksturin í brúkaraprístalinum hevur verið síðani annan ársfjórðing 2022.</s>
+          </p>
+          <p>
+            <s>Sambært Landsbankanum eru tað tó serliga hækkaðir matvøruprísir, sum toga brúkaraprístalið upp.</s>
+            <s>Nakað, sum øll húsarhald í Føroyum merkja í løtuni.</s>
+            <s>Serliga meint rakar tað tey lág- og miðalløntu, tí talan er um neyðsynjarvørur.</s>
+            <s>Tað tykist sum, at tað er skjótt at hækka prísirnar, men gongur meira striltið at lækka teir aftur.</s>
+          </p>
+          <p>
+            <s>Í vár var uppskot um at seta á stovn eitt føroyskt príseftirlit til viðgerðar í Løgtinginum.</s>
+            <s>Uppskotið fall, men við teimum viðmerkingum, at nevndu økir eiga at fáa hægri raðfesting og eiga at skrivast inn í “lógina um kapping”, heldur enn at skipa nevndu økir í eini “nýggjari lóg og einum nýggjum stovni”.</s>
+            <s>Nevndu økini, sum Vinnunevndin í álitinum legði dent á, eru, at í vinnugeirum við avmarkaðari kapping eigur kappingarlógin at hava víðari virkisøki og størri heimildir.</s>
+          </p>
+          <p>
+            <s>Mælt varð til, at broytingar í lógini vórðu framdar í seinasta lagi í heyst.</s>
+            <s>Tí hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-09-28">28. september 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
