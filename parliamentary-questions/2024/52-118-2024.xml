@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-118/2024: Kommunuvalið í Runavíkar Kommunu í 2024.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66905" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/118">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Kommunuvalið í Runavíkar Kommunu í 2024.</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin hoyrt frá løgregluni um kanningararbeiðið í sambandi við møguligt óreglusemi viðvíkjandi kommunuvalinum á valstaðnum í Oyndarfirði í Runavíkar Kommunu.</item>
+            <item xml:id="q2" type="question-item">Hevur tað verið samskift ímillum landsstýrismannin og løgregluna um málið.</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hava áður verið fyrispurningar á Tingi um kommunuvalið og kommunuvallógina, og eitt mál um valsvik í Runavíkar Kommunu verður framvegis kannað av løgregluni.</s>
+          </p>
+          <p>
+            <s>Uppá munnligan fyrispurning 9. apríl 2025 svaraði landsstýrismaðurin, at hann ikki viðgjørdi málið um møguligt óreglusemi viðvíkjandi valinum á valstaðnum í Oyndarfirði, fyrr enn løgreglan var liðug við sítt kanningararbeiðið.</s>
+            <s>Landsstýrismaðurin fór at taka málið uppaftur, tá løgreglan var liðug at kanna málið.</s>
+          </p>
+          <p>
+            <s>Nú er rúm tíð gingin síðan kommunuvalið, og síðan løgreglan fór undir at kanna málið.</s>
+            <s>Tað undirritaði kennir til slíkt arbeiði, eiga frágreiðingar at verða fingnar til vega frá teimum, sum hava havt við valið í Oyndarfirði at gera.</s>
+            <s>Somuleiðis eigur eisini niðurstøðan viðvíkjandi umrødda valseðli, sum broytti valið í Runavíkar Kommunu, at fyriliggja.</s>
+            <s>Slíkar kanningar taka ikki eitt hálvt ár at avgreiða.</s>
+          </p>
+          <p>
+            <s>Tað er sera álvarsamt, at spurnartekn framvegis verður sett við valúrslitið í Runavíkar Kommunu.</s>
+            <s>Tí verða hesir spurningar settir landsstýrismanninum, so allur ivi um valúrslitið í Runavíkar Kommunu kann verða beindur av vegnum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2025-06-23">23. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

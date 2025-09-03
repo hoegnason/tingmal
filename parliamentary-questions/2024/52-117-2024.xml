@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-117/2024: Próvtøkuhættir í eini tíð við vitlíki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66903" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/117">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni N. Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Próvtøkuhættir í eini tíð við vitlíki</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar eru tær ítøkiligu avbjóðingarnar vegna vitlíki í skúlahøpi sambært landsstýrismanninum og hansara øki?</item>
+            <item xml:id="q2" type="question-item">Er arbeiðið at endurskoða próvtøkuhættir vegna avbjóðingar við vitlíki byrjað?</item>
+            <item xml:id="q3" type="question-item">Hvør er tíðarkarmurin fyri broytingum í próvtøkuhættum í eini møguligari endurskoðan, og í hvønn mun kann arbeiðið verða framt innan verandi játtan til økið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Síðani vitlíki gjørdist alment kent og atkomuligt, er tað vorðið flest øllum greitt, at próvtøkuhættir, sum eru fyriskrivaðir í føroyskum námsætlanum og vegleiðingum kunnu tykjast høpisleysir.</s>
+            <s>Ikki bert tí, at markið fyri, hvussu nógva hjálp ein próvtakari kann fáa frá umsetingarforritum, leitifunkum eftir talgildum tilfari og tílíkum, er trupult at áseta, men eisini tí, at øll undirvísing gjøgnum skúlaárini er merkt av, hvat skal mátast við skúlaárslok, sambært ásetingum í lógum, kunngerðum og námsætlanum.</s>
+          </p>
+          <p>
+            <s>Leingi hevur verið tosað um, at námsætlanirnar til føroyska skúlaverkið mugu endurskoðast.</s>
+            <s>Tá hevur verið hugsað um tað samlaða innihaldið av ásetingum um, hvat skal lærast á hvørjum skúlastigi.</s>
+            <s>Nakað er gjørt, men seinastu árini er tað vorðið uppaftur meira átrokandi at fáa gjørt niðurstøður um, hvussu mátast skal, hvat næmingurin sjálvstøðugt dugir og megnar at framleiða til eina próvtøku.</s>
+            <s>Eisini tí at próvtøkuhættir ávirka, hvussu undirvíst verður.</s>
+          </p>
+          <p>
+            <s>Herfyri var eitt álit handað landsstýrismanninum um eftirmeting av miðnámi í Føroyum.</s>
+            <s>Undir kapitlinum meting av yvirskipaðu avbjóðingunum stendur undir pkt. 3.3: Próvtøkur, próvtøl, ársmet og nýggja tøknin, serliga vitlíki m.a. at «... í einum heimi við alsamt framkomnari hjálpitólum og møguleikum fyri at fáa hjálp, verður tað støðugt truplari at tryggja, at næmingarnir sjálvir hava skrivað síni svar.</s>
+            <s>Hetta merkir, at royndir kunnu geva eina órealistiska mynd av førleikunum hjá næminginum og ikki lýsa teirra veruligu førleikar og vitan.»</s>
+            <s>Og eitt av tilmælunum ljóðar so: «Skrivligu royndirnar í verandi líki skulu annaðhvørt takast burtur ella tillagast nýggja tøkniliga veruleikan við verkætlanum og skrivligum royndum uttan hjálpitól.»</s>
+          </p>
+          <p>
+            <s>Nevnda álit snýr seg um miðnám, men avbjóðingin við vitlíki í mun til skúlaarbeiði og próvtøkur viðkemur øllum undirvísingarverkinum.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2025-06-23">23. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
