@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-58/2022: Fígging av Suðuroyartunlinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/54570" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/58">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fígging av Suðuroyartunlinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjir møguligir figgingarleistir til Suðuroyartunnilin fyriliggja ítøkiliga, sum landsstýrismaðurin vísir á í samrøðu við Kringvarpið tann 22. desember 2022?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýrismaðurin undir fyrireikingunum at kanna, um statslán frá Danmark er ein møguleiki til at fíggja Suðuroyartunnilin?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í samrøðu við Kringvarpið tann 22. desember 2022 segði landsstýrismaðurin í fiskivinnu- og samferðslumálum, at Suðuroyartunnilin verður settur í gongd í hesum valskeiðinum, og tað merkir, at byrjað verður at bora í hesum valskeiðinum.</s>
+            <s>Tá landsstýrismaðurin í somu samrøðu bleiv spurdur um figgingina, svaraði hann m.a. fylgjandi: <lb/>“Okur finna ein figgingarleist fyri tad, tad liggja modellir fyri, hvussu okur loysa tad, so tad loysa okur eisini.”</s>
+          </p>
+          <p>
+            <s>Vísandi til omanfyristandandi úttalilsi frá landsstýrismanninum, so fyriliggja tað fleiri modell til figgingarleist fyri Suðuroyartunnilin, og tí er viðkomandi at fáa eina nærri kunning um, hvørji hesi modell eru.</s>
+          </p>
+          <p>
+            <s>Danmark er millum tey einans 11 londini í heiminum, sum hava triple A-rating, sum er hægst møguliga rating, og gevur hetta atgongd til ta lægstu rentuna á altjóða figgingarmarknaðinum.</s>
+            <s>Tí er áhugavert at kanna, um statslán frá Danmark kann verða ein møguleiki at figgja Suðuroyartunnilin.</s>
+          </p>
+          <p>
+            <s>Figging er altavgerandi fyri at gjøgnumføra hesa byggiverkætlanina.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-01-26">26. januar 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
