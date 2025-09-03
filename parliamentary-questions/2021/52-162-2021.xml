@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-162/2021: Prísbroytingar og ferðsla í Eysturoyartunlinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard</persName>
+            <roleName />
+          </author>
+          <ref target="https://www.logting.fo/documents/52305" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/162">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard</persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen</persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Prísbroytingar og ferðsla í Eysturoyartunlinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu hevur prísbroytingin hjá Eysturoyartunlinum frá 1. januar 2022 ávirkað ferðsluna?</item>
+            <item xml:id="q2" type="question-item">Nær verður ætlanin um eina fastprísskipan á kr. 1.995 um mánaðin sett í verk?</item>
+            <item xml:id="q3" type="question-item">Hvussu stór upphædd er latin frá landinum til lánsgjøld hjá Eysturoyartunlinum í 2021 og hvør er meting fyri tørvinum á játtan í 2022?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tann 1. januar 2022 broyttust prísirnir hjá Eysturoyartunlinum.</s>
+            <s>Broytingin var fyri tey, sum koyra fleiri enn 10 túrar um mánaðin, har tað frammanundan stórt sæð ongin avsláttur var.</s>
+          </p>
+          <p>
+            <s>Avsláttarskipanin sær soleiðis út við prísi fyri hvønn einvegis túr við haldi:</s>
+            <lb />
+            <table rows="4" cols="2">
+              <row>
+                <cell>1-10 túrar</cell>
+                <cell>75,-</cell>
+              </row>
+              <row>
+                <cell>11-20 túrar</cell>
+                <cell>65,-</cell>
+              </row>
+              <row>
+                <cell>11-20 túrar</cell>
+                <cell>40,-</cell>
+              </row>
+              <row>
+                <cell>31- túrar</cell>
+                <cell>30,-</cell>
+              </row>
+            </table>
+          </p>
+          <p>
+            <s>Higartil sær tað út til at hava verið trupult at áseta rætta prísin fyri koyring í Eysturoyartunlinum, hetta at finna bestu javnvágna millum príslækkingar og meira ferðslu.</s>
+            <s>Tað er kortini greitt, at verður tann besta javnvágin ikki funnin, gevur íløgan ikki hægsta samfelagsliga gagn, og landskassin fer frameftir at noyðast at játta pening til lánsgjøld.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2022-04-04">4. apríl 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rs3plwzq">Jaspur Langgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

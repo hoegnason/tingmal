@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-135/2021: Próvtøkur á miðnámi summarið 2022</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/51346" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2021/135">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Próvtøkur á miðnámi summarið 2022</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin at gera tillagingar í próvtøkunum á miðnámi í summar?</item>
+            <item xml:id="q2" type="question-item">Kann tað hugsast, at talið á próvtøkum verður broytt, soleiðis at næmingarnir skulu upp til færri próvtøkur í summar?</item>
+            <item xml:id="q3" type="question-item">Um nei til spurning 2, kann tað hugsast, at landsstýrismaðurin sum eitt alternativ vil minka pensumkravið í einstøku lærugreinunum í sambandi við próvtøkurnar í summar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Hóast seinastu koronutiltøkini nú eru tikin av, er ávirkanin frá koronutíðini framvegis her.</s>
+            <s>Hugsa vit um næmingarnar á miðnámi, ið skulu upp til próvtøku í summar, so fara møguleikarnir fyri góðum úrsliti í summar at verða merktir av koronutíðini.</s>
+          </p>
+          <p>
+            <s>Hóast miðnámsskúlarnir ikki hava verið beinleiðis stongdir í hesum skúlaárinum, so hava skúlarnir verið nógv ávirkaðir av koronu.</s>
+            <s>Næmingar og lærarar hava verið sjúkir og/ella í sóttarhaldi stóran part av skúlaárinum - serliga frá heystfrítíðini og til jólar.</s>
+          </p>
+          <p>
+            <s>Hóast skúlarnir ikki hava verið beinleiðis stongdir, so hevur ávirkanin merkt undirvísingina og næmingar hava verið sjúkir og í sóttarhaldi upp á skift.</s>
+            <s>Hóast fjarundirvísing kann vera eitt gott amboð í styttri tíðarskeið, er nógv, ið týðir á, at fjarundirvísing ikki gevur sama úrslit sum vanlig undirvísing, hvørki tá ið tað kemur til læring hjá einstaka næminginum og eiheldur, tá vit hugsa um at náa ásetta pensum.</s>
+          </p>
+          <p>
+            <s>Haraftrat hava elstu flokkarnir, ið skulu til endaliga próvtøku í summar, verið ávirkaðir av koronufarsóttini í tvey skúlaár.</s>
+            <s>Hetta kann geva næmingunum eitt verri útgangsstøði í sambandi við próvtøkurnar og tí ávirka próvtøllini.</s>
+            <s>Hesi próvtøl eru avgerandi fyri miðaltalið hjá næmingum í endaflokkunum og fer at ávirka møguleikarnar fyri upptøku á hægri lestri í summar.</s>
+          </p>
+          <p>
+            <s>Tann 25. februar 2022 varð avtala gjørd í Danmark, har avgjørt er, at næmingar, ið skulu til fráfaringarroynd fólkaskúlans og endaflokkarnir á gymnasialum miðnámi, skulu upp til færri próvtøkur í summar.</s>
+          </p>
+          <p>
+            <s>Havandi í huga at ikki so fáir næmingar í Føroyum søkja inn á víðari lestur uttanlands, vil tað verða munur á fortreytunum at søkja víðari, um einki verður gjørt fyri at avmarka próvtøkurnar hjá hesum næmingum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2022-02-28">28. februar 2022</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
