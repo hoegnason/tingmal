@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-130/2022: Bústaðir kring landið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57099" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/130">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm, <roleName>landsstýrismaður í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Bústaðir kring landið</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvar vanligar búeindir, og hvar í landinum, hevur Bústaðir bygt seinastu 4 árini?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvar vanligar búeindir, og hvar í landinum, hevur Bústaðir í gerð?</item>
+            <item xml:id="q3" type="question-item">Hvussu stórur partur av hesum verkætlanum er saman við privatum?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógvir fyrispurningar eru frá privatum kring landið til verkætlanir saman við Bústøðum, og hevur hetta broytt seg, síðan heimildirnar hjá Bústøðum broyttust í vár?</item>
+            <item xml:id="q5" type="question-item">Hvussu nógvar vanligar búeindir, og hvar í landinum, væntar landsstýrismaðurin, at Bústaðir fer at byggja komandi 4 árini?</item>
+            <item xml:id="q6" type="question-item">Hvør er grundgevingin fyri, at Bústaðir byggir búeindir í høvuðsstaðnum, tá sera nógvar reint privatar bústaðarverkætlanir eru í gongd har, meðan mynstrið ikki er tað sama kring landið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ein fatan millum fólk, at Bústaðir hevur bygt sera fáar búeindir seinastu árini, sum ikki eru til serlig endamál.</s>
+          </p>
+          <p>
+            <s>Í vár, tá heimildin hjá Bústøðum at byggja saman við privatum varð broytt frá «skal» til «kann» skiltist, at útlitini fyri bygging fóru at batna munandi, eisini saman við privatum.</s>
+          </p>
+          <p>
+            <s>Bústaðir hevur alment kunnað um, at nakað fer at verða bygt nú, harav 44 búeindir eru í høvuðsstaðnum og 25 kring landið (18 í yvirtiknari verkætlan í Fuglafirði og 7 í Streymnesi).</s>
+          </p>
+          <p>
+            <s>Í hesum sambandi er áhugavert at fáa at vita, hvussu mynstrini hava verið seinastu árini, og hvussu landsstýrismaðurin ætlar at brúka Bústaðir sum bústaðarpolitiskt amboð nú og komandi árini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-21">21. juni 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-114/2022: Tunlarnir norður um fjall og Depilssvingið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56947" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/114">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tunlarnir norður um fjall og Depilssvingið</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær vænast at nýggju tunlarnir norður um fjall lata upp?</item>
+            <item xml:id="q2" type="question-item">Hví hevur Landsverk valt at leggja nýggja tunnilsvegin, fyri norðan fjall, ímillum Norðtoftavegin og gamla tunnilsvegin?</item>
+            <item xml:id="q3" type="question-item">Hví bleiv ikki valt at knýta nýggja tunnilsmunnan norðan fyri og Norðtoftavegin saman ístaðin?</item>
+            <item xml:id="q4" type="question-item">Hvat kostar hesin vegurin av samlaðu verkætlanini?</item>
+            <item xml:id="q5" type="question-item">Heldur kostnaðarætlanin fyri alla tunnilsverkætlanina?</item>
+            <item xml:id="q6" type="question-item">Hvørjar niðurstøður eru lokala friðingarnevndin og yvirfriðingarnevndin komnar til, í samband við at gera nýggjan veg tvørtur um Depils Á?</item>
+            <item xml:id="q7" type="question-item">Hvat kostar tað at leggja rør, fylla grót í og gera veg tvørtur um ánna?</item>
+            <item xml:id="q8" type="question-item">Hvat kostar tað at gera eina brúgv tvørtur um ánna?</item>
+            <item xml:id="q9" type="question-item">Hvat kostar tað at breiðka núverandi veg í Depilssvinginum?</item>
+            <item xml:id="q10" type="question-item">Hvørja loysn mælir Landsverk til viðvíkjandi Depilssvinginum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Hesin fyrispurningurin er settur fyri at fáa greiðu á, hvussu gongst við nýggju tunlunum norður um fjall.</s>
+            <s>Tað frættist lítið í tíðindunum um hesa verkætlan.</s>
+            <s>Hetta er vanliga eitt gott tekin, og tí er eisini spenningur, um verkætlanin verður liðug fyri tíð.</s>
+            <s>Upprunaliga tíðarætlanin sigur, at tunlarnir standa lidnir í november 2024.</s>
+            <s>Eitt, sum fleiri lokalir íbúgvar undrast á, er, hví Landsverk hevur valt at gera nýggja tunnilsvegin norðanfyri, ímillum tveir aðrar vegir.</s>
+            <s>Tí verður eisini spurt um hetta.</s>
+          </p>
+          <p>
+            <s>Depilssvingið er eitt rættiliga skarpt s-sving.</s>
+            <s>Stórir bilar kunnu ikki møtast í hesum svinginum.</s>
+            <s>Harafturat er tað eitt rættiliga óøkonomiskt sving orsakað av, at bilførarar noyðast at seta ferðina úr 80 km/t niður á einar 30-50 km/t og síðani uppaftur á 80 km/t eftir svingið.</s>
+            <s>Bæði maskinur og grót eru á staðnum; tí skuldi hetta verið lagaliga løtan at rætta upp á Depilssvingið.</s>
+            <s>Depils Á tekur seg tó sera væl út har; tí verður bæði spurt um niðurstøðurnar hjá friðingarmyndugleikunum og hvørja loysn Landsverk sær fyri viðvíkjandi Depilssvinginum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-06-07">07. juni 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

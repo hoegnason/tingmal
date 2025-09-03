@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-121/2022: Tunnil til Tjørnuvíkar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/xh4xavkd">Kim Durhuus</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/57014" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/121">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/xh4xavkd">Kim Durhuus, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tunnil til Tjørnuvíkar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er tíðarætlanin fyri komandi Tjørnuvíkartunnilin?</item>
+            <item xml:id="q2" type="question-item">Eru kjarnuboringarnar gjørdar, og er linjuføringin fastløgd?</item>
+            <item xml:id="q3" type="question-item">Nær er ætlanin at byrja at bora?</item>
+            <item xml:id="q4" type="question-item">Hvør er ætlanin við grótinum, sum kemur úr tunlinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Verandi vegur til Tjørnuvíkar er, sum flest øllum kunnugt, bæði smalur og ótryggur.</s>
+            <s>Ikki er óvanligt, at har eru omanlop.</s>
+            <s>Harafturat er vegurin sera ótíðarhóskandi um summarið, tí Tjørnuvík er eitt av fremstu ferðamálum í Føroyum.</s>
+          </p>
+          <p>
+            <s>Tunnil til Tjørnuvíkar hevur verið tosað um í áratíggju; tí er tað í tøkum tíma, at tunnilin verður settur á skrá og gjøgnumførdur.</s>
+          </p>
+          <p>
+            <s>Á fíggjarlógini fyri í ár eru settar 1 mió. kr. av til prosjektera tunnil til Tjørnuvíkar.</s>
+            <s>Í álitinum til fíggjarlóg stendur at lesa, at henda upphæddin skal nýtast hjá Landsverki at prosjektera verkætlanina, soleiðis at tunnilstoymið kann fara í gongd at fremja arbeiðið.</s>
+            <s>Hóast pengar eru settir av at brúka í ár, hevur almenningurin enn einki hoyrt um hesa verkætlan, hvørki um kjarnuboringar ella, um nøkur linjuføring er fastløgd.</s>
+          </p>
+          <p>
+            <s>Umframt avbjóðingarnar eftir verandi vegi til Tjørnuvíkar, hevur ein stórur partur av vegnum frá Streyminum til Haldarsvíkar bert eitt spor.</s>
+            <s>Tí kundi tað verið bæði praktiskt og fíggjarligt skilagott at brúkt grótið, sum kemur úr tunlinum til Tjørnuvíkar at breiðka vegin frá Streyminum til Haldarsvíkar.</s>
+          </p>
+          <p>
+            <s>Sum áður nevnt, so skal havast í huga, at eitt stórt tal av ferðafólkum eisini koyrir eftir hesum vegnum til Tjørnuvíkar, og er hetta til stóran ampa fyri lokala fólkið, tá vegurin bert er einsporaður.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-06-13">13. juni 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/xh4xavkd">Kim Durhuus</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
