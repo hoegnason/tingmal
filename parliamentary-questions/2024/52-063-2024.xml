@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-63/2024: Føroyska altjóða skipaskráin (FAS) og upptøkukrøv sammett við Dansk Internationalt Skibsregister (DIS)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/63827" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/63">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal, <roleName>landsstýrismaður í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Føroyska altjóða skipaskráin (FAS) og upptøkukrøv sammett við Dansk Internationalt Skibsregister (DIS)</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hví er eitt aldursmark á 20 ár sett í lógina um Føroyska Altjóða Skipaskrá?</item>
+            <item xml:id="q2" type="question-item">DIS sær út til at vera hægst í metum, tá um altjóða skipaskráir ræður. Hvør er so grundin til, at tað eru dømi um, at tað ikki ber til at fáa skip úr DIS og í FAS?</item>
+            <item xml:id="q3" type="question-item">Átti tað at verið ein betri ventilur í lóggávuni, ið veruliga letur eina hurð standa á gloppi inn í FAS fyri tílíkum skipum, ið fella fyri ásetingini um aldursmark í FAS, men tó eru nóg góð til at vera skrásett í m.a. DIS?</item>
+            <item xml:id="q4" type="question-item">Átti reglan viðvíkjandi aldursmarki at verið meiri treytað av tí standi, hvørt einstakt skip er í, heldur enn einum aldursmarki?</item>
+            <item xml:id="q5" type="question-item">Hvørja ávirkan hevði ein tílík áseting um aldursmark, sum ikki er so fýrkantað, havt á FAS?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Dømi er um minst eitt føroyskt reiðaríi, sum hevur skip í Dansk Internationalt Skibsregister (DIS), men sum ynskir at fáa tey yvir í FAS.</s>
+            <s>Hetta verður tó ikki loyvt grundað á regluna í føroysku lógini, sum sigur í § 4 a, stk. 1, at: «Skip, sum eru 20 ár ella eldri, tá ið søkt verður um skráseting, kunnu ikki verða skrásett í Føroya Altjóða Skipaskrá.»</s>
+          </p>
+          <p>
+            <s>Tað er væl skilligt, at man í Føroyum ynskir eina skipaskrá við greiðum reglum, har skip skulu lúka strong krøv, og at man ynskir at hava ein rímiliga nýggjan skipaflota, har tað er størri trygd fyri skipum, sum eru í góðum standi.</s>
+            <s>Tó kann tað undra, at tað ber til at vera skrásettur í DIS, sum liggur nummar 1 á sera umráðandi hvíta listanum hjá ParisMoU Performance List 2024/25, meðan tað ikki ber til at sleppa úr DIS og í FAS, ið er nummar 29 á hesum sama lista.</s>
+            <s>Hetta vegna regluna um aldursmark.</s>
+          </p>
+          <p>
+            <s>The International Chamber of Shipping (ICS) er - sum undirritaði hevur skilt - eisini ein umráðandi leikari, tá tað kemur til at meta um altjóða skipaskráir.</s>
+            <s>ICS hevur ein lista undir heitinum Flag State Performance Table, har lond verða dømd út frá ymiskum treytum og fáa so antin grønar ella reyðar indikatorar á ymsum økjum.</s>
+            <s>Um skipsaldur sigur ICS soleiðis í frágreiðingini fyri 2023/24: «Age of Fleet: <lb/>.... Nevertheless, it is strongly emphasised by ICS that the age of an individual ship is not an indicator of quality, and that the condition of an individual ship is ultimately determined by how it is maintained.»</s>
+            <s>§ 4 a í løgtingslógini um Føroyska Altjóða Skipaskrá sigur í stk. 2, at: «Hóast ásetingina í stk. 1, kann skráseting verða loyvd, um serlig atlit tala fyri, at skipið verður skrásett,» tó sær henda áseting ikki út til at muna fyri skip, ið eru væl omanfyri tey 20 árini, hóast tey eru í so mikið góðum standi, at tey eru í DIS.</s>
+            <s>Í stk. 4 stendur, at: «Landsstýrismaðurin kann áseta nærri reglur um, hvussu stk. 1-3 skulu umsitast.»</s>
+            <s>Og tá væl rikin føroysk reiðarí við væl hildnum skipum, ið hava føroyska manning, ynskja at sleppa í FAS og savna virksemi sítt í Føroyum heldur enn at vera í DIS og hava umsitingarligar útreiðslur í Danmark, so átti ásetingin við aldursmarkinum møguliga at verið umsitin øðrvísi.</s>
+          </p>
+          <p>
+            <s>Í øllum førum hevði verið áhugavert at hoyrt, hvat ið landsstýrismaðurin heldur um hesi viðurskifti.</s>
+            <s>Tískil hesir spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-12-12">12. desembur 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

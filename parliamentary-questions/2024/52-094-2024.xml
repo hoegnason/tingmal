@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-94/2024: Næmingaheim við Heilsuskúla Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66215" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/94">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Næmingaheim við Heilsuskúla Føroya</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin at taka stig til, at tað verður bygt eitt næmingaheim við Heilsuskúla Føroya?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er stórur tørvur á at fáa fleiri at útbúgva seg innan heilsu- og vælferðarøkið; útbúgvingar, sum verða bodnar út á Heilsuskúla Føroya við Skúladepilin í Suðuroy.</s>
+            <s>Ein liður í at fáa fleiri at útbúgva seg fevnir um at gera tað møguligt at taka útbúgvingarnar við løn.</s>
+            <s>Hetta uppskotið er lagt fyri Løgtingið og hevur verið til 1. viðgerð.</s>
+          </p>
+          <p>
+            <s>Annar liður í at fáa fleiri at fara undir útbúgving á Heilsuskúla Føroya, fevnir um at gera tað lættari at fáa bústað, meðan tú ert undir útbúgving á skúlanum.</s>
+            <s>Í 2011 setti Helena Dam á Neystabø, landsstýriskvinna í mentamálum, ein arbeiðsbólk at gera uppskot um, hvussu Skúladepilin í Suðuroy betur kundi gagnnýtast.</s>
+          </p>
+          <p>
+            <s>Eitt av tilmælunum frá arbeiðsbólkinum fevndi um eitt ítøkiligt tilmæli um, at eitt næmingaheim verður bygt við Skúladepilin í Suðuroy.</s>
+            <s>Tilmælið fevndi eisini um uppskot til tekningar av íbúðareindum við 4 íbúðum í hvørjari eind, sum vóru 36 m² til støddar.</s>
+            <s>Uppskotið fevndi eisini um kostnaðarmeting av byggingini.</s>
+            <s> Í álitinum frá 2011 verður víst á, at “eitt næmingaheim við Skúladepilin í Suðuroy fer at lætta um møguleikan hjá lesandi og skeiðsluttakarum at finna sær bústað í lestrar- og skeiðstíðini. <lb />Eitt næmingaheim fer eisini at skapa betri grundarlag fyri, at Skúladepilin í Suðuroy við nýggjum útbúgvingar- og skeiðstilboðum kann gerast uppaftur meira týðandi partur av lokalsamfelagnum í Suðuroy.” </s>
+          </p>
+          <p>
+            <s>Ávirkanin av uppskotinum um løn undir útbúgving er longu sjónlig við metstórum umsøkjaratali til heilsurøktaraútbúgvingina, tá umsóknarfreistin var farin 15. mars.</s>
+          </p>
+          <p>
+            <s>Spurningurin er so, um landsstýrismaðurin ætlar at fáa skipað umstøðurnar enn betur og taka stig til, at tilmælið um at byggja eitt næmingaheim við Heilsuskúla Føroya verður ført út í lívið, soleiðis at enn fleiri velja at fara á Heilsuskúlan.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-03-28">28. mars 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

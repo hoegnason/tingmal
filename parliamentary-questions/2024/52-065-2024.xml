@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-65/2024: Búðstaðarskráseting av fólki á røktarheimi v.m.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/63992" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/65">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Búðstaðarskráseting av fólki á røktarheimi v.m.</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýrismaðurin upplýsa, um tað eru greiðar reglur um bústaðarskráseting av fólki, sum býr á røktarheimi ella sambýli?</item>
+            <item xml:id="q2" type="question-item">Um ikki, hevur landsstýrismaðurin ætlanir um at gera greiðar reglur um hetta, og hvussu hugsar landsstýrismaðurin, at hesar skulu verða?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fólk eiga at verða skrásett hjá Landsfólkayvirlitinum at búgva, har tey hava sín bústað.</s>
+            <s>Tey eiga tískil at rinda skatt í tí kommunu, tey búgva.</s>
+            <s>Spurnartekn kann tó setast við hetta krav, tá tað snýr seg um røktarheim ella sambýli.</s>
+            <s>Sum skilst eru ikki greiðar reglur um bústaðarskráseting í hesum sambandi.</s>
+          </p>
+          <p>
+            <s>Dømi er frá, tá eldraøkið varð lagt til kommurnar at umsita.</s>
+            <s>Ein borgari var á røktarheimi í einum øðrum kommunalum eldraøki, enn viðkomandi var frá.</s>
+            <s>Tá var spurningurin, um viðkomandi skuldi flyta bústað.</s>
+            <s>Tað hevði merkt, at kommunala samstarvið, har røktarheimið lá, skuldi rinda tað, sum plássið kostaði.</s>
+            <s>Bústaðarkommunan hevði tá sloppið undan at rinda.</s>
+          </p>
+          <p>
+            <s>Tað varð tá avgjørt, at eingin kann hava adressu á røktarheiminum.</s>
+            <s>Tað vil siga, at fólk skuldu varðveita ta adressu, tey høvdu, áðrenn tey komu á heim.</s>
+            <s>Hetta hevur við sær, at kommunan sum viðkomandi búði í, fær skattainntøkurnar hjá viðkomandi persóni og er við at rinda fyri røktarheimsplássið.</s>
+          </p>
+          <p>
+            <s>Annað dømi er um persón, sum er fluttur, uttan at familjan er kunnað ella spurd.</s>
+            <s>Talan er um lítla kommunu, sum er í eldrasamstarvi, men sum einki røktarheim hevur.</s>
+            <s>Landið hevur rindað fyri byggingina av røktarheiminum, meðan allar kommurnar í samstarvinum rinda fyri raksturin.</s>
+            <s>Men av tí, at persónurin verður fluttur, fær kommunan, har heimið er staðsett, alla skattainntøkuna frá persóninum, og kommunan, har viðkomandi búði, missir skattainntøkuna.</s>
+            <s>Tað sum er verri, er at viðkomandi av flytingini fekk eina munandi skattahækking.</s>
+            <s>Hetta tí at skattaprosentið var munandi hægri, har viðkomandi varð fluttur til.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2025-01-07">7. januar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
