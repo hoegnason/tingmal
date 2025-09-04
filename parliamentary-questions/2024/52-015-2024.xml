@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-15/2024: Friðing út á 500 metrar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/62385" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/15">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm, <roleName>landsstýriskvinna í umhvørvismálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Friðing út á 500 metrar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er uppskotið til kunngerð um sigling fram við landi, har fuglur heldur til, grundað á røttu lógarheimildina?</item>
+            <item xml:id="q2" type="question-item">Hvat er sum heild fuglafrøðiliga/vísindaliga grundarlagið fyri átøkunum í kunngerðini?</item>
+            <item xml:id="q3" type="question-item">Er tað einans ferð - og ikki onnur viðurskifti og umstøður so sum talið av bátum, sum ger órógvar fuglalívið?</item>
+            <item xml:id="q4" type="question-item">Hvørja ávirkan hava so víðfevndar friðingar fyri tey, sum hava vinnuligt virksemi við ferðafólkum?</item>
+            <item xml:id="q5" type="question-item">Ætlar landsstýriskvinnan at leggja so víttfevnandi friðingar fyri Løgtingið, áðrenn tær verða settar í verk?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýriskvinnan hevur gjørt uppskot til kunngerð, sum víðkar friðingarnar, sum vórðu gjørdar rundan um ramsar-økini við Føroyar.</s>
+          </p>
+          <p>
+            <s>Lógarheimildin, sum hesar friðingar eru grundaðar á, tykist í høvuðsheitum at vera ætlað til regulering í sambandi við oljuvinnu.</s>
+            <s>Tískil metir undirritaði, at tað er eitt sera víðfevnt tiltak at gera generellar friðingar, sum eru grundaðar á eina lógarheimild, sum upprunaliga tykist at hava annað høvuðsendamál.</s>
+          </p>
+          <p>
+            <s>Harafturat eru fleiri onnur atlit, sum eiga at verða tikin við, tá generellar ásetingar verða gjørdar.</s>
+            <s>Serliga um lógarheimildin, sum friðingarnar eru grundaðar á, eru ivasom.</s>
+            <s>Spurningurin er tí, um hetta átti at verið lagt fyri Løgtingið.</s>
+          </p>
+          <p>
+            <s>Orsakað av ivamálunum, sum hendan kunngerðin er grundað á, setur undirritaði hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-08-29">29. august 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
