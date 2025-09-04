@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-96/2024: Snarbussurin millum Klaksvík og Tórshavn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66244" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/96">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/jcjycu4z">Jóhan Christiansen, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Snarbussurin millum Klaksvík og Tórshavn</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær kann væntast at túratalið hjá leið 401 úr Klaksvík til Havnar verður økt, so koyrt verður oftari gjøgnum Eysturoyartunnilin?</item>
+            <item xml:id="q2" type="question-item">Kann væntast, at leið 400 verður endurskoðað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ein stórur bági fyri fólk í Norðoyggjum og Eysturoy, ið ynskja at nýta bussleiðina til Havnar, at so fáir túrar eru millum Tórshavn og Klaksvík gjøgnum Eysturoyartunnilin.</s>
+            <s>Gamla rutan, sum verður røkt av leið 400, tekur alt ov langa tíð, um fólk skulu til arbeiðis ella í skúla.</s>
+          </p>
+          <p>
+            <s>Í sendingini Breddin í vikuni um fráfall á Setrinum kom fram, at helmingurin av teimum lesandi eru av bygd, og 70% brúka bil í samband við at koma til Setrið.</s>
+            <s>Grundgevingin var, at busssambandið er so ósmidligt, at tað ber illa til at brúka bussin.</s>
+            <s>Hetta er ein stórur fíggjarligur bági fyri tey lesandi, tí tað er munandi dýrari at hava bil heldur enn at gera brúk av bussleiðini.</s>
+            <s>Fíggjarliga byrðan av býli og mangulin á lestrarbýli ger, at nógv lesandi búgva úti um landið, og hjá teimum er dýrur flutningur steinur omaná byrðu.</s>
+          </p>
+          <p>
+            <s>Landstýrismaðurin hevur áður upplýst, at nýggja planleggingarskipanin, ið fer at gera tað munandi lættari at tillaga og broyta ferðaætlanir, verður klár at taka í nýtslu tíðliga í 2025.</s>
+            <s>Eisini hevur landsstýrismaðurin upplýst, at tað eru ítøkiligar ætlanir um at gera tillagingar á leið 401 millum Tórshavn og Klaksvík umvegis Eysturoyartunnilin.</s>
+            <s>Um og tá hesar tillagingar við leið 401 verða gjørdar, kann væntast, at hesar eisini føra við sær broytingar á leið 400.</s>
+            <s>Leið 400 hevur í nógv ár verið mest nýtta farleiðin, og fyri at hon framhaldandi skal verða tað, er neyðugt at umskipa og dagføra hesa leið.</s>
+            <s>Fyri at fáa greiði á, nær tænastan verður umløgd og betrað, verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-03-31">31. mars 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

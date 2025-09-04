@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-88/2024: Trý ár síðani Russland leyp á Ukraina</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/nsrwpc4l">Kristianna Winther Poulsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/65180" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/88">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/nsrwpc4l">Kristianna Winther Poulsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Trý ár síðani Russland leyp á Ukraina</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv flóttafólk úr Ukraina, kvinnur, menn og børn, eru higartil komin til Føroya, og hvar í Føroyum búgva tey?</item>
+            <item xml:id="q2" type="question-item">Hvussu gongur hjá ukrainskum flóttafólki at fáa arbeiði í Føroyum?</item>
+            <item xml:id="q3" type="question-item">Er landsstýrismaðurin sinnaður at gera serligar skipanir fyri at betra atgongdina til arbeiðsmarknaðin fyri ukrainsk flóttafólk?</item>
+            <item xml:id="q4" type="question-item">Hvørjar royndir eru við arbeiðinum hjá samskipandi eindini, sum landsstýrið hevur sett at arbeiða við ukrainsku flóttafólkunum?</item>
+            <item xml:id="q5" type="question-item">Hvørjar eru størstu avbjóðingarnar hjá ukrainunum, børnum og vaksnum, sum eru komin til Føroya?</item>
+            <item xml:id="q6" type="question-item">Hvussu hava vit sum samfelag sum heild megnað at tikið ímóti ukrainsku flóttafólkunum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>3 ár eru liðin, síðani Russland leyp á Ukraina.</s>
+            <s>Stutt eftir hetta álop samtykti Løgtingið at taka ímóti flóttafólki úr Ukraina.</s>
+            <s>Síðani er ein rættiliga stórur bólkur av ukrainskum flóttafólki komin til landið, flýdd úr teirra heimlandi av einum brutalum kríggi, sum higartil hevur vart í trý ár.</s>
+          </p>
+          <p>
+            <s>Hetta er fyrstu ferð, at vit taka ímóti flóttafólki, og tey eru á nógvan hátt í eini øðrvísi støðu enn aðrir útlendingar.</s>
+            <s>Tey hava ikki sjálvi valt at flyta.</s>
+            <s>Tey hava heldur ikki valt, at Føroyar skuldi gerast teirra nýggja heimland, ella at tey brádliga skuldu læra eitt nýtt mál.</s>
+            <s>Samstundis er syrgiliga støðan í teirra heimlandi steinur oman á byrðu fyri bæði einstaklingar og familjur, og ikki minst fyri børnini.</s>
+          </p>
+          <p>
+            <s>Herfyri var samrøða við umboð fyri Reyða Kross í útvarpinum, sum førdi fram, at atgongd til arbeiðsmarknaðin er ein avbjóðing fyri flóttafólkini.</s>
+            <s>Landsstýrismaðurin hevur kunnað um, at landsstýrið hevur sett eina samskipandi eind við umboðum fyri landsstýrið umframt fyri Almannaverkið, Útlendingastovuna, Kommunufelagið, Føroya Politi og Reyða Kross.</s>
+            <s>Áhugavert er, hvat er komið burtur úr arbeiðinum hjá hesi samskipandi eind.</s>
+            <s>Ein nøktandi móttøka av flóttafólki fevnir um nógv ymisk øki og krevur nógvar ymiskar førleikar: skikkað og óheft ráðgeving, sálarfrøðilig tilboð, eitt stórt arbeiði á dagstovnum og í skúlum, atgongd til arbeiðsmarknaðin, undirvísing í føroyskum sum fremmandamáli, fyri at nevna nøkur dømi um hesi øki.</s>
+            <s>Eftir trimum árum er viðkomandi at fáa kunning um, hvussu ukrainarnir hava funnið seg til rættis í Føroyum, og hvussu vit sum samfelag hava megnað at taka ímóti teimum.</s>
+            <s>Hetta fyri at kunna taka støðu til, hvat vit eiga at gera øðrvísi og betri.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningur settur landsstýrismanninum við ábyrgd av ukrainsku flóttafólkunum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-25">25. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/nsrwpc4l">Kristianna Winther Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

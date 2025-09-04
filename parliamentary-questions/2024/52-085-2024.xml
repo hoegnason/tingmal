@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-85/2024: Søla av hondkeypsheilivági í øllum handlum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64597" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/85">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Søla av hondkeypsheilivági í øllum handlum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýriskvinnan at arbeiða fyri, at hondkeypsheilivágur kann keypast í øllum handlum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Á bygd, har einki apotek er, er í dag møguligt at keypa vanligan hondkeypsheilivág í handlum, so sum høvuðpínutablettir v.m. Í teimum bygdum, har hondkeypsheilivágur kann keypast í handlum, er tað ein betri tænasta til borgaran.</s>
+            <s>Í bygdum og býum, har apotek er í nærumhvørvinum, kann hondkeypsheilivágur einans keypast á apoteki.</s>
+            <s>Har er sera avmarkað upplatingartíð og serliga í høvuðsstaðum langar bíðirøðir.</s>
+          </p>
+          <p>
+            <s>Hetta er ikki bert at gera mun á tænastu til borgarar, men er eisini kappingaravlagandi fyri handlar.</s>
+            <s>Heldur enn at víðka tænastuna til borgarar, verður t.d. í Vágum brúktur nógvur peningur at gera eitt apotek, sum merkir, at hondkeypsheilivágur verður tikin úr handlunum í Vágum.</s>
+            <s>Spurt verður, um ikki rættari er at fara hin vegin, t.e. loyva sølu av hondkeypsheilivági í øllum handlum í landinum.</s>
+          </p>
+          <p>
+            <s>Í sínum hoyringarskrivi til løgtingsmál nr. 49/2024 hevur Kappingareftirlitið eisini viðmerkingar um hetta.</s>
+            <s>Kappingareftirlitið skrivar ma: <lb/>«Kappingareftirlitið viðmælir eisini, at farið verður eitt stig víðari og loyva sølu av hondkeypsheilivági í øllum handlum. Hetta hevði verið við til at økt um vælferðina hjá brúkarum í Føroyum, sum høvdu havt betri atgongd viðvíkjandi, hvar og nær tey kunnu keypa hondkeypsheilivág. Hetta er vorðið vanligt í okkara grannalondum.»</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-18">18. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

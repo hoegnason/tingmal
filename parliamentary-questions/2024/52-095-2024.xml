@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-95/2024: Tannrøkt og tannviðgerð til eldri borgarar og til fólk, sum eru avlamin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66231" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/95">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tannrøkt og tannviðgerð til eldri borgarar og til fólk, sum eru avlamin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu líður við arbeiðinum at kanna tørvin hjá eldri og teimum, ið eru avlamin, ið kunnu hava tørv á serligum tilboði í mun til tannrøkt og tannviðgerð?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýriskvinnan at tryggja, at eisini eldri, ið hava serligan tørv, fáa eitt nøktandi tilboð um tannrøkt?</item>
+            <item xml:id="q3" type="question-item">Eru ætlanir um at tryggja góða tannrøkt og viðgerð til hendan bólk við lóg eins í okkara grannalondum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tannlæknafelagið hevur upplýst, at talið á borgarum, sum ikki fáa tannrøkt av ymiskum orsøkum, er vaksandi.</s>
+            <s>Orsøkin til hesa gongd er tó ikki nágreinað.</s>
+            <s>Samstundis er tað ein veruleiki, at livialdurin í Føroyum hækkar, og við hesum veksur eisini talið á borgarum, sum hava serligan tørv á tannrøkt og tannviðgerð, serliga hjá teimum, ið eru eldri og avlamin.</s>
+          </p>
+          <p>
+            <s>Sum sjúkrarøktarfrøðingur á eldraøkinum kennir undirritaða væl til trupulleikan við manglandi tannrøkt og tannlæknaviðgerð til borgarar við avlamni.</s>
+            <s>Ein avbjóðing er, at tað ikki altíð er atkomuligt hjá fólki við avlamni at koma til eina tannlæknastovu.</s>
+            <s>Harumframt eru eisini borgarar við eitt nú demens, sum ikki fáa nøktandi hjálp, tá ið teirra tannheilsa versnar.</s>
+            <s>Hesin bólkur hevur ofta torført við at samstarva og samskifta við tannrøktarar og tannlæknar.</s>
+          </p>
+          <p>
+            <s>Í mai 2023 setti tingkvinna Annika Olsen ein skrivligan fyrispurning (§ 52a, nr. 52101/2022) um tannrøkt til eldri borgarar og fólk, sum eru avlamin, til táverandi landsstýriskvinnuna í heilsumálum, Margit Stórá.</s>
+          </p>
+          <p>
+            <s>Í svarinum frá landsstýriskvinnuni varð upplýst, at skipað hagtøl ikki finnast fyri, hvussu nógvir borgarar ikki fáa neyðuga tannrøkt vegna heilsustøðu, avlamni ella óhjálpni.</s>
+            <s>Landsstýriskvinnan vísti somuleiðis á, at í Føroyum er einki lógartryggjað tilboð til eldri og avlamin, sum ikki kunnu nýta vanligu tannrøktartilboðini.</s>
+            <s>Í Danmark hava kommunurnar síðani 1994 veitt umsorganartannrøkt til hesar borgarar sum part av eini lógartryggjaðari skipan.</s>
+            <s>Ein líknandi skipan kundi verið sett í f voryum fyri at tryggja, at hesin bólkurin eisini fær ta tannrøkt og tannviðgerð, tey hava uppiborið.</s>
+          </p>
+          <p>
+            <s>Táverandi landsstýriskvinnan svaraði, at hon var sinnað at hyggja nærri at hesum bólki.</s>
+            <s>Hon vísti tó á, at eitt tilmæli um, hvussu børn og ung við serligum sjúkueyðkennum ella tannsjúkum kunnu loftast, skuldi vera liðugt fyrst.</s>
+          </p>
+          <p>
+            <s>Mítt ynski við hesum fyrispurningi er at fáa greiðu á, um arbeiðið við at tryggja tannrøkt til hesar bólkar er sett í gongd, og um ikki, hvør orsøkin til drálið er.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2025-03-31">31. mars 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/mmkbh4cc">Magna Eliana Mørkøre</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

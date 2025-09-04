@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-93/2024: Gøtudalstunnilin og raðfestingar í samferðsluætlanini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wn6352tj">Terji Beder</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66038" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/93">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wn6352tj">Terji Beder, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/jcjycu4z">Jóhan Christiansen, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gøtudalstunnilin og raðfestingar í samferðsluætlanini</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hví eru aðrar tunnilsverkætlanir tiknar fram um Gøtudalstunnilin, tá tær sambært Samferðsluætlanini hjá Landsverki áttu at fingið lægri raðfesting enn Gøtudalstunnilin?</item>
+            <item xml:id="q2" type="question-item">Hevur útsetanin av Gøtudalstunlinum viðført aðra vegagerð í mun til Eysturoyartunnilin?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at virka fyri, at Gøtudalstunnilin aftur kemur á skrá?</item>
+            <item xml:id="q4" type="question-item">Um landsstýrismaðurin ætlar at virka fyri tunlinum, nær kann tá væntast, at farið verður undir at bora?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein tann ferðslutyngsti teinurin í Føroyum yvirhøvur er teinurin millum Skálafjørð og Gøtudal.</s>
+            <s>Í miðal koyra eini 6.000 akfør um samdøgrið á hesum strekki.</s>
+            <s>Ein trupulleiki er, at ferðslan skal um Gøtueiðið, sum liggur høgt, og vegurin er sera brattur.</s>
+            <s>Tað ger vegin ótryggan og skapar ofta ferðsluruðuleika í ringum veðri.</s>
+            <s>Harumframt er nógv ferðsla ígjøgnum bygda økið við Gøtugjógv, sum eisini er skúlaleið.</s>
+          </p>
+          <p>
+            <s>Okkara almenni fakmyndugleiki fyri vega- og tunnilsgerð, Landsverk, handaði í 2019 eina Samferðsluætlan, sum kortlegði allar tunnils- og vegakervisverkætlanir, sum skuldu gerast í tíðini frá 2018 til 2030.</s>
+            <s>Hendan ætlanin setti verkætlanirnar í ein væl grundaðan raðfestingarlista, sum tók atlit til ferðslutrýst, samfelagsgagn, vandalig vegastrekkir, kostnað og ymisk onnur viðurskiftir.</s>
+          </p>
+          <p>
+            <s>Ímillum tær verkætlanir, sum Samferðsluætlanin fevndi um, var eisini Eysturoyartunnilin, sum sambært ætlanini kravdi ein tunnil ímillum Gøtudal og Skálabotn.</s>
+            <s>Hendan verkætlanin varð mett at skula til, tí hon kundi økja um ferðsluna í Eysturoyartunnlinum, soleiðis at brúkaratalið av tunlinum rakk teimum tølum, sum skuldu til, fyri at fáa tunnilin at bera seg figgjarliga.</s>
+            <s>Her varð væntað, at ein farleið á eystara armi á Skálafjørðinum, við landsvegi nærum allan vegin, fór at økja um nýtsluna av tunlinum.</s>
+            <s>At nýta leiðina eftir vestara armi, er at tvinga ferðsluna ígjøgnum bygt øki nærum allan vegin frá Norðragøtu til tunnilsmunnan á Saltnesi.</s>
+          </p>
+          <p>
+            <s>Í svari frá undanfarna landsstýrismanni í samferðslumálum, Dennis Holm, hevur Gøtudalstunnilin verið planlagdur í mong ár, og er ein høvuðsleið til og frá Eysturoyartunlinum fyri økini norðanfyri Gøtueiði, og er ein týdningarmikil útbygging, sum knýtir norðurøkið og miðøkið saman.</s>
+          </p>
+          <p>
+            <s>Sambært sama svari vóru jarðfrøðiligar forkanningar gjørdar í 2019, bæði á Varmakeldueiði og í grótbrotinum omanfyri Syðrugøtu.</s>
+            <s>Hesar forkanningar hava víst seg at verið somikið góðar, at Jarðfeingi ikki metir tað verða neyðugt við fleiri jarðfrøðiligum kanningum til fyrireiking av tunlinum.</s>
+            <s>Tó er greitt, at eftir øllum at døma eru fleiri fyrireikingar, sum skulu til, tí samgongan í Løgtingsfiggjarlógini hevur játta eina millión til framhaldandi fyrireikingar av Gøtudalstunlinum.</s>
+          </p>
+          <p>
+            <s>Ætlanirnar í Løgtingsfiggjarlógini og Samferðsluætlanini hjá Landsverki fylgjast ikki, tí man á Løgtingsfiggjarætlanini hevur uppraðfest verkætlanir, sum sambært fakkunnleikanum í Samferðsluætlanini eiga at verða raðfest lægri.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2025-03-14">14. mars 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wn6352tj">Terji Beder</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

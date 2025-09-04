@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-99/2024: Installatørútbúgving í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66608" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/99">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Installatørútbúgving í Føroyum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Eru ætlanir um at seta installatørútbúgving á stovn í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Um ja, er nakað fyrireikandi arbeiði gjørt?</item>
+            <item xml:id="q3" type="question-item">Hvør er metti kostnaðurin, og hvussu skjótt kundi ein slík útbúgving byrjað í Føroyum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í sínum politiska arbeiði møtir undirritaða javnan fólki, sum geva sítt íkast til kjakið um, hvørjar útbúgvingar tað hevði verið skilagott at kunna tikið í Føroyum.</s>
+            <s>Ítøkiligi tørvurin á úbúnari arbeiðsmegi í handverksliga geiranum kann tykjast eyðsýndur, t.d. innan byggivinnuna og tøkniliga økið.</s>
+            <s>Tað er ikki so sjáldan, at tey, sum hava tikið eina yrkisútbúgving á teknisku skúlunum í Føroyum, hava hug til at taka eina útbúgving omaná, sum tey síggja tørvin á her í samfelagnum, og sum tey halda vera áhugaverda og hava evnini til.</s>
+          </p>
+          <p>
+            <s>Nógvir elektrikarar verða útbúnir í Føroyum, og fleiri tykjast hava áhuga í at taka innstallatørin omaná.</s>
+            <s>Men tað er kanska ikki so høgligt at skula fara uttanlands, tá ein hevur fest røtur í føroyska samfelagnum.</s>
+            <s>Men tað kundi kanska verið viðkomandi at gjørt eitt lyft fyri handverkið við at sett útbúgvingar í verk, sum geva møguleika at byggja omaná handverksútbúgvingina og harvið fáa fleiri, sum kunnu standa fyri prosjektum og kunnu góðkenna arbeiði.</s>
+            <s>Um hugt verður at installatørútbúgvingini í Danmark, so tekur hon tvey skúlaár og er á vinnuskúlum (erhvervsakademi).</s>
+            <s>Undir lestrinum lærir ein ymiskt, sum hevur týdning fyri at gera installatiónir og anlegg: um prosjektering, ráðgeving, at útføra og dríva elektriskar installatiónir, um at seta í verk intelligentar loysnir í bygningum og anleggum, um optimering, trygd og høgleika.</s>
+            <s>Prosjektleiðslu, entreprisuleiðslu, fyriskipan, leiðslu, keypmansskapsfatan, dygd, trygd og umhvørvi eins og samskiftis- og miðlatøkni.</s>
+            <s>Elektrotøkni, talgild prosjekteringsamboð, góðskutrygd, skjalfesting og elektrontøknilig ástøði og støddfrøði eru eisini grundleggjandi partar av hesi útbúgving.</s>
+          </p>
+          <p>
+            <s>Vinnuhúsið sigur á síni heimasíðu, at «útbúgving er týdningarmesta íløgan í produktión», og at «samfeløg broytast støðugt, og eingin ivi er um, at talgildingin og automatiseringin broyta tørvin á førleikum».</s>
+            <s>Í Vakstrarforumi frá 2022 er eitt av tilmælunum at «regluliga endurskoða og seta á stovn yrkisútbúgvingar, har grundarlag er fyri tí og seta á stovn nýggjar yrkisútbúgvingar at møta framtíðini innan m.a. grøna orkuskiftið».</s>
+            <s>Hetta kann alt sýnast sera viðkomandi fyri føroyska arbeiðsmarknaðin og føroyska vinnulívið, so tí verða hesir spurningar settir.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-04-23">23. apríl 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

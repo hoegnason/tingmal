@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-82/2024: Fyribyrgja spontanar abortir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64306" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/82">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fyribyrgja spontanar abortir</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar mannagongdir eru galdandi, tá kvinnur í Føroyum abortera?</item>
+            <item xml:id="q2" type="question-item">Nær fáa kvinnur í Føroyum bjóðað hjálp í sambandi við spontanar abortir?</item>
+            <item xml:id="q3" type="question-item">Hvat verður gjørt fyri at fyribyrgja spontanar abortir hjá kvinnum í Føroyum?</item>
+            <item xml:id="q4" type="question-item">Er nøkur ætlan um at broyta mannagongdir?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Mett verður, at fjórði hvør graviditetur endar í einari spontanari abort.</s>
+            <s>Fyri kvinnurnar, sum hetta rakar, er tað ein sera svár støða sálarliga, men kann eisini vera kropsliga hart, um kvinnan skal hava eina útskaving aftaná abortina.</s>
+          </p>
+          <p>
+            <s>Vanlig mannagongd eftir spontanar abortir hevur verið, at kvinnan fær at vita, at spontana abortin er náttúrunnar máti at sálda sjúk fostur frá.</s>
+            <s>Fostur við t.d. kromosomfeili.</s>
+            <s>Hetta byggir tó ikki á nágreiniliga gransking, tí millum lítil og ongin gransking er gjørd á økinum.</s>
+            <s>Nakað, sum er galdandi fyri fleiri kvinnusjúkur.</s>
+          </p>
+          <p>
+            <s>Orsøkin til spontanar abortir verður ikki kannað nærri, fyrr enn kvinnan hevur havt tríggjar spontanar abortir eftir læknaliga staðfestan graviditet.</s>
+            <s>Kvinnur og pør skulu tí gjøgnum nógvan sálarkvøl, umframt kropsligu avleiðingarnar, áðrenn tey fáa hjálp at gerast foreldur.</s>
+            <s>Nakað, sum er tyngjandi fyri bæði foreldur og avbjóðandi fyri parlagið.</s>
+          </p>
+          <p>
+            <s>Nýggj gransking vísir nú, at orsøkin kann liggja í stoffskiftinum hjá kvinnum, sum kann kannast og fyribyrgjast.</s>
+            <s>Ein onnur orsøk kann vera vøddaknútar, sum gera tað trupult hjá kvinnuni at halda uppá eitt fostur.</s>
+          </p>
+          <p>
+            <s>Tí kann hugsast, at mannagongdir skulu broytast, so færri kvinnur í framtíðini skulu gjøgnum fleiri spontanar abortir, áðrenn tær fáa hjálp.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-07">7. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
