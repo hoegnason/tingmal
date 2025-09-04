@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-44/2023: Langtíðarárin av verkfallinum hjá sjúkrarøktarfrøðingunum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/58623" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/44">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Langtíðarárin av verkfallinum hjá sjúkrarøktarfrøðingunum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kann landsstýriskvinnan upplýsa, hvørji langtíðarárin verkfallið hjá sjúkrarøktarfrøðingunum hevur á sjúkrahúsverkið?</item>
+            <item xml:id="q2" type="question-item">Fyri hvønn dag, ið gongur, har sjúkrarøktarfrøðingarnir framhaldandi eru í verkfalli við verandi, lóggivnu, undantøkum, við hvussu nógvum døgum leingjast ymsu bíðilistarnir til skurðviðgerðir, útgreinað á ymsu skurðviðgerðirnar?</item>
+            <item xml:id="q3" type="question-item">Hevur landsstýriskvinnan tryggjað sær, at lív og heilsa ikki kemur í vága orsakað av langtíðarárinum av verkfallinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sjúkrarøktarfrøðingarnir eru, umvegis undantøk, lóggivnir aftur til arbeiðis.</s>
+            <s>Undantøkini eru ætlað at tryggja, at bráðfeingis (akutt) virksemi ikki liggur lamið, so at lív og heilsa ikki er í vága.</s>
+            <s>Hinvegin liggur alt annað virksemi, sum ikki er bráðfeingis (akutt), nú lamið á skjótt sættu viku.</s>
+            <s>Árinini á annað virksemi av hesum eru ikki serliga sjónlig í verandi løtu, og fokus tykist als ikki vera á tann trupulleikan.</s>
+          </p>
+          <p>
+            <s>Mær vitandi verða eitt nú skurðviðgerðir, ið ikki eru akuttar, t.d. ortopediskar skurðviðgerðir, eygnaskurðviðgerðir o.a., ikki framdar í løtuni, orsakað av at sjúkrarøktarfrøðingar eru í verkfalli.</s>
+            <s>Skurðviðgerðir, og aðrar viðgerðir við, verða sostatt útsettar, og bíðilistarnir leingjast.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-11-09">9. november 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

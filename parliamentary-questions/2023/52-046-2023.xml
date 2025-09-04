@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-46/2023: Lønarhæddaravgjald</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/58707" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/46">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lønarhæddaravgjald</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu er býtið í inntøkum av lønarhæddaravgjaldi millum ávikavist heilsurøkt, tryggingarvirksemi og bankavirksemi?</item>
+            <item xml:id="q2" type="question-item">Hvørjar tankar ger landsstýriskvinnan sær um, at lønarhæddaravgjald verður goldið av læknavirksemi, tannlækna- og øðrum dentalvirksemi, kiropraktikk, fysioterapi og aðrari veruligari heilsurøkt?</item>
+            <item xml:id="q3" type="question-item">Hvørjar tankar ger landsstýriskvinnan sær um, at lønarhæddaravgjaldið fyri fíggjarvirksemi áður hevur verið hækkað, millum annað, tá útreiðslurnar av rentustuðli hjá landinum hava hækkað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Lønarhæddaravgjald kom í gildi í Føroyum í 1994, sum eitt átak í samband við kreppuna, sum tá var í Føroyum.</s>
+          </p>
+          <p>
+            <s>Sambært lógini um lønarhæddaravgjald eru tríggir bólkar, sum rinda lønarhæddaravgjald av einum nærri ásettum avgjaldsgrundarlagi.</s>
+            <s>Satsurin er 2,5% fyri læknavirksemi, tannlækna- og annað dentalvirksemi, kiropraktikk, fysioterapi og aðra veruliga heilsurøkt, meðan hann er 10% fyri tryggingarvirksemi og 12% fyri banka-, sparikassa- og fíggjarvirksemi og serligar elektroniskar tænastur, ið eru neyðugar fyri hetta virksemið.</s>
+          </p>
+          <p>
+            <s>Skipanin hevur verið endurmett í nøkrum umførum.</s>
+            <s>Millum annað hevur grundgevingin fyri at hækka hetta gjaldið fyri bankavirksemi verið, at útreiðslurnar til rentustuðul hjá landinum hava verið hækkandi.</s>
+          </p>
+          <p>
+            <s>Samstundis skilst, at fleiri smærri vinnufyritøkur, ið fáast við heilsurøkt, rinda eitt gjald, sum tey uppliva sum seinastu restirnar av kreppu-átøkunum, sum vórðu sett í verk fyrst í nítiárunum.</s>
+          </p>
+          <p>
+            <s>Sambært uppskotinum til fíggjarlóg verður væntað, at inntøkurnar av hesum gjaldi verða 41 mió. kr. í ár, so talan er um eina upphædd, sum ger mun í landskassanum, men tað hevði verið áhugavert at vitað eitt sindur nærri um gjøldini, og hvørjar tankar landsstýriskvinnan ger sær um hetta gjald.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-11-16">16. november 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
