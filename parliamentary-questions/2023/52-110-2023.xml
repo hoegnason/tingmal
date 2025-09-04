@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-110/2023: Børn og inntøkukrav til útlendingar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/61452" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/110">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Børn og inntøkukrav til útlendingar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørji rættindi hava børn hjá útlendingum við uppihaldsloyvi, sum eru fødd í Føroyum áðrenn 2. september 2023?</item>
+            <item xml:id="q2" type="question-item">Hvørji rættindi hava børn hjá útlendingum við uppihaldsloyvi, sum eru fødd í Føroyum 2. september 2023 ella seinni?</item>
+            <item xml:id="q3" type="question-item">Eru dømi um, at børn, sum eru fødd í Føroyum av útlendingum, ikki hava fingið uppihaldsloyvi, eftir at nýggju reglurnar um inntøkumark vórðu settar í gildi 2. september 2023, hóast foreldur teirra hava uppihaldsloyvi eftir gomlu reglunum?</item>
+            <item xml:id="q4" type="question-item">Ber til hjá útlendskum hjúnum sjálvi at gera av, hvør teirra er “høvuðspersónur/sponsor” og hvør av teimum er “samfylgjandi familja”, tá uppihaldsloyvi skulu leingjast?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <ol start="2">
+            <li>september í 2023 vórðu nýggjar reglur settar í verk á útlendingaøkinum. Tá varð krav sett til inntøkuna hjá útlendingum við vinnuligum uppihaldsloyvi, sum ynskja at fáa familjuna við sær til Føroyar. Hetta fyri, at familjurnar skulu megna at forsyrgja sær sjálvum í Føroyum. Reglurnar eru ikki galdandi fyri útlendingar, sum hava søkt um uppihaldsloyvi áðrenn 2. september 2023 ella fyri útlendingar, sum leingja verandi uppihaldsloyvi, sum er givið eftir gomlu reglunum.</li>
+          </ol>
+          <p>
+            <s>Undirritaða er gjørd varug við, at trupulleikar stinga seg upp, um útlendsk hjún fáa børn, meðan tey eru í Føroyum.</s>
+            <s>Útlendingar, sum svara hvørjum sítt, og sum hava fingið uppihaldsloyvi áðrenn reglurnar um inntøkumark vórðu settar í gildi, koma undir nýggju reglurnar við inntøkumarki, fyri at nýføddu børn teirra skulu fáa uppihaldsloyvi í Føroyum.</s>
+          </p>
+          <p>
+            <s>Tað kunnu vera nógvar orsakir til, at útlendsk hjún ikki liva upp til nýggju reglurnar um inntøkumark.</s>
+            <s>Fíggjarstøðan kann vera broytt soleiðis, at makin, sum upprunaliga var "høvuðspersónur/sponsor" fyri samfylgjandi familjuna, ikki longur hevur berandi inntøkuna í familjuni og tí ikki livir upp til inntøkumarkið eftir nýggju reglunum, men at hjúnafelagin/makin hevur nóg stóra inntøku - og at tey samanlagt hava eina ríkiliga stóra inntøku til at forsyrgja sær sjálvum og børnum sínum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-04-05">5. apríl 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
