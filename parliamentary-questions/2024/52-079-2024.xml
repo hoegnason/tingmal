@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-79/2024: Lesandi og fráflyting</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64256" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/79">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni N. Joensen, <roleName>landsstýrismaður í útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lesandi og fráflyting</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir føroyingar hava lisið í Danmark hvørt einstakt ár seinastu 10 árini sambært nýggju dátunum hjá Hagstovuni tilsamans og skift á bólkar av lesandi?</item>
+            <item xml:id="q2" type="question-item">Kann landsstýrismaðurin lýsa gongdina fyri lesandi føroyingar á hægri útbúgvingum í Danmark hvørt einstakt ár síðstu 10 árini sambært nýggju dátunum hjá Hagstovuni?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv hava lisið á hægri útbúgvingum í Føroyum hvørt einstakt ár síðstu 10 árini?</item>
+            <item xml:id="q4" type="question-item">Hvussu samsvara tølini hjá Studna við svarini upp á fyrstu spurningarnar í hesum fyrispurningi?</item>
+            <item xml:id="q5" type="question-item">Um tølini frá Hagstovuni og Studna ikki líkjast, hvør kann so orsøkin vera til tað?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í seinastuni hevur verið nógv tosað um fráflyting.</s>
+            <s>Orðingin, Exit Føroyar, hevur aftur verið á breddanum, sum hon var tað fyri einum 10-12 árum síðani.</s>
+            <s>Serliga KVF hevur sett kikaran á evnið.</s>
+            <s>Talið á føroyskum lesandi í Danmark var 1.865 skúlaárið 2022/2023, sambært KVF, ið vísir til nýggjar dátur frá Hagstovuni.</s>
+            <s>Hetta talið frá Hagstovuni hevur verið afturvendandi í kjakinum og miðlingini hjá serliga KVF.</s>
+          </p>
+          <p>
+            <s>Studni hevur í mong ár havt tøl fyri lestarstuðulsveitingar til lesandi í Føroyum og uttanlands.</s>
+            <s>Hesi tøl hava givið eina greiða ábending um, hvar føroyingar lesa, og hvat føroyingar lesa.</s>
+            <s>Hetta hagtalstilfar hevur eisini verið nógv nýtt, bæði í almennu fyrisitingini og í almenna rúminum.</s>
+            <s>Hagtølini frá Studna vísa, at síðstu 10 árini er:</s>
+          </p>
+          <ul>
+            <li>Talið á føroyingum, sum eru undir hægri lestri í Føroyum og uttanlands, tilsamans lækkað úr 2.519 til 1.828. Ein lækking á 27%.</li>
+            <li>Samlaða talið á hægri lesandi í Føroyum hækkað úr 838 til 1.026. Ein hækking á 22%.</li>
+            <li>Samlaða talið á lesandi føroyingum undir hægri lestri í Danmark nærum hálverað. Tað er farið úr 1.423 niður í 732. Ein lækking á 49%.</li>
+            <li>Hend tann broyting, at í skúlaárinum 2013/14 lósu 33% av teimum, sum lósu hægri lestur, í Føroyum. Í skúlaárinum 2023/24 lósu 56% av teimum, sum lósu hægri lestur, í Føroyum. 23% prosentstig fleiri.</li>
+          </ul>
+          <p>
+            <s>Tað sýnist at vera stórur munur á tølunum frá Studna og tí talinum, sum KVF hevur frá Hagstovuni.</s>
+            <s>Gott hevði verið at fingið greiði á, hvat er rætt.</s>
+            <s>Tískil verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-01-31">31. januar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

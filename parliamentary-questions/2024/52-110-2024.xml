@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-110/2024: Tjóðarsemjan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66850" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/110">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tjóðarsemjan</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Í sambandi við fráboðanirnar frá løgmanni um, at hann millum Javnaðarflokkin, Tjóðveldi, Framsókn, Fólkaflokkin og Miðflokkin hevur funnið semju um, hvussu hann loysir avbjóðingarnar viðvíkjandi størri føroyskum uttanríkispolitiskum rásarúmi og atgongd til altjóða felagsskapir, kann løgmaður so nágreina, hvat innihaldið í hesi sonevndu tjóðarsemjuni er, og um ætlanin er at fáa til vegar slíkar heimildir innanfyri ella uttanfyri grundlógina?</item>
+            <item xml:id="q2" type="question-item">Kann løgmaður harumframt upplýsa, um tað er komið fram á fundunum, sum vóru millum politisku stjórnarleiðararnar í Føroyum, Danmark og Grønlandi, hvørt Føroyar og føroyingar varðveita tær avtalur og teir fyrimunir, sum vit hava sum partur av ríkisfelagsskapinum, um vit taka okkum úr felagsskapinum?</item>
+            <item xml:id="q3" type="question-item">Kann løgmaður upplýsa, hví hann meldar út um semjur, áðrenn niðurstøða er komin frá § 6-nevndini, ið hevði til endamáls at greina, um Føroyar kunnu fáa størri heimildir innanfyri grundlógina?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fleiri útmeldingar og tíðindi hava verið um tjóðarsemjuna, sum 5 flokkar siga seg taka undir við.</s>
+            <s>Løgmaður sigur á tíðindafundinum, eftir fundirnar við stjórnarleiðarnar, at nakrar broytingar skulu gerast í Ríkisfelagsskapinum, men løtu seinni sigur løgmaður í miðlunum, at vit skulu taka okkum úr felagsskapinum, fyri at fara inn í ein nýggjan felagsskap við trimum sjálvstøðugum londum, og forkvinnan í Tjóðveldi sigur, at nú fáa vit fullveldi.</s>
+          </p>
+          <p>
+            <s>Ongin nágreining er um, júst hvussu hendan tilgongdin skal vera, ella um hon skal vera innanfyri karmarnar í grundlógini ella ikki - einki ítøkiligt uppskot og eingin avtalutekstur er lagdur fram fyri almenninginum.</s>
+            <s>Tí er stóri spurningurin, um flokkarnir vita, hvat teir eru samdir um.</s>
+          </p>
+          <p>
+            <s>Sambandsflokkurin legði í 2024 fram uppskot sítt um Nýtt Samband, har ítøkiliga innihaldið nevniliga er at víðka um uttanríkispolitisku heimildirnar, umframt at geva okkum sjálvstøðugan limaskap í altjóða felagsskapum.</s>
+            <s>Uppskotið legði upp til avtøkur og dagføringar av gomlum lógum, ið skulu endurskipast í eini nýggjari sjálvstýrislóg - sostatt hevur Sambandsflokkurin eitt ítøkiligt boð uppá víðkaðar og dagførdar heimildir fyri Føroyar á uttanríkispolitiska pallinum.</s>
+            <s>Føroyingar og Føroyar njóta í núverandi samanseting fleiri ágóðar og stórrakstrarfyrimunir við at vera í ríkisfelagsskapinum, undir hesum betri Moody's rating, lægri lánsrentur, betri lestrar- og stuðulsmøguleikar fyri lesandi, betri arbeiðsog uppihaldsmøguleikar í øllum Europa, figgjarligt ískoyti til vælferðina við ríkisveitingini og verjusamstørv við NATO umvegis Danmark.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-06-18">18. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

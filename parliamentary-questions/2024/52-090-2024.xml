@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-90/2024: Um bíðilistar og bíðitíðir í Sjúkrahúsverkinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/65316" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/90">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um bíðilistar og bíðitíðir í Sjúkrahúsverkinum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Við hvussu nógvum persónum eru bíðilistarnir í Sjúkrahúsverkinum styttir við serstøku játtanini, sum varð latin til endamálið á fíggjarlógini fyri 2024?</item>
+            <item xml:id="q2" type="question-item">Á hvørjum serøkjum eru bíðilistarnir serliga styttir, og hvussu hevur játtanin ávirkað bíðitíðina á hesum serøkjum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Bíðitíðirnar at sleppa til viðgerð á sjúkrahúsunum eru drúgvar á fleiri økjum.</s>
+            <s>Hóast gongdin í Sjúkrahúsverkinum seinnu árini hevur verið góð, og vit hava fingið fleiri serlæknar og onnur heilsustarvsfólk, so eru framvegis serøki, har tørvurin er størri enn starvsfólkatilfeingið.</s>
+            <s>Tí hava vit bíðilistar.</s>
+            <s>Eru bíðilistarnir langir, hevur tað ávirkan á, hvussu leingi fólk bíða til at sleppa í viðgerð.</s>
+          </p>
+          <p>
+            <s>Í samráð við táverandi landsstýriskvinnu í heilsumálum setti Fíggjarnevndin 4,3 mió. kr. av á fíggjarlógini fyri 2024 til eina serstaka upphædd fyri at fáa bíðilistarnar niður á øllum teimum trimum sjúkrahúsunum.</s>
+            <s>Talan var um eina játtan, sum var markað til endamálið.</s>
+            <s>Tað vóru sjúkrahúsini í felag, sum skuldu skipa fyri og leggja til rættis soleiðis, at bíðilistarnir vórðu styttir mest møguligt við serstøku játtanini.</s>
+          </p>
+          <p>
+            <s>Sjúkrahúsverkið boðaði í vetur frá, at tá vóru bíðilistarnir styttir við sløkum 600 persónum, og eftir ætlan fóru bíðilistarnir at verða styttir við tilsamans 1.100 persónum við ársenda í 2024.</s>
+            <s>Enn eru tó eingi endalig tøl almannakunngjørd.</s>
+            <s>Fyri at fáa greiðu á, hvussu og í hvønn mun átakið eydnaðist, verða hesin fyrispurningur settur landsstýriskvinnuni í heilsumálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-28">28. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

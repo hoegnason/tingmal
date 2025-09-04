@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-84/2024: Keyp og gjøgnumskygni hjá stjórnarráðum og stovnum landsins</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64499" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/84">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Keyp og gjøgnumskygni hjá stjórnarráðum og stovnum landsins</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvar krónur hava stjórnarráðini og stovnar landsins árliga keypt fyri í vørum og tænastum seinastu 3 árini?</item>
+            <item xml:id="q2" type="question-item">Hvussu stórur prosentvísur partur av keypunum hesi árini hevur verið í útboði; og kundi tað verið ein størri partur, sum varð boðin út?</item>
+            <item xml:id="q3" type="question-item">Hvat vísa hagtølini hvat viðvíkur, hvussu væl tað loysir seg peningaliga at bjóða út?</item>
+            <item xml:id="q4" type="question-item">Eru ætlanir um at gera keyp landsins meiri gjøgnumskygd – eisini smærru upphæddirnar?</item>
+            <item xml:id="q5" type="question-item">Um ja, hvussu langt er man komin við hesum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Hvør spard króna er ein vunnin króna, verður sagt.</s>
+            <s>Sum støðan í almenna húsarhaldinum er í dag við halli á fíggjarlógini og avbjóðingum við langtíðarhaldføri, so er sjálvsagt enn meiri umráðandi og átrokandi, at skattaborgarans peningur verður umsitin á besta og skynsamasta hátt.</s>
+            <s>“Endamálið er at fáa meira fyri pening skattgjaldarans við at skipa landsins keyp av vørum og tænastum, og samstundis stimbra kappingina á føroyska vøru- og tænastumarknaðinum.”</s>
+            <s>Hetta er endamálsorðingin í rundskrivinum um keyp av vørum og tænastum til stjórnarráðini og stovnar landsins.</s>
+            <s>Hetta er eitt greitt og gott endamál, og spurningurin er so, hvussu tað gongst við at fáa endamálið implementerað í almenna geiran.</s>
+          </p>
+          <p>
+            <s>Aðalráðini eru 9 í tali, og nógvir eru stovnar landsins, og tí kann hugsast, at nógv verður keypt av ymsum vørum og tænastum.</s>
+            <s>Tað hevði tískil verið áhugavert at sæð, hvussu nógvan pening, talan er um, tá vit hugsa um tær vørur og tænastur, sum eru fevnd av rundskrivinum.</s>
+            <s>Og um tað finnast hagtøl, sum vísa, hvørt tað loysir seg at bjóða út ella ikki.</s>
+            <s>Sum nú er, so er álagt stovnum og ráðum at bjóða út, tá upphæddin er omanfyri 500.000 kr., ímeðan ein tilboðsfyrispurningur skal nýtast fyri keyp upp til 500.000 kr.</s>
+            <s>Keyp undir 50.000 kr. eru undantikin, um ikki rammusáttmálar eru galdandi.</s>
+            <s>Bagatellmørk eru uttan iva fyri, hvat skal bjóðast út, men upp til 500.000 kr. eru rættiliga nógvir pengar hjá nógvum fyritøkum og vinnurekandi.</s>
+            <s>Og at keyp heilt upp í 50.000 kr. púra kunnu vera undantikin, er eisini ein høg upphædd hjá mongum.</s>
+            <s>Áhugavert er eisini at vita, um ætlanir eru at gera skipanina við keypi landsins meiri gjøgnumskygda.</s>
+          </p>
+          <p>
+            <s>Tískil verða hesir spurningar settir landsstýriskvinnuni í fíggjarmálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-18">18. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

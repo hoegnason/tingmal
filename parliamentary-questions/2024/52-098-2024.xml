@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-98/2024: Nýggi túrurin til Nólsoyar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kh6zckgi">Karlot Hergeirsson</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66544" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/98">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/kh6zckgi">Karlot Hergeirsson, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/jcjycu4z">Jóhan Christiansen, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Nýggi túrurin til Nólsoyar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Nær kunnu nólsoyingar vænta, at nýggi túrurin til Nólsoyar kemur?</item>
+            <item xml:id="q2" type="question-item">Er samráðið við nólsoyingar byrjað um, nær á degnum nýggi túrurin skal liggja?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hevur verið eitt ynski frá nólsoyingum í nógv ár at fáa fleiri túrar á ferðasambandinum til Nólsoyar.</s>
+            <s>Tað eydnaðist loksins til løgtingsfíggjarlógina í ár, og pengar vórðu settir av til ein dagligan túr afturat til Nólsoyar.</s>
+          </p>
+          <p>
+            <s>Tað eru nokk ymiskar meiningar ímillum nólsoyingar, nær hesin túrurin skal liggja; tí má hetta gjøgnumhugsast.</s>
+            <s>Tí eigur Strandfaraskip Landsins at seta seg í samband við nólsoyingar og hava samráð við teir um, nær hesin túrurin skal liggja, so flest fáa nyttu av honum.</s>
+          </p>
+          <p>
+            <s>Nú er aprílmánaðurin hálvrunnin, og enn er hesin túrurin ikki komin.</s>
+            <s>Mær vitandi hevur einki samráð verið við nólsoyingar enn.</s>
+          </p>
+          <p>
+            <s>Tann 19. februar í ár setti eg avarðandi landstýrismanni í fiskivinnu- og samferðslumálum líknandi spurningar.</s>
+            <s>Men tað kom einki ítøkiligt svar frá táverandi landstýrismanninum uttan tað, at Strandferðslan enn var ígongd við at kanna hvílutíð hjá manningini og annað, og at landsstýrismaðurin var ótolin, og at hetta mátti loysast, áðrenn komið varð inn í várið.</s>
+          </p>
+          <p>
+            <s>Várið er her nú, og enn røkist einki fyri hesum nýggja túri.</s>
+            <s>Mær vitandi hevur einki samráð verið við nólsoyingar enn um hendan túrin.</s>
+          </p>
+          <p>
+            <s>Tí seti eg enn einaferð hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-04-15">15. apríl 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/kh6zckgi">Karlot Hergeirsson</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

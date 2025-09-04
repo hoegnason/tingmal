@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-89/2024: Trolfiskiskapur eftir svartkalva</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/65187" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/89">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/dhufdza4">Dennis Holm, <roleName>landsstýrismaður í fiskivinnu- og samferðslumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Trolfiskiskapur eftir svartkalva</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hava Føroyar størstu trolmeskavídd í Norðuratlantshavi, tá tað snýr seg um fiskiskap eftir svartkalva?</item>
+            <item xml:id="q2" type="question-item">Hví hava Føroyar valt hesa trolmeskavídd til henda fiskiskap?</item>
+            <item xml:id="q3" type="question-item">Hví brúka tey ymsu londini ymiska meskavídd til henda fiskiskap?</item>
+            <item xml:id="q4" type="question-item">Ætlar landstýrismaðurin at taka hetta upp við Havstovuna, soleiðis at føroyingar hava betri treytir at fiska svartkalva, serliga har fiskað verður av sama svartkalvastovni, báðumegin markið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru fáar felagstreytir um meskavídd innan trolfiskiskap í Norðuratlanshavi.</s>
+            <s>Hetta hóast londini ofta fiska av sama fiskastovni.</s>
+            <s>Sum skilst, skipa londini sín egna fiskiskap við egnari trolmeskavídd.</s>
+            <s>Tað ger, at fortreytirnar eru ymiskar fyri ymisku skipini.</s>
+            <s>Tað hevur verið víst á, at Føroyar hava størstu meskavídd (145 mm), tá fiskað verður eftir svartkalva.</s>
+            <s>Grundgevingarnar eru helst fleiri.</s>
+            <s>Hinvegin nýta bretar 135 mm , norðmenn 135 mm og grønlendingar 140 mm , tá fiskað verður eftir svartkalva.</s>
+            <s>Nú eru fleiri lond, sum gera royndir við skiljirist, soleiðis at hjáveiða verður skild frá.</s>
+            <s>Hetta ger fiskiskapin burðardyggari.</s>
+            <s>Støðan í dag er tann, sambært skiparum, sum troyta henda fiskiskap, at svartkalvin, við 145 mm meskavídd, sleppur gjøgnum posan, men tíverri fær nógvur fiskur skaða og doyr, hóast hann sleppur ígjøgnum meskarnar.</s>
+            <s>Tá er onki vunnið.</s>
+            <s>Varð meskavíddin minkað, fiskaðu skipini eisini tann fiskin, sum í dag doyr uttanfyri trolið.</s>
+            <s>Tað kann eisini tykjast undarligt, at føroysku skipini fiska við størri meskavídd eftir sama fiskastovni, har bretar fiska við smærri meskum nakrar fáar metrar hinumegin markið.</s>
+            <s>Fyri at vita, hvat landstýrismaðurin kann gera við hetta málið, og hvør støða hansara er í hesum máli, verður hesin fyrispurningur settur landstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-02-25">25. februar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
