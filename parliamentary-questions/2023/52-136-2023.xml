@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-136/2023: Verksetan av Krabbameinsætlanini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/62162" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/136">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Verksetan av Krabbameinsætlanini</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Verður arbeitt ítøkiliga við at seta í verk átøk í Krabbameinsætlanini, undir hesum pakkar til útgreining, viðgerð og eftirviðgerð? Um ja, hvørji ítøkilig átøk er ætlanin at seta í verk, og nær kann roknast við, at átøkini verða sett í verk? Um nei, hví verður ikki arbeitt við at seta í verk ítøkilig átøk?</item>
+            <item xml:id="q2" type="question-item">Eru nøkur átøk í Krabbameinsætlanini longu sett í verk, hvørji og nær?</item>
+            <item xml:id="q3" type="question-item">Er ætlanin at lógaráseta eina útgreiningar- og viðgerðartrygd innan krabbameinsøkið, og er ætlanin at leggja fram lógaruppskot t.d. í komandi tingsetu?</item>
+            <item xml:id="q4" type="question-item">Hví er ikki longu sett í verk ein skipan við útgreiningar- og viðgerðartrygd innan krabbameinsøkið, tá hetta kann bjarga lívi og er viðgjørt í fleiri ár?</item>
+            <item xml:id="q5" type="question-item">Hvørji krøv eru til umsitingarligar skipanir, og hvør verður tørvurin á læknum og øðrum starvsfólkum í sambandi við verksetan av Krabbameinsætlanini ella pørtum av henni?</item>
+            <item xml:id="q6" type="question-item">Hvat kostar ein útgreiningar- og viðgerðarskipan innan krabbameinsøkið at seta í verk ella partar av henni?</item>
+            <item xml:id="q7" type="question-item">Hvør skipan er galdandi innan útgreining og viðgerð av krabbameini í norðurlendsku londunum?</item>
+            <item xml:id="q8" type="question-item">Hvussu nógv doyggja árliga av krabbameini í Føroyum, kvinnur og menn?</item>
+            <item xml:id="q9" type="question-item">Hvussu stór er deyðligheitin av kvinnum og monnum í Føroyum orsakað av krabbameini, og hvussu er støðan samanborið við norðurlendsku londini?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í apríl 2022 varð nýggj Krabbameinsætlan handað landsstýrinum.</s>
+            <s>Í Krabbameinsætlanini eru 69 átøk, sum tilmælt eru at seta í verk komandi tíðina.</s>
+            <s>Í ætlanini er m.a. tilmælt at seta í verk screening fyri tarmkrabba, at broyta screeningina fyri lívmóðurhálskrabba og at víðka um bróstkrabbascreeningina.</s>
+          </p>
+          <p>
+            <s>Í samgonguskjalinum hjá sitandi samgongu frá 22. desember 2022 stendur: «Átøk í Krabbameinsætlanini skulu fremjast, og bíðitíðin til útgreining skal styttast eins og bíðilistarnir í heilsuverkinum yvirhøvur.»</s>
+          </p>
+          <p>
+            <s>Sjálvt um tað eru gingin meira enn 2 ár síðan Krabbameinsætlanin varð handað, so eru ongi ella fá átøk úr ætlanini sett í verk og onki frættist um, at nøkur átøk eru á veg.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-06-17">17. juni 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-28/2024: Meritútbúgving innan námsfrøði í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/62482" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/28">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Meritútbúgving innan námsfrøði í Føroyum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Verður arbeitt við at skipa eina meritútbúgving fyri námsfrøðingar (professiónsbachelor) í Føroyum?</item>
+            <item xml:id="q2" type="question-item">Um ja, nær og hvussu er ætlanin at skipa hetta ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært Búskaparráðnum, so fara tað at mangla 700 starvfók innan heilsu- og umsorganarøkið og dagstovnaøkið tey komandi 10 árini.</s>
+            <s>Tí eiga vit at skipa okkara útbúgvaringarskipan soleiðis, at vit megna at lofta komandi avbjóðingum.</s>
+          </p>
+          <p>
+            <s>Dagstovnalógin sigur, at tað skulu vera 2/3 námsfrøðingar, sum skulu arbeiða á dagstovnaøkinum, men støðan er tann, at vit sum samfelag langt frá halda hesa lógaráseting, og hóast fleiri flokkar eru raðfestir á námsfrøðiligu útbúgvingini á Fróðskaparsetrinum, so røkka vit framvegis ikki málinum.</s>
+          </p>
+          <p>
+            <s>Ásannandi hesa avbjóðing fór Tórshavnar kommuna tískil undir eina meritútbúgving í Danmark í februar í ár, har starvfólk innan dagstovnaøkið kunnu fara til Danmarkar at fáa eina meritútbúgving, sum er, at tær royndir, tú hevði gjørt tær á dagstovnaøkinum, kundu teljast við í tína útbúgving.</s>
+            <s>Talan er um eina sokallaða professiónsbachelor, ið telur 160 ECTS stig og tekur 3,5 ár, ella 7 semestur.</s>
+            <s>Ímeðan tú lesur skalt tú 2 ferðir í starvsvenjing hvørt semestur og fært løn, meðan tú tekur útbúgvingina, tó ikki meðan tú ert í skúla.</s>
+            <s>Tú kanst taka útbúgvingina á netinum, og skalt bert til Danmarkar í eina viku í byrjanini og í endanum av einum semestri.</s>
+          </p>
+          <p>
+            <s>Tað vóru 21 persónar, sum byrjaðu at taka hesa útbúgving í februar í ár, og væntandi verða tað 25 persónar, ið verða tiknir upp komandi ár.</s>
+            <s>Sum samfelag eiga vit tó at skipa okkara útbúgvingar soleiðis, at vit í størsta mun kunnu taka hesar útbúgvingar í Føroyum, heldur enn at verða noydd at senda fólk av landinum.</s>
+            <s>Hesa meritútbúgving/profesissiónsbachelor hevði verið upplagt, at vit kundu skipa í Føroyum og tí verða hesir spurningar settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-09-13">13. september 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
