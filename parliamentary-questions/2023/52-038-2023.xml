@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-38/2023: Tvískattaavtalur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/58239" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/38">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tvískattaavtalur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er arbeiðið at kanna møguleikarnar fyri at fáa fleiri tvískattaavtalur fyri føroyska vinnulívið og føroyingar yvirhøvur ella handilsflotan og shippingvinnuna sett í gongd?</item>
+            <item xml:id="q2" type="question-item">Hvussu verður arbeiðið skipað?</item>
+            <item xml:id="q3" type="question-item">Nær kann væntast, at nakað úrslit ella ein frágreiðing fyriliggur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í mars mánaði í ár varð uppskot til samtyktar (lm.</s>
+            <s>nr. 72/2022) lagt fram við eini áheitan um, at landsstýrið skal leggja fyri Løgtingið eina frágreiðing um, hvussu farast skal fram fyri at samráðast um fleiri tvískattaavtalur fyri Føroyar.</s>
+          </p>
+          <p>
+            <s>Tá ið málið var á skrá í tinginum, tóku umboðini fyri allar flokkar væl ímóti uppskotinum og málið fekk eina jaliga viðgerð og bleiv samtykt.</s>
+            <s>Sum skilst kann hetta gerast rættiliga drúgt at fáast við og tí er alneyðugt at tryggja, at gongd er á arbeiðinum.</s>
+          </p>
+          <p>
+            <s>Reiðarafelagið fyri Handilsskip hevur støðugt víst á, at tørvur er á fleiri tvískattaavtalum.</s>
+            <s>Føroyar hava í dag einans átta tvískattaavtalur við onnur lond, og tað er ikki eydnast at økja um talið av hesum avtalum seinastu mongu árini.</s>
+            <s>Til samanberingar kann nevnast, at Danmark hevur fleiri enn 70 tvískattaavtalur við onnur lond.</s>
+          </p>
+          <p>
+            <s>Fleiri tvískattaavtalur kunnu m.a. vera við til at geva føroyingum og vinnuni betri virkisfrælsi og eina betri kappingarstøðu uttanlands.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-10-19">19. oktober 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

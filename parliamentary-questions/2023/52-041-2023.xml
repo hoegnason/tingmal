@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-41/2023: Vinnubilar í privatari nýtslu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/58412" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/41">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Vinnubilar í privatari nýtslu</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar tankar ger landsstýriskvinnan sær um skipanina, sum er fyri privata nýtslu av vinnubilum í Føroyum samanborið við okkara grannalond?</item>
+            <item xml:id="q2" type="question-item">Hvørjar tankar ger landsstýriskvinnan sær um, at tað í Føroyum eru fleiri akfør enn fólk yvir 18 ár?</item>
+            <item xml:id="q3" type="question-item">Í hvønn mun er landsstýriskvinnan sinnað at gera nýtsluna av vinnuakførum til privata nýtslu nakað meira smidliga, enn hon er í dag?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nú er tíðin aftur komin, at TAKS fer á fótbóltsvøllir, møtir, ruskpláss og í barnagarðar at kanna, um onkur hevur gloymt, at tey hava ein vinnubil, sum ikki kann nýtast til nakra privata nýtslu.</s>
+          </p>
+          <p>
+            <s>TAKS ger hesi eftirlitini og hevur sera greitt boðað frá, at nú fara hesi eftirlitini at verða gjørd.</s>
+          </p>
+          <p>
+            <s>Støðan í Føroyum í dag er, at tað eru fleiri akfør enn koyrikort í landinum.</s>
+            <s>Tað eru enntá fleiri akfør, enn tað eru persónar yvir 18 ár.</s>
+          </p>
+          <p>
+            <s>Hetta hevur við sær, at nógvir bilar verða seldir, men spurningurin er, um tað er neyðugt at hava so nógvar bilar í okkara landi, tá vit hugsa um grøna orkuskiftið, og at størsti parturin av hesum bilunum standa stillir størsta partin av tíðini.</s>
+          </p>
+          <p>
+            <s>Í øðrum londum eru skipanir, sum hava við sær, at vinnubilar í ein ávísan mun kunnu nýtast til privata nýtslu, fyri eitt gjald, sum er munandi lægri enn at keypa ein eyka bil, men gevur meining í sambandi við, at bilarnir sum vinnuakfør eru slopnir undan gjøldum.</s>
+            <s>Sum skilst er skipanin í Føroyum soleiðis, at skal eitt vinnuakfar nýtast til privata nýtslu, so ber ikki til at gera tað partvíst ella fyri ávís tíðarskeIð, men fult og heilt.</s>
+          </p>
+          <p>
+            <s>Tí hesir spurningar, um landsstýriskvinnan er sinnað at kanna loysnirnar, sum eru í samfeløgum líknandi okkara, og um tað kundi givið meining at verið eitt sindur meira smidligur í Føroyum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2023-10-31">31. oktober 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
