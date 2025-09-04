@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-71/2024: Valevnislistar til kommunuval</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64070" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/71">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Valevnislistar til kommunuval</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat er endamálið við at hava mark fyri, hvussu nógv valevni kunnu standa á sama lista til kommunuval?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýrismaðurin at arbeiða fyri at broyta hetta?</item>
+            <item xml:id="q3" type="question-item">Hvussu heldur landsstýrismaðurin, at kommunuvalið í 2024 gekk í síni heild?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært løgtingslóg um val til allar føroyskar kommunur kann ein valevnislisti til kommunuval í mesta lagi hava 4 valevni fleiri enn samlaða talið av bygdaráðslimum/býráðslimum, ið skulu veljast.</s>
+            <s>Hetta hevur við sær, at um talið av valevnum fer upp um hetta markið, so er neyðugt at gera fleiri listar.</s>
+            <s>Men valevnini á listunum hava í nógvum førum einki annað til felags enn bara tað, at tey standa á sama lista.</s>
+            <s>Tí sóu vit eftir seinasta kommunuval, at kommunustýri skipaðu seg ella vóru nær við at skipa seg soleiðis, at onkur á einum lista var við í meiriluta saman við øðrum listum, meðan onkur annar á sama lista var í minniluta.</s>
+            <s>Hetta reisir spurningin um, hvat endamálið er við at hava fleiri listar.</s>
+          </p>
+          <p>
+            <s>Eisini tað, at D’Hondt útrokningarhátturin verður brúktur, kann hava við sær, at hjá onkrum lista skulu fleiri atkvøður til fyri hvørt valt umboð enn á øðrum listum.</s>
+            <s>Hetta talar eisini ímóti kravinum um at hava fleiri listar.</s>
+          </p>
+          <p>
+            <s>Síðani kommunuvalið í november hava søgur verið í fjølmiðlunum um, at á onkrum valstaði manglaðu atkvøðuseðlar, onkrastaðni varð kært til Kommunala eftirlitið um, at skipanarfundurin hjá nýggja býráðnum ikki varð hildin eftir røttum forskriftum, og eisini var dømi um, at meldað varð til løgregluna um valsvik.</s>
+            <s>Tað er orsøkin til seinasta spurningin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-01-13">tann 13. januar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

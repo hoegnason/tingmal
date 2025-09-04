@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-107/2024: Gjøld fyri havnaloðsingar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66828" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/107">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýriskvinna í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Gjøld fyri havnaloðsingar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er orsøkin til, at gjøldini fyri havnaloðsingar ikki eru broytt síðani 1. januar 2013?</item>
+            <item xml:id="q2" type="question-item">Hvussu samsvara gjøldini fyri havnaloðsingar í Føroyum við gjøldini, sum eru galdandi í londunum uttanum okkum?</item>
+            <item xml:id="q3" type="question-item">Hvat merkir tað fyri lønirnar hjá loðsunum, at gjøldini fyri havnaloðsingar ikki eru broytt í so langa tíð?</item>
+            <item xml:id="q4" type="question-item">Hvør er orsókin til, at lønirnar hjá loðsum ikki fylgja nøkrum sáttmála á arbeiðsmarknaðinum?</item>
+            <item xml:id="q5" type="question-item">Eru ætlanir um at broyta hesi nevndu viðurskiftini?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært løgtingslógini um havnaloðsing (løgtingslóg nr. 21 frá 16. mars 2012 við seinni broytingum) skulu gjøldini, ið verða kravd fyri loðsingar, figgja útreiðslurnar, sum kommunurnar hava av loðsskipanini.</s>
+            <s>Tað vil siga, at útreiðslurnar kunnu ikki vera størri enn inntøkurnar, ið skipini rinda fyri loðsingina.</s>
+          </p>
+          <p>
+            <s>Í kunngerðini um loðsing, gjøld o.a. (kunngerð nr. 153 frá 21. desember 2012) verður ásett, hvat skip skulu rinda fyri at fáa loðs umborð.</s>
+            <s>Men hóast kunngerðin kom í gildi tann 1. januar 2013, so eru gjøldini framvegis tey somu í krónum, sum tey vóru tá.</s>
+            <s>Hetta merkir, at prís- og lønarvøksturin, sum hevur verið seinastu 12 árini, hevur ikki ávirkað hesi gjøldini.</s>
+          </p>
+          <p>
+            <s>Lønin, sum loðsarnir fáa, er ikki knýtt at nøkrum lønarsáttmála, og lógin sigur, at gjøldini skulu figgja allar útreiðslurnar (eisini lønarútreiðslurnar).</s>
+            <s>Men av tí at gjøldini fyri loðsing ikki eru broytt í 12 ár, er rásarúmið til at lata lønirnar fylgja lønarvøkstrinum í samfelagnum blivið minni og minni.</s>
+          </p>
+          <p>
+            <s>Hesin spurningurin verður settur fyri at varpa ljós á og fáa upplýsingar um hesi viðurskiftini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-06-06">6. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

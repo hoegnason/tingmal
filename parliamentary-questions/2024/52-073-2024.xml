@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-73/2024: Lestrarpláss boðin út summarið 2025</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/64113" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/73">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Lestrarpláss boðin út summarið 2025</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógv lestrarpláss verða boðin út summarið 2025 innan miðnáms-, yrkis- og hægri útbúgvingar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinastu tíðina hevur verið nógv ljós varpað á lestrarumhvørvið í Føroyum, tá kjak hevur verið um, at ung fara av landinum at nema sær útbúgving.</s>
+          </p>
+          <p>
+            <s>Vit hava í Føroyum nógvar skúlar, ið bjóða útbúgvingar av alskyns slagi.</s>
+            <s>Tær eru av ymsum slagi, og venda sær bæði til tann privata og almenna arbeiðsmarknaðin.</s>
+          </p>
+          <p>
+            <s>Tó kann tað altíð gerast betri í einari roynd at fáa útbúgvingar, ið bæði venda sær til eftirspurningin hjá arbeiðsmarknaðinum og teim lesandi.</s>
+            <s>Tí kundi verið nærliggjandi at hugt at teimum útbúgvingum, vit hava í dag, og gjørt okkum greitt, um tær í nóg stóran mun nøkta tann eftirspurning, vit hava í dag.</s>
+          </p>
+          <p>
+            <s>Nú er fíggjarlógin samtykt, og greitt er, hvør játtanin er hjá teim ymsu skúlunum.</s>
+            <s>Fyri at fáa greiðu á, hvussu nógv lestrarpláss verða boðin út í summar, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-01-16">16. januar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

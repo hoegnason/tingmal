@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-112/2024: Heimild til at logga dátur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66889" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/112">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heimild til at logga dátur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Verður arbeitt við at seta reglur í gildi, sum svara til reglurnar í donsku “logningsbekendtgørelsen”?</item>
+            <item xml:id="q2" type="question-item">Um ja, hvat restar í fyri at koma á mál við hesum?</item>
+            <item xml:id="q3" type="question-item">Um nei, hvør er orsøkin til, at landsstýrismaðurin ikki ynskir at seta tílíkar reglur í gildi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>“logningsbekendtgørelsen” er ein donsk kunngerð, sum hevur heimild í rættargangslógini, og sum áleggur telesambands- og internetveitarum at goyma (logga) upplýsingar um samskifti hjá brúkarunum.</s>
+            <s>Ikki sjálvt innihaldið, men metadata, t.e. hvør samskiftir, nær, hvar og við hvønn.</s>
+          </p>
+          <p>
+            <s>Fyrr vóru allar ip-adressur statiskar.</s>
+            <s>Hesar eru tó avmarkaðar í tali, og tí eru flestu ipadressurnar vorðnar dynamiskar fyri at nøkta tørvin hjá stóra talinum av brúkarum á internetinum.</s>
+            <s>Hetta er ein teknisk loysn, sum ger tað trupult at spora seg fram til brotsmenninar á netinum, um ikki dáturnar eru goymdar (loggaðar).</s>
+          </p>
+          <p>
+            <s>Heimildin er partur av eftirlitinum í Danmark, sum skal hjálpa løgregluni og fregnartænastuni at loysa álvarsligan kriminalitet, t.d. yvirgang, skipaðan kriminalitet og ikki minst mál um barnaporno, sum er ein alsamt vaksandi trupulleiki.</s>
+            <s>Eisini her í Føroyum.</s>
+          </p>
+          <p>
+            <s>Fyrispurningurin verður settur fyri at fáa greiðu á, um og nær “logningsbekendtgørelsen”  verður sett í gildi í Føroyum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-06-23">23. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

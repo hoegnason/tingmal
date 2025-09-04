@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-108/2024: Almenn atgongd til søguligt tilfar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66834" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/108">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu, <roleName>landsstýrismaður í almanna- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Almenn atgongd til søguligt tilfar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat verður gjørt fyri at tryggja at gamalt søguligt tilfar, sum til dømis ljóðupptøkur, ið ikki eru partur av savninum hjá Kringvarpinum, verður savnað og varðveitt?</item>
+            <item xml:id="q2" type="question-item">Hvørjar møguleikar sær landsstýrismaðurin fyri, at tilfarið verður gjørt atkomuligt hjá almenninginum?</item>
+            <item xml:id="q3" type="question-item">Hvussu langt er arbeiðið komið við at gera tilfarið í Savnsgulli atkomuligt hjá almenninginum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í Føroyum hava vit eitt stórt tal av søguligum tilfari, ið liggur spjatt og óskipað í posum, pappeskjum og á teldum ymsastaðni í landinum.</s>
+            <s>Talan er um ljóðupptøkur heilt aftur til um ár 1900 við bæði tónleiki og samrøðum, myndir, og skrivaðan tekst.</s>
+            <s>Eingin ivi er um, at hetta tilfarið eigur at verða savnað, meðan tað enn er tøkt, og almenningurin eigur at hava atgongd til tað.</s>
+          </p>
+          <p>
+            <s>Savnsgull er eitt dømi um, at nógv tilfar er bjargað, men enn hevur almenningurin ikki atgongd til tað.</s>
+            <s>Eisini annað tilfar liggur ymsastaðni, og lítið skal til, fyri at tað fer fyri einki.</s>
+          </p>
+          <p>
+            <s>Fleiri einstaklingar hava gjørt eitt stórt arbeiði fyri at savna og varðveita hetta tilfarið, men tað liggur spjatt ymsastaðni, og fá vita um tað.</s>
+            <s>Onkrar ljóðupptøkur við føroyskari luttøku liggja eisini uttanlands, og sum skilst, hevur tað ikki verið lætt at fingið fatur á teimum.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa hetta skipað má avgerð takast um, hvar tilfarið skal liggja, hvussu almenningurin kann fáa nyttu av tí, og hvussu arbeiðið skal fíggjast.</s>
+          </p>
+          <p>
+            <s>Tíðin gongur, og so hvørt sum tey ið varða av tilfarinum fella frá, veit eingin, at tað yvirhøvur er til, og hvar tað liggur.</s>
+            <s>Eisini eru í nógvum førum fáar upplýsingar um, hvør er við á upptøkum og myndum, og tí er neyðugt at spyrja tey, ið minnast hendingarnar, men hesi fækka í tali, og tey, ið eru eftir eru, komin væl upp í árini.</s>
+          </p>
+          <p>
+            <s>Hesin fyrispurningurin verður settur fyri at varpa ljós á málið, soleiðis at gongd kann koma á hetta týdningarmikla arbeiðið, áðrenn tað er ov seint.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-06-10">10. juni 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
