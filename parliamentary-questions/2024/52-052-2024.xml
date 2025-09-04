@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-52/2024: Afturrindan av heilsutrygdargjaldi til útisiglarar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/63356" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/52">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýriskvinna í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Afturrindan av heilsutrygdargjaldi til útisiglarar</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat er status við arbeiðinum at broyta lógina um heilsutrygd í sambandi við afturrindan av heilsutrygdargjaldi til útisiglarar?</item>
+            <item xml:id="q2" type="question-item">Nær kann væntast nágreiniliga tíðspunktið, at lógaruppskot verður lagt fyri tingið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Útisiglarar fingu viðhald í bæði kærunevnd, Føroya Rætti og Landsrættinum, og tá ið Heilsutrygd ætlaði í Hægstarætt við málinum, fekst ikki loyvi til at royna tað har.</s>
+            <s>Útisiglarar og onnur, sum eru búsitandi í Føroyum, sum eru fevnd av “Nordisk konvention om social sikring”, og sum rinda fyri heilsutrygdarskipan í øðrum landi, hava ikki skyldu at rinda heilsutrygdargjald í Føroyum og hava í mong ár av órøttum goldið til bæði Heilsutrygd og landið, har arbeiðsstaðið er í Norðurlondum.</s>
+          </p>
+          <p>
+            <s>Landsstýriskvinnan sigur seg arbeiða við at tilevna lógaruppskot, sum gevur heimild til og ásetir, hvussu heilsutrygdargjaldið, sum er kravt frá omanfyri nevndu útisiglarum og øðrum, kann rindast aftur.</s>
+            <s>Eftir løglistanum 2024 var ætlanin at leggja uppskot fyri Løgtingið í oktober 2024.</s>
+          </p>
+          <p>
+            <s>Tann 13. august 2024 svarar landsstýriskvinnan fylgjandi til undirritaða í einum § 52a fyrispurningi: ”Ætlanin er at leggja uppskot til løgtingslóg um afturrindan av heilsutrygdargjaldi fyri Løgtingið í hesari tingsetuni.”</s>
+          </p>
+          <p>
+            <s>Eitt nú hevur Jacob Vestergaard, løgtingsmaður, eisini eftirlýst einari loysn á hesum málinum.</s>
+          </p>
+          <p>
+            <s>Onki lógaruppskot er enn lagt fyri Løgtingið, nú fyrsta hálvan av tingsetuni er við at vera liðug, og málið blívur við at draga út.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-11-07">7. november 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

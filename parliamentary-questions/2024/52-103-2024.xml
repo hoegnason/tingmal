@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-103/2024: Treytir til útlendska arbeiðsmegi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66753" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/103">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>landsstýrismaður í lógarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Treytir til útlendska arbeiðsmegi</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin umrøtt møguleikan at seta treytir viðvíkjandi revsiváttan og samfylgjandi familju til útlendska arbeiðsmegi?</item>
+            <item xml:id="q2" type="question-item">Um ja, nær kann væntast, at hesar treytir verða settar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Vit hava í fleiri ár havt stóran tørv á arbeiðsmegi í føroyska samfelagnum.</s>
+            <s>Tí hevur verið neyðugt at innflyta arbeiðsmegi, ið hevur verið til gagns fyri okkara vinnulív.</s>
+          </p>
+          <p>
+            <s>Tó hevur tað ikki verið uttan avbjóðingar.</s>
+            <s>Í løtuni kann útlendsk arbeiðsmegi koma her, uttan at man biður um eina revsiváttan frammanundan.</s>
+            <s>Søgur í miðlunum hava tíverri víst, at fólk við kriminellari fortíð í teirra heimlandi eru komin til Føroya.</s>
+          </p>
+          <p>
+            <s>Eisini er møguligt hjá útlendskari arbeiðsmegi at fáa samfylgjandi familju hendanvegin.</s>
+            <s>Tann, ið kemur inn uppá arbeiðsloyvi, skal fylgja nøkrum treytum, men tað eru ikki nøkur serlig krøv til ta samfylgjandi familjuna, tað vil siga maka og børn.</s>
+            <s>At tað kunnu koma nógvir tilflytarar til landið uttan serligar treytir hevur sínar avbjóðingar, tí tað er við til at seta trýst á ymsar vælferðartænastur, eitt nú skúlaøkið.</s>
+          </p>
+          <p>
+            <s>Føroyar eru eitt lítið samfelag, ið eisini er viðbrekið, og tí mugu vit altíð vera á varðhaldi.</s>
+            <s>Tað kann eitt nú gerast við at seta treytir.</s>
+          </p>
+          <p>
+            <s>Undirritaði hevur fyrr sett landsstýrismanninum fyrispurning um at seta treytir til útlendska arbeiðsmegi, og tá svaraði landsstýrismaðurin, at hann fór at umrøða møguleikan við danska ráðharran á økinum.</s>
+          </p>
+          <p>
+            <s>Fyri at vita, um man hevur umrøtt hetta, og um væntast kann, at treytir fara at verða settar, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-05-22">22.mai 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

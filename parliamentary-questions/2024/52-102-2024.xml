@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-102/2024: Løggilding av handverksmeistarum í byggivinnuni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/66730" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/102">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýriskvinna í uttanríkis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Løggilding av handverksmeistarum í byggivinnuni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu gongur við at fyrireika lógaruppskot um løggilding av handverksmeistarum í byggivinnuni?</item>
+            <item xml:id="q2" type="question-item">Nær kann ein slík løggilding fáast at virka á føroyska byggimarknaðinum?</item>
+            <item xml:id="q3" type="question-item">Eru allar aðrar fortreytir, eitt nú neyðuga meistaraútbúgvingin, loknar til ta tíð, ein slík løggilding ætlandi skal setast í verk?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógv byggivirksemi er í Føroyum og hevur verið tað leingi.</s>
+            <s>Ikki minst verður av øllum alvi roynt at byggja bústaðir til tann stóra tørvin, og bústaðarbygging er eitt av týdningarmestu málunum í okkara samfelagi.</s>
+          </p>
+          <p>
+            <s>Tá so er, kemur til sjóndar, hvussu stórur tørvur er á eitt nú meistaraútbúgving og løggilding innan byggivinnuna, bæði fyri at tryggja góðsku og trygd í arbeiðinum hjá handverksmeistarum, eins og eina neyðuga trygd fyri kundar.</s>
+          </p>
+          <p>
+            <s>Ætlanin við slíkari løggilding er sambært vinnuni, at bert handverksmeistarar við neyðugu útbúgving og royndum kunnu útinna arbeiði, sum krevur serkunnleika og ábyrgd.</s>
+            <s>Hetta hevur týdning fyri alt slag av bygging, men ikki minst tá familjur seta seg í skuld fyri at fáa bygt eitt heim.</s>
+            <s>Tí allir partar koma sera illa fyri, um illa vil til við bygging.</s>
+          </p>
+          <p>
+            <s>Á ólavsøku í fjør varð á løglistanum fráboðað, at eitt uppskot til løgtingslóg um løggilding av handverksmeistarum í byggivinnuni var ávegis og skuldi leggjast fram í tingárinum.</s>
+            <s>Ætlanin var at gera eina skipan, soleiðis at handverksmeistarar, sum bjóða seg fram at byggja fyri onnur, skuldu vera løggildir og hava staðið ta útbúgving, sum verður kravd fyri at gerast løggildur handverksmeistari.</s>
+          </p>
+          <p>
+            <s>Nú er tingárið farið at halla, men væntandi er, at tørvurin á slíkari løggilding og meistarutbúgving enn er sera átrokandi.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-05-05">5.mai, 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-64/2024: Um talgilda tolling av frakt hjá privatpersónum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/63987" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/64">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang, <roleName>landsstýriskvinna í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um talgilda tolling av frakt hjá privatpersónum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýriskvinnan at loyva privatfólki at tolla frakt sjálvi talgilt, eins og vinnulívið kann?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýriskvinnan at loyva speditørum at tolla frakt talgilt fyri privatkundar, eins og speditørar kunnu fyri vinnukundar?</item>
+            <item xml:id="q3" type="question-item">Um ja, nær kann roknast við at slík skipan verður sett í verk?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ofta hoyrist frá fólki, at tað tekur langa tíð at fáa tollað frakt til privatpersónar.</s>
+            <s>Vinnukundar kunnu í dag á Vinnuglugganum tolla sjálvi talgilt, og TAKS kann síðan gera stakroyndir fyri at tryggja, at rætt er tollað.</s>
+            <s>Ein einføld, bílig og væl virkandi skipan.</s>
+          </p>
+          <p>
+            <s>Hetta kunnu privatpersónar ikki.</s>
+            <s>Her skal TAKS gera alt arbeiðið og kundin má bíða.</s>
+            <s>Tí verður spurt, hví privatpersónar ikki sjálvir kunnu tolla talgilt.</s>
+          </p>
+          <p>
+            <s>Nógvir speditørar standa fyri innflutningi av frakt og pakkum fyri vinnukundar og privatkundar.</s>
+            <s>Fyri vinnukundar kunnu speditørar avgreiða tollin fyri teir, men tað kunnu speditørar ikki fyri privatkundar; har skal TAKS gera alla tollingina.</s>
+          </p>
+          <p>
+            <s>Í tí tøkniverð vit liva í, kann hetta tykjast løgið, tungt og dýrt.</s>
+            <s>Um landsstýrið/TAKS ikki vil loyva privatpersónum at tolla sjálvi, so verður spurt, um landsstýrið/TAKS fer at loyva speditørum at tolla talgilt fyri privatkundar, eins og tey gera fyri vinnukundar.</s>
+          </p>
+          <p>
+            <s>Hesar somu spurningar setti undirritaði í Løgtinginum í mei mánaði 2024 (MS133/2023).</s>
+            <s>Tá svaraði landsstýriskvinnan, at TAKS arbeiðir ítøkiliga við einari ætlan um, at speditørar skulu sleppa at tolla talgilt fyri privatkundar.</s>
+            <s>Eisini segði hon, at TAKS metir, at tíðarætlan kann gerast til einaferð í heyst.</s>
+          </p>
+          <p>
+            <s>Nú er heystið liðugt, og enn hoyrist einki um nevndu tíðarætlan.</s>
+            <s>Tí verða hesir spurningar settir skrivliga.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2025-01-07">7. januar 2025</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
