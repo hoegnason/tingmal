@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-121/2023: Útvarpshoyrilíkindi á útróðri</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/61708" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/121">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýriskvinna í almanna- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Útvarpshoyrilíkindi á útróðri</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu ber tað til, at tú á útróðri – við somu radioútgerð – hoyrir aðrar føroyskar útvarpsræsur so nógv betur, enn tú hoyrir Kringvarp Føroya á FM sendinetinum?</item>
+            <item xml:id="q2" type="question-item">Eru sendararnir hjá Kringvarpi Føroya staðsettir øðrvísi enn sendararnir hjá privatu loftmiðlunum? Um ja, so hví?</item>
+            <item xml:id="q3" type="question-item">Hava útróðrarmenn, ið hava bátar við vanligari radioútgerð, lógartryggjaðan rætt til at hoyra útvarpið hjá Kringvarpi Føroya?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Útróðrarmenn hava gjørt spyrjaran varugan við, at tað ikki ber til at hoyra útvarpið hjá Kringvarpi Føroya nóg væl, tá tú kemur út um landoddarnar og út á opið hav.</s>
+            <s>Sagt verður, at hóast radioútgerðin er júst tann sama, so hoyrast aðrar føroyskar ræsur m.a. Lindin og Rás2, sum eru privatar og ókeypis ræsur - nógv betur enn KVF, sum kostar hesum útróðrarmonnum upp í fleiri túsund krónur um árið í kringvarpsgjaldi.</s>
+          </p>
+          <p>
+            <s>Tað kann undra, um tað er so, at tann rásin, ið man rindar lógarfest kringvarpsgjald fyri, ikki megnar at senda við eins góðum signali sum tær ræsurnar, ið eru ókeypis at lurta eftir.</s>
+          </p>
+          <p>
+            <s>Í løgtingslóg um kringvarp er í § 1, stk. 3 ásett, at landið hevur skyldu til at tryggja, at allir borgarar hava møguleika at móttaka sendingar hjá Kringvarpi Føroya.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiði á hesum máli, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-05-02">2. mai 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
