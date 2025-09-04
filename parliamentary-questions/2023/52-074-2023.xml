@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-74/2023: Barnaverndartænastur og barnaverndarlógin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/59630" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2023/74">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t5cm7kxb">Djóni Nolsøe Joensen, <roleName>landsstýrismaður í barna- og útbúgvingarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Barnaverndartænastur og barnaverndarlógin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu vil landsstýrismaðurin tryggja, at barnaverndirnar kring landið halda Barnaverndarlógina og liva upp til ásetingarnar í lógini um eftirlitsvitjanir og barnasamrøður?</item>
+            <item xml:id="q2" type="question-item">Hvussu vil landsstýrismaðurin tryggja, at tænastustøðið hjá barnaverndartænastunum er á sama støði um alt landið?</item>
+            <item xml:id="q3" type="question-item">Hvat hevur Barna- og útbúgvingarmálaráðið gjørt fyri at tryggja, at barnaverndarlógin verður fylgd, eftir at Løgtingsins Umboðsmaður hevur víst á, at ásetingar í lógini ikki verða hildnar?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Løgtingsins Umboðsmaður hevur í mars 2023 almannakunngjørt úrslitið av eini kanning av, um barnaverndartænasturnar gera tær eftirlitsvitjanir og hava tær barnasamrøður við børn, sum eru sett heiman, sum eru ásettar í § 16, stk. 3 í Barnaverndarlógini.</s>
+          </p>
+          <p>
+            <s>Umboðsmaðurin kom fram til, at barnaverndartænasturnar alt ov ofta ikki halda ásettu freistirnar fyri eftirlitsvitjanir og barnasamrøður, sum eru ásettar í lógini.</s>
+            <s>Lógin ásetur, at barnaverndartænasturnar skulu gera minst tvær árligar eftirlitsvitjanir hjá børnum, sum eru sett heiman.</s>
+            <s>Tá skal barnaverndartænastan tosa við barnið - helst í einrúmi.</s>
+          </p>
+          <p>
+            <s>Kanningin vísir eisini, at í summum førum vóru ár millum hesar eftirlitsvitjanir og/ella barnasamrøður.</s>
+            <s>Í onkrum førum høvdu als ongar eftirlitsvitjanir verið.</s>
+          </p>
+          <p>
+            <s>Umboðsmaðurin vísir í kanningini á, at hetta als ikki er nøktandi.</s>
+            <s>Endamálið við eftirlitsvitjanum og barnasamrøðum er at tryggja, at barnið hevur tað gott, trívist og mennist - og at fyriskipanin, sum er sett í verk, stuðlar hesum.</s>
+          </p>
+          <p>
+            <s>Harafturat vísir kanningin, at ongar skipaðar mannagongdir eru fyri hesum eftirlitsvitjanum og barnasamrøðum - og skjalfestingin og journaliseringin er tilvildarlig.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiðu á, hvør støðan er í hesum týdningarmikla máli, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-01-22">22. januar 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
