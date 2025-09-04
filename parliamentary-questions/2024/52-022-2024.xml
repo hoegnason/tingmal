@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-22/2024: Heildarætlan um fólkavøkstur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/62435" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2024/22">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingskvinna</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heildarætlan um fólkavøkstur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Eru ætlanir um at gera eina nýggja heildarætlan um fólkavøkstur?</item>
+            <item xml:id="q2" type="question-item">Um ja, nær kann væntast, at hetta arbeiðið verður liðugt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fólkavøkstur og búskaparvøkstur hanga neyvt saman, og tí er tað umráðandi, at vit sum samfelag áhaldandi tryggja, at hesin fólkavøkstur heldur áfram.</s>
+            <s>Seinastu árini hevur stórur fólkavøkstur verið í Føroyum, men tað eru greið tekin um, at hesin fólkavøkstur ikki er eins stórur og undanfarin ár.</s>
+            <s>Hetta sæst m.a. við fallandi burðaravlopinum.</s>
+            <s>Burðaravlopið, sum er munurin millum fødd og deyð, er tað lægsta síðan 2004.</s>
+            <s>Meðan burðaravlopið var 300 í 2004, er tað í løtuni 161.</s>
+          </p>
+          <p>
+            <s>Somuleiðis eru tekin at síggja millum tey ungu, at tey í størri mun ynskja at fara av landinum at lesa.</s>
+            <s>Í kanning, sum Glasir gjørdi í vár, vísti tað seg, at 60% av teimum ungu ynskja at fara av landinum at lesa eftir lokna studentaútbúgvning.</s>
+            <s>Tá ein so stórur partur av okkara ungdómi ynskir at fara av landinum at lesa, er vandi fyri, at ein stórur partur ikki kemur heim aftur eftir loknan lesnað.</s>
+            <s>Harumframat hava vit eitt skeiklað kynsbýti, har vit mangla yvir 2000 kvinnur í føroyska samfelagnum.</s>
+          </p>
+          <p>
+            <s>Í 2013 gjørdi tásitandi landsstýri eina heildarætlan, «Fólkafráflyting og fólkavøkstur».</s>
+            <s>Endamálið var at gera átøk, sum kundu vera við til at gera Føroyar meira lokkandi at búgva í.</s>
+            <s>Í dag síggja vit tíverri nøkur av teimum somu teknunum, sum vit sóu í 2013, og tí ræður um at seta skjótt inn, soleiðis at átøk kunnu gerast til tess at bøta um støðuna í tøkum tíma.</s>
+            <s>At tryggja framhaldandi fólkavøkstur hevur eisini týdning fyri fíggjarliga og búskaparliga haldførið hjá landinum.</s>
+            <s>Tí verður hesin fyrispurningur settur løgmanni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2024-09-09">9. september 2024</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
