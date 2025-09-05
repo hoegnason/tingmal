@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-123/2020: Koronupass</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47610" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/123">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Koronupass</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu fer talgilda koppsetingarkvittanin / koronupassið at rigga?</item>
+            <item xml:id="q2" type="question-item">Fer talgilda koppsetingarkvittanin / koronupassið at vera grundarlag fyri, hvat borgarar í landinum hava atgongd til í mun til almenn og privat frítíðar- og mentanartilboð, vørur og tænastur annars?</item>
+            <item xml:id="q3" type="question-item">Kunnu fólk uttan koppsetingarkvittan / koronupass verða noktaði atgongd til avís tilboð, vørur ella tænastur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Danskir myndugleikar hava ment eitt koronupass, sum er eitt skjalprógv fyri, at fólk eru liðugt koppsett ella eru kannaði fyri COVID-19.</s>
+            <s>Koronupassið gevur fólki atgongd til kaffistovur, matstovur og mentanartilboð.</s>
+            <s>Passið skal m.a. nýtast, um mann skal til frisør, uttanlandsferðir ella vitjanir á forngripa-, lista- og bókasøvnum.</s>
+            <s>Heldur mann ikki reglurnar um koronupass, kann mann fáa bót.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin hevur boðað frá, at heilsuverkið eisini arbeiðir við eini líknandi skipan, men enn er ikki greitt, hvørjar eginleikar koronupassið fer at hava, og hvørjar prinsippiellar avleiðingar tað fær fyri viðurskiftini millum borgaran og breiðara samfelagið.</s>
+            <s>Tað er ikki nágreinað, um koronupassið eitt nú bert skal brúkast í sambandi við ferðing uttanlands, ella um tað eisini verður grundarlag fyri, hvat virksemi og hvørjar tænastur borgarin hevur atgongd til í samfelagnum.</s>
+            <s>Heldur ikki er greitt, hvørjar avleiðingar tað fær fyri borgarar, ið ikki lata seg koppseta, ella av aðrari orsøk ikki útvega sær koronupass.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place"> Løgtingi</name>, <br /><date when="2021-04-21">21. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
