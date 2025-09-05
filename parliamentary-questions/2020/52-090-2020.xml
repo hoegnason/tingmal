@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-90/2020: Fyrispurningur um at styrkja fyribyrgjandi arbeiðið hjá Gigni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-04" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/46196" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/90">
+        <pb n="1" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+
+        <space type="vertical" />
+        <space type="vertical" />
+
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
+        </div>
+        <space type="vertical" />
+        <div type="respondent">
+          <head rend="bold">Fyrispurningur um at styrkja fyribyrgjandi arbeiðið hjá <orgName>Gigni</orgName>, settur <persName ref="https://tingdata.fo/person/c5qwuztj"><roleName>r landsstýrismanninum við heilsumálum</roleName>, Kaj Leo Holm Johannesen</persName> (at svara skrivliga eftir TS § 52 a)</head>
+        </div>
+        <space />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørjar ætlanir hevur landsstýrismaðurin um at styrkja arbeiðið og tænastuna hjá <orgName>Gigni</orgName>?</item>
+            <item xml:id="q2" type="question-item">Vil landsstýrismaðurin virka fyri at menna samstarvið millum barnapsykiatriska økið og <orgName>Gigni</orgName>, so at <orgName>Gigni</orgName> m.a. kann ávísa børn beinleiðis til barnapsykiatriina?</item>
+            <item xml:id="q3" type="question-item">Vil landsstýrismaðurin virka fyri, at fyribyrgjandi arbeiðið í <orgName>Gigni</orgName> verður styrkt við t.d. sálarfrøðingum og sosialráðgevum tilknýttum, soleiðis at arbeiðið gerst meira tvørfakligt?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Heilsufrøðingarnir, sum starvast hjá <orgName>Gigni</orgName>, røkka sambært lóg øllum børnum og ungum í <placeName>Føroyum</placeName>.</s>
+            <s>Heilsufrøðingarnir arbeiða við heimavitjanum til allar smábarnafamiljur, við bólkavirksemi, evt. føðifyrireiking og veita tænastu til øll skúlabørn.</s>
+            <s>Heilsufrøðingarnir eru sostatt gjøgnumgangandi fakpersónar gjørnum barnaárini og ungdómslívið.</s>
+            <s>Arbeiðið í <orgName>Gigni</orgName> er styrkt seinnu árini við, at peningur er játtaður til at menna tilboð til børn millum 2 og 5 ár.</s>
+            <s>Gigni veitir nú eisini ættleiðingarráðgeving og ættleiðingarfyrireiking umframt, at lógin er broytt soleiðis, at møguleiki nú eisini er hjá heilsufrøðingum at veita heilsukanning og ráðgeving við inn- og útskúling.</s>
+            <s>Heilsufrøðingar arbeiða miðvíst við fyribyrging og heilsufremjan.</s>
+            <s>Somuleiðis er lagt upp til at avdúka møguligar heilsuvandar, trivnaðartrupulleikar og ymiskar avbjóðinagar tíðliga, og viðvirka til, at hjálp verður sett í verk um neyðugt.</s>
+            <s>Tað hevur nú eisini verið alment frammi, at eitt styrkt samstarv millum <orgName>Gigni</orgName> og barnapsykiatriina eisini hevði kunnað bøtt um støðuna við langari bíðitíð til barnapsykiatriina, við at lata møguleikan upp fyri beinleiðis ávísingarrætti til <orgName>Gigni</orgName> soleiðis, at tað m.a. ber til at ávísa børn og ung við akuttum trupulleikum.</s>
+            <s>Tað er ongin ivi um, at tað eru nógvir menningarmøguleikar á heilsufremjandi og fyribyrgjandi økinum við at knýta aðrar fakbólkar at arbeiðinum í primeru heilsutænastuni í <orgName>Heilsutrygd</orgName>.</s>
+            <s>Tað hevði givið rúm fyri skjótari og lættari atgongd til hjálp til barnafamiljur og børn og ung, og harvið eisini virkað meira fyribyrgjandi.</s>
+            <s>Tað svitast ikki, at fyribyrging og heilsufremjan er betri enn hjálp og viðgerð.</s>
+            <s>Hóast flest øll eru samd í hesum, so skerst ikki burtur, at nógv meira kann gerast á fyribyrgjandi økinum.</s>
+          </p>
+          <p>
+            <s>Fyribyrging og heilsufremjan má snúgva seg um at fremja trivnað, lívsgleði og góða heilsu.</s>
+            <s>Tað má m.a. taka støði í at meistra lívsins avbjóðingar, at styrkja felagsskapskensluna og felagsskapsandan.</s>
+            <s>Tað má geva børnum og ungum bestu grundkor, førleikar og eginleikar at trína út í lívið við.</s>
+            <s>Eg síggi ein vanda í, at rákið seinnu árini í stóran mun hevur snúð seg um at finna út av, hvat børnum feilar.</s>
+            <s>At screena og annað eftir, hvat børnini ikki megna, heldur enn at leita eftir, hvat børnini megna.</s>
+            <s>Harvið er ikki sagt, at trupulleikar ikki skulu avdúkast tíðliga; tað skulu teir, men at meginreglan verður at taka støði í, hvussu børn og ung trívast, meistra og mennast.</s>
+            <s>Eisini um tey hava ávísar avbjóðingar.</s>
+            <s>Okkum tørvar eitt nýtt heilsufremjandi og tvørfakligt perspektiv.</s>
+            <s>Tí hesir spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-02-24">24. februar 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
