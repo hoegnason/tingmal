@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-160/2020: Læknaviðurskiftini í Sandoynni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48066" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/160">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Læknaviðurskiftini í <placeName>Sandoynni</placeName></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er landsstýrismaðurin kunnugur við, at helvtin av læknavaktini í <placeName>Sandoynni</placeName> verður røkt av avloysarum?</item>
+            <item xml:id="q2" type="question-item">Er landstýrismaðurin kunnugur við, at læknar eru, sum ynskja at vera settir í fast starv í ósettu læknavaktini í <placeName>Sandoynni</placeName>?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýrismaðurin upplýsa, hvør orsøk er til, og hvør grundgeving er fyri, hví lækni ikki verður settur í helvtina av læknavaktini í <placeName>Sandoynni</placeName>, tá tøkir læknar eru til starvið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>At hava trygg og støðug læknaviðurskifti er av stórum týdningi.</s>
+            <s>Á leysu oyggjunum, har flutningur til sjúkrahúsini er avmarkaður um firðir og sund, er somikið meira týdningarmikið at hava støðug og álítandi læknaviðurskifti.</s>
+          </p>
+          <p>
+            <s>Í <placeName>Sandoynni</placeName> er ein lækni í føstum starvi, sum harvið fær møguleika at byggja upp tær relatiónir og tað innlit í fólksins heilsustøðu, sum er neyðugt.</s>
+          </p>
+          <p>
+            <s>Restin av læknavaktini verður røkt av skiftandi avloysarum.</s>
+            <s>Dugnaligir, men skiftandi læknar, sum verrar um kunnleikan, og eisini er merkt av innlits- og tíðarspilli, serliga fyri kronisku sjúklingarnar.</s>
+          </p>
+          <p>
+            <s>Undirritaði er vitandi um læknar, sum ynskja at vera settir í fast starv at røkja hina helvtina av læknavaktini í <placeName>Sandoynni</placeName>, men framhaldandi mugu sandoyingar og skúvoyingar finna seg í eini skipan við avloysarum.</s>
+            <s>Hettar er ikki í lagi, tá læknar finnast, sum hava áhuga í fastari starvssetan í <district type="medical">Sandoyar læknadømi</district>.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-03">3. juni 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

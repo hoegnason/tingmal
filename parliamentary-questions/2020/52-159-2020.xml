@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-159/2020: Um framferðina hjá Samherja</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48056" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/159">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um framferðina hjá Samherja</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Metir løgmaður, at <orgName>FAS-skipanin</orgName> er misnýtt til at gjalda hýrur til namibiskar fiskimenn ?</item>
+            <item xml:id="q2" type="question-item">Høvrjar viðmerkingar hevur løgmaður til, at <orgName>Samherji</orgName> hevur goldið 17 mió. kr. til <orgName>TAKS</orgName>, tá ið málið kom alment fram ?</item>
+            <item xml:id="q3" type="question-item">Kann løgmaður veita vissu fyri, at ásetingarnar í <name type="law">sjófeingislógini</name> um útlendskan ognarskap í fiskivinnuni eru hildnar ?</item>
+            <item xml:id="q4" type="question-item">Ætlar løgmaður at taka stig til at gera nærri kanningar av málinum ?</item>
+            <item xml:id="q5" type="question-item">Hvat heldur løgmaður um framferðarháttin hjá <orgName>Samherja</orgName>, nú tað er komið fram, at føroysk fjølmiðlafólk eru fyri ágangi.</item>
+            <item xml:id="q6" type="question-item">Hvat heldur løgmaður um, at <orgName>Samherji</orgName> boðaði frá, at felagið hevði fingið váttan frá stjóranum í <orgName>TAKS</orgName> um, at <orgName>TAKS</orgName> ikki kannaði málið ?</item>
+            <item xml:id="q7" type="question-item">Heldur løgmaður, at framferðarhátturin eigur at fáa avleiðingar fyri felagið ?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er komið alment fram, at <orgName>Samherji</orgName> hevur flutt hýrur til útlendskar fiskimenn gjøgnum føroysku <orgName>FAS skipanina</orgName> vísandi til, at teir vóru við farmaskipi, og at <orgName>Samherji</orgName> av sínum eintingum flutti <orgName>TAKS</orgName> 17 mió. kr., tá ið málið kom alment fram.</s>
+            <s>Hetta undrar stórliga og gevur høvi at seta viðkomandi spurningar.</s>
+            <s>Føroyska <name type="law">sjófeingislógin</name> hevur greiðar ásetingar um ognarviðurskiftini í fiskivinnuni, og vísandi til, at <orgName>Samherji</orgName> er í tøttum samstarvi við føroyskt felag, er spurningurin, um hesar ásetingar eru hildnar.</s>
+            <s>Samstundis undrar tað, at tíðindaleiðarin í <orgName>Kvf</orgName> vísir á, at fjølmiðlafólk eru fyri ágangi frá <orgName>Samherja</orgName>, og at <orgName>Samherji</orgName> boðaði frá, at stjórin í <orgName>TAKS</orgName> hevði váttað, at eingin kanning var í gongd.</s>
+            <s>Nakað sum seinni varð avsannað av stjóranum.</s>
+            <s>Samanumtikið tykist málið fløkt og álvarsamt, og spurningurin er, um løgmaður sum ovasti politiski myndugleiki metir tað vera neyðugt at gera eina gjølliga kanning av samlaða málinum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-31">31. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

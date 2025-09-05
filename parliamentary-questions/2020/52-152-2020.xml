@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-152/2020: Koppseting</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48008" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/152">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen, <roleName>løgmaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Koppseting</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur løgmaður, at tað ber til at hava ein landsstýrismann, sum gongur ímóti tilmælunum frá heilsumyndugleikanum og landsstýrinum um at lata seg koppseta?</item>
+            <item xml:id="q2" type="question-item">Heldur løgmaður, at útmeldingin hjá <persName><roleName>landsstýrismanninum</roleName>, Jenisi av Rana</persName>, kann fáa óhepnar fylgjur fyri koppsetingartilgongdina?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><persName>Jenis av Rana, <roleName>landsstýrismaður</roleName></persName>, segði við Vágaportalin í gjár, at hann fer ikki at lata seg koppseta fyri koronu.</s>
+            <s>Óvissurnar eru ov nógvar, og hann kennir seg ikki nóg tryggan, sigur hann.</s>
+            <s>Hesin sami landsstýrismaður hevur sjálvur staðið á beinleiðis sjónvarpaðum tíðindafundum, har landsstýrið hevur stongt <placeName>Føroyar</placeName> fyri at verja fólkið móti koronu.</s>
+            <s>Hetta hevur verið dýrt peningaliga og menniskjaliga - ikki minst fyri tey mongu eldru, sum hava sitið avbyrgd í langa tíð.</s>
+          </p>
+          <p>
+            <s>Tilmælini frá heilsumyndugleikunum eru greið.</s>
+            <s>Skulu vit basa koronu og fáa okkara frælsi aftur er neyðugt, at vit koppseta okkum, so vit sum samfelag fáa floksimmunitet.</s>
+          </p>
+          <p>
+            <s>Sambært serfrøðini er altíð ein váði við koppsetingum, men váðin er lítil.</s>
+            <s>Og nú tá tey gomlu, sjúku og veiku hava latið seg koppsett og ofrað sítt fyri felagsskapin, so kemur landsstýrismaðurin sum ketta úr høvdatrog og sigur teimum, at tað, tey hava gjørt, er so mikið vandamikið, at hann sjálvur ikki ætlar at gera tað sama.</s>
+            <s>Hann hevur ongar ætlanir um at ofra seg sjálvan fyri felagsskapin.</s>
+          </p>
+          <p>
+            <s>Sambært okkara heilsumyndugleikum og heimsheilsustovninum <orgName>WHO</orgName> er vandin at doyggja ella verða raktur av langtíðarárinum av koronu nógvar ferðir størri enn ein teoretiskur møguleiki fyri at fáa álvarsom langtíðarárin av koppseting.</s>
+          </p>
+          <p>
+            <s>Um fólk gera eins og landsstýrismaðurin ger, høvdu kostirnir verið tvinnir.</s>
+            <s>Annaðhvørt avbyrging av okkara veikastu og ógvusligum stongsli av samfelagnum í nógv ár, ella latið koronusmittuna ferðast frítt í samfelagnum við teimum ógvusligu fylgjum, sum tað nú einaferð hevði havt.</s>
+            <s>Avgerðin hjá landsstýrismanninum - og at hann boðar frá henni alment - ger sjálvandi, at onnur kunnu fara at aftra seg við koppseting.</s>
+          </p>
+          <p>
+            <s>Her er ein landsstýrismaður, ið beinleiðis gongur móti tilmælum, sum okkara og alheimsserfrøðin innan heilsuøkið mælir til.</s>
+            <s>Við síni útmelding gongur landsstýrismaðurin ímóti tilmælunum hjá bæði serfrøðini og landsstýrinum sjálvum.</s>
+          </p>
+          <p>
+            <s>Tí hesar spurningar til løgmann.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-20">20. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

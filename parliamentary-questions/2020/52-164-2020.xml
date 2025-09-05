@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-164/2020: Makrelkvotur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48096" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/164">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Makrelkvotur</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat grundarlag verður nýtt fyri at býta nýggju makrelkvoturnar, tey 60.000 tonsini?</item>
+            <item xml:id="q2" type="question-item">Fer landsstýrismaðurin at luta út kvotur til viðkomandi fiskivinnuverkætlanir í <placeName>Sandoynni</placeName>, <placeName>Norðstreymoy</placeName> og <placeName>Suðurstreymoy</placeName>, nú kvotupartur okkara av makrelinum hækkar?</item>
+            <item xml:id="q3" type="question-item">Um ikki, við hvørjum grundgevingum velur landsstýrismaðurin ikki at geva áðurnevndu økjum ein møguleika at menna vinnuvirksemi grundað á nýggja tilfeingið av makreli?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrismaðurin í fiskivinnumálum hevur boðað frá, at makrelkvoturnar verða hækkaðar, nú eingin strandalandasemja er í eygsjón í ár.</s>
+          </p>
+          <p>
+            <s>Harvið áseta strandalondini sína egnu kvotu, og taka ikki hædd fyri tilmælunum frá ráðgevandi fiskifrøðini.</s>
+          </p>
+          <p>
+            <s>Fyri <placeName>Føroyar</placeName> merkir tað, at nýtt tilfeingi svarandi til 60.000 tons, ella eitt avreiðingarvirði á oman fyri 300 mió.kr. afturat, verður tøkt hjá føroyskari fiskivinnu at fiska.</s>
+          </p>
+          <p>
+            <s>Rættindini til havsins ríkidømi eru landsins ogn, og sum er verða tey býtt sera ymiskt millum landsins øki.</s>
+          </p>
+          <p>
+            <s>Serliga loypir í eygað <placeName>Sandoyggin</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>, sum ikki hava fingið sín rímiliga lut av tilfeinginum.</s>
+            <s>Hetta kann vera óheppið fyri hesi øki, havandi í huga, at vit øll eiga fiskin, sum í havi okkara svimur.</s>
+          </p>
+          <p>
+            <s>Nú er eitt gylt høvi hjá landsstýrismanninum at menna uppsjóvarfiskiskap í <placeName>Sandoynni</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>; tí hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-11">11. juni 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

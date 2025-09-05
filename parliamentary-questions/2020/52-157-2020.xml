@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-157/2020: Felags móttøkustøð av fløskum og øðrum íløtum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48044" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/157">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Felags móttøkustøð av fløskum og øðrum íløtum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin nakra ætlan um at endurskoða <title type="regulation"><seg type="doc-type">kunngerðina</seg> <idno>nr. 54</idno> um íløt, úrdrátt og pant frá <date when="2007-05-31">31. mai 2007</date></title>?</item>
+            <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin, at skipanin við fløskuinnsavnan virkar fullvæl í dag, og metir hann, at hon tekur atlit at brúkarunum?</item>
+            <item xml:id="q3" type="question-item">Tekur landsstýrismaðurin undir við at fáa eina felags móttøkuskipan fyri fløskur, og at hesar móttøkuskipanir verða skipaðar kring landið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ein sannroynd, at jú lættari man sum borgari kann sleppa av við rusk, tómar fløskur og íløt v.m., jú meiri fyribyrgir man, at hetta endar úti í náttúruni.</s>
+            <s>Borgarar gera javnan vart við, hvussu lítið brúkaravinarlig fløskumóttøkuskipanin er í <placeName>Føroyum</placeName>, at man er noydd/noyddur at renna frá "Peri til Pól" fyri at sleppa av við fløskurnar.</s>
+            <s>Soleiðis sum skipanin er sett saman taka teir handlar, ið hava eina fløskumóttóku bert ímóti fløskum, sum handilin sjálvur seluruh.</s>
+            <s>Úrslitið av hesum er, at antin verða fløskurnar settar uttan fyri fløskumóttøkuna, í øðrum lagi koyrdar á Brennistøðina og í triðja og ringasta føri enda tær úti í náttúruni.</s>
+            <s>Skilagott hevði verið at fingið eina brúkaravinarliga skipan, har borgarin kann lata allar sínar fløskur og íløt inn á einum stað.</s>
+            <s>Tí verða hesir spuringar settir landsstýrismanninum.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-28">28. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

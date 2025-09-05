@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-170/2020: Um at góðskutryggja avgerðir í barnarverndarmálum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48158" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/170">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Um at góðskutryggja avgerðir í barnarverndarmálum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Í hvønn mun verða avgerðir, tiknar av Høvuðsbarnaverndarnevndini um at seta børn heiman, eftirmettar ella endurmettar – hvussu ofta og av hvørjum?</item>
+            <item xml:id="q2" type="question-item">Verður nøkur óheft dygdarmeting, eftirkanning ella stakroynd av barnaverndarmálum gjørd, fyri at tryggja, at skipanin virkar nóg væl, og at tiknu avgerðirnar altíð eru gjørdar á nóg dyggum grundarlag?</item>
+            <item xml:id="q3" type="question-item">Í hvønn mun fáa foreldur, sum hava fingið frátikið børn síni, møguleika fyri hjálp og stuðli til at fáa samskifti og samband við fosturforeldur og við barnaverndartænastuna at virka væl - til dømis hjálp at mekla og handfara konfliktir?</item>
+            <item xml:id="q4" type="question-item">Hevur landsstýrismaðurin nakra ætlan um at uppraðfesta barnaverndarøkið og at gera broytingar í barnarverndarlóggávuni - og um ja, hvørjar broytingar verður talan um?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært seinastu ársfrágreiðing hjá Løgtingisins umboðsmanni eru nógvar klagur um viðgerð av barnaverndarmálum.</s>
+            <s>Løgtingslóg um barnavernd hevur sum endamál ”at tryggja, at børn, sum liva undir viðurskiftum, ið kunnu skaða teirra heilsu og menning, fáa neyðuga hjálp og umsorgan í rættari tíð, og at hjálpa teimum við at fáa ein tryggan uppvøkstur.”</s>
+          </p>
+          <p>
+            <s>Á leið 120 børn í Føroyum eru umsorgarnaryvirtikin, flestu teirra sett til fosturs og nøkur á stovni.</s>
+            <s>Við hvørt kunnu umstøðurnar vera so álvarsamar, at tað, at taka barnið heiman, er einasta loysnin.</s>
+            <s>Samstundis er umráðandi, at myndugleikin ger alt, sum gerast kann, fyri at veita ta hjálp og tann stuðul, sum skal til, fyri at børnini kunnu vaksa upp hjá foreldrum sínum í teimum førum, har tað er ráðiligt og best fyri barnið, eisini í einum longri høpi.</s>
+          </p>
+          <p>
+            <s>Føroyar hava eina væl útbygda barnaverndartænastu, sum setir tað, tey meta vera barnsins besta, fremst.</s>
+            <s>Tá børn verða tikin heiman, er tað ein avgerð, ið fær heilt grundleggjandi ávirkan á barnsins lív, uppvøkstur og framtíð.</s>
+            <s>Og at missa børn síni, tí hesi verða umsorgarnaryvirtikin, man uttan iva vera eitt hitt mest skakandi og ógvusliga, sum ein familja kann uppliva.</s>
+          </p>
+          <p>
+            <s>Barnsins besta má og skal altíð setast fremst.</s>
+            <s>Tí er neyðugt at tryggja, at allar avgerðir um at seta børn heiman eru rættar og byggja á so holt grundarlag, sum yvirhøvur til ber.</s>
+            <s>Samstundis má skipanin rúma teirri ófatiligu frustrasjón og sorg, sum foreldur, ið verða frátikin børn síni, uppliva.</s>
+            <s>Í slíkum førum kann samskifti vera trupult, og tvørrandi samskifti kann gera støðuna verri bæði fyri børnini og foreldrini.</s>
+            <s>Barnaverndarmyndugleikin hevur tí eisini ábyrgd av at fáa samskiftið við foreldrið/foreldrini og millum hesi og fosturforeldrini at ganga so væl, sum til ber alt til barnsins besta.</s>
+          </p>
+          <p>
+            <s>Talan er um eym og viðbrekin mál, har rúm ikki er fyri skeivum avgerðum.</s>
+            <s>Tí er tað eisini umráðandi, at politiski myndugleikin tryggjar, at skipanin hevur nóg nógvar resursir til at virka so væl, sum yvirhøvur ber til.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-23">23. juni 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

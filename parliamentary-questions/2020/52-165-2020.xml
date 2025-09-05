@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-165/2020: Stuðulsskipan og markamót</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/48105" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/165">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttir, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Stuðulsskipan og markamót</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu nógvir borgarar hava mist stuðulin frá <orgName>Almannaverkinum</orgName> seinasta árið orsakað av, at tey eru vorðin 67 ár?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvir borgarar, 67 ár og eldri, fáa stuðul frá <orgName>Almannaverkinum</orgName>?</item>
+            <item xml:id="q3" type="question-item">Er ein ávís mannagongd fyri, nær stuðulin ikki verður veittur, eftir ein er vorðin 67 ár, og verður ein ítøkilig meting gjørd og kunnað fyri borgaranum ?</item>
+            <item xml:id="q4" type="question-item">Er tað møguligt hjá kommununum at gera avtalu við <orgName>Almannaverkið</orgName> um framhaldandi stuðulstænastu til borgarar yvir 67 ár móti gjaldi?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í viðmerkingunum til uppskot um broyting í lóg um eldrarøkt og heimatænastu v.m. (tingmál nr. 081/2019) verður sagt, at kommunurnar hava ábyrgd av heimatænastuni, meðan landið hevur ábyrgdina av stuðulstænastuni.</s>
+          </p>
+          <p>
+            <s>Heimatænastan er ikki aldurstreytað og fevnir um heimahjálp og sjúkrarøkt.</s>
+            <s>Stuðulstænastan er stovnsett at stuðla borgarum millum 18 og 66 ár, sum eru rørslutarnaðir ella hava avmarkaðan sálarligan førleika, so hesi hava møguleika at liva eitt sjálvstøðugt og virkið lív.</s>
+          </p>
+          <p>
+            <s>Í almennu viðmerkingunum verður víðari sagt: «Stuðulin kann halda áfram, eftir at borgarin er vorðin 67 ár, um viðkomandi framvegis fær gagn av stuðlinum og hevur møguleika at liva eitt sjálvstøðugt og virkið lív.»</s>
+          </p>
+          <p>
+            <s>Í løgtingslóg um almannatrygd og tænastur § 5 stk. 2 verður ásett: «Hóast ásetingina í stk. 1 kann persónur í fólkapensjónsaldri, ið er fevndur av løgtingslóg um heimatænastu, eldrarøkt v.m., framhaldandi fáa tænastu sambært hesi løgtingslóg, um endamálið við tænastuni framhaldandi verður rokkið.»</s>
+          </p>
+          <p>
+            <s>Tað ljóðar, at borgarar uppliva, at tá ið tey fylla 67 ár, so heldur tænastan uppat, uttan at borgarin hevur fingið eina meting av, um hann framhaldandi kann fáa gagn av stuðlinum og harvið møguleika at liva eitt sjálvstøðugt og virkið lív, ið hann hevði møguleika til, meðan hann hevði stuðulin.</s>
+          </p>
+          <p>
+            <s>Borgarin stendur sostatt uttan stuðul og hevur bert møguleika at fáa eina sera avmarkaða heimahjálp, ið ikki hevur sama endamál sum stuðulin, ið viðkomandi fekk, áðrenn hann var fyltur 67 ár.</s>
+            <s>Fyri at fáa svarað, hvussu ásetingin í lógini um almannatrygd og tænastur og viðmerkingarnar í lógini um heimatænsatu, eldrarøkt v.m. verða útintar í praksis, verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-15">15. juni 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
