@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-142/2020: Leið 400 hjá Standferðsluni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47896" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/142">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head><name type="route">Leið 400</name> hjá <orgName>Standferðsluni</orgName></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin kannað, hvør grundgevingin er fyri, at <orgName>SSL</orgName> velur at økja túratalið úr <placeName>Klaksvík</placeName> gjøgnum <placeName type="tunnel">Eysturoyartunnilin</placeName> og til <placeName>Havnar</placeName> úr eina ferð til tvær ferðir um dagin, heldur enn at brúka tey uppskot til broytta ferðaætlan, ið borgarar hava sent inn til stovnin?</item>
+            <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin broyttu ferðaætlanina vera nøktandi?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýrismaðurin vátta, at tær umleið 2 mió. kr., ið <orgName>Løgtingið</orgName> júst hevur játtað til hesa farleið, verða brúktar til endamálið?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Eftir at <orgName>Strandfaraskip Landsins</orgName> hevur broytt ferðaætlan í sambandi við, at <placeName type="tunnel">Eysturoyartunnilin</placeName> lat upp, hava fleiri borgarar í <placeName>Norðoyggjum</placeName> og <placeName>Eysturoynni</placeName> víst á, at leiðin millum <placeName>Klaksvík</placeName> og <placeName>Havnina</placeName> (<name type="route">leið 400</name>) broyttist til tað verra.</s>
+            <s>87 borgarar sendu inn hoyringarskriv um ætlaðu broytingarnar um ein túr um dagin gjøgnum <placeName type="tunnel">Eysturoyartunnilin</placeName>.</s>
+          </p>
+          <p>
+            <s><orgName>Løgtingið</orgName> hevur júst játtað umleið 2 mió. kr. í eykajáttan til júst somu farleið, við tí endamáli at tað skuldi gerast smidligari at ferðast millum økini við almennari ferðslu.</s>
+            <s>Nú nýggj ferðaætlan enn eina ferð er gjørd sæst, at túratalið um morgunin bara er økt við einum einkultum túri úr <placeName>Klaksvík</placeName> til <placeName>Havnar</placeName>, og einum túri seinnapart úr <placeName>Havn</placeName> til <placeName>Klaksvíkar</placeName>.</s>
+            <s>Fyri tey, ið arbeiða norðanfyri, er framvegis bara ein túrur á morgni.</s>
+            <s>Ynskja fólk at ferðast millum <placeName>Havn</placeName> og <placeName>Klaksvík</placeName> aðrar tíðir gjøgnum <placeName type="tunnel">Eysturoyartunnilin</placeName>, noyðast tey ikki bara at skifta buss eina ferð, men tvær ferðir.</s>
+          </p>
+          <p>
+            <s><name type="route">Leið 400</name> hevur higartil verið tann leiðin, ið hevur flutt nógv flest ferðafólk.</s>
+            <s>Við broyttu ferðaætlanini er vandi fyri, at munandi færri ferðandi fara at brúka leiðina, og tí vil undirritaða hava at vita, um landsstýrismaðurin heldur, at hesar broytingar eru á einum nøktandi tænastustøði fyri almennan ferðafólkaflutning.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-05">5. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
