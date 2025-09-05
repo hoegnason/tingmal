@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-139/2020: Tørvurin á rehabilitering í Føroyum - almannaøkið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47890" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/139">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tørvurin á rehabilitering í <placeName>Føroyum</placeName> - almannaøkið</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu stórur er samlaði tørvurin í <placeName>Føroyum</placeName> á rehabilitering á almannaøkinum árliga, t.d. í 2020, býtt á málbólkar ella slag av sjúkum, t.v.s. sjúklingar, sum eru í skipanini?</item>
+            <item xml:id="q2" type="question-item">Hvussu nógvir sjúklingar fáa í løtuni onga rehabiliteringsviðgerð ella standa á bíðilista, og hvat slag av sjúkum er talan um?</item>
+            <item xml:id="q3" type="question-item">Hvussu er uppgávubýtið í <orgName>Almannaverkinum</orgName>, t.v.s. hvat slag av rehabilitering er á ymsu økjunum, hvussu nógvar sjúklingar er talan um, og hvør samskipar verandi rehabiliteringsinnsats?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv verður útgoldið av peningi til teir bólkar, sum orsakað av vantandi endurmenning ikki kunnu vera fult ella partvís virkandi aftur á arbeiðsmarknaðinum?</item>
+            <item xml:id="q5" type="question-item">Ætlar landsstýrismaðurin at arbeiða fyri, at øll rehabilitering í <placeName>Føroyum</placeName> verður skipað í ein depil?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað eru nógvir føroyingar, sum hava tørv á rehabilitering.</s>
+            <s>Rehablitering byggir á ta fortreyt, at talan er um viðgerð í longri tíðarskeið.</s>
+            <s>Sjúkralegur í styttri tíðarskeið krevja ikki tað sama av avvarðandi, arbeiðsbyrða og familjulív - ein læknafaklig meting.</s>
+          </p>
+          <p>
+            <s>Rehabilitering verður umrøtt oftani, men uttan at vit hava nakað neyvt yvirlit yvir, hvør veruliga støðan og tørvurin er á rehabilitering.</s>
+            <s>Harafturat liggur innsatsurin spjaddur kring landið, nøkur økið uppraðfest onnur ikki o.a. Í løtuni sær út til, at játtanir verða stroyddar út til einstøk tilboð og sjúkrahús - uttan neyðugu samskipanina og brúkaran í fokus.</s>
+          </p>
+          <p>
+            <s>Rehabilitering í <placeName>Føroyum</placeName> virkar ikki sum ein samanhangandi tvørfaklig skipan, har rættindi og skyldur hjá borgarunum eru tryggjað fyri at kunna virka aftur í gerandisdegnum.</s>
+            <s>Skipanin er í løtuni pettað sundur í ymiskar skipanir og tí er ikki gjørligt at gera fullfíggjaðar rehabiliteringsætlanir.</s>
+            <s>Avleiðingin er, at borgarar, sum gerast álvarsliga sjúkir, detta niðurímillum - fáa ikki nøktandi samskipandi tænastur.</s>
+          </p>
+          <p>
+            <s>Rehabilitering fyrigongur bæði á heilsuøkinum og almannaøkinum, og tí hevur landsstýrismaðurin í heilsumálum fingið ein fyrispurning um sama evnið.</s>
+          </p>
+          <p>
+            <s>Tað er ikki gjørligt í løtuni neyvt at lýsa tørvin á rehabilitering í Føroyum, t.d. býtt upp á málbólkar, sjúkuslag ella geografiskt, og tað, sum ikki verður skrásett, ber ikki til at stýra.</s>
+            <s>Tað er altavgerandi at vita, hvør tørvurin er og út frá tí skipa okkum best møguligt, geva bestu tænasturnar, kostnaðareffektivt og við borgaranum í fokus.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-05">5. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

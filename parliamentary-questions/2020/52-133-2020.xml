@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-133/2020: Troling innanfyri 12 fjórðingar og støðan í útróðrarflotanum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47759" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/133">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Troling innanfyri 12 fjórðingar og støðan í útróðrarflotanum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat er orsøkin til, at landsstýrismaðurin nú ætlar at loyva trolarum inn um 12 fjórðingar at kappast við útróðurin í eitt munandi longri tíðarskeið enn í dag?</item>
+            <item xml:id="q2" type="question-item">Metir landsstýrismaðurin, at hetta er í samsvari við umsitingarætlanina, ið skal tryggja burðardygga veiðu?</item>
+            <item xml:id="q3" type="question-item">Kann landsstýrismaðurin greiða nærri frá, hví royndarverkætlanin millum aktørar í bólki 4T, <orgName>Faroe Island Sustainable Fishing (FISF)</orgName> og <orgName>Havstovuna</orgName>, ið skuldi vera 3 ár, ikki er grundarlag fyri kunngerðarbroytingini longur ?</item>
+            <item xml:id="q4" type="question-item">Kann landsstýrismaðurin útgreina, hví kunngerðin skal lýsast við einum lívfrøðiligum grundarlag frá <orgName>Havstovuni</orgName> 12. januar, tá ið Fiskivinnuráðið, ið umboðar vinnuna, talar ímóti?</item>
+            <item xml:id="q5" type="question-item">Kann landsstýrismaðurin vátta, at <orgName>Havstovan</orgName> ynskir hesa kunngerð lýsta?</item>
+            <item xml:id="q6" type="question-item">Kann landsstýrismaðurin upplýsa, hvussu nógv hoyringarskriv viðmæla og mótmæla kunngerðini?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><orgName>Meginfelag Útróðrarmanna</orgName> óttast, at avleiðingin av at loyva trolbátunum inn um 12 fjórðingar fer at troka útróðrarbátarnar burtur og harvið leggja stein oman á byrðu hjá útróðrarflotanum.</s>
+            <s>Henda ætlan økir um vandan fyri, at útróðurin fer fyri bakka.¹</s>
+          </p>
+          <p>
+            <s>Ein onnur avleiðing er, at veiðitrýstið økist, og smærru útróðrarbátarnir verða trýstir nærri landi.</s>
+            <s>Hetta kann hava óhepnar avleiðingar fyri ungfiskin.</s>
+            <s>Hetta er ikki í samsvari við umsistingarætlanina, ið skal tryggja burðardygga veiðu, ið øll skipanin er samd um.</s>
+          </p>
+          <p>
+            <s>Viðurskiftini hjá útróðrarflotanum eru alt annað enn góð.</s>
+            <s>Eingin hjálparpakki var til útróðrarflotan, tá ið fiskaprísirnir fóru í botn orsakað av koronu.</s>
+            <s>Útróðrarflotin kom heldur ikki upp í part, tá ið makrelurin varð útlutaður.</s>
+          </p>
+          <pb n="2" />
+          <p>
+            <s>Heldur enn at gera ilt verri hjá útróðrarflotanum, átti samgongan at havt fokus á, hvussu vit kunnu hjálpa útróðrarflotanum at fóta sær aftur, nú koronukreppan er um at hæsa av.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-26">26. apríl</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

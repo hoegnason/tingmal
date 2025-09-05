@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-134/2020: Danska ríkisveitingin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/x3h42snu">Tórbjørn Jacobsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47815" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/134">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/x3h42snu">Tórbjørn Jacobsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarmálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Danska <term>ríkisveitingin</term></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu rúgvismikil var danska <term>ríkisveitingin</term> í krónum áðrenn skorið varð í hana pr. <date when="2002-01-01">1. januar 2002</date>, og hvussu stórur partur, lutfalsliga, var danska <term>ríkisveitingin</term> tá av løgtingsfiggjarlógini og av føroysku <term>bruttotjóðarúrtøkuni</term>?</item>
+            <item xml:id="q2" type="question-item">Hvussu stórur partur, lutfalsliga, var danska <term>ríkisveitingin</term> av løgtingsfíggjarlógini og av føroysku <term>bruttotjóðarúrtøkuni</term> í <date when="2003">2003</date>?</item>
+            <item xml:id="q3" type="question-item">Hvussu stórur partur var danska <term>ríkisveitingin</term>, lutfalsliga, av løgtingsfiggjarlógini og føroysku <term>bruttotjóðarúrtøkuni</term> tað seinasta árið, vit hava eina endaliga uppgerð fyri hesa seinru?</item>
+            <item xml:id="q4" type="question-item">Hvussu rúgvismikil hevði danska <term>ríkisveitingin</term> verið í krónum nú, um ongin broyting varð gjørd henni viðvíkjandi yvirhøvur síðan ár <date when="2000">2000</date>, og hvussu stórur partur hevði hon tá verið, lutfalsliga, av løgtingsfiggjarlógini og <term>bruttotjóðarúrtøkuni</term>?</item>
+            <item xml:id="q5" type="question-item">Hvørjar høvdu tær fíggjar- og búskaparligu avleiðingarnar verið, um tað, sum nú er eftir av donsku <term>ríkisveitingini</term>, hevði verið laðað niður við einum fjórðingi hvørt árið í 2022, 2023, 2024 og 2025, soleiðis at danska <term>ríkisveitingin</term> ikki longur var ein partur av føroyska búskapinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ivaleyst eru tað fleiri politiskar orsakir og stjórnmálslig áhugamál, ið liggja undir hesum fyribrigdi, at føroyski landskassin úr danska ríkiskassanum fær fluttar fleiri hundraðtals milliónir krónur um árið til føroyska landshúsarhaldið.</s>
+            <s>Hesir spurningar eru ikki settir fyri at fáa politisk ella partapolitisk svar.</s>
+          </p>
+          <p>
+            <s>Spurningarnir eru settir av búskaparfrøðiligum áhuga.</s>
+            <s>Refusiónsskipanir og seinri <term>ríkisveiting</term> vuksu ár undan ári fram til tann dagin ein samgonga og landsstýri hennara, fyrst í hesari øldini, valdi at minka munandi um árligu upphæddina í einvegis ferðsluni millum kassarnar báðar.</s>
+          </p>
+          <p>
+            <s>Danska <term>ríkisveitingin</term> varð skorin við 366 milliónum krónum í <date when="2002">2002</date>.</s>
+            <s>Borgarar okkara eiga at fáa politiskt og partapolitiskt ólitað svar á spurningin, um hvør støðan var áðrenn niðurskurin, eftir niðurskurin, seinast bruttotjóðarúrtøkan var uppgjørd, hvør støðan í dag hevði verið, um ríkisveitingin ongantíð varð skorin og danska prístalsviðgerðin ongantíð varð steðgað.</s>
+            <s>Tað er eisini umráðandi, at seinasta svarið er eitt búskaparfrøðiligt svar, har mett verður um fíggjar- og búskaparligu avleiðingarnar av at skerja donsku ríkisveitingina burtur eftir 4 árum frá 2022 til og við 2025.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-28">28. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/x3h42snu">Tórbjørn Jacobsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

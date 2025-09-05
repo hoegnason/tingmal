@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-138/2020: Heimasíða hjá Visit Faroe Islands</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47875" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/138">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heimasíða hjá <orgName>Visit Faroe Islands</orgName></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Fer landsstýrismaðurin at seta í verk eina kanning sum vísir, hvussu tann almenna síðan www.bygdagotur.fo er gjørd, soleiðis at staðfestast kann, um ákærurnar um kopiering, framd av einum almennum stovni, hava hald í veruleikanum ella ikki?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í <title type="tv-program">Degi &amp; Viku</title> <date when="2021-03-26">26. mars 2021</date> var eitt innslag um nýggju heimasíðuna www.bygdagotur.fo hjá <orgName>Visit Faroe Islands</orgName>.</s>
+            <s>Har var millum annað greitt frá, at henda heimasíða er eitt kopi av heimasíðuni hjá einum íverksetara, www.hikewithpol.fo.</s>
+          </p>
+          <p>
+            <s>Tá ein hyggur at hesum heimasíðum skerst ikki burtur, at tær líkjast nógv.</s>
+            <s>Her er talan um ein persón, sum hevur nýtt sera nógva tíð og orku til at menna sína síðu, og tað er álvarsamt, um ein almennur stovnur ikki bara kappast móti eini lítlari privatari fyritøku við almennum pengum, men enntá ger tað við at kopiera tað, sum tann lítla fyritøkan hevur framleitt og eigur.</s>
+          </p>
+          <p>
+            <s>At hetta er tað, sum er hent, varð afturvíst av <orgName>Visit Faroe Islands</orgName> í <title type="tv-program">Degi &amp; Viku</title> <date when="2021-03-26">26. mars 2021</date>.</s>
+            <s>Men í tí stutta innslagnum bar ikki til at lýsa nakað ella leggja prógv fram.</s>
+            <s>Tí endaði tað sum pástandur móti pástandi.</s>
+          </p>
+          <p>
+            <s>Tað skuldi kortini verið lætt at funnið útav, hvør hevur rætt.</s>
+            <s>Tað ber til at kanna og lýsa, hvussu tann almenna síðan er gjørd og sammeta hana við ta privatu síðuna.</s>
+            <s>Tað er óheppið, at ein almennur stovnur er undir illgruna fyri at hava kopierað hugskot og tilfar hjá eini privatari fyritøku.</s>
+            <s>At ákærurnar og illgrunin um hetta framvegis hanga í luftini er til skaða fyri allar partar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Tórshavn</name>, <br /><date when="2021-05-04">4. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
