@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-100/2020: Fyrispurningur um lýsingaherferð fyri at fáa føroyingar at brúka danska NemID heldur enn føroyska talgilda samleikan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/46995" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/100">
+        <div type="questioner">
+          <head rend="bold">
+            <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+
+        <space type="vertical" />
+        <space type="vertical" />
+
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
+        </div>
+        <space type="vertical" />
+        <div type="respondent">
+          <head rend="bold">Fyrispurningur um lýsingaherferð fyri at fáa føroyingar at brúka danska <term>NemID</term> heldur enn føroyska talgilda samleikan, settur <persName ref="https://tingdata.fo/person/yt2jgtfq"><roleName>løgmanni</roleName>, Bárði á Steig Nielsen</persName> (at svara skrivliga eftir TS § 52 a)</head>
+        </div>
+        <space />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur Føroya løgmaður góðkent, at Føroya fólk verður eggjað til og vegleitt til at fáa sær ta donsku <term>NemID-skipanina</term>?</item>
+            <item xml:id="q2" type="question-item">Hevur Føroya løgmaður ta støðu, at føroyska fólkið skal velja sær tað danska <term>NemID</term>, heldur enn føroyska <orgName>Samleikan</orgName>, (tann talgildi samleikin) sum <orgName>Løgtingið</orgName> hevur samtykt og játtað pening til?</item>
+            <item xml:id="q3" type="question-item">Hvørja avleiðing kann tað fáa fyri menningina av føroyska <orgName>Samleikanum</orgName>, (tann <term>talgildi samleikin</term>) um Føroya fólk velur at brúka tað danska <term>NemID</term>?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv hava føroyskir peningastovnar, føroyska samfelagið og vanligir føroyingar fingið í inntøku av, at tað danska <orgName>NETS</orgName>, ið eisini umsitur øll gjaldkort og gjaldingar hjá føroyska fólkinum, nú er selt til eitt amerikanskt felag fyri meira enn 20 milliardir krónur?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í føroyskum miðlum eru í hesum døgum lýsingar frá <orgName>Sambandsflokkinum</orgName>, sum eggja Føroya fólki at fáa sær ta donsku <term>NemID-skipanina</term>, sum danskir myndugleikar og peningastovnar brúka.</s>
+          </p>
+          <p>
+            <s>Føroya løgmaður hevur ábyrgd av at útinna <orgName>Løgtingsins</orgName> lógir og vilja; og <orgName>Løgtingið</orgName>, umframt undanfarna landsstýri og núsitandi landsstýrismaður í fíggjarmálum, hava lagt stóra orku í at menna, fíggja og fáa føroyingar at brúka tann føroyska talgilda samleikan, sum eitur <orgName>Samleikin</orgName>.</s>
+          </p>
+          <p>
+            <s>Tí verður spurt, hvørt løgmaður tekur undir við at eggja fólki til at velja ta donsku skipanina.</s>
+            <s>Og hvørjar avleiðingar hann heldur tað hava fyri føroyska <orgName>Samleikan</orgName>, sum <orgName>Løgtingið</orgName> hevur samtykt.</s>
+          </p>
+          <p>
+            <s>Eisini verður spurt, hvønn fyrimun løgmaður heldur tað hava fyri <placeName>Føroyar</placeName>, at peningaupplýsingar hjá øllum vanligum føroyingum við gjaldkortum og flytingum, sum hava ligið í teirri donsku fyritøkuni <orgName>NETS</orgName>, nú saman við <orgName>NETS</orgName> eru seld til eitt amerikanskt felag fyri oman fyri 20 milliardir krónur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-11">11. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

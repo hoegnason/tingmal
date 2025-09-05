@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-108/2020: Hjálparpakki og neyðarróp frá ferðavinnuni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47086" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/108">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head><term>Hjálparpakki</term> og neyðarróp frá ferðavinnuni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Kemur ein <term>hjálparpakki</term> til ferðavinnuna, so stórir partar av vinnuni, vitanin og arbeiðspláss í hesi vinnu ikki fara fyri skeytið?</item>
+            <item xml:id="q2" type="question-item">Um ja, nær væntar landsstýrismaðurin at koma við <term>hjálparpakka</term>, og hvussu fer hesin at síggja út?</item>
+            <item xml:id="q3" type="question-item">Hvørjar avleiðingar kann tað fáa fyri búskapin, fyri ferðavinnuna og í mun til arbeiðspláss har, eisini í longdini, fær vinnan ikki eina hjálpandi hond?</item>
+            <item xml:id="q4" type="question-item">Nær fer landsstýrismaðurin at taka eina avgerð um hetta?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><orgName>Búskaparráðið</orgName> mælir í várfrágreiðing síni til at “hjálparpakki verður veittur ferðavinnuni, so vinnan og vitanin í ferðavinnuni ikki fara fyri skeytið”.</s>
+          </p>
+          <p>
+            <s>Júst hetta hava vit áhaldandi víst á.</s>
+            <s>Tí ferðavinnan klárar ikki enn eitt summar í lægsta geari, og lítið bendir á, at henda vinna aftur kann virka eftir vanligum treytum, fyrr enn komið er út í 2022.</s>
+          </p>
+          <p>
+            <s>Í svari upp á <title type="parliamentary-question">fyrispurning nr. 52-40/2020</title> segði landsstýrismaðurin, at hann fylgdi støðuni, men at “tað er ikki gjørd nøkur ítøkilig ætlan um at hjálpa ferðavinnuni, men tað verða áhaldandi gjørdar metingar av, hvørt neyðugt er við tiltøkum.”</s>
+            <s>Somuleiðis vísti hann á, “ ... at umsetningurin í ferðavinnuni er fallin munandi samanborið við 2019, hjá ferðaskrivstovunum uml. 90%, hjá gistingarhúsunum millum 60 og 80%, matstovur uml. 40-50%, bussfeløg uml. 85 -95 %, upplivingar uml. 60% og bilútleigarar uml. 95%”, sambært upplýsingum frá <orgName>Ferðavinnufelagnum</orgName>.</s>
+          </p>
+          <p>
+            <s>Í gjár segði landssýrismaðurin so, at ein <term>hjálparpakki</term> er klárur, men sum skilst ivast landsstýrið í, hvørt tað verður neyðugt at seta hann í verk.</s>
+            <s>Samstundis segði landsstýrismaðurin í fíggjarmálum, at tað ikki er teirra uppgáva at oysa pengar út til vinnuna.</s>
+            <s>Spurningarnir verða settir, tí tað stendur rættiliga ógreitt, hvørt landstýrið hevur ætlanir um at hjálpa ferðavinnuni, ella ikki.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-19">19. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

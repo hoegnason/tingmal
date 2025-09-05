@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-102/2020: Hækkan av ferðagjøldum á Sandoyarleiðini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            <roleName />
+          </author>
+          <ref target="https://www.logting.fo/documents/47007" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/102">
+        <div type="questioner">
+          <head rend="bold">
+            <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+
+        <space type="vertical" />
+        <space type="vertical" />
+
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
+        </div>
+        <space type="vertical" />
+        <div type="respondent">
+          <head rend="bold">Fyrispurningurum hækkan av ferðagjøldum á <name type="route">Sandoyarleiðini</name>, settur <persName ref="https://tingdata.fo/person/kykjv24i"><roleName>landsstýrismanninum í fíggjarmálum</roleName>, Jørgeni Niclasen</persName> (at svara skrivliga eftir TS §52 a)</head>
+        </div>
+        <space />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Er ætlanin hjá samgonguni at hækka farmagjøldini á <name type="route">Sandoyarleiðini</name>?</item>
+            <item xml:id="q2" type="question-item">Er ætlanin hjá samgonguni at hækka ferðafólkagjøldini á <name type="route">Sandoyarleiðini</name>?</item>
+            <item xml:id="q3" type="question-item">Er tað ein fyrisitingarlig ella politisk avgerð at boða frá hækkaðum gjøldum á <name type="route">Sandoyarleiðini</name>?</item>
+            <item xml:id="q4" type="question-item">Hvør er orsøkin til hesa almennu fráboðan um prísbroytingar?</item>
+            <item xml:id="q5" type="question-item">Er nóg stór játtan til siglingina hjá <name type="vessel">Hasfjord</name> um <placeName>Skopunarfjørð</placeName>?</item>
+            <item xml:id="q6" type="question-item">Lýkur <name type="vessel">Hasfjord</name> øll trygdar- og manningarkrøv fyri at røkja siglingina um <placeName>Skopunarfjørð</placeName>?</item>
+            <item xml:id="q7" type="question-item">Er tað vanligt, at <orgName>SSL</orgName> áleggur vinnu og ferðafólki hægri gjøld, um atløgukommunan krevur legugjald fyri skip hjá <orgName>SSL</orgName>?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nú tað frættist í miðlunum, at tað aftur skal skapast órógv um ferða- og farmaprísir á <name type="route">Sandoyarleiðini</name>, er hóskandi at fáa landsstýrismannin at greiða frá støðuni.</s>
+          </p>
+          <p>
+            <s>Undanfarna samgonga byrjaði arbeiðið uppá <placeName type="tunnel">Sandoyartunnilin</placeName>, og sitandi samgonga heldur fram við arbeiðinum.</s>
+            <s>Tað er gleðiligt at arbeiðið gongur væl.</s>
+            <s>Kortini er neyðugt at tryggja støðug viðurskifti fyri vinnulív og fólk við siglandi farleiðini til koyrandi verður.</s>
+          </p>
+          <p>
+            <s>Fyrst stóð vaktarskipanin umborð á <name type="vessel">Teistanum</name> fyri skotum, men tíbetur varð bakkað í hesum máli; og nú verður skaptur ófriður uppundir summarhálvuna við fráboðan um hækkandi gjøld á leiðini.</s>
+          </p>
+          <p>
+            <s>Fyri brúkarar av <name type="route">Sandoyarleiðini</name> kann hetta vera sera ørkymlandi, og tí verður hesin fyrispurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-15">15. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

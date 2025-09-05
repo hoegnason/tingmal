@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-117/2020: Talulæra og bústovnatilboð til fólk við seinheilaskaða og demens</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47458" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/117">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Talulæra og bústovnatilboð til fólk við <term>seinheilaskaða</term> og <term>demens</term></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin at seta í starv fleiri talulærarar, nú <name type="law">lógin um almanna trygd og tænastur (vælferðarlógin)</name> er komin í gildi?</item>
+            <item xml:id="q2" type="question-item">Ætlar landsstýrismaðurin at eyðmerkja tørvin og samskipa útboðið við taluvenjingum og viðlíkahaldsvenjingum fyri fólk við <term>seinheilaskaða</term> og <term>demens</term>?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at veita fleiri bústovnatilboð til fólk við <term>seinheilaskaða</term> og <term>demens</term>?</item>
+            <item xml:id="q4" type="question-item">Samskiftir landsstýrismaðurin við kommunala geiran um samstarv av tilboðum á økinum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri knøppum ári síðan hevði undirritaði ein líknandi grein 52 fyrispurning til landsstýrismannin um at fáa sett fleiri talulærarar í starv til tey, sum krevja áhaldandi talulæru.¹</s>
+          </p>
+          <p>
+            <s>130 fólk verða rakt av <term>seinheilaskaða</term> hvørt ár.</s>
+            <s>Fleiri av hesum missa samskiftisførleikan, men kunnu við venjingum vinna hann aftur.</s>
+            <s>Fleiri vinna arbeiðsførleikan aftur, um viðlíkahaldsvenjingarnar halda fram eftir sjúkralegu.</s>
+            <s>Samskiftisevnini eru grundarlagið undir einum virknum sosialum lívi.</s>
+            <s>Á <orgName>Landssjúkrahúsinum</orgName> er eitt tilboð, har sjúklingar fáa uml. 10 taluvenjingartímar, men so steðgar tað har.</s>
+            <s>Ofta noyðast avvarðandi at keypa talulæruhjálp, soleiðis at venjingin kann halda fram.</s>
+            <s>Tað almenna veitir avmarkaða taluhjálp til fólk omanfyri 18 ár.</s>
+          </p>
+          <p>
+            <s>Avvarðandi at sjúklingum við <term>seinheilaskaða</term> og <term>demens</term> eru ofta fremsta hjálpin.</s>
+            <s>Ein sjónvarpssending í <orgName>KVF</orgName> herfyri lýsti eisini ítøkiliga tørvin á økinum.²</s>
+          </p>
+          <p>
+            <s>Talulærarar verða brúktir innan onnur øki í almenna geiranum, men einamest til børn og ung.</s>
+            <s>Fleiri útbúnir talulærarar eru klárir at taka við, um økið verður raðfest hægri og peningur játtaður á fíggjarlógini.</s>
+          </p>
+          <p>
+            <s>Tørvurin á bústovnatilboðum er eisini stórur.</s>
+            <s>Her eru einstakar ítøkiligar ætlanir.</s>
+            <s>Óvist er tó, um øll í landinum fáa somu møguleikar, tá tað kemur til raðfesting av tilboðum.</s>
+            <s>Landsstýrismaðurin hevur lovað batar.</s>
+            <s>Fyri at fáa greiðu á, hvat ítøkiligt er vorðið betri á hesum øki seinasta árið, verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-13">13. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
