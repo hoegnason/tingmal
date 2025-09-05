@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-147/2020: Ætlanin hjá landsstýrinum um grøna endurreisn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47977" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/147">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen, <roleName>landsstýrismaður í norðurlandamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ætlanin hjá landsstýrinum um grøna endurreisn</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvat meinar landsstýrismaðurin við, tá hann sigur, at vit í Føroyum skulu hava “grønaendurreisn”?</item>
+            <item xml:id="q2" type="question-item">Hvørjar ítøkiligar ætlanir hevur landsstýrið um sokallaða “grønaendurreisn”?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <ol start="12">
+            <li>desembur í fjør var grein á heimasíðuni hjá <orgName>Norðurlandaráðnum</orgName> viðvíkjandi Vision 2030 hjá <orgName>Norðurlendska Ráðharraráðnum</orgName>, har <persName>Kaj Leo Holm Johannesen</persName> úttalar seg um ætlanir í <placeName>Føroyum</placeName> um eina "grøna endurreisn" (grøn genrejsning) eftir COVID-19.</li>
+          </ol>
+          <p>
+            <s>Virkisætlanin fyri Vision 2030, ið ráðharraráðið hevur gjørt í samstarvi við <orgName>Norðurlandaráðið</orgName>, vísir á 12 ítøkilig mál fyri, hvussu Norðurlond verða best integreraða og mest burðardygga økið í heiminum.</s>
+            <s>M.a. snýr tað seg um politiskar raðfestingar innan ringbúskap, burðardygga framleiðslu og burðardyggar matvøruskipanir.</s>
+            <s>Samstundis er ætlanin, at einstaki norðurlendski borgarin skal hava burðardyggari nýtslu.</s>
+            <s>Í hesum sambandi vísti <persName>Kaj Leo Holm Johannesen</persName> á, at í <placeName>Føroyum</placeName> ætlar landsstýrið at endurbyggja eftir COVID-19 á burðardyggan ella "grønan" hátt.</s>
+          </p>
+          <p>
+            <s>Áhugavert hevði verið at vitað, hvørjar ætlanirnar eru fyri eina burðardygga endurreisn í <placeName>Føroyum</placeName>, og um hetta arbeiðið er farið í gongd, nú <orgName>Búskaparráðið</orgName> hevur víst á, at afturgongdin í føroyska búskapinum í sambandi við COVID-19 kann væntast skjótt at verða yvirstaðin, og búskapurin aftur fer at vaksa.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-18">18. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

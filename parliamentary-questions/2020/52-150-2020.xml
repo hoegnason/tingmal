@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-150/2020: Ognirnar í Hoydølum og søla/makaskifti av Venjingarskúlanum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47991" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/150">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Ognirnar í Hoydølum og søla/makaskifti av Venjingarskúlanum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Eru framvegis samráðingar millum <orgName>Uttanríkis- og mentamálaráðið</orgName> og <orgName>Tórshavnar kommunu</orgName> um ognirnar í <placeName>Hoydølum</placeName>?</item>
+            <item xml:id="q2" type="question-item">Um ja, hvat ítøkiliga er ætlanin, at <placeName>Hoydalar</placeName> skulu brúkast til?</item>
+            <item xml:id="q3" type="question-item">Er landsstýrið áhugað í at keypa tey 40% av <placeName type="school" subtype="building">Venjingarskúlanum</placeName> frá kommununi til <orgName>Fróðskaparsetrið</orgName>?</item>
+            <item xml:id="q4" type="question-item">Um ikki, kundi eitt makaskifti so ístaðin komið upp á tal fyri jørð við <placeName>Stórutjørn</placeName>?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sitandi býráðsmeiriluti í <placeName>Havn</placeName> hevur verið frammi við eini ætlan um at byggja íbúðir í <placeName>Hoydølum</placeName>.</s>
+            <s>Samskifti hevur verið millum kommununa og <orgName>Uttanríkis- og mentamálaráðið</orgName> um eitt makaskifti, har kommunan skuldi lata <placeName type="school" subtype="building">Venjingarskúlan</placeName> til landið afturfyri bygningarnar í <placeName>Hoydølum</placeName>.</s>
+            <s>Borgarstjórin var frammi í miðlunum um, at fyrst í februar skuldi arbeiðsbólkurin vera komin til eina niðurstøðu um, at <placeName>Hoydalar</placeName> skuldu vera bústaðarøki.</s>
+            <s>Enn er ongin almenn niðurstøða komin, og áhugavert er tí at vita, um hendan ætlanin er slept.</s>
+            <s><placeName>Hoydalar</placeName> eru størsta frílendisøki í landinum, og longu í 1996 varð økið friðað sambært serstakari byggisamtykt, tí økið er serligt í náttúruhøpi, siðsøguligt og ikki minst fornfrøðiliga áhugavert.</s>
+            <s>Í 2010 varð semja gjørd millum land og kommunu um, at <placeName>Hoydalar</placeName> skuldu gerast frílendi eftir eini serligari frílendisætlan.</s>
+            <s>Økið hevur tí ongantíð verið ætlað til bústaðir til nøkur fá, men heldur til eitt øki, ið allir borgarar frítt kunnu njóta.</s>
+            <s>Landið eigur bygningarnar í Hoydølum, og hevur tískil eisini ábyrgd av, at hesir verða víðlíkahildnir.</s>
+            <s><orgName>Tórshavnar kommuna</orgName> eigur 40% av <placeName type="school" subtype="building">Venjingarskúlanum</placeName> og eru tað hesi 40%, sum kommunan ætlar at lata <placeName>Uttanríkis- og mentamálaráðnum</placeName> fyri bygningarnar í <placeName>Hoydølum</placeName>.</s>
+            <s>At <orgName>Uttanríkis- og mentamálaráðið</orgName> fær tey 40% av <placeName type="school" subtype="building">Venjingarskúlanum</placeName> kann tykjast upplagt, tí økið kring <placeName type="school" subtype="building">Venjingarskúlan</placeName> er ætlað til nýtt kampus.</s>
+            <s>Har er longu semja undirritað millum kommununa og <orgName>Uttanríkis- og mentamálaráðið</orgName>.</s>
+            <s>Heldur enn at gera gera eitt makaskifti við <placeName>Hoydalar</placeName>, kundi landið keypt kommununar part av <placeName type="school" subtype="building">Venjingarskúlanum</placeName>, har kommunan so t.d. kundi ognað sær lendið við <placeName>Stórutjórn</placeName> fyri pengarnar.</s>
+            <s>Umfatandi heildarætlan og arkitektakapping er gjørd fyri <placeName>Stórutjórn</placeName>, har ein fullfíggjað íbúðarætlan fyriliggur til eini 1.500-1.800 borgarar.</s>
+            <s>Har kann býráðið, um tað vil, fara í gongd beinanvegin við at fáa til vegar íbúðir og grundstykkir til tey, sum mangla bústaðir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-19">19. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-149/2020: Privatar gjaldskipanir í náttúruni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47987" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/149">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen, <roleName>landsstýrismaður í umhvørvis- og vinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Privatar gjaldskipanir í náttúruni</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin tað vera í samsvari við landsins lóg, at eitt gjaldportur er sett upp í <placeName>Saksun</placeName>?</item>
+            <item xml:id="q2" type="question-item">Um landsstýrismaðurin ikki heldur hetta vera í samsvari við landsins lóg, hvat ætlar hann so at gera við tað?</item>
+            <item xml:id="q3" type="question-item">Heldur landsstýrismaðurin nakran vanda vera fyri, at um portrið í <placeName>Saksun</placeName> sleppur at verða standandi, fer henda skipan at vinna hevd, so almenni myndugleikin missir møguleikan fyri at seta krøv um, at tað verður tikið burtur?</item>
+            <item xml:id="q4" type="question-item">Heldur landsstýrismaðurin nakran vanda vera fyri, at um portrið í <placeName>Saksun</placeName> sleppur at verða standandi, fer henda skipan at vinna hevd, so aðrir bøndur fara at hava fullan rætt til at seta í verk somu skipan, sum nú er galdandi í <placeName>Saksun</placeName>?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í 2019 setti ein festari í <placeName>Saksun</placeName> upp eitt gjaldportur til ferðandi, sum vilja <placeName>út á Lógv</placeName> at vitja.</s>
+            <s>Økið <placeName>á Lógv</placeName> má sigast at vera ein av <placeName>Føroya</placeName> mest kendu náttúruperlum, sum bæði føroyingar og ferðafólk njóta gott av.</s>
+          </p>
+          <p>
+            <s><term>Gongd í haga</term> hevur leingi verið eitt nógv umrøtt evni, men enn er eingin politisk niðurstøða gjørd um rættindi og skyldur hjá festarum og ferðandi.</s>
+            <s>Portrið í <placeName>Saksun</placeName> kann tí enda sum eitt fordømi fyri eina skipan, har bøndur fáa fullan rætt at taka pengar frá ferðandi, og harvið missir almenni mynduleikin møguleikan at skipa økið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-19">19. mai 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
