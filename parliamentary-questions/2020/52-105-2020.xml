@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-105/2020: Fyrispurningur um tilskot til heilivág</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47051" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/105">
+        <pb n="1" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+
+        <space type="vertical" />
+        <space type="vertical" />
+
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
+        </div>
+        <space type="vertical" />
+        <div type="respondent">
+          <head rend="bold">Fyrispurningur um tilskot til heilivág, settur <persName ref="https://tingdata.fo/person/c5qwuztj"><roleName>landsstýrismanninum við heilsumálum</roleName>, Kaj Leo Holm Johannesen</persName> (at svara skrivliga eftir TS §52 a)</head>
+        </div>
+        <space />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin ætlanir um at gera tilskotsstigan til heilivág stigvaksandi eftir inntøku?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í <placeName>Føroyum</placeName> hava vit eina góða heilsutrygdarskipan.</s>
+            <s>Men spurningurin er, um vit ikki kunnu gera broytingar í tilskotsstiganum, so hann sosialt vendir rættari.</s>
+          </p>
+          <p>
+            <s>Í dag er tað soleiðis, at persónar yvir 67 ár og fyritiðarpensjonistar hava rætt til 100% tilskot fyri allan heilivág, tá árligu eginútreiðslurnar til heilivág eru farnar upp um kr. 1.359,15.</s>
+            <s>Tað merkir, at hesi ongantið gjalda meira enn kr. 1.359,15 í einum ári fyri tilskotsheilivág.</s>
+            <s>Fólk millum 18 og 67 ár skulu harafturímóti hava eginútreiðslur fyri kr. 2.125,65 fyri tilskotsheilivág, áðrenn tey koma upp á 100%.</s>
+            <s>Børn og ung yngri enn 18 ár gjalda einki egingjald.</s>
+            <s>Upphæddirnar eru ásettar í grein 18 í <title type="act">Heilsutrygdarlógini</title>.</s>
+          </p>
+          <p>
+            <s>Ein lesandi yvir 18 ár á miðnámi ella hægri lesnaði fær millum kr. 1.900 og 4.400 um mánaðin alt eftir, um viðkomandi hevur egnan bústað og/ella børn.</s>
+            <s>Hevur viðkomandi tørv á dýrum heilivági, er hetta ein stórur postur á figgjarætlanini, og tað kann vera ringt at fáa endarnar at røkka saman.</s>
+            <s>Hetta meðan ein arbeiðsvirkin persónur, sum er yvir 67 ár og til dømis forvinnur kr. 40.000 um mánaðin, sleppur munandi bíligari.</s>
+          </p>
+          <p>
+            <s>Um tilskotið varð latið stigvaksandi eftir inntøkuni hjá fólki, uttan mun til aldur, so høvdu láglønt, lesandi og fyritiðarpensjonistar av sær sjálvum fingið størsta tilskotið, meðan hálønt høvdu rindað mest.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-17">17. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

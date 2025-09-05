@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-106/2020: Verklagslóg um Fámjinstunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47078" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/106">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Verklagslóg um Fámjinstunnilin</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvør er orsøkin til, at <term>verklagslógin</term> um <placeName type="tunnel">Fámjinstunnilin</placeName> ikki er løgd fyri <orgName>Løgtingið</orgName>, nú <term>framløgufreistin</term> er farin?</item>
+            <item xml:id="q2" type="question-item">Nær kann væntast, at <term>verklagslógin</term> um <placeName type="tunnel">Fámjinstunnilin</placeName> verður løgd fyri <orgName>Løgtingið</orgName>?</item>
+            <item xml:id="q3" type="question-item">Nær kann arbeiðið byrja uppá <placeName type="tunnel">Fámjinstunnilin</placeName>?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><orgName>Løgtingið</orgName> hevur samtykt, at <placeName type="tunnel">Fámjinstunnilin</placeName> skal gerast, og peningur er settur av til endamálið.</s>
+            <s>3 mió. kr. vórðu játtaðar til verkætlanina í 2020, tað var til prosjektering og fyrireikingar.</s>
+            <s>Í 2021 eru 25 mió. kr. játtaðar, og eftir ætlan verða 63 mió. kr. játtaðar í 2022 og 30 mió. kr. í 2023.</s>
+            <s>Øll verkætlanin er mett at kosta 103-125 mió. kr.</s>
+            <s>Landsstýrismaðurin hevur boðað frá, at arbeiðið byrjar í summar.</s>
+            <s>Men fyri at arbeiðið veruliga kann byrja, má ein verklagslóg samtykkjast áðrenn.</s>
+            <s>Seinasti framløgudagur var fríggjadagin 5. mars, og tá var verklagslógin ikki millum lógaruppskotini frá landsstýrinum.</s>
+            <s>Fámjiningar og suðuroyingar í síni heild eru farnir at stúra fyri, um arbeiðið fer at byrja í summar, sum landsstýrismaðurin hevur boðað frá, nú ongin verklagslóg fyriliggur.</s>
+            <s>Men sjálvt um ongin verklagslóg fyriliggur í dag, kann landsstýrismaðurin við 17 undirskriftum enn náa at koma í Løgtingið við verklagslógini, áðrenn Løgtingið fer í summarfrí, soleiðis at arbeiðið kann bjóðast út og byrja í summar.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-19">19. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
