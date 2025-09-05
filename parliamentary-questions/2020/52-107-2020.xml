@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-107/2020: Setanar- og lønarviðurskifti hjá nøkrum av starvsfólkunum í Familjufyrisitingini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47084" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/107">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen, <roleName>landsstýrismaður í fíggjarumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Setanar- og lønarviðurskifti hjá nøkrum av starvsfólkunum í Familjufyrisitingini</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvussu vil landsstýrismaðurin tryggja, at ávís starvsfólk í <orgName>Familjufyrisitingini</orgName> ikki fara niður í løn?</item>
+            <item xml:id="q2" type="question-item">Metir landsstýrismaðurin tað vera í lagi at lækka lønina hjá fólki?</item>
+            <item xml:id="q3" type="question-item">Hvussu hevur lóggávan um starvsfólkaviðurskifti verið tulkað fyrr? Mistu starvsfólk t.d. rættindi, tá ið fólkakirkjan bleiv <term>yvirtikin</term>?</item>
+            <item xml:id="q4" type="question-item">Hvussu nógv er samlaða upphæddin, sum skilir partarnar, roknað pr. ár?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Yvirtøkan av familjurættinum og stovnsetanin av okkara <orgName>Familjufyrisiting</orgName> er ein sólskinssøga.</s>
+            <s>Frá Ólavsøku 2018 hevur <orgName>Familjufyrisitingin</orgName> virkað undir føroyskum málsræði.</s>
+            <s>Ein av høvuðsorsøkunum til, at yvirtøkan hevur gingið so væl er, at starvsfólkini, sum frammanundan starvaðust hjá <orgName>Ríkisumboðnum</orgName> í stóran mun fylgdu við í yvirtøkuni.</s>
+            <s>Starvsfólkini eru tey, ið skapa innihaldið á stovninum, og um ikki tey fylgdu við í <name type="law">yvirtøkutilgongdini</name>, høvdu vit yvirtikið ein tóman stovn, sum vit so skuldu brúkt tíð og orku uppá at bygt upp.</s>
+            <s>Hesum sluppu vit undan, tí starvsfólkini fylgdu við í nýggju <orgName>Familjufyrisitingina</orgName>.</s>
+            <s>Ístaðin høvdu vit ein fult virkisføran stovn frá byrjan.</s>
+            <s>Lóggávan um starvsfólkaviðurskifti í sambandi við yvirtøkur ásetir, at starvsfólkini ikki skulu fáa verri treytir í samband við yvirtøkur, men skulu kunna halda fram eftir somu ella líknandi treytum (<title type="law">løgtingslóg nr. 81 frá 14. mai 2005</title> og <title type="law">lov nr. 528 af 24. juni 2005</title>).</s>
+            <s>Tí hevur málið um yvirtøkuna av familjurættinum verið viðgjørt út frá tí sannføring, at starvsfólk sjálvsagt varðveita síni rættindi.</s>
+            <s>Eins og við øðrum yvirtøkum.</s>
+            <s>Starvsfólkini í <orgName>Familjufyrisitingini</orgName> hava nú gjørt vart við, at fyri nøkur av starvsfólkunum er tað nú uppstaðin ein trupulleiki, sum stendst av, at tað er ymiskt, hvussu lógin verður tulkað.</s>
+            <s>Sum skilst er ósemja millum partarnar um hetta.</s>
+            <s>Nøkur av starvsfólkunum hava so at siga somu setanarviðurskifti í dag, men ætlanin er, at nøkur teirra fáa øðrvísi treytir nú.</s>
+            <s>Hetta merkir, at nøkur fara niður í løn.</s>
+            <s>Hetta hevur hvørki verið siðvenja ella ætlanin.</s>
+            <s>Taka vit t.d. yvirtøkuna av fólkakirkjuni, sum nokk er seinasta yvirtøka har starvsfólk fylgdu við, fingu starvsfólkni sum skilst somu viðurskifti aftaná yvirtøkuna.</s>
+            <s>Tí er tað púra óskiljandi, at nøkur starvsfólk í Familjufyrisitingini nú ætlandi ikki fáa somu treytir sum frammanundan, hóast sama lóggáva er galdandi.</s>
+            <s>Tí hesir spurningar til landsstýrismannin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-19">19. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

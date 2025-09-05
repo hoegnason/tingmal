@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-110/2020: Barnavernd</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47298" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/110">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur, <roleName>landsstýrismaður í almannamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Barnavernd</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin, at ásetingarnar um regluligar metingar hjá barnaverndarnevndini sambært § 24, stk. 1 í <name type="law">barnaverndarlógini</name> verða fylgdar?</item>
+            <item xml:id="q2" type="question-item">Um ikki, kann landsstýrismaðurin so greiða frá, hvørjar orsakir kunnu vera til tess?</item>
+            <item xml:id="q3" type="question-item">Hvussu nógv mál um umsorganaryvirtøku eru sett úr gildi sambært § 24 stk. 2 í <name type="law">barnaverndarlógini</name> seinastu 10 árini?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><orgName>Barnaverndarstova Føroya</orgName> ger á hvørjum ári hagtalsfrágreiðingar, har til ber at síggja, hvussu nógv barnaverndarmál hava verið fyri hvørt ár býtt á m.a. kyn og bústað.</s>
+            <s>Nýggjastu almennu tølini eru frá 2019; tá vóru 920 barnaverndarmál virkin kring landið.</s>
+            <s>Tá talan er um virkin barnaverndarmál, er umráðandi at hava í huga, at tað kann vera alt frá vanligari ráðgeving til mál, har børn verða sett heiman ímóti viljanum hjá foreldrunum, altso umsorgarnaryvirtøka uttan samtykki.</s>
+            <s>Í 2019 vórðu tað skrásett 337 nýggj barnaverndarmál og 221 mál endaðu.</s>
+            <s>Men av tí at málini eru so ymisk ber ikki til at avlesa í tølunum, hvussu nógv av hesum eru børn, sum verða sett heiman, og hvørjar orsakir eru til, at málini enda.</s>
+          </p>
+          <p>
+            <s>Í § 24 stk. 1 og 2 er ásett, at viðvíkjandi fyriskipanum um umsorganaryvirtøku, har talan t.d. er um vanrøkt av dagligu umsorganini, skal barnaverndarnevndin við jøvnum millumbilum meta um, hvørt umstøðurnar hjá tí ella teimum, ið hava foreldramyndugleikan, eru broyttar soleiðis, at barnið aftur kann fáa nøktandi umsorgan í heiminum.</s>
+            <s>Barnaverndarnevndin skal síðani leggja hesa eftirmetingina fyri <orgName>Høvuðsbarnaverndarnevndina</orgName>, og metir <orgName>Høvuðsbarnaverndarnevndin</orgName>, at umstøðurnar eru broyttar, soleiðis at barnið aftur kann fáa nøktandi umsorgan í heiminum, skal <orgName>Høvuðsbarnaverndarnevndin</orgName> seta avgerðina um umsorganaryvirtøku úr gildi.</s>
+          </p>
+          <p>
+            <s>Áhugavert er at fáa at vita, um barnaverndarnevndin ger hesar eftirmetingar við jøvnum millumbilum, hvørjar umstøðurnar hjá barnaverndarnevndini eru til at gera eftirmetingarnar til fulnar, og í hvønn mun vit síggja, at mál um umsorganaryvirtøku verða slept, tí at mett verður, at umstøðurnar eru broyttar.</s>
+            <s>Til tess at fáa greiðu á hesum verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-26">26. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

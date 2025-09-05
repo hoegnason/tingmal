@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-111/2020: Fiskirættindi í bólki 3</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/g3pyzg2r">Ingolf Sólheim Olsen</persName>
+            <roleName />
+          </author>
+          <ref target="https://www.logting.fo/documents/47304" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/111">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/g3pyzg2r">Ingolf Sólheim Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fiskirættindi í bólki 3</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørji skip hava veiðiloyvi í bólki 3 (í mars 2021)?</item>
+            <item xml:id="q2" type="question-item">Hvørji skip høvdu hesi loyvi í 2009?</item>
+            <item xml:id="q3" type="question-item">Hvør er søgan hjá tí einstaka veiðiloyvinum síðan 2009: a. Hvørji skip hava havt tey einstøku veiðiloyvini síðan 2009? b. Hvussu nógvir fiskidagar hava verið knýttir at teimum einstøku veiðiloyvunum hvørt árið síðan 2009?</item>
+            <item xml:id="q4" type="question-item">Í hvørji løgtingslóg hevur <orgName>Løgtingið</orgName> samtykt, at óvirkin og tóm veiðiloyvi, ið hoyra til óvirkin skip, hava sama status sum virkin veiðiloyvi, sum hoyra til virkin skip, tá tað um rættindi ræður?</item>
+            <item xml:id="q5" type="question-item">Hvørji saklig og viðkomandi atlit liggja til grund fyri at útluta fiskirættindi til tóm veiðiloyvi, sum hoyra til óvirkin skip?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Soleiðis sum <orgName>Fiskimálaráðið</orgName> hevur umsitið og fyrisitið fiskirættindi seinastu árini, so tykist tað at vera eitt endamál í sjálvum sær hjá feløgum at eiga skip (helst fleiri) við veiðiloyvi, sama um vinnuliga grundarlagið endaliga er vorðið avhendað øðrum.</s>
+          </p>
+          <p>
+            <s>Tóm veiðiloyvi og óvirkin skip hava seinastu árini virkað sum móttøku- og steðgistað av fiskirættindum, sum landsstýrismaðurin útlutar, men við tí endamáli, at hesi verða víðari-umsettt til onnur at gagnnýta.</s>
+          </p>
+          <p>
+            <s>Í hesum førinum verður hildið fast um hesa fyrisiting, hóast fleiri av virknu feløgunum í bólkinum - bólki 3 - stríðast við at flóta omaná fíggjarliga.</s>
+            <s>Ein trupulleiki við hesi fyrisiting er, at trupult er at fáa eyga á, í hvørji lóg ella í hvørjum meginreglum hesin leistur er vorðin grundfestur.</s>
+          </p>
+          <p>
+            <s>Hvørki <title type="regulation">veiðiloyviskunngerðin frá 1993</title> ella <title type="law">lógin um vinnuligan fiskiskap frá 1994</title> er galdandi, men einki í nýggju lógunum frá 2017 og 2019 bendir á, at meginreglurnar fyri at fyriskipa skynsama nýtslu av veiðirættindum, sum eru tøk uttan fyri landleiðirnar, ikki eru galdandi.</s>
+            <s>Í veiðiloyviskunngerðunum frá bæði 1987 (<title type="regulation">kunngerð nr. 35 frá 5. mai 1987</title>) og 1993 (<title type="regulation">kunngerð nr. 54 frá 26. mars 1993</title>) varð staðfest, at endamálið við veiðiloyvum var ávikavist at:</s>
+          </p>
+          <ul>
+            <li>fyriskipa veiðiorkuna og harvið veiðitrýstið á fiskastovnarnar á landleiðunum</li>
+            <li>og at loyva skynsama nýtslu av teimum veiðirættindum, sum eru tøk uttan fyri landleiðirnar</li>
+          </ul>
+          <p>
+            <s>§ 29, stk. 2 í upprunalógini ásetti: <lb/>Í fyrsta umfari verður ikki kvota ella kvotapartur tillutaður fiskifari, sum ikki er í vinnu ella møguliga ikki fer í vinnu fyribils.</s>
+            <s>Er vissa fyri, at farið kemur í vinnu rímiligan part av fyrsta fiskiári, útskrivar landsstýrið kvotabrev.</s>
+            <s>Kvota ella partar av kvotu soleiðis ónýtt fellur til hini førini í avvarðandi høvuðsbólki.</s>
+            <s>Henda regla ávirkar ikki fríu umsetiligheitina smb. § 16 annars, tá kvotabrev endaliga er útskrivað.</s>
+          </p>
+          <p>
+            <s>Tað kann vera ivasamt, nær upprunaliga ætlanin við óvirknum rættindum mótvegis virknum rættindum er snarað 180 stig.</s>
+          </p>
+          <p>
+            <s>Nú verða áður tømd veiðiloyvi aftur gjørd virkin í eini skipan við umsetiligum rættindum.</s>
+            <s>Tømd veiðiloyvi og løgd skip verða javnsett við virkin feløg og skip.</s>
+            <s>Hesi kunnu nú seljast til onnur hesa ferð við støði í vinnuliga óvirknum veiðiloyvum.</s>
+          </p>
+          <p>
+            <s>Tað kann eisini vera ivasamt, um hetta er í samsvari við upprunaligu meginreglurnar um skynsama nýtslu av tøkum rættindum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-26">26. mars 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/g3pyzg2r">Ingolf S. Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
