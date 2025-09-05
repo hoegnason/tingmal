@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-116/2020: Staðseting av Veðurstovu Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47456" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/116">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Staðseting av <orgName>Veðurstovu Føroya</orgName></div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørji atlit eru tikin, tá ið avgjørt er at staðseta <orgName>Veðurstovu Føroya</orgName> í <placeName>Tórshavn</placeName>?</item>
+            <item xml:id="q2" type="question-item">Er nøkur ætlan um at flyta veðurstovuna ella partar av henni út um landið - um ja, hvagar og nær?</item>
+            <item xml:id="q3" type="question-item">Hevur samgongan eina ætlan viðvíkjandi miðspjaðing av almennum stovnum?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s><orgName>Veðurtænastan</orgName> varð yvirtikin í <date when="2009">2009</date>, men higartil hevur eingin verulig veðurstova verið í <placeName>Føroyum</placeName>.</s>
+            <s>Í fjør játtaði <orgName>Løgtingið</orgName> 3,2 milliónir krónur afturat til at seta á stovn føroyska veðurstovu.</s>
+            <s>Í tíðindaskrivi 26. mars skrivar <orgName>Vørn</orgName>, at <orgName>Veðurstovan</orgName> í fyrstu atløgu fer at húsast við <placeName>Hoyvíksvegin</placeName> í <placeName>Havn</placeName>.¹</s>
+            <s>Tað er eingin loyna, at arbeitt verður innan veðurfrøði bæði á flogvøllinum og í <placeName>Norðoyggjum</placeName>, og partvíst eru hølir og útgerð tøk har.</s>
+          </p>
+          <p>
+            <s>Í hesum sambandi vil undirritaða hava at vita, hvørji atlit eru tikin til staðsetingina av veðurstovuni, og um hetta ikki er eitt starvsøki, ið við fyrimuni kann staðsetast allastaðni í landinum.</s>
+            <s>Sagt verður í tíðindaskrivinum, at staðsetingin er fyribils, men kortini verður ikki sagt, hvussu leingi veðurstovan skal húsast í <placeName>Havn</placeName>.</s>
+            <s>Royndir vísa okkum, at fyribilsloysnir ofta hava lyndi at gerast varandi.</s>
+          </p>
+          <p>
+            <s>Harumframt vil undirritaða hava greiðu á, hvørja støðu samgongan hevur til miðspjaðing av almennum størvum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-13">13. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-120/2020: Fiskiskapur eftir tunfiski</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47552" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/120">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard, <roleName>landsstýrismaður í fiskivinnumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fiskiskapur eftir tunfiski</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Heldur landsstýrismaðurin, at tað er grundarlag fyri at skipa fyri royndarfiskiskapi eftir tunfiski í føroyskum sjóøki?</item>
+            <item xml:id="q2" type="question-item">Hevur landsstýrismaðurin nakrar ætlanir um at skipa fyri royndarfiskiskapi eftir tunfiski í føroyskum sjóøki?</item>
+            <item xml:id="q3" type="question-item">Ætlar landsstýrismaðurin at áseta eina felagskvotu av tunfiski í føroyskum sjóøki?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Vit eru fiskivinnutjóð, og eigur tað eisini at síggjast aftur í, hvussu vit til eina og hvørja tíð eru klár til at gagnnýta okkara skiftandi sjófeingi uppá besta hátt.</s>
+            <s>Í okkara gróðrarríka havi kring Føroyar svimur eitt veldugt ríkidømi.</s>
+            <s>Ein partur hevur verið til gagns í langar tíðir, ímeðan okkurt er heilt nýtt, sum t.d. at gagnnýta taran.</s>
+            <s>Tó eru stórar nøgdir, við stórum virði, sum enn ikki hevur verið umsett til gagns fyri okkum, sum búgva her í <placeName>Føroyum</placeName>.</s>
+            <s>Ein av hesum møguleikum er ein tunfiskur, atlantiskur bluefin (lat. Thunnus thynnus).</s>
+            <s>Mest vanliga støddin á hesum fiski er 200 kg.</s>
+            <s>Atlantiskur bluefin hevur til ymiskar tíðir verið veiddur av londum kring <placeName>Føroyar</placeName>.</s>
+            <s>Í 1990'unum vórðu royndir gjørdar eftir hesum fiski í føroyskum sjóøki.</s>
+            <s>Eisini kann nevnast, at norðmenn hava fingið sín fiskiskap av atlantiskum bluefin góðkendan av altjóða stovninum <orgName>ICCAT</orgName>.</s>
+          </p>
+          <p>
+            <s>Hesin stovnur kann variera nógv í nøgd.</s>
+            <s>Norra hevði eitt stórt fiskarí í 1950-unum og 60-unum, og tá vóru kvoturnar heilt upp í 15.000 tons.</s>
+            <s>So kom ein tíð, har eingin tunfiskur varð veiddur.</s>
+          </p>
+          <p>
+            <s>Men nú er aftur nógv til av hesum tunfiski og okkara grannalond hava havt veiðu eftir atlantiskum bluefin aftur í fleiri ár.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-19">19. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/oasc4ew6">Uni Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

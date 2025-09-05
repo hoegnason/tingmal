@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-121/2020: Fyriskipanir á hægri útbúgvingum til lesandi við serligum avbjóðingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-05" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47579" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1" />
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/121">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana, <roleName>landsstýrismaður í uttanríkis- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Fyriskipanir á hægri útbúgvingum til lesandi við serligum avbjóðingum</div>
+        <space />
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">Hvørji átøk eru sett í verk fyri at hjálpa og stuðla lesandi á hægri lestri, sum hava serligar avbjóðingar, eitt nú <term>orðblindni</term>, <term>tunghoyrn</term>, <term>ADHD</term>, <term>autismu</term> o.a.?</item>
+            <item xml:id="q2" type="question-item">Hvørjar førleikar hava verandi lestrarvegleiðarar á hægri lestri at hjálpa og vegleiða lesandi við serligum avbjóðingum?</item>
+            <item xml:id="q3" type="question-item">Er nøkur ætlan um útbúgva vegleiðarar at vegleiða og stuðla lesandi við serligum avbjóðingum á hægri lestri?</item>
+            <item xml:id="q4" type="question-item">Er nøkur meting gjørd av, hvat tað hevði kostað landinum at sett í verk líknandi skipanir við SPS-vegleiðarum, eins og í <placeName>Danmark</placeName>?</item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinastu 10 árini er nógv hent á undirvísingarøkinum, tá tað kemur til hjálp til næmingar við serligum avbjóðingum.</s>
+            <s>Millum annað er serlig útbúgving sett í verk til at útbúgva lærarar til serøkið, flokkar eru skipaðir til næmingar við serligum tørvi, umframt ymsar skipanir, sum hjálpa næmingum at fáa útvegað hjálpiamboð - hetta er galdandi bæði á miðnámi og í fólkaskúlanum.</s>
+            <s>Eisini er ein arbeiðsbólkur settur, sum skal koma við tilmælum um, hvussu landið loftar næmingum við sálarligum avbjóðingum á miðnámi.</s>
+          </p>
+          <p>
+            <s>Kortini eru at kalla ongar skipanir til lesandi á hægri lestri, sum hava serligar avbjóðingar.</s>
+            <s><orgName>Fróðskaparsetrið</orgName> bjóðar lestrarvegleiðing, men sum heild eru tilboðini avmarkað.</s>
+            <s>Í eitt nú <placeName>Danmark</placeName> hava universitetini serligar SPS-vegleiðarar (specialpædagogisk støtte), sum lesandi kunnu venda sær til, hava tey serligar avbjóðingar, ella ynskja at verða útgreinað fyri serligar avbjóðingar, ið ávirka teirra lestrartilgongd.</s>
+            <s>Talan kann vera um eitt nú <term>orðblindni</term>, hoyritrupulleikar, <term>ADHD</term>, <term>autismu</term> o.s.fr.</s>
+          </p>
+          <p>
+            <s>Undirritaði ynskir tískil at fáa greiðu á, um arbeitt verður við nøkrum ítøkiligum ætlanum at lofta lesandi á hægri lestri, ið hava serligar avbjóðingar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-20">20. apríl 2021</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
