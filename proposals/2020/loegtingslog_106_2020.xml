@@ -1,0 +1,713 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Uppskot til Løgtingslóg um broyting í løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir (Grannskoðaralógin) (um at seta í gildi broytingar í 8. vinnufelagasdirektivinum o.a.)</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Rani Høgnason Hansen</publisher>
+                <idno type="url">https://github.com/hoegnason/tingmal</idno>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                    <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+                    <p>Original content is used here under §9 (public documents).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a" type="main">Uppskot til Løgtingslóg um broyting í løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir (Grannskoðaralógin) (um at seta í gildi broytingar í 8. vinnufelagasdirektivinum o.a.)</title>
+                    <author>Umhvørvis- og vinnumálaráðið</author>
+                    <publisher>Føroya Løgting</publisher>
+                    <date when="2021-03-02">2. mars 2021</date>
+                    <idno type="url">https://www.logting.fo/documents/46775</idno>
+                    <ref type="source" target="https://www.logting.fo/documents/46775">Original URL</ref>
+                    <date type="accessed" when="2025-09-05" />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div>
+                <head type="bold">Uppskot til</head>
+            </div>
+            <space type="vertical" />
+            <div type="title">
+                <head type="main" rend="bold center">
+                    <s>Løgtingslóg um broyting í løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir (Grannskoðaralógin)</s>
+                </head>
+                <p>(um at seta í gildi broytingar í 8. vinnufelagadirektivinum o.a.)</p>
+            </div>
+            <space type="vertical" />
+        </front>
+        <body>
+            <pb n="20"/>
+            <div type="chapter">
+                <head rend="bold">Kapittul 1. Almennar viðmerkingar</head>
+                <div type="section">
+                    <head rend="bold">1.1. Orsøkir til uppskotið</head>
+                    <p>
+                        <s>Grannskoðaraøkið er undir tættari altjóða regulering og regulering í ES.</s>
+                        <s>Lóggávan í Føroyum og í grannalondunum á hesum øki er tí rættiliga eins.</s>
+                        <s>Føroyska grannskoðaralógin er grundað á donsku grannskoðaralógina, sum aftur er grundað á ES-lóggávu, herundir 8. vinnufelagadirektivið hjá ES um lógarálagda grannskoðan av ársroknskapum og konsolideraðum roknskapum.</s>
+                    </p>
+
+                    <p>
+                        <s>Altjóðagerðin førir við sær, at føroyska lóggávan á grannskoðaraøkinum má fylgja altjóða gongdini, um føroyskir grannskoðarar framhaldandi skulu kunna átaka sær uppgávur fyri føroyskar fyritøkur, sum virka á altjóða stigi (t.e. fíggjarfyritøkur og fyritøkur, skrásettar á virðisbrævaskálum).</s>
+                    </p>
+
+                    <p>
+                        <s>Síðan 2015 eru ongar broytingar gjørdar í føroysku grannskoðaralógini, og tí verður føroyska lóggávan á grannskoðaraøkinum nú dagførd, so hon er á støði við lóggávuna í ES, heruppi í Danmark.</s>
+                    </p>
+
+                    <p>
+                        <s>Í sambandi við fíggjarkreppuna síðst í 00’unum varð m.a. spurningur settur við, um óheftni hjá grannskoðarum var nóg væl tryggjað, og um grannskoðaraváttanir høvdu nóg nógvar og rættar upplýsingar.</s>
+                        <s>Við støði í hesum setti ES-kommissiónin í 2010 í verk eina endurskoðan av reglunum á grannskoðaraøkinum, sum kundi styrkja leiklutin hjá grannskoðaranum sum álitisumboðið hjá almenninginum.</s>
+                    </p>
+
+                    <p>
+                        <s>Arbeiðið við endurskoðanini og nýtímansgerðini av ES-grannskoðaralóggávuni snúði seg serstakliga um: Leiklut grannskoðarans, óheftni, økt eftirlit og økta kapping á grannskoðanarmarknaðinum.</s>
+                    </p>
+
+                    <p>
+                        <s>ES-kommissiónin legði tann 30. november 2011 fram uppskot til broytingar í 8. vinnufelagadirektivinum um lógarálagda grannskoðan av ársroknskapum og konsolideraðum roknskapum.</s>
+                        <s>ES-kommissiónin legði samstundis fram eitt nýtt uppskot til fyriskipan um serstøk krøv til lógaráløgdu grannskoðanina av fyritøkum av almennum áhuga (PIEfyritøkum).</s>
+                    </p>
+
+                    <p>
+                        <s>Høvuðsgrundgevingarnar fyri at leggja hesi uppskot fram vóru: Betri grannskoðan, meiri upplýsandi grannskoðanarfrágreiðingar umframt størri óheftni, ið skal styrkja álitið á roknskapirnar hjá fyritøkunum.</s>
+                    </p>
+
+                    <!-- <pb n="20"/> -->
+
+                    <p>
+                        <s>Tann 16. apríl 2014 samtykti ES-tingið og Ráðið broytingarnar í 8. vinnufelagadirektivinum og ES-fyriskipanina.</s>
+                        <s>Talan er um direktiv 2006/43/EF frá Europa-tinginum og Ráðnum um lógarálagda grannskoðan av ársroknskapum og konsolideraðum roknskapum, sum broytt við direktivi 2014/56/EU t.e. 8. vinnufelagadirektivið hjá ES, og fyriskipan 2014/537/EU frá 16. apríl 2014 frá Europa-tinginum og Ráðnum um ítøkilig krøv til lógarálagda grannskoðan av fyritøkum av almennum áhuga.</s>
+                    </p>
+
+                    <p>
+                        <s>Limalondini í ES fóru hereftir undir at seta broytingarnar í 8. vinnufelagadirektivinum í gildi.</s>
+                        <s>Í direktivinum eru reglur um innanhýsis organisatiónina í grannskoðanarvirkjum, fyrireikingarnar hjá grannskoðarum av grannskoðanini og um at leggja grannskoðanararbeiðið til rættis.</s>
+                        <s>Harafturat eru ásetingar um at styrkja óheftni í almenna eftirlitinum við grannskoðarum og grannskoðanarvirkjum, t.d. kunnu góðkendir <pb n="20"/> grannskoðarar nú ikki luttaka í leiðsluni av almenna eftirlitinum.</s>
+                        <s>Eisini eru nú ásetingar um, at góðskueftirlitið við grannskoðarum og grannskoðanarvirkjum í størri mun byggir á váðametingar, og er krav sett um varskógvaraskipan á grannskoðanarvirkjum og í almenna eftirlitinum.</s>
+                    </p>
+
+                    <p>
+                        <s>Í ES-fyriskipanini, sum kom í gildi beinleiðis í limalondunum, og tí ikki skal setast í gildi við nationalari lóggávu í ES-londunum, eru serstakar ásetingar um óheftni í sambandi við grannskoðan av fyritøkum av almennum áhuga (PIE-fyritøkum).</s>
+                        <s>Í ES-fyriskipanini eru avmarkingar ásettar fyri, hvørjar aðrar tænastur enn grannskoðan, grannskoðarar kunnu veita.</s>
+                        <s>Krav verður sett um, at PIE-fyritøkur skulu útbjóða í sambandi við grannskoðaraskifti og skulu skifta grannskoðanarvirki, tá ávíst tíðarskeið er runnið.</s>
+                    </p>
+
+                    <p>
+                        <s>Við hesum uppskoti verður skotið upp at broyta grannskoðaralógina soleiðis, at hon verður í samsvari við 8. vinnufelagadirektivið, og samstundis verður lagt fram eitt lógaruppskot um at seta í gildi nevndu fyriskipan 2014/537/EU frá 16. apríl 2014 frá Europa-tinginum og Ráðnum um ítøkilig krøv til lógarálagda grannskoðan av fyritøkum av almennum áhuga.</s>
+                    </p>
+                </div>
+                <div type="section">
+                    <head rend="bold">1.2. Galdandi lóggáva</head>
+                    <div>
+                        <p>
+                            <s>Galdandi løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir (grannskoðaralógin) kom í gildi tann 1. juli 2009.</s>
+                            <s>Í almennu viðmerkingunum til lógaruppskotið (løgtingsmál 148/2008) stendur m.a., at uppskotið hevur til endamáls at tryggja, at tann førleiki, sum eyðkennir føroyskar grannskoðarar, verður varðveittur og mentur, og á allan hátt nøktar tey krøv, sum fara at verða sett á bæði ES-stigi og á altjóða stigi.</s>
+                            <s>Lógaruppskotið er einsljóðandi og danska grannskoðaralógin, t.e. lov nr. 468 frá 17. juni 2008 om godkendte revisorer og revisionsvirksomheder (revisorloven) við seinni broytingum.</s>
+                        </p>
+
+                        <p>
+                            <s>Síðani 2009 er grannskoðaralógin broytt tríggjar ferðir - í 2011, 2012 og 2015.</s>
+                            <s>Grannskoðaralógin byggir framhaldandi á donsku grannskoðaralógina.</s>
+                        </p>
+
+                        <p>
+                            <s>Tá grannskoðaralógin kom í gildi í 2009 var eitt av endamálunum at betra góðskuna á arbeiðinum hjá grannskoðarum.</s>
+                            <s>Eitt nú varð ásett krav um, at allir grannskoðarar skulu luttaka í eftirútbúgving og reglur vórðu ásettar um størri upplýsingarskyldu millum fráfarandi og nýggja grannskoðaran.</s>
+                            <s>Eisini varð almenna eftirlitsskipanin við grannskoðarum styrkt, og reglur vórðu ásettar um, at børsskrásettar fyritøkur og fíggjarfyritøkur skuldu hava ein grannskoðanarbólk.</s>
+                            <s>Krøvini til óheftni grannskoðarans vórðu eisini herd, og heimild varð ásett til at seta reglur í gildi um “selvrevision” og egin áhugamál í sambandi við grannskoðan av fyritøkum av almennum áhuga, m.a. forboð móti at veita ávísar ikki-grannskoðanartænastur til hetta slagið av viðskiftafólkum.</s>
+                            <s>Reglurnar um góðskueftirlit við grannskoðanarvirkjum, sum grannskoða fyritøkur av almennum áhuga, vórðu eisini herdar m.a. við at krevja títtari eftirlit.</s>
+                        </p>
+
+                        <p>
+                            <s>Í 2015 vórðu týðandi broytingar gjørdar í grannskoðaralógini, tá ásetingarnar um góðskueftirlit við grannskoðanarvirkjum, sum grannskoða fyritøkur av almennum áhuga, vórðu broyttar.</s>
+                            <s>Endamálið var at herða krøvini til óheftni í sambandi við eftirlit á hesum grannskoðanarvirkjunum soleiðis, at lóggávan kundi liva upp til krøv frá ES.</s>
+                            <s>Skráseting Føroya fekk heimild til at gera avtalu við danska Erhvervsstyrelsen um samstarv soleiðis, at góðskueftirlitsfólk hjá Erhvervsstyrelsen kundu virka sum eftirlitsfólk á føroyskum grannskoðanarvirkjum, sum grannskoða fyritøkur av almennum áhuga.</s>
+                            <s>Talan er um eftirlitsfólk, sum starvast í Erhvervsstyrelsen, ið gera eftirlitið vegna Grannskoðaraeftirlitið.</s>
+                            <s>Á <pb n="22"/> tann hátt varð tryggjað, at eftirlitsfólkini eru púra óheft av føroysku grannskoðaravinnuni, og at skipan av góðskueftirlitinum er í samsvari við áltjóða reglur og standardar.</s>
+                            <s>Eftirlitið verður gjørt vegna Grannskoðaraeftirlitið, og tað er Grannskoðaraeftirlitið, sum tekur avgerð, tá úrslitið av eftirlitinum fyriliggur.</s>
+                        </p>
+
+                        <p>
+                            <s>Við broytingunum í lógini í 2015 fór eisini fram ein nútímansgerð av grannskoðaraútbúgvingini.</s>
+                            <s>Harafturat varð sett í gildi ein skipan, har grannskoðarar, sum ynskja at grannskoða fíggjarfyritøkur, skulu hava serstaka góðkenning fyri at útinna hetta arbeiðið.</s>
+                            <s>Krav varð sett um, at grannskoðarin hevur nakað av royndum við og vitan um ávísa slagið av fíggjarfyritøku, tí hetta verður mett at betra um góðskuna á grannskoðanini í fíggjarfyritøkunum.</s>
+                        </p>
+
+                        <p>
+                            <s>Harafturat varð ásetingin í lógini, sum nágreinar hugtakið “fyritøkur av almennum áhuga” broytt.</s>
+                            <s>Tað eru bert tey sløgini av fyritøkum, sum sambært ES hoyra undir hetta hugtakið, t.e. børsskrásettar fyritøkur og fyritøkur, ið eru undir eftirliti av Fíggjareftirlitinum og Tryggingareftirlitinum.</s>
+                            <s>Kommunur og almenn partafeløg, sum upprunaliga eisini vóru fevnd av hugtakinum í grannskoðaralógini, vórðu nú strikað úr ásetingini.</s>
+                        </p>
+
+                        <p>
+                            <s>Sostatt er grannskoðaralóggávan leypandi broytt í mun til tær avbjóðingar, sum gjøgnum tíðina hava víst seg bæði her í landinum, í ES og altjóða.</s>
+                        </p>
+                    </div>
+                    <div type="section">
+                        <head rend="bold">1.3. Endamálið við uppskotinum</head>
+                        <p>
+                            <s>Endamálið við uppskotinum er at tryggja, at føroysk lóggáva á grannskoðaraøkinum er á støði við lóggávuna í londum, sum vit vanliga samanbera okkum við og í samsvari við ES-reglur.</s>
+                        </p>
+
+                        <p>
+                            <s>Við hesum uppskoti verður fyrst av øllum skotið upp at dagføra føroysku grannskoðaralóggávuna, so hon verður í samsvari við í direktiv 2006/43/EF frá Europa-tinginum og Ráðnum um lógarálagda grannskoðan av ársroknskapum og konsolideraðum roknskapum (8. vinnufelagadirektivið), sum broytt við direktivi 2014/56/EU.</s>
+                        </p>
+
+                        <p>
+                            <s>Harafturat er endamálið at tillaga grannskoðaralógina soleiðis, at hon er í samsvari við fyriskipan 2014/537/EU frá 16. apríl 2014 frá Europa-tinginum og Ráðnum um ítøkilig krøv til lógarálagda grannskoðan av fyritøkum av almennum áhuga.</s>
+                        </p>
+
+                        <p>
+                            <s>Samstundis sum hetta uppskotið verður lagt fyri Løgtingið, verður eisini uppskot um at seta fyriskipan nr. 537/2014/EU frá 16. apríl 2014 í gildi í Føroyum lagt fyri Løgtingið.</s>
+                            <s>Lagt verður upp til, at ávísar reglur um grannskoðan t.e. reglur, sum snúgva seg um grannskoðan av fyritøkum av almennum áhuga (PIE-fyritøkum), frameftir partvís verða at finna í ES-fyriskipanini og partvís í grannskoðaralógini.</s>
+                        </p>
+
+                        <p>
+                            <s>Ansað verður eftir, at tað ikki verða settar reglur í gildi í Føroyum, sum eru meiri tyngjandi enn ES-reglur leggja upp til.</s>
+                            <s>Skotið verður upp, at ávísar reglur, sum í dag eru meiri tyngjandi fyri vinnuna enn neyðugt, verða settar úr gildi.</s>
+                        </p>
+
+                        <p>
+                            <s>Tað verður samanumtikið mett, at uppskotið hevur við sær, at grannskoðanin verður betri, grannskoðarafrágreiðingarnar verða meiri upplýsandi og álitið hjá almenninginum á grannskoðaraváttanirnar verður betri, samstundis sum reglur, sum eru óneyðuga avmarkandi og tyngjandi, verða strikaðar.</s>
+                        </p>
+
+                        <pb n="23"/>
+
+                        <p>
+                            <seg>Uppskotið er gjørt við fyrimynd í:</seg>
+                            <!-- TODO: fix lanauge mixing and lists -->
+                            <list rend="bulleted">
+                                <item>
+                                    <s xml:lang="da">Forslag til lov om ændring av revisorloven og forskellige andre love LF 146/2015 (Lov nr. 631 af 08/06/2016) og betænkning til lovforslag BTL 2015/146.</s>
+                                </item>
+                                <item>
+                                    <s xml:lang="da">§ 13 í forslag til lov om finansiel virksomhed og forskellige andre love LF 39/2016.</s>
+                                </item>
+                                <item>
+                                    <s xml:lang="da">§ 2 í forslag til lov om ændring af årsregnskabsloven, revisorloven m.v. LF 99/2018.</s>
+                                </item>
+                            </list>
+                        </p>
+
+                        <p>
+                            <s>Í serligu viðmerkingunum til hetta uppskotið verður víst til serligu viðmerkingarnar í LF 146/2015 í teimum førunum, har ásetingarnar í hesum uppskoti samsvara við ásetingarnar í LF 146/2015.</s>
+                            <s>Hetta uppskotið er tí viðlagt sum fylgiskjal 2.</s>
+                        </p>
+
+                        <div type="subsection">
+                            <head rend="bold">1.3.1 Ítøkiliga um innihaldið í uppskotinum</head>
+                            
+                            <div type="subsubsection">
+                                <head>1.3.1.1 Fyritøkur av almennum áhuga (PIE-fyritøkur)</head>
+                                <p>
+                                    <s>Ásett er í § 19, stk. 3 í galdandi grannskoðaralóg, hvørjar fyritøkur er fevndar av hugtakinum “fyritøka av almennum áhuga” (PIE-fyritøka). Sambært ásetingini eru serstøk krøv galdandi viðvíkjandi upplýsingum í grannskoðanarprotokollini hjá PIE-fyritøkum.</s>
+                                    <s>Har tað í lógini eru ásettar serstakar skyldur o.a. viðvíkjandi grannskoðan av PIE-fyritøkum er ásett, at skyldan viðvíkur fyritøkum sambært § 19, stk. 3.</s>
+                                </p>
+
+                                <p>
+                                    <s>Ásetingin í § 19, stk. 3 varð broytt við løgtingslóg nr. 76 frá 22. mai 2015 soleiðis, at fyritøkur, sum ikki eru fevndar av hugtakinum “PIE-fyritøka” í 8. vinnufelagadirektivinum hjá ES, vórðu strikaðar úr ásetingini.</s>
+                                    <s>Á tann hátt er tryggjað, at tað í føroyskari lóggávu ikki verða ásettar strangari reglur fyri føroysk grannskoðanarvirkir og viðskiftafólkini hjá føroyskum grannkoðanarvirkjum enn ES-reglurnar áseta.</s>
+                                </p>
+
+                                <p>
+                                    <!-- TODO: fix bullet points etc -->
+                                    <s>Sambært ásetingini í § 19, stk. 3 í galdandi grannskoðaralóg eru hesar fyritøkur PIE-fyritøkur:
+                                    <lb/>- Virkir, ið hava virðisbrøv, ið verða handlað á einum skipaðum marknaði í einum ES-landi ella einum EBS-landi, og
+                                    <lb/>- virkir, ið eru undir eftirliti av Fíggjareftirlitinum ella Tryggingareftirlitinum, tó ikki virkir, ið fáast við tryggingarmeklaravirksemi sambært § 42 í lógini um tryggingarvirksemi og reglum, settar í gildi við heimild í hesi, og virkir, ið eru fevnd av kapitli 20 a (íløguráðgevar) í fyriskipan om ikrafttræden for Færøerne af lov om finansiel virksomhed.</s>
+                                </p>
+
+                                <p>
+                                    <s>Ásetingin er harvið í samsvari við nágreiningina av hugtakinum “PIE-fyritøka” í 8. vinnufelagadirektivinum hjá ES, har hesar fyritøkur eru fevndar av hugtakinum “PIE-fyritøka”: Børsskrásettar fyritøkur, kreditinstitutt, tryggingarfeløg og fyritøkur, sum einstøku londini nágreina sum PIE-fyritøkur.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður nú upp at strika § 19 úr grannskoðaralógini, tí við uppskoti, sum verður lagt fram samstundis sum hetta lógaruppskot, verður skotið upp, at ES-fyriskipan nr. 537/2014/EU verður sett í gildi í Føroyum.</s>
+                                    <s>Av tí, at hugtakið “PIE-fyritøka” er nágreinað í nevndu ES-fyriskipan, sum snýr seg um grannskoðan av hesum fyritøkum, er eingin orsøk til at hava eina nágreining, sum hana í galdandi § 19 í grannskoðaralógini longur.</s>
+                                </p>
+
+                                <pb n="24"/>
+
+                                <p>
+                                    <s>Orsakað av ES-fyriskipan nr. 537/2014/EU og broytingunum i 8. vinnufelagadirektivinum, sum vórðu gjørdar í 2014, verða fleiri skyldur nú álagdar í ES í sambandi við grannskoðan av fyritøkum av almennum áhuga (PIE-fyritøkum).</s>
+                                </p>
+
+                                <p>
+                                    <s>Um ein fyritøka er fevnd av hugtakinum “fyritøka av almennum áhuga” í 8. vinnufelagadirektivinum er øll ES-fyriskipan nr. 537/2014/EU galdandi fyri grannskoðan av fyritøkuni.</s>
+                                    <s>Krøvini í fyriskipanini viðføra munandi strangari reglur fyri PIE-fyritøkur og fyri grannskoðan av fyritøkunum, sum eru fevndar av hugtakinum “PIE-fyritøka”.</s>
+                                    <s>Lagt verður upp til, at sama skipan verður galdandi í Føroyum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Verður ES-fyriskipanin sett í gildi í Føroyum merkir hetta, at herd krøv verða sett í gildi viðvíkjandi óheftni hjá grannskoðarum, sum grannskoða fyritøkur av almennum áhuga, herundir krav um tvungna rotatión av grannskoðanarvirkjum, reglur um ráðgevingartænastur útyvir grannskoðan, og eitt mark fyri nøgdini av ráðgevingartænastum til grannskoðanarkundar.</s>
+                                </p>
+
+                                <p>
+                                    <s>Eftir uppskotinum verða ávísar reglur, sum bert viðvíkja grannskoðan av PIE-fyritøkum, strikaðar úr grannskoðararlógini, tí hesar eru nú í ES-fyriskipanini m.a. kravið um frágreiðing um gjøgnumskygni og rotatión.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.2 Góðkenning, fyrireiking og framhald av eini uppgávu</head>
+
+                                <p>
+                                    <s>Í galdandi grannskoðaralóg eru, umframt ásetingarnar um støðutakan til óheftni, ongar neyvar ásetingar um fyrireiking ella góðkenning grannskoðarans ella grannskoðanarvirkisins av eini grannskoðan ella um framhald av eini grannskoðanaruppgávu.</s>
+                                    <s>Tó eru ásetingar í lógini um m.a. meting av hóttanum móti óheftni ella viðurskiftum viðvíkjandi skipan av arbeiðinum sum t.d. krøv til skjalfestan av váttanum grannskoðarans.</s>
+                                </p>
+
+                                <p>
+                                    <s>Við nýggju ásetingini í § 14 a í uppskotinum verður skotið upp at áseta krøv til góðkenning og framhald av eini grannskoðanaruppgávu.</s>
+                                    <s>Krøvini til, hvussu arbeiðið skal skipast, verða ásett í kunngerð.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í serligu viðmerkingunum í uppskotinum verður greitt frá teimum tiltøkum, sum grannskoðanarvirkið skal gera, áðrenn virkið góðkennir ella heldur fram við eini lógarálagdari grannskoðan, her undir serstakliga viðvíkjandi hóttanum móti óheftni og teimum trygdarfyriskipanum, sum eru gjørdar fyri at svara hesum hóttanum aftur.</s>
+                                </p>
+
+                                <p>
+                                    <s>Eitt grannskoðanarvirki skal, áðrenn tað tekur á seg ella heldur fram við eini grannskoðanaruppgávu, meta um og skjalprógva, at virkið ikki átekur sær eina uppgávu, um tað ikki hevur neyðugu tíðina, arbeiðsmegina ella skikkað starvsfólk til at útinna uppgávuna rætt.</s>
+                                    <s>Afturat hesum verður ásett eitt krav um, at grannskoðanarvirkið skal tryggja, at grannskoðarin er góðkendur til at veita eina grannskoðanarátekning á roknskapin.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður upp, at hesar reglurnar í § 14 a einans verða galdandi fyri lógarálagda grannskoðan, og ikki fyri aðrar váttanir við trygd - eitt nú víðkaða gjøgnumgongd, vinnufelagarættarligar váttanir o.a.</s>
+                                    <s>Tó verða reglurnar um óheftni, her undir um hóttanir móti óheftni grannskoðarans og grannskoðanarvirksins, eins og higartil eisini galdandi fyri aðrar váttanaruppgávur við trygd.</s>
+                                </p>
+
+                                <!-- investigate new page spacing issues -->
+                                <p>
+                                    <s>Sambært 8. vinnufelagadirektivinum kunnu meiri einføld krøv verða sett í gildi fyri góðkenning og framhald av grannskoðanaruppgávum í smærri fyritøkum.</s>
+                                    <s>Sambært ES-<pb n="25"/>direktivinum kunnu reglur verða ásettar um fyrireiking av eini grannskoðanaruppgávu, har grannskoðanarstandardar verða nýttir meiri lutfalsliga.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í galdandi áseting í § 15 í grannskoðaralógini er heimild til, at landsstýrismaðurin kann áseta nærri reglur um etikk, um at gera grannskoðanaruppgávur og grannskoðarans veitan av váttanum, heruppií ummælir frá grannskoðara um leiðslufrágreiðingar sambært ársroknskaparlógini, og um at gera váttanaruppgávur við trygd og aðrar váttanir við trygd.</s>
+                                </p>
+                                
+                                <p>
+                                    <s>Landsstýrismaðurin hevur ásett nærri reglur við kunngerð nr. 123 frá 26. juli 2019 um grannskoðaraváttanir o.a.</s>
+                                    <s>Í kunngerðini eru ásettar reglur um grannskoðanarátekningar, her undir úttalilsi um leiðslufrágreiðingar og um veitan av øðrum váttanum við trygd.</s>
+                                    <s>Harafturat eru ásettar reglur um váttanarstandard fyri smærri virkir.</s>
+                                </p>
+                                
+                                <p>
+                                    <s>Skotið verður nú upp at gera eina nágreining í ásetingini soleiðis, at landsstýrismaðurin, umframt at seta í gildi nationalar reglur og standardar um etikk, fremjan og veitan av grannskoðanarátekningum v.m. og seta í gildi altjóða standardar, undir hesum lutfalsliga nýtslu av standardum í sambandi við grannskoðan av smærri virkjum, eisini kann áseta krøv og standardar viðvíkjandi fyrireiking og fremjan av grannskoðanaruppgávum.</s>
+                                </p>
+                                
+                                <p>
+                                    <s>Eftir uppskotinum verða linari krøv galdandi fyri grannskoðan av smærri virkjum t.d. í sambandi við góðkenning og framhald av eini grannskoðanaruppgávu.</s>
+                                    <s>Tá reglur verða ásettar um eitt nú skyldir grannskoðarans at skráseta brot, her undir um átøk, sum eru gjørd í sambandi við hesi brot og viðvíkjandi broytingum í góðskustýringsskipanini, verða linari reglur ásettar fyri grannskoðanarvirki, ið grannskoða smærri fyritøkur.</s>
+                                </p>
+                                
+                                <p>
+                                    <s>Persónskarin verður víðkaður, sum grannskoðarin, ið tekur við, hevur skyldu til at venda sær til.</s>
+                                    <s>Nágreinað verður, at grannskoðarin, sum tekur við, hevur skyldu til at venda sær til grannskoðaran, sum fer frá.</s>
+                                    <s>Um grannskoðarin, sum fer frá, ikki er tann grannskoðarin, sum hevur givið ta seinastu váttanina á ársroknskapin v.m., skal grannskoðarin, sum tekur við, eisini venda sær til tann grannskoðaran, sum hevur givið ta seinastu váttanina.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður upp, at tað verða gjørdar nakrar nágreiningar og nýggj krøv fyri grannskoðarar í samtøkum, heruppií at arbeiðsskjølini hjá einum samtaksgrannskoðara skulu skjalprógva, at aðrir grannskoðarar hava givið sítt samtykki til, at viðkomandi skjalprógv fyri grannskoðanini kunnu latast víðari.</s>
+                                    <s>Nágreiningarnar eru samsvarandi nýggju reglunum í ES-direktivinum.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.4 Frágreiðingar grannskoðarans</head>
+
+                                <p>
+                                    <s>Sambært grannskoðaralógini hava grannskoðarar í sambandi við virksemið eina røð av rapporteringsskyldum.</s>
+                                    <s>Sambært § 17 í galdandi lóg skal grannskoðarin geva eina grannskoðanarátekning á roknskapin, tá grannskoðarin er liðugur við grannskoðanina.</s>
+                                    <s>Nærri reglur um innihaldið í grannskoðanarátekningini eru ásettar í váttanarkunngerðini t.e. kunngerð nr. 123 frá 26. juli 2019 um grannskoðaraváttanir o.a.</s>
+                                </p>
+
+                                <p>
+                                    <s>Krøvini til grannskoðanarátekningina og innihaldið í henni eru ásett samsvarandi 8. vinnufelagadirektivinum hjá ES og eftir roknskapardirektivum frá ES.</s>
+                                </p>
+
+                                <p>
+                                    <s>Sambært § 18 í galdandi lóg skal grannskoðarin føra eina grannskoðanarprotokoll, tá grannskoðað verður.</s>
+                                    <s>Kravið um grannskoðanarprotokoll er ikki eitt krav sambært ES-reglum ella altjóða reglum.</s>
+                                </p>
+
+                                <pb n="25"/>
+
+                                <p>
+                                    <s>Harafturat eru í galdandi lóg reglur um skyldu grannskoðarans at fráboða løgregluni, tá illgruni er um brotsverk av fíggjarligum slag.</s>
+                                    <s>Fráboðanarskyldan um fíggjarlig brotsverk varð ásett sum eitt ískoyti til lóggávuna um hvítvask soleiðis, at eisini onnur sløg av fíggjarligum brotsverkum, sum grannskoðarin verður varugur við, eru fevnd av fráboðanarskyldu grannskoðarans.</s>
+                                </p>
+
+                                <p>
+                                    <s>Nýggju ES-reglurnar seta broytt krøv og nýggj krøv til rapporteringsskyldu grannskoðarans.</s>
+                                    <s>Kravt verður nú, at tað verður gjørd ein felags grannskoðanarátekning í teimum førum, har fleiri grannskoðarar eru valdir at grannskoða, eins og krav eisini verður sett um, at tað altíð skal verða upplýst um møguliga týðandi óvissu um framhaldandi rakstur (going concern).</s>
+                                    <s>Sambært ES-fyriskipanini, sum er til viðgerðar, samstundis sum hetta uppskotið, verður harumframt kravd ein røð av upplýsingum í grannskoðanarátekningini, um talan er um grannskoðan av fyritøkum av almennum áhuga (PIE-fyritøkur).</s>
+                                </p>
+
+                                <p>
+                                    <s>Kravið um at geva felags grannskoðanarátekning verður nú ásett í grannskoðaralógini, meðan tey neyvari ásettu krøvini til innihaldið í grannskoðanarátekningini verða sum higartil ásett í váttanarkunngerðini.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í sambandi við broyting av váttanarkunngerðini verður skotið upp, at kunngerðin verður rættað samsvarandi altjóða grannskoðanarstandardunum.</s>
+                                    <s>Á tann hátt verður tað gjørdur ein karmur, sum ger tað møguligt at liva upp til krøvini til upplýsingar, sum eru galdandi í sambandi við grannskoðan av PIE-fyritøkum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður upp at seta úr gildi kravið í § 18 í lógini um at føra grannskoðanarprotokoll fyri tær fyritøkur, sum ikki eru PIE-fyritøkur, tí eftir ES-reglum er hetta kravið einans galdandi fyri PIE-fyritøkur.</s>
+                                    <s>Verður kravið um grannskoðanarprotokoll sett úr gildi merkir tað ikki, at leiðslan í fyritøkuni ikki longur fær upplýsingarnar í grannskoðanarprotokollini.</s>
+                                    <s>Teir altjóða grannskoðanarstandardarnir áleggja grannskoðaranum at geva leiðsluni í grannskoðaðu fyritøkuni eina røð av upplýsingum, og einki forðar fyri, at leiðslan í fyritøkuni avtalar við grannskoðaran, at tað framhaldandi skal gerast ein grannskoðanarprotokoll.</s>
+                                    <s>Alt eftir, hvat hóskar best til ta einstøku fyritøkuna, verður nú møguleiki hjá fyritøku og grannskoðara at avtala, um grannskoðanarprotokoll skal gerast ella ikki.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.5 Etikkur og óheftni</head>
+                            
+                                <p>
+                                    <s>Grannskoðarin er álitisumboðið hjá almenninginum, tá hann ger grannskoðanaruppgávur og aðrar váttanaruppgávur við trygd, og skal hann útinna uppgávurnar í samsvari við góðan grannskoðanarsið, heruppií vísa tann neyvleika og tað umhugsni, sum einstaka uppgávan krevur.</s>
+                                </p>
+
+                                <p>
+                                    <s>Góður grannskoðanarsiður merkir eisini, at grannskoðarin skal vísa integritet, partloysi, trúnað, yrkisliga framferð, yrkisførleika og neyðugt nærlagni, tá uppgávurnar verða framdar.</s>
+                                </p>
+
+                                <p>
+                                    <s>Góður grannskoðanarsiður mennist leypandi í sambandi við, at broytingar henda í samfelagnum og í sjálvari grannskoðaravinnuni, og verður sjónligur og mennist serstakliga gjøgnum dómar, avgerðir í grannskoðaranevndini, frágreiðingar/álit, grannskoðanarstandardar og –vegleiðingar umframt praksis.</s>
+                                </p>
+
+                                <p>
+                                    <s>Ásetingin í § 22 í grannskoðaralógini um óheftni er ein karmur fyri, hvat liggur í hugtakinum “óheftni”, og inniheldur tey yvirskipaðu og grundleggjandi krøvini til óheftni.</s>
+                                    <s>Í ásetingini er eisini eitt forboð fyri, at tann ella teir grannskoðarar, sum undirskriva <pb n="27"/> grannskoðanarátekningina fyri eina fyritøku av almennum áhuga (PIE-fyritøku), kunnu átaka sær eitt leiðandi starv í hesi fyritøkuni, áðrenn 2 ár eru liðin, síðani viðkomandi fór frá sum grannskoðari.</s>
+                                    <s>Nærri reglur um óheftni eru ásettar í kunngerð nr. 5 frá 17. februar 2010 um óheftni grannskoðarans og grannskoðanarvirkisins.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tað er eisini eitt krav sambært § 23 í galdandi lóg, at tann ella teir grannskoðarar, sum undirskriva grannskoðanarátekningina í ársfrágreiðingini hjá einari PIE-fyritøku, skulu skiftast út í seinasta lagi 7 ár eftir, at teir eru tilnevndir at gera uppgávuna (partnerrotation).</s>
+                                    <s>Viðkomandi grannskoðari kann hereftir í fyrsta lagi átaka sær uppgávuna, tá tvey ár eru gingin, síðani viðkomandi fór frá sum grannskoðari.</s>
+                                </p>
+
+                                <p>
+                                    <s>Eftir § 24, stk. 1 í galdandi lóg kann ein grannskoðanarfyritøka í 5 fylgjandi roknskaparár ikki hava ein størri part enn 20% av sínum umsetningi hjá sama kunda.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í 8. vinnufelagadirektivinum hjá ES eru meginreglurnar ásettar fyri yrkisligan etikk, heruppií grannskoðarans leiklut í áhugamálunum hjá almenninginum, integritet grannskoðarans og partloysi umframt yrkisførleika og nærlagni.</s>
+                                    <s>Ein av broytingunum í direktivinum er, at tað nágreiniliga verður sett sum krav, at grannskoðarin skal vísa professionelt ivasemi í sambandi við grannskoðanina.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tí verður nú skotið upp, at krøvini til góðan grannskoðanarsið verða nágreinað soleiðis, at kravið eisini fer at fevna um professionelt ivasemi.</s>
+                                    <s>Kravið um professionelt ivasemi verður eisini galdandi fyri aðrar uppgávur enn grannskoðan, og fylgir hetta sostatt breiða nýtsluøki lógarinnar.</s>
+                                </p>
+
+                                <p>
+                                    <s>Nýggju ES-reglurnar herða generelt krøvini til óheftni grannskoðarans.</s>
+                                    <s>Eftir ES-fyriskipanini verða krøvini til óheftni hjá grannskoðarum, sum grannskoða PIE-fyritøkur, herd enn meira, heruppií krøvini til útskifting av grannskoðara (partnerrotation).</s>
+                                </p>
+
+
+                                <p>
+                                    <s>Skotið verður upp, at ásetingarnar í § 22 um óheftni grannskoðarans verða broyttar soleiðis, at tað verður nágreinað, í hvørjum tíðarskeiði óheftniskrøvini eru galdandi.</s>
+                                    <s>Harafturat verður ásett, hvussu grannskoðarin skal fyrihalda seg til sítt óheftni, um tann grannskoðaða fyritøkan í roknskapartíðarskeiðnum verður yvirtikin, verður løgd saman við ella yvirtekur eina aðra fyritøku.</s>
+                                </p>
+
+                                <p>
+                                    <s>Sambært nýggju ES-reglunum verður forboðið móti at fara í starv hjá einum grannskoðanarkunda víðkað til eisini at galda fyri grannskoðarar, ið grannskoða aðrar fyritøkur enn PIE-fyritøkur, eins og forboðið eisini verður víðkað til aðrar grannskoðarar, sum hava luttikið í grannskoðanini.</s>
+                                    <s>Skotið verður upp, at ásetingarnar verða savnaðar í nýggju lógargreinini § 22 c í uppskotinum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tey meira nágreiniligu krøvini til óheftni verða sum higartil ásett í kunngerðini um óheftni.</s>
+                                </p>
+
+                                <p>
+                                    <s>ES-fyriskipanin setur eina røð av krøvum til óheftni grannskoðarans, tá hann grannskoðar PIE-fyritøkur.</s>
+                                    <s>Tó er eftir fyriskipanini ein røð av møguleikum fyri, at londini, fyri at lætta um, kunnu seta linari reglur í gildi.</s>
+                                    <s>Lagt verður upp til, at hesin møguleiki verður nýttur.</s>
+                                </p>
+
+
+                                <p>
+                                    <s>Sambært ES-fyriskipanini er ein røð av veitingum, sum grannskoðari ikki kann veita PIE-fyritøkum, sum viðkomandi grannskoðar.</s>
+                                    <s>Eftir fyriskipanini er møguleiki fyri, at grannskoðari ger ávísar uppgávur viðvíkjandi skatti og metingum, um vanligu krøvini til óheftni verða yvirhildin, og uppgávurnar hvør sær ella samanumtikið ikki hava nakran ella lítlan týdning fyri grannskoðaðu fyritøkuna.</s>
+                                    <s>Skotið verður upp, at hesin møguleiki sambært <pb n="28"/>fyriskipanini verður nýttur, og reglur um hetta verða ásettar í nýggju lógargreinini § 22 a í uppskotinum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Sambært fyriskipanini eru avmarkingar fyri, hvussu stórur partur av samsýning grannskoðarans frá einari PIE-fyritøku kann viðvíkja øðrum veitingum enn grannskoðan.</s>
+                                    <s>Avmarkingin er 70% av samsýningini hjá grannskoðaranum.</s>
+                                    <s>Møguleiki er sambært fyriskipanini at áseta, at avvarðandi myndugleiki eftir áheitan frá grannskoðaranum í undantaksføri kann verða undantikin frá kravinum í eitt tíðarskeið.</s>
+                                    <s>Skotið verður í § 22 b í uppskotinum upp, at hesin møguleiki verður nýttur samsvarandi fyriskipanini soleiðis, at tað kann verða givið undantak frá kravinum í eitt roknskaparár.</s>
+                                </p>
+
+                                <p>
+                                    <s>Galdandi áseting um at skifta grannskoðaran út (“partnerrotation”) er flutt frá direktivinum og í fyriskipanina.</s>
+                                    <s>Reglurnar um at skifta grannskoðaran út verða tí, tá tað snýr seg um grannskoðan av PIE-fyritøkum, frameftir at finna í ES-fyriskipanini.</s>
+                                    <s>Reglur um at skifta grannskoðaran út verða framvegis í grannskoðaralógini, men eru hesar reglur einans galdandi fyri grannskoðan av fyritøkum, sum eru omanfyri ávísa stødd.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í fyriskipanini eru eisini reglur um, hvussu stórur partur av umsetningi grannskoðarans kann koma frá somu PIE-fyritøku.</s>
+                                    <s>Um samsýningin frá sama kunda í trý fylgjandi roknskaparár er omanfyri 15% skal grannskoðarin umrøða hesi viðurskiftini við grannskoðanarbólkin.</s>
+                                    <s>Um grannskoðanarsamsýningin framvegis er omanfyri 15%, skal grannskoðanarbólkurin taka avgerð um, hvørt grannskoðarin kann halda fram við grannskoðanaruppgávuni í eitt tíðarskeið, sum ikki kann fara upp um 2 ár.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tað ikki er nakað samsvarandi krav í ES-reglunum til grannskoðan av fyritøkum, sum ikki eru PIE-fyritøkur.</s>
+                                    <s>Tí verður skotið upp, at galdandi áseting í § 24, stk. 1 í grannskoðaralógini um, at grannskoðari í fimm fylgjandi roknskaparár í mesta lagi kann fáa 20% av umsetninginum frá sama kunda, verður sett úr gildi.</s>
+                                </p>
+
+                                <p>
+                                    <s>Grannskoðarin skal tó framvegis vera óheftur í sínum virksemi, og grannskoðarin skal tí framhaldandi meta um hóttanir móti óheftni sum avleiðing av einum stórum umsetningi frá sama kunda og nýta trygdarfyriskipanir fyri at minka um hóttanir, so tær eru á einum støði, sum kann góðtakast.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.6 Innanhýsis bygnaður og góðskustýringarskipan umframt góðskueftirlit</head>
+
+                                <p>
+                                    <s>Í grannskoðaralógini eru ongar ásetingar um, hvussu innanhýsis bygnaðurin á grannskoðanarvirkjum skal vera, uttan kravið um, at grannskoðanarvirkir skulu hava eina góðskustýringarskipan, sum skal skjalprógvast.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tær altjóða galdandi meginreglurnar, her undir meginreglan um góðskustýringarskipan á grannskoðanarvirkjum, útfylla hugtakið góður grannskoðanar- og góðskustýringarsiður og innihalda ásetingar um innanhýsis bygnað á grannskoðanarvirkjum og um góðskustýringarskipanina.</s>
+                                </p>
+
+                                <p>
+                                   <s>Eftir galdandi lóg hevur landsstýrismaðurin heimild til í kunngerð at áseta nærri reglur um innihaldið í góðskustýringarskipanini og um skjalprógv fyri nýtslu av skipanini.</s>
+                                   <s>Henda heimild er enn ikki brúkt.</s>
+                                   <s>Lógarálagda góðskueftirlitið verður í dag gjørt við støði í teimum altjóða meginreglunum um góðskustýring á grannskoðanarvirkjum, ISQC1.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í sambandi við lógarálagda góðskueftirlitið verður kannað, um grannskoðanarvirkið hevur skipað, sett í verk og nýtt eina góðskustýringarskipan.</s>
+                                </p>
+
+                                <pb n="29"/>
+
+                                <p>
+                                    <s>Skyldan at hava góðskueftirlit er galdandi fyri øll góðkend grannskoðanarvirkir og góðkendar grannskoðarar.</s>
+                                    <s>Tað lógarálagda góðskueftirlitið skal í minsta lagi vera 6. hvørt ár, og í minsta lagi 3. hvørt ár á grannskoðanarvirkjum, sum grannskoða fyritøkur av almennum áhuga.</s>
+                                </p>
+
+                                <p>
+                                    <s>Nýggju ES-reglunar seta krøv til innanhýsis bygnaðin í grannskoðanarvirkjum og seta minstu krøv til innihaldið í góðskustýringarskipanini.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður tí upp, at heimildin hjá landsstýrismanninum til at áseta reglur um innihaldið í góðskustýringarskipanini verður víðkað til eisini at fevna um krøv til innanhýsis bygnaðin á einum grannskoðanarvirki.</s>
+                                    <s>Skotið verður upp, at krøvini til innanhýsis bygnaðin, her undir góðskustýringarskipanina, verða ásett í kunngerð og eisini verða galdandi fyri aðrar váttanir við trygd.</s>
+                                </p>
+
+                                <p>
+                                    <s>Tað verða ásett krøv til grannskoðanarvirkir um, at tey sum liður í teirra góðskustýringarskipan skulu hava eina hóskandi skipan, har tey starvssettu kunnu fráboða um brot ella møgulig brot á grannskoðaralóggávuna ella ES-fyriskipanina.</s>
+                                </p>
+                                
+                                <p>
+                                    <s>Lógarálagda góðskueftirlitið verður framt við útgangsstøði í krøvunum til góðskustýringarskipaninar á grannskoðanarvirkjunum, men tær altjóða meginreglurnar, her undir ISCQ1, útfylla framvegis hugtakið góður grannskoðanar- og góðskustýringarsiður og verður hetta eins og higartil ein partur í metingini, hvørt grannskoðanarvirkið hevur skipað, sett í verk og brúkt eina góðskustýringarskipan.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í ES-direktivinum eru nýggjar reglur um, hvussu ofta lógarálagda góðskueftirlitið skal vera á teimum grannskoðanarvirkjunum, sum einans grannskoða fyritøkur, sum ikki eru fyritøkur av almennum áhuga, her undir at eftirlitið skal byggja á váðametingar.</s>
+                                    <s>Skotið verður tí upp, at eftirlitið við grannaskoðanarvirkjum, sum bert grannskoða smáar fyritøkur, fer frá at vera 6. hvørt ár til, at grannskoðanarvirkini verða vald út til eftirlit útfrá eini váðagreining, og at grannskoðanarvirkir, sum grannskoða miðal stórar og stórar fyritøkur koma undir eftirlit í minsta lagi hvørt 6. ár.</s>
+                                    <s>Væntað verður, at henda broyting hevur við sær, at tað verða færri lógaráløgd eftirlit</s>
+                                </p>
+
+                                <p>
+                                    <s>Lógarálagda góðskueftirlitið á virkjum, sum grannskoða PIE-fyritøkur, verður nú regulerað í ES-fyriskipanini, og er har ásett, at eftirlitið skal vera í minsta lagi 3. hvørt ár.</s>
+                                    <s>Á granskoðanarvirkjum, sum bert grannskoða smáar ella miðalstórar PIE-fyritøkur, skal eftirlitið, sum í dag er 3. hvørt ár, sambært ES-fyriskipanini einans verða 6. hvørt ár.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.7 Grannskoðanarbólkur</head>
+                                
+                                <p>
+                                    <s>Sambært galdandi lóg skulu børsskrásettar fyritøkur skipa ein grannskoðanarbólk.</s>
+                                    <s>Sambært galdandi reglum er ásett, undir hvørjum treytum fyritøkan kann velja at lata evstu leiðsluna útinna uppgávurnar hjá grannskoðanarbólkinum og um førleikarnar hjá limunum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Uppgávan hjá grannskoðanarbólkinum er at hava eftirlit við tilgongdini við roknskaparframløguni og við innanhýsis eftirlitsskipanini hjá fyritøkuni, og at møgulig innanhýsis grannskoðan og váðastýringarskipan er munagóð, og at hava umsjón við tí lógaráløgdu grannskoðanini av ársroknskapinum v.m.</s>
+                                    <s>Grannskoðanarbólkurin skal eisini hava eftirlit við og kanna óheftni grannskoðarans, her undir serstakliga um aðrar tænastur verða veittar fyritøkuni.</s>
+                                    <s>Harafturat skal uppskotið hjá evstu leiðsluni um val av grannskoðara byggja á eitt tilmæli frá grannskoðanarbólkinum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Krøvini til grannskoðanarbólkin og uppgávur hansara eru ásett í 8. vinnufelagadirektivinum hjá ES.</s>
+                                </p>
+
+                                <pb n="29"/>
+
+                                <p>
+                                    <s>Í nýggju ES-reglunum eru nýggj/broytt krøv til grannskoðanarbólkar, her undir skipan, uppgávur o.a.</s>
+                                </p>
+
+                                <p>
+                                    <s>Við hesum uppskoti verður lagt upp til, at broytingarnar í direktivinum, sum áseta, at allar PIE-fyritøkur skulu hava ein grannskoðanarbólk, verða settar í gildi.</s>
+                                    <s>Sambært núgaldandi lóg verður kravt, at í minsta lagi ein limur í bólkinum skal vera óheftur og hava førleikar innanfyri roknskap og/ella grannskoðan.</s>
+                                    <s>Hetta verður við hesum uppskotinum broytt til, at í minsta lagi ein limur í bólkinum skal hava førleikar innanfyri roknskap og/ella grannskoðan, og at limirnir í grannskoðanarbólkinum tilsamans skulu hava førleikar, sum eru viðkomandi fyri grannskoðaðu fyritøkuna.</s>
+                                </p>
+
+                                <p>
+                                    <s>Eftir uppskotinum hava fyritøkur av almennum áhuga, sum í útgangsstøði hava skyldu til at skipa ein grannskoðanarbólk, møguleika til at lata formannin í bólkinum og aðrar limir í bólkinum velja beinleiðis á aðalfundinum hjá fyritøkuni, tí tað verður ikki longur sett sum krav, at limirnir í bólkinum samstundis skulu vera limir í evstu leiðsluni í fyritøkuni.</s>
+                                    <s>Á tann hátt verður tað ein meira smidlig skipan í sambandi við skipan av grannskoðanarbólki, og at persónar við serligum innliti í grannskoðan og roknskaparviðurskifti ikki óneyðugt taka eitt pláss í nevndini í fyritøkuni.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í uppskotinum er heimildin at lata nevndina taka sær av uppgávunum hjá grannskoðanarbólkinum varðveitt.</s>
+                                    <s>Á tann hátt verður tryggjað, at fyritøkurnar á smidligan hátt kunnu skipa nevndararbeiðið soleiðis, sum einstaka fyritøkan metir tað mest skynsamt.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður upp at áseta eina heimild til, at tað kann verða givið undantak viðvíkjandi skylduni at skipa ein grannskoðanarbólk í tí, sum sambært direktivinum eru alternativ íløgufeløg umframt ávís feløg, hvørs einasta endamál er at útgeva virðisbrøv við trygd í ávísum nágreinaðum aktivum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Harafturat verður framvegis møguligt at geva lættar samsvarandi broytingunum í direktivinum í mun til smærri PIE-fyritøkur.</s>
+                                </p>
+
+                                <p>
+                                    <s>Uppgávurnar hjá grannskoðanarbólkinum verða víðkaðar soleiðis, at bólkurin nú skal boða nevndini/eftirlitsnevndini í fyritøkuni frá um úrslitið av grannskoðanini, her undir greiða frá, hvussu grannskoðanin hevur givið íkast til integritetin í roknskaparframløguni og um leiklutin hjá grannskoðanarbólkinum í tilgongdini.</s>
+                                    <s>Grannskoðanarbólkurin skal framvegis hava eftirlit við mannagongdunum í sambandi við roknskapartilgongdina, men skal harafturat koma við tilmælum ella uppskotum, sum skulu tryggja integritetin.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í fyriskipanini er harumframt ein røð av uppgávum og skyldum hjá grannskoðanarbólkinum, t.d. tá útboð er í sambandi við val av grannskoðara.</s>
+                                </p>
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.8 Um skipan og fyrireiking av almenna eftirlitinum</head>
+
+                                <p>
+                                    <s>Endamálið við almenna eftirlitinum við grannskoðanarvirkjum og grannskoðarum er at tryggja og hækka góðskuna á váttanaruppgávum við trygd, sum grannskoðarin ger, og harvið viðvirka til at økja um álitið á roknskapirnar hjá fyritøkunum.</s>
+                                </p>
+
+                                <p>
+                                    <!-- TODO: fix this list somehow??? -->
+                                    <s>Sambært galdandi grannskoðaralóg hevur Skráseting Føroya ábyrgd av eftirlitinum við grannskoðarum og grannskoðanarvirkjum, herundir
+                                    <lb/>- próvtøku og eftirútbúgving,
+                                    <lb/>- góðskueftirliti
+                                    <pb n="30"/>
+                                    <lb/>- kanningum
+                                    <lb/>- dissiplinermálum, og
+                                    <lb/>- samstarvi við og flytan av upplýsingum til málsførar myndugleikar í øðrum londum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Grannskoðaraeftirlitið hevur ábyrgdina av, at góðskueftirlitið verður framt, og Grannskoðaranevndin hevur ábyrgdina av dissiplinermálum.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í báðum nevndunum er minnilutin av limunum starvandi grannskoðarar.</s>
+                                    <s>Grannskoðaravinnan ber útreiðslurnar av góðskueftirlitinum, kanningum og dissiplinerskipanini.</s>
+                                </p>
+
+                                <p>
+                                    <s>Viðvíkjandi próvtøkuni til at gerast góðkendur grannskoðari er skipanin í dag tann, at ein próvtøkunevnd, sum Skráseting Føroya setur, skipar fyri próvtøkuni til at gerast løggildur grannskoðari.</s>
+                                    <s>Í nevndini sita 1 løggildur grannskoðari og 4 aðrir limir, ið ikki eru løggildir grannskoðarar, men eru kønir í handilsviðurskiftum, skattarætti, skiftirætti og tjóðarbúskapi.</s>
+                                    <s>Sambært grannskoðaralógini skal próvtøkan, herundir reglurnar um innstilling til próvtøku, próvtøkukrøvini, próvtøkuhald og –døming, lúka neyðug krøv til at vera góðkend í einum ES- ella EBS-landi.</s>
+                                    <s>Nærri reglur um próvtøkuna eru ásettar í kunngerð nr. 4 frá 4. februar 2016 um próvtøku fyri løggildar grannskoðarar.</s>
+                                </p>
+
+                                <p>
+                                    <s>Próvtøkunevndin hevur við heimild í grannskoðaralógini møguleika til at gera avtalu við myndugleikar í øðrum londum um at veita hjálp í sambandi við próvtøkuhald og próvtøkudøming.</s>
+                                    <s>Próvtøkunevndin og Skráseting Føroya hava gjørt avtalu við danska Erhvervsstyrelsen um samstarv í sambandi við próvtøkuhald.</s>
+                                    <s>Í praksis er skipanin hon, at grannskoðarar, sum søkja um at sleppa til próvtøku í Føroyum, skulu standa eina próvtøku í føroyskum skattarætti og eina skrivliga roynd, ið er tann sama uppgávan, sum danskir grannskoðarar fara upp í.</s>
+                                    <s>Hendan loysnin er vald, tí viðkomandi føroyskar lógir og reglur á økinum er so at siga eins við galdandi lógir og reglur í Danmark.</s>
+                                    <s>Tað er serliga á skattaøkinum, at lóggávan er ein onnur í Føroyum, og tí verður skipað ein serstøk próvtøku í skattarætti í Føroyum.</s>
+                                    <s>Próvtøkunevndin próvdømir uppgávurnar hjá teimum, sum fara til próvtøku í Føroyum.</s>
+                                    <s>Hendan próvtøkuskipanin varð sett í verk fyri nøkrum árum síðani, og góðkendi grannskoðaravinnan hendan leistin, áðrenn hann varð settur í verk.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í nýggju ES-reglunum verður lagt upp til, at broytingar verða gjørdar viðvíkjandi almenna eftirlitinum við grannskoðanarvirkjum og grannskoðarum, og hevur tað við sær, at neyðugt er at endurskoða galdandi reglur hesum viðvíkjandi.</s>
+                                    <s>Skotið verður nú upp at áseta reglur, sum eru í samsvari við ES-reglurnar um almenna eftirlitið.</s>
+                                </p>
+
+                                <p>
+                                   <s>Nýggju ES-reglurnar loyva ikki, at góðkendir grannskoðarar luttaka í viðgerðini av eftirlitsmálum og eru við til at taka avgerðirnar.</s>
+                                   <s>Hetta hevur við sær, at Grannskoðaraeftirlitið ikki kann halda fram við verandi bygnaði, har tveir av 5 limum eru góðkendir grannskoðarar.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í dag er Grannskoðaraeftirlitið mannað við 5 limum, harav eru 1 formaður, 2 góðkendir grannskoðarar og 2 umboð fyri roknskaparbrúkararnar.</s>
+                                    <s>Hvørki formaðurin ella umboðini fyri roknskaparbrúkararnar kunnu vera góðkendir grannskoðarar, vera í starvi á einum grannskoðanarvirki ella reka grannskoðanarvirki saman við góðkendum grannskoðarum.</s>
+                                    <s>Uppgávan hjá nevndini er at tryggja, at góðskueftirlitið á virkjunum fer fram sambært lógini.</s>
+                                    <s>Grannskoðaraeftirlitið góðkennir góðskueftirlitsfólkini, sum skulu út á virkini at gera eftirlit.</s>
+                                    <s>Tá góðskueftirlitið er endað sendur góðskueftirlitsfólkið eina frágreiðing til Grannskoðaraeftirlitið soleiðis, at eftirlitið kann meta um og taka støðu til, um eftirlitið skal enda uttan viðmerkingar, um átala skal gevast, uppfylgjandi eftirlitsvitjan skal gerast, ella málið skal leggjast fyri Grannskoðaranevndina (dissiplinernevndina).</s>
+                                </p>
+
+                                <pb n="32"/>
+
+                                <p>
+                                    <s>Í ES-direktivi 2014/56/EU og ES-fyriskipan nr. 537/2014/EU er greitt ásett, at eftirlitið skal virka óheft av grannskoðaravinnuni, og harafturat er ásett, at eftirlitið skal hava neyðugan førleika, serfrøði og arbeiðsorku til uppgávuna.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skotið verður upp, at Grannskoðaraeftirlitið heldur fram við somu uppgávum, men nevndin verður skipað uttan limir, sum starvast sum góðkendir grannskoðarar.</s>
+                                    <s>Lagt verður upp til, at teir báðir sessirnir í eftirlitinum, sum í dag eru mannaðir við góðkendum grannskoðarum, frameftir verða mannaðir við tveimum limum, sum skulu hava hóskandi útbúgving og viðkomandi royndir innan grannskoðan og roknskapargreiðslu.</s>
+                                </p>
+
+                                <p>
+                                    <s>Endamálið við góðskueftirlitinum er at hækka góðskuna á grannskoðanini og hjá grannskoðarum.</s>
+                                    <s>Góðskueftirlitið fer tí í framtíðini at hava høvuðsdentin á at koma við tilmælum um batar og at fylgja upp í eftirlitsmálum.</s>
+                                    <s>Lagt verður upp til, at smærri mál í framtíðini í størri mun kunnu verða endað við einum boðum ella eini átálu heldur enn sum nú, har lógin í størri mun leggur upp til, at málini verða løgd fyri Grannskoðaranevndina og kunnu føra við sær revsing við sekt.</s>
+                                    <s>Samstundis verður skotið upp at áseta nýggjar møguleikar fyri revsing í málum, har talan er um grov brot soleiðis, at tað í slíkum málum verða tikin munagóð stig.</s>
+                                    <s>Viðmerkjast skal, at tað higartil sjáldan er komið fyri, at Grannskoðaraeftirlitið hevur lagt mál fyri Grannskoðaranevndina.</s>
+                                </p>
+
+                                <p>
+                                    <s>Í Danmark vórðu reglurnar viðvíkjandi próvtøku fyri grannskoðarar broyttar í 2016 soleiðis, at skipanin nú líkist skipanini fyri advokatar, har Advokatsamfundet skipar fyri próvtøkuni.</s>
+                                    <s>Í Danmark verður próvtøkan fyri grannskoðarar nú skipað á tann hátt, at Foreningen af Statsautoriserede Revisorer (FSR) stendur fyri próvtøkuni.</s>
+                                    <s>Henda nýggja próvtøkuskipanin er skipað við virðing fyri ymisku leiklutunum sum Erhvervsstyrelsen og FSR hava sum ávikavist myndugleiki og vinnugreinafelag soleiðis, at uppgávurnar verða loystar munadygt við teimum fyrimunum sum eru við myndugleikaheimildunum og við vinnuliga innlitinum hjá FSR.</s>
+                                    <s>Henda skipanin er mett at vera til fyrimuns fyri grannskoðaravinnuna og fyri samfelagið.</s>
+                                    <s>Aftaná ráðførðslu við Felagið fyri Føroyskar Grannskoðarar verður ein heimild til at nýta uppgávur hjá FSR í sambandi við próvtøkuhaldi ásett í grannskoðaralógina.</s>
+                                    <s>Ætlanin er, at tað framhaldandi verður sett sum krav, at grannskoðarar, sum fara til próvtøku í Føroyum, umframt donsku uppgávuna eisini skulu standa føroyskan skattarætt, og Próvtøkunevndin tekur sær av próvdømingini.</s>
+                                </p>
+
+                                <p>
+                                    <s>Grannskoðaranevndin verður varðveitt, men uppgávurnar verða broyttar soleiðis, at nevndin frameftir einans skal viðgera meira álvarsom brot á grannskoðarans skyldur umframt á skyldur leiðslunnar sambært teimum nýggju ES-reglunum.</s>
+                                    <s>Samstundis verður skotið upp, at nevndin fær tær neyðugu heimildirnar til at revsa dissiplinert, tá talan er um álvarslig brot, herundir møguleika fyri treytaðari frádøming, fyribils forboð fyri at grannskoðari átekur sær ávís størv og møguleika fyri at tvífalda støddina á sektini.</s>
+                                </p>
+
+                                <p>
+                                    <s>Skráseting Føroya fær sambært uppskotinum nýggjar uppgávur orsakað av ES-reglunum.</s>
+                                    <s>Talan er um hesar uppgávurnar:</s>
+
+                                    <list rend="bulleted">
+                                        <item>
+                                            <s>Skipan av einari varskógvaraskipan og uppfylging av upplýsingum, sum verða móttiknar.</s>
+                                        </item>
+                                        <item>
+                                            <s>Umsjón við broytingum á marknaðinum fyri grannskoðan av PIE-fyritøkum og fyrireiking av eini frágreiðing um hetta 3. hvørt ár.</s>
+                                        </item>
+                                        <item>
+                                            <s>Eftirlit við, at limir í leiðsluni í PIE-fyritøkum halda tær skyldur, sum eru álagdar sambært fyriskipanini, og teimum ásetingum, sum eru ein fylgja av broytingum í direktivinum.</s>
+                                        </item>
+                                    </list>
+                                </p>
+
+                                <pb n="33" />
+                            </div>
+
+                            <div type="subsubsection">
+                                <head>1.3.1.9 Revsing og almannakunngerð</head>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
