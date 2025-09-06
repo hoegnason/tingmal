@@ -1,0 +1,138 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Leiðreglur um samráð</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Rani Høgnason Hansen</publisher>
+                <idno type="url">https://github.com/hoegnason/tingmal</idno>
+                <availability status="free">
+                    <licence target="http://creativecommons.org/licenses/by/4.0/">
+                        Creative Commons Attribution 4.0 International (CC BY 4.0)
+                    </licence>
+                    <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+                    <p>Original content is used here under §9 (public documents).</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>
+                    <title level="a" type="main">Leiðreglur um samráð</title>
+                    <publisher>Føroya Løgting</publisher>
+                    <date when="2023-10-05">5. oktober 2023</date>
+                    <idno type="url">https://www.logting.fo/um-logtingid/hvussu-arbeidir-tingid/leidreglur/leidreglur-um-samrad/</idno>
+                    <ref type="source" target="https://www.logting.fo/um-logtingid/hvussu-arbeidir-tingid/leidreglur/leidreglur-um-samrad/">Original URL</ref>
+                    <date type="accessed" when="2025-09-05" />
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="title">
+                <head type="main" rend="bold center">
+                    <s>Leiðreglur um samráð</s>
+                </head>
+            </div>
+            <space type="vertical" />
+        </front>
+        <body>
+            <div type="section">
+                <head rend="bold">Tingskipanin § 24, stk. 5</head>
+                <p>
+                    <seg>Stk. 5.</seg>
+                    <s>Um í minsta lagi 5 limir ynskja tað, kunnu nevndirnar, hóast regluna í stk. 4, seta løgmanni ella landsstýrisfólki spurningar um ávís viðurskifti.</s>
+                    <s>Spurningarnir verða settir skrivliga, og nevndin kann biðja um skrivligt svar, ella at løgmaður ella landsstýrisfólkið kemur á fund við nevndina at svara spurningunum.</s>
+                    <s>Er eingin freist ásett, eiga spurningarnir at verða svaraðir innan 2 vikur eftir, at teir eru settir.</s>
+                    <s>Sær løgmaður ella landsstýrisfólk seg ikki ført fyri at svara, skal viðkomandi skjótast tilber við skrivligari grundgeving boða nevndini frá hesum.</s>
+                </p>
+            </div>
+            <space type="vertical" />
+            <div type="section">
+                <head rend="bold">Mannagongd</head>
+                <p>
+                    <s>Um nevndarlimur ynskir samráð, eigur hann at venda sær til formannin í nevndini um at kalla nevndina til fundar at taka støðu til, um undirtøka er fyri hesum, t.e. at 5 nevndarlimir taka undir við ynskinum.</s>
+                    <s>Kallað verður inn til fundar á vanligan hátt.</s>
+                </p>
+
+                <p>
+                    <s>Spurningarnir, sum ætlaðir eru at seta løgmanni ella landsstýrisfólki, verða lagdir fram á nevndarfundinum.</s>
+                    <s>Um spyrjarin ynskir, at nevndarlimirnir fáa spurningarnar innan fundin, má hann sjálvur skipa fyri hesum.</s>
+                </p>
+
+                <p>
+                    <s>Um nevndin ger av, at samráð skal verða, tekur nevndin støðu til hetta:</s>
+                    <list rend="bulleted">
+                        <item><s>Hvørjir spurningar skulu sendast løgmanni ella landsstýrisfólkinum.</s></item>
+                        <item><s>Um løgmaður ella landsstýrisfólkið skal svara skrivliga ella koma á fund at svara spurningunum.</s></item>
+                        <item><s>Møguliga freist fyri, nær spurningarnir skulu verða svaraðir.</s></item>
+                    </list>
+                </p>
+
+                <p>
+                    <s>Nevndarskrivarin ger spurningarnar klárar.</s>
+                    <s>Nevndarformaðurin skrivar undir skrivið, ið verður sent løgmanni ella landsstýrisfólkinum.</s>
+                    <s>Hetta skriv verður lagt á heimasíðuna, sum nevndarskjal, um ikki serligar orsakir eru til, at málið skal viðgerast í trúnaði.</s>
+                </p>
+            </div>
+            <space type="vertical" />
+                <div type="section">
+                <head rend="bold">Munnligt samráð</head>
+                <p>
+                    <s>Tá løgmaður ella landsstýrisfólk kemur á fund, fær tann, sum hevur ynskt samráðið, orðið at grundgeva fyri spurningum sínum.</s>
+                </p>
+
+                <p>
+                    <s>Løgmaður ella landsstýrisfólkið fær síðan orðið at svara.</s>
+                    <s>Nevndarlimir eiga ikki at umrøða svarið, men kunnu seta fram ískoytisspurningar.</s>
+                    <s>Løgmaður ella landsstýrisfólkið kann velja at svara hesum spurningum skrivliga.</s>
+                    <s>Ískoytisspurningar eiga at vera um sama evni, sum upprunaspurningarnir vóru um, og kann løgmaður ella landsstýrisfólkið nokta at svara, um hildið verður, at spurningur er farin út um evni.</s>
+                </p>
+
+                <p>
+                    <s>Ískoytisspurningar verða endurgivnir í gerðabókini, um ikki serligar orsakir eru til, at spurningarnir eru í trúnaði.</s>
+                </p>
+
+                <p>
+                    <s>Tá spurningarnir eru svaraðir, fer løgmaður ella landsstýrisfólkið av fundi, og nevndin viðger tá, um svarið er nøktandi, ella um fleiri spurningar eiga at verða settir.</s>
+                    <s>Um so er, er mannagondin tann sama, sum ásett omanfyri.</s>
+                </p>
+
+                <p>
+                    <s>Tað er ikki loyvt at endurgeva frá tí, sum farið er fram á fundinum, men løgmaður, landsstýrisfólkið og nevndarlimir kunnu greiða frá egnum sjónarmiðum.</s>
+                </p>
+
+                <p>
+                    <s>Um løgmaður ella landsstýrisfólkið gevur nevndini sítt talupappír, verður hetta lagt á heimasíðuna sum nevndarskjal uttan so, at tað verður latið í trúnaði.</s>
+                </p>
+
+                <p>
+                    <s>Til tess at forða fyri, at misskiljingar koma í, verður tað, sum fer fram á hesum fundum, bandað.</s>
+                </p>
+            </div>
+            <space type="vertical" />
+                <div type="section">
+                <head rend="bold">Skrivligt samráð</head>
+                <p>
+                    <s>Mannagongdin er tann sama við tí undataki, at løgmaður ella landsstýrisfólkið svarar skrivliga. Spurningar og svar verða løgd á heimasíðu tingsins, sum nevndarskjøl, um ikki serligar orsakir eru til, at málið skal viðgerast í trúnaði.</s>
+                </p>
+            </div>
+            <space type="vertical" />
+            <div type="signature">
+                <dateline>
+                   Samtykt á fundi í formansskapinum <date when="2023-10-05">5. oktober 2023</date>
+                </dateline>
+                <space type="vertical" />
+                <signed>
+                    <persName>Bjørt Samuelsen<lb/><roleName>forkvinna</roleName></persName>
+                </signed>
+                <signed style="text-align: right;">
+                    / <persName>Johnhard Klettheyggj<lb/><roleName>stjóri</roleName></persName>
+                </signed>
+            </div>
+        </body>
+    </text>
+</TEI>
