@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/50712" />
+          <ref target="https://www.logting.fo/documents/50712"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,46 +57,46 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bíðilistar hjá sjúkrahúsverkinum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu long er bíðitíðin til ymisku viðgerðirnar hjá sjúkrahúsverkinum?</s>
+                <s xml:id="cu2pqojno5">Hvussu long er bíðitíðin til ymisku viðgerðirnar hjá sjúkrahúsverkinum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er bíðitíðin á psykiatriska deplinum longri enn ½ ár?</s>
+                <s xml:id="ljg4h5xyft">Er bíðitíðin á psykiatriska deplinum longri enn ½ ár?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvør ítøkilig loysn er í umbúna fyri at minka um bíðilistarnar?</s>
+                <s xml:id="fitqchagkr">Hvør ítøkilig loysn er í umbúna fyri at minka um bíðilistarnar?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað hevur javnan verið frammi um stóru bíðilistarnar á ávísum viðgerðum í heilsuverkinum.</s>
-            <s>Hetta ávirkar nógvar geirar í samfelagunum og ikki minst familjurnar, sum bíða.</s>
+            <s xml:id="ahyfb3sdcz">Tað hevur javnan verið frammi um stóru bíðilistarnar á ávísum viðgerðum í heilsuverkinum.</s>
+            <s xml:id="h3ulkbetjs">Hetta ávirkar nógvar geirar í samfelagunum og ikki minst familjurnar, sum bíða.</s>
           </p>
           <p>
-            <s>Skúlar royna at skipa viðurskiftini til tørvin hjá næmingunum við serligum avbjóðingum.</s>
-            <s>Hetta er ofta, meðan næmingarnir bíða eftir eini útgreining og einum betri tilboði.</s>
-            <s>Ofta skal ein útgreining til fyri at fáa nøktandi hjálp, m.a. til fleiri stuðulstímar ella øðrvísi skúlatilboð.</s>
+            <s xml:id="s66cjyrb4n">Skúlar royna at skipa viðurskiftini til tørvin hjá næmingunum við serligum avbjóðingum.</s>
+            <s xml:id="v2wgnkp4w4">Hetta er ofta, meðan næmingarnir bíða eftir eini útgreining og einum betri tilboði.</s>
+            <s xml:id="vm66ujp3jf">Ofta skal ein útgreining til fyri at fáa nøktandi hjálp, m.a. til fleiri stuðulstímar ella øðrvísi skúlatilboð.</s>
           </p>
           <p>
-            <s>Tí er tað bíðilistin, sum ger, at m.a. skúlabørn ikki fáa nøktandi karmar ella hjálp í skúlanum.</s>
-            <s>Henda gongd er óivað eisini á øðrum økjum, m.a. barnagarðsøkinum.</s>
+            <s xml:id="jpi2yvlfuc">Tí er tað bíðilistin, sum ger, at m.a. skúlabørn ikki fáa nøktandi karmar ella hjálp í skúlanum.</s>
+            <s xml:id="oc5yl7hlos">Henda gongd er óivað eisini á øðrum økjum, m.a. barnagarðsøkinum.</s>
           </p>
           <p>
-            <s>Hesin fyrispurningurin verður settur fyri at fáa yvirlit yvir støðuna.</s>
+            <s xml:id="sumjpys4gq">Hesin fyrispurningurin verður settur fyri at fáa yvirlit yvir støðuna.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-02-08">8. februar 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-02-08">8. februar 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

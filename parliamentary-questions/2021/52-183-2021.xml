@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/52855" />
+          <ref target="https://www.logting.fo/documents/52855"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,43 +57,43 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Víkar</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er nøkur ætlan um at seta eina tíðarfreist fyri at fáa vrakið av Hellutanga tikið upp?</s>
+                <s xml:id="s7l57p3qqf">Er nøkur ætlan um at seta eina tíðarfreist fyri at fáa vrakið av Hellutanga tikið upp?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Eru kanningar gjørdar av, hvørji árin kunnu vera av óhappinum á Víkum?</s>
+                <s xml:id="pfexz7dceg">Eru kanningar gjørdar av, hvørji árin kunnu vera av óhappinum á Víkum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Um ja, hvat vísir kanningin?</s>
+                <s xml:id="rsdg43uu2v">Um ja, hvat vísir kanningin?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Er tað hugsandi at gera náttúruperluna á Víkum til tjóðargarð ella friðað økið?</s>
+                <s xml:id="tomddnzbz6">Er tað hugsandi at gera náttúruperluna á Víkum til tjóðargarð ella friðað økið?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Fyri stuttari tíð síðan sóust myndir av náttúruperluni á Víkum.</s>
-            <s>Tó sæst á myndunum, at náttúruperlan er skemd, nú vrakið av Hellutangi er tægað sundur.</s>
-            <s>Føroya Náttúruog umhvørvisfelag og onnur hava í fleiri umførum mælt frá at loyva aling á Víkum.</s>
-            <s>Hesum hevur ikki verið lurtað eftir, og vit standa nú í støðuni, har Hellutangi liggur tægaður sundur sum vrak og skemmar náttúruøkið har.</s>
+            <s xml:id="ee5u56pm5j">Fyri stuttari tíð síðan sóust myndir av náttúruperluni á Víkum.</s>
+            <s xml:id="q2cxcryni2">Tó sæst á myndunum, at náttúruperlan er skemd, nú vrakið av Hellutangi er tægað sundur.</s>
+            <s xml:id="ipqnlpwlal">Føroya Náttúruog umhvørvisfelag og onnur hava í fleiri umførum mælt frá at loyva aling á Víkum.</s>
+            <s xml:id="lqhznvxbzs">Hesum hevur ikki verið lurtað eftir, og vit standa nú í støðuni, har Hellutangi liggur tægaður sundur sum vrak og skemmar náttúruøkið har.</s>
           </p>
           <p>
-            <s>Við lógaruppskotinum um náttúruvernd fer tað at verða møguligt at skipa øki sum tjóðargarð fyri at verja tey fyri størri náttúruinntrivum.</s>
-            <s>Tí verður spurt, um tað er hugsandi at skipa Víkar sum tjóðgarð ella friðað øki.</s>
+            <s xml:id="uzeo2d2np6">Við lógaruppskotinum um náttúruvernd fer tað at verða møguligt at skipa øki sum tjóðargarð fyri at verja tey fyri størri náttúruinntrivum.</s>
+            <s xml:id="s5mhbgbbex">Tí verður spurt, um tað er hugsandi at skipa Víkar sum tjóðgarð ella friðað øki.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-29">29. apríl 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-04-29">29. apríl 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>

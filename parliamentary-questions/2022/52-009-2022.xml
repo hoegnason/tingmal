@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53396" />
+          <ref target="https://www.logting.fo/documents/53396"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,36 +57,36 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Asfaltering í Fugloynni</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvørjar ætlanir eru um at asfaltera vegin millum Hattarvík og Kirkju?</s>
+                <s xml:id="trc3k4a7yn">Hvørjar ætlanir eru um at asfaltera vegin millum Hattarvík og Kirkju?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvørjar ætlanir eru um at gera nýggja bilverju á vegnum millum Hattarvík og Kirkju?</s>
+                <s xml:id="tct6c34t4g">Hvørjar ætlanir eru um at gera nýggja bilverju á vegnum millum Hattarvík og Kirkju?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvørjar ætlanir eru um at bøta um lendingina í Hattarvík og á Kirkju?</s>
+                <s xml:id="pfdtkepljq">Hvørjar ætlanir eru um at bøta um lendingina í Hattarvík og á Kirkju?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Vegurin millum Hattarvík og Kirkju er illa farin og treingir til ábøtur.</s>
-            <s>Í støðum er bilverjan eisini burtur, tí hon er illa farin.</s>
-            <s>Talan er bara um einar fimm kilometrar, og tí átti ikki at verið so kostnaðarmikið at asfalterað og gjørt bilverjuna aftur.</s>
-            <s>Á figgjarlógini er peningur fleiri ferðir játtaður til lendingina/havnarlagið í Svínoynni, og tí er áhugavert at vita, hvat fer at verða gjørt í Fugloynni.</s>
+            <s xml:id="xcuryfuhty">Vegurin millum Hattarvík og Kirkju er illa farin og treingir til ábøtur.</s>
+            <s xml:id="yd4qu7opqn">Í støðum er bilverjan eisini burtur, tí hon er illa farin.</s>
+            <s xml:id="cn5stflujl">Talan er bara um einar fimm kilometrar, og tí átti ikki at verið so kostnaðarmikið at asfalterað og gjørt bilverjuna aftur.</s>
+            <s xml:id="oassxpkhso">Á figgjarlógini er peningur fleiri ferðir játtaður til lendingina/havnarlagið í Svínoynni, og tí er áhugavert at vita, hvat fer at verða gjørt í Fugloynni.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-10">10. august 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-08-10">10. august 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

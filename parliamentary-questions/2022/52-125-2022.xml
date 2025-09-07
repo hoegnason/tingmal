@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/57044" />
+          <ref target="https://www.logting.fo/documents/57044"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,37 +57,37 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bláa bók</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er bláa bók/heilsuprógvið, sum føroysk sjófólk skulu hava, tá tey skulu á sjógvin, galdandi í øllum Norðurlondum?</s>
+                <s xml:id="lannzg4dx3">Er bláa bók/heilsuprógvið, sum føroysk sjófólk skulu hava, tá tey skulu á sjógvin, galdandi í øllum Norðurlondum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er neyðugt at hava fleiri heilsuprógv av sama slag, um tú siglir sum avloysari sum sjómaður í Føroyum og t.d. í Noregi?</s>
+                <s xml:id="gf5yy2ojxk">Er neyðugt at hava fleiri heilsuprógv av sama slag, um tú siglir sum avloysari sum sjómaður í Føroyum og t.d. í Noregi?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Um tú skal sigla á sjónum í Norðurlondum, skalt tú hava bláu bók ella heilsuprógv, sum tað eftir 1. januar 2023 eitur.</s>
+            <s xml:id="ajdesc3grb">Um tú skal sigla á sjónum í Norðurlondum, skalt tú hava bláu bók ella heilsuprógv, sum tað eftir 1. januar 2023 eitur.</s>
           </p>
           <p>
-            <s>Undirritaði skilir tó, at sjómaður hevur fingið upplýst, at føroyska heilsuprógvið ikki er galdandi í Norra, og at sjómaður, sum siglir ein túr í Føroyum og næsta túr í Norra, skal hava tvey heilsuprógv.</s>
-            <s>Hetta sýnist undarligt.</s>
+            <s xml:id="nzh4yurmug">Undirritaði skilir tó, at sjómaður hevur fingið upplýst, at føroyska heilsuprógvið ikki er galdandi í Norra, og at sjómaður, sum siglir ein túr í Føroyum og næsta túr í Norra, skal hava tvey heilsuprógv.</s>
+            <s xml:id="tj4r32w3l3">Hetta sýnist undarligt.</s>
           </p>
           <p>
-            <s>Tí verða hesir spurningar settir landsstýrismanninum.</s>
+            <s xml:id="qn6bibqbvq">Tí verða hesir spurningar settir landsstýrismanninum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-15">15. juni 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-06-15">15. juni 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

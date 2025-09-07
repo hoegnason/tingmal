@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/56750" />
+          <ref target="https://www.logting.fo/documents/56750"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,25 +57,25 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Sálarlig skaðastova</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongur við fyrireikingunum av sálarligu skaðastovuni?</s>
+                <s xml:id="xi256sedi5">Hvussu gongur við fyrireikingunum av sálarligu skaðastovuni?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær kann væntast, at sálarliga skaðastovan letur upp?</s>
+                <s xml:id="l2p7bdrc2x">Nær kann væntast, at sálarliga skaðastovan letur upp?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í eina tíð hevur verið arbeitt við at lata eina sálarliga skaðastovu upp á skaðastovuni á Landssjúkrahúsinum, so at vit kunnu veita bráðfeingishjálp til teirra, ið tørva tað.</s>
-            <s>At kunna veita sálarliga bráðfeingishjálp er ein liður í at javnseta sálarliga heilsu og kropsliga heilsu.</s>
-            <s>Hesin fyrispurningurin verður settur fyri at fáa greiðu á, hvussu tað gongur við arbeiðinum við sálarligu skaðastovuni.</s>
+            <s xml:id="ymbqiv4mnj">Í eina tíð hevur verið arbeitt við at lata eina sálarliga skaðastovu upp á skaðastovuni á Landssjúkrahúsinum, so at vit kunnu veita bráðfeingishjálp til teirra, ið tørva tað.</s>
+            <s xml:id="dpahlvhpid">At kunna veita sálarliga bráðfeingishjálp er ein liður í at javnseta sálarliga heilsu og kropsliga heilsu.</s>
+            <s xml:id="v3eoivjfjl">Hesin fyrispurningurin verður settur fyri at fáa greiðu á, hvussu tað gongur við arbeiðinum við sálarligu skaðastovuni.</s>
           </p>
         </div>
         <div type="signature">

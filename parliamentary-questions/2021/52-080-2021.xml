@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/49659" />
+          <ref target="https://www.logting.fo/documents/49659"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,33 +57,33 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bíðilistin til Megna títt lív</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hví eru 18 fólk á bíðilista til tænastuna Megna títt lív?</s>
+                <s xml:id="aurtfa7c27">Hví eru 18 fólk á bíðilista til tænastuna Megna títt lív?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu nógv kostar tað at fáa hendan bíðilistan burtur?</s>
+                <s xml:id="pehv3abeek">Hvussu nógv kostar tað at fáa hendan bíðilistan burtur?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í svari frá landsstýrismanninum fyrr í vikuni bleiv upplýst, at 18 fólk standa á bíðilista til tænastu frá Megna títt lív.</s>
-            <s>Her er ofta talan um ung fólk, sum hava brúk fyri hjálp her og nú, tí tey hava svárar sosialar ella sálarligar trupulleikar og álvarsligar rústrupulleikar.</s>
-            <s>Tí kann ein bíðilisti gera ilt verri.</s>
-            <s>Fyri at vita, hvussu vit kunnu sleppa undan bíðilistanum, verður hesin fyrispurningur settur.</s>
+            <s xml:id="khivpnpmev">Í svari frá landsstýrismanninum fyrr í vikuni bleiv upplýst, at 18 fólk standa á bíðilista til tænastu frá Megna títt lív.</s>
+            <s xml:id="wpvhriaw2x">Her er ofta talan um ung fólk, sum hava brúk fyri hjálp her og nú, tí tey hava svárar sosialar ella sálarligar trupulleikar og álvarsligar rústrupulleikar.</s>
+            <s xml:id="rkbx5yzs3u">Tí kann ein bíðilisti gera ilt verri.</s>
+            <s xml:id="xrgblxqqzo">Fyri at vita, hvussu vit kunnu sleppa undan bíðilistanum, verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-11">11. november 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-11-11">11. november 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53478" />
+          <ref target="https://www.logting.fo/documents/53478"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,44 +57,44 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bíðitíðin at skifta mjødn</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu long er bíðitíðin at skifta mjødn?</s>
+                <s xml:id="pd2jc4inmb">Hvussu long er bíðitíðin at skifta mjødn?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er nøkur ítøkilig ætlan at stytta um bíðitíðina?</s>
+                <s xml:id="mu44pppzy4">Er nøkur ítøkilig ætlan at stytta um bíðitíðina?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvussu ber tað til, at mjadnaskurðviðgerðir ofta verða útsettar?</s>
+                <s xml:id="tmh7el346e">Hvussu ber tað til, at mjadnaskurðviðgerðir ofta verða útsettar?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Øll, ið hava bíðað eftir viðgerð, vita, at bíðitíðin oftast kennist drúgv.</s>
-            <s>Tá viðgerðir ferð eftir ferð verða útsettar, kann hetta hava álvarsamar avleiðingar.</s>
-            <s>Dømi er eitt nú um, at mjadnaskurðviðgerð, ið skuldi vera í februar í ár, er útsett upp til fýra ferðir og verður nú væntandi ikki fyrr enn í novembur í fyrsta lagi.</s>
+            <s xml:id="l6n7qf5q4n">Øll, ið hava bíðað eftir viðgerð, vita, at bíðitíðin oftast kennist drúgv.</s>
+            <s xml:id="lzaxykekse">Tá viðgerðir ferð eftir ferð verða útsettar, kann hetta hava álvarsamar avleiðingar.</s>
+            <s xml:id="dne3gvuxt3">Dømi er eitt nú um, at mjadnaskurðviðgerð, ið skuldi vera í februar í ár, er útsett upp til fýra ferðir og verður nú væntandi ikki fyrr enn í novembur í fyrsta lagi.</s>
           </p>
           <p>
-            <s>Tá skurðviðgerðir verða fluttar, kann tað hava stórar avleiðingar fyri sjúklingin.</s>
-            <s>Møguliga kropsliga, men eisini sálarliga, arbeiðsliga og sosialt.</s>
-            <s>At skifta mjødn er sjáldan partur av eini lívshættisligari sjúku; men verður farið um 52 vikur, og talan ikki er um lívshættisliga sjúku, so hevur sjúklingurin ikki longur rætt til dagpening, hóast viðkomandi enn ikki er arbeiðsfør/ur.</s>
-            <s>Haraftrat kann sjúklingurin verða uppsagdur, um sjúkrameldingin fer út um 120 dagar.</s>
+            <s xml:id="jl4uqjdtko">Tá skurðviðgerðir verða fluttar, kann tað hava stórar avleiðingar fyri sjúklingin.</s>
+            <s xml:id="zvd42eudpk">Møguliga kropsliga, men eisini sálarliga, arbeiðsliga og sosialt.</s>
+            <s xml:id="wqqhdot5jm">At skifta mjødn er sjáldan partur av eini lívshættisligari sjúku; men verður farið um 52 vikur, og talan ikki er um lívshættisliga sjúku, so hevur sjúklingurin ikki longur rætt til dagpening, hóast viðkomandi enn ikki er arbeiðsfør/ur.</s>
+            <s xml:id="ehxefag63o">Haraftrat kann sjúklingurin verða uppsagdur, um sjúkrameldingin fer út um 120 dagar.</s>
           </p>
           <p>
-            <s>Tí verður hesin fyrispurningurin settur.</s>
+            <s xml:id="o532bgzs3z">Tí verður hesin fyrispurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-24">24. august 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-08-24">24. august 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53089" />
+          <ref target="https://www.logting.fo/documents/53089"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,53 +57,53 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Familjur og børn sum liva í fátækt ella fátækraváða</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu stór inntøka krevst hjá einum húsarhaldi, fyri at hava nóg nógv at liva fyri við dagsins hækkandi prísstøði?</s>
+                <s xml:id="mipbimiyd6">Hvussu stór inntøka krevst hjá einum húsarhaldi, fyri at hava nóg nógv at liva fyri við dagsins hækkandi prísstøði?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær verður ein familja ella persónur mettur at liva á ella undir fátækramarkinum?</s>
+                <s xml:id="oo2jocsiwk">Nær verður ein familja ella persónur mettur at liva á ella undir fátækramarkinum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvussu nógvar familjur og persónar í Føroyum kunnu í løtuni metast at liva í fátækt ella í fátækraváða, og hvussu mong børn teljast millum hesi?</s>
+                <s xml:id="drh4g3oipf">Hvussu nógvar familjur og persónar í Føroyum kunnu í løtuni metast at liva í fátækt ella í fátækraváða, og hvussu mong børn teljast millum hesi?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvussu nógvar familjur og persónar metir landsstýrismaðurin hava tørv á bráðfeingis ella varandi fíggjarligum stuðli fyri at kunna liva eitt sømiligt lív?</s>
+                <s xml:id="lkwv3fxnbp">Hvussu nógvar familjur og persónar metir landsstýrismaðurin hava tørv á bráðfeingis ella varandi fíggjarligum stuðli fyri at kunna liva eitt sømiligt lív?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Prísstøðið hækkar skjótt og ógvusliga.</s>
-            <s>Á mati, gerandisvørum, klæðum, olju, bensini o.s.fr.</s>
-            <s>Samstundis er prísurin á býli hægri enn nakrantíð.</s>
+            <s xml:id="caxrkxj5kw">Prísstøðið hækkar skjótt og ógvusliga.</s>
+            <s xml:id="mwflfvcqmf">Á mati, gerandisvørum, klæðum, olju, bensini o.s.fr.</s>
+            <s xml:id="fwsduh2yf7">Samstundis er prísurin á býli hægri enn nakrantíð.</s>
           </p>
           <p>
-            <s>Hvussu nógvur peningur, sum í minsta lagi skal til hjá einum húsarhaldi fyri at kunna hava sámilig lívskor, er alneyðug vitan hjá politiska myndugleikanum, skal nakað munagott gerast við støðuna.</s>
+            <s xml:id="jtvs7f2yfj">Hvussu nógvur peningur, sum í minsta lagi skal til hjá einum húsarhaldi fyri at kunna hava sámilig lívskor, er alneyðug vitan hjá politiska myndugleikanum, skal nakað munagott gerast við støðuna.</s>
           </p>
           <p>
-            <s>Í 2014 fekk táverandi landsstýrismaður í almannamálum handað álitið “Eitt føroyskt fátækramark”.</s>
-            <s>Har varð ásett, hvat eitt nú ein stakur uppihaldari við børnum, ein familja við fleiri børnum og so frameftir kravdi at hava tøkt av inntøkuni fyri at kunna liva eitt nøkulunda vanligt lív.</s>
-            <s>Í álitinum varð eisini m.a. víst á, at stakir uppihaldarar eru í størstum vanda fyri at gerast fátøk, og at hetta fátækradømi kann fáa stórar avleiðingar fyri børnini: “At vera fátækur í longri tíð er tað, sum kann hava álvarsligar avleiðingar fyri tann einstaka og ta einstøku familjuna, og fyri at koma undir fátækramarkið, skal inntøkan hava verið lægri enn 60 prosent av miðinntøkuni í 3 ár á rað.</s>
-            <s>Men nýggjasta granskingin um fátækradømi vísir, at fyri børn kann eisini stutttíðar fátækradømi fáa neilig árin seinni í lívinum.</s>
-            <s>Tí eigur áhaldandi dentur at verða lagdur á fátøk børn - eisini stutttíðar fátækradømi hjá børnum.”</s>
+            <s xml:id="ruvfo66mxo">Í 2014 fekk táverandi landsstýrismaður í almannamálum handað álitið “Eitt føroyskt fátækramark”.</s>
+            <s xml:id="ybtcaksxw3">Har varð ásett, hvat eitt nú ein stakur uppihaldari við børnum, ein familja við fleiri børnum og so frameftir kravdi at hava tøkt av inntøkuni fyri at kunna liva eitt nøkulunda vanligt lív.</s>
+            <s xml:id="ftqbstdrlk">Í álitinum varð eisini m.a. víst á, at stakir uppihaldarar eru í størstum vanda fyri at gerast fátøk, og at hetta fátækradømi kann fáa stórar avleiðingar fyri børnini: “At vera fátækur í longri tíð er tað, sum kann hava álvarsligar avleiðingar fyri tann einstaka og ta einstøku familjuna, og fyri at koma undir fátækramarkið, skal inntøkan hava verið lægri enn 60 prosent av miðinntøkuni í 3 ár á rað.</s>
+            <s xml:id="wghgl4ndrr">Men nýggjasta granskingin um fátækradømi vísir, at fyri børn kann eisini stutttíðar fátækradømi fáa neilig árin seinni í lívinum.</s>
+            <s xml:id="knsu2twlsv">Tí eigur áhaldandi dentur at verða lagdur á fátøk børn - eisini stutttíðar fátækradømi hjá børnum.”</s>
           </p>
           <p>
-            <s>Barnafamiljur, fyritíðarpensjonistar og pensjonistar, sum einans hava lægstu veitingarnar at liva av, eru í størri fátækraváða, nú prísstøðið hækkar munandi.</s>
-            <s>Spurningarnir verða settir fyri at fáa fram, hvussu mong í landinum nú kunnu metast at vera fátøk ella gerast fátøk.</s>
-            <s>Hetta eru upplýsingar, myndugleikarnir vónandi hava til taks sum grundarlag undir einum neyðugum arbeiði við hjálp til fíggjarliga sperdar og neyðstaddar familjur.</s>
+            <s xml:id="kq6wfan2iz">Barnafamiljur, fyritíðarpensjonistar og pensjonistar, sum einans hava lægstu veitingarnar at liva av, eru í størri fátækraváða, nú prísstøðið hækkar munandi.</s>
+            <s xml:id="hxs7r2o34p">Spurningarnir verða settir fyri at fáa fram, hvussu mong í landinum nú kunnu metast at vera fátøk ella gerast fátøk.</s>
+            <s xml:id="fn4g24cmcw">Hetta eru upplýsingar, myndugleikarnir vónandi hava til taks sum grundarlag undir einum neyðugum arbeiði við hjálp til fíggjarliga sperdar og neyðstaddar familjur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2022-05-24">24.maj 2022</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2022-05-24">24.maj 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>

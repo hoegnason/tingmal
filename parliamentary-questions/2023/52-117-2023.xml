@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/61637" />
+          <ref target="https://www.logting.fo/documents/61637"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,41 +57,41 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Liðugt viðgjørdir sjúklingar á sjúkrahúsunum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu nógvir persónar liggja á føroyskum sjúkrahúsum, sum eru liðugt viðgjørdir, men sum kortini ikki verða útskrivaðir, tí teir hava ongastaðni at fara?</s>
+                <s xml:id="amkg2g6mip">Hvussu nógvir persónar liggja á føroyskum sjúkrahúsum, sum eru liðugt viðgjørdir, men sum kortini ikki verða útskrivaðir, tí teir hava ongastaðni at fara?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er talið á liðugt viðgjørdum persónum í sjúkrahúsverkinum vaksandi?</s>
+                <s xml:id="teajbbybmk">Er talið á liðugt viðgjørdum persónum í sjúkrahúsverkinum vaksandi?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvørja ávirkan hava hesir persónarnir á møguleikarnar hjá øðrum at sleppa framat viðgerð?</s>
+                <s xml:id="qpiiszjbtw">Hvørja ávirkan hava hesir persónarnir á møguleikarnar hjá øðrum at sleppa framat viðgerð?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvør hevur ábyrgdina av hesum persónunum?</s>
+                <s xml:id="n5ow3ixgr5">Hvør hevur ábyrgdina av hesum persónunum?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvat verður gjørt fyri at loysa henda trupulleikan?</s>
+                <s xml:id="udk4rof3wg">Hvat verður gjørt fyri at loysa henda trupulleikan?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Seinastu tíðina hevur ljóðað í fjølmiðlunum, at sjúklingar, sum eru liðugt viðgjørdir, verða liggjandi á sjúkrahúsunum, tí teir hava ongastaðni at fara.</s>
-            <s>Sum skilst er talan um nógvar persónar, sum av eini ella aðrari orsøk koma í klemmu í skipanini.</s>
-            <s>Fyri at fáa málið lýst - og vónandi loyst, verður hesin spurningurin settur.</s>
+            <s xml:id="pd3rxlh2r7">Seinastu tíðina hevur ljóðað í fjølmiðlunum, at sjúklingar, sum eru liðugt viðgjørdir, verða liggjandi á sjúkrahúsunum, tí teir hava ongastaðni at fara.</s>
+            <s xml:id="rveugmw65o">Sum skilst er talan um nógvar persónar, sum av eini ella aðrari orsøk koma í klemmu í skipanini.</s>
+            <s xml:id="nlf4kh3swl">Fyri at fáa málið lýst - og vónandi loyst, verður hesin spurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-04-29">29. apríl 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-04-29">29. apríl 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>

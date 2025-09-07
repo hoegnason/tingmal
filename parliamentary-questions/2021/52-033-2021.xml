@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48690" />
+          <ref target="https://www.logting.fo/documents/48690"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,41 +57,41 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Asfaltering av vegnum millum Skopun og Sand</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Kann landsstýrismaðurin upplýsa, nær vegurin millum Skopun og Sand verður asfalteraður aftur?</s>
+                <s xml:id="f4wkyosyqs">Kann landsstýrismaðurin upplýsa, nær vegurin millum Skopun og Sand verður asfalteraður aftur?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Kann landsstýrismaðurin greiða frá, um koyritrygdin á vegastrekkinum verður mett at vera í lagi ?</s>
+                <s xml:id="tohd5zxbpo">Kann landsstýrismaðurin greiða frá, um koyritrygdin á vegastrekkinum verður mett at vera í lagi ?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hevur landsstýrismaðurin gjørt eina raðfesta ætlan fyri viðlíkahaldið av landsvegakervinum í Føroyum?</s>
+                <s xml:id="bfmtrbcbdo">Hevur landsstýrismaðurin gjørt eina raðfesta ætlan fyri viðlíkahaldið av landsvegakervinum í Føroyum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Vegurin millum Skopun og Sand er nú í so vánaligum standi á summum vegateinum, at tú sum bilførari aftrar teg við at koyra á vegnum.</s>
-            <s>Bilførarar kenna ampa av at koyra á vegnum, og koyritrygdin er hareftir.</s>
+            <s xml:id="zqktoa5wlf">Vegurin millum Skopun og Sand er nú í so vánaligum standi á summum vegateinum, at tú sum bilførari aftrar teg við at koyra á vegnum.</s>
+            <s xml:id="lamgigctxl">Bilførarar kenna ampa av at koyra á vegnum, og koyritrygdin er hareftir.</s>
           </p>
           <p>
-            <s>Undirritaði spurdi landsstýrismannin í samferðslumálum líknandi spurning í vár, og tá svaraði landsstýrismaðurin, at partar av vegastrekkinum fóru at verða asfalteraðir í ár.</s>
-            <s>Nú summarið er farið kann staðfestast, at einasta, sum er gjørt við vegin, er at rípur eru málaðar omaná illa farna asfaltlagið og holurnar í tí.</s>
+            <s xml:id="uia7q3cbj3">Undirritaði spurdi landsstýrismannin í samferðslumálum líknandi spurning í vár, og tá svaraði landsstýrismaðurin, at partar av vegastrekkinum fóru at verða asfalteraðir í ár.</s>
+            <s xml:id="qoklquobvw">Nú summarið er farið kann staðfestast, at einasta, sum er gjørt við vegin, er at rípur eru málaðar omaná illa farna asfaltlagið og holurnar í tí.</s>
           </p>
           <p>
-            <s>Fyri at fyribyrgja at skaði stendst av støðuni, verður landsstýrismaðurin biðin um at kanna støðuna og svara hesum spurningi.</s>
+            <s xml:id="nkqrig5wzv">Fyri at fyribyrgja at skaði stendst av støðuni, verður landsstýrismaðurin biðin um at kanna støðuna og svara hesum spurningi.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-09-09">9. september 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-09-09">9. september 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>

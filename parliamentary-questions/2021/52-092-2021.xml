@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/49841" />
+          <ref target="https://www.logting.fo/documents/49841"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,37 +57,37 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Príshækkingar í SEV</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Ætlar landsstýrismaðurin at tvinga húsarhaldini at gjalda fyri streym, sum tey ikki fáa nyttu av?</s>
+                <s xml:id="igquulc6bn">Ætlar landsstýrismaðurin at tvinga húsarhaldini at gjalda fyri streym, sum tey ikki fáa nyttu av?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Ætlar landsstýrið at veita endurgjald til SEV fyri streym, sum húsarhaldini ikki fáa nyttu av og samtíðis fyri at sleppa undan príshækkingum?</s>
+                <s xml:id="omcnhg3gj4">Ætlar landsstýrið at veita endurgjald til SEV fyri streym, sum húsarhaldini ikki fáa nyttu av og samtíðis fyri at sleppa undan príshækkingum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í øllum Norðurlondum og í pørtum av Europa hevur tað seinastu tíðina verið boðað frá stórum príshækkingum á streymi til húsarhaldini.</s>
-            <s>So nógv, at í onkrum londum hevur verið upp á tal at veita stuðul til húsarhaldini fyri at byrgja upp fyri stóra vækstrinum í streymprísinum.</s>
-            <s>Samtíðis frættust tey gleðiligu tíðindini her heima, at SEV ikki hevði ætlanir um at hækka streymprísin í 2022.</s>
+            <s xml:id="adzalnfj2v">Í øllum Norðurlondum og í pørtum av Europa hevur tað seinastu tíðina verið boðað frá stórum príshækkingum á streymi til húsarhaldini.</s>
+            <s xml:id="pathnn7jsg">So nógv, at í onkrum londum hevur verið upp á tal at veita stuðul til húsarhaldini fyri at byrgja upp fyri stóra vækstrinum í streymprísinum.</s>
+            <s xml:id="ssu7mld5xo">Samtíðis frættust tey gleðiligu tíðindini her heima, at SEV ikki hevði ætlanir um at hækka streymprísin í 2022.</s>
           </p>
           <p>
-            <s>Men mánakvøldið kom fram, at nýggjar vindmyllur eru á veg, sum fara at kosta SEV á leið 60 milliónir kr. tey næstu 3-4 árini.</s>
-            <s>SEV kann bara brúka 20% av orkuni frá vindmyllulundunum, men er tvingað til at keypa streymin.</s>
-            <s>SEV verður tvingað at senda rokningina víðari til húsarhaldini, sum eru tey einastu, sum kunnu gjalda fyri streymin, tey ikki fáa nyttu av. Tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="rdji57rqt6">Men mánakvøldið kom fram, at nýggjar vindmyllur eru á veg, sum fara at kosta SEV á leið 60 milliónir kr. tey næstu 3-4 árini.</s>
+            <s xml:id="p5sbpzp3dr">SEV kann bara brúka 20% av orkuni frá vindmyllulundunum, men er tvingað til at keypa streymin.</s>
+            <s xml:id="pefsyylxu5">SEV verður tvingað at senda rokningina víðari til húsarhaldini, sum eru tey einastu, sum kunnu gjalda fyri streymin, tey ikki fáa nyttu av. Tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-11-23">23. november 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-11-23">23. november 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>

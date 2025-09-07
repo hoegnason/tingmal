@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48233" />
+          <ref target="https://www.logting.fo/documents/48233"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,38 +57,38 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Um veiðirættindi og friðingar</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu leingi hevur eystari kantur av Føroyabanka verið friðaður?</s>
+                <s xml:id="bmwpb3davu">Hvussu leingi hevur eystari kantur av Føroyabanka verið friðaður?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Ætlar landsstýrismaðurin at geva trolarum, sum royna eftir svartkalva, betri trolleiðir á djúpari leiðunum á eystara kanti av Føroyabanka?</s>
+                <s xml:id="xccvhboc5p">Ætlar landsstýrismaðurin at geva trolarum, sum royna eftir svartkalva, betri trolleiðir á djúpari leiðunum á eystara kanti av Føroyabanka?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hevur landsstýrismaðurin í hyggju at geva svartkalvabátunum betri veiðirættindi og møguleikar?</s>
+                <s xml:id="fvwro2wocw">Hevur landsstýrismaðurin í hyggju at geva svartkalvabátunum betri veiðirættindi og møguleikar?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Trolarar, sum royna eftir svartkalva á djúpum vatni (270 favnar og djúpari), sleppa ikki at fiska á eystara kanti av Føroyabanka.</s>
-            <s>Orsøkin er friðingin av toski og hýsu.</s>
-            <s>Friðingin ger, at økið hjá svartkalvabátunum gerst so avmarkað.</s>
-            <s>Botnurin uttanfyri er sera ringur, og tí er ongin fiskiskapur eftir svartkalva á fleiri leiðum longri suðuri.</s>
-            <s>Djúpvatnstrolarar fiska á 270 favna dýpi og djúpari, har hvørki toskur ella hýsa eru at fáa.</s>
-            <s>Fyri at fáa greiðu á ætlanunum hesum viðvíkjandi, verður hesin fyrispurningur settur landsstýrismanninum.</s>
+            <s xml:id="mxj3i7b27x">Trolarar, sum royna eftir svartkalva á djúpum vatni (270 favnar og djúpari), sleppa ikki at fiska á eystara kanti av Føroyabanka.</s>
+            <s xml:id="s7cplmldsd">Orsøkin er friðingin av toski og hýsu.</s>
+            <s xml:id="we7etufptx">Friðingin ger, at økið hjá svartkalvabátunum gerst so avmarkað.</s>
+            <s xml:id="ly4gkhewpi">Botnurin uttanfyri er sera ringur, og tí er ongin fiskiskapur eftir svartkalva á fleiri leiðum longri suðuri.</s>
+            <s xml:id="q6sycnrqgl">Djúpvatnstrolarar fiska á 270 favna dýpi og djúpari, har hvørki toskur ella hýsa eru at fáa.</s>
+            <s xml:id="sxytvbfbtj">Fyri at fáa greiðu á ætlanunum hesum viðvíkjandi, verður hesin fyrispurningur settur landsstýrismanninum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-03">3. august 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-08-03">3. august 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

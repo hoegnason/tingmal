@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48383" />
+          <ref target="https://www.logting.fo/documents/48383"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,32 +57,32 @@
         </div>
         <div type="subject">
           <head>Evni: </head>COVID-19 kanningar</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu nógv er higartil rindað úr landskassanum til privatu kanningarstovurnar fyri at taka sær av COVID-19 kanningum?</s>
+                <s xml:id="abpoekkims">Hvussu nógv er higartil rindað úr landskassanum til privatu kanningarstovurnar fyri at taka sær av COVID-19 kanningum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í svari til fyrispurning frá desember 2020 upp á einsljóðandi fyrispurning svaraði landsstýrismaðurin undirritaðu, at «Sjúkrahúsverkið/landið hava higartil goldið privatum fyritøkum tilsamans 28,6 mió. krónur fyri tænasturnar.»</s>
-            <s>Í skrivligum fyrispurningi, settur 12. august 2021, spyr undirritaða landsstýrismannin, hvussu nógv landið/heilsuverkið hevur rindað privatum kanningarstovum fyri at taka sær av COVID-19 kanningum síðan mars mánað í fjør, tá koronufarsóttin byrjaði og higartil í ár.</s>
-            <s>Talan var um eina uppfylging upp á fyrispurningin frá desember 2020.</s>
-            <s>Í svarinum greiðir landsstýrismaðurin frá, at svarið verður avmarkað til at fevna um tær kanningar, ið sjúkrahúsverkið skipar fyri, samsvarandi viðmerkingunum frá spyrjaranum.</s>
-            <s>Eisini verður upplýst, at kanningarútreiðslurnar fyri árini 2020 og 2021 tilsamans hava verið 30 mió. krónur, harav 13,5 mió krónur eru goldnar privatum kanningarstovum.</s>
-            <s>Við tað, at undirritaða metir, at spurningurin frá 12. august er misskiltur, tí svarið er avmarkað til einans at fevna um tær kanningar, ið sjúkrahúsverkið skipar fyri, verður fyrispurningurin settur einaferð enn, við tí endamáli at fáa eitt greitt svar upp á, hvussu nógv landið, heruppií sjúkrahúsverkið, tilsamans hevur rindað privatum kanningarstovum fyri at taka sær av COVID-19 kanningum, sæð í mun til at í desember í 2020 hevði landið rindað 28,6 mió. krónur til privatar kanningarstovur fyri uppgávuna.</s>
+            <s xml:id="kittdrfwsg">Í svari til fyrispurning frá desember 2020 upp á einsljóðandi fyrispurning svaraði landsstýrismaðurin undirritaðu, at «Sjúkrahúsverkið/landið hava higartil goldið privatum fyritøkum tilsamans 28,6 mió. krónur fyri tænasturnar.»</s>
+            <s xml:id="uzcp3yqxml">Í skrivligum fyrispurningi, settur 12. august 2021, spyr undirritaða landsstýrismannin, hvussu nógv landið/heilsuverkið hevur rindað privatum kanningarstovum fyri at taka sær av COVID-19 kanningum síðan mars mánað í fjør, tá koronufarsóttin byrjaði og higartil í ár.</s>
+            <s xml:id="iy7qome4gd">Talan var um eina uppfylging upp á fyrispurningin frá desember 2020.</s>
+            <s xml:id="uxnvkczwcs">Í svarinum greiðir landsstýrismaðurin frá, at svarið verður avmarkað til at fevna um tær kanningar, ið sjúkrahúsverkið skipar fyri, samsvarandi viðmerkingunum frá spyrjaranum.</s>
+            <s xml:id="yesdvedx4m">Eisini verður upplýst, at kanningarútreiðslurnar fyri árini 2020 og 2021 tilsamans hava verið 30 mió. krónur, harav 13,5 mió krónur eru goldnar privatum kanningarstovum.</s>
+            <s xml:id="f4vvyzmr5t">Við tað, at undirritaða metir, at spurningurin frá 12. august er misskiltur, tí svarið er avmarkað til einans at fevna um tær kanningar, ið sjúkrahúsverkið skipar fyri, verður fyrispurningurin settur einaferð enn, við tí endamáli at fáa eitt greitt svar upp á, hvussu nógv landið, heruppií sjúkrahúsverkið, tilsamans hevur rindað privatum kanningarstovum fyri at taka sær av COVID-19 kanningum, sæð í mun til at í desember í 2020 hevði landið rindað 28,6 mió. krónur til privatar kanningarstovur fyri uppgávuna.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-27">27. august 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-08-27">27. august 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

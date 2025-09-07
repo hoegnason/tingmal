@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53382" />
+          <ref target="https://www.logting.fo/documents/53382"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,41 +57,41 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Brandskúlin (Trygdardepilin við Áir)</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongst við at flyta brandskúlan hjá Trygdardeplinum við Áir til Klaksvíkar?</s>
+                <s xml:id="a4b46vmdih">Hvussu gongst við at flyta brandskúlan hjá Trygdardeplinum við Áir til Klaksvíkar?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvar er ætlanin, at skúlin skal verða staðsettur í Klaksvík?</s>
+                <s xml:id="qd6ojqcd6z">Hvar er ætlanin, at skúlin skal verða staðsettur í Klaksvík?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Fylgja lærararnir við flytingini ?</s>
+                <s xml:id="uimfirzumx">Fylgja lærararnir við flytingini ?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Er leiðslan á Sjónámi tikin við upp á ráð í tilgongdini, ella undir hvørjum stovni skal brandskúlin verða?</s>
+                <s xml:id="xefjdjp4rj">Er leiðslan á Sjónámi tikin við upp á ráð í tilgongdini, ella undir hvørjum stovni skal brandskúlin verða?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Við Áir er m.a ein konstruktión av einum maskinrúmi, har venjingar verða gjørdar. Verður henda konstruktiónin flutt til Klaksvíkar, ella verður ein bygd av nýggjum ?</s>
+                <s xml:id="rnawezn27n">Við Áir er m.a ein konstruktión av einum maskinrúmi, har venjingar verða gjørdar. Verður henda konstruktiónin flutt til Klaksvíkar, ella verður ein bygd av nýggjum ?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað vóru hugalig tíðindi fyri norðoyingar, tá tað frættist í síni tíð, at brandskúlin skuldi flytast til Klaksvíkar.</s>
-            <s>Tað er tí sera áhugavert at fáa at vita, hvar málið liggur í løtuni.</s>
-            <s>Somuleiðis er áhugavert at vita, hvar í Klaksvík brandskúlin skal staðsetast, soleiðis at roykurin frá honum ikki kann verða ein bági fyri grannar og onnur.</s>
+            <s xml:id="l3oijxox4v">Tað vóru hugalig tíðindi fyri norðoyingar, tá tað frættist í síni tíð, at brandskúlin skuldi flytast til Klaksvíkar.</s>
+            <s xml:id="d4plmqgspb">Tað er tí sera áhugavert at fáa at vita, hvar málið liggur í løtuni.</s>
+            <s xml:id="nhevw3hw4w">Somuleiðis er áhugavert at vita, hvar í Klaksvík brandskúlin skal staðsetast, soleiðis at roykurin frá honum ikki kann verða ein bági fyri grannar og onnur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-05">5. august 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-08-05">5. august 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/x5wdboyk">Elsebeth Mercedis Gunnleygsdóttur</persName>

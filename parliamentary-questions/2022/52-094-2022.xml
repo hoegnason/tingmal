@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/56726" />
+          <ref target="https://www.logting.fo/documents/56726"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,44 +57,44 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Sandoyartunnilin</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er ósemja ímillum P/F Eysturoyar- og Sandoyartunnil og arbeiðstakaran NCC um at gera Sandoyartunnilin lidnan?</s>
+                <s xml:id="nvriuqfvhd">Er ósemja ímillum P/F Eysturoyar- og Sandoyartunnil og arbeiðstakaran NCC um at gera Sandoyartunnilin lidnan?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Drálar NCC við at gera Sandoyartunnilin lidnan, og um so er, hvør er orsókin?</s>
+                <s xml:id="epgisivuxp">Drálar NCC við at gera Sandoyartunnilin lidnan, og um so er, hvør er orsókin?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Sleppa undirarbeiðstakarar ikki fram at, fyrrenn NCC er liðugt við sítt arbeiði?</s>
+                <s xml:id="tpyazcvcn2">Sleppa undirarbeiðstakarar ikki fram at, fyrrenn NCC er liðugt við sítt arbeiði?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað hoyrist millum manna, at ósemja ímillum tunnilsfelagið og NCC ger, at NCC drálar við at gera Sandoyartunnilin lidnan, samstundis sum undirarbeiðstakarar ikki sleppa framat, fyrrenn NCC er liðugt við sítt arbeiði.</s>
+            <s xml:id="a2fqh3sfe6">Tað hoyrist millum manna, at ósemja ímillum tunnilsfelagið og NCC ger, at NCC drálar við at gera Sandoyartunnilin lidnan, samstundis sum undirarbeiðstakarar ikki sleppa framat, fyrrenn NCC er liðugt við sítt arbeiði.</s>
           </p>
           <p>
-            <s>Arbeiðið hevur gingið skjótari enn tíðarætlanin, og skal ósemja vera um møguligt «bonus» til NCC, um NCC letur tunnilin áðrenn ásettu tíðina.</s>
+            <s xml:id="dt3qvutgc5">Arbeiðið hevur gingið skjótari enn tíðarætlanin, og skal ósemja vera um møguligt «bonus» til NCC, um NCC letur tunnilin áðrenn ásettu tíðina.</s>
           </p>
           <p>
-            <s>Spurningarnir verða settir til løgmann fyri at fáa váttað ella avsannað tíðindini.</s>
-            <s>Tað kann virka skilaleyst, um ein ósemja ger, at tunnilin ikki verður gjørdur liðugur og tikin í nýtslu skjótast til ber.</s>
+            <s xml:id="c2tyhg55am">Spurningarnir verða settir til løgmann fyri at fáa váttað ella avsannað tíðindini.</s>
+            <s xml:id="laoclcchsh">Tað kann virka skilaleyst, um ein ósemja ger, at tunnilin ikki verður gjørdur liðugur og tikin í nýtslu skjótast til ber.</s>
           </p>
           <p>
-            <s>Um so er, verða sandoyingar, ja allir føroyingar, hildnir sum gíslar.</s>
-            <s>Tað má vera vinningur fyri allar partar, at tunnilin verður gjørdur liðugur sum skjótast.</s>
+            <s xml:id="p2ss5sateu">Um so er, verða sandoyingar, ja allir føroyingar, hildnir sum gíslar.</s>
+            <s xml:id="k3c3q7ddku">Tað má vera vinningur fyri allar partar, at tunnilin verður gjørdur liðugur sum skjótast.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-05-09">9. mai 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-05-09">9. mai 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>

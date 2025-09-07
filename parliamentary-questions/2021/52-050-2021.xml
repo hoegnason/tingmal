@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48890" />
+          <ref target="https://www.logting.fo/documents/48890"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,47 +57,47 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Langar bíðitíðir til barnapsykiatriina</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu langar eru bíðitíðirnar til barna- og ungdómsspykiatriina?</s>
+                <s xml:id="v44wttb7es">Hvussu langar eru bíðitíðirnar til barna- og ungdómsspykiatriina?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu nógv børn og ung standa á bíðlista?</s>
+                <s xml:id="rbv4lye3cc">Hvussu nógv børn og ung standa á bíðlista?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvussu eru bíðitíðirnar býttar á ymisku aldurs- og sjúkubólkarnar?</s>
+                <s xml:id="wivfbhzsam">Hvussu eru bíðitíðirnar býttar á ymisku aldurs- og sjúkubólkarnar?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Er nøktandi starvsfólkaorka til tey børn, sum longu eru í viðgerð?</s>
+                <s xml:id="n2wszb45vt">Er nøktandi starvsfólkaorka til tey børn, sum longu eru í viðgerð?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Fyrr í ár upplýsti landsstýrismaðurin, at bíðitíðin til barna- og ungdómspsykiatriina var uml. 14-15 mánaðir.</s>
-            <s>Eisini varð víst á, at tað vóru 166 børn á bíðlista, og at tilboðið til tey børn, sum longu vóru í viðgerð, var lægri raðfest fyri at kunna taka nýggj børn inn.</s>
+            <s xml:id="diwvm7b6m3">Fyrr í ár upplýsti landsstýrismaðurin, at bíðitíðin til barna- og ungdómspsykiatriina var uml. 14-15 mánaðir.</s>
+            <s xml:id="ir4mkdcwee">Eisini varð víst á, at tað vóru 166 børn á bíðlista, og at tilboðið til tey børn, sum longu vóru í viðgerð, var lægri raðfest fyri at kunna taka nýggj børn inn.</s>
           </p>
           <p>
-            <s>Hetta er ein sera álvarsom støða.</s>
-            <s>Barnalívið er stutt.</s>
-            <s>Vit vita, at skjót hjálp er góð hjálp.</s>
-            <s>Tess longur børn bíða, tess størri gerst vandin fyri, at ymisku trupulleikarnir kunnu blíva til varandi líðing.</s>
-            <s>Tí er tað eisini fyribyrgjandi at fáa skjóta og nøktandi hjálp.</s>
-            <s>Barnalívið má ikki brúkast til at standa á bíðlista.</s>
-            <s>Tað skapar líðing heldur enn menning og trivnað.</s>
-            <s>Og hvør dagur telur.</s>
+            <s xml:id="jqlzx3hq3f">Hetta er ein sera álvarsom støða.</s>
+            <s xml:id="vfpi3vc3ah">Barnalívið er stutt.</s>
+            <s xml:id="edr2h2dhej">Vit vita, at skjót hjálp er góð hjálp.</s>
+            <s xml:id="ggn6e224u6">Tess longur børn bíða, tess størri gerst vandin fyri, at ymisku trupulleikarnir kunnu blíva til varandi líðing.</s>
+            <s xml:id="ut2f72mfvq">Tí er tað eisini fyribyrgjandi at fáa skjóta og nøktandi hjálp.</s>
+            <s xml:id="un3kelhtmw">Barnalívið má ikki brúkast til at standa á bíðlista.</s>
+            <s xml:id="wmntxuxouw">Tað skapar líðing heldur enn menning og trivnað.</s>
+            <s xml:id="mw7zsfb5zg">Og hvør dagur telur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-10-05">5. oktober 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-10-05">5. oktober 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>

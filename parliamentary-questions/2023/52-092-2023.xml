@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/60104" />
+          <ref target="https://www.logting.fo/documents/60104"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,49 +57,49 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Ferðavinna</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu nógv ársverk eru í ferðavinnuni?</s>
+                <s xml:id="g3uggklrmi">Hvussu nógv ársverk eru í ferðavinnuni?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu nógv útlendsk starvsfólk arbeiða í ferðavinnuni samanborið við talið av ársverkum í vinnuni?</s>
+                <s xml:id="fnuqg274oz">Hvussu nógv útlendsk starvsfólk arbeiða í ferðavinnuni samanborið við talið av ársverkum í vinnuni?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvat er miðalinntøkan fyri ein persón, sum arbeiðir í ferðavinnuni, og hvat er median inntøkan?</s>
+                <s xml:id="fesxcfuc6t">Hvat er miðalinntøkan fyri ein persón, sum arbeiðir í ferðavinnuni, og hvat er median inntøkan?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvussu er fordeilingin av størvum í ferðavinnuni, býtt uppá økir í landinum?</s>
+                <s xml:id="mpgxf6pji4">Hvussu er fordeilingin av størvum í ferðavinnuni, býtt uppá økir í landinum?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvussu nógvar fyritøkur í Føroyum eru skrásettar sum ferðavinnufyritøkur?</s>
+                <s xml:id="qeb2gmrpx2">Hvussu nógvar fyritøkur í Føroyum eru skrásettar sum ferðavinnufyritøkur?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Ferðavinnan er framvegis ein lutfalsliga nýggj vinna í Føroyum.</s>
-            <s>Av fleiri verður roknað við, at hendan vinnan skal vera/fer at verða okkara triðja bein at standa á, búskaparliga.</s>
+            <s xml:id="zo2kd5wbfd">Ferðavinnan er framvegis ein lutfalsliga nýggj vinna í Føroyum.</s>
+            <s xml:id="a7dvv364k3">Av fleiri verður roknað við, at hendan vinnan skal vera/fer at verða okkara triðja bein at standa á, búskaparliga.</s>
           </p>
           <p>
-            <s>Men hvussu sær hendan vinnan út, og hvussu er hon skipað.</s>
-            <s>At tað eru fleiri útlendingar í starvsfólkahópinum hjá ferðavinnu-aktørunum er eyðsæð.</s>
-            <s>Vit leggja merki til tað, tá vit mugu tosa eitt nú enskt á eini matstovu ella á einum hotelli.</s>
-            <s>Men spurningurin er, hvussu stórur partur hetta er av starvsfólkunum í vinnuni.</s>
+            <s xml:id="fgsiffyrvv">Men hvussu sær hendan vinnan út, og hvussu er hon skipað.</s>
+            <s xml:id="svjsad2wgo">At tað eru fleiri útlendingar í starvsfólkahópinum hjá ferðavinnu-aktørunum er eyðsæð.</s>
+            <s xml:id="jmdlnbfs4y">Vit leggja merki til tað, tá vit mugu tosa eitt nú enskt á eini matstovu ella á einum hotelli.</s>
+            <s xml:id="fhfbjxhxok">Men spurningurin er, hvussu stórur partur hetta er av starvsfólkunum í vinnuni.</s>
           </p>
           <p>
-            <s>Eisini er áhugavert at fáa at vita, um henda vinnan er á sama støði sum aðrar vinnur, tá talan er um inntøku og inntøkubýti, og hvar hendan vinnan er staðsett.</s>
+            <s xml:id="x74pz4bsml">Eisini er áhugavert at fáa at vita, um henda vinnan er á sama støði sum aðrar vinnur, tá talan er um inntøku og inntøkubýti, og hvar hendan vinnan er staðsett.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-02-16">16. februar 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-02-16">16. februar 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/sr3kcmsd">Árni Skaale</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/52101" />
+          <ref target="https://www.logting.fo/documents/52101"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,40 +57,40 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Kampusætlan</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvørjar ætlanir hevur landsstýrismaðurin í mun til ætlanina um eitt savnað kampusøki í samsvari við kampusætlanina frá 2018?</s>
+                <s xml:id="orserzehhs">Hvørjar ætlanir hevur landsstýrismaðurin í mun til ætlanina um eitt savnað kampusøki í samsvari við kampusætlanina frá 2018?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er landsstýrismaðurin í ferð við at seta í verk kampusætlanina frá 2018?</s>
+                <s xml:id="vr7qpxa5wm">Er landsstýrismaðurin í ferð við at seta í verk kampusætlanina frá 2018?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Nær kunnu vit vænta eitt liðugt kampusøki?</s>
+                <s xml:id="f74d536jgj">Nær kunnu vit vænta eitt liðugt kampusøki?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í desember 2018 varð ein strategisk kampusætlan gjørd, og varð handað Mentamálaráðnum í februar 2019.</s>
+            <s xml:id="rvr4dudxka">Í desember 2018 varð ein strategisk kampusætlan gjørd, og varð handað Mentamálaráðnum í februar 2019.</s>
           </p>
           <p>
-            <s>Kampusætlanin tekur hædd fyri bæði verandi og framtíðar tørvi hjá útbúgvingar- og granskingarøkinum í Føroyum, og fyri at røkka málinum um at menna eitt altjóða kappingarført Fróðskaparsetur, er neyðugt at savna alt virksemi í eitt øki.</s>
+            <s xml:id="xqpsbrtvtj">Kampusætlanin tekur hædd fyri bæði verandi og framtíðar tørvi hjá útbúgvingar- og granskingarøkinum í Føroyum, og fyri at røkka málinum um at menna eitt altjóða kappingarført Fróðskaparsetur, er neyðugt at savna alt virksemi í eitt øki.</s>
           </p>
           <p>
-            <s>Strategiska kampusætlanin er ein liður í tilgongdini at fáa eitt tíðarhóskandi undirvísingar- og granskingarumhvørvi.</s>
-            <s>Kampusøkið skal eftir ætlan vera ein savnandi miðdepil fyri lesandi, undirvísarar og granskarar í Føroyum.</s>
+            <s xml:id="lfuyytg3hm">Strategiska kampusætlanin er ein liður í tilgongdini at fáa eitt tíðarhóskandi undirvísingar- og granskingarumhvørvi.</s>
+            <s xml:id="qdikd7ecfc">Kampusøkið skal eftir ætlan vera ein savnandi miðdepil fyri lesandi, undirvísarar og granskarar í Føroyum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-03-22">22. mars 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-03-22">22. mars 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/fk5fbpme">Bjarni Kárason Petersen</persName>

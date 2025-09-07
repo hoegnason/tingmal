@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/59955" />
+          <ref target="https://www.logting.fo/documents/59955"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,55 +57,55 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Næmingafrávera á miðnámsskúlum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er ongin mannagongd ella kunngerð í miðnámsskúlaskipanini, sum tekur hædd fyri lógligari fráveru t.d. vegna veður, har fjarundirvísing er møgulig?</s>
+                <s xml:id="rqg2y76ct6">Er ongin mannagongd ella kunngerð í miðnámsskúlaskipanini, sum tekur hædd fyri lógligari fráveru t.d. vegna veður, har fjarundirvísing er møgulig?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Verður hædd tikin fyri teimum, sum búgva langt frá miðnámsskúlanum, tá tað kemur til fráverukrøv, koyring og uppmøting á miðnámsskúlunum í Føroyum?</s>
+                <s xml:id="xwy2elu44f">Verður hædd tikin fyri teimum, sum búgva langt frá miðnámsskúlanum, tá tað kemur til fráverukrøv, koyring og uppmøting á miðnámsskúlunum í Føroyum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Eru reglurnar tær somu á øllum miðnámsskúlunum í Føroyum?</s>
+                <s xml:id="oqu27kk5sz">Eru reglurnar tær somu á øllum miðnámsskúlunum í Føroyum?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Kann eitt eyka trýst ikki liggja á næmingum, sum ferðast langan veg til og frá skúla, tá hædd ikki verður tikin fyri, at bussar er seinkaðir, avlýstir v.m.?</s>
+                <s xml:id="w5e55mswq3">Kann eitt eyka trýst ikki liggja á næmingum, sum ferðast langan veg til og frá skúla, tá hædd ikki verður tikin fyri, at bussar er seinkaðir, avlýstir v.m.?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Er ongin felagskunngerð fyri alt miðnámsskúlaøkið, sum tekur hædd fyri øllum faktorum í samband við skúlagongd og uppmøting á miðnámsskúlunum í Føroyum?</s>
+                <s xml:id="qfyqg6mcg5">Er ongin felagskunngerð fyri alt miðnámsskúlaøkið, sum tekur hædd fyri øllum faktorum í samband við skúlagongd og uppmøting á miðnámsskúlunum í Føroyum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Miðnámsskúlar kunnu ikki staðsetast á hvørjum tanga.</s>
-            <s>Tí hava landsmyndugleikarnir valt at staðseta ymisku skúlarnar í ymiskum økjum í landinum, har grundarlagið er, ella har atkomuligheitin hjá næmingum og starvsfólkum er skilagóð.</s>
-            <s>Lesandi kunnu í lítlan mun búgva á skúlunum ella nærindis skúlanum, men mugu sum oftast búgva heima hjá foreldrum ella avvarðandi.</s>
-            <s>Flestu næmingar, sum byrja á miðnámi, hava heldur ikki koyrikort til bil, bæði tí, at tað er kostnaðarmikið og tí, at fleiri ikki eru vorðin 18 ár, tá tey byrja skúlagongdina.</s>
-            <s>Tí búgva nógv lesandi, sum ganga á miðnámi, heima.</s>
-            <s>Og fyri mong er heimið úti á bygd, langt frá skúlanum.</s>
-            <s>Úr Vágum eru 35-45 min at koyra til og frá skúla til t.d. Glasir og 25-30 min. til Vestmanna.</s>
-            <s>Av Sandoynni er nakað styttri til Havnar.</s>
-            <s>Úr Klaksvík á Kambsdal er eisini ein fittur teinur o.s.fr.</s>
-            <s>Fleiri næmingar koyra við almennu Bygdaleiðum.</s>
-            <s>Tá hesar leiðir eru avlýstar, er ongin møguleiki hjá fleiri at sleppa á skúlan.</s>
-            <s>Hetta kann gerast tungt hjá næmingum, um skúlin ikki tekur hædd fyri orsøkini, men bara skivar næmingarnar fyri fráveru og reyðan blokk.</s>
-            <s>Hetta ger, at fleiri næminar, sum búgva langt frá miðnámsskúlunum, og har fleiri eisini eru sera pliktuppfyllandi, kenna eitt eyka trýst frá skúlanum og av teirra fráverupolitikki.</s>
-            <s>Serliga tí tey ikki kunnu møta, hóast tey vilja, og at hóttanin um ov nógva fráveru hongur yvir høvdi teirra.</s>
-            <s>Í Føroyum er javnan óveður og hálka, sum ger, at fráveruprosentið hjá hesum næmingum kann gerast ein forðan fyri eini nøktandi skúlagongd.</s>
-            <s>Sum skilst eru onkrir miðnámsskúlar, sum praktisera fjarundirvísing sum alternativ, tá veðrið er svikaligt.</s>
-            <s>Fyri at fáa at vita, um vit hava føroyskar kunngerðir, sum skilmarka avbjóðingar og loysnir á økinum, og fyri at vita, hvussu støðan er á økinum í dag, verða hesir spurningar settir landstýrismanninum.</s>
+            <s xml:id="krpwmkgdn7">Miðnámsskúlar kunnu ikki staðsetast á hvørjum tanga.</s>
+            <s xml:id="gkzlhrmyap">Tí hava landsmyndugleikarnir valt at staðseta ymisku skúlarnar í ymiskum økjum í landinum, har grundarlagið er, ella har atkomuligheitin hjá næmingum og starvsfólkum er skilagóð.</s>
+            <s xml:id="hiznoyi2hh">Lesandi kunnu í lítlan mun búgva á skúlunum ella nærindis skúlanum, men mugu sum oftast búgva heima hjá foreldrum ella avvarðandi.</s>
+            <s xml:id="d2czggr7dz">Flestu næmingar, sum byrja á miðnámi, hava heldur ikki koyrikort til bil, bæði tí, at tað er kostnaðarmikið og tí, at fleiri ikki eru vorðin 18 ár, tá tey byrja skúlagongdina.</s>
+            <s xml:id="iu4zlmb7tx">Tí búgva nógv lesandi, sum ganga á miðnámi, heima.</s>
+            <s xml:id="vvzsmnwjpk">Og fyri mong er heimið úti á bygd, langt frá skúlanum.</s>
+            <s xml:id="kxyke6ydzb">Úr Vágum eru 35-45 min at koyra til og frá skúla til t.d. Glasir og 25-30 min. til Vestmanna.</s>
+            <s xml:id="vf7brqkyxu">Av Sandoynni er nakað styttri til Havnar.</s>
+            <s xml:id="vxtml6croa">Úr Klaksvík á Kambsdal er eisini ein fittur teinur o.s.fr.</s>
+            <s xml:id="kdpculfi4x">Fleiri næmingar koyra við almennu Bygdaleiðum.</s>
+            <s xml:id="buuo5iq6eb">Tá hesar leiðir eru avlýstar, er ongin møguleiki hjá fleiri at sleppa á skúlan.</s>
+            <s xml:id="ok5ucc5jvu">Hetta kann gerast tungt hjá næmingum, um skúlin ikki tekur hædd fyri orsøkini, men bara skivar næmingarnar fyri fráveru og reyðan blokk.</s>
+            <s xml:id="jk7uingaat">Hetta ger, at fleiri næminar, sum búgva langt frá miðnámsskúlunum, og har fleiri eisini eru sera pliktuppfyllandi, kenna eitt eyka trýst frá skúlanum og av teirra fráverupolitikki.</s>
+            <s xml:id="ilj6zc46xr">Serliga tí tey ikki kunnu møta, hóast tey vilja, og at hóttanin um ov nógva fráveru hongur yvir høvdi teirra.</s>
+            <s xml:id="dlvrrun2eb">Í Føroyum er javnan óveður og hálka, sum ger, at fráveruprosentið hjá hesum næmingum kann gerast ein forðan fyri eini nøktandi skúlagongd.</s>
+            <s xml:id="awemdmqnrk">Sum skilst eru onkrir miðnámsskúlar, sum praktisera fjarundirvísing sum alternativ, tá veðrið er svikaligt.</s>
+            <s xml:id="jxe4pyobsv">Fyri at fáa at vita, um vit hava føroyskar kunngerðir, sum skilmarka avbjóðingar og loysnir á økinum, og fyri at vita, hvussu støðan er á økinum í dag, verða hesir spurningar settir landstýrismanninum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-02-01">1. februar 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-02-01">1. februar 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

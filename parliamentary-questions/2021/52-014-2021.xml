@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48288" />
+          <ref target="https://www.logting.fo/documents/48288"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,35 +57,35 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Barsilsgjald</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hví er barsilspeningur útgoldin afturút og á kontu fjórða gerandisdag í hvørjum mánaði?</s>
+                <s xml:id="kmn6eempuu">Hví er barsilspeningur útgoldin afturút og á kontu fjórða gerandisdag í hvørjum mánaði?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvat ætlar landsstýrismaðurin at gera, so foreldur, ið fáa barsilspening, hava somu treytir, sum aðrir lønmóttakarar, og fáa pening á kontu seinasta í hvørjum mánaði?</s>
+                <s xml:id="qt3s2iwxbj">Hvat ætlar landsstýrismaðurin at gera, so foreldur, ið fáa barsilspening, hava somu treytir, sum aðrir lønmóttakarar, og fáa pening á kontu seinasta í hvørjum mánaði?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Barsilsskipanin skal tryggja foreldur og barn fyrstu tíðina.</s>
-            <s>Sum skilst, so mugu foreldur javnan bíða í nakrar dagar hvønn mánað, áðrenn tey fáa peningin á kontu.</s>
-            <s>Á heimasíðuni hjá TAKS stendur, at barsilspeningurin verður útgoldin eina ferð um mánaðin afturút og er vanliga á kontu fjórða gerandisdag í hvørjum mánaði.</s>
-            <s>Flestu foreldur hava fastar útreiðslur og kunnu tí koma í eina trupla støðu, um peningurin ikki er á kontuni innan fyrsta í einum mánaði.</s>
-            <s>Hetta er ein óheppin støða hjá foreldrum.</s>
-            <s>Fyri at vita, um ætlanin er at broyta hetta, verður hesin fyrispurningur settur</s>
+            <s xml:id="rnzzbm24r4">Barsilsskipanin skal tryggja foreldur og barn fyrstu tíðina.</s>
+            <s xml:id="zu2buw7kz7">Sum skilst, so mugu foreldur javnan bíða í nakrar dagar hvønn mánað, áðrenn tey fáa peningin á kontu.</s>
+            <s xml:id="dfeciv4re6">Á heimasíðuni hjá TAKS stendur, at barsilspeningurin verður útgoldin eina ferð um mánaðin afturút og er vanliga á kontu fjórða gerandisdag í hvørjum mánaði.</s>
+            <s xml:id="p75ra5ub22">Flestu foreldur hava fastar útreiðslur og kunnu tí koma í eina trupla støðu, um peningurin ikki er á kontuni innan fyrsta í einum mánaði.</s>
+            <s xml:id="pre3muib6c">Hetta er ein óheppin støða hjá foreldrum.</s>
+            <s xml:id="flzrj4yxyw">Fyri at vita, um ætlanin er at broyta hetta, verður hesin fyrispurningur settur</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-09">9. august 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-08-09">9. august 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

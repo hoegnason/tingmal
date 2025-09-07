@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48726" />
+          <ref target="https://www.logting.fo/documents/48726"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,38 +57,38 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Trygdin í eldri tunlum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Metir landsstýrismaðurin, at tilbúgvingin í Kollafjarðartunlinum er tíðarhóskandi og trygg?</s>
+                <s xml:id="ahvuonsbcl">Metir landsstýrismaðurin, at tilbúgvingin í Kollafjarðartunlinum er tíðarhóskandi og trygg?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvørjir aðrir tunlar í Føroyum hava avbjóðingar at lúka nútímans trygdarkrøv?</s>
+                <s xml:id="uuoui6dzdm">Hvørjir aðrir tunlar í Føroyum hava avbjóðingar at lúka nútímans trygdarkrøv?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Ætlar landsstýrismaðurin at raðfesta trygdina í eldri tunlum við at hækka verandi fíggjarjáttan hjá Landsverki?</s>
+                <s xml:id="nyyp6tmf5p">Ætlar landsstýrismaðurin at raðfesta trygdina í eldri tunlum við at hækka verandi fíggjarjáttan hjá Landsverki?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Um vikuskiftið varð í tíðindasending í Kringvarpi Føroya at hoyra, at tilbúgvingin ikki er í lagi í Kollafjarðartunlinum.</s>
-            <s>Landsverk hevur víst á, at verandi fíggjarjáttan ikki er nóg stór til at gera nakað við at lúka nútímans trygdarkrøv í eldri tunlum.</s>
-            <s>Tað kann skjótt blíva álvarsligt, um tilbúgvingin ikki er í lagi.</s>
-            <s>Óhugsandi er ikki, at núverandi støða kann hava vanlukkuligar avleiðingar við sær, um hon heldur fram óbroytt.</s>
-            <s>Landsstýrismaðurin varðar av viðlíkahaldi í tunlum kring landið.</s>
-            <s>Tí verður hesin fyrispurningurin settur.</s>
+            <s xml:id="s6q6vk424w">Um vikuskiftið varð í tíðindasending í Kringvarpi Føroya at hoyra, at tilbúgvingin ikki er í lagi í Kollafjarðartunlinum.</s>
+            <s xml:id="ijupsgrwnn">Landsverk hevur víst á, at verandi fíggjarjáttan ikki er nóg stór til at gera nakað við at lúka nútímans trygdarkrøv í eldri tunlum.</s>
+            <s xml:id="acgwcaktgh">Tað kann skjótt blíva álvarsligt, um tilbúgvingin ikki er í lagi.</s>
+            <s xml:id="u6fx2iag7y">Óhugsandi er ikki, at núverandi støða kann hava vanlukkuligar avleiðingar við sær, um hon heldur fram óbroytt.</s>
+            <s xml:id="udkbil7lcl">Landsstýrismaðurin varðar av viðlíkahaldi í tunlum kring landið.</s>
+            <s xml:id="e676usgiao">Tí verður hesin fyrispurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-09-13">13. september 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-09-13">13. september 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
