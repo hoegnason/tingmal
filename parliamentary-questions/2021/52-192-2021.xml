@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53055" />
+          <ref target="https://www.logting.fo/documents/53055"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,37 +57,37 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Endurvenjingar</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvør er orsøkin til, at fólk, ið fáa skurðviðgerð aðrastaðni enn í føroyska heilsuverkinum, missa rættin til endurvenjing í heilsuverkinum?</s>
+                <s xml:id="aalpsc3c4n">Hvør er orsøkin til, at fólk, ið fáa skurðviðgerð aðrastaðni enn í føroyska heilsuverkinum, missa rættin til endurvenjing í heilsuverkinum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Nógv fólk standa á bíðilistum til at fáa skurðviðgerðir av ymiskum slagi.</s>
-            <s>Tað er ikki óvanligt, at hesi fólkini hava egna trygging, ið gevur teimum rætt til at fara aðrastaðni at fáa skurðviðgerðina framda.</s>
+            <s xml:id="vmpipzcz4n">Nógv fólk standa á bíðilistum til at fáa skurðviðgerðir av ymiskum slagi.</s>
+            <s xml:id="f2pyy7kadw">Tað er ikki óvanligt, at hesi fólkini hava egna trygging, ið gevur teimum rætt til at fara aðrastaðni at fáa skurðviðgerðina framda.</s>
           </p>
           <p>
-            <s>Men undirritaði hevur sæð dømi um, at fólk, ið hava umhugsað henda møguleikan, hava fingið at vita frá heilsuverkinum, at um tey velja hesa loysnina, so missa tey rættin til endurvenjing í heilsuverkinum.</s>
+            <s xml:id="qks77mgzfv">Men undirritaði hevur sæð dømi um, at fólk, ið hava umhugsað henda møguleikan, hava fingið at vita frá heilsuverkinum, at um tey velja hesa loysnina, so missa tey rættin til endurvenjing í heilsuverkinum.</s>
           </p>
           <p>
-            <s>Fyri tann sjúka kann bíðitíðin vera trupul, og tí er væl skiljandi, at fólk vilja nýta teir møguleikar ið eru, fyri at linna pínuna, men um avleiðingin er, at tey ikki fáa endurvenjing, so skulu tey velja ímillum skurðviðgerð beinan vegin uttan endurvenjing, ella at ganga við pínu, fyri at tryggja endurvenjingina seinni.</s>
+            <s xml:id="kqcdbr6b37">Fyri tann sjúka kann bíðitíðin vera trupul, og tí er væl skiljandi, at fólk vilja nýta teir møguleikar ið eru, fyri at linna pínuna, men um avleiðingin er, at tey ikki fáa endurvenjing, so skulu tey velja ímillum skurðviðgerð beinan vegin uttan endurvenjing, ella at ganga við pínu, fyri at tryggja endurvenjingina seinni.</s>
           </p>
           <p>
-            <s>Tí verður spurt, hvør orsøkin er til hesa støðuna hjá heilsuverkinum.</s>
+            <s xml:id="jmrzidc7ty">Tí verður spurt, hvør orsøkin er til hesa støðuna hjá heilsuverkinum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-05-19">19. mai 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-05-19">19. mai 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>

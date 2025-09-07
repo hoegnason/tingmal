@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53098" />
+          <ref target="https://www.logting.fo/documents/53098"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,40 +57,40 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Hjálparpakki til láglønt</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvør er orsókin til, at løgmaður ikki metir tað vera skilagott at veita lágløntum hjálparpakka beinanvegin?</s>
+                <s xml:id="q4hy2kzb3l">Hvør er orsókin til, at løgmaður ikki metir tað vera skilagott at veita lágløntum hjálparpakka beinanvegin?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Kann løgmaður nágreina, nær ein hjálparpakki til láglønt og onnur við lágari inntøku kemur.</s>
+                <s xml:id="hpqprzugbt">Kann løgmaður nágreina, nær ein hjálparpakki til láglønt og onnur við lágari inntøku kemur.</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Inflatiónin í Føroyum er vaksin 4,4 prosent frá fyrsta ársfjórðingi í fjør til fyrsta ársfjórðing í ár, sæst á heimasíðuni hjá Landsbankanum.</s>
+            <s xml:id="dgy63zsvrq">Inflatiónin í Føroyum er vaksin 4,4 prosent frá fyrsta ársfjórðingi í fjør til fyrsta ársfjórðing í ár, sæst á heimasíðuni hjá Landsbankanum.</s>
           </p>
           <p>
-            <s>Prísurin á brennievni er methøgur, og prísurin á matvørum er eisini vaksin nógv, og fer væntandi at halda fram at veksa eina løtu afturat.</s>
+            <s xml:id="nczymwvzmb">Prísurin á brennievni er methøgur, og prísurin á matvørum er eisini vaksin nógv, og fer væntandi at halda fram at veksa eina løtu afturat.</s>
           </p>
           <p>
-            <s>Løgmaður var í tíðindasending í Kringvarpinum 23. mai 2022 og segði, at ongin hjálparpakki er á veg nú, men kanska seinni í ár.</s>
-            <s>Á Facebook-síðuni hjá Sambandsflokkinum er løgmaður endurgivin fyri at siga soleiðis: "Ein hjálparpakki til tey, sum eru harðast rakt av inflatiónini, kemur væntandi til politiska viðgerð eftir ólavsøku"</s>
+            <s xml:id="si7v3feu4g">Løgmaður var í tíðindasending í Kringvarpinum 23. mai 2022 og segði, at ongin hjálparpakki er á veg nú, men kanska seinni í ár.</s>
+            <s xml:id="pxnw6w6zik">Á Facebook-síðuni hjá Sambandsflokkinum er løgmaður endurgivin fyri at siga soleiðis: "Ein hjálparpakki til tey, sum eru harðast rakt av inflatiónini, kemur væntandi til politiska viðgerð eftir ólavsøku"</s>
           </p>
           <p>
-            <s>Fyri at fáa nærri greiðu á hesum máli verður hesin fyrispurningur settur.</s>
+            <s xml:id="hchc7bha3l">Fyri at fáa nærri greiðu á hesum máli verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-05-25">25. mai 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-05-25">25. mai 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

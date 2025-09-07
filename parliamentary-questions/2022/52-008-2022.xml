@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53390" />
+          <ref target="https://www.logting.fo/documents/53390"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,46 +57,46 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Heimildir, býti, fiskiskapur og keyp/søla í sambandi við royndarfiskiskap á Føroyabanka</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvør er ítøkiliga lógarheimildin til, at landsstýrismaðurin hevur býtt dagar til royndarfiskiskap á Føroyabanka til fiskifør, sum ikki brúka dagarnar, men selja teir víðari?</s>
+                <s xml:id="iwkvk3w7zz">Hvør er ítøkiliga lógarheimildin til, at landsstýrismaðurin hevur býtt dagar til royndarfiskiskap á Føroyabanka til fiskifør, sum ikki brúka dagarnar, men selja teir víðari?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvør er sakliga grundgevingin fyri, at landsstýrismaðurin gekk ímóti vísindaliga tilmælinum frá Havstovuni og hækkaði tilmælta fiskidagatalið?</s>
+                <s xml:id="gek4qowvk4">Hvør er sakliga grundgevingin fyri, at landsstýrismaðurin gekk ímóti vísindaliga tilmælinum frá Havstovuni og hækkaði tilmælta fiskidagatalið?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvør er sakliga grundgevingin og líkareglan í avgerðini um, at landsstýrismaðurin ásetti 150 fiskidagar til línuskipini í bólki 3 og 150 fiskidagar til útróðrarbátarnar í bólki 4, men bert 30 dagar til smærru útróðrarbátarnar í bólki 5 (sum høvdu havt 30 dagar í fleiri ár frammanundan)?</s>
+                <s xml:id="i3afgw2cx3">Hvør er sakliga grundgevingin og líkareglan í avgerðini um, at landsstýrismaðurin ásetti 150 fiskidagar til línuskipini í bólki 3 og 150 fiskidagar til útróðrarbátarnar í bólki 4, men bert 30 dagar til smærru útróðrarbátarnar í bólki 5 (sum høvdu havt 30 dagar í fleiri ár frammanundan)?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvørji ítøkilig fiskifør í bólki 3 og bólki 4 hava fingið fiskidagar á Føroyabanka í 2022, og hvussu nógvar fiskidagar hevur hvørt fiskifar fingið, og hvussu nógvar fiskidagar hava tey brúkt?</s>
+                <s xml:id="rs6yd6yjjh">Hvørji ítøkilig fiskifør í bólki 3 og bólki 4 hava fingið fiskidagar á Føroyabanka í 2022, og hvussu nógvar fiskidagar hevur hvørt fiskifar fingið, og hvussu nógvar fiskidagar hava tey brúkt?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvørji av hesum hava verið til fiskiskap seinasta árið og lúka treytirnar í sjófeingislógini um at vera skrásett, hava siglingarloyvi, veiðiloyvi og fiskiloyvi?</s>
+                <s xml:id="jo3wp6c2wv">Hvørji av hesum hava verið til fiskiskap seinasta árið og lúka treytirnar í sjófeingislógini um at vera skrásett, hava siglingarloyvi, veiðiloyvi og fiskiloyvi?</s>
             </item>
             <item xml:id="q6" type="question-item">
-                <s>Hvussu nógvir fiskidagar eru avhendaðir og seldir millum fiskiførini, og ítøkiliga frá hvørjum fiskifari til hvat fiskifar og fyri hvussu nógvan pening?</s>
+                <s xml:id="u4hitdu2zo">Hvussu nógvir fiskidagar eru avhendaðir og seldir millum fiskiførini, og ítøkiliga frá hvørjum fiskifari til hvat fiskifar og fyri hvussu nógvan pening?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í apríl mánaði í ár boðaði landsstýrismaðurin frá, at royndarfiskiskapur skuldi økjast á Føroyabanka í eini serskipan.</s>
-            <s>Í kunngerð varð ásett, at 150 dagar skuldu útskrivast til fiskifør í bólki 3 (línuskip), 150 dagar til bólk 4 (útróðrarbátar), meðan smærri útróðrarbátarnir í bólki 5 fingu 30 dagar - sama fiskidagatal, ið teir høvdu havt í mong ár frammanundan.</s>
-            <s>Eisini varð ásett, at fiskidagarnir í bólki 3 og 4 vórðu býttir út á fiskiførini í hesum bólkum, men kundu avhendast.</s>
-            <s>Tí verður spurt, við hvørjari heimild hetta varð gjørt, og hvørjar sakligar grundgevingar og viging av líkaregluni í fyrisitingarrættinum lógu til grund fyri at ganga ímóti vísindaligu tilmælunum frá Havstovuni og at gera eitt slíkt býti millum bólkar og eigarar av fiskiførum í húkafiskiskapi.</s>
-            <s>Eisini verður spurt, hvørji fiskifør hava fingið útskrivað fiskidagar, um tey eru í vinnu og lúka treytirnar, og hvør veruliga hevur fiskað - harundir hvørjir fiskidagar eru avhendaðir/seldir ímillum.</s>
+            <s xml:id="njx2gi32p5">Í apríl mánaði í ár boðaði landsstýrismaðurin frá, at royndarfiskiskapur skuldi økjast á Føroyabanka í eini serskipan.</s>
+            <s xml:id="f5rvmjudrx">Í kunngerð varð ásett, at 150 dagar skuldu útskrivast til fiskifør í bólki 3 (línuskip), 150 dagar til bólk 4 (útróðrarbátar), meðan smærri útróðrarbátarnir í bólki 5 fingu 30 dagar - sama fiskidagatal, ið teir høvdu havt í mong ár frammanundan.</s>
+            <s xml:id="ekplu2lzvc">Eisini varð ásett, at fiskidagarnir í bólki 3 og 4 vórðu býttir út á fiskiførini í hesum bólkum, men kundu avhendast.</s>
+            <s xml:id="pdigzq4cuq">Tí verður spurt, við hvørjari heimild hetta varð gjørt, og hvørjar sakligar grundgevingar og viging av líkaregluni í fyrisitingarrættinum lógu til grund fyri at ganga ímóti vísindaligu tilmælunum frá Havstovuni og at gera eitt slíkt býti millum bólkar og eigarar av fiskiførum í húkafiskiskapi.</s>
+            <s xml:id="rm7o7yxokr">Eisini verður spurt, hvørji fiskifør hava fingið útskrivað fiskidagar, um tey eru í vinnu og lúka treytirnar, og hvør veruliga hevur fiskað - harundir hvørjir fiskidagar eru avhendaðir/seldir ímillum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-08-05">5. august 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-08-05">5. august 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>

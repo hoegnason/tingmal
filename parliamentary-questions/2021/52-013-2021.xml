@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48286" />
+          <ref target="https://www.logting.fo/documents/48286"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,41 +57,41 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Skipan við føstum røktarheimslækna</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongur við arbeiðinum at seta í verk skipan við føstum røktarheimslækna?</s>
+                <s xml:id="ii2w6uzehu">Hvussu gongur við arbeiðinum at seta í verk skipan við føstum røktarheimslækna?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær væntar landsstýrismaðurin, at skipanin fer at virka?</s>
+                <s xml:id="lmqx4spryu">Nær væntar landsstýrismaðurin, at skipanin fer at virka?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <ol start="22">
             <li>november í fjør samtykti Løgtingið at taka undir við uppskoti frá Framsókn um at seta í verk skipan við føstum røktarheimslækna.</li>
           </ol>
           <p>
-            <s>Orsøkin til uppskotið var, at kommunur og eldrasamstørv kring landið ynskja sær eina skipan, har ellis-og røktarheim hava fastan kommunulækna knýttan at sær.</s>
-            <s>Verandi skipan krevur nógva orku og tíð hjá læknum og starvsfólki á heimunum, sum kundi verið brúkt betur.</s>
-            <s>Skipanin við føstum røktarheimslæknum er roynd aðrastaðni við sera góðum úrslitum.</s>
-            <s>Eitt nú vísa kanningar úr Danmark, at skipanin minkar um innleggingar við 28%, endurinnleggingar við 27%, stutttíðar innleggingar við 14%, umframt at óneyðug heilivágsnýtsla minkar munandi.</s>
+            <s xml:id="tgs74d37ya">Orsøkin til uppskotið var, at kommunur og eldrasamstørv kring landið ynskja sær eina skipan, har ellis-og røktarheim hava fastan kommunulækna knýttan at sær.</s>
+            <s xml:id="uu4wxiq3jr">Verandi skipan krevur nógva orku og tíð hjá læknum og starvsfólki á heimunum, sum kundi verið brúkt betur.</s>
+            <s xml:id="uhvbtrkjmx">Skipanin við føstum røktarheimslæknum er roynd aðrastaðni við sera góðum úrslitum.</s>
+            <s xml:id="hf4qu5co3b">Eitt nú vísa kanningar úr Danmark, at skipanin minkar um innleggingar við 28%, endurinnleggingar við 27%, stutttíðar innleggingar við 14%, umframt at óneyðug heilivágsnýtsla minkar munandi.</s>
           </p>
           <p>
-            <s>Eitt samt Løgting tók undir við uppskotinum, men enn er skipanin ikki farin at virka, og starvsfólk á økinum leingjast at frætta nærri um ítøkiligar ætlanir.</s>
-            <s>Tí verður spurningurin settur landsstýrismanninum.</s>
+            <s xml:id="xswwz224uy">Eitt samt Løgting tók undir við uppskotinum, men enn er skipanin ikki farin at virka, og starvsfólk á økinum leingjast at frætta nærri um ítøkiligar ætlanir.</s>
+            <s xml:id="hvfmyeokdj">Tí verður spurningurin settur landsstýrismanninum.</s>
           </p>
-          <p></p>
+          <p/>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-09">9. august 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-08-09">9. august 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang</persName>

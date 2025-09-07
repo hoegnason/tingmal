@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/61371" />
+          <ref target="https://www.logting.fo/documents/61371"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,40 +57,40 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Dalstunnilin og tunnilstoymið</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongur við arbeiðinum við Dalstunlinum?</s>
+                <s xml:id="orffssbrq7">Hvussu gongur við arbeiðinum við Dalstunlinum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Heldur tíðarætlanin?</s>
+                <s xml:id="bundvsw2gt">Heldur tíðarætlanin?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Nær verður dalstunnilsprojektið við tilhoyrandi vegum liðugt?</s>
+                <s xml:id="ee5xoqt22d">Nær verður dalstunnilsprojektið við tilhoyrandi vegum liðugt?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Nær verður fyrsta skotið til tunnilin til Tjørnuvíkar skotið?</s>
+                <s xml:id="wchpwkdujd">Nær verður fyrsta skotið til tunnilin til Tjørnuvíkar skotið?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Dalstunnilin er sprongdur ígjøgnum og eftir er nú at gera projektið liðugt.</s>
-            <s>Tunnilin skal tryggjast og asfalterast, og vegir við tunnilsmunnarnar skulu gerast lidnir.</s>
-            <s>Pengar eru játtaðir til at enda projektið og tí er týdningarmikið, at arbeiðið gongur eftir ætlan.</s>
-            <s>Eisini er ætlanin, at tunnilstoymið skal til Tjørnuvíkar, tá dalstunnilsprojektið er liðugt.</s>
-            <s>Fyri at fáa at vita, hvussu arbeiðið hilnast, verða hesir spurningar settir landstýrismanninum.</s>
+            <s xml:id="k65wquhfvd">Dalstunnilin er sprongdur ígjøgnum og eftir er nú at gera projektið liðugt.</s>
+            <s xml:id="lo5ycjkvmo">Tunnilin skal tryggjast og asfalterast, og vegir við tunnilsmunnarnar skulu gerast lidnir.</s>
+            <s xml:id="v4atwztk2p">Pengar eru játtaðir til at enda projektið og tí er týdningarmikið, at arbeiðið gongur eftir ætlan.</s>
+            <s xml:id="til73eltqb">Eisini er ætlanin, at tunnilstoymið skal til Tjørnuvíkar, tá dalstunnilsprojektið er liðugt.</s>
+            <s xml:id="ldkgr52kxh">Fyri at fáa at vita, hvussu arbeiðið hilnast, verða hesir spurningar settir landstýrismanninum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-03-04">4. mars 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-03-04">4. mars 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

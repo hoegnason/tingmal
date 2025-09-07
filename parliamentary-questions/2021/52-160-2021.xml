@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/s4q24t46">Sámal Hanni Lognberg</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/52286" />
+          <ref target="https://www.logting.fo/documents/52286"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,36 +57,36 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Grótkastið á Símunarbukt í Skopun</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hví er Landsverk ikki farið undir at umvæla grótkastið á Símunarbukt í Skopun?</s>
+                <s xml:id="vkpiukbalp">Hví er Landsverk ikki farið undir at umvæla grótkastið á Símunarbukt í Skopun?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær verður farið undir hetta arbeiðið?</s>
+                <s xml:id="r63g3crf66">Nær verður farið undir hetta arbeiðið?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Stór skør eru í grótkastinum á Símunarbukt, og hetta kemst av tí stóra uppganginum, sum var.</s>
-            <s>Landið eigur grótkastið og spurningurin er, um landsstýrismaðurin ætlar sær at handa Skopunar kommunu grótkastið í tí standi, tað er í dag.</s>
+            <s xml:id="awbxwz574j">Stór skør eru í grótkastinum á Símunarbukt, og hetta kemst av tí stóra uppganginum, sum var.</s>
+            <s xml:id="ndurflyekb">Landið eigur grótkastið og spurningurin er, um landsstýrismaðurin ætlar sær at handa Skopunar kommunu grótkastið í tí standi, tað er í dag.</s>
           </p>
           <p>
-            <s>Landsverk eigur stórt grót á goymslu á keiøkinum í Skopun, og tí kundi verið upplagt at fingið umvælt grótkastið, áðrenn veturin aftur kemur á okkum og vit kanska standa í einari enn verri støðu, sum t.d. at enn meira av gróti má fáast burtur av grótverjuni.</s>
-            <s>Hetta vildi havt við sær meira umfatandi umvæling og hægri kostnað fyri landið.</s>
-            <s>Tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="koiutcej3n">Landsverk eigur stórt grót á goymslu á keiøkinum í Skopun, og tí kundi verið upplagt at fingið umvælt grótkastið, áðrenn veturin aftur kemur á okkum og vit kanska standa í einari enn verri støðu, sum t.d. at enn meira av gróti má fáast burtur av grótverjuni.</s>
+            <s xml:id="vmmsf2pigt">Hetta vildi havt við sær meira umfatandi umvæling og hægri kostnað fyri landið.</s>
+            <s xml:id="atj644ceos">Tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-01">1. apríl 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-04-01">1. apríl 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/s4q24t46">Sámal Hanni Longnerg</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/52690" />
+          <ref target="https://www.logting.fo/documents/52690"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,45 +57,45 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bráðfeingis sálarhjálp</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er landsstýrismaðurin vitandi um, at persónar, sum venda sær til heilsuverkið við bráðfeingistørvi á sálarhjálp, verða heimsendir uttan at røttu fakfólkini gera meting av viðkomandi?</s>
+                <s xml:id="a4mb3rgv7y">Er landsstýrismaðurin vitandi um, at persónar, sum venda sær til heilsuverkið við bráðfeingistørvi á sálarhjálp, verða heimsendir uttan at røttu fakfólkini gera meting av viðkomandi?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvønn rætt hava persónar við bráðfeingistørvi á sálarhjálp at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum?</s>
+                <s xml:id="ybtjrqaffc">Hvønn rætt hava persónar við bráðfeingistørvi á sálarhjálp at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Nær verður ein skipað sálarfrøðilig skaðastova klár?</s>
+                <s xml:id="xoy5onpyjf">Nær verður ein skipað sálarfrøðilig skaðastova klár?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Javnan hoyrast neyðarróp frá avvarðandi hjá psykiatriskum sjúklingum, at sjúklingar ikki fáa bráðfeingis sálarhjálp.</s>
-            <s>Fólk, sum møta upp á skaðastovuni við átrokandi tørvi á hjálp, verða vend í hurðini við grundgevingini, at psykiatriski depilin ikki tekur fólk inn.</s>
+            <s xml:id="qacgsikak2">Javnan hoyrast neyðarróp frá avvarðandi hjá psykiatriskum sjúklingum, at sjúklingar ikki fáa bráðfeingis sálarhjálp.</s>
+            <s xml:id="r42q6zmubj">Fólk, sum møta upp á skaðastovuni við átrokandi tørvi á hjálp, verða vend í hurðini við grundgevingini, at psykiatriski depilin ikki tekur fólk inn.</s>
           </p>
           <p>
-            <s>Sama ger seg galdandi, tá sjúklingar seta seg í samband við egnan lækna í dagtímunum.</s>
+            <s xml:id="rcxffprwfz">Sama ger seg galdandi, tá sjúklingar seta seg í samband við egnan lækna í dagtímunum.</s>
           </p>
           <p>
-            <s>Í fleiri ár hevur politiski myndugleikin arbeitt við eini sálarfrøðiligari skaðastovu.</s>
-            <s>Breið politisk semja tykist at vera um at raðfesta hetta arbeiðið.</s>
-            <s>Kortini má ásannast, at neyðugt er at skipa móttøkuna betur fram til, at arbeiðið er komið á mál.</s>
+            <s xml:id="r6xh4uwwss">Í fleiri ár hevur politiski myndugleikin arbeitt við eini sálarfrøðiligari skaðastovu.</s>
+            <s xml:id="es6wcyscvh">Breið politisk semja tykist at vera um at raðfesta hetta arbeiðið.</s>
+            <s xml:id="yy66nnjvae">Kortini má ásannast, at neyðugt er at skipa móttøkuna betur fram til, at arbeiðið er komið á mál.</s>
           </p>
           <p>
-            <s>Sum eitt minsta krav eiga psykiatriskir sjúklingar at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum, áðrenn tey verða send heim.</s>
+            <s xml:id="sblloassut">Sum eitt minsta krav eiga psykiatriskir sjúklingar at fáa eina meting frá vakthavandi lækna á psykiatriska deplinum, áðrenn tey verða send heim.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-04-22">22. apríl 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-04-22">22. apríl 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>

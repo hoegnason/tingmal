@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/57124" />
+          <ref target="https://www.logting.fo/documents/57124"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,38 +57,38 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Vetrarferia</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongur við arbeiðinum at skipa fyri vetrarferiu komandi skúlaár?</s>
+                <s xml:id="xol6w5avon">Hvussu gongur við arbeiðinum at skipa fyri vetrarferiu komandi skúlaár?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu er ætlanin at skipa hesa vetrarferiu?</s>
+                <s xml:id="sb25zmb7jo">Hvussu er ætlanin at skipa hesa vetrarferiu?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Vetrarferia var eitt mál, sum fylti nakað í valstríðnum fram til løgtingsvalið.</s>
-            <s>Tað tykist sum, at stór undirtøka er fyri hesum bæði millum fólk og á Løgtingi.</s>
+            <s xml:id="kw32vxwjsn">Vetrarferia var eitt mál, sum fylti nakað í valstríðnum fram til løgtingsvalið.</s>
+            <s xml:id="x5ibnej47l">Tað tykist sum, at stór undirtøka er fyri hesum bæði millum fólk og á Løgtingi.</s>
           </p>
           <p>
-            <s>Í februar í ár var landsstýrismaðurin í miðlunum og greiddi frá ætlanum um at skipa vetrarferiu í 2024, og at tað varð arbeitt við møguleikanum at hava hesa vetrarferiu í viku 7.</s>
+            <s xml:id="nyxredbqlq">Í februar í ár var landsstýrismaðurin í miðlunum og greiddi frá ætlanum um at skipa vetrarferiu í 2024, og at tað varð arbeitt við møguleikanum at hava hesa vetrarferiu í viku 7.</s>
           </p>
           <p>
-            <s>Skúlabørnini fara í hesum døgum í summarferiu, og tá tey koma aftur í skúla um einar 8 vikur, fá tey vanliga at vita, hvussu komandi skúlaár verður skipað.</s>
-            <s>Tí nærkast vit seinastu løtu, um skipast skal fyri vetrarferiu komandi skúlaár, og tí er áhugavert at fáa at vita, hvussu tað gongur við hesum ætlanum.</s>
+            <s xml:id="ewnen4rbd3">Skúlabørnini fara í hesum døgum í summarferiu, og tá tey koma aftur í skúla um einar 8 vikur, fá tey vanliga at vita, hvussu komandi skúlaár verður skipað.</s>
+            <s xml:id="x447p2va6b">Tí nærkast vit seinastu løtu, um skipast skal fyri vetrarferiu komandi skúlaár, og tí er áhugavert at fáa at vita, hvussu tað gongur við hesum ætlanum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2023-06-23">23. juni 2023</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2023-06-23">23. juni 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/50973" />
+          <ref target="https://www.logting.fo/documents/50973"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,36 +57,36 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Listalig miðstøð</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvørjar ætlanir eru við gamla studentaskúlanum í Hoydølum?</s>
+                <s xml:id="dajw47i4vf">Hvørjar ætlanir eru við gamla studentaskúlanum í Hoydølum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Er ætlanin at gera gamla studentaskúlan í Hoydølum til eina listaliga miðstøð?</s>
+                <s xml:id="f4rfrto6gn">Er ætlanin at gera gamla studentaskúlan í Hoydølum til eina listaliga miðstøð?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Um nei, hvørjar møguleikar sær landsstýrismaðurin fyri sær fyri at fáa eina listaliga miðstøð?</s>
+                <s xml:id="nchky4yrmv">Um nei, hvørjar møguleikar sær landsstýrismaðurin fyri sær fyri at fáa eina listaliga miðstøð?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í rúma tíð hevur verið tosað um, hvat gamli studentaskúlabygningurin í Hoydølum skal brúkast til, nú skúlin er fluttur í glæsiliga Glasir.</s>
-            <s>LISA hevur verið úti við uppskoti um at gera eina listaliga miðstøð og umhvørvi, har listin í Føroyum kann blóma enn meira.</s>
-            <s>Í uppskotinum varð víst á møguleikar við at framleiða list, at sýna list, at skapa altjóða netverk og alt møguligt annað.</s>
-            <s>Hesin fyrispurningurin verður settur fyri at frætta, hvørjar ætlanirnar eru við gamla studentaskúlanum og fyri at frætta, um tað verður arbeitt við at skapa eina listaliga miðstøð - t.d. í Hoydølum, so okkara listafólk og føroysk list fær betri umstøður at útfolda seg.</s>
+            <s xml:id="cblao7iags">Í rúma tíð hevur verið tosað um, hvat gamli studentaskúlabygningurin í Hoydølum skal brúkast til, nú skúlin er fluttur í glæsiliga Glasir.</s>
+            <s xml:id="uy5m4hbdpc">LISA hevur verið úti við uppskoti um at gera eina listaliga miðstøð og umhvørvi, har listin í Føroyum kann blóma enn meira.</s>
+            <s xml:id="ogo6jmkvrv">Í uppskotinum varð víst á møguleikar við at framleiða list, at sýna list, at skapa altjóða netverk og alt møguligt annað.</s>
+            <s xml:id="dk7jjuhlyg">Hesin fyrispurningurin verður settur fyri at frætta, hvørjar ætlanirnar eru við gamla studentaskúlanum og fyri at frætta, um tað verður arbeitt við at skapa eina listaliga miðstøð - t.d. í Hoydølum, so okkara listafólk og føroysk list fær betri umstøður at útfolda seg.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-02-18">18. februar 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-02-18">18. februar 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/yj4pc7pq">Hervør Pálsdóttir</persName>

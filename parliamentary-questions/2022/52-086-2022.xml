@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/err4evu6">Erling Eidesgaard</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/56572" />
+          <ref target="https://www.logting.fo/documents/56572"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,47 +57,47 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bankaskipanin og aðrar kjarnuskipanir í hesum sambandi</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvørjar verða avleiðingarnar fyri føroysku bankarnar, fyri peningaflytingar og handil í Føroyum við gjaldskortum, um okkara sjóvegis kaðalsambond til útheimin slitna, eitt nú orsakað av yvirgangi?</s>
+                <s xml:id="jburzoalvw">Hvørjar verða avleiðingarnar fyri føroysku bankarnar, fyri peningaflytingar og handil í Føroyum við gjaldskortum, um okkara sjóvegis kaðalsambond til útheimin slitna, eitt nú orsakað av yvirgangi?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Metir landsstýrismaðurin, at tað er ráðiligt, at so kritiskur infrastrukturur sum bankaskipan og gjaldsskipanir, login- og lyklaskipanir, ið verða brúktar túsundtals ferðir um dagin, liggja í einum fremmandum landi, ið vit brádliga kunnu verða avskorin frá í langa tíð?</s>
+                <s xml:id="vpyhgof2du">Metir landsstýrismaðurin, at tað er ráðiligt, at so kritiskur infrastrukturur sum bankaskipan og gjaldsskipanir, login- og lyklaskipanir, ið verða brúktar túsundtals ferðir um dagin, liggja í einum fremmandum landi, ið vit brádliga kunnu verða avskorin frá í langa tíð?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvørjar eru fíggjarligu avleiðingarnar av at flyta umrøddu skipanir heim? Talan er ikki bara um útreiðslur, men eisini inntøkur.</s>
+                <s xml:id="pzvetzygpa">Hvørjar eru fíggjarligu avleiðingarnar av at flyta umrøddu skipanir heim? Talan er ikki bara um útreiðslur, men eisini inntøkur.</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvussu nógv nýggj føroysk kt-størv hevði ein heimtøka av hesum skipanum givið?</s>
+                <s xml:id="sganfwsbz6">Hvussu nógv nýggj føroysk kt-størv hevði ein heimtøka av hesum skipanum givið?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Ætlar landsstýrismaðurin at áleggja føroysku peningastovnunum at flyta hesar skipanir heim?</s>
+                <s xml:id="k4i6gvgfdi">Ætlar landsstýrismaðurin at áleggja føroysku peningastovnunum at flyta hesar skipanir heim?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað eru nú nógv ár síðani (2010) bankaskipanin hjá føroysku peningastovnunum varð flutt frá Elektron á Staravegnum í Havn og til Danmarkar.</s>
-            <s>Allar elektroniskar gjaldingar í føroyskum handlum og ein stórur partur av login- og lyklaskipanunum, ið vit brúka í Føroyum í dag, verða eisini avgreiddar í Danmark.</s>
-            <s>Sostatt liggja stórar og kritiskar kjarnuskipanir í føroyska samfelagnum í Danmark og harvið langt uttan fyri landoddarnar.</s>
+            <s xml:id="nalizl4uns">Tað eru nú nógv ár síðani (2010) bankaskipanin hjá føroysku peningastovnunum varð flutt frá Elektron á Staravegnum í Havn og til Danmarkar.</s>
+            <s xml:id="phgespojcs">Allar elektroniskar gjaldingar í føroyskum handlum og ein stórur partur av login- og lyklaskipanunum, ið vit brúka í Føroyum í dag, verða eisini avgreiddar í Danmark.</s>
+            <s xml:id="ezbszpeikh">Sostatt liggja stórar og kritiskar kjarnuskipanir í føroyska samfelagnum í Danmark og harvið langt uttan fyri landoddarnar.</s>
           </p>
           <p>
-            <s>Føroyska samfelagið liggur sera fjarskotið, men vit eru von við, at internetsambandið til Danmarkar fyri tað mesta er í lagi.</s>
-            <s>Vit hava vant okkum við hetta, og tað er tí helst ein sjálvfylgja.</s>
+            <s xml:id="w3am2pcxp6">Føroyska samfelagið liggur sera fjarskotið, men vit eru von við, at internetsambandið til Danmarkar fyri tað mesta er í lagi.</s>
+            <s xml:id="hn4sk5i52v">Vit hava vant okkum við hetta, og tað er tí helst ein sjálvfylgja.</s>
           </p>
           <p>
-            <s>Men skuldi sjóvegis kaðalsambandið ímillum Føroyar og umheimin slitnað og verið burtur í eina tíð, kanska dagar, kanska vikur ella mánaðir, so er umráðandi, at kjarnuskipanir sum t.d. elveiting, samskifti og peningakervi ikki liggja lamnar.</s>
-            <s>Vit eru væl stillaði, tá umræður elveiting og samskifti.</s>
-            <s>Men vit eru prísgivin (sitting ducks), tá umræður peningakervi og elektroniskar gjaldingar.</s>
+            <s xml:id="vjs37r3cfb">Men skuldi sjóvegis kaðalsambandið ímillum Føroyar og umheimin slitnað og verið burtur í eina tíð, kanska dagar, kanska vikur ella mánaðir, so er umráðandi, at kjarnuskipanir sum t.d. elveiting, samskifti og peningakervi ikki liggja lamnar.</s>
+            <s xml:id="brhmdhf7cq">Vit eru væl stillaði, tá umræður elveiting og samskifti.</s>
+            <s xml:id="fxgjfvmzms">Men vit eru prísgivin (sitting ducks), tá umræður peningakervi og elektroniskar gjaldingar.</s>
           </p>
           <p>
-            <s>Tað kundi verið í áhuganum hjá føroyingum at styrkt føroyska samfelagið og vinnumøguleikarnar í Føroyum.</s>
-            <s>Tað hevði borið til at lóggivið, at bankaskipan, loginog lyklaskipanir skulu liggja í Føroyum, og soleiðis styrkt um hesar vinnumøguleikar, umframt at styrkt munandi um mótstøðuførið og trygdina í føroyska samfelagnum.</s>
+            <s xml:id="qtwkdg3kbm">Tað kundi verið í áhuganum hjá føroyingum at styrkt føroyska samfelagið og vinnumøguleikarnar í Føroyum.</s>
+            <s xml:id="f2vq2rtius">Tað hevði borið til at lóggivið, at bankaskipan, loginog lyklaskipanir skulu liggja í Føroyum, og soleiðis styrkt um hesar vinnumøguleikar, umframt at styrkt munandi um mótstøðuførið og trygdina í føroyska samfelagnum.</s>
           </p>
         </div>
         <div type="signature">

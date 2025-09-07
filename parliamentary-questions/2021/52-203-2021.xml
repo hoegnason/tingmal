@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53110" />
+          <ref target="https://www.logting.fo/documents/53110"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,42 +57,42 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Stjóralønin í Posta</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Kann landsstýrismaðurin upplýsa orsøkina til, at nevndin í almenna partafelagnum Posta hevur givið stjóranum eina lønarhækkan á 184.000 krónur í 2021?</s>
+                <s xml:id="kagjumaxyu">Kann landsstýrismaðurin upplýsa orsøkina til, at nevndin í almenna partafelagnum Posta hevur givið stjóranum eina lønarhækkan á 184.000 krónur í 2021?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Metir landsstýrismaðurin tað vera rætt, at nevndin hevur hækkað lønina hjá stjóranum við 184.000 krónum (12,5 prosentum)?</s>
+                <s xml:id="u7jsguu5ay">Metir landsstýrismaðurin tað vera rætt, at nevndin hevur hækkað lønina hjá stjóranum við 184.000 krónum (12,5 prosentum)?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Samsvarar lønin hjá stjóranum í Posta á góðar 1,7 mió. kr. um árið við aðrar stjóralønir í almennum partafeløgum?</s>
+                <s xml:id="njq2qdnl7q">Samsvarar lønin hjá stjóranum í Posta á góðar 1,7 mió. kr. um árið við aðrar stjóralønir í almennum partafeløgum?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Kann landsstýrismaðurin upplýsa, hvat stjóralønirnar eru í øðrum almennum partafeløgum, sum hoyra undir hansara málsøki?</s>
+                <s xml:id="opdfqat443">Kann landsstýrismaðurin upplýsa, hvat stjóralønirnar eru í øðrum almennum partafeløgum, sum hoyra undir hansara málsøki?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í farnu viku kom fram, at stjóralønin í Posta er hækkað við 184.000 krónum ella 12,5 prosentum frá 2020 til 2021.</s>
-            <s>Nú er samlaða lønin 1,7 mió. krónur um árið.</s>
-            <s>Hvørki nevnd ella landsstýrismaður hava givið nakra frágreiðing í miðlunum higartil.</s>
+            <s xml:id="ycjvcpggvl">Í farnu viku kom fram, at stjóralønin í Posta er hækkað við 184.000 krónum ella 12,5 prosentum frá 2020 til 2021.</s>
+            <s xml:id="etscvkmehj">Nú er samlaða lønin 1,7 mió. krónur um árið.</s>
+            <s xml:id="nptbjk3rps">Hvørki nevnd ella landsstýrismaður hava givið nakra frágreiðing í miðlunum higartil.</s>
           </p>
           <p>
-            <s>Tað er Føroya fólk, sum eigur Posta, og tí hevur landsstýrismaðurin evstu ábyrgd av, at almenna partafelagið verður rikið á ábyrgdarfullan hátt.</s>
-            <s>Tí verða hesir fyrispurningarnir settir.</s>
+            <s xml:id="xgz7hfaukv">Tað er Føroya fólk, sum eigur Posta, og tí hevur landsstýrismaðurin evstu ábyrgd av, at almenna partafelagið verður rikið á ábyrgdarfullan hátt.</s>
+            <s xml:id="jnjatev4xv">Tí verða hesir fyrispurningarnir settir.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-05-30">30. mai 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-05-30">30. mai 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>

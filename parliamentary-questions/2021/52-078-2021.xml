@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/49641" />
+          <ref target="https://www.logting.fo/documents/49641"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,37 +57,37 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Tinglýsing</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hevur landsstýrismaðurin ætlanir um at gera tinglýsing v.m. skjótari at avgreiða?</s>
+                <s xml:id="wg3jmf6ygt">Hevur landsstýrismaðurin ætlanir um at gera tinglýsing v.m. skjótari at avgreiða?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Um ja, nær kann man vænta, at broytingar verða framdar hesum viðvíkjandi?</s>
+                <s xml:id="i3symrfcou">Um ja, nær kann man vænta, at broytingar verða framdar hesum viðvíkjandi?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>At fáa skjøl tinglýst kann oftani taka langa tíð.</s>
-            <s>Fólk kunnu bíða í eitt langt tíðarskeIð, og verða fólk sett í eina bíðistøðu, tá tey m.a. skulu seta búgv o.a.</s>
+            <s xml:id="ne6n6kvclh">At fáa skjøl tinglýst kann oftani taka langa tíð.</s>
+            <s xml:id="ykyituk2c7">Fólk kunnu bíða í eitt langt tíðarskeIð, og verða fólk sett í eina bíðistøðu, tá tey m.a. skulu seta búgv o.a.</s>
           </p>
           <p>
-            <s>Seinastu árini eru fleiri enn 10.000 skjøl send til tinglýsingar, verður upplýst av Umhvørvisstovuni á heimasíðu teirra.</s>
+            <s xml:id="ghoyxwvemz">Seinastu árini eru fleiri enn 10.000 skjøl send til tinglýsingar, verður upplýst av Umhvørvisstovuni á heimasíðu teirra.</s>
           </p>
           <p>
-            <s>Tí hevði verið áhugavert at vitað, um nøkur ætlan er um at gera tinglýsing skjótari at avgreiða og lættari at umsita, og nær man kann vænta broytingar.</s>
+            <s xml:id="sefgoyyvsb">Tí hevði verið áhugavert at vitað, um nøkur ætlan er um at gera tinglýsing skjótari at avgreiða og lættari at umsita, og nær man kann vænta broytingar.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2021-11-09">9. november 2021</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2021-11-09">9. november 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>

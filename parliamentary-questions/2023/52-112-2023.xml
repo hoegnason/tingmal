@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen</persName>
             <roleName>løgtingskvinna</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/61505" />
+          <ref target="https://www.logting.fo/documents/61505"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,39 +57,39 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Átøk í krabbameinsætlanini</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvørji átøk í nýggju krabbameinsætlanini eru sett í verk?</s>
+                <s xml:id="w4nbquvr3v">Hvørji átøk í nýggju krabbameinsætlanini eru sett í verk?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvørji átøk eru ávegis?</s>
+                <s xml:id="bjyxnwtb4c">Hvørji átøk eru ávegis?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í Føroyum er krabbamein tann sjúkan, sum krevur flest mannalív.</s>
-            <s>Tíbetur eru fleiri og fleiri, sum fáa heilsubót.</s>
-            <s>Tað vísa hagtølini fyri, hvussu nógv liva fimm ár eftir, at tey fingu staðfest krabbamein.</s>
-            <s>Somu hagtøl vísa tíanverri, at av Norðurlondunum liggja vit aftast.</s>
+            <s xml:id="bej62g7u6z">Í Føroyum er krabbamein tann sjúkan, sum krevur flest mannalív.</s>
+            <s xml:id="zrhjsf4bbg">Tíbetur eru fleiri og fleiri, sum fáa heilsubót.</s>
+            <s xml:id="cmx42r3qnm">Tað vísa hagtølini fyri, hvussu nógv liva fimm ár eftir, at tey fingu staðfest krabbamein.</s>
+            <s xml:id="vgvapmpohx">Somu hagtøl vísa tíanverri, at av Norðurlondunum liggja vit aftast.</s>
           </p>
           <p>
-            <s>Í samgonguskjalinum frá 2023 stendur, at átøk í krabbameinsætlanini skulu fremjast.</s>
-            <s>Krabbameinsætlanin er frá 2022 og varð handað táverandi landsstýrismanni í heilsumálum, Kaj Leo Holm Johannesen, 8. apríl 2022.</s>
-            <s>Í krabbameinsætlanini eru 69 tilmæli.</s>
-            <s>Nøkur av hesum tilmælum eru at screena fyri tarmkrabba, herd átøk móti royking, endurmenna krabbameinssjúklingar, einføld og gjøgnumskygd ávísingarskipan fyri at nevna nøkur.</s>
+            <s xml:id="olwblmi4ce">Í samgonguskjalinum frá 2023 stendur, at átøk í krabbameinsætlanini skulu fremjast.</s>
+            <s xml:id="yi77db72on">Krabbameinsætlanin er frá 2022 og varð handað táverandi landsstýrismanni í heilsumálum, Kaj Leo Holm Johannesen, 8. apríl 2022.</s>
+            <s xml:id="vo3yv54hwd">Í krabbameinsætlanini eru 69 tilmæli.</s>
+            <s xml:id="py55gakjlq">Nøkur av hesum tilmælum eru at screena fyri tarmkrabba, herd átøk móti royking, endurmenna krabbameinssjúklingar, einføld og gjøgnumskygd ávísingarskipan fyri at nevna nøkur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2024-04-11">11. apríl 2024</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2024-04-11">11. apríl 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen</persName>

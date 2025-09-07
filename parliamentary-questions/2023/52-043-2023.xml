@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/58620" />
+          <ref target="https://www.logting.fo/documents/58620"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,49 +57,49 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Rundkoyring og ferðslutrygd á Kambsdali</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Liggur í kortunum at fremja verkætlanina við rundkoyring á Kambsdali?</s>
+                <s xml:id="aeedoyt2k4">Liggur í kortunum at fremja verkætlanina við rundkoyring á Kambsdali?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Um so er, nær er ætlanin at fáa tað gjørt?</s>
+                <s xml:id="jrrgyvxaob">Um so er, nær er ætlanin at fáa tað gjørt?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Í 2019 varð mett, at kostnaðurin fyri eina rundkoyring var 2-3 mió. kr. Hvat kostar hetta í dag?</s>
+                <s xml:id="pjbshsg6i3">Í 2019 varð mett, at kostnaðurin fyri eina rundkoyring var 2-3 mió. kr. Hvat kostar hetta í dag?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvussu høgur er óhapstíttleikin á Fuglafjarðarvegnum – kanska serliga á strekkinum við Kambsdal – í mun til onnur vegastrekki í landinum?</s>
+                <s xml:id="mngtftwfeu">Hvussu høgur er óhapstíttleikin á Fuglafjarðarvegnum – kanska serliga á strekkinum við Kambsdal – í mun til onnur vegastrekki í landinum?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvussu fer ein rundkoyring á Kambsdali at ávirka ferðslutrygdina á vegastrekkinum?</s>
+                <s xml:id="pahspvlqt3">Hvussu fer ein rundkoyring á Kambsdali at ávirka ferðslutrygdina á vegastrekkinum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í Samferðsluætlanini 2018-2030 verður nevnt nakað um vegamót á Kambsdali, har Landsverk mælir til, at rundkoyring verður gjørd.</s>
-            <s>Víst verður á, at tvær vegíbindingar eru inn á Kambsdal í dag, og at tað hava verið fleiri ferðsluóhapp við bæði vegamótini.</s>
-            <s>Landsverk mælir í Samferðsluætlanini 2018-2030 til, at rundkoyring verður gjørd, og at kostnaðarmetingin av hesum í 2019 er 2-3 mió kr.</s>
-            <s>Sambært tí, ið upplýst verður í Samferðsluætlanini, so átekur Fuglafjarðar kommuna sær at gera javnfjaru vegirnar, soleiðis at verandi vegíbindingar verða stongdar.</s>
+            <s xml:id="l5afhajg3c">Í Samferðsluætlanini 2018-2030 verður nevnt nakað um vegamót á Kambsdali, har Landsverk mælir til, at rundkoyring verður gjørd.</s>
+            <s xml:id="g3rw56to3w">Víst verður á, at tvær vegíbindingar eru inn á Kambsdal í dag, og at tað hava verið fleiri ferðsluóhapp við bæði vegamótini.</s>
+            <s xml:id="j7xawlex4c">Landsverk mælir í Samferðsluætlanini 2018-2030 til, at rundkoyring verður gjørd, og at kostnaðarmetingin av hesum í 2019 er 2-3 mió kr.</s>
+            <s xml:id="th6xulwm64">Sambært tí, ið upplýst verður í Samferðsluætlanini, so átekur Fuglafjarðar kommuna sær at gera javnfjaru vegirnar, soleiðis at verandi vegíbindingar verða stongdar.</s>
           </p>
           <p>
-            <s>Sera nógv ferðsla er á Kambsdali.</s>
-            <s>Nógv hundraðtals ungfólk ferðast í skúla í bili og bussi, og haraftrat er Kambsdalur karmur um eitt sera stórt og virkið vinnulív, sum hevur nógva og tunga ferðslu við sær.</s>
-            <s>Eisini er Fuglafjarðarvegurin einasti vegur til og úr Fuglafirði, sum umframt sínar fleiri enn 1600 íbúgvar eisini hýsir sera nógvum vinnuvirkjum.</s>
-            <s>Alt vinnuvirksemið førir við sær nógva ferðslu - ikki minst tunga ferðslu.</s>
-            <s>Ferðslan var stór, tá Samferðsluætlanin 2018-2030 varð gjørd, og hon er sannlíkt bara vaksin síðani tá, og tí átti grundin at verið tess størri til at fáa framt hesa verkætlan.</s>
+            <s xml:id="fcrtdfamde">Sera nógv ferðsla er á Kambsdali.</s>
+            <s xml:id="hnb5ejgasx">Nógv hundraðtals ungfólk ferðast í skúla í bili og bussi, og haraftrat er Kambsdalur karmur um eitt sera stórt og virkið vinnulív, sum hevur nógva og tunga ferðslu við sær.</s>
+            <s xml:id="gp6tgguvol">Eisini er Fuglafjarðarvegurin einasti vegur til og úr Fuglafirði, sum umframt sínar fleiri enn 1600 íbúgvar eisini hýsir sera nógvum vinnuvirkjum.</s>
+            <s xml:id="abruqny5ct">Alt vinnuvirksemið førir við sær nógva ferðslu - ikki minst tunga ferðslu.</s>
+            <s xml:id="qy52hyyqq3">Ferðslan var stór, tá Samferðsluætlanin 2018-2030 varð gjørd, og hon er sannlíkt bara vaksin síðani tá, og tí átti grundin at verið tess størri til at fáa framt hesa verkætlan.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-11-09">9. november 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-11-09">9. november 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>

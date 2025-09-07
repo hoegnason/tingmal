@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/62135" />
+          <ref target="https://www.logting.fo/documents/62135"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,38 +57,38 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Miðfyrisitingin</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu nógv ársverk eru í aðalráðunum í mun til fyri einum ári síðani?</s>
+                <s xml:id="usvxfergmx">Hvussu nógv ársverk eru í aðalráðunum í mun til fyri einum ári síðani?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvør er árligi kostnaðurin av miðfyrisitingini við níggju aðalráðum í mun til, um tað framvegis vóru sjey aðalráð við eins nógvum ársverkum?</s>
+                <s xml:id="mbmpdae6dq">Hvør er árligi kostnaðurin av miðfyrisitingini við níggju aðalráðum í mun til, um tað framvegis vóru sjey aðalráð við eins nógvum ársverkum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Hóast haldførið var høvuðstema, tá CEF-samgongan varð skipað, byrjaði samgonguskeiðið við at økja talið á landsstýrisfólkum og aðalráðum úr sjey upp í níggju.</s>
-            <s>Nógv bleiv gjørt burturúr, at hetta var fíggjarliga skynsamt og fór ikki at krevja fleiri starvsfólk í miðfyrisitingini.</s>
+            <s xml:id="afkp6rw3i6">Hóast haldførið var høvuðstema, tá CEF-samgongan varð skipað, byrjaði samgonguskeiðið við at økja talið á landsstýrisfólkum og aðalráðum úr sjey upp í níggju.</s>
+            <s xml:id="rkjn4lttoi">Nógv bleiv gjørt burturúr, at hetta var fíggjarliga skynsamt og fór ikki at krevja fleiri starvsfólk í miðfyrisitingini.</s>
           </p>
           <p>
-            <s>Sjálvur segði løgmaður, at ætlanin var, at miðfyrisitingin skuldi ikki kosta fleiri almennar skattakrónur.</s>
+            <s xml:id="t3l54i2cl5">Sjálvur segði løgmaður, at ætlanin var, at miðfyrisitingin skuldi ikki kosta fleiri almennar skattakrónur.</s>
           </p>
           <p>
-            <s>Nú hálvtannað ár er liðið, hava verið lýsingar til fleiri nýggj størv í miðfyrisitingini, og um dagarnar eru tríggir nýggir aðalstjórar settir.</s>
-            <s>Áhugavert er tí at fáa upplýst, hvussu nógv miðfyrisitingin er vaksin í krónum og nýggjum størvum í hesum valskeiðnum.</s>
+            <s xml:id="f64sgdxjne">Nú hálvtannað ár er liðið, hava verið lýsingar til fleiri nýggj størv í miðfyrisitingini, og um dagarnar eru tríggir nýggir aðalstjórar settir.</s>
+            <s xml:id="a7lpauffg7">Áhugavert er tí at fáa upplýst, hvussu nógv miðfyrisitingin er vaksin í krónum og nýggjum størvum í hesum valskeiðnum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-06-12">12. juni 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-06-12">12. juni 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>

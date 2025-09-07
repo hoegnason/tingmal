@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/61533" />
+          <ref target="https://www.logting.fo/documents/61533"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,43 +57,43 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Trivnaðarkanningar í sjúkrahúsverkinum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu nógvir pengar eru settir av til komandi trivnaðarkanning í sjúkrahúsverkinum?</s>
+                <s xml:id="gxl4ohuzna">Hvussu nógvir pengar eru settir av til komandi trivnaðarkanning í sjúkrahúsverkinum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Um ikki ber til at svara neyvt, ber so til at koma við einum boði til nærmastu 100.000 kr. ella nærmastu 500.000 kr?</s>
+                <s xml:id="dwl7wnz5fd">Um ikki ber til at svara neyvt, ber so til at koma við einum boði til nærmastu 100.000 kr. ella nærmastu 500.000 kr?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hví verður tað mett neyðugt at gera trivnaðarkanning aftur nú, tá kanningar hava verið gjørdar í bæði í november 2022 og í oktober 2023?</s>
+                <s xml:id="yufldcz6tf">Hví verður tað mett neyðugt at gera trivnaðarkanning aftur nú, tá kanningar hava verið gjørdar í bæði í november 2022 og í oktober 2023?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvørji ítøkilig átøk eru framd eftir kanningina í 2022?</s>
+                <s xml:id="eeseue3d2o">Hvørji ítøkilig átøk eru framd eftir kanningina í 2022?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvørji ítøkilig átøk eru framd eftir kanningina í 2023?</s>
+                <s xml:id="ht4lhponey">Hvørji ítøkilig átøk eru framd eftir kanningina í 2023?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í miðlunum um dagarnar er upplýst, at sjúkrahúsverkið hevur í hyggju at gera stóra trivnaðarkanning av økinum.</s>
-            <s>Í miðlum er eisini staðfest, at trivnaðarkanningar í øllum førum eru gjørdar av pørtum av sjúkrahúsverkinum bæði í 2022 og 2023.</s>
+            <s xml:id="wnyiztqnim">Í miðlunum um dagarnar er upplýst, at sjúkrahúsverkið hevur í hyggju at gera stóra trivnaðarkanning av økinum.</s>
+            <s xml:id="h3rrxufcbx">Í miðlum er eisini staðfest, at trivnaðarkanningar í øllum førum eru gjørdar av pørtum av sjúkrahúsverkinum bæði í 2022 og 2023.</s>
           </p>
           <p>
-            <s>Slíkar kanningar verða fíggjaðar av løgtingsfíggjarlógini, og tí verður spurt um hesa raðfesting innan sjúkrahúsverkið.</s>
+            <s xml:id="fvqiq55s32">Slíkar kanningar verða fíggjaðar av løgtingsfíggjarlógini, og tí verður spurt um hesa raðfesting innan sjúkrahúsverkið.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-04-15">15. apríl 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-04-15">15. apríl 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/oyiv6xcy">Eirikur í Jákupsstovu</persName>

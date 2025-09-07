@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53236" />
+          <ref target="https://www.logting.fo/documents/53236"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,44 +57,44 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Vantandi játtan til Strandferðsluna</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Kann landsstýrismaðurin upplýsa tinginum, nær politiska skipanin av fyrstan tíð bleiv gjørd varug við, at játtanin hjá Strandferðsluni ikki fór at halda?</s>
+                <s xml:id="sicdliprfw">Kann landsstýrismaðurin upplýsa tinginum, nær politiska skipanin av fyrstan tíð bleiv gjørd varug við, at játtanin hjá Strandferðsluni ikki fór at halda?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Ætlar landstýrismaðurin at leggja eykajáttan fyri Løgtingið, sum skal tryggja neyðuga figging at leggja upp fyri hækkandi oljuprísinum?</s>
+                <s xml:id="ujcew6vwx5">Ætlar landstýrismaðurin at leggja eykajáttan fyri Løgtingið, sum skal tryggja neyðuga figging at leggja upp fyri hækkandi oljuprísinum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Hækkandi oljuprísurin hevur gjørt tað alsamt truplari hjá stovnum at fíggja virksemi, sum nýtir nógva olju.</s>
-            <s>Strandferðslan og SEV eru slíkir stovnar.</s>
-            <s>Tó er tað einans SEV, sum hevur tryggjað sær ein støðugan lágan prís restina av hesum árinum.</s>
+            <s xml:id="ynkrcrwgza">Hækkandi oljuprísurin hevur gjørt tað alsamt truplari hjá stovnum at fíggja virksemi, sum nýtir nógva olju.</s>
+            <s xml:id="bmhvfgglqg">Strandferðslan og SEV eru slíkir stovnar.</s>
+            <s xml:id="lgmdhhvmkg">Tó er tað einans SEV, sum hevur tryggjað sær ein støðugan lágan prís restina av hesum árinum.</s>
           </p>
           <p>
-            <s>Sum skilst fekk Strandferðslan ikki sama møguleika orsakað av játtanardráli hjá samgonguni, og tí er stovnurin sera hart raktur av hækkandi oljuprísinum.</s>
+            <s xml:id="e2bcfgw5mu">Sum skilst fekk Strandferðslan ikki sama møguleika orsakað av játtanardráli hjá samgonguni, og tí er stovnurin sera hart raktur av hækkandi oljuprísinum.</s>
           </p>
           <p>
-            <s>Seinastu metingarnar vísa, at kanska heilar 30 mió. kr. fara at resta í.</s>
-            <s>Í samskiftinum millum stovnin og politiska myndugleikan í sambandi við eykajáttan til stovnin í vár skilst, at samgonguumboð skutu upp, at um Strandferðslan minkaði túratalið við 50%, so bleiv ikki neyðugt við fleiri eykajáttanum.</s>
-            <s>Hetta kann als ikki góðtakast og eigur sjálvandi ikki at vera ein møguleiki.</s>
+            <s xml:id="vgb2ivxfd4">Seinastu metingarnar vísa, at kanska heilar 30 mió. kr. fara at resta í.</s>
+            <s xml:id="y6ztutqjw3">Í samskiftinum millum stovnin og politiska myndugleikan í sambandi við eykajáttan til stovnin í vár skilst, at samgonguumboð skutu upp, at um Strandferðslan minkaði túratalið við 50%, so bleiv ikki neyðugt við fleiri eykajáttanum.</s>
+            <s xml:id="m2wyr6s7mn">Hetta kann als ikki góðtakast og eigur sjálvandi ikki at vera ein møguleiki.</s>
           </p>
           <p>
-            <s>Landsstýrið hevur ábyrgdina av at tryggja suðuroyingum og hinum oyggjabúgvunum í Føroyum, at teir ikki eru fyri vanbýti og mismuni.</s>
-            <s>Hækkandi oljuprísir mugu tí ikki raka hesar íbúgvar harðari enn aðrar borgarar í Føroyum, og stilla teir verri.</s>
+            <s xml:id="quvoh6yuud">Landsstýrið hevur ábyrgdina av at tryggja suðuroyingum og hinum oyggjabúgvunum í Føroyum, at teir ikki eru fyri vanbýti og mismuni.</s>
+            <s xml:id="yl35ljvhnf">Hækkandi oljuprísir mugu tí ikki raka hesar íbúgvar harðari enn aðrar borgarar í Føroyum, og stilla teir verri.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-06-22">22. juni 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-06-22">22. juni 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>

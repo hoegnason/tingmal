@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/50389" />
+          <ref target="https://www.logting.fo/documents/50389"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,43 +57,43 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Javnstøða í landsstýrinum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Metir løgmaður, at tað er nøktandi, at eingin kvinna er landsstýrismaður í løtuni?</s>
+                <s xml:id="dib2m3ekiz">Metir løgmaður, at tað er nøktandi, at eingin kvinna er landsstýrismaður í løtuni?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Heldur løgmaður, at javnstøða eigur at vera í landsstýrinum?</s>
+                <s xml:id="uxquvq2p3z">Heldur løgmaður, at javnstøða eigur at vera í landsstýrinum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Ætlar løgmaður at gera nakað við manglandi javnstøðuna í landsstýrinum?</s>
+                <s xml:id="wrceplqjac">Ætlar løgmaður at gera nakað við manglandi javnstøðuna í landsstýrinum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í gjár setti løgmaður tveir nýggjar landsstýrismenn.</s>
-            <s>Tað merkir, at nú eru sjey menn, sum umboða landsins leiðslu í Tinganesi.</s>
-            <s>Eingin kvinna.</s>
-            <s>Løgmaður hevur ábyrgd av at seta landsstýrisfólk og loysa landsstýrisfólk úr starvi, og tí hevur hann eisini einsamallur heimild til at broyta, at bara mannfólk eru umboðað í landsstýrinum.</s>
-            <s>Nevnast kann, at Sambandsflokkurin eisini hevur framt eitt landsstýrismannaskifti í hesum valskeiðinum.</s>
-            <s>Tá var tað eisini ein maður fyri ein mann.</s>
+            <s xml:id="hvi2nl63qc">Í gjár setti løgmaður tveir nýggjar landsstýrismenn.</s>
+            <s xml:id="awvw2tmqrf">Tað merkir, at nú eru sjey menn, sum umboða landsins leiðslu í Tinganesi.</s>
+            <s xml:id="uvbqhng5e2">Eingin kvinna.</s>
+            <s xml:id="xafixlzmpe">Løgmaður hevur ábyrgd av at seta landsstýrisfólk og loysa landsstýrisfólk úr starvi, og tí hevur hann eisini einsamallur heimild til at broyta, at bara mannfólk eru umboðað í landsstýrinum.</s>
+            <s xml:id="chd7arlges">Nevnast kann, at Sambandsflokkurin eisini hevur framt eitt landsstýrismannaskifti í hesum valskeiðinum.</s>
+            <s xml:id="a2y7od22vw">Tá var tað eisini ein maður fyri ein mann.</s>
           </p>
           <p>
-            <s>Hetta er fyrstu ferð síðan 2004, at eitt landsstýri bara er mannað av monnum.</s>
-            <s>Javnstøðunevndin hevur sagt, at hetta gongur ímóti demokratisku virðunum.</s>
-            <s>Tí verður hesin fyrispurningurin settur.</s>
+            <s xml:id="vyxqgjq36s">Hetta er fyrstu ferð síðan 2004, at eitt landsstýri bara er mannað av monnum.</s>
+            <s xml:id="u46etxdhwv">Javnstøðunevndin hevur sagt, at hetta gongur ímóti demokratisku virðunum.</s>
+            <s xml:id="gn4jp5lfzw">Tí verður hesin fyrispurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-07">7. januar 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-01-07">7. januar 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/he267dlh">Ingilín D. Strøm</persName>

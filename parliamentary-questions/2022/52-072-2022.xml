@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/55936" />
+          <ref target="https://www.logting.fo/documents/55936"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,40 +57,40 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Inntøkur frá fiski- og alivinnuni síðani 2018</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu stór hevur samlaða inntøkan frá fiskivinnuni til landskassan verið í 2018, 2019, 2020, 2021 og 2022 – greinað á inntøkuslag?</s>
+                <s xml:id="ssl3hn5v56">Hvussu stór hevur samlaða inntøkan frá fiskivinnuni til landskassan verið í 2018, 2019, 2020, 2021 og 2022 – greinað á inntøkuslag?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu stór hevur samlaða inntøkan frá alivinnuni til landskassan verið í 2018, 2019, 2020, 2021 og 2022 – greinað á inntøkuslag?</s>
+                <s xml:id="w36rqnretm">Hvussu stór hevur samlaða inntøkan frá alivinnuni til landskassan verið í 2018, 2019, 2020, 2021 og 2022 – greinað á inntøkuslag?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Fiskivinnan og alivinnan eru fíggjarligu grundsúlurnar undir føroyska samfelagnum.</s>
-            <s>Seinastu árini hevur gingið misjavnt við fiskivinnuni.</s>
-            <s>Heimaflotin hevur havt tað trupult í mong ár, meðan serliga uppsjóvarvinnan hevur havt nøkur góð ár.</s>
+            <s xml:id="hfqa2j7wce">Fiskivinnan og alivinnan eru fíggjarligu grundsúlurnar undir føroyska samfelagnum.</s>
+            <s xml:id="faki5rbnmu">Seinastu árini hevur gingið misjavnt við fiskivinnuni.</s>
+            <s xml:id="kmbjsjttpo">Heimaflotin hevur havt tað trupult í mong ár, meðan serliga uppsjóvarvinnan hevur havt nøkur góð ár.</s>
           </p>
           <p>
-            <s>Hjá alivinnuni hevur gingið væl seinastu árini.</s>
-            <s>Sveiggj eru altíð í vinnugreinum, sum hava við sjógvin at gera, og sveiggini hava tí stóra ávirkan á fíggjarligu fortreytirnar í føroyska samfelagnum og eisini hjá landskassanum.</s>
+            <s xml:id="n7i6usiog4">Hjá alivinnuni hevur gingið væl seinastu árini.</s>
+            <s xml:id="lcxabdmbkh">Sveiggj eru altíð í vinnugreinum, sum hava við sjógvin at gera, og sveiggini hava tí stóra ávirkan á fíggjarligu fortreytirnar í føroyska samfelagnum og eisini hjá landskassanum.</s>
           </p>
           <p>
-            <s>Eg havi í tveimum umførum sett líknandi fyrispurning og havi tí fingið samlaðu inntøkur landskassans í báðum vinnum frá 1997 og fram til og við 2017.</s>
-            <s>Seinastu árini hava verið hendingarík í báðum hesum vinnum og er tí áhugavert at frætta, hvussu hetta hevur ávirkað inntøkur landskassans fíggjarliga.</s>
+            <s xml:id="qbfvydovxk">Eg havi í tveimum umførum sett líknandi fyrispurning og havi tí fingið samlaðu inntøkur landskassans í báðum vinnum frá 1997 og fram til og við 2017.</s>
+            <s xml:id="x7o3qmb6as">Seinastu árini hava verið hendingarík í báðum hesum vinnum og er tí áhugavert at frætta, hvussu hetta hevur ávirkað inntøkur landskassans fíggjarliga.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-03-22">21. mars 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-03-22">21. mars 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen</persName>

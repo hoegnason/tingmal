@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/55773" />
+          <ref target="https://www.logting.fo/documents/55773"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,50 +57,50 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Føroyskir fangar og varðhaldsfangar í Danmark</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hví verða føroyskir fangar, sum eru handtiknir og fongslaðir í Føroyum, sleptir út á gøtuna í Danmark heldur enn at verða fluttir heim til Føroyar, har teir vóru frælsistiknir av fyrstan tíð?</s>
+                <s xml:id="hgxrzlmm2h">Hví verða føroyskir fangar, sum eru handtiknir og fongslaðir í Føroyum, sleptir út á gøtuna í Danmark heldur enn at verða fluttir heim til Føroyar, har teir vóru frælsistiknir av fyrstan tíð?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Eru tilmælini um samstarv millum Kriminalforsorgina og Almannaverkið tikin til eftirtektar og byrjað?</s>
+                <s xml:id="u7hwpdhvei">Eru tilmælini um samstarv millum Kriminalforsorgina og Almannaverkið tikin til eftirtektar og byrjað?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Er nakað skipað samband millum føroyskar og danskar myndugleikar um føroyskar fangar og varðhaldsfangar, sum eru í Danmark?</s>
+                <s xml:id="i23dnx52ug">Er nakað skipað samband millum føroyskar og danskar myndugleikar um føroyskar fangar og varðhaldsfangar, sum eru í Danmark?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Hvussu tryggjar landsstýrið, at føroyskir fangar fáa virðiliga viðferð hóast málsøkið er danskt?</s>
+                <s xml:id="eljgkgrrpq">Hvussu tryggjar landsstýrið, at føroyskir fangar fáa virðiliga viðferð hóast málsøkið er danskt?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Føroyingar verða á hvørjum ári fluttir til Danmarkar at sita dóm, og í summum førum verða teir enntá sendir niður uttan dóm fyri at sita varðhaldsfongslaðir, meðan teir bíða eftir, at mál teirra kemur fyri í rættinum.</s>
+            <s xml:id="fmhjbsv6wf">Føroyingar verða á hvørjum ári fluttir til Danmarkar at sita dóm, og í summum førum verða teir enntá sendir niður uttan dóm fyri at sita varðhaldsfongslaðir, meðan teir bíða eftir, at mál teirra kemur fyri í rættinum.</s>
           </p>
           <p>
-            <s>Kriminalforsorgin í Føroyum, sum er donsk, hevur ábyrgdina av fangunum, tá teir eru í Føroyum, men tað er ringt at lesa seg fram til, hvør hevur ábyrgdina av teimum, tá teir fyrst eru komnir í danskt fongsul ella arresthús at sita.</s>
-            <s>Tá verður støðan meira gruggut og ógjøgnumskygd.</s>
-            <s>Tað er uppaftur torførari at síggja, hvør hevur eftirlit við, at hesir føroyingar, sum eru frælsistiknir, verða væl viðfarnir.</s>
+            <s xml:id="baepwbh4s4">Kriminalforsorgin í Føroyum, sum er donsk, hevur ábyrgdina av fangunum, tá teir eru í Føroyum, men tað er ringt at lesa seg fram til, hvør hevur ábyrgdina av teimum, tá teir fyrst eru komnir í danskt fongsul ella arresthús at sita.</s>
+            <s xml:id="n43tb3knci">Tá verður støðan meira gruggut og ógjøgnumskygd.</s>
+            <s xml:id="n7lcn6njkw">Tað er uppaftur torførari at síggja, hvør hevur eftirlit við, at hesir føroyingar, sum eru frælsistiknir, verða væl viðfarnir.</s>
           </p>
           <p>
-            <s>Tá føroyingar verða leyslatnir úr donskum fongslum ella arresthúsum, verða teir í fleiri førum bara sleptir út á gøtuna, har teir eru staddir.</s>
-            <s>Uttan kunning til tey avvarðandi ella føroyska almannaverkið.</s>
-            <s>Uttan nakað trygdarnet.</s>
+            <s xml:id="fevo7kqlur">Tá føroyingar verða leyslatnir úr donskum fongslum ella arresthúsum, verða teir í fleiri førum bara sleptir út á gøtuna, har teir eru staddir.</s>
+            <s xml:id="by56iswgzm">Uttan kunning til tey avvarðandi ella føroyska almannaverkið.</s>
+            <s xml:id="l33ixc2er2">Uttan nakað trygdarnet.</s>
           </p>
           <p>
-            <s>Málsøkið er dansk, so onki landsstýrisfólk hevur evstu ábyrgd av hesum føroyingum.</s>
-            <s>Á heysti í 2021 var frammi í miðlunum, at nú skuldi betri samstarv vera millum Kriminalforsorgina, sum er undir donskum ræði, og Almannaverkið í Føroyum, sum vit sjálvi varða av.</s>
+            <s xml:id="lpwsd2o544">Málsøkið er dansk, so onki landsstýrisfólk hevur evstu ábyrgd av hesum føroyingum.</s>
+            <s xml:id="p3az5csemt">Á heysti í 2021 var frammi í miðlunum, at nú skuldi betri samstarv vera millum Kriminalforsorgina, sum er undir donskum ræði, og Almannaverkið í Føroyum, sum vit sjálvi varða av.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-03-15">15. mars 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-03-15">15. mars 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/wiylw2zl">Liljan Weihe</persName>

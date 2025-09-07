@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/50387" />
+          <ref target="https://www.logting.fo/documents/50387"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,43 +57,43 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Ymisk koronutilmæli</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Eru ymisk koronutilmæli galdandi fyri ávikavist kirkjur, samkomur, mentanarlív og ávísar ítróttargreinar?</s>
+                <s xml:id="oegvnmnsqr">Eru ymisk koronutilmæli galdandi fyri ávikavist kirkjur, samkomur, mentanarlív og ávísar ítróttargreinar?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvat heldur løgmaður um, at ítróttartiltøk verða hildin innandura fleiri dagar á rað við fleiri hundrað áskoðarum?</s>
+                <s xml:id="ss7chr724j">Hvat heldur løgmaður um, at ítróttartiltøk verða hildin innandura fleiri dagar á rað við fleiri hundrað áskoðarum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Í skrivandi stund eru 1787 tilburðir av koronu staðfestir í Føroyum, og í meðal eru í løtuni 256 tilburðir um dagin.</s>
+            <s xml:id="b6jwnrcty5">Í skrivandi stund eru 1787 tilburðir av koronu staðfestir í Føroyum, og í meðal eru í løtuni 256 tilburðir um dagin.</s>
           </p>
           <p>
-            <s>Higartil í ár hava ongar guðstænastur verið hildnar, tí fólkakirkjan hevur avlýst hesar fyri at halda koronutilmælini um ikki at savna fleiri enn 100 fólk innandura.</s>
+            <s xml:id="emlhlc52o3">Higartil í ár hava ongar guðstænastur verið hildnar, tí fólkakirkjan hevur avlýst hesar fyri at halda koronutilmælini um ikki at savna fleiri enn 100 fólk innandura.</s>
           </p>
           <p>
-            <s>Mentanartiltøk eru eisini avlýst ella avmarkaði, tí tilmælini verða hildin.</s>
-            <s>Til dømis sæst á heimasíðuni hjá Norðurlandahúsinum, at tá fleiri enn 100 fólk eru til eitt tiltak, steðgar atgongumerkjasølan, og at fólk so mugu seta seg á bíðilista fyri at fáa atgongumerki, sum møguliga gerast tøk.</s>
+            <s xml:id="st3y2ol7q4">Mentanartiltøk eru eisini avlýst ella avmarkaði, tí tilmælini verða hildin.</s>
+            <s xml:id="pljzxw5xus">Til dømis sæst á heimasíðuni hjá Norðurlandahúsinum, at tá fleiri enn 100 fólk eru til eitt tiltak, steðgar atgongumerkjasølan, og at fólk so mugu seta seg á bíðilista fyri at fáa atgongumerki, sum møguliga gerast tøk.</s>
           </p>
           <p>
-            <s>Samstundis frættist í miðlunum um dagarnar, at ítróttartiltøk eru í fleiri dagar á rað, har fleiri hundrað áskoðarar eru savnaðir innandura.</s>
+            <s xml:id="jixyaxyn5a">Samstundis frættist í miðlunum um dagarnar, at ítróttartiltøk eru í fleiri dagar á rað, har fleiri hundrað áskoðarar eru savnaðir innandura.</s>
           </p>
           <p>
-            <s>Fólk tykjast ørkymlaði um, hvørji tilmæli eru galdandi, og tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="dkrvn4w7xd">Fólk tykjast ørkymlaði um, hvørji tilmæli eru galdandi, og tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2022-01-14">14. januar 2022</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2022-01-14">14. januar 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

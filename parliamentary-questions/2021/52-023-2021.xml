@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48363" />
+          <ref target="https://www.logting.fo/documents/48363"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,32 +57,32 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Bussleið úr Vágum til Miðnám í Vestmanna</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Er ætlanin at skipa eina beinleiðis bussrutu úr Vágum til Miðnám í Vestmanna?</s>
+                <s xml:id="h2wunc666s">Er ætlanin at skipa eina beinleiðis bussrutu úr Vágum til Miðnám í Vestmanna?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Ein bussruta er sett at koyra beinleiðis úr Vágum til Glasir í Tórshavn.</s>
-            <s>Rættiliga nógvir næmingar úr Vágum ganga á Miðnámi í Vestmanna.</s>
-            <s>Í vetur ganga 30 næmingar úr Vágum á Miðnámi í Vestmanna.</s>
-            <s>Tí kann hetta vera grundarlag fyri eini beinleiðis bussrutu til og frá skúlanum.</s>
-            <s>Óvist er tó, hvør ætlanin er hesum viðvíkjandi.</s>
-            <s>Fyri at fáa greiðu á hesum viðurskiftum, verður hesin fyrispurningur settur landstýrismanninum.</s>
+            <s xml:id="f4clu6ubxx">Ein bussruta er sett at koyra beinleiðis úr Vágum til Glasir í Tórshavn.</s>
+            <s xml:id="bhetu2zdl4">Rættiliga nógvir næmingar úr Vágum ganga á Miðnámi í Vestmanna.</s>
+            <s xml:id="p5dzt3tk4b">Í vetur ganga 30 næmingar úr Vágum á Miðnámi í Vestmanna.</s>
+            <s xml:id="j2leyyjtsm">Tí kann hetta vera grundarlag fyri eini beinleiðis bussrutu til og frá skúlanum.</s>
+            <s xml:id="ha6e3eb5bj">Óvist er tó, hvør ætlanin er hesum viðvíkjandi.</s>
+            <s xml:id="ob7xdq4b7c">Fyri at fáa greiðu á hesum viðurskiftum, verður hesin fyrispurningur settur landstýrismanninum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-08-24">24. august 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-08-24">24. august 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

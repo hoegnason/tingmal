@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/53203" />
+          <ref target="https://www.logting.fo/documents/53203"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,40 +57,40 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Kapellið á Landssjúkrahúsinum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvør er orsøkin til, at kapellið á Landssjúkrahúsinum ikki er tøkt í løtuni?</s>
+                <s xml:id="ddok7ngfh5">Hvør er orsøkin til, at kapellið á Landssjúkrahúsinum ikki er tøkt í løtuni?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær kann roknast við, at kapellið aftur kann brúkast sum kapell?</s>
+                <s xml:id="qem3twpnnc">Nær kann roknast við, at kapellið aftur kann brúkast sum kapell?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Sum skilst er kapellið á Landssjúkrahúsinum ikki tøkt í løtuni.</s>
-            <s>Kapellið hevur eina sera týdningamikla funktión.</s>
-            <s>Nógv flest fólk fara foldum frá á sjúkrahúsunum, og tað er partur av jarðarferðini, at tey nærmastu kunnu fara í kapellið, áðrenn farið verður til sjálva jarðarferðina.</s>
+            <s xml:id="xohh5lk53c">Sum skilst er kapellið á Landssjúkrahúsinum ikki tøkt í løtuni.</s>
+            <s xml:id="zvv7lt7uzq">Kapellið hevur eina sera týdningamikla funktión.</s>
+            <s xml:id="vulvjdhpxi">Nógv flest fólk fara foldum frá á sjúkrahúsunum, og tað er partur av jarðarferðini, at tey nærmastu kunnu fara í kapellið, áðrenn farið verður til sjálva jarðarferðina.</s>
           </p>
           <p>
-            <s>Landssjúkrahúsið er meginsjúkrahús, og fólk úr øllum landinum doyggja eisini har.</s>
-            <s>Tá hevur verið vanligt, at farið varð úr kapellinum, áðrenn farið varð víðari til heimbygdina hjá viðkomandi at halda sjálva jarðarferðina.</s>
-            <s>Hetta hevur givið mongum møguleika at luttaka og siga farvæl har.</s>
+            <s xml:id="vwok6aokt5">Landssjúkrahúsið er meginsjúkrahús, og fólk úr øllum landinum doyggja eisini har.</s>
+            <s xml:id="ycvtenr5qt">Tá hevur verið vanligt, at farið varð úr kapellinum, áðrenn farið varð víðari til heimbygdina hjá viðkomandi at halda sjálva jarðarferðina.</s>
+            <s xml:id="nzs2zy3t22">Hetta hevur givið mongum møguleika at luttaka og siga farvæl har.</s>
           </p>
           <p>
-            <s>Fyri familju og avvarðandi er løtan í kapellinum sera týdningarmikil og partur av eini virðiligari samkomu, sum eisini hevur stóran týdning fyri eftirtíðina, bæði andaliga og eksistensielt.</s>
+            <s xml:id="cgiqlcm5le">Fyri familju og avvarðandi er løtan í kapellinum sera týdningarmikil og partur av eini virðiligari samkomu, sum eisini hevur stóran týdning fyri eftirtíðina, bæði andaliga og eksistensielt.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2022-06-20">20. juni 2022</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2022-06-20">20. juni 2022</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-01" />
+        <date when="2025-09-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/56953" />
+          <ref target="https://www.logting.fo/documents/56953"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,50 +57,50 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Trygging av sjófólki</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru mynstrað umborð á skipi?</s>
+                <s xml:id="sfkjnhvx5p">Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru mynstrað umborð á skipi?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru heima millum túrar?</s>
+                <s xml:id="uue46dtga6">Hvussu eru sjófólk tryggjað móti avleiðingum av álvarsomum sjúkum, sum tey fáa, meðan tey eru heima millum túrar?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Er talan um tryggingar, sum fakfeløgini sjálvi tekna hvørt sær, vegna sínar limir, ella er nøkur lóg fyri, hvussu sjófólk skulu vera tryggjað móti álvarsomum sjúkum?</s>
+                <s xml:id="yloac5lqfu">Er talan um tryggingar, sum fakfeløgini sjálvi tekna hvørt sær, vegna sínar limir, ella er nøkur lóg fyri, hvussu sjófólk skulu vera tryggjað móti álvarsomum sjúkum?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Um ein slík lóg er, hvussu leingi hevur hon so verið galdandi, og hevur hon alla tíðina eisini dekkað fyri sjúkur, sum eru íkomnar millum túrar?</s>
+                <s xml:id="yzqtfq726d">Um ein slík lóg er, hvussu leingi hevur hon so verið galdandi, og hevur hon alla tíðina eisini dekkað fyri sjúkur, sum eru íkomnar millum túrar?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Hvussu er støðan hjá sjófólkum, sum hava fingið álvarsliga sjúku, áðrenn teirra felag hevði teknað nakra trygging?</s>
+                <s xml:id="ol7ze6qgca">Hvussu er støðan hjá sjófólkum, sum hava fingið álvarsliga sjúku, áðrenn teirra felag hevði teknað nakra trygging?</s>
             </item>
             <item xml:id="q6" type="question-item">
-                <s>Um sjófólk ikki eru nóg væl tryggjað móti avleiðingum av álvarsomum sjúkum, hvat ætlar landsstýrismaðurin so at gera við tað?</s>
+                <s xml:id="quqwjmvg2r">Um sjófólk ikki eru nóg væl tryggjað móti avleiðingum av álvarsomum sjúkum, hvat ætlar landsstýrismaðurin so at gera við tað?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Sjófólk eru, sambært lóg, tryggjað móti arbeiðsskaðum og sjúkum, ið beinleiðis standast av arbeiðinum umborð á skipi, men hvussu er við sjúkum, sum ikki beinleiðis eru arbeiðsskaði, men kortini til dømis kunnu vera ein avleiðing av viðurskiftunum umborð?</s>
+            <s xml:id="ntjsw3c4xq">Sjófólk eru, sambært lóg, tryggjað móti arbeiðsskaðum og sjúkum, ið beinleiðis standast av arbeiðinum umborð á skipi, men hvussu er við sjúkum, sum ikki beinleiðis eru arbeiðsskaði, men kortini til dømis kunnu vera ein avleiðing av viðurskiftunum umborð?</s>
           </p>
           <p>
-            <s>Samanborið við arbeiðsvanlukkur, sum henda brádliga, kann vera ringt at prógva, at ein sjúka, sum kemur langt eftir, at skaðiliga árinið byrjaði, er avleiðing av arbeiðinum umborð.</s>
-            <s>Ti kann tað henda, at tann sjúki ikki siglir við skipinum longur, tá sjúkan byrjar at gera vart við seg.</s>
-            <s>Dømi eru eisini um fólk, sum hava fingið eina álvarsliga sjúku, meðan tey hava verið heima millum túrar.</s>
+            <s xml:id="gi5d2k36mo">Samanborið við arbeiðsvanlukkur, sum henda brádliga, kann vera ringt at prógva, at ein sjúka, sum kemur langt eftir, at skaðiliga árinið byrjaði, er avleiðing av arbeiðinum umborð.</s>
+            <s xml:id="osj6v2ctvh">Ti kann tað henda, at tann sjúki ikki siglir við skipinum longur, tá sjúkan byrjar at gera vart við seg.</s>
+            <s xml:id="fa4vjw5p2p">Dømi eru eisini um fólk, sum hava fingið eina álvarsliga sjúku, meðan tey hava verið heima millum túrar.</s>
           </p>
           <p>
-            <s>Hesin fyrispurningurin verður settur fyri at vita, hvørji rættindi hesi fólkini hava viðvíkjandi sjúkutryggingum, og hvørjar ætlanir landsstýrismaðurin hevur um so er, at tryggingarviðurskiftini ikki eru nøktandi.</s>
+            <s xml:id="iicbigmaml">Hesin fyrispurningurin verður settur fyri at vita, hvørji rættindi hesi fólkini hava viðvíkjandi sjúkutryggingum, og hvørjar ætlanir landsstýrismaðurin hevur um so er, at tryggingarviðurskiftini ikki eru nøktandi.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2023-06-08">8. juni 2023</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-06-08">8. juni 2023</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
