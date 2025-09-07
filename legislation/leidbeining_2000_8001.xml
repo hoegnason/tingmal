@@ -1,6 +1,3 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
     <teiHeader>
         <fileDesc>
@@ -26,50 +23,50 @@
                     <date when="2000-06-19">19. juni 2000</date>
                     <idno type="url">https://logir.fo/Leidbeining/8001-fra-19-06-2000-um-vidgerd-av-umsoknum-um-studul-sambaert-log-um-studul-til</idno>
                     <ref type="source" target="https://logir.fo/Leidbeining/8001-fra-19-06-2000-um-vidgerd-av-umsoknum-um-studul-sambaert-log-um-studul-til">Original URL</ref>
-                    <date type="accessed" when="2025-09-05" />
+                    <date type="accessed" when="2025-09-05"/>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
-        <pb n="1" />
+        <pb n="1"/>
         <front>
             <div type="title">
                 <head type="main" rend="bold center">
-                    <s>Leiðbeining um viðgerð av umsóknum um stuðul sambært lóg um stuðul til uppihaldspening - serliga viðvíkjandi gjaldsavgerðum frá Ríkisumboðnum</s>
+                    <s xml:id="yy3eunux4u">Leiðbeining um viðgerð av umsóknum um stuðul sambært lóg um stuðul til uppihaldspening - serliga viðvíkjandi gjaldsavgerðum frá Ríkisumboðnum</s>
                 </head>
                 <head type="sub" rend="center">(Til Almannastovuna)</head>
             </div>
-            <space type="vertical" />
+            <space type="vertical"/>
         </front>
         <body>
             <div type="introduction">
                 <p>
-                    <s>Sambært § 1, stk. 1 í lóg nr. 90 frá 6. juni 1997 um stuðul til uppihaldspening verður sett sum treyt, at viðkomandi av tí almenna er <hi rend="bold">álagdur</hi> at gjalda uppihaldspening.</s>
+                    <s xml:id="ehqxuzkll4">Sambært § 1, stk. 1 í lóg nr. 90 frá 6. juni 1997 um stuðul til uppihaldspening verður sett sum treyt, at viðkomandi av tí almenna er <hi rend="bold">álagdur</hi> at gjalda uppihaldspening.</s>
                 </p>
 
                 <p>
-                    <s>Sambært § 3, nr. 1 í kunngerð nr. 143 frá 26. september 1997 um stuðul til uppihaldspening skal við umsóknini m.a. leggjast avrit av <hi rend="bold">gjaldsavgerð</hi> (bidragsresolution) frá Ríkisumboðnum.</s>
+                    <s xml:id="a4yzq6r4u2">Sambært § 3, nr. 1 í kunngerð nr. 143 frá 26. september 1997 um stuðul til uppihaldspening skal við umsóknini m.a. leggjast avrit av <hi rend="bold">gjaldsavgerð</hi> (bidragsresolution) frá Ríkisumboðnum.</s>
                 </p>
 
                 <p>
-                    <s>At viðkomandi av tí almenna skal vera álagdur at gjalda uppihaldspening merkir, at Ríkisumboðið í eini gjaldsavgerð (bidragsresolution) skal hava tikið avgerð um hetta.</s>
+                    <s xml:id="foypupm4cb">At viðkomandi av tí almenna skal vera álagdur at gjalda uppihaldspening merkir, at Ríkisumboðið í eini gjaldsavgerð (bidragsresolution) skal hava tikið avgerð um hetta.</s>
                 </p>
 
                 <p>
-                    <s>Almannastovan, sum umsitur stuðulin til uppihaldspening, hevur í einum ítøkiligum máli sýtt fyri at veita umsøkjara stuðul til uppihaldspening (konfirmatiónsgjald) við tí grundgeving, at avgerðin hjá Ríkisumboðnum ikki álegði umsøkjaranum at gjalda uppihaldspening, í hesum føri konfirmatiónsgjald, men at avgerðin harafturímóti bert var ein staðfesting av eini avtalu foreldranna millum.</s>
+                    <s xml:id="hi2gnf7uj4">Almannastovan, sum umsitur stuðulin til uppihaldspening, hevur í einum ítøkiligum máli sýtt fyri at veita umsøkjara stuðul til uppihaldspening (konfirmatiónsgjald) við tí grundgeving, at avgerðin hjá Ríkisumboðnum ikki álegði umsøkjaranum at gjalda uppihaldspening, í hesum føri konfirmatiónsgjald, men at avgerðin harafturímóti bert var ein staðfesting av eini avtalu foreldranna millum.</s>
                 </p>
 
                 <p>
-                    <s>Í hesum sambandi skulu útgreinast nøkur viðurskifti í samband við gjaldsavgerðir tiknar av Ríkisumboðnum.</s>
+                    <s xml:id="at63m5qtbl">Í hesum sambandi skulu útgreinast nøkur viðurskifti í samband við gjaldsavgerðir tiknar av Ríkisumboðnum.</s>
                 </p>
             </div>
-            <space type="vertical" />
+            <space type="vertical"/>
             <div type="section">
                 <head rend="bold">Gjaldsavgerðir og innihaldsligar orðingar</head>
                 <p>
                     <!-- Fix this layout later... -->
-                    <s>Alt eftir hvørjar umstøðurnar eru í málinum, nýtir Ríkisumboðið ymiskar orðingar í gjaldsavgerðum:</s>
+                    <s xml:id="frqosjlytn">Alt eftir hvørjar umstøðurnar eru í málinum, nýtir Ríkisumboðið ymiskar orðingar í gjaldsavgerðum:</s>
                     <list rend="numbered">
                         <item n="1">Gjaldið kann vera ásett av Ríkisumboðnum</item>
                         <item n="2">Gjaldið kann vera ásett eftir avtalu foreldranna millum</item>
@@ -78,68 +75,68 @@
                 </p>
 
                 <p>
-                    <s>Orðingarnar, sum Ríkisumboðið nýtir í hvørjum einstøkum føri, hava samband við treytirnar hjá Ríkisumboðnum fyri eftirfylgjandi at kunna broyta eina gjaldsavgerð.</s>
-                    <s>Orðingarnar hava sostatt einki samband við reglurnar, sum stuðul til uppihaldspening verður veittur eftir.</s>
+                    <s xml:id="cp5bjnwbus">Orðingarnar, sum Ríkisumboðið nýtir í hvørjum einstøkum føri, hava samband við treytirnar hjá Ríkisumboðnum fyri eftirfylgjandi at kunna broyta eina gjaldsavgerð.</s>
+                    <s xml:id="hqvw4kkg52">Orðingarnar hava sostatt einki samband við reglurnar, sum stuðul til uppihaldspening verður veittur eftir.</s>
                 </p>
 
                 <p>
-                    <s>Viðv. 1.: Gjald ásett av Ríkisumboðnum kann seinni broytast av Ríkisumboðnum, um umstøðurnar í málinum eru broyttar.</s>
+                    <s xml:id="seh6w5loqr">Viðv. 1.: Gjald ásett av Ríkisumboðnum kann seinni broytast av Ríkisumboðnum, um umstøðurnar í málinum eru broyttar.</s>
                 </p>
 
                 <p>
-                    <s>Viðv. 2.: Gjald ásett av Ríkisumboðnum eftir avtalu foreldranna millum kann seinni broytast av Ríkisumboðnum, tó bert um umstøðurnar í málinum eru munandi meira broyttar.</s>
-                    <s>Staðfesting av broyttu umstøðunum krevur vanliga útgreinan av fortreytunum fyri avtaluni.</s>
+                    <s xml:id="s3p25udy4h">Viðv. 2.: Gjald ásett av Ríkisumboðnum eftir avtalu foreldranna millum kann seinni broytast av Ríkisumboðnum, tó bert um umstøðurnar í málinum eru munandi meira broyttar.</s>
+                    <s xml:id="mxy5pzloei">Staðfesting av broyttu umstøðunum krevur vanliga útgreinan av fortreytunum fyri avtaluni.</s>
                 </p>
 
                 <p>
-                    <s>Viðv. 3.: Er gjaldið tilskilað sambært avtalu foreldranna millum kann hetta ikki seinni verða broytt av Ríkisumboðnum, men bert við dómi.</s>
+                    <s xml:id="fm5yutou7r">Viðv. 3.: Er gjaldið tilskilað sambært avtalu foreldranna millum kann hetta ikki seinni verða broytt av Ríkisumboðnum, men bert við dómi.</s>
                 </p>
 
                 <p>
-                    <s>Treytin sambært lóg um stuðul til uppihaldspening er, at "persónur av tí almenna er álagdur at gjalda uppihaldspening …", jbr. § 1, stk. 1, nr. 2, og skal hetta kunna skjalprógvast, jbr. § 3, nr. 1 í kunngerð um suðul til uppihaldspening.</s>
+                    <s xml:id="aem2wis4xr">Treytin sambært lóg um stuðul til uppihaldspening er, at "persónur av tí almenna er álagdur at gjalda uppihaldspening …", jbr. § 1, stk. 1, nr. 2, og skal hetta kunna skjalprógvast, jbr. § 3, nr. 1 í kunngerð um suðul til uppihaldspening.</s>
                 </p>
 
                 <p>
-                    <s>Viðkomandi spurningar at seta í hesum samabandi eru: <lb/>- hvussu "álagt" skal tulkast <lb/>- um øll 3 sløgini av avgerðum frá Ríkisumboðnum kunnu metast at áleggja viðkomandi eina gjaldsskyldu, soleiðis at allar avgerðir Ríkisumboðsins um uppihaldspening lúka treytirnar fyri at vera ein gjaldsavgerð, og <lb/>- um ja, av hvørji upphædd stuðulin skal roknast eftir.</s>
+                    <s xml:id="c4efykdhov">Viðkomandi spurningar at seta í hesum samabandi eru: <lb/>- hvussu "álagt" skal tulkast <lb/>- um øll 3 sløgini av avgerðum frá Ríkisumboðnum kunnu metast at áleggja viðkomandi eina gjaldsskyldu, soleiðis at allar avgerðir Ríkisumboðsins um uppihaldspening lúka treytirnar fyri at vera ein gjaldsavgerð, og <lb/>- um ja, av hvørji upphædd stuðulin skal roknast eftir.</s>
                 </p>
 
                 <p>
-                    <s>Treytirnar um, at viðkomandi skal vera álagdur at gjalda og kunna skjalprógva gjaldasavgerð tikna av Ríkisumboðnum, mugu metast at vera settar út frá tí sjónarmiði, at neyvt eftirlit kann havast við at umsøkjararnir uppfylla treytirnar fyri at fáa stuðul útgoldnan, og at stuðulsupphæddin er røtt.</s>
-                    <s>Av hesi orsøk kunnu sjálvbodnar avtalur foreldranna millum ikki nýtast sum grundarlag fyri at fáa stuðul.</s>
+                    <s xml:id="mzyws5tnhn">Treytirnar um, at viðkomandi skal vera álagdur at gjalda og kunna skjalprógva gjaldasavgerð tikna av Ríkisumboðnum, mugu metast at vera settar út frá tí sjónarmiði, at neyvt eftirlit kann havast við at umsøkjararnir uppfylla treytirnar fyri at fáa stuðul útgoldnan, og at stuðulsupphæddin er røtt.</s>
+                    <s xml:id="ewqji4sb45">Av hesi orsøk kunnu sjálvbodnar avtalur foreldranna millum ikki nýtast sum grundarlag fyri at fáa stuðul.</s>
                 </p>
 
                 <p>
-                    <s>Verður treytin, um at tað almenna skal hava <hi rend="bold">álagt</hi> viðkomandi at gjalda uppihaldspening, tulkað sambært orðaljóðinum, kann hetta í summun førum hava óhepnar fylgir við sær fyri umsøkjaran.</s>
+                    <s xml:id="spqn62ocnb">Verður treytin, um at tað almenna skal hava <hi rend="bold">álagt</hi> viðkomandi at gjalda uppihaldspening, tulkað sambært orðaljóðinum, kann hetta í summun førum hava óhepnar fylgir við sær fyri umsøkjaran.</s>
                 </p>
 
                 <p>
-                    <s>Í fyrsta lagi merkir hetta, at sjálvbodnar avtalur foreldranna millum, sum verða staðfestar av Ríkisumboðnum, lúka ikki treytirnar fyri at fáa stuðul.</s>
-                    <s>Í øðrum lagi er tað Ríkisumboðið, sum skal taka avgerðina, og vil hetta siga, at foreldrini skulu vera ósamd, ella hava seming frá Ríkisumboðnum fyri neyðini.</s>
-                    <s>Við ørðum orðum, so kunnu foreldur, sum semjast um gjald av uppihaldspeningi, og sum fáa Ríkisumboðið at vátta avtalu teirra, ikki fáa stuðul.</s>
+                    <s xml:id="oks2hpglqa">Í fyrsta lagi merkir hetta, at sjálvbodnar avtalur foreldranna millum, sum verða staðfestar av Ríkisumboðnum, lúka ikki treytirnar fyri at fáa stuðul.</s>
+                    <s xml:id="pxbhnmkgbm">Í øðrum lagi er tað Ríkisumboðið, sum skal taka avgerðina, og vil hetta siga, at foreldrini skulu vera ósamd, ella hava seming frá Ríkisumboðnum fyri neyðini.</s>
+                    <s xml:id="n7melwhe6y">Við ørðum orðum, so kunnu foreldur, sum semjast um gjald av uppihaldspeningi, og sum fáa Ríkisumboðið at vátta avtalu teirra, ikki fáa stuðul.</s>
                 </p>
 
                 <p>
-                    <s>Havandi endamálið við lógini í huga, sum er at veita stuðul til persónar, sum gjalda uppihaldspening til m.a. børn yngri enn 18 ár, mugu hetta metast sum ótilætlaðar avleiðingar av orðingini av treytunum settar í lógini.</s>
+                    <s xml:id="zs72ivmvjn">Havandi endamálið við lógini í huga, sum er at veita stuðul til persónar, sum gjalda uppihaldspening til m.a. børn yngri enn 18 ár, mugu hetta metast sum ótilætlaðar avleiðingar av orðingini av treytunum settar í lógini.</s>
                 </p>
 
                 <p>
-                    <s>Avgerðirnar hjá Ríkisumboðnum hava sum sagt einki samband við umsitingina hjá Almannastovuni av lógini um stuðul til uppihaldspening, og Ríkisumboðið tekur tí ikki hædd fyri, at gjaldsavgerðin skal kunna nýtast sum grundarlag fyri at fáa stuðul útgoldnan.</s>
+                    <s xml:id="vledjck4uf">Avgerðirnar hjá Ríkisumboðnum hava sum sagt einki samband við umsitingina hjá Almannastovuni av lógini um stuðul til uppihaldspening, og Ríkisumboðið tekur tí ikki hædd fyri, at gjaldsavgerðin skal kunna nýtast sum grundarlag fyri at fáa stuðul útgoldnan.</s>
                 </p>
 
                 <p>
-                    <s>Ríkisumboðið viðmerkti í einum kæruumæli í fyrrnevnda máli, at umsøkjarin við at venda sær til Ríkisumboðið hevði møguleika at fáa eina nýggja gjaldsavgerð við eini orðing, sum uppfylti neyðugu krøvini til at fáa stuðul til uppihaldspening.</s>
+                    <s xml:id="nglhdguv3i">Ríkisumboðið viðmerkti í einum kæruumæli í fyrrnevnda máli, at umsøkjarin við at venda sær til Ríkisumboðið hevði møguleika at fáa eina nýggja gjaldsavgerð við eini orðing, sum uppfylti neyðugu krøvini til at fáa stuðul til uppihaldspening.</s>
                 </p>
 
                 <p>
-                    <s>Verður dentur hóast hetta lagdur á orðingina í tí einstøku gjaldsavgerðini frá Ríkisumboðnum, er tað ógvuliga tilvildarligt, nær ein umsøkjari uppfyllir treytirnar fyri at fáa stuðul, og nær hann ikki uppfyllir treytirnar.</s>
+                    <s xml:id="iit56xiybd">Verður dentur hóast hetta lagdur á orðingina í tí einstøku gjaldsavgerðini frá Ríkisumboðnum, er tað ógvuliga tilvildarligt, nær ein umsøkjari uppfyllir treytirnar fyri at fáa stuðul, og nær hann ikki uppfyllir treytirnar.</s>
                 </p>
 
                 <p>
-                    <s>Dentur eigur tí ikki verða lagdur á sjálva orðingina í gjaldsavgerðunum hjá Ríkisumboðnum, tá umsitingarmyndugleikin ger av, um umsøkjari sambært lógini um stuðul til uppihaldspening er álagdur at gjalda uppihaldspening.</s>
+                    <s xml:id="nw3kjupvph">Dentur eigur tí ikki verða lagdur á sjálva orðingina í gjaldsavgerðunum hjá Ríkisumboðnum, tá umsitingarmyndugleikin ger av, um umsøkjari sambært lógini um stuðul til uppihaldspening er álagdur at gjalda uppihaldspening.</s>
                 </p>
 
                 <p>
-                    <s>Fyriliggur ein gjaldsavgerð (bidragsresolution) frá Ríkisumboðnum, er treytin, um at persónurin skal vera álagdur at gjalda uppihaldspening, uppfylt.</s>
+                    <s xml:id="q3rkgjdexm">Fyriliggur ein gjaldsavgerð (bidragsresolution) frá Ríkisumboðnum, er treytin, um at persónurin skal vera álagdur at gjalda uppihaldspening, uppfylt.</s>
                 </p>
             </div>
             <space type="vertical"/>
@@ -147,45 +144,45 @@
                 <head rend="bold">Hvørji upphædd skal stuðul veitast eftir</head>
 
                 <p>
-                    <s>Sambært § 2, stk. 1 í lóg um stuðul til uppihaldspening er tann árliga stuðulsupphæddin 50% av tí uppihaldspening, sum persóni er álagt at gjalda, og sum hann hevur goldið.</s>
+                    <s xml:id="rqocx7yimt">Sambært § 2, stk. 1 í lóg um stuðul til uppihaldspening er tann árliga stuðulsupphæddin 50% av tí uppihaldspening, sum persóni er álagt at gjalda, og sum hann hevur goldið.</s>
                 </p>
 
                 <p>
-                    <s>Tá allar gjaldsavgerðir hjá Ríkisumboðnum eru at meta sum ein avgerð, ið áleggur persónum at gjalda uppihaldspening, er spurningurin, hvørji upphædd stuðulin skal roknast eftir.</s>
+                    <s xml:id="w7m3wm6dcg">Tá allar gjaldsavgerðir hjá Ríkisumboðnum eru at meta sum ein avgerð, ið áleggur persónum at gjalda uppihaldspening, er spurningurin, hvørji upphædd stuðulin skal roknast eftir.</s>
                 </p>
                 
                 <p>
-                    <s>Ríkisumboðið upplýsir, at við ásetan av konfirmatiónsgjaldi verður sambært siðvenju tikið útgangsstøðið í, hvussu stórt tað vanliga barnagjaldið er.</s>
+                    <s xml:id="nfg35o656u">Ríkisumboðið upplýsir, at við ásetan av konfirmatiónsgjaldi verður sambært siðvenju tikið útgangsstøðið í, hvussu stórt tað vanliga barnagjaldið er.</s>
                 </p>
 
                 <p>
-                    <s>Er barnagjaldið tað vanliga gjaldið + 25%, er konfirmatiónsgjaldið 3 x vanliga barnagjaldið.</s><lb/>
-                    <s>Er barnagjaldið tað vanliga gjaldið + 50%, er konfirmatiónsgjaldið 4 x vanliga barnagjaldið.</s><lb/>
-                    <s>Er barnagjaldið tað vanliga gjaldið + 100%, er konfirmatiónsgjaldið 5 x vanliga barnagjaldið.</s>
+                    <s xml:id="syekilg3le">Er barnagjaldið tað vanliga gjaldið + 25%, er konfirmatiónsgjaldið 3 x vanliga barnagjaldið.</s><lb/>
+                    <s xml:id="azp5m5yupy">Er barnagjaldið tað vanliga gjaldið + 50%, er konfirmatiónsgjaldið 4 x vanliga barnagjaldið.</s><lb/>
+                    <s xml:id="qqthnhytvz">Er barnagjaldið tað vanliga gjaldið + 100%, er konfirmatiónsgjaldið 5 x vanliga barnagjaldið.</s>
                 </p>
 
                 <p>
-                    <s>Er gjaldið ásett av Ríkisumboðnum sambært siðvenju í tílíkum málum, verður stuðulin roknaður eftir hesi upphædd.</s>
+                    <s xml:id="kqtuqp25hv">Er gjaldið ásett av Ríkisumboðnum sambært siðvenju í tílíkum málum, verður stuðulin roknaður eftir hesi upphædd.</s>
                 </p>
                 
                 <p>
-                    <s>Hava foreldrini avtalað eina upphædd uppá t.d. kr. 6.000, og hevur Ríkisumboðið tilskilað hesa upphædd í eini gjaldsavgerð, so er hendan upphæddin størri enn upphæddirnar, ið vanliga verða ásettar.</s>
-                    <s>Í tílíkum verður at síggja burtur frá upphæddini tilskilað í gjaldsavgerðini, og skal í staðin siðvenjan fyri ásetan av upphæddum á økinum fylgjast.</s>
+                    <s xml:id="gb7rpqkjs5">Hava foreldrini avtalað eina upphædd uppá t.d. kr. 6.000, og hevur Ríkisumboðið tilskilað hesa upphædd í eini gjaldsavgerð, so er hendan upphæddin størri enn upphæddirnar, ið vanliga verða ásettar.</s>
+                    <s xml:id="hfzetp3t3u">Í tílíkum verður at síggja burtur frá upphæddini tilskilað í gjaldsavgerðini, og skal í staðin siðvenjan fyri ásetan av upphæddum á økinum fylgjast.</s>
                 </p>
 
                 <p>
-                    <s>Sambært hesum hevur tað fyri avgerðina hjá umsitingarmyndugleikanum ongan týdning, hvør upphædd er tilskilað í gjaldsavgerðini, um fyriliggjandi gjaldsavgerðin bert staðfestir eina avtalu foreldranna millum.</s>
-                    <s>Í einum tílíkum føri verður vanlig siðvenju á økinum at fylgja.</s>
+                    <s xml:id="nyg3x5ns2s">Sambært hesum hevur tað fyri avgerðina hjá umsitingarmyndugleikanum ongan týdning, hvør upphædd er tilskilað í gjaldsavgerðini, um fyriliggjandi gjaldsavgerðin bert staðfestir eina avtalu foreldranna millum.</s>
+                    <s xml:id="rf5njblokf">Í einum tílíkum føri verður vanlig siðvenju á økinum at fylgja.</s>
                 </p>
             </div>
 
-            <space type="vertical" />
+            <space type="vertical"/>
 
             <div type="signature">
                 <dateline>
                     <orgName>Almanna- og heilsumálastýrið</orgName>, tann <date when="2000-06-19">19. juni 2000</date>
                 </dateline>
-                <space type="vertical" />
+                <space type="vertical"/>
                 <signed rend="center">
                     <persName><hi rend="bold">Aibritt á Plógv</hi> <lb/><roleName>deildarstjóri</roleName></persName>
                 </signed>

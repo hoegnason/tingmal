@@ -1,6 +1,3 @@
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
    <teiHeader>
       <fileDesc>
@@ -47,8 +44,8 @@
    <text>
       <front>
          <div type="title" xml:id="dpl2etx675">
-            <head xml:id="dmkvb2nabb" type="main" rend="bold center"><s>Saman eru vit sterk</s></head>
-            <head xml:id="xv2ftd3vwj" type="sub" rend="center"><s>Samgonguskjal<lb/> millum<lb/> Javnaðarflokkin, Tjóðveldi og Framsókn<lb/></s></head>
+            <head xml:id="dmkvb2nabb" type="main" rend="bold center"><s xml:id="e5llgrwdyh">Saman eru vit sterk</s></head>
+            <head xml:id="xv2ftd3vwj" type="sub" rend="center"><s xml:id="j6u2m47ka6">Samgonguskjal<lb/> millum<lb/> Javnaðarflokkin, Tjóðveldi og Framsókn<lb/></s></head>
          </div>
       </front>
       <body>
@@ -518,7 +515,7 @@
             
             <p n="86" xml:id="vaqprsvxat">
                <s xml:id="grpzlenbwf">Ferð verður sett á føroyska framleiðslu, og vit skulu gerast meira sjálvbjargin við fleiri<lb/> landbúnaðarvørum.</s>
-               <s xml:id="x9hs4ubf48">Ítøkilig mál verða sett fyri størri framleiðslu av grønmeti, kjøti,<lb/> mjólkarvøru og stráfóðri.</s> <s> Verandi stuðulsskipanir verða knýttar at settu málunum.</s>
+               <s xml:id="x9hs4ubf48">Ítøkilig mál verða sett fyri størri framleiðslu av grønmeti, kjøti,<lb/> mjólkarvøru og stráfóðri.</s> <s xml:id="du423tnvju"> Verandi stuðulsskipanir verða knýttar at settu málunum.</s>
                <s xml:id="b5jtu7mshu">Í<lb/> lendisætlanini fyri Føroyar verður tryggjað, at besta landbúnaðarjørðin ikki verður nýtt til<lb/> onnur endamál.<lb/></s>
             </p>
          </div>
