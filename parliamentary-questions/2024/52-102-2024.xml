@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen</persName>
             <roleName>løgtingskvinna</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/66730" />
+          <ref target="https://www.logting.fo/documents/66730"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,52 +57,52 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Løggilding av handverksmeistarum í byggivinnuni</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hvussu gongur við at fyrireika lógaruppskot um løggilding av handverksmeistarum í byggivinnuni?</s>
+                <s xml:id="hvhknbggcz">Hvussu gongur við at fyrireika lógaruppskot um løggilding av handverksmeistarum í byggivinnuni?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Nær kann ein slík løggilding fáast at virka á føroyska byggimarknaðinum?</s>
+                <s xml:id="gnrqr5ahri">Nær kann ein slík løggilding fáast at virka á føroyska byggimarknaðinum?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Eru allar aðrar fortreytir, eitt nú neyðuga meistaraútbúgvingin, loknar til ta tíð, ein slík løggilding ætlandi skal setast í verk?</s>
+                <s xml:id="pkr274izvi">Eru allar aðrar fortreytir, eitt nú neyðuga meistaraútbúgvingin, loknar til ta tíð, ein slík løggilding ætlandi skal setast í verk?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Nógv byggivirksemi er í Føroyum og hevur verið tað leingi.</s>
-            <s>Ikki minst verður av øllum alvi roynt at byggja bústaðir til tann stóra tørvin, og bústaðarbygging er eitt av týdningarmestu málunum í okkara samfelagi.</s>
+            <s xml:id="px2zg2lm6g">Nógv byggivirksemi er í Føroyum og hevur verið tað leingi.</s>
+            <s xml:id="x5vhpafhpw">Ikki minst verður av øllum alvi roynt at byggja bústaðir til tann stóra tørvin, og bústaðarbygging er eitt av týdningarmestu málunum í okkara samfelagi.</s>
           </p>
           <p>
-            <s>Tá so er, kemur til sjóndar, hvussu stórur tørvur er á eitt nú meistaraútbúgving og løggilding innan byggivinnuna, bæði fyri at tryggja góðsku og trygd í arbeiðinum hjá handverksmeistarum, eins og eina neyðuga trygd fyri kundar.</s>
+            <s xml:id="kw2xoek4nl">Tá so er, kemur til sjóndar, hvussu stórur tørvur er á eitt nú meistaraútbúgving og løggilding innan byggivinnuna, bæði fyri at tryggja góðsku og trygd í arbeiðinum hjá handverksmeistarum, eins og eina neyðuga trygd fyri kundar.</s>
           </p>
           <p>
-            <s>Ætlanin við slíkari løggilding er sambært vinnuni, at bert handverksmeistarar við neyðugu útbúgving og royndum kunnu útinna arbeiði, sum krevur serkunnleika og ábyrgd.</s>
-            <s>Hetta hevur týdning fyri alt slag av bygging, men ikki minst tá familjur seta seg í skuld fyri at fáa bygt eitt heim.</s>
-            <s>Tí allir partar koma sera illa fyri, um illa vil til við bygging.</s>
+            <s xml:id="fnm57pm3co">Ætlanin við slíkari løggilding er sambært vinnuni, at bert handverksmeistarar við neyðugu útbúgving og royndum kunnu útinna arbeiði, sum krevur serkunnleika og ábyrgd.</s>
+            <s xml:id="jk5h7gbg6d">Hetta hevur týdning fyri alt slag av bygging, men ikki minst tá familjur seta seg í skuld fyri at fáa bygt eitt heim.</s>
+            <s xml:id="hvekiubyc4">Tí allir partar koma sera illa fyri, um illa vil til við bygging.</s>
           </p>
           <p>
-            <s>Á ólavsøku í fjør varð á løglistanum fráboðað, at eitt uppskot til løgtingslóg um løggilding av handverksmeistarum í byggivinnuni var ávegis og skuldi leggjast fram í tingárinum.</s>
-            <s>Ætlanin var at gera eina skipan, soleiðis at handverksmeistarar, sum bjóða seg fram at byggja fyri onnur, skuldu vera løggildir og hava staðið ta útbúgving, sum verður kravd fyri at gerast løggildur handverksmeistari.</s>
+            <s xml:id="xvh7c6clud">Á ólavsøku í fjør varð á løglistanum fráboðað, at eitt uppskot til løgtingslóg um løggilding av handverksmeistarum í byggivinnuni var ávegis og skuldi leggjast fram í tingárinum.</s>
+            <s xml:id="qxizywdjso">Ætlanin var at gera eina skipan, soleiðis at handverksmeistarar, sum bjóða seg fram at byggja fyri onnur, skuldu vera løggildir og hava staðið ta útbúgving, sum verður kravd fyri at gerast løggildur handverksmeistari.</s>
           </p>
           <p>
-            <s>Nú er tingárið farið at halla, men væntandi er, at tørvurin á slíkari løggilding og meistarutbúgving enn er sera átrokandi.</s>
+            <s xml:id="fxwjtacdl5">Nú er tingárið farið at halla, men væntandi er, at tørvurin á slíkari løggilding og meistarutbúgving enn er sera átrokandi.</s>
           </p>
           <p>
-            <s>Tí verða hesir spurningar settir.</s>
+            <s xml:id="mhrjuyvh7l">Tí verða hesir spurningar settir.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2025-05-05">5.mai, 2025</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2025-05-05">5.mai, 2025</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/uiu4pwqq">Hanna Jensen, <roleName>løgtingskvinna</roleName></persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/62927" />
+          <ref target="https://www.logting.fo/documents/62927"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,61 +57,61 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Sálarheilsa, snildfon, sosialir miðlar og skíggjatíð sum heild</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Ber til at fáa eitt yvirlit yvir tal av ávísingum til barna- og ungdómspsykiatri seinastu 20 árini – tað vil siga frá 2004 til og við 2024 ár fyri ár?</s>
+                <s xml:id="asr2ywyacv">Ber til at fáa eitt yvirlit yvir tal av ávísingum til barna- og ungdómspsykiatri seinastu 20 árini – tað vil siga frá 2004 til og við 2024 ár fyri ár?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Hvussu er kynsbýtið – tað vil siga, hvussu nógvar gentur, og hvussu nógvir dreingir eru ávíst til psykiatriina hesi árini?</s>
+                <s xml:id="wpxubcrcg2">Hvussu er kynsbýtið – tað vil siga, hvussu nógvar gentur, og hvussu nógvir dreingir eru ávíst til psykiatriina hesi árini?</s>
             </item>
             <item xml:id="q3" type="question-item">
-                <s>Hvørjar eru mest vanligu grundirnar fyri, at børn og ung verða ávíst til barna- og ungdómspsykiatriina?</s>
+                <s xml:id="uesbajcder">Hvørjar eru mest vanligu grundirnar fyri, at børn og ung verða ávíst til barna- og ungdómspsykiatriina?</s>
             </item>
             <item xml:id="q4" type="question-item">
-                <s>Finst vitan og gransking á heilsuøkinum, sum vísir, hvørt skíggjanýtsla er gagnlig ella skaðilig fyri sálarheilsuna hjá børnum og ungum?</s>
+                <s xml:id="vsbriekwnp">Finst vitan og gransking á heilsuøkinum, sum vísir, hvørt skíggjanýtsla er gagnlig ella skaðilig fyri sálarheilsuna hjá børnum og ungum?</s>
             </item>
             <item xml:id="q5" type="question-item">
-                <s>Um ovurnýtsla er skaðilig, hvørji sálarlig mein ella diagnosur eru so tær mest vanligu?</s>
+                <s xml:id="da54lz2dam">Um ovurnýtsla er skaðilig, hvørji sálarlig mein ella diagnosur eru so tær mest vanligu?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað sýnist sum um, at sálarheilsan hjá børnum og ungum í Føroyum er versnandi.</s>
-            <s>Mestsum dag og dagliga hoyrist um nógvar ávísingar og langar bíðilistar í barna- og ungdómspsykiatriini.</s>
-            <s>Áhugavert er tískil við hagtølum at fáa at vita, um støðan er versnað seinastu 20 árini.</s>
-            <s>Um tað vísir seg at vera ein vøkstur seinnu árini, so er umráðandi at spyrja og fáa kannað, hví so man vera.</s>
+            <s xml:id="jpvr4tbpyf">Tað sýnist sum um, at sálarheilsan hjá børnum og ungum í Føroyum er versnandi.</s>
+            <s xml:id="m5wwmirfhr">Mestsum dag og dagliga hoyrist um nógvar ávísingar og langar bíðilistar í barna- og ungdómspsykiatriini.</s>
+            <s xml:id="wqkw2acmhl">Áhugavert er tískil við hagtølum at fáa at vita, um støðan er versnað seinastu 20 árini.</s>
+            <s xml:id="yl5ad2mzwo">Um tað vísir seg at vera ein vøkstur seinnu árini, so er umráðandi at spyrja og fáa kannað, hví so man vera.</s>
           </p>
           <p>
-            <s>Verður farið 20 ár aftur í tíð, so eru stórar broytingar farnar fram á nógvum økjum bæði her heima í Føroyum og altjóða.</s>
-            <s>Ein tann størsta kollveltingin er snildfonin, ið hevur broytt lív og lívsførslu hjá nærum hvørjum mansbarni, síðani hon á fyrsta sinni sá dagsins ljós í 2007.</s>
-            <s>Sosialu miðlarnir fingu bein at ganga á frá umleið 2010 og frameftir.</s>
-            <s>Sama við stóru stroymingartænastunum.</s>
-            <s>Flestu okkara nýta eftirhondini nógva tíð á snildfonini, og sambært kvantitativari spurnarkanning millum miðnámsskúlanæmingar í 2023, ið Christian Joensen og Terji á Lakjuni gjørdu, so var miðal skíggjatíðin hjá teimum ungu 7,8 tímar dagliga - ikki íroknað skúlating ella arbeiði.</s>
-            <s>Tað vil við øðrum orðum siga, at mong ung nýta fleiri enn 40 tímar um vikuna frammanfyri skíggjarnar - í størstan mun á snildfonini, har sosialu miðlarnir, stroymingartænasturnar og spøl fara við mestu tíðini.</s>
-            <s>Ein rættiliga stórur partur sigur seg eisini kenna seg bundnan av skíggjanýtslu.</s>
-            <s>Nýggj kanning hjá Red Barnet og TrygFonden vísir, at 2 av 3 børnum og ungum hava upplivað skemd (krænkelse) á talgildu miðlunum.</s>
-            <s>Eisini vísir kanningin m.a., at tað er vanligt og útbreitt, at fremmand vaksin fólk seta seg í samband við børnini og tey ungu.</s>
-            <s>Í bók síni, The Anxious Generation, vísir rithvøundurin og professarin, Jonathan Haidt, á hagtøl úr USA, Kanada og Onglandi, sum vísa, at sálarheilsan hjá børnum og ungum er ógvuliga markant versnað seinastu 10-12-14 árini.</s>
-            <s>Kanska serliga hjá gentum.</s>
-            <s>Sambært Haidt er sera sannlíkt, at ógvusligi vøksturin hevur samband við snildfonina - og serliga sosialu miðlarnar.</s>
-            <s>Hann nevnir fýra grundleggjandi skaðilig árin, ið ógvusliga skíggjatíðin vísir seg at hava: sosialt undirskot, svøvntrot, uppmerksemið verður sundurpettað og bundinskap.</s>
+            <s xml:id="f4kagov467">Verður farið 20 ár aftur í tíð, so eru stórar broytingar farnar fram á nógvum økjum bæði her heima í Føroyum og altjóða.</s>
+            <s xml:id="gelqiqcurx">Ein tann størsta kollveltingin er snildfonin, ið hevur broytt lív og lívsførslu hjá nærum hvørjum mansbarni, síðani hon á fyrsta sinni sá dagsins ljós í 2007.</s>
+            <s xml:id="akzuozdxwo">Sosialu miðlarnir fingu bein at ganga á frá umleið 2010 og frameftir.</s>
+            <s xml:id="mmgd6qszai">Sama við stóru stroymingartænastunum.</s>
+            <s xml:id="bn7l5uzuro">Flestu okkara nýta eftirhondini nógva tíð á snildfonini, og sambært kvantitativari spurnarkanning millum miðnámsskúlanæmingar í 2023, ið Christian Joensen og Terji á Lakjuni gjørdu, so var miðal skíggjatíðin hjá teimum ungu 7,8 tímar dagliga - ikki íroknað skúlating ella arbeiði.</s>
+            <s xml:id="g27fjri2al">Tað vil við øðrum orðum siga, at mong ung nýta fleiri enn 40 tímar um vikuna frammanfyri skíggjarnar - í størstan mun á snildfonini, har sosialu miðlarnir, stroymingartænasturnar og spøl fara við mestu tíðini.</s>
+            <s xml:id="oamurtazna">Ein rættiliga stórur partur sigur seg eisini kenna seg bundnan av skíggjanýtslu.</s>
+            <s xml:id="ro2qtlyxe2">Nýggj kanning hjá Red Barnet og TrygFonden vísir, at 2 av 3 børnum og ungum hava upplivað skemd (krænkelse) á talgildu miðlunum.</s>
+            <s xml:id="mdxwo2ytif">Eisini vísir kanningin m.a., at tað er vanligt og útbreitt, at fremmand vaksin fólk seta seg í samband við børnini og tey ungu.</s>
+            <s xml:id="gjapqgg5g3">Í bók síni, The Anxious Generation, vísir rithvøundurin og professarin, Jonathan Haidt, á hagtøl úr USA, Kanada og Onglandi, sum vísa, at sálarheilsan hjá børnum og ungum er ógvuliga markant versnað seinastu 10-12-14 árini.</s>
+            <s xml:id="x2xxuxfdev">Kanska serliga hjá gentum.</s>
+            <s xml:id="ysipy4gm6d">Sambært Haidt er sera sannlíkt, at ógvusligi vøksturin hevur samband við snildfonina - og serliga sosialu miðlarnar.</s>
+            <s xml:id="x6sceod5av">Hann nevnir fýra grundleggjandi skaðilig árin, ið ógvusliga skíggjatíðin vísir seg at hava: sosialt undirskot, svøvntrot, uppmerksemið verður sundurpettað og bundinskap.</s>
           </p>
           <p>
-            <s>Tað er neyðugt at fáa tøl á borðið til tess at síggja, um sama gongd og rák er hjá okkum í Føroyum, sum tað er aðrastaðni í Vesturheiminum.</s>
-            <s>Tískil verða hesir spurningar settir landsstýriskvinnuni í heilsumálum.</s>
+            <s xml:id="gk6vhyyhse">Tað er neyðugt at fáa tøl á borðið til tess at síggja, um sama gongd og rák er hjá okkum í Føroyum, sum tað er aðrastaðni í Vesturheiminum.</s>
+            <s xml:id="srtevndryw">Tískil verða hesir spurningar settir landsstýriskvinnuni í heilsumálum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-10-16">16. oktobur 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-10-16">16. oktobur 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/bl5rzl7u">Bárður á Lakjuni</persName>
