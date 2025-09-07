@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4pbmga7">Birita Matras Petersen</persName>
             <roleName>løgtingskvinna</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/63561" />
+          <ref target="https://www.logting.fo/documents/63561"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,48 +57,48 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Snarbussurin millum Klaksvík og Tórshavn</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-                <s>Hevur landsstýrismaðurin ætlanir um at økja túratalið á leið 401 hjá Bygdaleiðum?</s>
+                <s xml:id="qqfvqhaw2b">Hevur landsstýrismaðurin ætlanir um at økja túratalið á leið 401 hjá Bygdaleiðum?</s>
             </item>
             <item xml:id="q2" type="question-item">
-                <s>Eru ætlanir um at endurskoða leið 400 hjá Bygdaleiðum?</s>
+                <s xml:id="bnuteuwfq7">Eru ætlanir um at endurskoða leið 400 hjá Bygdaleiðum?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Síðan Eysturoyartunnilin varð latin upp er tíðin, ið skal brúkast uppá ferðing, munandi stytt hjá fleiri borgarum.</s>
-            <s>Kortini tykist, at fólk í Norðoyggjum og í pørtum av Eysturoynni, ið brúka almenna ferðasambandið, hava fingið minni gleði av Eysturoyartunlinum, síðan hann varð tikin í nýtslu.</s>
+            <s xml:id="czktopc2hu">Síðan Eysturoyartunnilin varð latin upp er tíðin, ið skal brúkast uppá ferðing, munandi stytt hjá fleiri borgarum.</s>
+            <s xml:id="y2wnpcl2i3">Kortini tykist, at fólk í Norðoyggjum og í pørtum av Eysturoynni, ið brúka almenna ferðasambandið, hava fingið minni gleði av Eysturoyartunlinum, síðan hann varð tikin í nýtslu.</s>
           </p>
           <p>
-            <s>Leið 401 hjá Bygdaleiðum, Snarbussurin, ið koyrir millum Klaksvík og Tórshavn umvegis Eysturoyartunnilin, koyrir til samans fýra túrar hvønn gerandisdag.</s>
-            <s>Í vikuskiftunum eru eingir túrar við leið 401.</s>
-            <s>Orsakað av avmarkaða túratalinum við leið 401 er sostatt neyðugt hjá fleiri at brúka leið 400, ið koyrir millum Klaksvík og Tórshavn umvegis Sundalagið.</s>
-            <s>Verður hugt at hagtølum hjá Strandfaraskipum Landsins fram til oktober í 2024 var talið av ferðandi við leið 400 66.520.</s>
-            <s>Sostatt er talið á ferðandi við leið 400 kortini lutfalsliga høgt, men havast skal í huga her, at túratalið hjá leið 400 er munandi hægri, tá borið verður saman við leið 401.</s>
+            <s xml:id="idwpcd73ha">Leið 401 hjá Bygdaleiðum, Snarbussurin, ið koyrir millum Klaksvík og Tórshavn umvegis Eysturoyartunnilin, koyrir til samans fýra túrar hvønn gerandisdag.</s>
+            <s xml:id="ihig5n6oss">Í vikuskiftunum eru eingir túrar við leið 401.</s>
+            <s xml:id="dae6rskene">Orsakað av avmarkaða túratalinum við leið 401 er sostatt neyðugt hjá fleiri at brúka leið 400, ið koyrir millum Klaksvík og Tórshavn umvegis Sundalagið.</s>
+            <s xml:id="rgzcx54yv7">Verður hugt at hagtølum hjá Strandfaraskipum Landsins fram til oktober í 2024 var talið av ferðandi við leið 400 66.520.</s>
+            <s xml:id="n5mersgqlu">Sostatt er talið á ferðandi við leið 400 kortini lutfalsliga høgt, men havast skal í huga her, at túratalið hjá leið 400 er munandi hægri, tá borið verður saman við leið 401.</s>
           </p>
           <p>
-            <s>Við hesi leiðini er ferðingin kortini munandi meira tíðarkrevjandi fyri brúkarar, sammett við lutfalsliga stutta túrin við leið 401.</s>
-            <s>Hetta hevur við sær, at tað kann vera torført at leggja gerandisdagin til rættis.</s>
-            <s>Ein bilur er ein stór útreiðsla fyri fleiri, og skal ein regluliga ferðast langt millum bústað og arbeiði ella útbúgvingarstað, kann almenna ferðasambandið vera einasti mátin at ferðast uppá hjá summum.</s>
+            <s xml:id="dxunxsjjp3">Við hesi leiðini er ferðingin kortini munandi meira tíðarkrevjandi fyri brúkarar, sammett við lutfalsliga stutta túrin við leið 401.</s>
+            <s xml:id="a6n25h5jrt">Hetta hevur við sær, at tað kann vera torført at leggja gerandisdagin til rættis.</s>
+            <s xml:id="xdnidvqgnm">Ein bilur er ein stór útreiðsla fyri fleiri, og skal ein regluliga ferðast langt millum bústað og arbeiði ella útbúgvingarstað, kann almenna ferðasambandið vera einasti mátin at ferðast uppá hjá summum.</s>
           </p>
           <p>
-            <s>Við einum álítandi og tryggum almennum ferðasambandi millum oyggjarnar við eitt nú øktum túratali kann tað gerast høgligari og lættari hjá fólki at velja almenna ferðasambandið til.</s>
-            <s>Hetta kann vera við til at eggja borgarum til at velja ein meira umhvørvisvinarligan hátt at ferðast millum oyggjarnar.</s>
-            <s>Fyri at fáa greiðu á, hvørjar ætlanir landsstýrismaðurin hevur við leið 401 og 400, verða hesir spurningar settir.</s>
+            <s xml:id="iharxq66eh">Við einum álítandi og tryggum almennum ferðasambandi millum oyggjarnar við eitt nú øktum túratali kann tað gerast høgligari og lættari hjá fólki at velja almenna ferðasambandið til.</s>
+            <s xml:id="lclk67fwxc">Hetta kann vera við til at eggja borgarum til at velja ein meira umhvørvisvinarligan hátt at ferðast millum oyggjarnar.</s>
+            <s xml:id="a6if7ddziu">Fyri at fáa greiðu á, hvørjar ætlanir landsstýrismaðurin hevur við leið 401 og 400, verða hesir spurningar settir.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-11-26">26. november 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-11-26">26. november 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4pbmga7">Birita Matras Petersen</persName>
