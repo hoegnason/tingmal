@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-03" />
+        <date when="2025-09-03"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/62376" />
+          <ref target="https://www.logting.fo/documents/62376"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,53 +57,53 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Ólógliga kravda heilsutrygdargjaldið til útisiglarar</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-              <s>Hví verður hildið fram við at innkrevja “ikki goldið” heilsutrygdargjald frá útisiglarum ?</s>
+              <s xml:id="lji6j54ugj">Hví verður hildið fram við at innkrevja “ikki goldið” heilsutrygdargjald frá útisiglarum ?</s>
             </item>
             <item xml:id="q2" type="question-item">
-              <s>Hví verður ólógliga innkravda heilsutrygdargjaldið ikki útgoldið beinavegin ?</s>
+              <s xml:id="hybhmrdlfg">Hví verður ólógliga innkravda heilsutrygdargjaldið ikki útgoldið beinavegin ?</s>
             </item>
             <item xml:id="q3" type="question-item">
-              <s>Hvussu nógvar eyka útreiðslur í rentum hevur landskassin fingið, síðan ávikavist kærunevndin tók avgerð, Føroya Rættur segði dóm, Landsrætturin segði dóm, og tað var greitt, at tað ikki slapst í Hægsta Rætt?</s>
+              <s xml:id="zmfbutcxbx">Hvussu nógvar eyka útreiðslur í rentum hevur landskassin fingið, síðan ávikavist kærunevndin tók avgerð, Føroya Rættur segði dóm, Landsrætturin segði dóm, og tað var greitt, at tað ikki slapst í Hægsta Rætt?</s>
             </item>
             <item xml:id="q4" type="question-item">
-              <s>Hví verða avgerðir hjá kærunevndini ikki virdar?</s>
+              <s xml:id="nqr7eg6k6a">Hví verða avgerðir hjá kærunevndini ikki virdar?</s>
             </item>
             <item xml:id="q5" type="question-item">
-              <s>Er tað rímiligt at borgarar, sum av órøttum eru kravdir eftir heilsutrygdargjaldi, sjálvir skulu søkja um at fáa gjaldið aftur?</s>
+              <s xml:id="ckwcfwpdsa">Er tað rímiligt at borgarar, sum av órøttum eru kravdir eftir heilsutrygdargjaldi, sjálvir skulu søkja um at fáa gjaldið aftur?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Heilsutrygdargjaldið til útisiglarar er kravt inn av órottum.</s>
-            <s>Tað er staðfest í rættarskipanini.</s>
-            <s>Tó verður tað framvegis hildið fram at krevja inn “ikki goldið” heilsutrygdargjald umvegis Gældsstyrelsen í Danmark.</s>
-            <s>Hetta hevur við sær, at fleiri borgarar skulu møta í rættinum - hóast hetta gjaldið er kravt inn av órottum.</s>
-            <s>Fleiri teirra umhugsa tí at krevja endurgjald fyri mista arbeiðstíð v.m.</s>
+            <s xml:id="kavbzisejj">Heilsutrygdargjaldið til útisiglarar er kravt inn av órottum.</s>
+            <s xml:id="z54fpnqr63">Tað er staðfest í rættarskipanini.</s>
+            <s xml:id="r3pppebhsq">Tó verður tað framvegis hildið fram at krevja inn “ikki goldið” heilsutrygdargjald umvegis Gældsstyrelsen í Danmark.</s>
+            <s xml:id="eu7qq3jf3v">Hetta hevur við sær, at fleiri borgarar skulu møta í rættinum - hóast hetta gjaldið er kravt inn av órottum.</s>
+            <s xml:id="le7mvx36vj">Fleiri teirra umhugsa tí at krevja endurgjald fyri mista arbeiðstíð v.m.</s>
           </p>
           <p>
-            <s>Um vanligt var, rindaði myndugleikin borgaranum endurgjaldið/skuldina, tá rættarskipanin hevði talað.</s>
-            <s>Tað er framvegis ikki gjørt, og tískil fær landskassin eyka rentuútreiðslur hvønn dag.</s>
-            <s>Tí hevði verið áhugavert at vitað, hvussu nógvar eyka útreiðslur landskassin hevur fingið frá tíðarskeiðinum, tá borgarin fekk viðhald í kærunevndini, til dagin í dag.</s>
-            <s>Kæruskipanin er góð, og er hon til at hjálpa borgarum og avlasta rættarskipanina.</s>
-            <s>Men um almennir myndugleikar ikki virða avgerðir, sum kærunevndirnar taka, máar tað grundarlagið undan skipanini.</s>
-            <s>Tað frættist, at ætlanin er, at borgararnir sjálvir skulu krevja ólógliga innkravda gjaldið aftur.</s>
-            <s>Tá myndugleikin krevur borgarar í rættin - eftir ólógliga inngjaldinum - hevur myndugleikin yvirlit yvir, hvat hann skyldar borgarunum.</s>
-            <s>Tískil skuldi tað verið einfalt at rinda heilsutrygdargjaldið aftur.</s>
+            <s xml:id="cr2lxhduo5">Um vanligt var, rindaði myndugleikin borgaranum endurgjaldið/skuldina, tá rættarskipanin hevði talað.</s>
+            <s xml:id="yzdplan7tm">Tað er framvegis ikki gjørt, og tískil fær landskassin eyka rentuútreiðslur hvønn dag.</s>
+            <s xml:id="ma4ktucjix">Tí hevði verið áhugavert at vitað, hvussu nógvar eyka útreiðslur landskassin hevur fingið frá tíðarskeiðinum, tá borgarin fekk viðhald í kærunevndini, til dagin í dag.</s>
+            <s xml:id="bv4olrdgoz">Kæruskipanin er góð, og er hon til at hjálpa borgarum og avlasta rættarskipanina.</s>
+            <s xml:id="xfvklc7old">Men um almennir myndugleikar ikki virða avgerðir, sum kærunevndirnar taka, máar tað grundarlagið undan skipanini.</s>
+            <s xml:id="t6l2l37ac6">Tað frættist, at ætlanin er, at borgararnir sjálvir skulu krevja ólógliga innkravda gjaldið aftur.</s>
+            <s xml:id="efibo2uhxc">Tá myndugleikin krevur borgarar í rættin - eftir ólógliga inngjaldinum - hevur myndugleikin yvirlit yvir, hvat hann skyldar borgarunum.</s>
+            <s xml:id="chitfg4hwd">Tískil skuldi tað verið einfalt at rinda heilsutrygdargjaldið aftur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2024-08-29">29. august 2024</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2024-08-29">29. august 2024</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lvnq7xic">Jacob Vestergaard</persName>
