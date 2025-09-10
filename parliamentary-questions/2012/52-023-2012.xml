@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nýggi kirkjugarðurin á Sandi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Páll á Reynatúgvu</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30853" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/23">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Páll á Reynatúgvu<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um nýggja kirkjugarðin á Sandi, settur Bjørn Kalsø, lands- stýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Undir hvørjum treytum eru pengarnar rindaðir Sands Kommunu til nýggjan kirkjugarð?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er nøkur tíðarætlan áløgd Sands Kommunu fyri gerð av nýggjum kirkjugarði á Sandi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er peningurin framvegis tøkur til gerð av nýggja kirkjugarðinum, og eru teir oyramerktir til endamálið?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvønn týdning hevur tað, at arbeiðið við nýggja kirkjugarðinum verður framt?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Ætlar landsstýrismaðurin at taka nøkur stig fyri at tryggja, at peningurin verður nýttur til tað endamálið, sum Løgtingið samtykti, og hvørji um so er?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ikki nakað dulsmál, at Sands bygd er sera áhugaverd, sæð við fornfrøðiligum brillum.</s>
+            <s>Serliga áhugavert er økið rundanum verandi kirkju og í verandi kirkjugarði, har stórur partur av gomlu búsetingini á Sandi hevur verið.</s>
+          </p>
+          <p>
+            <s>Í fleiri ár hava fornminnamyndugleikar øðrumegin, og Sands kommunu hinumegin, roynt at funnið eina loysn á trupulleikanum, har sandingar verða jarðaðir í lendi, sum er varðveitingarvert í fornfrøðiligum høpi.</s>
+          </p>
+          <p>
+            <s>Somikið meira gleðiligt var tað, at ein virðilig loysn var gjørd millum partarnar á heysti 2011, har Løgtingið samtykti at avloysa verandi kirkjugarð, og rinda Sands Kommunu endurgjald á 1,4 mió. kr.</s>
+            <s>Persónliga var eg sera fegin um loysnina, tí eg hevði arbeitt við loysnini bæði á tingi og sum borgarstjóri á Sandi.</s>
+          </p>
+          <p>
+            <s>Hóast hálvtannað ár er farið síðani samtyktina, og pengarnir eftir øllum at døma eru fluttir Sands Kommunu, sæst einki til nýggjan kirkjugarð á Sandi.</s>
+            <s>Tí hesar spurningar til landsstýrismannin í mentamálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2013-01-14">14. januar 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Páll á Reynatúgvu</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pensjónsskattahækking og pensjónsflatskattaskipan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Háfoss</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30857" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/25">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Háfoss<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um pensjónsskattahækking og pensjónsflatskattaskipan, settur Jørgen Niclasen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør var mánaðarligi persónligi pensjónskatturin (% og í krónum) í 2011 (við útgjaldi) og 2012 (við inngjaldi) av pensjónsuppsparing hjá føroyingum við 15% pensjónsinngjaldi til kapitalpensjón (yvirlit við øllum A- inntøkubólkum)?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvør var mánaðarligi persónligi pensjónskatturin (% (umroknað til miðal- skattaprosent frá fyrstu krónu) og í krónum) í 2011 (við útgjaldi) og 2012 (við inngjaldi) av pensjónsuppsparing hjá føroyingum við 15% pensjónsinngjaldi til luta- og lívrentupensjón (yvirlit við øllum A-inntøkubólkum)?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør var mánaðarligi persónligi skattalættin (% og í krónum), tá umræður skatt á A-inntøku í 2012 í mun til 2011 hjá føroyingum (yvirlit við øllum A- inntøkubólkum)?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Eru onnur lond, ið hava hægri pensjónsskatt enn skatt á vanligari a-inntøku?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvussu nógvir føroyingar valdu at fáa útgoldið sína kapitalpensjón í 2010, 2011 og í 2012?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvussu nógvar vóru pensjónsskattainntøkur landsins í 2010, 2011 og í 2012 frá kapitalpensjónum, ið føroyingar valdu at fáa útgoldna?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hava føroyingar økt ella minkað teirra ”sjálvbodnu” pensjónsuppsparing (upp- sparing, ið ikki er tengd at sáttmálum), síðan forskattingin av pensjón varð sett í verk?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>1.januar 2012 varð nýggj pensjónsskattaskipan sett í verk - saman við flatskattaskipanini.</s>
+          </p>
+          <p>
+            <s>Nýggja pensjónsskattaskipanin merkti, at farið varð frá at skatta pensjónir við útgjaldi, til at skatta pensjónir við inngjaldi.</s>
+          </p>
+          <p>
+            <s>Samstundis broyttist kapitalpensjónsskatturin úr 35% upp í 40%.</s>
+            <s>Eisini broyttist skatturin á luta- og lívrentupensjón úr at verða skattað sum A-inntøka við útgjaldi (tvs. við botnfrádrátti og progressivari skattaskipan) til at verða skattað við 40% frá fyrstu krónu.</s>
+          </p>
+          <p>
+            <s>Ein verulig flatskattaskipan varð sostatt sett í verk fyri føroyskar pensjónir.</s>
+            <s>Hetta var ein skipan, ið hækkaði pensjónsskattin og tók burtur fíggjarligar fyrimunir við at velja sjálvboðið at spara upp til pensjón, heldur enn at fáa upphæddina útgoldna sum løn.</s>
+          </p>
+          <p>
+            <s>Heldur enn at bøta um hesa støðu, velur landsstýrið nú at koma við lógartvungnum inngjaldi til pensjón til allar føroyingar.</s>
+          </p>
+          <p>
+            <s>Hetta verður eisini gjørt uttan samstundis at taka støðu til, hvat hendir við útgjaldi av lógartvungna inngjaldinum.</s>
+            <s>Eitt nú viðvíkjandi møguligari mótrokning v.m.</s>
+          </p>
+          <p>
+            <s>Hetta skapar framhaldandi ótryggleika á føroyska pensjónsøkinum.</s>
+            <s>Fyri at fáa yvirlit yvir avleiðingarnar av broytingunum í pensjónsskattingini fyri føroyingar í øllum inntøkubólkum, og fyri at fáa lýst nakrar av avleiðingunum av umskipanini, verða hesir spurningar settir lsndsstýrismanninum í fíggjarmálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-01-28">28. januar 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Háfoss</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

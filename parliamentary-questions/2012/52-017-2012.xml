@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sandvíkartunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30841" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/17">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Sandvíkartunnilin, settur Kára P. Højgaard, landsstýris- manni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru nakrar ætlanir um at dagføra tunnilin til Sandvíkar við ljósum, telefonsam- bandi, trygdarútgerð og nøktandi skelting?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørjar langtíðarætlanir eru fyri farleiðina til Sandvíkar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í svari upp á munnligan fyrispurning 26. september í ár, tá ið eg spurdi um trygd í tunlunum, var tíðin ov knøpp at svara øllum fyrispurningunum.</s>
+            <s>Tí taki eg afturíaftur partar av spurninginum um farleiðina til Sandvíkar.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin greiddi 26. september frá, at tunnilin til Havlbiar væntandi bleiv liðugt dagførdur í ár, og at ein langtíðarætlan var gjørd fyri alt vegakervið.</s>
+            <s>Ti hevði verið áhugavert at fingið at vita, hvar í ætlanini Sandvík er, og um henda ætlan er almenn.</s>
+          </p>
+          <p>
+            <s>Farleiðin til Sandvíkar er eins og til hini økini, sum hava av gomlu tunlunum, als ikki tíðarhóskandi.</s>
+            <s>Víkiplássini eru smá og hava frá fyrstan tíð allarhelst ikki verið ætlað sum víkipláss, men sum pláss at seta amboð frá sær í.</s>
+            <s>Økta ferðslan og støddin á akførunum í dag fær tí trupulleikar við at koyra ígjøgnum tunnilin.</s>
+            <s>Hetta lúkar ikki tíðarinnar tørv og gevur borgarum í Sandvík eina alt annað enn nøktandi farleið.</s>
+          </p>
+          <p>
+            <s>Somuleiðis er trygdarútgerð, telefonsamband og ljós ikki í tunlinum, og er hetta til stóran ampa fyri fólk.</s>
+            <s>Skeltingin er ei heldur nøktandi, og fyri at betra um hetta kundi t.d verið víst á við tølum, hvussu langt inni í tunlinum man var fyri at fyribyrgja, at ferðslan steðgar upp, tá ið nógv ferðsla er.</s>
+          </p>
+          <p>
+            <s>Einki er at ivast í, at Sandvík og hinar bygdirnar í Føroyum, sum hava gomlu tunlarnar, hava tørv á munandi batum í framtíðini, og tí er umráðandi fyri hesar farleiðir og fólkið, sum har býr, at fáa at vita, nær tey kunnu vænta sær eina farleið, sum lúkar nútíðar tørv.</s>
+          </p>
+          <p>
+            <s>Dagføringar eru neyðugar fyri trygdina, men tað, sum størst tørvur er á, eru nýggir tunlar.</s>
+            <s>Ti hesir spurningar um, hvat verður gjørt nú, og so hvørjar langtíðarætlanir eru.</s>
+            <s>Og neyðugt er at undirstrika, at dagføringar av trygdini ikki mugu brúkast sum undanførsla fyri at gera tær íløgur, sum tørvur er á frameftir.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2012-10-16">16. oktober 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Møguligar broytingar í Barsilsskipanini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bogi Andreasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30839" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/16">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bogi Andreasen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur eftir Tingskipanini §52a Fyrispurningur um møguligar broytingar í Barsilsskipanini, settur Jóhan Dahl, landsstýrismanni í vinnumálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin í vinnumálum ætlanir um broytingar í Barsilsskipanini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørja støðu hevur landsstýrismaðurin í vinnumálum til, at útgjaldið frá Barsilsskipanini eigur at leingjast úr hálvum ári upp í eitt ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur landsstýrismaðurin í vinnumálum, at ein leingjan av útgjaldinum frá Barsilsskipanini úr hálvum ári upp í eitt ár kann verða eitt stig á leiðini at steðga fólkaflytingini úr Føroyum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í Føroyum fæst bert útgjald úr Barsilsskipanini í umleið hálvt ár, tó at rætturin til foreldrafarloyvi er eitt ár.</s>
+            <s>Fleiri ítøkilig uppskot hava verið frammi um at leingja barsilsútgjaldið.</s>
+            <s>Føroyska Barsilsskipanin er afturúrsigld, sammett við skipanirnar í Danmark, Svøríki og Noregi, tá talan er um útgjald.</s>
+          </p>
+          <p>
+            <s>Í Danmark fáa foreldur útgjald úr skipanini í 52 vikur.</s>
+            <s>Í Noregi ber til at velja fult útgjald til barnsburðarfarloyvi í 46 vikur ella 80 prosent av fullum útgjaldi í 56 vikur.</s>
+          </p>
+          <p>
+            <s>Í Svøríki hava foreldur rætt til barnsburðarfarloyvi í tilsamans 480 dagar við útgaldi.</s>
+            <s>Skipanirnar í hesum grannalondum okkara eru sostatt búskaparliga tryggari fyri foreldur enn føroyska skipanin.</s>
+            <s>Hendan sannroynd elvir helst til, at ungir føroyingar, sum útbúgva seg ella arbeiða í Danmark, Svøríki ella Noregi, aftra seg at flyta heimaftur.</s>
+            <s>Samstundis er tað lokkandi hjá ungum føroyingum at búseta seg í eitt nú Danmark, har útgaldstíðarskeiðið frá barsilsskipanin er tvífalt so langt sum í Føroyum.</s>
+          </p>
+          <p>
+            <s>Hesi ójøvnu viðurskifti millum Føroyar og okkara grannalond eru ivaleyst við til at minka fólkatalið í Føroyum.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2012-10-05">5. oktober 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bogi Andreasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vantandi kostráðgeving til sukusjúk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30861" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/27">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um vantandi kostráðgeving til sukursjúku, settur Karsten Hans landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær kunnu allir sjúklingar við sukursjúku vænta sær nøktandi kostráðgeving?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýrismaðurin góðtaka, at hópur av sjúklingum við typu2-sukursjúku í løtuni ikki hava atgongd til neyðuga kostráðgeving í heilsuverkinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Nær verður kostráðgeving, knýtt at primerheilsutænastuni, klár, og hvussu verður hon skipað?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Heldur landsstýrismaðurin tað vera í lagi, at stórur munur verður gjørdur á, hvørja heilsutænastu sjúklingar við typu2-sukursjúku fáa í mun til, hvar í landinum teir búgva?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landssjúkrahúsið sigur seg ikki longur hava pengar og orku til at veita øllum sjúklingum við sukursjúku typu-2 neyðuga kostráðgeving.</s>
+            <s>Tað eru tí einans sjúklingar við typu-1 sukursjúku og teir sjúklingar við typu-2 sukursjúku, sum eru illa sjúkir, ið fáa ráðgeving frá sjúkraføðsluráðgeva (diætisti).</s>
+            <s>Øll onnur við typu-2 sukursjúku verða víst til kommunulæknarnar.</s>
+            <s>Men primerheilsutænastan er ikki útgjørd til at taka sær av hesi uppgávu.</s>
+            <s>Kommunulæknar eru ikki serfrøðingar í kosti til sjúklingar og hava tí ongan møguleika at veita røttu ráðgevingina.</s>
+            <s>Eingin kostráðgevi er knýttur at primerheilsutænastuni.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin hevur sett ein arbeiðsbólk at gera uppskot um, hvussu heilsutænastan til fólk við sukursjúku í framtíðini kann skipast.</s>
+            <s>Eitt álit verður væntandi klárt í vár.</s>
+            <s>Men, tað fer helst at taka langa tíð at byggja upp hesa tænastu uttan fyri sjúkrahúsverkið.</s>
+            <s>Og, einki bendir á, at hon fer at gerast bíligari enn í dag - heldur tvørturímóti.</s>
+          </p>
+          <p>
+            <s>2500-3000 sjúklingar hava typu-2 sukursjúku, og talið er skjótt vaksandi.</s>
+            <s>Rættur kostur er týdningarmesta viðgerð av fólki við hesi sjúku.</s>
+            <s>Uttan rætta ráðgeving og rættan kost er sera stórur vandi fyri, at sjúklingarnir fáa álvarsamar fylgisjúkur.</s>
+            <s>Ein niðurraðfesting av kostráðgevingini á Landssjúkrahúsinum, áðrenn ein samsvarandi tænasta er komin á føtur í primerheilsutænastuni, kann tí føra til, at støðan versnar munandi hjá fleiri sjúklingum.</s>
+            <s>Og tað kemur í hinum endanum at kosta heilsuverkinum munandi meira, enn at fyribyrgja.</s>
+          </p>
+          <p>
+            <s>Uppsøgnin av kostráðgeva til typu-2-sukursjúk sigst vera ein beinleiðis avleiðing av, at Landssjúkrahúsinum er álagt at spara 15 mió. kr. komandi árini.</s>
+            <s>Samstundis sum høvuðssjúkrahúsið í Føroyum má spara burtur kostráðgevingina, so hava sjúkrahúsini í Klaksvík og á Tvøroyri tíbetur ongar ætlanir um at niðurleggja hetta heilsutilboð.</s>
+            <s>Kostambulatoriini virka stak væl har, og tað er sera jaligt fyri sjúklingar við typu-2 sukursjúku, sum búgva í hesum økjum.</s>
+          </p>
+          <p>
+            <s>Tað er sostatt avgerandi, hvar í landinum tú býrt, um tú fært røttu og bestu viðgerðina fyri sukursjúku.</s>
+            <s>Í samrøðu við útvarpið kundi landsstýrismaðurin ikki veita nakra vissu fyri, nær og hvussu kostráðgevingin kemur at síggja út í framtíðini.</s>
+            <s>Tað eru ørzymlandi boð fyri sjúklingar, sum hava sera stóran tørv á hesi tænastu, fyri at kunna liva væl, hóast sjúkuna.</s>
+          </p>
+          <p></p>
+          <p>
+            <s>Bjørt Samuelsen</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2013-02-15">15. februar 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

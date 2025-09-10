@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mvg av vørum og tænastum í granskingarverkætlanum hjá almennum stovnum, har fígging eisini kemur uttanífrá</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal løgtingsmaður</persName>
+            <roleName></roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30864" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/29">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal løgtingsmaður</persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">almennum stovnum, har fígging eisini kemur uttanífrá, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52 a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin tryggja, at tá almennir stovnar taka lut í granskingarverkætlanum, har fíggingin heilt ella partvís kemur uttanífrá (fremmanda fígging), so fær man fulla afturbering av meirvirðisgjaldium?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýrismaðurin vísa á, hvussu onnur lond skipa hesi viðurskifti?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Fer landsstýrismaðurin at tryggja, at hetta ivamálið verður greitt soleiðis, at føroyskt granskingarsamstarv hjá almennum stovnum við onnur – og fíggingin av hesum – ikki verður skert orsakað av umsitingarligum trupulleikum – og at keyps-mvg verður afturrindað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Spyrjarin er komin eftir, at ivamál havi tikið seg upp um, hvussu mvg-reglurnar skulu umsitast, tá almennir stovnar í Føroyum taka lut í granskingarsamstarvi, har ein partur av fíggingini kemur uttanífrá (fremmanda fígging).</s>
+          </p>
+          <p>
+            <s>Almennir stovnar - sum t.d. Fróðskaparsetrið - fáa sambært reglunum afturrindað keyps-mvg av vørum og tænastum Men tá peningur í eini granskingarverkætlan eisini kemur uttanífrá, tykist onkur løgin umsitingarlig avgerð at vera tikin, soleiðis at keyps-mvg'ið ikki verður afturrindað.</s>
+          </p>
+          <p>
+            <s>Tað fær sjálvsagt ógvisligar avleiðingar fyri luttøkuna hjá almennum stovnum í granskingarverkætlanum saman við útlendskum samstarvspørtum, tí tá fer tað ikki at loysa seg at samstarva við útlendskar partar og at draga granskingarpengar til Føroya.</s>
+            <s>Trupult kann vera at fáa fígging aðrastaðni frá, um tað elvir til, at 25% fara í landskassan av keypi av vørum og tænastum í sambandi við við verkætlanirnar.</s>
+          </p>
+          <p>
+            <s>Hetta kann ongantíð hava verið ætlanin við reglunum, serliga tá hugsað verður um, at Føroyar við luttøku í granskingarsamstarvinum hjá ES, politiskt stremba eftir at fáa fígging uttanífrá til føroyska gransking við at lata eitt luttøkugjald á fíggjarlógini.</s>
+          </p>
+          <p>
+            <s>Tí verður landsstýrismaðurin spurdur eftir at fáa greiði á málinum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-03-07">7. mars 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

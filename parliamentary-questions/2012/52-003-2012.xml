@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Friðing av lunda</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30799" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/3">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um friðing av lunda, settur Jacob Vestergaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Metir landsstýrismaðurin, at lundastovnurin í verandi støðu tolir, at veitt framhaldandi verður av honum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Ætlar landsstýrismaðurin at seta bann fyri fleyging av lunda, inntil stóra niðurgongdin í stovninum er steðgað?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru onnur tiltøk frá landsstýrinum ávegis fyri at verja lundastovnin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í Mykinesi varð á grannastevnu gjørt av at friða lundan fyri eitt ár í senn.</s>
+            <s>Hetta er nú annað árið á rað, at mykinesfólk hava sett lokalt veiðibann fyri at fleyga lunda.</s>
+            <s>Hetta er alla æru vert og vísir, hvussu skynsamt tey, sum varða av náttúrutilfeinginum og best kenna viðurskiftini hjá lundanum, taka ábyrgd av stovnsrøktini.</s>
+          </p>
+          <p>
+            <s>Men bannið er einans lokalt.</s>
+            <s>Aðrastaðni verður fleygað, og til ber at keypa lunda dømi hava enntá verið um sølu av lunda umvegis Facebook.</s>
+            <s>At frítt er hjá summum at fleyga, leggur fótonglar fyri tey, sum stríðast fyri at verja stovnin.</s>
+          </p>
+          <p>
+            <s>Snimma í summar lá nógvur lundi á eggum, men, tíverri hendi tað aftur í ár, at næstan einki kom undan.</s>
+            <s>Seinastu árini hevur verið greitt, hvussu ómetaliga álvarsom støðan hjá lundastovninum og øðrum svartfugli við er.</s>
+            <s>Innlendismálaráðið fekk í januar 2011 eina frágreiðing við nýggjum veiðihagtølum fyri lunda.</s>
+            <s>Veiðitølini vísa heilt greitt, hvussu neyðugt tað er at verja lundastovnin.</s>
+            <s>Tað er føðslutrot og ikki fleygingin, sum er orsøk til stóru minkingina.</s>
+            <s>Men, tá eingin tilgongd er, er hvør veiddur fuglur við til at minka um stovnin.</s>
+          </p>
+          <p>
+            <s>Afturgongdin í lundastovninum er farin fram yvir mong áratíggju.</s>
+            <s>Men, seinastu árini tykist gongdin skeiva vegin at ganga óhugnaliga skjótt.</s>
+            <s>Og sera fáar pisur koma undan.</s>
+            <s>Tí er neyðugt at nýta øll tøk amboð at verja lundastovnin.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin við veiðimálum hevur í fyrru setu sínari sagt seg vera til reiðar at seta veiðibann fyri lunda, so leingi støðan er so hættislig.</s>
+            <s>Í september 2011 legði Johan Dahl, sum tók við eftir Jacob Vestergaard, fram løtingsmál nr. 62/2011: “Uppskot til løgtingslóg um broyting í løgtingslóg um fuglaveiðu”.</s>
+            <s>Lógarbroytingin skuldi geva landsstýrismanninum kunngerðarheimild at “áseta reglur um at lýsa friðing av ávísum fugli í eitt ávíst tíðarskeið, um stovnurin er illa fyri.”</s>
+            <s>Málið fall burtur, tá val varð útskrivað.</s>
+            <s>21. februar í ár, svarar landsstýrismaðurin soleiðis upp á sama fyrispurning (nr. 30/2011): “Hóast tað er føðitrot og ikki veiðan, sum er orsøkin til, at lundastovnurin minkar, er neyðugt at vera fyrivarin og avmarka veiðuna komandi árini. Tað er tó ikki enn avgjørt, um uppskot verður lagt fyri Løgtingið at broyta fuglaveiðilógina, so lundin verður friðaður eitt tíðarskeið.”</s>
+          </p>
+          <p>
+            <s>Tíverri varð í summar aftur staðfest, at vend ikki er komin í tilgongdina.</s>
+            <s>Tí verður spurningurin settur aftur til tess at fáa greiðu á, um og møguliga hvørja avgerð landsstýrismaðurin hevur tikið fyri at verja lundastovnin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-08-20">20. august 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

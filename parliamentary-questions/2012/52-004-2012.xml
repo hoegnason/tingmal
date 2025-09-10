@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Makrelur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30802" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/4">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um makrel, settur Jacob Vestergaard, landsstýrismanni í fiskivinnumálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv tons av makreli eru higartil komin upp av samlaðu kvotuni á 150.000 tons?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu stór hevur miðalveiðan verið um dagin, síðani fyrstu loyvini vórðu útskrivað?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu stór hevur miðalframleiðslan á landi verið um dagin?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er støða Føroya í mun til umheimin, um vit ikki megna at fiska alla makrelkvotuna?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Um móttøkuorkan á landi ikki megnar at taka ímóti øllum makrelinum, metir landsstýrismaðurin tað so vera ein fyrimun ella vansa, at útlendsk móttøkuskip hjálpa okkum at fáa alla kvotuna til høldar?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Heldur landsstýrismaðurin, at avgjaldið á 2,00 kr. á hvørt kilo av makreli virkar dragandi ella styggjandi fyri útlendsk móttøkuskip?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvussu nógvir dagar eru eftir av vertstíðini, og hvussu nógv tons skulu virkast í miðal um dagin, um vit skulu megna at fiska alla makrelkvotuna?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroyingar hava á øðrum ári einvíst ásett sær sjálvum makrelkvotu á umleið 150.000 tons í stríði við strandarlondini, sum vit vanliga hava avtalu við.</s>
+            <s>Endamálið er greitt at staðfesta okkara støðu í mun til umheimin og at prógva, at vit megna at handfara hesi ovurstóru virði á besta hátt sum fiskivinnutjóð.</s>
+            <s>Higartil hevur gingið misjavnt við makrelfiskiskapinum, og nú er so mikið útligið, at ferð má setast á fiskiskapin.</s>
+            <s>At fáa makrelin upp úr sjónum er minsti trupulleikin, tí eitt ella tvey av best útgjørdu nótaskipunum megna einsamøll at fiska alla kvotuna.</s>
+            <s>Stóra avbjóðingin er, hvussu vit fáa skipað móttøkuna á landi.</s>
+          </p>
+          <p>
+            <s>Samgongan hevur avtalað, at allur fiskur skal um føroyskan keikant, men tó er ikki avtalað, at hetta høga mál skal verða rokkið eftir einum ári.</s>
+            <s>Tað hevur verið væntað, at útlendsk móttøkuskip eins og í fjør fóru at hjálpa føroyingum at sleppa av við makrelin til matna og til góðan prís.</s>
+            <s>Men samgongan hevur ásett eitt avgjald á kr. 2,00 fyri hvørt kilo og hevur við hesum avgjaldi onkursvegna sagt, at móttøkuskip ikki eru so vælkomin.</s>
+            <s>Nú er sjón fyri søgn, og vandi er fyri, at móttøkuskipini fara at finna sær aðrar leiðir.</s>
+            <s>Tað kann koma føroyingum aftur um brekku, um vit ikki í hesi týðandi skiftistíð duga at fara lagaliga fram og duga at síggja heildarmyndina.</s>
+            <s>Politiski myndugleikin hevur avgerandi leiklut, nú vertstíðin styttist, og skulu broytingar gerast, mugu tær gerast skjótt.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2012-08-20">20. august 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

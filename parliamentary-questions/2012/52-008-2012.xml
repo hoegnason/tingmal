@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Veruliga talið av arbeiðsleysum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30823" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/8">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um veruliga talið av arbeiðsleysum, settur Johan Dahl, landsstýrismanni í arbeiðsmarknaðarmálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu mong eru langtíðararbeiðsleys í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu mong eru dottin úr arbeiðsloysisskipanini, tí tey hava verið har ov leingi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er talið av teimum, sum fáa uppihaldshjálp frá Almannaverkinum vaksið samsvarandi?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu verður hildið eyga við, hvussu mong eru uttan arbeiði uttan fyri arbeiðsloysisskipanina?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørji skipað tilboð verða givin langtíðararbeiðsleysum, so tey sleppa aftur í arbeiði?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í løtuni eru 1249 skrásett arbeiðsleys, 716 kvinnur og 533 menn.</s>
+            <s>Øll kunnu vit fegnast um, at talið av arbeiðsleysum ikki veksur, og at í summum økjum í landinum, er tað minkað seinastu tíðina.</s>
+          </p>
+          <p>
+            <s>Talið av arbeiðsleysum er kortini framvegis høgt, og hagtølini frá Arbeiðsloysisskipanini siga bert part av søguni um, hvussu mong arbeiðsleys eru.</s>
+            <s>Tí umframt hesi 1249 arbeiðstøku, so eru eisini skuggatøl.</s>
+            <s>Her verður hugsað um tey, sum eru dottin úr ALS, tí tey hava verið arbeiðsleys ov leingi, umframt tey, sum av ymiskum orsøkum ikki eru partur av arbeiðsloysisskipanini - til dømis ung, sum eru liðug at ganga í skúla, men ikki hava forvunnið sær rætt til arbeiðsloysisstuðul, tí tey ikki hava arbeitt.</s>
+          </p>
+          <p>
+            <s>Ein sera stórur partur av teimum arbeiðsleysu - sum skilst oman fyri 80% - eru ófaklærd, sum ikki hava pappír upp á sínar førleikar.</s>
+            <s>Tey hava trupult við at finna arbeiði, og hóast ALS ger eitt gott og miðvíst arbeiði fyri at geva arbeiðsleysum møguleikan at førleikamenna seg, so finst einki skipað skúlatilboð, sum er málrættað til at uppstiga førleikarnar hjá ófaklærdum.</s>
+          </p>
+          <p>
+            <s>Tá arbeiðsleys fella úr arbeiðsloysisskipanini, kunnu summi teirra fáa uppihaldsstuðul sambært forsorgarlógini.</s>
+            <s>Krøvini fyri at fáa fíggjarliga hjálp frá Almannaverkinum eru tó ógvuliga strong, og tí eru tað neyvan øll, sum detta úr Arbeiðsloysisskipanini, sum uttan víðari fáa uppihaldsstuðul.</s>
+            <s>Møguliga eru tað eisini fleiri, sum ikki vilja gerast “almannaklientar”, og av teirri orsøk ikki leita sær hjálp frá Almannaverkinum.</s>
+          </p>
+          <p>
+            <s>Tað er umráðandi at fáa fram hesi tøl, so politiska skipanin kann fyrihalda seg til, hvussu stórt veruliga arbeiðsloysið er, og hvat gerast kann fyri bólkin av arbeiðsleysum, sum fellur uttan fyri ALS.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-08-29">29. august 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
