@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bústaðartilbnoð til eldri</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristianna Winther Poulsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28521" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/35">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristianna Winther Poulsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bústaðartilboð til eldri, settur Anniku Olsen, landsstýriskvinnu í almannamálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar eru ætlanirnar hjá landsstýriskvinnuni í almannamálum at nøkta stóra tørvin á eldrabústøðum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Í hvønn mun verður arbeitt við alternativum bústaðartilboðum og bústaðar- møguleikum, so sum at byggja eldraíbúðir, har fólk kunnu búgva sjálvi, og fáa heimahjálp, mat, reingerð o.a. eftir tørvi, heldur enn við røktarheims- plássunum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýriskvinnan, at fleiri røktarheimspláss er einasta rætta loysnin at nøkta stóra tørvin á bústaðartilboðum og bústaðarmøguleikum fyri eldri?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Stórur tørvur er á eldrabústøðum, og hesin tørvur bara veksur, við tað at vit gerast eldri og eldri.</s>
+            <s>Fleiri røktarheimspláss verða bygd í løtuni, og hetta er gleðiligt, tí at tørvurin er stórur.</s>
+          </p>
+          <p>
+            <s>Men vit vita, at nógv eldri fólk vilja búgva í egnum heimi sum longst, heldur enn at fara á røktarheim.</s>
+            <s>Eisini vita vit, at eitt røktarheimspláss kostar umleið hálva millión krónur í rakstri árliga, og at røktarheimspláss eru dýrari at byggja enn aðrir bústaðir.</s>
+            <s>Harumframt vísa røktarheimspláss seg í stóran mun at gera eldru fólkini óvirkin, og røktarheimspláss í stórum tali verða niðurløgd í øðrum londum, tí at myndugleikarnir meta, at hendan loysnin ikki er tann besta.</s>
+          </p>
+          <p>
+            <s>So tað er týdningarmikið, at vit í Føroyum eisini eru tilvitað um, hvussu vit koma fram til bestu loysninar, tá ið talan er um bústaðartilboð til eldri.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-03-05">5. mars 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristianna Winther Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

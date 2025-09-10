@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bústaðir í Eysturoynni og Norðoyggum til føroyingar við serligum avbjóðingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Háfoss</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28529" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/40">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Háfoss<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bústaðir í Eysturoynni og Norðoyggjum til føroyingar við serligum avbjóðingum, settur Anniku Olsen, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær verða vardu bústaðirnir, ið eftir ætlan skulu byggjast í Eysturoynni og Norðoyggjum klárir at taka í nýtslu?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv fáa við hesum nýggjan bústað, og er støða tikin til, hvør skal flyta inn í bústaðirnar, tá hesir verða tøkir?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Bíðilistin er langur. Hvørjar møguleikar hava tey, ið ikki fáa møguleika at flyta inn í hesar bústaðir?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Eru serligar verkætlanir í umbúna, tá umræður at fara undir bústaðarverkætlanir saman við Húsalánsgrunninum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Um fleiri av teimum, ið ikki fáa møguleika at flyta inn í vardu bústaðirnar, ið landið byggir, velja at skapa eitt lutaíbúðafelag og byggja samanhangandi íbúðir, hevur landið so møguleika at leiga eina íbúð til starvsfólk?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Um flutt verður í lutaíbúðir - verður støðan ávirkað, tá umræður stuðulstímar og tænastu annars frá tí almenna í mun til í dag?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hevur Almannamálaráðið ætlanir um at fara undir at byggja fleiri vardar bústaðir kring landið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tá minnilutasamgongan saman við Tjóðveldi og Framsókn stjórnaðu Føroyum eitt tíðarskeið í fjør, varð avgjørt at leggja fyri Løgtingið lóg at byggja vardar bústaðir til føroyingar við serligum avbjóðingum í Eysturoynni og Norðoyggjum fyri 33 mió. kr.</s>
+            <s>Eisini varð avgjørt at broyta heimildirnar hjá Húsalánsgrunninum, soleiðis at hesin kundi fara undir lutaíbúðaverkætlanir v.m.</s>
+          </p>
+          <p>
+            <s>Bíðilistin til bústaðir til føroyingar við serligum avbjóðingum er sera langur, og hetta var tí eitt stórt stig á røttu kós.</s>
+          </p>
+          <p>
+            <s>Enn er tó ikki komið í gongd við hesar verkætlanir, og valdi samgongan eisini at skerja játtanina til verkætlanirnar í 2012, grundað á, at mett varð ikki, at verkætlanirnar komu so langt í 2012.</s>
+            <s>Týðandi er at fáa staðfest, nær hesar vardu íbúðir verða tøkar, og um støða er tikin til, hvør fær møguleika at flyta inn í bústaðirnar.</s>
+            <s>Eisini eru tað nógv, ið ikki fáa møguleika at flyta inn í hesar bústaðir, og mugu tey tí royna aðrar vegir.</s>
+          </p>
+          <p>
+            <s>Ein nýggjur møguleiki er, at farast kann undir lutaíbúðaverkætlanir.</s>
+            <s>Hetta er tó treytað av, at tað almenna kann góðtaka tílíkar loysnir, og at neyðugi stuðulin og tænasturnar fylgja við.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa lýst málið og við vón um, at vit skjótt kunnu minka bíðilistan og bjóða føroyingum við serligum avbjóðingum nútíðarhóskandi bústaðir saman við góðari heildartænastu, verða hesir spurningar settir landsstýriskvinnuni í almannamálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-04-24">24. apríl 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Háfoss</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
