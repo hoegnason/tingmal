@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flakavinnan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Pauli Petersen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30872" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/33">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Pauli Petersen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um flakavinnuna, settur Jacob Vestergaard, landsstýrismanni í fiskivinnumálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="wdykobzqi7">Hevur landsstýrismaðurin ætlanir um at skipa so fyri, at stuðul verður latin flakavinnuni at keypa frystan fisk úr triðjalondum o.ø til virkingar í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="v3m7xh6drf">Fer landsstýrismaðurin at virka fyri at fáa váðafúsan kapital til høldar til flakavinnuna í Føroyum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="xa2shi73ri">Tað standa fleiri tóm flakavirki runt landið, og kundi frystur fiskur úr triðjalondum verið ein gyltur møguleiki at fingið gongd aftur í hesi virki, so man kundi fingið fleiri hendur til arbeiðis í Føroyum.</s>
+            <s xml:id="lqhkydvisw">Flakavinnan kundi verið býtt meira javnt um alt landið, um landsstýrismaðurin vildi virka fyri omanfyristandandi.</s>
+            <s xml:id="xntk7c2yoa">Serliga nú fiskivinnan gerst meir og meir sentralisera í ávísum støðum í landinum.</s>
+          </p>
+          <p>
+            <s xml:id="voiymo6ie6">Realurin virkar í dag á føroyska marknaðinum, har hann fíggjar 1. veðrætt í skipum.</s>
+            <s xml:id="ohna3ivw65">Skipini kundu saktans verið fíggjað aðrastaðni, og síðan átti heldur at verið latið upp fyri, at Realurin kundi fíggja innflutning av frystum triðjalands fiski.</s>
+          </p>
+          <p>
+            <s xml:id="ij2hgh7e5h">Hetta hevði stuðla undir, at flest allar hendur í føroyska samfelagnum aftur kundu komið til verka.</s>
+            <s xml:id="lp4rrfgim5">Best hevði verið, um Føroyar arbeiddu seg úr kreppuni.</s>
+          </p>
+          <p>
+            <s xml:id="kstlea5oif">Tað eru nógv, ið kundi verið gjørt fyri at fingið meir arbeiði í landi, men at veita stuðul til innflutning av frystum fiski úr triðjalondum er lutfalsliga einfalt, og til ber beinanvegin at síggja virknaðin av hesum.</s>
+            <s xml:id="kq6kwbwxhy">Er tað nakað, vit duga í Føroyum, er tað at virka fisk.</s>
+            <s xml:id="ykxg7xna4h">Skipanin við stuðli til innflutning av frystum fiski kostar lítið og einki, og sambært framrokningum kann væntast, at vinningurin fyri landið verður munandi hægri enn stuðulin, ið latin verður.</s>
+          </p>
+          <p />
+          <p>
+            <s xml:id="qjgrt37m3b">Pauli Petersen</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2013-03-19">19. mars 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Pauli Petersen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
