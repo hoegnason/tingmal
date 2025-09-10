@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Heimild at brúka pengar úr Búnaðargrunninum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28495" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/24">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um heimild at brúka pengar úr Búnaðargrunninum, settur Johan Dahl, landsstýrismanni í búnaðarmálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er matriel heimild at brúka pengar úr Búnaðargrunninum at keypa festibrøv?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er matriel heimild at brúka pengar úr Búnaðargrunninum at løna festara fyri at røkja festi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er matriel heimild at brúka pengar úr Búnaðargrunninum at løna fólki út yvir løn sambært sáttmála?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Var mistak at seta formannin í áhugafelag/fakfelag sum stjóra á tí stovni, sum skal umsita landsins áhugamál mótvegis limunum í sama felag?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrismaðurin hevur sera loyalt upplýst, at hann er skeivt ella ónøktandi kunnaður í málinum um at keypa festibræv frá almennum stjóra.</s>
+            <s>Tí er uppskotið um játtanarheimild effektivt tikið aftur (tøkniliga er heitt á Løgtingið um at strika játtanina úr eykajáttanarlógini).</s>
+          </p>
+          <p>
+            <s>Men nú tykist, sum at tað eisini manglar heimild at nýta pengarnar, um teir so verða játtaðir.</s>
+          </p>
+          <p>
+            <s>Man tað bera til at løna festara fyri at røkja festið?</s>
+            <s>Festarar gjalda jú bert symbolska leigu og fáa allar inntøkur av festinum.</s>
+            <s>Allir festarar fingu festibræv fyri kr. 0 frá landinum - ber tá til hjá Bóndafelagi og Búnaðarstovu at viðmæla, at landið skal gjalda fyri at keypa festibrævið aftur, tá ið givið er, at bústaðarskyldan ikki er hildin?</s>
+          </p>
+          <p>
+            <s>Spurt má vera, hvørt vit her hava nøktandi óheftni ella gegni í tilgongdini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2007-07-29">26. september 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

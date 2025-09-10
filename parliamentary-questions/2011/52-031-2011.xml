@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viðgerð av giktsjúkum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28513" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/31">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um viðgerð av giktsjúkum, settur Karsten Hansen, landsstýris- manni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu fer landsstýrismaðurin at tryggja nøktandi viðgerð til giktsjúk, nú serlæknin hevur sagt seg úr starvi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær fyriliggur ein loysn, sum tryggjar, at støðið á viðgerðini ikki lækkar?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hví eydnaðist ikki at fáa eina semju við serlæknan?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Serlæknin í gikt hevur sagt seg úr starvi á Landssjúkrahúsinum, frá 31. mars.</s>
+            <s>Í november setti undirritaða landsstýrismanninum fyrispurning um málið.</s>
+            <s>Víst varð á, at bíðitíðin til viðgerð er stytt munandi, síðani viðkomandi lækni fór at virka í privatari viðtalu afturat almenna starvinum.</s>
+            <s>Og at sjúklingarnir hava verið væl nøgdir við fakliga støðið á viðgerðini.</s>
+          </p>
+          <p>
+            <s>Virkandi skipan sparir ivaleyst heilsuverkinum pengar, tí fólk fáa skjótari hjálp og byrgt verður fyri nógvum innleggingum.</s>
+          </p>
+          <p>
+            <s>Stórur ótti er nú ímillum giktsjúk fyri, at støðið á viðgerðini fer at lækka, um vent verður aftur til skipan við skiftandi konsulentum, sum ikki kenna sjúklingin.</s>
+            <s>Uppsøgnin er enn ein missur fyri sjúkrahúsverkið, sum frammanundan hevur mist serlæknar á fleiri øðrum økjum.</s>
+          </p>
+          <p>
+            <s>Í svarinum 30 november í fjør, lovaði landsstýrismaðurin at leggja nógv fyri, til tess at fáa loyst ósemjuna um arbeiðsumstøður og sáttmálaviðurskifti ímillum giktlæknan og avvarðandi myndugleikarnar, fyri at tryggja sjúklingunum eina góða, skjóta og effektiva viðgerð.</s>
+          </p>
+          <p>
+            <s>Samráðingar skuldu tá verða fyrsta dagin við serlæknafelagið, og Landssjúkrahúsið væntaði, at ein avtala fyrilá tíðliga í 2012.</s>
+            <s>Landsstýrismaðurin segði m.a. at “...øll, sum varða av hesum økinum, hava eitt brennandi ynski um at fáa viðurskiftini í rættlag”, og legði dent á, at hann ikki ætlaði sær at nýta ein dag meira enn neyðugt at tryggja, at umrøddi serlækni í giktsjúkum kundi halda fram í arbeiði sínum.</s>
+            <s>Men, eyðsæð er eingin loysn funnin, tí sambært Dimmalætting 21. februar hevur serlæknin nú endaliga sagt seg úr starvi, m.a. tí hann ikki heldur seg kunna taka ábyrgd av støðuni.</s>
+          </p>
+          <p>
+            <s>Hetta rakar tey mongu, sum hava gikt, og hvørs lívsgóðska er beinleiðis tengd at góðari, skjótari og álítandi viðgerð.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-02-27">27. februar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

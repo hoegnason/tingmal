@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Frítt internet-samband umborð á strandfaraskipunum og hjá Bygdaleiðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28501" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/26">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um frítt internet-samband umborð á strandfaraskipunum og hj Bygdaleiðum, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær kann roknast við, at frítt internet-samband verður til taks hjá ferðafólki við Smyrli, Teistanum og smærru strandfaraskipunum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær kann roknast við, at frítt internet-samband er til taks hjá ferðafólki við Bygdaleiðum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør er orsøkin til, at hetta ikki er komið í lag fyrr?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er kostnaðurin fyri at tryggja fría atgongd til internet á strandfara- skipunum og hjá Bygdaleiðum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er vorðið vanligt í londum kring okkum, at frítt internetsamband er til ferðafólk á almennum flutningsstøðum og á ferðum við almennum flutningstólum.</s>
+          </p>
+          <p>
+            <s>Í Føroyum er hetta ein tænasta, ið Tórshavnar Kommuna bjóðar við býarbussunum og á ávísum almennum støðum.</s>
+            <s>Eisini er frítt internet-samband tøkt á flogvøllinum.</s>
+          </p>
+          <p>
+            <s>Men fyri teir mongu føroyingar kring landið, ið dagliga ferðast longri teinar við strandfaraskipunum og við Bygdaleiðum - til arbeiðis, í skúla ella í øðrum ørindum er hendan tænastan ikki í boði.</s>
+          </p>
+          <p>
+            <s>Til dømis á longstu farleiðini umborð á Smyrli til og úr Suðuroynni er ikki gjørligt hjá fólki at fara frítt á internetið.</s>
+            <s>Fyri fólk í arbeiðsørindum og fyri lesandi, ið ferðast dagliga ella javnan, hevði stórur fyrimunur verið, um fólk kundu valt at brúkt part av ferðingartíðini at avgreiða ella fyrireika uppgávur umvegis internetið.</s>
+          </p>
+          <p>
+            <s>Og somuleiðis høvdu fyrimunir verið hjá fólki á styttri farleiðunum hjá Strandfaraskipum og við bussunum hjá Bygdaleiðum.</s>
+          </p>
+          <p>
+            <s>Tí verður spurt, nær hendan sjálvsagda tænastan verður framd fyri tað stóra talið av fólki, ið ferðast í Føroyum - og hvat hevur forðað fyri at fremja tað.</s>
+          </p>
+          <p></p>
+          <p>
+            <s>Høgni Hoydal</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2012-01-06">6. januar 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
