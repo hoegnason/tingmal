@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Landsverk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23265" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/103">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Landsverk, settur Anniku Olsen, landsstýriskvinnu í vinnumálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur landstýriskvinnan at tað er í lagi, at ein og sami stovnur undir landinum, Landsverk, kann tekna og prosjektera, bjóða arbeiðið út, góðkenna arbeiðstakararar, hava eftirlit og til seinast endaliga góðkenna arbeiðið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Finnast tað gegnistrupulleikar, tá privat feløg í kapping við Landsverk geva tilboð um at gera arbeiði, har tað enntá eru umboð fyri Landsverk, sum skulu taka støðu til tilboðini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Altjóða kreppan hevur sett síni spor í grannalondum okkara.</s>
+            <s>Vinnan hevur minni at gera, og ávirkanin sæst aftur í útbjóðingunum, har flestu tilboð, sum koma inn, liggja væl lægri, enn arbeiðini upprunaliga vórðu mett at kosta.</s>
+          </p>
+          <p>
+            <s>Eitt margháttligt fyribrigdi sást í miðlunum nú um dagarnar, tá eitt privat felag í kapping við Landsverk kundi asfaltera nógv fleiri fermetrar av vegi í Skúvoy fyri ávíst krónutal, enn almenni stovnurin megnaði.</s>
+          </p>
+          <p>
+            <s>Tað tykist løgið, at Landsverk saman við kommununi skal taka støðu til tilboðini, tá Landsverk luttekur sum tilboðsgevari.</s>
+            <s>Í hesum føri situr almenni stovnurin báðumegin borðið og virkar undir fleiri hattum.</s>
+          </p>
+          <p>
+            <s>Ætlanin við fyrispurninginum er ikki at sáa iva um starvsfólkaavrikini á Landsverk, men einans at fáa gjøgnumskygni og greiði á, um ivasami fjølbroytti leikluturin hjá almenna stovninum kann halda áfram óbroyttur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-06-01">1. juni 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

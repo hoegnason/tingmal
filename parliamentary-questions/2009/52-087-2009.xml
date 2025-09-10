@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útbjóðing av almennum arbeiðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23228" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/87">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útbjóðing av almennum arbeiði, settur Kaj Leo Johannesen løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu stórur partur av handverksarbeiðinum, ið tað almenna læt gera í 2009, varð boðið út. Fingu føroyskar fyritøkur møguleika at vera við til at bjóða, hvussu stórur partur av arbeiðinum bleiv gjørdur av føroyingum, og hvussu nógv bleiv gjørt av útlendingum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Stórt bjálvingar og umvælingararbeiði verður í hesum døgum gjørt í Tinganesi. Verður arbeiðið gjørt av føroyskum handverkarum? og hava allar tær føroysku fyritøkurnar, sum framleiða vindeygu, havt møguleikan at vera við til bjóða upp á arbeiðið?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Politiski viljin er, at allir almennir bygningar yvir áramál verða umvældir og bjálvaðir til tess at minka um oljunýtsluna. Verða tað føroyskir handverkarar, sum koma at gera arbeiðið? og fáa allir føroyskir vindeygaframleiðarar møguleikan frameftir á jøvnum føti at vera við í útbjóðingini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Arbeiðsloysið í Føroyum veksur støðugt, og nógv verður tosað um, at í ringum tíðum eigur tað almenna at ganga undan við seta arbeiði í gongd, til tess at halda samfelagshjólunum malandi.</s>
+          </p>
+          <p>
+            <s>Ásannandi, at grannalond okkara, til dømis Ísland, royna at verja um sítt egna virksemi og heimamarknað á ein slíkan hátt, at tað er trupult fyri ikki at siga ógjørligt hjá útlendskum fyritøkum at koma inn, so liggja møguleikarnir víðopnir fyri útlendingum í Føroyum.</s>
+          </p>
+          <p>
+            <s>Spurningurin er, um tað kann vera meiningin, at vit við grundgevingini, at skapa arbeiði til fleiri hendur í Føroyum, lata hesi arbeiði fara til útlendskar fyritøkur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-04-12">12. apríl 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

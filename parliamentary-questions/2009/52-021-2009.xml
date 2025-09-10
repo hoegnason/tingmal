@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prísir á trygdarskeiðum til sjófólk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annita á Fríðriksmørk</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23080" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/21">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annita á Fríðriksmørk<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um prísir á trygdarskeiðum til sjófólk, settur Jacob Vestergaar landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin vátta ella avsanna, um Fiskimálaráðið tann 2. apríl í ár kom við eini tilsøgn um, at Fiskimálaráðið hevði valt eina loysn, har játtanin til Trygdarmiðstøðina varð avtikin yvir ávíst áramál?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er Fiskimálaráðið kunnað um, at Kappingarráðið 22. mai 2009 hevði gjørt av at gera tilsøgnina bindandi við tí broyting, at tillagingartíðin bleiv stytt til tann 1. august 2009?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørji tiltøk hevur Fiskimálaráðið gjørt til tess at ganga hesi avgerð hjá Kappingarráðnum á møti?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Heldur landsstýrismaðurin, at tað er eitt hugskot at lata skeiðspeningin fylgja næminginum, so næmingarnir sjálvir gera av, hvar teir fara á skeið?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Metir landsstýrismaðurin, at Fiskimálaráðið eigur at fylgja úrskurðinum hjá Kappingarráðnum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Metir landsstýrismaðurin, at játtanarkarmurin til Trygdarmiðstøðina í fíggjarlógaruppskotinum fyri 2010, sum tilsamans er 10,5 mió. kr., er í samsvari við avgerðina hjá Kappingareftirlitinum 22. mai 2009?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Metir landsstýrismaðurin, at nevnda uppskot til játtan fyri 2010 er í samsvari við ta tilsøgn, Fiskimálaráðið gav Kappingarráðnum tann 2. apríl 2009?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Metir landsstýrismaðurin, tað vera rætt, at man við játtan á fíggjarlógini kann gera av við privat vinnurekandi viksemi?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hevur landsstýrismaðurin gjørt sær tankar um, hvørjar fíggjarligar avleiðingar tað kann fáa fyri landskassan, um avgerðin hjá Kappingarráðnum í hesum máli ikki verður gingin á møti, og kærarin fer víðari við málinum?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s>Er landsstýrismaðurin kunnugur við, um nakað endurgjaldskrav er reist móti Fiskimálaráðnum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri einum ári síðani, fekk Kappingareftirlitið kæru um ásetingina av prísinum fyri trygdarskeið til sjófólk, sum verður ásettur av Fiskimálaráðnum vegna Trygdarmiðstøðina.</s>
+          </p>
+          <p>
+            <s>Prísirnir á trygdarskeiðunum hjá Trygdarmiðstøðini eru niðan fyri veruliga framleiðslukostnaðin (kostprís).</s>
+            <s>Hetta kann lata seg gera, tí Trygdarmiðstøðin á hvørjum ári fær játtað pening á fíggjarlógini til rakstur, umframt íløgur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2009-10-07">tann 7. oktober 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annita á Fríðriksmørk</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

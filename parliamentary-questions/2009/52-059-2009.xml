@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Staðseting o.a. av nýggja heilsutrygdarstovninum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjarni Djurholm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23169" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/59">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjarni Djurholm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um staðsetingini o.a. av nýggja heilsutrygdarstovninum, settur Aksel V. Johannesen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør er sakliga grundgevingin fyri at staðseta heilsutrygdarstovnin í Klaksvík?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji høli eru tøk til nýggja stovnin í Klaksvík, og hvat fer tað at kosta limunum at byggja upp nýggju umsitingina í Klaksvík?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Í hvørjum plássum í landinum eiga sjúkrakassarnir í dag egnaði høli til umsiting av nýggju heilsutrygdarskipanini?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hví eru samráðingarnar við sjúkrakassarnar um eginognina longu slitnaðar, og hvat meinar landsstýrismaðurin við, tá hann sigur seg ikki vilja arbeiða undir trýsti?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvør vissa er fyri, at eginognin hjá sjúkrakøssunum kemur limunum til góða, og at tær uml. 45 mió. kr ikki bara enda í einum ódefineriligari nýtslu?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fríggjadagin undan jólum varð nýggja lógin um heilsutrygd samtykt, sum hevði við sær, at sjúkrakassarnir fóru í søguna á nýggjárinum 2010.</s>
+            <s>Full politisk undirtøka var fyri at modernisera sjúkrakassaskipanina.</s>
+          </p>
+          <p>
+            <s>Hóast nýggja skipanin er komin í gildi, so eru tað framvegis viðurskifti, sum ikki eru endaliga avgreidd.</s>
+            <s>M.a. er inngjaldið til skipanina fyrstu 2 árini at líkna við “gomlu” skipanin, har allir borgarar yvir 18 ár skulu rinda í hana.</s>
+            <s>Hvussu inngjaldið verður síðani er enn ikki full greiða á.</s>
+          </p>
+          <p>
+            <s>Annað ivamál var spurningurin um eginognina hjá sjúkrakøssunum, sum er roknað til uml. 45 mió. kr.</s>
+            <s>Undan lógarsamtyktini játtaði landsstýrismaðurin at virka fyri semju við sjúkrakassarnar um eginognina hjá sjúkrakøssunum.</s>
+            <s>Nú, 2. januar 2010, bert fáar arbeiðsdagar aftaná lógarsamtyktina, hevur landsstýrismaðurin boðað frá, at hann ikki vil samráðast við sjúkrakassarnar undir trýsti.</s>
+          </p>
+          <p>
+            <s>Triðja málið var staðsetingina av nýggja heilsutrygdarstovninum.</s>
+            <s>Frammanundan lógarsamtyktini boðaði landsstýrismaðurin frá, at stovnurin skuldi liggja í Klaksvík.</s>
+            <s>Hann var tá kunnaður um, at full undirtøka ikki var fyri hesum, og at hann tí átti at venda spurninginum í politisku skipanini, áðrenn endalig støða varð tikin.</s>
+            <s>Hetta játtaði landsstýrismaðurin, men 2. januar var so í miðlunum boðað frá, at stovnurin verður staðsettur í Klaksvík, hóast sjúkrakassarnir eiga vælegnaði umsitingarhøllir í Tórshavn, meðan flestu aðrastaðni hevur verið hildið til í leigaðum hølum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-01-04">4. januar 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjarni Djurholm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

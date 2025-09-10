@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ritan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23261" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/101">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Rituna, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a) Viðmerkingar:</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær fer Ritan í fasta strandfarasigling til Svínoyar og Fugloyar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í desember í fjør samtykti samt Løgting at játta samanlagt knappar 10,0 mió. kr. til umbygging og umvæling av strandfaraskipunum Ternuni og Rituni til sigling til ávikavist Nólsoyar og Svínoyar/Fugloyar.</s>
+          </p>
+          <p>
+            <s>Um dagarnar frættist, at Ternan er liðugt umvæld og klár at seta í sigling um Nólsoyarfjørð.</s>
+            <s>Vónandi verður hetta eitt framstig, tá um samferðslu og trivna ræður fyri Nólsoynna og fólkið, ið har býr.</s>
+          </p>
+          <p>
+            <s>Higartil hevur Ritan røkt siglingina til Nólsoyar, men sum sagt er ætlanin, at hon somuleiðis skal tillagast og umvælast, áðrenn hon verður sett í sigling til Svínoyar og Fugloyar.</s>
+          </p>
+          <p>
+            <s>Støðan er tann í dag, at Súlan fyri tað mesta røkir siglingina til Svínoyar, Kirkju og Hattarvíkar.</s>
+            <s>Skipið er lítið og sera illa egnað til bæði ferðafólka- og farmaflutning.</s>
+            <s>Tí hevur tað skund at fáa annað skip at røkja siglingina.</s>
+          </p>
+          <p>
+            <s>Nú rúm tíð er fráliðin síðan peningur varð játtaður við tí endamáli at fáa annað og betri skip at røkja siglingina til Svínoyar og Fugloyar, hevði verið áhugavert at fingið at vita, hvat røkist fyri hesum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-05-26">26. mai 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

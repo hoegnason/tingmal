@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vetrarfriðing av Kollafirði</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23231" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/86">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um vetrarfriðing av Kollafirði, settur Jacob Vestergaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, hvussu nógv lendi í markatalsbygdini Kollafirði er atgongt sum vetrarbit hjá einbýttum landshøgum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>hvussu nógv Búnaðarstovan vanliga krevur fyri avloysing av vetrarbiti á slíkum lendi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>hvussu stórur nettovinningurin hjá nevndu høgum var árini 2004-2008?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>hvussu nógv áseyðurin má metast at minka, um vetrarfriðað verður uttan nakrar ábøtur?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nú Løgtingið arbeiðir við vetrarfriðing av almennu jørðini er gott at fáa nøkur tøl á borðið um hesa skipan.</s>
+          </p>
+          <p>
+            <s>Spurt verður um bygdina Kollafjørð, har Búnaðarstova og royndarstøð liggja.</s>
+            <s>Spurt verður til tess at fáa greiðu á fylgjandi:</s>
+            <list rend="bulleted">
+   <item><s>Hvussu nógv lendi er bert vetrarbit hjá festum í landsogn?</s></item>
+   <item><s>Hvussu nógvan vinning høvdu bøndur, ið sita sum leigulendingar uttan ognarrættindi við teirri nevndu landsjørðini, av øllum seyðahaldinum, tvs. bæði haga og vetrarbiti?</s></item>
+   <item><s>Hvussu nógv fer áseyðurin at minka, um vetrarbitið hvørvur, og onki verður gjørt at bøta um hagan ella fáa til vega annað vetrarbit</s></item>
+  </list>
+          </p>
+          <ul>
+            <li></li>
+            <li>Hvussu nógv tekur búnaðarstovan vanliga fyri fermeturin, tá ið vetrarfriðað verður í smáum t.d. við sølu av landslendi til kommunu?</li>
+            <li>Hvussu nógvan vinning høvdu bøndur, ið sita sum leigulendingar uttan ognarrættindi við teirri nevndu landsjørðini, av øllum seyðahaldinum, tvs. bæði haga og vetrarbiti?</li>
+            <li></li>
+          </ul>
+          <p>
+            <s>Við “einbýttum landshøgum” verður meint (hagapørtum sum eru 100 % landsjørð).</s>
+            <s>Við tað, sum “Búnaðarstovan vanliga krevur fyri avloysing” verður hugsað pr. fermetur og íalt á nevnda lendi.</s>
+            <s>Við, hvat “áseyðurin má metast at minka” verður meint í áleið %-parti.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-04-12">12. apríl 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

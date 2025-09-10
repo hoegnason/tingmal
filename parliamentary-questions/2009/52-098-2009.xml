@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útistandandi MVG</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23255" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/98">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útistandandi MVG, settur Jóannes Eidesgaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu stór peningaupphædd er útistandandi í MVG ?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat er størsta MVG-upphædd, landskassin hevur mist av einstakari fyritøku, síðan byrjað varð at uppkrevja meirvirðisgjald, og hvør var henda fyritøka?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógvan pening hevur landskassin mist í MVG av feløgum, sum eru uppathildin seinastu fimm árini, og kann landsstýrismaðurin somuleiðis upplýsa nøvnini á teimum feløgum, sum, tá tey góvust, skyldaðu landskassanum oman fyri 500 túsund í MVG?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, hvussu mong av hesum feløgum eru endurstovnað við somu eigarum, og hvørji tey eru?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørjar avleiðingar hevur tað havt fyri tey, sum høvdu ábyrgdina, at feløg longri tíðarskeið ikki hava avroknað MVG, og landskassin tí hevur mist pening?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at seta forðingar/”karantenu” , so tað verður truplari hjá eigarum av smá- ella partafeløgum at endurstovna virksemi, um hesir eru farnir av knóranum og skyldaðu landskassanum pening.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri nøkrum mánaðum síðani hoyrdist um fyritøku, sum skyldaði tí almenna milliónaupphædd í MVG, tá smápartafelagið helt uppat.</s>
+            <s>Um tað ber til at endurstovna smápartafelag við 120 túsund í partapeningi og halda áfram við virkseminum, kann slík mannagongd verða ein freistandi loysn fyri at fáa betri gjaldføri.</s>
+          </p>
+          <p>
+            <s>Ivaleyst er avrokningin av MVG “uppstrammað”, men tað er óskiljandi, um talan er um milliónaupphæddir, sum landskassin hevur mist í inntøku, tí feløg hava uppkravt MVG frá borgarum og latið vera við at avroknað upphæddina til TAKS, men at peningurin í staðin er farin til rakstrarkreditt hjá feløgum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-05-03">3. mai 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

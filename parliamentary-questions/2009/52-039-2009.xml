@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bústaðarskylda hjá festarum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23123" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/39">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bústaðarskyldu hjá festrum, settur Jacob Vestergaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur landsstýrismaðurin, at kravið um bústaðarskyldu á ella í nærumhvørvinum, har festið er, samsvarar nútíðar krøvum og avbjóðingum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann undantak gerast frá bústaðarskylduni, um festi liggur í aðrari oyggj við føstum sambandi, og koyritíðin er undir ein tíma?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er nøkur forðing fyri at góðkenna, at eitt festi er røkt burðardygt, møguliga við húskallahjálp, tá festari røkir annað starv, og talan er um minni bóndabrúk við seyði, ið ikki kann lívbjarga nakrari familju?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Fleiri festarar eru sjómenn og balast stóran part av árinum á havinum. Er tað tá avgerandi, hvar menninir sova, um bert festarin tryggjar, at seyðurin fær eina góða røkt?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at gera greiðari reglur fyri bústaðarskylduni enn tær higartil galdandi?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvat er hægst loyvda fjarstøða millum festi og bústað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sum undantøk frá bústaðarskylduni verður nevnt:
+              § 4.</s>
+            <s>Undantak frá bústaðarskylduni kann verða veitt eftir umsókn, um frástøðan millum bústað festarans og festi er so stutt, og at ferðasambandið er so gott, at mett verður, at festarin á nøktandi hátt kann røkja festið.</s>
+            <s>Stk. 2.</s>
+            <s>Undantak frá bústaðarskylduni kann eisini verða veitt, um umsøkjarin fer uttanlands í arbeiðs- ella útbúgvingarørindum í ávíst tíðarskeIð, sum Búnaðarstovan góðkennir.</s>
+            <s>Stk. 3.</s>
+            <s>Undantak eftir stk. 2 er treytað av, at umsøkjarin sjálvur er ábyrgdari av festinum, og treytað av, at umsøkjarin vísir á persón við neyðugum royndum innan landbúnað, sum skal hava ábyrgdina av festinum, ta tíð, umsøkjarin er burtur.</s>
+          </p>
+          <p>
+            <s>Sum festari so verður tú ofta noyddur at hava annað arbeiði enn seyðahald fyri at kunna forsyrgja tíni familju,og harvið má/kann tú hava ein uppisitara-húskall.</s>
+            <s>Tá kann tað vera praktiskari fyri tey heima at búgva á øðrum staði enn har, festið er.</s>
+          </p>
+          <p>
+            <s>Við útbygda samferðslukervinum, brúm, vegum, tunlum og undirsjóvartunlum, er skjótt at ferðast ímillum.</s>
+            <s>Tí kann tað tykjast órímiligt at krevja av einum minni festibónda við nøkrum fáum seyðum, at hesin skal búgva í nærumhvørvinum.</s>
+            <s>fyri ikki at missa festið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2009-11-24">tann 24. november 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

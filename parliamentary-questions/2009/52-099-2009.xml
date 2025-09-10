@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>At taka ímóti endurnýtsluíløtum og skyldu at endurrinda pant av slíkum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23257" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/99">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um at taka ímóti endurnýtsløtum og skyldu at endurrinda pant av slíkum, settur Anniku Olsen, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er landsstýriskvinnan samd í, at skylda undir revsiábyrgd liggur á øllum teimum, ið innflyta, framleiða og selja drykkir í endurnýtsluíløtum at taka ímóti teimum aftur og lata pant, tvs. endurrinda tað kravda pantið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Merkir hetta, at skyldan er galdandi allar vanligar avgreiðslutíðir?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Kunnu eisini starvsfólk revsast í handlum, ið t.d. avmarka seg til at “taka ímóti fløskum hósdag eftir kl. 3”, ella bert handilsmaður ella virki?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør myndugleiki eigur at taka stig til at fáa møguligar lógbrótarar gjørdar varugar við skyldurnar og síðani revsaðar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Lóg nr. 73 frá 1994 ásetir greiðar skyldur, tá ið ræður um fløskur og onnur íløt at nýta aftur.</s>
+            <s>Handlar skulu krevja pant og lata pant; men meðan nærum ikki kemur fyri, at handlar gloyma at krevja pantið, so er sera vanligt at síggja teir avmarka seg til bert at lata pant aftur nakrar fáar tímar ein ávísan dag í viku ella bert part av degnum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-05-10">10. mai 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

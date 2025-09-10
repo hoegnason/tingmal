@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Visitasjón og gjald fyri krabbameinsvigerð í Kina ella øðrum londum við øðrvísi vgerðarhættum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23048" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/5">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um visitasjón og gjald fyri krabbameinsviðgerð í Kina ella øðrum londum við øðrvísi viðgerðarhættum, settur Aksel V. Johannesen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvat ger landsstýrismaðurin til tess at tryggja, at øll hava somu rættindi til viðgerð fyri ávís sløg av krabbameini í Kina ella øðrum londum, ið bjóða fram øðrvísi viðgerðarhættir enn okkara vanliga nýttu sjúkrahús?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin dømir um, at fólk, ið hava søkt somu viðgerð, hava fingið ymiska visitasjón, har summi eru noktaði fíggjaða viðgerð frá tí almenna, meðan onnur hava fingið játtað?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Kann landsstýrismaðurin greiða frá, um kærur eru komnar hesum viðvíkjandi – og hvat gjørt verður við hesar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ávís undangongufólk hava fingið lagað tað so, at fólk við ávísum slagi av krabbameini, hava fingið játtan og visitasjón til viðgerð í eitt nú Kina, ið bjóðar øðrvísi viðgerðarhættir.</s>
+          </p>
+          <p>
+            <s>Síðani hava verið greinar í fjølmiðlunum, og frætt hevur verið frá fleiri føroyingum, ið hava leitað sær hesa heilsubót.</s>
+          </p>
+          <p>
+            <s>Hetta er sera stórt stig hjá sjúklingi og familju, sum frammanundan eru í sera harðari støðu.</s>
+          </p>
+          <p>
+            <s>Tí er sjálvandi neyðugt - og tað var hugmyndin hjá undangongufólkunum - at greiðar og líkar mannagongdir eru fyri visitasjónini - og at fólk ikki verða sett í fíggjarligan ótryggleika og skulu berjast við eitt skrivstovuveldi í slíkari støðu.</s>
+          </p>
+          <p>
+            <s>Tískil verður spurt, hvussu gongdin hevur verið, og um fólk hava fingið somu rættindi - eins og spurt verður um kærur eru komnar.</s>
+            <s>Og landsstýrismaðurin verður biðin at greina, hvussu hann tryggjar øllum somur rættindi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <br /><date when="2009-08-27">27. august 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

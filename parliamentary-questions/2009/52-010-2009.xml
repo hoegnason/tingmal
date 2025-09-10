@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Barsilsskipanin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bergtóra Høgnadóttir Joensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23058" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/10">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bergtóra Høgnadóttir Joensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um barsilsskipanina settur Johan Dahl, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar ítøkiligar ætlanir hevur landsstýrismaðurin um at leingja barnsburðarfarloyvið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru ætlanir um at gera eina veruliga pápakvotu?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru ætlanir um eina fleksiblari barsilsskipan, enn hana vit hava í dag?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í verandi samgonguskjalið stendur: “Barsilsskipanin skal framhaldandi betrast fyri foreldrini og gerast smidligari. Miðast skal ímóti, at hon verður longd upp í eitt ár”.</s>
+          </p>
+          <p>
+            <s>Nú, eitt lítið ár eftir, at hesi orð vórðu fest á blað, hava vit ikki hoyrt eitt kis um, hvørjar ítøkiligar ætlanir samgongan hevur, í mun til hesi føgru orð.</s>
+            <s>Tí er áhugavert at hoyra um ætlanirnar hjá samgonguni.</s>
+            <s>Í dag er barnsburðarfarloyvið 32 vikur - tað eru ikki allar kommunur, sum kunnu bjóða einum barni ansing, tá barnið er 32 vikur.</s>
+          </p>
+          <p>
+            <s>Foreldrini ynskja ofta, at annar teirra er heima hjá barninum, til tað er eitt ár.</s>
+            <s>Men tað ber í mongum førum ikki til, um bert annar hevur eina inntøku - fyri ikki at tosa um, tá talan er um stakar uppihaldarar.</s>
+          </p>
+          <p>
+            <s>Kanningar hava víst, at pápar, sum eru í barnsburðarfarloyvi fáa eitt tættari samband við barn sítt, og at færri hjúnaskilnaðir eru í teimum familjunum, har pápar hava verið í barnsburðarfarloyvi.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin í vinnumálum varðar eisini av javnstøðumálum.</s>
+            <s>Pápakvotan er eisini áhugaverd í júst hesum sambandi.</s>
+            <s>Við pápakvotu fingu pápar betri umstøður at vera saman við pinkubørnum sínum, enn teir hava í dag.</s>
+            <s>Hetta kundi avgjørt hjálpt smábarnamammum á arbeiðsmaknaðinum.</s>
+            <s>Enn eitt dømi um, at bæði kyn fáa gagn av øktari javnstøðu.</s>
+          </p>
+          <p>
+            <s>Harnæst spurningurin um eina fleksibla barsilsskipan.</s>
+            <s>Aðrastaðni eru góðar royndir við fleksiblu barsilsskipanini.</s>
+            <s>Tað her verður hugsað um, er ein skipan, har foreldrini snikka sær barnsburðarfarloyvið saman eftir júst teirra tørvi.</s>
+          </p>
+          <p>
+            <s><hi rend="bold">Dømi</hi>: Um møguleiki var fyri bansburðarfarloyvi í 1 ár, kundu foreldrini til dømis gjørt av at vera heima hjá barninum í 10 mánaðir og síðani arbeiddi annar bert hálva tíð í 4 mánaðir.</s>
+            <s>Teir 4 mánaðirnar hevði talan verið um hálvt gjald úr barsilsskipanini og hálva løn frá arbeiðsgevara.</s>
+            <s>Tilsamans var tó talan um 1 árs útgjald úr barsilsskipanini í krónum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2009-09-02">tann 2. september 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bergtóra Høgnadóttir Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

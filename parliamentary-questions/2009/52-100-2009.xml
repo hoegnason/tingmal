@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lemmatrolarar í bólki I</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/23259" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2009/100">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um lemmatrolarar í bólki I, settur, Jacob Vestergaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er landsstýrismaðurin komin til endaliga niðurstøðu um, hvørt tað sambært lógini um vinnuligan fiskiskap er heimiðlað lemmatrolarum í bólki 1 at partrola?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Fyriliggja løgfrøðilig upprit frá umsiting og/ella øðrum løgfrøðingum, sum lýsa spurningin?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørja nýggja haldgóða vitan, sum sambært Fiskimálaráðnum ikki var tøk frammanundan, hevur Fiskimálaráðið ognað sær í sambandi við, at m/tr Edna og m/tr Beinisvørð fingu útskrivað royndarloyvir at partrola?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Siga royndarúrslitini nakað um veiðievni og veiðitrýst á upsan og onnur fiskasløg, nú partrolað verður, í mun til fiskiskap hjá somu skipum við lemmatroli?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hevur Havstovan gjørt upplegg út frá royndunum, soleiðis sum landsstýrismaðurin boðaði frá fór at verða gjørt?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hevur landsstýrismaðurin út frá úrslitunum av royndunum og møguligum uppleggi frá Havstovuni, grundað á royndirnar hjá m/tr Ednu og m/tr Beinisvørði, tikið endaliga støðu til, hvussu hann ætlar at skipa fiskiskapin hjá lemmatrolarum í framtíðini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Mangur mundi undrast, tá lemmatrolarar í bólki 1, sum eru uttan fyri fiskidagaskipanina, brádliga fyrr í ár fóru at partrola eftir upsa eins og partrolarar í bólki 2 .</s>
+          </p>
+          <p>
+            <s>Hvørki landsstýrismaðurin ella Fiskiveiðieftirlitið lótu við seg koma, men lótu fiskiskapin við partroli hjá lemmatrolarunum halda fram.</s>
+            <s>Grundgevingin var sambært framanfyrinevndu, at ivi var um, hvørt lógin um vinnuligan fiskiskap kundi forða hesum.</s>
+            <s>Tann ivin, helt landsstýrismaðurin, átti at komið lemmatrolarum til góða í tíðarskeiðnum, Fiskimálaráðið fór at nýta til at kanna, hvussu íkomna ivamál rættast varð handfarið.</s>
+          </p>
+          <p>
+            <s>Í sambandi við spurningin um lemmatrolarar og partrol hevur Fiskimálaráðið somuleiðis latið royndarloyvir til lemmatrolarar at partrola.</s>
+            <s>Endamálið við hesum royndum er sambært landsstýrismanninum (eEndurgivið úr svari frá landsstýrismanninum til spurning um sama mál frá øðrum løgtingslimi): “Yvirskipaða ætlanin við royndarloyvunum til lemmatrolararnar at partrola er at útvega nýggja og haldgóða vitan og upplýsingar, sum ikki eru tøkir frammanundan. Hetta verður gjørt við støði í uppleggi frá Havstovuni. Tølini frá royndunum kunnu verða grundarlag undir viðgerð av spurningum um veiðievni, veiðitrýst, skipan av fiskiskapinum hjá lemmatrolarum frameftir o.a.m.”</s>
+          </p>
+          <p>
+            <s>Nú rúm tíð er fráliðin, síðan spurningurin við lemmatrolarum og partroli stakk seg upp, og Fiskimálaráðið tí hevur havt góðar stundir at viðgera spurningin, verður hesin spurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-05-25">25. mai 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
