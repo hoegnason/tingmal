@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48096" />
+          <ref target="https://www.logting.fo/documents/48096"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Makrelkvotur</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -67,34 +66,34 @@
             <item xml:id="q3" type="question-item">Um ikki, við hvørjum grundgevingum velur landsstýrismaðurin ikki at geva áðurnevndu økjum ein møguleika at menna vinnuvirksemi grundað á nýggja tilfeingið av makreli?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Landsstýrismaðurin í fiskivinnumálum hevur boðað frá, at makrelkvoturnar verða hækkaðar, nú eingin strandalandasemja er í eygsjón í ár.</s>
+            <s xml:id="cagyys4ynx">Landsstýrismaðurin í fiskivinnumálum hevur boðað frá, at makrelkvoturnar verða hækkaðar, nú eingin strandalandasemja er í eygsjón í ár.</s>
           </p>
           <p>
-            <s>Harvið áseta strandalondini sína egnu kvotu, og taka ikki hædd fyri tilmælunum frá ráðgevandi fiskifrøðini.</s>
+            <s xml:id="bniawtqkxp">Harvið áseta strandalondini sína egnu kvotu, og taka ikki hædd fyri tilmælunum frá ráðgevandi fiskifrøðini.</s>
           </p>
           <p>
-            <s>Fyri <placeName>Føroyar</placeName> merkir tað, at nýtt tilfeingi svarandi til 60.000 tons, ella eitt avreiðingarvirði á oman fyri 300 mió.kr. afturat, verður tøkt hjá føroyskari fiskivinnu at fiska.</s>
+            <s xml:id="swgt2ugr5m">Fyri <placeName>Føroyar</placeName> merkir tað, at nýtt tilfeingi svarandi til 60.000 tons, ella eitt avreiðingarvirði á oman fyri 300 mió.kr. afturat, verður tøkt hjá føroyskari fiskivinnu at fiska.</s>
           </p>
           <p>
-            <s>Rættindini til havsins ríkidømi eru landsins ogn, og sum er verða tey býtt sera ymiskt millum landsins øki.</s>
+            <s xml:id="gzdzcuypqb">Rættindini til havsins ríkidømi eru landsins ogn, og sum er verða tey býtt sera ymiskt millum landsins øki.</s>
           </p>
           <p>
-            <s>Serliga loypir í eygað <placeName>Sandoyggin</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>, sum ikki hava fingið sín rímiliga lut av tilfeinginum.</s>
-            <s>Hetta kann vera óheppið fyri hesi øki, havandi í huga, at vit øll eiga fiskin, sum í havi okkara svimur.</s>
+            <s xml:id="vccgdltosc">Serliga loypir í eygað <placeName>Sandoyggin</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>, sum ikki hava fingið sín rímiliga lut av tilfeinginum.</s>
+            <s xml:id="l3tk3rfddj">Hetta kann vera óheppið fyri hesi øki, havandi í huga, at vit øll eiga fiskin, sum í havi okkara svimur.</s>
           </p>
           <p>
-            <s>Nú er eitt gylt høvi hjá landsstýrismanninum at menna uppsjóvarfiskiskap í <placeName>Sandoynni</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>; tí hesar spurningar.</s>
+            <s xml:id="lvi4llc33n">Nú er eitt gylt høvi hjá landsstýrismanninum at menna uppsjóvarfiskiskap í <placeName>Sandoynni</placeName>, <placeName>Norðstreymoy</placeName>, og <placeName>Suðurstreymoy</placeName>; tí hesar spurningar.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-11">11. juni 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-06-11">11. juni 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/p4y5xjzy">Páll á Reynatúgvu</persName>

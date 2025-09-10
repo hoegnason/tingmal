@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-04" />
+        <date when="2025-09-04"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/188" />
+          <ref target="https://www.logting.fo/documents/188"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,16 +39,16 @@
   </teiHeader>
   <text>
     <body>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/9">
         <div type="questioner">
           <head rend="bold">
-            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen<lb/><roleName>løgtingsmaður</roleName></persName>
           </head>
         </div>
 
-        <space type="vertical" />
-        <space type="vertical" />
+        <space type="vertical"/>
+        <space type="vertical"/>
 
         <div>
           <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
@@ -57,35 +56,35 @@
         <div type="respondent">
           <head rend="bold">Fyrispurningur um <placeName type="causeway">byrginginaum Haraldssund</placeName>, settur <persName ref="https://tingdata.fo/person/kykjv24i"><roleName>landsstýrismanninum í fíggjarmálum</roleName>, Jørgeni Niclasen</persName> (at svara skrivliga eftir TS §52a).</head>
         </div>
-        <space />
+        <space/>
         <div type="question-list">
           <list type="ordered">
             <item xml:id="q1" type="question-item">Hevur landsstýrismaðurin ætlanir um at gera ábøtur á <placeName type="causeway">byrgingina um Haraldssund</placeName>?</item>
             <item xml:id="q2" type="question-item">Hevur landsstýrismaðurin ætlanir um at brúka grót frá <placeName type="tunnel">tunlunum Norður um Fjall</placeName> til <placeName type="causeway">byrgingina um Haraldssund</placeName>?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
-          <space type="vertical" />
+          <space type="vertical"/>
           <p>
-            <s><placeName type="causeway">Byrgingin um Haraldssund</placeName> hevur verið eitt afturvendandi evni á politisku dagsskránni seinastu mongu árini, men framvegis mugu vit staðfesta, at henda farleið als ikki er tíðarhóskandi.</s>
-            <s>Nakrar ábøtur eru gjørdar gjøgnum árini, men framvegis er langt á mál.</s>
-            <s><orgName>Landsverk</orgName> mælir í Samferðsluætlanini til, at arbeiðið við at tryggja farleiðina fer í gongd beinanvegin.</s>
-            <s>Sum spyrjarin hevur skilt á <orgName>Landsverki</orgName> er ikki í stóran mun neyðugt at brúka tunnilsgrót til verkætlanina, sum ætlanin er at gera, tí ætlanin er at endurnýta alt tilfarið frá verandi byrging til nýggju byrgingina, og sambært <orgName>Landsverki</orgName> er einans tørvur á heilt stórum dekkgróti afturat tilfarinum, sum longu er í byrgingini.</s>
-            <s>Tað kann tó vera ein fyrimunur at hækka byrgingina eitt sindur meira enn <orgName>Landsverk</orgName> upprunaliga hevði ætlað, og til tað arbeiðið kann tunnilsgrót brúkast.</s>
-            <s><placeName type="causeway">Byrgingin um Haraldssund</placeName> treingir til at verða dagførd, og nú arbeiðið við <placeName type="tunnel">tunlunum Norður um Fjall</placeName> fer í gongd í nærmastu framtíð, hevði verið upplagt at tryggjað sær ein part av grótinum til hetta arbeiðið.</s>
-            <s>Sum er kenna fólk seg ikki trygg at koyra eftir hesi farleið í ringum veðri vegna mikið sjórok, og hvørki gongu- ella súkklubreyt er á leiðini.</s>
-            <s>Tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="n3sepa2wyy"><placeName type="causeway">Byrgingin um Haraldssund</placeName> hevur verið eitt afturvendandi evni á politisku dagsskránni seinastu mongu árini, men framvegis mugu vit staðfesta, at henda farleið als ikki er tíðarhóskandi.</s>
+            <s xml:id="vfnvugvh7l">Nakrar ábøtur eru gjørdar gjøgnum árini, men framvegis er langt á mál.</s>
+            <s xml:id="ouqnggtf66"><orgName>Landsverk</orgName> mælir í Samferðsluætlanini til, at arbeiðið við at tryggja farleiðina fer í gongd beinanvegin.</s>
+            <s xml:id="glb5ffegle">Sum spyrjarin hevur skilt á <orgName>Landsverki</orgName> er ikki í stóran mun neyðugt at brúka tunnilsgrót til verkætlanina, sum ætlanin er at gera, tí ætlanin er at endurnýta alt tilfarið frá verandi byrging til nýggju byrgingina, og sambært <orgName>Landsverki</orgName> er einans tørvur á heilt stórum dekkgróti afturat tilfarinum, sum longu er í byrgingini.</s>
+            <s xml:id="cnch2inxpa">Tað kann tó vera ein fyrimunur at hækka byrgingina eitt sindur meira enn <orgName>Landsverk</orgName> upprunaliga hevði ætlað, og til tað arbeiðið kann tunnilsgrót brúkast.</s>
+            <s xml:id="qfpdnvgzrb"><placeName type="causeway">Byrgingin um Haraldssund</placeName> treingir til at verða dagførd, og nú arbeiðið við <placeName type="tunnel">tunlunum Norður um Fjall</placeName> fer í gongd í nærmastu framtíð, hevði verið upplagt at tryggjað sær ein part av grótinum til hetta arbeiðið.</s>
+            <s xml:id="bkxdy6mjsc">Sum er kenna fólk seg ikki trygg at koyra eftir hesi farleið í ringum veðri vegna mikið sjórok, og hvørki gongu- ella súkklubreyt er á leiðini.</s>
+            <s xml:id="antjcnnjyw">Tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2020-08-24">24. august 2020</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2020-08-24">24. august 2020</date></hi>
             </dateline>
-            <space type="vertical" />
+            <space type="vertical"/>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
             </signed>

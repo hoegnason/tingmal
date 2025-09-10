@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48008" />
+          <ref target="https://www.logting.fo/documents/48008"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Koppseting</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -66,45 +65,45 @@
             <item xml:id="q2" type="question-item">Heldur løgmaður, at útmeldingin hjá <persName><roleName>landsstýrismanninum</roleName>, Jenisi av Rana</persName>, kann fáa óhepnar fylgjur fyri koppsetingartilgongdina?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s><persName>Jenis av Rana, <roleName>landsstýrismaður</roleName></persName>, segði við Vágaportalin í gjár, at hann fer ikki at lata seg koppseta fyri koronu.</s>
-            <s>Óvissurnar eru ov nógvar, og hann kennir seg ikki nóg tryggan, sigur hann.</s>
-            <s>Hesin sami landsstýrismaður hevur sjálvur staðið á beinleiðis sjónvarpaðum tíðindafundum, har landsstýrið hevur stongt <placeName>Føroyar</placeName> fyri at verja fólkið móti koronu.</s>
-            <s>Hetta hevur verið dýrt peningaliga og menniskjaliga - ikki minst fyri tey mongu eldru, sum hava sitið avbyrgd í langa tíð.</s>
+            <s xml:id="bx2d5n6dhr"><persName>Jenis av Rana, <roleName>landsstýrismaður</roleName></persName>, segði við Vágaportalin í gjár, at hann fer ikki at lata seg koppseta fyri koronu.</s>
+            <s xml:id="n7ihtbcj7u">Óvissurnar eru ov nógvar, og hann kennir seg ikki nóg tryggan, sigur hann.</s>
+            <s xml:id="gfexncly7o">Hesin sami landsstýrismaður hevur sjálvur staðið á beinleiðis sjónvarpaðum tíðindafundum, har landsstýrið hevur stongt <placeName>Føroyar</placeName> fyri at verja fólkið móti koronu.</s>
+            <s xml:id="ndknlx2bw7">Hetta hevur verið dýrt peningaliga og menniskjaliga - ikki minst fyri tey mongu eldru, sum hava sitið avbyrgd í langa tíð.</s>
           </p>
           <p>
-            <s>Tilmælini frá heilsumyndugleikunum eru greið.</s>
-            <s>Skulu vit basa koronu og fáa okkara frælsi aftur er neyðugt, at vit koppseta okkum, so vit sum samfelag fáa floksimmunitet.</s>
+            <s xml:id="k3uduulx6g">Tilmælini frá heilsumyndugleikunum eru greið.</s>
+            <s xml:id="rbx7b5prvu">Skulu vit basa koronu og fáa okkara frælsi aftur er neyðugt, at vit koppseta okkum, so vit sum samfelag fáa floksimmunitet.</s>
           </p>
           <p>
-            <s>Sambært serfrøðini er altíð ein váði við koppsetingum, men váðin er lítil.</s>
-            <s>Og nú tá tey gomlu, sjúku og veiku hava latið seg koppsett og ofrað sítt fyri felagsskapin, so kemur landsstýrismaðurin sum ketta úr høvdatrog og sigur teimum, at tað, tey hava gjørt, er so mikið vandamikið, at hann sjálvur ikki ætlar at gera tað sama.</s>
-            <s>Hann hevur ongar ætlanir um at ofra seg sjálvan fyri felagsskapin.</s>
+            <s xml:id="w4lbidsqwf">Sambært serfrøðini er altíð ein váði við koppsetingum, men váðin er lítil.</s>
+            <s xml:id="q2wtx4t73i">Og nú tá tey gomlu, sjúku og veiku hava latið seg koppsett og ofrað sítt fyri felagsskapin, so kemur landsstýrismaðurin sum ketta úr høvdatrog og sigur teimum, at tað, tey hava gjørt, er so mikið vandamikið, at hann sjálvur ikki ætlar at gera tað sama.</s>
+            <s xml:id="aw6k33vdy6">Hann hevur ongar ætlanir um at ofra seg sjálvan fyri felagsskapin.</s>
           </p>
           <p>
-            <s>Sambært okkara heilsumyndugleikum og heimsheilsustovninum <orgName>WHO</orgName> er vandin at doyggja ella verða raktur av langtíðarárinum av koronu nógvar ferðir størri enn ein teoretiskur møguleiki fyri at fáa álvarsom langtíðarárin av koppseting.</s>
+            <s xml:id="voajh7exls">Sambært okkara heilsumyndugleikum og heimsheilsustovninum <orgName>WHO</orgName> er vandin at doyggja ella verða raktur av langtíðarárinum av koronu nógvar ferðir størri enn ein teoretiskur møguleiki fyri at fáa álvarsom langtíðarárin av koppseting.</s>
           </p>
           <p>
-            <s>Um fólk gera eins og landsstýrismaðurin ger, høvdu kostirnir verið tvinnir.</s>
-            <s>Annaðhvørt avbyrging av okkara veikastu og ógvusligum stongsli av samfelagnum í nógv ár, ella latið koronusmittuna ferðast frítt í samfelagnum við teimum ógvusligu fylgjum, sum tað nú einaferð hevði havt.</s>
-            <s>Avgerðin hjá landsstýrismanninum - og at hann boðar frá henni alment - ger sjálvandi, at onnur kunnu fara at aftra seg við koppseting.</s>
+            <s xml:id="xkcaeismbu">Um fólk gera eins og landsstýrismaðurin ger, høvdu kostirnir verið tvinnir.</s>
+            <s xml:id="e4lh4bm5ut">Annaðhvørt avbyrging av okkara veikastu og ógvusligum stongsli av samfelagnum í nógv ár, ella latið koronusmittuna ferðast frítt í samfelagnum við teimum ógvusligu fylgjum, sum tað nú einaferð hevði havt.</s>
+            <s xml:id="kjz7r2zlvn">Avgerðin hjá landsstýrismanninum - og at hann boðar frá henni alment - ger sjálvandi, at onnur kunnu fara at aftra seg við koppseting.</s>
           </p>
           <p>
-            <s>Her er ein landsstýrismaður, ið beinleiðis gongur móti tilmælum, sum okkara og alheimsserfrøðin innan heilsuøkið mælir til.</s>
-            <s>Við síni útmelding gongur landsstýrismaðurin ímóti tilmælunum hjá bæði serfrøðini og landsstýrinum sjálvum.</s>
+            <s xml:id="ia6tyf234g">Her er ein landsstýrismaður, ið beinleiðis gongur móti tilmælum, sum okkara og alheimsserfrøðin innan heilsuøkið mælir til.</s>
+            <s xml:id="gx2mv47kzi">Við síni útmelding gongur landsstýrismaðurin ímóti tilmælunum hjá bæði serfrøðini og landsstýrinum sjálvum.</s>
           </p>
           <p>
-            <s>Tí hesar spurningar til løgmann.</s>
+            <s xml:id="hcrutdg4ha">Tí hesar spurningar til løgmann.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-20">20. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-20">20. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>

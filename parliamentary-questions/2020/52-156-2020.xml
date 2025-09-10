@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48040" />
+          <ref target="https://www.logting.fo/documents/48040"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,27 +57,27 @@
         </div>
         <div type="subject">
           <head>Evni: </head><orgName>Stýrið fyri Bústaðir</orgName></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">Fyriliggur nakað frámæli frá umsitingini/aðalstjóranum í <orgName>Almannamálaráðnum</orgName> viðvíkjandi valinum av stýrinum í <orgName>Bústøðum</orgName>?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Landsstýrismaðurin hevur svarað løgtingsfólkum, at hon ætlar ikki at upplýsa fyri løgtingsfólkum um innanhýsis skjøl hjá fyrisitingini viðvíkjandi valinum av nýggjum stýri fyri <orgName>Bústaðir</orgName>.</s>
-            <s>Uppgávan hjá tingfólkum er m.a. at hava eftirlit við, hvussu landsstýrisfólk umsita málsøki síni.</s>
-            <s>Tí eiga tingfólk at fáa at vita, um tað liggur frámæli frá umsitingini/aðalstjóranum í <orgName>Almannamálaráðnum</orgName> í málinum um val av einum ella fleiri limum í nýggja stýrinum fyri <orgName>Bústaðir</orgName>.</s>
+            <s xml:id="e6a55dwxtz">Landsstýrismaðurin hevur svarað løgtingsfólkum, at hon ætlar ikki at upplýsa fyri løgtingsfólkum um innanhýsis skjøl hjá fyrisitingini viðvíkjandi valinum av nýggjum stýri fyri <orgName>Bústaðir</orgName>.</s>
+            <s xml:id="w2mrm4lek7">Uppgávan hjá tingfólkum er m.a. at hava eftirlit við, hvussu landsstýrisfólk umsita málsøki síni.</s>
+            <s xml:id="xyfmwqz2n2">Tí eiga tingfólk at fáa at vita, um tað liggur frámæli frá umsitingini/aðalstjóranum í <orgName>Almannamálaráðnum</orgName> í málinum um val av einum ella fleiri limum í nýggja stýrinum fyri <orgName>Bústaðir</orgName>.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-28">28. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-28">28. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lrds34m2">Beinta Løwe Jacobsen</persName>

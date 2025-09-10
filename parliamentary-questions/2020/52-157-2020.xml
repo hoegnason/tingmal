@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/48044" />
+          <ref target="https://www.logting.fo/documents/48044"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Felags móttøkustøð av fløskum og øðrum íløtum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -67,24 +66,24 @@
             <item xml:id="q3" type="question-item">Tekur landsstýrismaðurin undir við at fáa eina felags móttøkuskipan fyri fløskur, og at hesar móttøkuskipanir verða skipaðar kring landið?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað er ein sannroynd, at jú lættari man sum borgari kann sleppa av við rusk, tómar fløskur og íløt v.m., jú meiri fyribyrgir man, at hetta endar úti í náttúruni.</s>
-            <s>Borgarar gera javnan vart við, hvussu lítið brúkaravinarlig fløskumóttøkuskipanin er í <placeName>Føroyum</placeName>, at man er noydd/noyddur at renna frá "Peri til Pól" fyri at sleppa av við fløskurnar.</s>
-            <s>Soleiðis sum skipanin er sett saman taka teir handlar, ið hava eina fløskumóttóku bert ímóti fløskum, sum handilin sjálvur seluruh.</s>
-            <s>Úrslitið av hesum er, at antin verða fløskurnar settar uttan fyri fløskumóttøkuna, í øðrum lagi koyrdar á Brennistøðina og í triðja og ringasta føri enda tær úti í náttúruni.</s>
-            <s>Skilagott hevði verið at fingið eina brúkaravinarliga skipan, har borgarin kann lata allar sínar fløskur og íløt inn á einum stað.</s>
-            <s>Tí verða hesir spuringar settir landsstýrismanninum.</s>
+            <s xml:id="umffgrhwft">Tað er ein sannroynd, at jú lættari man sum borgari kann sleppa av við rusk, tómar fløskur og íløt v.m., jú meiri fyribyrgir man, at hetta endar úti í náttúruni.</s>
+            <s xml:id="wbejr7wnxx">Borgarar gera javnan vart við, hvussu lítið brúkaravinarlig fløskumóttøkuskipanin er í <placeName>Føroyum</placeName>, at man er noydd/noyddur at renna frá "Peri til Pól" fyri at sleppa av við fløskurnar.</s>
+            <s xml:id="vyaj4ikwu2">Soleiðis sum skipanin er sett saman taka teir handlar, ið hava eina fløskumóttóku bert ímóti fløskum, sum handilin sjálvur seluruh.</s>
+            <s xml:id="gja5bp7xm4">Úrslitið av hesum er, at antin verða fløskurnar settar uttan fyri fløskumóttøkuna, í øðrum lagi koyrdar á Brennistøðina og í triðja og ringasta føri enda tær úti í náttúruni.</s>
+            <s xml:id="ox3b67ftsk">Skilagott hevði verið at fingið eina brúkaravinarliga skipan, har borgarin kann lata allar sínar fløskur og íløt inn á einum stað.</s>
+            <s xml:id="ferwg3bxaq">Tí verða hesir spuringar settir landsstýrismanninum.</s>
           </p>
-          <p></p>
+          <p/>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-28">28. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-28">28. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>

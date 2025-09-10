@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/46999" />
+          <ref target="https://www.logting.fo/documents/46999"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,25 +39,25 @@
   </teiHeader>
   <text>
     <body>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/101">
         <div type="questioner">
           <head rend="bold">
-            <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen<lb/><roleName>løgtingsmaður</roleName></persName>
           </head>
         </div>
 
-        <space type="vertical" />
-        <space type="vertical" />
+        <space type="vertical"/>
+        <space type="vertical"/>
 
         <div>
           <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div type="respondent">
           <head rend="bold">Fyrispurningur umlandingar uttanlands, settur <persName ref="https://tingdata.fo/person/lvnq7xic"><roleName>landsstýrismanninum í fiskivinnumálum</roleName>, Jacob Vestergaard</persName> (at svara skrivliga eftir TS §52 a)</head>
         </div>
-        <space />
+        <space/>
         <div type="question-list">
           <list type="ordered">
             <item xml:id="q1" type="question-item">Hvussu oftani hevur undantak verið givið fyri landingum uttanlands í lógini um sjófeingi, og í hvørjum førum?</item>
@@ -66,35 +65,35 @@
             <item xml:id="q3" type="question-item">Um ja, hevur landsstýrismaðurin ætlanir um, at tað verður lógarfest, hvussu nógv kann landast uttanlands?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="underline">Viðmerkingar:</head>
           <p>
-            <s>Tá bæði núverandi og undanfarna <name type="law">lóg um sjófeingi</name> vórðu samtyktar, hava ásetingarnar viðvíkjandi landing verið soleiðis, at øll veiða skal landast um føroyskan bryggjukant.</s>
-            <s>Tó kann landsstýrismaðurin í kunngerð geva undantøk í ymsum førum.</s>
+            <s xml:id="rqxh3rffcr">Tá bæði núverandi og undanfarna <name type="law">lóg um sjófeingi</name> vórðu samtyktar, hava ásetingarnar viðvíkjandi landing verið soleiðis, at øll veiða skal landast um føroyskan bryggjukant.</s>
+            <s xml:id="nuhhgwrt4j">Tó kann landsstýrismaðurin í kunngerð geva undantøk í ymsum førum.</s>
           </p>
           <p>
-            <s>Í <name type="law">lógini um vinnuligan fiskiskap</name> kundi man avreiða 25% av sínari veiðu uttanlands hvørt kvarttal.</s>
+            <s xml:id="jfexj7gypo">Í <name type="law">lógini um vinnuligan fiskiskap</name> kundi man avreiða 25% av sínari veiðu uttanlands hvørt kvarttal.</s>
           </p>
           <p>
-            <s>Lóggávan hevur verið galdandi í yvir eitt ár, og tí hevði verið áhugavert at sæð, hvussu núverandi áseting hevur verið handfarin higartil.</s>
+            <s xml:id="g67epcs37z">Lóggávan hevur verið galdandi í yvir eitt ár, og tí hevði verið áhugavert at sæð, hvussu núverandi áseting hevur verið handfarin higartil.</s>
           </p>
           <p>
-            <s>At núverandi lóggáva viðvíkjandi landingum uttanlands verður stýrd umvegis kunngerð, kann hava sínar vansar.</s>
-            <s>Landsstýrisfólk kunnu vera ymisk, við ymsum sjónarmiðum, eisini tá tað kemur til, hvussu grein 41 í lógini um sjófeingi skal handfarast.</s>
-            <s>Tí kann tað eisini vera ymiskt, nær skip fáa undantøk til landing uttanlands.</s>
+            <s xml:id="wo5qogowqm">At núverandi lóggáva viðvíkjandi landingum uttanlands verður stýrd umvegis kunngerð, kann hava sínar vansar.</s>
+            <s xml:id="ic5u44x2fm">Landsstýrisfólk kunnu vera ymisk, við ymsum sjónarmiðum, eisini tá tað kemur til, hvussu grein 41 í lógini um sjófeingi skal handfarast.</s>
+            <s xml:id="rnadrro5al">Tí kann tað eisini vera ymiskt, nær skip fáa undantøk til landing uttanlands.</s>
           </p>
           <p>
-            <s>Tí hevði tað verið áhugavert at vitað, um landsstýrismaðurin hevur ætlanir um at broyta lógarásetingina viðvíkjandi landingum, og um tað verður lógarfest, at landingar kunnu gerast uttanlands.</s>
-            <s>Sum dømi kann nevnast, at tað kann vera eitt hámark á 25% yvir alt árið, har tú kanst landa uttanlands.</s>
-            <s>Hetta fyri at geva skipi og manning ein ventil, har tey altíð kunnu tryggja sær tann besta prísin fyri veiðuna.</s>
+            <s xml:id="tnkvvncaa5">Tí hevði tað verið áhugavert at vitað, um landsstýrismaðurin hevur ætlanir um at broyta lógarásetingina viðvíkjandi landingum, og um tað verður lógarfest, at landingar kunnu gerast uttanlands.</s>
+            <s xml:id="exxxuehzqy">Sum dømi kann nevnast, at tað kann vera eitt hámark á 25% yvir alt árið, har tú kanst landa uttanlands.</s>
+            <s xml:id="b7bg3wibqe">Hetta fyri at geva skipi og manning ein ventil, har tey altíð kunnu tryggja sær tann besta prísin fyri veiðuna.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Løgtingi</name>, <br /><date when="2021-03-11">11. mars 2021</date></hi>
+                <name type="place">Løgtingi</name>, <br/><date when="2021-03-11">11. mars 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47018" />
+          <ref target="https://www.logting.fo/documents/47018"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -41,24 +40,24 @@
   <text>
     <body>
       <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/103">
-        <pb n="1" />
+        <pb n="1"/>
         <div type="questioner">
           <head rend="bold">
-            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen<lb/><roleName>løgtingsmaður</roleName></persName>
           </head>
         </div>
 
-        <space type="vertical" />
-        <space type="vertical" />
+        <space type="vertical"/>
+        <space type="vertical"/>
 
         <div>
           <head rend="bold">Fyrispurningur eftir Tingskipanini § 52 a</head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div type="respondent">
           <head rend="bold">Fyrispurningur um ferðaætlanina á <name type="route">leið 400</name>, settur <persName ref="https://tingdata.fo/person/kykjv24i">Jørgeni Niclasen, <roleName>landsstýrismanni við fíggjarmálum</roleName></persName> (at svara skrivliga eftir TS §52 a)</head>
         </div>
-        <space />
+        <space/>
 
         <div type="question-list">
           <head>Spurningar: </head>
@@ -68,29 +67,29 @@
             <item xml:id="q3" type="question-item">Fer landsstýrismaðurin at gera nakað fyri at fáa eitt betri samband gjøgnum tunnilin?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Fyri mong var tað eitt vónbrot at síggja endurskoðaðu ferðaætlanina hjá <orgName>SSL</orgName>, nú farleiðin millum <placeName>Klaksvík</placeName> og <placeName>Tórshavn</placeName> er eftirmett.</s>
-            <s>Ferðaætlanin er skipað soleiðis, at <name type="route">Leið 400</name> aftur koyrir gomlu farleiðina til <placeName>Havnar</placeName> gjøgnum <placeName>Sundalagið</placeName> og ein snarbussur, <name type="route">Leið 401</name>, er settur í koyring tvær ferðir um dagin - kl. 6.25 úr <placeName>Klaksvík</placeName> og úr <placeName>Havn</placeName> kl. 16.15.</s>
+            <s xml:id="gvjo6soabt">Fyri mong var tað eitt vónbrot at síggja endurskoðaðu ferðaætlanina hjá <orgName>SSL</orgName>, nú farleiðin millum <placeName>Klaksvík</placeName> og <placeName>Tórshavn</placeName> er eftirmett.</s>
+            <s xml:id="urexk4pval">Ferðaætlanin er skipað soleiðis, at <name type="route">Leið 400</name> aftur koyrir gomlu farleiðina til <placeName>Havnar</placeName> gjøgnum <placeName>Sundalagið</placeName> og ein snarbussur, <name type="route">Leið 401</name>, er settur í koyring tvær ferðir um dagin - kl. 6.25 úr <placeName>Klaksvík</placeName> og úr <placeName>Havn</placeName> kl. 16.15.</s>
           </p>
           <p>
-            <s>Nýggja ferðaætlanin er góð fyri tey, ið búgva í <placeName>Sundalagnum</placeName>, og sum nærum mistu sambandið til <placeName>Havnar</placeName>, tá <placeName type="tunnel">Eysturoyartunnilin</placeName> varð tikin í nýtslu.</s>
-            <s>Men hon man vera eitt afturstig fyri tey í norður- og eysturøkinum, ið hava brúk fyri bussi at koma til <placeName>Havnar</placeName> aðrar tíðir á degnum.</s>
+            <s xml:id="fzztijmerd">Nýggja ferðaætlanin er góð fyri tey, ið búgva í <placeName>Sundalagnum</placeName>, og sum nærum mistu sambandið til <placeName>Havnar</placeName>, tá <placeName type="tunnel">Eysturoyartunnilin</placeName> varð tikin í nýtslu.</s>
+            <s xml:id="qgq35s7ltv">Men hon man vera eitt afturstig fyri tey í norður- og eysturøkinum, ið hava brúk fyri bussi at koma til <placeName>Havnar</placeName> aðrar tíðir á degnum.</s>
           </p>
           <p>
-            <s>Nýggja farleiðin kann hava við sær, at fleiri velja bussin frá og brúka bil ístaðin.</s>
-            <s>Tað elvir til meiri ferðslu á vegunum og størri útlát av vakstrarhúsgassum.</s>
-            <s>Um fleiri túrar gjøgnum <placeName type="tunnel">Eysturoyartunnilin</placeName> verða settir á <name type="route">Leið 400</name>, fáa nógv fleiri møguleika at nýta tryggastu og skjótastu farleiðina við almennu samferðsluni til og frá arbeiði.</s>
-            <s>Tí verður hesin fyrispurningurin settur.</s>
+            <s xml:id="ldxibi5v73">Nýggja farleiðin kann hava við sær, at fleiri velja bussin frá og brúka bil ístaðin.</s>
+            <s xml:id="pf6jds426d">Tað elvir til meiri ferðslu á vegunum og størri útlát av vakstrarhúsgassum.</s>
+            <s xml:id="mzqz7er6ox">Um fleiri túrar gjøgnum <placeName type="tunnel">Eysturoyartunnilin</placeName> verða settir á <name type="route">Leið 400</name>, fáa nógv fleiri møguleika at nýta tryggastu og skjótastu farleiðina við almennu samferðsluni til og frá arbeiði.</s>
+            <s xml:id="z6ypsosruf">Tí verður hesin fyrispurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-03-15">15. mars 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-03-15">15. mars 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>

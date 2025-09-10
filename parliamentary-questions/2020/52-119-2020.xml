@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/lg3tpd57">Jóhan Eli Poulsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47532" />
+          <ref target="https://www.logting.fo/documents/47532"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Skipasmiðjustuðul</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -66,37 +65,37 @@
             <item xml:id="q2" type="question-item">Hevur landsstýrismaðurin ætlanir um at gera eina heildarætlan fyri, hvussu vit styrkja um <placeName>Føroyar</placeName> sum ein kraftdepil innan umvælingar, nýgerð og veitingar til skipavinnuna? Tað veri seg bæði fiski- og flutnings vinnuna.</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Føroyski fiskiskipaflotin er gamal og niðurslitin.</s>
-            <s>Aldurin á fiskiskipaflotanum er alt ov høgur.</s>
-            <s>Hetta hevur við sær, at bæði umstøðurnar hjá manningini og raksturin hjá reiðaríunum er munandi verri, enn gott er.</s>
-            <s>Vit síggja, at bjartskygni er afturkomið í fiskivinnuna.</s>
-            <s>Fleiri reiðarar hava í hyggju at byggja skip, men hesir reiðarar hava ein stóran trupulleika, og tað er byggikostnaðurin.</s>
-            <s>Grønlendingar hava endurnýggjað ein stóran part av teirra fiskiflota við Tax-lease skipanini, ið ger tað munandi biligari at byggja skip.</s>
-            <s>Hendan skipanin er ikki loyvd í <placeName>Føroyum</placeName> í løtuni.</s>
-            <s>Skulu skipasmiðjurnar her á landi hava nakran møguleika at kappast við slíkar skipanir, má skipasmiðjustuðulin hækka munandi.</s>
-            <s>Hettar hevði ført við sær, at vit kundu sæð fleiri nýbygningar bygdar í <placeName>Føroyum</placeName> og føroyska vitanin innan skipasmíð hevði verið økt munandi, øllum at frama.</s>
+            <s xml:id="oqlkmncnm3">Føroyski fiskiskipaflotin er gamal og niðurslitin.</s>
+            <s xml:id="fwvja7rbw7">Aldurin á fiskiskipaflotanum er alt ov høgur.</s>
+            <s xml:id="vzxx6xq7m7">Hetta hevur við sær, at bæði umstøðurnar hjá manningini og raksturin hjá reiðaríunum er munandi verri, enn gott er.</s>
+            <s xml:id="td2hnoz6nn">Vit síggja, at bjartskygni er afturkomið í fiskivinnuna.</s>
+            <s xml:id="kszv4dpudd">Fleiri reiðarar hava í hyggju at byggja skip, men hesir reiðarar hava ein stóran trupulleika, og tað er byggikostnaðurin.</s>
+            <s xml:id="sxq3eyxbll">Grønlendingar hava endurnýggjað ein stóran part av teirra fiskiflota við Tax-lease skipanini, ið ger tað munandi biligari at byggja skip.</s>
+            <s xml:id="fhhj4kmn6c">Hendan skipanin er ikki loyvd í <placeName>Føroyum</placeName> í løtuni.</s>
+            <s xml:id="isocbxvpdg">Skulu skipasmiðjurnar her á landi hava nakran møguleika at kappast við slíkar skipanir, má skipasmiðjustuðulin hækka munandi.</s>
+            <s xml:id="zcaqsoomxp">Hettar hevði ført við sær, at vit kundu sæð fleiri nýbygningar bygdar í <placeName>Føroyum</placeName> og føroyska vitanin innan skipasmíð hevði verið økt munandi, øllum at frama.</s>
           </p>
           <p>
-            <s>Nógv verður tosað um grøna orku fyri tíðina og vita vit, at fiskiflotin stendur fyri umleið helminginum av útlátinum.</s>
-            <s>Eldri skip dálka munandi meira enn nýggj skip, tí kann hettar eisini vera ein íløga á teirri síðuni.</s>
+            <s xml:id="absjixnhin">Nógv verður tosað um grøna orku fyri tíðina og vita vit, at fiskiflotin stendur fyri umleið helminginum av útlátinum.</s>
+            <s xml:id="kjctx3coqn">Eldri skip dálka munandi meira enn nýggj skip, tí kann hettar eisini vera ein íløga á teirri síðuni.</s>
           </p>
           <p>
-            <s>Eisini vita vit, at tá ið siglingarleiðin í <placeName type="region">Arktis</placeName> er tikin í fulla nýtslu, liggja vit mitt á leiðini.</s>
-            <s>Tí kunnu vit verða ein týðandi viðleikari, tá talan er um at veita tænastur og veitingar.</s>
-            <s>Hetta kann helst lættliga gerast ein týðandi inntøkukelda hjá okkum sum landi í framtíðini.</s>
-            <s>Vit hava sera dugnaligar veitarar innan allar geirar av veitingum og tænastum til skip og skipaferðslu í <placeName>Føroyum</placeName>.</s>
-            <s>Styrkja vit við hesum enn meira um vitanina/royndina hjá hesum veitarum, er vinningurin stórur fyri okkum sum land.</s>
+            <s xml:id="qppz3ggvxi">Eisini vita vit, at tá ið siglingarleiðin í <placeName type="region">Arktis</placeName> er tikin í fulla nýtslu, liggja vit mitt á leiðini.</s>
+            <s xml:id="q4btokavpq">Tí kunnu vit verða ein týðandi viðleikari, tá talan er um at veita tænastur og veitingar.</s>
+            <s xml:id="qp5fnhv4hp">Hetta kann helst lættliga gerast ein týðandi inntøkukelda hjá okkum sum landi í framtíðini.</s>
+            <s xml:id="jwnogdqjy2">Vit hava sera dugnaligar veitarar innan allar geirar av veitingum og tænastum til skip og skipaferðslu í <placeName>Føroyum</placeName>.</s>
+            <s xml:id="d62be34raj">Styrkja vit við hesum enn meira um vitanina/royndina hjá hesum veitarum, er vinningurin stórur fyri okkum sum land.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-15">15. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-15">15. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/lg3tpd57">Jóhan Eli Poulsen</persName>

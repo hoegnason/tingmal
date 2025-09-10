@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47579" />
+          <ref target="https://www.logting.fo/documents/47579"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Fyriskipanir á hægri útbúgvingum til lesandi við serligum avbjóðingum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -68,29 +67,29 @@
             <item xml:id="q4" type="question-item">Er nøkur meting gjørd av, hvat tað hevði kostað landinum at sett í verk líknandi skipanir við SPS-vegleiðarum, eins og í <placeName>Danmark</placeName>?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Seinastu 10 árini er nógv hent á undirvísingarøkinum, tá tað kemur til hjálp til næmingar við serligum avbjóðingum.</s>
-            <s>Millum annað er serlig útbúgving sett í verk til at útbúgva lærarar til serøkið, flokkar eru skipaðir til næmingar við serligum tørvi, umframt ymsar skipanir, sum hjálpa næmingum at fáa útvegað hjálpiamboð - hetta er galdandi bæði á miðnámi og í fólkaskúlanum.</s>
-            <s>Eisini er ein arbeiðsbólkur settur, sum skal koma við tilmælum um, hvussu landið loftar næmingum við sálarligum avbjóðingum á miðnámi.</s>
+            <s xml:id="mlvncokium">Seinastu 10 árini er nógv hent á undirvísingarøkinum, tá tað kemur til hjálp til næmingar við serligum avbjóðingum.</s>
+            <s xml:id="tpmsaifdcb">Millum annað er serlig útbúgving sett í verk til at útbúgva lærarar til serøkið, flokkar eru skipaðir til næmingar við serligum tørvi, umframt ymsar skipanir, sum hjálpa næmingum at fáa útvegað hjálpiamboð - hetta er galdandi bæði á miðnámi og í fólkaskúlanum.</s>
+            <s xml:id="aahzkembmz">Eisini er ein arbeiðsbólkur settur, sum skal koma við tilmælum um, hvussu landið loftar næmingum við sálarligum avbjóðingum á miðnámi.</s>
           </p>
           <p>
-            <s>Kortini eru at kalla ongar skipanir til lesandi á hægri lestri, sum hava serligar avbjóðingar.</s>
-            <s><orgName>Fróðskaparsetrið</orgName> bjóðar lestrarvegleiðing, men sum heild eru tilboðini avmarkað.</s>
-            <s>Í eitt nú <placeName>Danmark</placeName> hava universitetini serligar SPS-vegleiðarar (specialpædagogisk støtte), sum lesandi kunnu venda sær til, hava tey serligar avbjóðingar, ella ynskja at verða útgreinað fyri serligar avbjóðingar, ið ávirka teirra lestrartilgongd.</s>
-            <s>Talan kann vera um eitt nú <term>orðblindni</term>, hoyritrupulleikar, <term>ADHD</term>, <term>autismu</term> o.s.fr.</s>
+            <s xml:id="cmqx4tw7jl">Kortini eru at kalla ongar skipanir til lesandi á hægri lestri, sum hava serligar avbjóðingar.</s>
+            <s xml:id="k4r67sxhzl"><orgName>Fróðskaparsetrið</orgName> bjóðar lestrarvegleiðing, men sum heild eru tilboðini avmarkað.</s>
+            <s xml:id="b5svsztwb5">Í eitt nú <placeName>Danmark</placeName> hava universitetini serligar SPS-vegleiðarar (specialpædagogisk støtte), sum lesandi kunnu venda sær til, hava tey serligar avbjóðingar, ella ynskja at verða útgreinað fyri serligar avbjóðingar, ið ávirka teirra lestrartilgongd.</s>
+            <s xml:id="s65rvfknxk">Talan kann vera um eitt nú <term>orðblindni</term>, hoyritrupulleikar, <term>ADHD</term>, <term>autismu</term> o.s.fr.</s>
           </p>
           <p>
-            <s>Undirritaði ynskir tískil at fáa greiðu á, um arbeitt verður við nøkrum ítøkiligum ætlanum at lofta lesandi á hægri lestri, ið hava serligar avbjóðingar.</s>
+            <s xml:id="iliczoaabk">Undirritaði ynskir tískil at fáa greiðu á, um arbeitt verður við nøkrum ítøkiligum ætlanum at lofta lesandi á hægri lestri, ið hava serligar avbjóðingar.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-20">20. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-20">20. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/rr73wcik">Jóhannis Joensen</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,16 +12,16 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
           <publisher>Føroya Løgting</publisher>
           <author>
             <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
-            <roleName />
+            <roleName/>
           </author>
-          <ref target="https://www.logting.fo/documents/47755" />
+          <ref target="https://www.logting.fo/documents/47755"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Langar bíðitíðir í barnapsykiatriini</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -69,29 +68,29 @@
             <item xml:id="q5" type="question-item">Er tað í kørmunum fyri <date when="2020">2020</date> lagt upp fyri raðfesting av barnapsykiatriini ?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <h2>Langar bíðitíðir</h2>
           <p>
-            <s>Í seinastu samgongu bleiv barnapsykiatriin raðfest munandi.</s>
-            <s>Tað eydnaðist í stóran mun at fáa bíðilistarnar langt niður, og í ávísan mun so gott sum burtur.</s>
-            <s>Nú frættist, at bíðitíðin aftur er longd til langt yvir eitt ár, og at talið av ávísingum veksur alsamt.</s>
+            <s xml:id="syoimudeoc">Í seinastu samgongu bleiv barnapsykiatriin raðfest munandi.</s>
+            <s xml:id="vxkougiazt">Tað eydnaðist í stóran mun at fáa bíðilistarnar langt niður, og í ávísan mun so gott sum burtur.</s>
+            <s xml:id="i56aosqna6">Nú frættist, at bíðitíðin aftur er longd til langt yvir eitt ár, og at talið av ávísingum veksur alsamt.</s>
           </p>
           <h2>Skjót hjálp er góð hjálp</h2>
           <p>
-            <s>Tað er sera álvarsamt við bíðilistum í barnapsykiatriini.</s>
-            <s>Barnalívið er stutt, og ein bíðitíð, sum kann koma upp móti tveimum árum, kann gera, at støður, sum møguliga kundu verið hjálptar, um hjálpin kom í góðari tíð, kunnu elva til álvarsama sjúku, sum kann blíva varandi.</s>
-            <s>Tí má alt setast til fyri at fáa bíðitíðina niður.</s>
-            <s>Barnalívið má ikki brúkast til at vera á bíðlista.</s>
-            <s>Tað skapar líðing har tíðin skuldi fari til trivnað og menning.</s>
+            <s xml:id="wnv5hs5o6j">Tað er sera álvarsamt við bíðilistum í barnapsykiatriini.</s>
+            <s xml:id="jnw6pfxjhb">Barnalívið er stutt, og ein bíðitíð, sum kann koma upp móti tveimum árum, kann gera, at støður, sum møguliga kundu verið hjálptar, um hjálpin kom í góðari tíð, kunnu elva til álvarsama sjúku, sum kann blíva varandi.</s>
+            <s xml:id="xfbyvsemel">Tí má alt setast til fyri at fáa bíðitíðina niður.</s>
+            <s xml:id="xachohro22">Barnalívið má ikki brúkast til at vera á bíðlista.</s>
+            <s xml:id="slzueltgc6">Tað skapar líðing har tíðin skuldi fari til trivnað og menning.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-26">26. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-26">26. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>

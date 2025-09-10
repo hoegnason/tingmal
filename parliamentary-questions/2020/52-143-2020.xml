@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47905" />
+          <ref target="https://www.logting.fo/documents/47905"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Broytingar í nevndini fyri <orgName>Bústaðir</orgName> og ákærur um lógarbrot</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -72,31 +71,31 @@
             <item xml:id="q8" type="question-item">Um so er ákærurnar eru falskar, hvørjar avleiðingar fær tað?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Tað er komið alment fram, at landsstýrismaðurin formliga hevur valt tríggjar nýggjar limir í víðkaðu nevndina fyri <orgName>Bústaðir</orgName>, umframt tvey afturval frá gamla stýrinum.</s>
-            <s>Sambært fyrisitingarlógini skulu allar fyrisitingarligar avgerðir vera sakligar, grundgivnar og skjalfestar.</s>
+            <s xml:id="xnifkufmsp">Tað er komið alment fram, at landsstýrismaðurin formliga hevur valt tríggjar nýggjar limir í víðkaðu nevndina fyri <orgName>Bústaðir</orgName>, umframt tvey afturval frá gamla stýrinum.</s>
+            <s xml:id="ajnuwzzbtt">Sambært fyrisitingarlógini skulu allar fyrisitingarligar avgerðir vera sakligar, grundgivnar og skjalfestar.</s>
           </p>
           <p>
-            <s>Tí verður spurt, hvør hevur gjørt tilmælið og skotið upp, hvør skal veljast, og um hvussu hetta er grundgivið og skjalfest.</s>
-            <s>Biðið verður um svar fyri hvønn einstakan stýrislim.</s>
+            <s xml:id="nvnw5vxhaa">Tí verður spurt, hvør hevur gjørt tilmælið og skotið upp, hvør skal veljast, og um hvussu hetta er grundgivið og skjalfest.</s>
+            <s xml:id="vrs4qbf2cm">Biðið verður um svar fyri hvønn einstakan stýrislim.</s>
           </p>
           <p>
-            <s>Eisini verður spurt, um fyrisitingin ella onnur hava frámælt nakrari avgerð, og um so er, hvussu hetta er skjalfest og grundgivið.</s>
-            <s>Biðið verður um svar fyri hvønn einstakan stýrislim.</s>
+            <s xml:id="ggglozghoq">Eisini verður spurt, um fyrisitingin ella onnur hava frámælt nakrari avgerð, og um so er, hvussu hetta er skjalfest og grundgivið.</s>
+            <s xml:id="wuon5exgau">Biðið verður um svar fyri hvønn einstakan stýrislim.</s>
           </p>
           <p>
-            <s>Hartil verður spurt um tær sera álvarsligu ákærurnar, ið eru sendar <orgName>Almannamálaráðnum</orgName> og eru komnar fram alment frá einum av nývaldu stýrislimunum móti stjóra og leiðslu í <orgName>Bústøðum</orgName>.</s>
-            <s>Spurt verður, hvat landsstýrismaðurin hevur gjørt við hesar ákærur, og hvørjar avleiðingar tær fáa, antin nakað hald er í teimum ella ikki.</s>
+            <s xml:id="pl55z5ovap">Hartil verður spurt um tær sera álvarsligu ákærurnar, ið eru sendar <orgName>Almannamálaráðnum</orgName> og eru komnar fram alment frá einum av nývaldu stýrislimunum móti stjóra og leiðslu í <orgName>Bústøðum</orgName>.</s>
+            <s xml:id="bwmphchthl">Spurt verður, hvat landsstýrismaðurin hevur gjørt við hesar ákærur, og hvørjar avleiðingar tær fáa, antin nakað hald er í teimum ella ikki.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-07">7. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-07">7. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>

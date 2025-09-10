@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47612" />
+          <ref target="https://www.logting.fo/documents/47612"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Nevndarval í <orgName>Bústøðum</orgName></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -66,25 +65,25 @@
             <item xml:id="q2" type="question-item">Heldur landsstýrismaðurin tað vera í samsvari við armslongdarprinsippið, at nevndarformaðurin samstundis er fulltrúi í aðalráðnum hjá landsstýrismanninum?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s><orgName>Løgtingið</orgName> hevur fyri kortum samtykt lógarbroytingar viðv. <orgName>Húsalánsgrunninum</orgName>, ið millum annað bóru við sær, at talið á nevndarlimum fór úr trimum upp í fimm, hóast samgongan annars vil minka talið á nevndarlimum í almennum nevndum.</s>
+            <s xml:id="ge5zc52teq"><orgName>Løgtingið</orgName> hevur fyri kortum samtykt lógarbroytingar viðv. <orgName>Húsalánsgrunninum</orgName>, ið millum annað bóru við sær, at talið á nevndarlimum fór úr trimum upp í fimm, hóast samgongan annars vil minka talið á nevndarlimum í almennum nevndum.</s>
           </p>
           <p>
-            <s>Nú landsstýrismaðurin hevur valt nevndarlimir vísir tað seg, at ein nevndarlimur, sum síðani er vorðin formaður í stýrinum, í sínum dagliga starvi er fulltrúi og ráðgevi hjá landsstýrismanninum.</s>
+            <s xml:id="dzugybu3lb">Nú landsstýrismaðurin hevur valt nevndarlimir vísir tað seg, at ein nevndarlimur, sum síðani er vorðin formaður í stýrinum, í sínum dagliga starvi er fulltrúi og ráðgevi hjá landsstýrismanninum.</s>
           </p>
           <p>
-            <s>Omanfyrinevndu lógarbroytingar viðførdu fleiri heimildir til landsstýrismannin, millum annað at skulu <orgName>Bústaðir</orgName> fara undir verkætlanir einsamallir, kann hetta bert gerast við loyvi frá landsstýrismanninum.</s>
-            <s>Tí er spurningurin, hvussu tað ávirkar armslongdarprinsippið, at starvsfólk hjá landsstýrismanninum sita báðumegin borðið.</s>
+            <s xml:id="vq5bhvf2bq">Omanfyrinevndu lógarbroytingar viðførdu fleiri heimildir til landsstýrismannin, millum annað at skulu <orgName>Bústaðir</orgName> fara undir verkætlanir einsamallir, kann hetta bert gerast við loyvi frá landsstýrismanninum.</s>
+            <s xml:id="rpf2jeqpg6">Tí er spurningurin, hvussu tað ávirkar armslongdarprinsippið, at starvsfólk hjá landsstýrismanninum sita báðumegin borðið.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-20">20. apríl</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-20">20. apríl</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>

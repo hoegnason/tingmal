@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47854" />
+          <ref target="https://www.logting.fo/documents/47854"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,33 +57,33 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Útbjóðing í sambandi við <placeName type="tunnel">Fámjinstunnilin</placeName></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
             <item xml:id="q1" type="question-item">Ætlar landsstýrismaðurin at skipa soleiðis fyri, at útbjóðingin at gera tunnil og veg í sambandi við <placeName type="tunnel">Fámjinstunnilin</placeName> verður boðin út í tveimum, tvs. tunnil og vegagerð hvør sær?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Landsstýrismaðurin hevur áður nevnt, at ætlanin var at útbjóða arbeiðið at gera tunnil til <placeName>Fámjins</placeName> í tveimum - vegagerð og tunnil hvør sær - við tí endamáli, at smærri og lokalar fyritøkur kunnu sleppa framat at gera vegarbeiðið.</s>
+            <s xml:id="t4rdtgyky5">Landsstýrismaðurin hevur áður nevnt, at ætlanin var at útbjóða arbeiðið at gera tunnil til <placeName>Fámjins</placeName> í tveimum - vegagerð og tunnil hvør sær - við tí endamáli, at smærri og lokalar fyritøkur kunnu sleppa framat at gera vegarbeiðið.</s>
           </p>
           <p>
-            <s>Nú lýst verður eftir fyritøkum til undangóðkenning sæst, at arbeiðið verður boðið út í einum, og tískil er ikki møguligt hjá smærri fyritøkum at bjóða seg fram.</s>
+            <s xml:id="tb7gsctmjo">Nú lýst verður eftir fyritøkum til undangóðkenning sæst, at arbeiðið verður boðið út í einum, og tískil er ikki møguligt hjá smærri fyritøkum at bjóða seg fram.</s>
           </p>
           <p>
-            <s>Í útbjóðingartilfarinum hjá <orgName>Landsverki</orgName> verður sagt, at talan er um á leið 2.600 metrar av vegi.</s>
-            <s>Harafturat verður sagt, at ætlanin er at byrja arbeiðið seint í 2021, og sostatt er ríkiligt av tíð at skipa soleiðis fyri, at smærri fyritøkur kunnu bjóða seg fram til vegarbeiðið.</s>
-            <s>Tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="tqkoi257kn">Í útbjóðingartilfarinum hjá <orgName>Landsverki</orgName> verður sagt, at talan er um á leið 2.600 metrar av vegi.</s>
+            <s xml:id="llzhd3npzp">Harafturat verður sagt, at ætlanin er at byrja arbeiðið seint í 2021, og sostatt er ríkiligt av tíð at skipa soleiðis fyri, at smærri fyritøkur kunnu bjóða seg fram til vegarbeiðið.</s>
+            <s xml:id="hqzbv3f4ce">Tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-03">3. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-03">3. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>

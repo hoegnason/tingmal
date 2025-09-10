@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47370" />
+          <ref target="https://www.logting.fo/documents/47370"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Hjálp til børn og ung við <term>psykiatriskum diagnosum</term></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -70,34 +69,34 @@
             <item xml:id="q6" type="question-item">Hvørjar lógarbroytingar skulu til fyri at fremja skúla- og námsfrøðilig samstørv til børn og ung við <term>psykiatriskum diagnosum</term>?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Ein kanning hjá <orgName>Fólkaheilsuráðnum</orgName> frá november 2020 vísti, at sálarliga heilsustøðan hjá nøkrum ungum í <placeName>Føroyum</placeName> er alt annað enn góð.</s>
-            <s>Í øðrum londum veit mann, at ein partur av ungum, ið stríðast sálarliga, eru ung, sum hava <term>psykiatriskar diagnosur</term>, t.d. <term>ADHD</term> ella eru í <term>autismuspektrinum</term>, og sum ikki hava fingið rætt skúla- og námsfrøðiligt tilboð.</s>
+            <s xml:id="ljtcmn5qna">Ein kanning hjá <orgName>Fólkaheilsuráðnum</orgName> frá november 2020 vísti, at sálarliga heilsustøðan hjá nøkrum ungum í <placeName>Føroyum</placeName> er alt annað enn góð.</s>
+            <s xml:id="gkppcmdmj2">Í øðrum londum veit mann, at ein partur av ungum, ið stríðast sálarliga, eru ung, sum hava <term>psykiatriskar diagnosur</term>, t.d. <term>ADHD</term> ella eru í <term>autismuspektrinum</term>, og sum ikki hava fingið rætt skúla- og námsfrøðiligt tilboð.</s>
           </p>
           <p>
-            <s>Í seinastuni hevur ofta verið frammi, at nógv rúsevni eru at finna millum ung í <placeName>Føroyum</placeName>.</s>
-            <s>Í øðrum londum hava kanningar víst, at nøkur av hesum ungu, ið gerast bundin at rúsevnum, eru ung við <term>psykiatriskum diagnosum</term>, sum ikki hava fingið góða skúlagongd og nøktandi námsfrøðilig tilboð.</s>
+            <s xml:id="ejb3jq2vrs">Í seinastuni hevur ofta verið frammi, at nógv rúsevni eru at finna millum ung í <placeName>Føroyum</placeName>.</s>
+            <s xml:id="n72d4kj4vk">Í øðrum londum hava kanningar víst, at nøkur av hesum ungu, ið gerast bundin at rúsevnum, eru ung við <term>psykiatriskum diagnosum</term>, sum ikki hava fingið góða skúlagongd og nøktandi námsfrøðilig tilboð.</s>
           </p>
           <p>
-            <s>Ein kanning hjá <orgName>Rockwool-fondinum</orgName> í <placeName>Danmark</placeName> í 2012 vísti, at fólk, ið ikki fáa viðgerð fyri <term>ADHD</term>, kosta danska statinum 2,8 mia. kr. um árið.</s>
-            <s>Í <placeName>Íslandi</placeName> hevur mann lagt dent á, at hesi børn og ung hava heilt serligar førleikar, og tá tey gerast vaksin fara tey í parttiðar- ella fulltíðarstørv.</s>
-            <s>Hetta hevur við sær, at tey ikki kosta eins nógv fyri tað almenna sum í <placeName>Danmark</placeName>.</s>
+            <s xml:id="phidb5dgnn">Ein kanning hjá <orgName>Rockwool-fondinum</orgName> í <placeName>Danmark</placeName> í 2012 vísti, at fólk, ið ikki fáa viðgerð fyri <term>ADHD</term>, kosta danska statinum 2,8 mia. kr. um árið.</s>
+            <s xml:id="zwjuulo4iy">Í <placeName>Íslandi</placeName> hevur mann lagt dent á, at hesi børn og ung hava heilt serligar førleikar, og tá tey gerast vaksin fara tey í parttiðar- ella fulltíðarstørv.</s>
+            <s xml:id="guk4schzed">Hetta hevur við sær, at tey ikki kosta eins nógv fyri tað almenna sum í <placeName>Danmark</placeName>.</s>
           </p>
           <p>
-            <s><orgName>Talgildu Føroyar</orgName> er eitt frambrot, sum gevur nógvar møguleikar, t.d. til at skapa eina talgilda námsfrøðiliga miðstøð fyri børn og ung við <term>psykiatriskum diagnosum</term>.</s>
-            <s>Hetta fyri at røkka so nógvum sum møguligt og veita ráðgeving og upplæring.</s>
-            <s>Tað hevur stóran týdning, tá børn og ung hava fingið staðfest <term>psykiatriskar diagnosur</term>, at tey ikki verða slept uppá fjall, og at landsstýrismaðurin tekur itøkilig stig rætta vegin.</s>
-            <s>Tí verður hesin fyrispurningur settur.</s>
+            <s xml:id="mmpxhyp26p"><orgName>Talgildu Føroyar</orgName> er eitt frambrot, sum gevur nógvar møguleikar, t.d. til at skapa eina talgilda námsfrøðiliga miðstøð fyri børn og ung við <term>psykiatriskum diagnosum</term>.</s>
+            <s xml:id="gqrxp75tuz">Hetta fyri at røkka so nógvum sum møguligt og veita ráðgeving og upplæring.</s>
+            <s xml:id="liydwqzu2h">Tað hevur stóran týdning, tá børn og ung hava fingið staðfest <term>psykiatriskar diagnosur</term>, at tey ikki verða slept uppá fjall, og at landsstýrismaðurin tekur itøkilig stig rætta vegin.</s>
+            <s xml:id="jqqp6tu36i">Tí verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-06">6. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-06">6. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/hxq34xoi">Rósa Samuelsen</persName>

@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47894" />
+          <ref target="https://www.logting.fo/documents/47894"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Viðgerð fyri barnloysi</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -66,29 +65,29 @@
             <item xml:id="q2" type="question-item">Kann landsstýrismaðurin greiða frá, hvørjar reglur eru galdandi fyri tey, ið ynskja at sleppa í viðgerð fyri barnloysi?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Fleiri menn og kvinnur kunnu koma út fyri, at tað er trupult at gerast við barn.</s>
-            <s>Tíbetur finst viðgerð fyri barnloysi, og fleiri uppliva at gerast við barn eftir at hava verið í viðgerð eina tíð.</s>
-            <s>Hetta er eitt nógv umrøtt evni í londunum rundan um okkum, tí talan er um eina heldur dýra viðgerð, har fólk í summum førum sjálvi noyðast at standa fyri rokningini.</s>
+            <s xml:id="j4mninv4b5">Fleiri menn og kvinnur kunnu koma út fyri, at tað er trupult at gerast við barn.</s>
+            <s xml:id="h4kcqtifgv">Tíbetur finst viðgerð fyri barnloysi, og fleiri uppliva at gerast við barn eftir at hava verið í viðgerð eina tíð.</s>
+            <s xml:id="tk3ij3bkd5">Hetta er eitt nógv umrøtt evni í londunum rundan um okkum, tí talan er um eina heldur dýra viðgerð, har fólk í summum førum sjálvi noyðast at standa fyri rokningini.</s>
           </p>
           <p>
-            <s>Av tilvild gjørdist undirritaða varug við, at <title type="regulation"><seg type="doc-type">rundskriv</seg> <idno>nr. 9000</idno> frá <date when="2024-02-04">4. februar 2004</date> um viðgerð móti barnloysi</title> varð sett úr gildi í september í fjør.¹</s>
+            <s xml:id="p4hmm2tbhj">Av tilvild gjørdist undirritaða varug við, at <title type="regulation"><seg type="doc-type">rundskriv</seg> <idno>nr. 9000</idno> frá <date when="2024-02-04">4. februar 2004</date> um viðgerð móti barnloysi</title> varð sett úr gildi í september í fjør.¹</s>
             <!-- TODO: indirect add refrences -->
-            <s>Rundskrivið staðfesti millum annað, at tað almenna fíggjar viðgerðina fyri upp til felags tvey børn fyri barnleys pør.</s>
-            <s>Harafturat er eisini sett sum treyt, at einans hjún kunnu fáa viðgerð fyri barnloysi.</s>
+            <s xml:id="vh6e63qyqk">Rundskrivið staðfesti millum annað, at tað almenna fíggjar viðgerðina fyri upp til felags tvey børn fyri barnleys pør.</s>
+            <s xml:id="wwgc3bgar3">Harafturat er eisini sett sum treyt, at einans hjún kunnu fáa viðgerð fyri barnloysi.</s>
           </p>
           <p>
-            <s>Fyri at fáa greiðu á, hvørjar reglur eru galdandi fyri viðgerð fyri barnloysi í dag, verður hesin fyrispurningur settur.</s>
+            <s xml:id="vegrelozcm">Fyri at fáa greiðu á, hvørjar reglur eru galdandi fyri viðgerð fyri barnloysi í dag, verður hesin fyrispurningur settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-05-05">5. mai 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-05-05">5. mai 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/he267dlh">Ingilín Didriksen Strøm</persName>

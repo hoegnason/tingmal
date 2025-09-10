@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-04" />
+        <date when="2025-09-04"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/k3hscmgt">Kristina Háfoss</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/159" />
+          <ref target="https://www.logting.fo/documents/159"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,25 +39,25 @@
   </teiHeader>
   <text>
     <body>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2020/7">
         <div type="questioner">
           <head rend="bold">
-            <persName ref="https://tingdata.fo/person/k3hscmgt">Kristina Háfoss<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName ref="https://tingdata.fo/person/k3hscmgt">Kristina Háfoss<lb/><roleName>løgtingsmaður</roleName></persName>
           </head>
         </div>
 
-        <space type="vertical" />
-        <space type="vertical" />
+        <space type="vertical"/>
+        <space type="vertical"/>
 
         <div>
           <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div type="respondent">
           <head rend="bold">Fyrispurningur um Korona tilbúgvingarætlan fyri Føroyar v.m., settur <persName ref="https://tingdata.fo/person/yt2jgtfq"><roleName>løgmanni</roleName>, Bárði á Steig Nielsen</persName> (at svara skrivliga eftir TS §52a)</head>
         </div>
-        <space />
+        <space/>
         <div type="question-list">
           <list type="ordered">
             <item xml:id="q1" type="question-item">Hví er ongin langtíðar Korona tilbúgvingarætlan gjørd og sett í verk?</item>
@@ -70,37 +69,37 @@
             <item xml:id="q7" type="question-item">Hví velur landsstýrið ikki at taka ábyrgd av landamørkum Føroya við at seta egin krøv til, hvussu nógva smittu lond kunnu hava, fyri at ferðafólk kunnu koma til Føroyar?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Síðan koronavirusið kom til Føroyar, hava vit sum land og fólk verið í eini tilbúgvingarstøðu.</s>
-            <s>Onkuntíð meira og aðrar tíðir minni.</s>
-            <s>Higartil hevur verið fráboðað frá degi til dags á tíðindafundum, hvør tilbúgvingarætlanin er komandi dagarnar.</s>
-            <s>Enn er ongantíð alment fráboðað, hvør langtíðar tilbúgvingarætlan fyriliggur, ella um nøkur langtíðar tilbúgvingarætlan yvirhøvur er gjørd.</s>
-            <s>Hetta skapar ikki neyðuga tryggleikan, og ger eisini, at vit ikki gera neyðugu íløgurnar í rættari og góðari tíð.</s>
+            <s xml:id="varzv3potj">Síðan koronavirusið kom til Føroyar, hava vit sum land og fólk verið í eini tilbúgvingarstøðu.</s>
+            <s xml:id="l7w5ljqfng">Onkuntíð meira og aðrar tíðir minni.</s>
+            <s xml:id="zua5t6es3e">Higartil hevur verið fráboðað frá degi til dags á tíðindafundum, hvør tilbúgvingarætlanin er komandi dagarnar.</s>
+            <s xml:id="sluo5cfzxw">Enn er ongantíð alment fráboðað, hvør langtíðar tilbúgvingarætlan fyriliggur, ella um nøkur langtíðar tilbúgvingarætlan yvirhøvur er gjørd.</s>
+            <s xml:id="mueejlxrlt">Hetta skapar ikki neyðuga tryggleikan, og ger eisini, at vit ikki gera neyðugu íløgurnar í rættari og góðari tíð.</s>
           </p>
           <p>
-            <s>Við eini tilbúgvingarætlan við t.d. 5 tilbúgvingarstigum, ið hækka og innihalda ítøkilig og herd krøv til ymiskar partar í samfelagnum, alt eftir, hvussu nógv smitta er í landinum, høvdu fólk vitað, hvussu tey skulu fyrihalda seg, og hvat væntast kann.</s>
-            <s>Eitt nú innan heilsuverk, skúlar, ellis- og røktarheim, bústovnar, dagstovnar og fyri arbeiðsgevarar og løntakarar.</s>
-            <s>Við eini tilbúgvingarætlan hevði eisini borið til at gjørt íløgur í heilsuverk, starvsfólk og Heilsufrøðiligu Starvsstovuna v.m. alt eftir, hvør tilbúgvingarætlanin er.</s>
+            <s xml:id="h6r23ygpbt">Við eini tilbúgvingarætlan við t.d. 5 tilbúgvingarstigum, ið hækka og innihalda ítøkilig og herd krøv til ymiskar partar í samfelagnum, alt eftir, hvussu nógv smitta er í landinum, høvdu fólk vitað, hvussu tey skulu fyrihalda seg, og hvat væntast kann.</s>
+            <s xml:id="a4g67rzgxy">Eitt nú innan heilsuverk, skúlar, ellis- og røktarheim, bústovnar, dagstovnar og fyri arbeiðsgevarar og løntakarar.</s>
+            <s xml:id="ymmowuhpsr">Við eini tilbúgvingarætlan hevði eisini borið til at gjørt íløgur í heilsuverk, starvsfólk og Heilsufrøðiligu Starvsstovuna v.m. alt eftir, hvør tilbúgvingarætlanin er.</s>
           </p>
           <p>
-            <s>Eisini eru fleiri onnur ivamál.</s>
-            <s>Landsstýrið hevur valt ikki at biðja Løgtingið um heimild at taka gjøld frá ferðafólkum fyri Covid-19 kanningar, hóast tey vóru vitandi um, at heimildin manglaði.</s>
-            <s>Heldur ikki er Heilsufrøðiliga Starvsstovan uppraðfest samsvarandi økta tørvinum á kanningum.</s>
-            <s>Ymisk sjónarmið hava eisini verið frammi um, hví landsstýrið valdi ikki at kanna ferðafólk 2 ferðir frá byrjan.</s>
-            <s>Hartil hevur landsstýrið frávalt at taka egnar avgerðir um, hvørji lond latið verður upp fyri, eitt nú í mun til, hvussu stór Covid-19 smittan í londunum er.</s>
+            <s xml:id="mht4o6jeht">Eisini eru fleiri onnur ivamál.</s>
+            <s xml:id="sjpjrygbqw">Landsstýrið hevur valt ikki at biðja Løgtingið um heimild at taka gjøld frá ferðafólkum fyri Covid-19 kanningar, hóast tey vóru vitandi um, at heimildin manglaði.</s>
+            <s xml:id="tmes6ojne2">Heldur ikki er Heilsufrøðiliga Starvsstovan uppraðfest samsvarandi økta tørvinum á kanningum.</s>
+            <s xml:id="xpbtqjrrn4">Ymisk sjónarmið hava eisini verið frammi um, hví landsstýrið valdi ikki at kanna ferðafólk 2 ferðir frá byrjan.</s>
+            <s xml:id="pkbnm74bgl">Hartil hevur landsstýrið frávalt at taka egnar avgerðir um, hvørji lond latið verður upp fyri, eitt nú í mun til, hvussu stór Covid-19 smittan í londunum er.</s>
           </p>
           <p>
-            <s>Fyri at fáa lýst hesi mál verða hesir spurningar settir løgmanni.</s>
+            <s xml:id="h5uz5kbhax">Fyri at fáa lýst hesi mál verða hesir spurningar settir løgmanni.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2020-08-13">13. august 2020</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2020-08-13">13. august 2020</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/k3hscmgt">Kristina Háfoss</persName>

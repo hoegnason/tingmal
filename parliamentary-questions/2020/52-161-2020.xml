@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,16 +12,16 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
           <publisher>Føroya Løgting</publisher>
           <author>
             <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>
-            <roleName />
+            <roleName/>
           </author>
-          <ref target="https://www.logting.fo/documents/48072" />
+          <ref target="https://www.logting.fo/documents/48072"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -59,7 +58,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Tilmælið um heimauppihald við komu til <placeName>Føroyar</placeName></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -68,23 +67,23 @@
             <item xml:id="q3" type="question-item">Er ætlanin at seta tilmælið um heimauppihald við komu til <placeName>Føroyar</placeName> í gildi aftur ?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Nú koronusmittan hevur tikið seg upp aftur, undrast mong á, hví tilmælið um heimauppihald við komu til <placeName>Føroyar</placeName> varð slept.</s>
-            <s>Serliga sæð í ljósinum av, at tilmælini innanlands í <placeName>Føroyum</placeName> eru linkað sera nógv.</s>
-            <s>Fakmyndugleikin hevur sagt alment, at tamarhald er ikki á støðuni.</s>
+            <s xml:id="tygdra2qvw">Nú koronusmittan hevur tikið seg upp aftur, undrast mong á, hví tilmælið um heimauppihald við komu til <placeName>Føroyar</placeName> varð slept.</s>
+            <s xml:id="sbnoo246dd">Serliga sæð í ljósinum av, at tilmælini innanlands í <placeName>Føroyum</placeName> eru linkað sera nógv.</s>
+            <s xml:id="q33ohrprpp">Fakmyndugleikin hevur sagt alment, at tamarhald er ikki á støðuni.</s>
           </p>
           <p>
-            <s>Hesir spurningar verða settir løgmanni fyri at fáa greiðu á, um ætlanin er at broyta tilmælini aftur og mæla til, at ferðandi fara í heimauppihald við komu til <placeName>Føroyar</placeName>.</s>
+            <s xml:id="vyz4uoe3se">Hesir spurningar verða settir løgmanni fyri at fáa greiðu á, um ætlanin er at broyta tilmælini aftur og mæla til, at ferðandi fara í heimauppihald við komu til <placeName>Føroyar</placeName>.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-06-08">8. juni 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-06-08">8. juni 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg</persName>

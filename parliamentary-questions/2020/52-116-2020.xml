@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47456" />
+          <ref target="https://www.logting.fo/documents/47456"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Staðseting av <orgName>Veðurstovu Føroya</orgName></div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -67,29 +66,29 @@
             <item xml:id="q3" type="question-item">Hevur samgongan eina ætlan viðvíkjandi miðspjaðing av almennum stovnum?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s><orgName>Veðurtænastan</orgName> varð yvirtikin í <date when="2009">2009</date>, men higartil hevur eingin verulig veðurstova verið í <placeName>Føroyum</placeName>.</s>
-            <s>Í fjør játtaði <orgName>Løgtingið</orgName> 3,2 milliónir krónur afturat til at seta á stovn føroyska veðurstovu.</s>
-            <s>Í tíðindaskrivi 26. mars skrivar <orgName>Vørn</orgName>, at <orgName>Veðurstovan</orgName> í fyrstu atløgu fer at húsast við <placeName>Hoyvíksvegin</placeName> í <placeName>Havn</placeName>.¹</s>
-            <s>Tað er eingin loyna, at arbeitt verður innan veðurfrøði bæði á flogvøllinum og í <placeName>Norðoyggjum</placeName>, og partvíst eru hølir og útgerð tøk har.</s>
+            <s xml:id="zsunfemkmt"><orgName>Veðurtænastan</orgName> varð yvirtikin í <date when="2009">2009</date>, men higartil hevur eingin verulig veðurstova verið í <placeName>Føroyum</placeName>.</s>
+            <s xml:id="bkbzuqupol">Í fjør játtaði <orgName>Løgtingið</orgName> 3,2 milliónir krónur afturat til at seta á stovn føroyska veðurstovu.</s>
+            <s xml:id="qedran6aqs">Í tíðindaskrivi 26. mars skrivar <orgName>Vørn</orgName>, at <orgName>Veðurstovan</orgName> í fyrstu atløgu fer at húsast við <placeName>Hoyvíksvegin</placeName> í <placeName>Havn</placeName>.¹</s>
+            <s xml:id="wnrb2kulob">Tað er eingin loyna, at arbeitt verður innan veðurfrøði bæði á flogvøllinum og í <placeName>Norðoyggjum</placeName>, og partvíst eru hølir og útgerð tøk har.</s>
           </p>
           <p>
-            <s>Í hesum sambandi vil undirritaða hava at vita, hvørji atlit eru tikin til staðsetingina av veðurstovuni, og um hetta ikki er eitt starvsøki, ið við fyrimuni kann staðsetast allastaðni í landinum.</s>
-            <s>Sagt verður í tíðindaskrivinum, at staðsetingin er fyribils, men kortini verður ikki sagt, hvussu leingi veðurstovan skal húsast í <placeName>Havn</placeName>.</s>
-            <s>Royndir vísa okkum, at fyribilsloysnir ofta hava lyndi at gerast varandi.</s>
+            <s xml:id="mtede7dduq">Í hesum sambandi vil undirritaða hava at vita, hvørji atlit eru tikin til staðsetingina av veðurstovuni, og um hetta ikki er eitt starvsøki, ið við fyrimuni kann staðsetast allastaðni í landinum.</s>
+            <s xml:id="hul3grke3m">Sagt verður í tíðindaskrivinum, at staðsetingin er fyribils, men kortini verður ikki sagt, hvussu leingi veðurstovan skal húsast í <placeName>Havn</placeName>.</s>
+            <s xml:id="ddw4ixfbqa">Royndir vísa okkum, at fyribilsloysnir ofta hava lyndi at gerast varandi.</s>
           </p>
           <p>
-            <s>Harumframt vil undirritaða hava greiðu á, hvørja støðu samgongan hevur til miðspjaðing av almennum størvum.</s>
+            <s xml:id="u3scz2fdys">Harumframt vil undirritaða hava greiðu á, hvørja støðu samgongan hevur til miðspjaðing av almennum størvum.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-13">13. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-13">13. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/e4dbpzdr">Eyðgunn Samuelsen</persName>

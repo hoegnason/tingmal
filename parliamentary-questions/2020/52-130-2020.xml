@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-05" />
+        <date when="2025-09-05"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/47715" />
+          <ref target="https://www.logting.fo/documents/47715"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -40,7 +39,7 @@
   </teiHeader>
   <text>
     <front>
-      <pb n="1" />
+      <pb n="1"/>
       <div type="boiler-plate-title">
         <head type="main" rend="center">Skrivligur fyrispurningur</head>
         <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
@@ -58,7 +57,7 @@
         </div>
         <div type="subject">
           <head>Evni: </head>Koppseting av útisetum</div>
-        <space />
+        <space/>
         <div type="question-list">
           <head>Spurningar: </head>
           <list type="ordered">
@@ -66,32 +65,32 @@
             <item xml:id="q2" type="question-item">Um ikki, hevur landsstýrismaðurin ætlanir um at gera hetta møguligt?</item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Undir koronutíðini hava nógv føroysk lesandi og onnur, ið dagliga búgva uttanlands, verið í <placeName>Føroyum</placeName> orsakað av koronustøðuni.</s>
-            <s>Skúlar hava latið aftur, og øll undirvísing hevur verið á netinum, og tí hava nógv valt at koma heim til Føroyar.</s>
+            <s xml:id="yrirw2d4we">Undir koronutíðini hava nógv føroysk lesandi og onnur, ið dagliga búgva uttanlands, verið í <placeName>Føroyum</placeName> orsakað av koronustøðuni.</s>
+            <s xml:id="ecm5bcafoq">Skúlar hava latið aftur, og øll undirvísing hevur verið á netinum, og tí hava nógv valt at koma heim til Føroyar.</s>
           </p>
           <p>
-            <s>Nú koppsetingin er í gongd, verður lýst við, at øll búsitandi í <placeName>Føroyum</placeName> kunnu bóka sæer tíð til koppseting.</s>
+            <s xml:id="jrd7gitbhr">Nú koppsetingin er í gongd, verður lýst við, at øll búsitandi í <placeName>Føroyum</placeName> kunnu bóka sæer tíð til koppseting.</s>
           </p>
           <p>
-            <s>Tað reisir spurningin, hvussu støðan er hjá teimum mongu føroyingunum, ið eru búsitandi uttanlands, men sum orsakað av koronustøðuni eru stødd í <placeName>Føroyum</placeName>.</s>
+            <s xml:id="ogn3hdy5uo">Tað reisir spurningin, hvussu støðan er hjá teimum mongu føroyingunum, ið eru búsitandi uttanlands, men sum orsakað av koronustøðuni eru stødd í <placeName>Føroyum</placeName>.</s>
           </p>
           <p>
-            <s>Í <placeName>Danmark</placeName> hava føroyingar, ið eru búsitandi í <placeName>Føroyum</placeName>, men eru staddir í <placeName>Danmark</placeName> í útbúgvingarørindum ella øðrum, møguleika at koppseta seg júst sum aðrir borgarar í <placeName>Danmark</placeName>.</s>
+            <s xml:id="ci7fby5td5">Í <placeName>Danmark</placeName> hava føroyingar, ið eru búsitandi í <placeName>Føroyum</placeName>, men eru staddir í <placeName>Danmark</placeName> í útbúgvingarørindum ella øðrum, møguleika at koppseta seg júst sum aðrir borgarar í <placeName>Danmark</placeName>.</s>
           </p>
           <p>
-            <s>Spurningurin er tí, um hesin møguleikin eisini verður galdandi fyri teir útisetar, ið eru heima í <placeName>Føroyum</placeName> í løtuni.</s>
-            <s>Tí verður hesin spurningurin settur.</s>
+            <s xml:id="uc3hsw5mdm">Spurningurin er tí, um hesin møguleikin eisini verður galdandi fyri teir útisetar, ið eru heima í <placeName>Føroyum</placeName> í løtuni.</s>
+            <s xml:id="fazjsi72b7">Tí verður hesin spurningurin settur.</s>
           </p>
         </div>
         <div type="signature">
           <closer>
             <dateline>
               <hi class="signature-date" rend="bold center">
-                <name type="place">Á Løgtingi</name>, <br /><date when="2021-04-23">23. apríl 2021</date></hi>
+                <name type="place">Á Løgtingi</name>, <br/><date when="2021-04-23">23. apríl 2021</date></hi>
             </dateline>
             <signed rend="center">
               <persName ref="https://tingdata.fo/person/z3jc7jef">Beinir Johannesen</persName>
