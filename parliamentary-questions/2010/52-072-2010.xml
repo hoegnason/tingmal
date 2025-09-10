@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vektgjald</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sjúrður Skaale</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25981" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/72">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sjúrður Skaale<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um vektgjald, settur Aksel V. Johannessen, landsstýrismanni, ( svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør er orsøkin til, at rindast skal nógv meira í vektgjaldi fyri bilar, ið nýta diesel sum brennievni, enn bilar, ið nýta bensin?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Tekur landsstýrismaðurin undir við, at vektgjaldið fyri bilar meira er at rokna sum ein ognarskattur enn ein brúksskattur?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Tekur landsstýrismaðurin undir við, at rættari hevði verið at lagt vektgjaldið oman á brennievni, heldur enn at krevja tað inn sum eitt serligt gjald?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært yvirliti á heimasíðu hjá Akstovuni er sera ymist, hvussu nógv rindast skal fyri vektgjald, alt eftir stødd, slagi av bili, og ikki minst, hvat fyri slag av brennievni, ið nýtt verður.</s>
+          </p>
+          <p>
+            <s>Tá tað snýr seg um persónbilar, skal rindast umleið hálvaaðru ferð so nógv vektgjald fyri ein dieselbil, sum fyri ein bensinbil, sum vigar tað sama.</s>
+          </p>
+          <p>
+            <s>Tá tað snýr seg um hýruvognar, kostar dieselbilurin umleið dupult so nógv í vektgjaldi sum bensinbilurin, sum vigar tað sama.</s>
+          </p>
+          <p>
+            <s>Tá tað snýr seg um bussar, er gjaldið umleið hálvatriðju ferð hægri fyri ein dieselbil enn fyri ein bensinbil, sum vigar tað sama.</s>
+          </p>
+          <p>
+            <s>Tá tað snýr seg um vøru- og lastvognar, kostar dieselbilurin umleið tríggjar ferðir so nógv sum ein líka tungur bensinbilur.</s>
+            <s>Fyri teir størru bilarnar er munurin nakað størri.</s>
+            <s>Hetta kann tykjast løgið, tí dieselbilar kunnu illa sigast at slíta vegirnar meira, enn bensinbilar.</s>
+          </p>
+          <p>
+            <s>Tað er ógvuliga ymist, hvussu nógv bilar verða brúktir - hetta er ikki minst galdandi fyri vøru- og lastvognar.</s>
+            <s>Hetta eru sum oftast arbeiðstól, sum verða nógv nýtt, tá nógv er at gera, og minni, tá lítið er at gera.</s>
+          </p>
+          <p>
+            <s>Hóast tungir bilar sjálvsagt slíta vegirnar meira enn lættari bilar, so er ógvuliga ymist, hvussu nógv hvør slítur.</s>
+            <s>Ein bilur, sum stendur, slítur ið hvussu er als einki.</s>
+          </p>
+          <p>
+            <s>Tí kenna nógvir bileigarar vektgjaldið, sum helst er hugsað sum eitt brúksgjald, meira sum ein ognarskatt.</s>
+            <s>Teir fáa rokningar fyri at eiga nakað - og tað er uttan mun til, hvussu nógv teir brúka almennu vegirnar.</s>
+            <s>Tí verður spurt, um tað ikki hevði verið rættari at lagt vektgjaldið oman á brennievni.</s>
+            <s>Tungir bilar brenna jú meira enn lættir bilar, og tí hevði við hesi skipan eingin ivi verið um, at tann, sum sleit vegirnar mest, eisini rindaði mest.</s>
+            <s>Hinvegin hevði tann, sum koyrir lítið, sloppið undan at rinda hendan "ognarskatt".</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2011-04-04">4. apríl 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sjúrður Skaale</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

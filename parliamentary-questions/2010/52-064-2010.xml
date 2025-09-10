@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mvg og jarðhiti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sjúrður Skaale</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25964" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/64">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sjúrður Skaale<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um mvg og jarðhita, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur Jarðfeingi goldið MVG av nøkrum, sum útlendskar fyritøkur hava gjørt í Føroyum í sambandi við royndirnar við jarðhita?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørja lóg ella hvørja kunngerð bygdi landsstýrismaður sítt svar á, tá hann tann 4. oktober 2010 í skrivligum svari til § 52a fyrispurning nr. 8/2010, upplýsti fyri tinginum, at eingi avgjøld skuldu rindast av útgerð, sum varð leigað úr Svøríki og brúkt í sambandi við eina royndarverkætlan hjá jarðfeingi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, um útgerðin, sum hann umrøddi í svari sínum 4. oktober 2010, varð brúkt av øðrum enn Jarðfeingi, og um MVG og onnur avgjøld eru rindað í tí sambandi?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, nær umrødda útgerð kom til Føroya, hvussu leingi Jarðfeingi nýtti hana, og hvussu leingi Jarðfeingi formliga stóð sum leigari av útgerðini?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Tað skiltist á svarinum, sum landsstýrismaðurin gav Løgtinginum 4. oktober 2010, at umrødda royndarverkætlan var liðug. Men ikki fyrr enn dagin eftir upplýsir Jarðfeingi fyri Taks og svenska eigaranum av útgerðini, at royndarverkætlanin er liðug. Hvussu ber tað til, at boðini fyrst komu til Løgtingið úr landsstýrinum - og síðani frá Jarðfeingi til Taks og svenska eigaran?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, um nakað samband er millum svarið, sum landsstýrismaðurin gav Løgtinginum 4. oktober 2010, og skrivið, dagfest tann 5. oktober 2010, sum Jarðfeingi sendi Taks um sama mál dagin eftir?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært løgtingslóg um meirvirðisgjald er gransking ikki undantikin frá MVG.</s>
+            <s>Tí verður spurt, hvat svarið, sum landsstýrismaðurin gav tann 4. oktober 2010 upp á § 52a fyrispurning nr. 8/2010, bygdi á.</s>
+          </p>
+          <p>
+            <s>Sambært skrivi frá Jarðfeingi til Taks, dagfest 5. oktober 2010, hevur umrødda útgerð formliga staðið í navninum hjá Jarðfeingi ið hvussu er frá mai 2008 til oktober 2010.</s>
+            <s>Men sambært upplýsingum hjá spyrjaranum brúkti Jarðfeingi einans útgerðina í 2008.</s>
+            <s>Tí verður spurt nær hon varð brúkt - og um hon møguliga er brúkt til onnur endamál.</s>
+          </p>
+          <p>
+            <s>Tann 4. oktober 2010 segði landsstýrismaðurin fyri Løgtinginum, at "tá ið verkætlanin varð liðug" skuldi hon antin flytast av landinum ella skrásetast av nýggjum.</s>
+            <s>Dagin eftir sigur Jarðfeingi í skrivi til Taks og til svenska útleigaran: "Nu, hvor prosjektet er afsluttet, skal boreudstyret ikke anvendes mere, og skal derfor enten flyttes tilbage til Sverige, eller registreres behørigt efter gældende regler".</s>
+            <s>Av tí, at hetta verður sagt dag um dag úr landsstýrinum og av Jarðfeingi, verður spurt, um samband er ímillum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-03-08">8. mars 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sjúrður Skaale</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

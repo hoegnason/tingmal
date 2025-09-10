@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eftirlønir til fyrrverandi tingmenn, landsstýrismenn og teirra avvarðandi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25979" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/70">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um eftirlønir til fyrrverandi tingmenn, landsstýrismenn og teirr avvarðandi, settur Kaj Leo Johannesen, løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv verður rindað úr landskassanum í eftirlønum til fyrrverandi løgtingsmenn, landsstýrismenn og teirra avvarðandi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu stórur partur av samlaðu útgjaldingunum stavar frá tí eftirlønarskipan, sum varð sett í verk seinast í nítiárunum (1998)?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjar verða árligu skyldur landskassans til eftirlønir hjá landspolitikarum og teirra avvarðandi komandi 20 – 30 árini, við óbroyttari eftirlønarskipan og óbroyttum tali av landspolitikkarum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Ætlar landsstýrið at leggja uppskot fyri Løgtingið við tí endamáli at broyta eftirlønarskipanina og harvið gera hana bíligari fyri landskassan?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrið hevur lagt fyri Løgtingið uppskot um umfatandi nýskipan á eftirlønarøkinum hjá meiniga føroyinginum til tess at fremja eina haldføra skipan, sum tað stendur í viðmerkingunum til uppskotið.</s>
+          </p>
+          <p>
+            <s>Somuleiðis hevur kykarin verið settur á tænastumannaeftirlønir, síðan Landsgrannskoðanin í frágreiðing síni, hevur víst á, at útreiðslur landskassans orsakað av tænustumannaeftirlønum ikki eru skrásettar og tí ógjørligar at meta um komandi árini.</s>
+          </p>
+          <p>
+            <s>Roknað verður tó við, at útreiðslurnar til tænastumannaeftirlønir fara at vaksa úr uml. 100 mió. kr í góðar 200 mió. kr. fram til 2020, áðrenn útreiðslurnar aftur fara at falla, tí færri tænastumenn verða settir í starv nú.</s>
+          </p>
+          <p>
+            <s>Lítið hevur verið at hoyrt um eftirlønarskipanina hjá landspolitikarum, sum varð sett í verk seinast í nítiárunum, og sum er uppaftur betri enn tann hjá tænastumonnum, m.a. tí tað tekur nógv styttri tíð hjá landsstýris- og tingmonnum at vinna sær rætt til fulla eftirløn, umframt at til ber at fara frá við fullari eftirløn við 60 ára aldur.</s>
+          </p>
+          <p>
+            <s>Spurningurin verður settur løgmanni fyri at fáa greiðu á, um fyrisitingin er greið yvir, hvørjar skyldur landskassans verða á hesum øki komandi árini, og um arbeitt verður við at broyta skipanina.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-03-31">31. mars 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
