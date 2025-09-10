@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Framtíðar urologi í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName></roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25923" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/46">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø</persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um framtíðar skipan við urologi í Føroyum, settur Aksel V. Johannesen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin frá føroyska serlæknanum fingið uppskot, sum lýsir, hvussu ein framtíðar skipan við urologi kann verða skipað í Føroyum, sum víst varð til í svari til fyrispurning nr. 7/2010 á heysti í 2010?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um svarað verður ja í spurningi 1, kann landsstýrismaðurin so greiða frá innihaldinum í notatinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin viðgjørt notatið og tikið støðu til innihaldið?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er støða tikin til, á hvørjum sjúkrahúsi sergreinin við urologi verður staðsett?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sera væleydnað heimtøkuverkætlan innan serlæknagreinina urologi hevur virkað á Klaksvíkar sjúkrahúsi nú í nógv ár.</s>
+          </p>
+          <p>
+            <s>Seinastu tíðina hevur verið arbeitt við at skipa heimtøkuverkætlanir, sum hava virkað í eina tíð, sum varandi sergreinar í Føroyum.</s>
+            <s>Talan hevur í hesum sambandi eisini verið um at skipa urologi sum varandi sergrein á Klaksvíkar Sjukrahúsi.</s>
+          </p>
+          <p>
+            <s>Í svari til fyrispurning nr. 7/2010 frá undirritaða, settur eftir § 52 a í tingskipanini, viðvíkjandi urologi sum sergrein á Klaksvíkar Sjúkrahúsi, segði landsstýrismaðurin, at Heilsumálaráðið hevði sent føroyska serlæknanum, sum hevur virkað, sum konsulentur á Klaksvíkar Sjúkrahúsi seinastu árini í sambandi við heimtøkuverkætlanina innan urologi, eina umbøn um at lýsa, hvussu ein framtíðar skipan við urologi kann verða skipað í Føroyum.</s>
+          </p>
+          <p>
+            <s>Somuleiðis verður sagt í sama svari, at Heilsumálaráðið skal viðgera notatið frá viðkomandi serlækna, áðrenn støða verður tikin til, hvussu ein framtíðar skipan við urologi verður sett í verk, og hvar hon verður staðsett.</s>
+          </p>
+          <p>
+            <s>Lítið ítøkiligt hevur verið at hoyrt frá landsstýrismanninum um áðurnevnda mál, síðan spurningurin varð svaraður tann 27. sept. 2010.</s>
+            <s>Tí hesir uppfylgjandi spurningar til landsstýrismannin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-01-10">10. januar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

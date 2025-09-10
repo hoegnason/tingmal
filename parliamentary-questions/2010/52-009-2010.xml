@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Broyting í kunngerð um áseting av inntøkumarki hjá útróðrarmonnum í 5A</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25851" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/9">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um broyting í kunngerð um áseting av inntøkumarki hjá útróðrarmonnum í 5A, settur Jacob Vestergaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær er inntøkumarkið frá aðrari vinnu enn útróðri fyri fullriknar útróðrarmenn í bólki 5A ásett til 50 túsund krónur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær kemur fráboðaða kunngerðin frá landsstýrismanninum í fiski-og tilfeingismálum um at hækka núgaldandi inntøkumark?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fleiri tinglimir hava frá tingsins røðarapalli fráboðað, at 50 túsund krónu ásetingin sum hámark fyri inntøku frá aðrari vinnu, ið er galdandi fyri fullriknar útróðrarbátar í bólki 5A, er órímilig og treingir til eina munandi dagføring.</s>
+          </p>
+          <p>
+            <s>Skal heimaútróðrinum vera lív lagað, er alneyðugt at bøta um møguleikarnar fyri inntøku.</s>
+          </p>
+          <p>
+            <s>Sum Havstovan áður hevur fráboðað, eru góðir árgangir av toski á veg.</s>
+            <s>Vit eru nú í tí ”hepnu” støðu, at so stórar nøgdir av smáfiski eru at fáa kring Føroyar, at neyðugt hevur verið at stongt óvanliga nógvar leiðir fyri trol og línuveiðu, tí ov nógvur ungfiskur er íblandaður veiðuni.</s>
+          </p>
+          <p>
+            <s>Um vanligu fiskileiðirnar verða stongdar longri tíðarskeIð, er spurningurin, hvat tær tómu hendurnar skulu gera.</s>
+            <s>Verður inntøkumarkið hækkað, kunnu útróðrarmenn styttri tíðarskeIð virka í aðrari vinnu uttan tó at missa rættin til at verða roknaðir sum fullriknir í bólki 5A.</s>
+          </p>
+          <p>
+            <s>Undir viðgerðini av áseting av fiskidøgum í august fekk spyrjarin ta fatan, at landsstýrismaðurin ætlaði at broyta kunngerðina beinanvegin, so at henda kom at galda fyri fiskiárið 2010/2011.</s>
+          </p>
+          <p>
+            <s>Enn er kunngerðin ikki lýst, tí verður hesin fyrispurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-09-23">23. september 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

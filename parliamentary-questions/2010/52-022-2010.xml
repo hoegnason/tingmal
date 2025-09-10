@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Miðnámsskúlin í Suðuroy 2</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hergeir Nielsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25875" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/22">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hergeir Nielsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Miðnámsskúlan í Suðuroy 2, settur Helenu Dam á Neystabø landsstýriskvinnu í mentamálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er tað rætt, at fakliga væl grundgivnar tilráðingar eru komnar um at skræða stórar partar av skúladeplinum úti í Heiðunum í Porkerishaganum niðuraftur? a) at taka allan klædningin niðuraftur, b) at taka allan inndekning og avdekning heilt inn til vindsperruna niðuraftur, c) at gera fakliga rætt tættnigsarbeiði kring øll op við fugum og inndekningi, d) at gjøgnumganga og skifta út alla skadda bjálving, e) at montera manglandi bjálving við múrkrónuna, f) at uppseta nýggja vindsperru við tætningslistum, g) at uppseta nýggja alu klædningsplátu við tilhoyrandi inn- og avdekningi, h) at seta upp nýggjar okar (leysholt), i) at seta upp nýggjan klædning, j) at umbyggja alu vindeygu og glaspartíir, k) at taka niður allar gipsplátur kring vindeygu og glaspartíir, l) at stórumvæla og leggja nýggja isolering og dampsperru á innveggirnar, m) at seta upp nýggjar gipsplátur og mála.</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er tað rætt, at stýrt varð uttan um omanfyri nevndu og aðrar trupulleikar, tá hesir vóru avdúkaðir í byggitíðini, enntá í einum partneringssáttmála, soleiðis at fakliga rættar loysnir ikki vórðu valdar, hóast hesar gjørdust kunnugar undir sjálvari tilgongdini?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Sæð í ljósinum av omanfyri nevndu skakandi veruleikum, heldur landsstýrismaðurin so framvegis, at § 52a - svar hennara í fyrispurningi nr. 11/2010 var meira nøktandi enn villleiðandi?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvat fer landsstýrið at gera við hesar tilráðingar, hvat kemur hetta nýggja projektið at kosta, og hvør fer at rinda kostnaðin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Vísandi til, at § 52a fyrispurningur mín nr. 11/2010 ikki varð svaraður á nøktandi hátt, fari eg at spyrja uppaftur og meiri útgreina.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-10-14">14. oktober 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hergeir Nielsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

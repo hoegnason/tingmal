@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Um játtanina til bústovnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annita á Fríðriksmørk</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25927" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/49">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annita á Fríðriksmørk<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um játtanina til bústovnar, settur Rósu Samuelsen, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Sær landsstýriskvinnan seg føra fyri, at helvtin av 16 mió. krónunum fer til heim til fólk við menningartarni, sum kann hýsa 14 fólkum, og at byggingin kann byrja í heyst einaferð?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Landsstýriskvinnan hevur nú 10,9 mió. kr. umframt tær 5 mió. kr., sum vórðu støðlaðar frá í fjør. Hvussu væntar landsstýriskvinnan, at hon fer at brúka hesar 16 mió. kr. í ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógvar verklagslógir innan bústovnar eru klárar at leggja fyri Løgtingið?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Nær kunnu vit rokna við, at verklagslógir til teir stovnar, heim og sambýli, sum ráðið hevur í umbúna at fáa bygt, koma fyri Løgtingið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Til økið Sambýli til menningartarnað fekk Fíggjarnevndin upplýst skrivliga frá Almannamálaráðnum, at tað var bráðfeingis tørvur á sambýli til menningartarnað í Klaksvík og í Runavík.</s>
+            <s>Í sama skrivi stóð, at Almannamálaráðið væntaði, at hetta fór at kosta 8,4 mió. kr. í 2011.</s>
+            <s>Samstundis varð upplýst, at eingin verklagslóg var gjørd, tí man visti ikki við vissu (í desember 2010), um keypast skuldi ein bygningur til sambýli ella um hann skuldi byggjast.</s>
+          </p>
+          <p>
+            <s>Í Degi og viku 14. desember fekk hyggjarin ta fatan, at orsøkin til, at byggingin av einum sambýli dróg út, var tí, at Fíggjarnevndin hevði skorið uppskotið til játtan.</s>
+            <s>Undirritaða, sum eri limur í Fíggjarnevndin, hevði hinvegin fingið ta fatan, at landsstýriskvinnan náddi ikki at brúka ætlaðu upphæddina, tí verklagslógir manglaðu til allar stovnarnar, sum skuldu hava burtur av játtanini, og tí man ikki hevði tikið avgerð um, hvør ætlan skuldi fremjast - keypa ella byggja.</s>
+          </p>
+          <p>
+            <s>At fyrireika eina verklagslóg og fáa hana samtykta í Løgtinginum tekur tíð, at projektara tekur eisini tíð og at bjóða projekið út og gera jørðarbeiðið klárt o.s.fr.</s>
+            <s>tekur alt tilsamans fleiri mánaðir.</s>
+            <s>Tá onki av tí, sum tørvur er á innan bústovnar, var komið í eygað, hvørki innan sambýli til sinnisveik, heim til heilaskadd, sambýli til menningartarnað í Runavík og í Klaksvík, ella í sambandi við at byggja nýggjan stovn til Reiðrið, so var ringt at síggja fyri sær, at øll játtanin fór at verða brúkt, og varð tí hildið, at játtanin til Bústovnar var mikið hægri, enn man náddi at brúka.</s>
+          </p>
+          <p>
+            <s>Tí varð avgjørt í Fíggjarnevndini, at játtanin skuldi lækka, so aðrar íløgur kundu fáa innivist á fíggjarlógini, tó við tí fatan, at 16 mió. kr. vóru nóg mikið til bygging av tveimum heimum/sambýlum í 2011.</s>
+            <s>Annað av hesum átti sjálvsagt at verið til at nøkta bráðfeingis tørvin á heimi til menningartarnað.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, hin <date when="2011-01-19">17. januar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annita á Fríðriksmørk</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dioxin í matvørum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25950" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/58">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um dioxin í matvørum, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvat gera føroyskir matvøru- og umhvørvismyndugleikar fyri at kanna innihaldið av dioxini í matvørum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kunnu somu myndugleikar veita brúkarum í Føroyum trygd fyri, at matvørur á marknaðinum ikki hava eitt ov høgt dioxininnihald? (hugsað verður bæði um føroyskar og innfluttar matvørur)</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Verður nakað gjørt við at kanna dioxindálking í eitt nú djóra- og fiskafóðri, kjøti, øðrum landbúnaðarvørum og lendi í Føroyum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Dioxin verður flokkað sum sera vandamikið giftevni, ið serliga stavar frá vánaligari brenning ella bleiking við klori.</s>
+          </p>
+          <p>
+            <s>Javnan hoyra vit uttan úr heimi um sonevndar dioxingølur.</s>
+            <s>Dálkaður matur verður tikin av hillunum, og húsdjór, ætlað til mannaføði, verða tikin av.</s>
+            <s>Oftast er dálking á landi orsøk til, at vandamikla evnið umvegis gras, grøði og annað fóður kemur í landbúnaðarvørur, men fiskavørur kunnu sjálvsagt eisini innihalda ov nógv dioxin orsakað av dálking.</s>
+          </p>
+          <p>
+            <s>Hjá grannum okkara fyri vestan - Íslandi - hevur slík gøla fyri kortum havt við sær, at bøndur í einum ávísum øki í Íslandi hava verið noyddir at taka av neyt og seyð.</s>
+            <s>Nýliga hava vit eisini frætt um trupulleikar av sama slagi bæði í Týsklandi og í Danmark.</s>
+          </p>
+          <p>
+            <s>Keldan til dioxindálkingina í Íslandi er í ítøkiliga døminum - útlát frá eini gamlari brennistøð.</s>
+            <s>Landbúnaðarvørur, framleiddar á leiðini, eru síðan av matvørumyndugleikunum har vrakaðar sum mannaføði, tí dioxininnihaldið er oman fyri loyvd markvirði.</s>
+          </p>
+          <p>
+            <s>Spurningurin um dioxindálking hjá okkum varð viðgjørdur, tá brennistøðirnar í Havn og á Hagaleiti fóru undir at brenna rusk.</s>
+            <s>Síðan hevur lítið og einki verið at hoyrt um spurningin.</s>
+            <s>Tí hesir spurningar til landsstýrismannin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2011-02-11">11. februar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

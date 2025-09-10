@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rúsan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25879" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/23">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Rúsuna, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør er orsøkin til, at Rúsan ætlar at lata upp eksklusivhandil í SMS?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær væntar landsstýrismaðurin, at handilin í SMS letur upp?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin tikið undir við hesi ætlan?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur landsstýrismaðurin undirtøku í samgonguni fyri hesi ætlan?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Væntar landsstýrismaðurin, at eksklusivhandilin í SMS - tað, sum eftir er av árinum, - fer at kasta so mikið av sær, at Rúsan megnar at halda avlopskravið í fíggjarlógini?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvussu mikið væntar Rúsan, at eksklusivhandilin í SMS fer at selja fyri hiðani og til árslok? Og hvussu stórt væntar Rúsan, at avlopið verður av hesum handli hiðani til árslok?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Heldur landsstýrismaðurin, at tað er í samsvari við endamálsorðingina í rúsdrekkalógini, at Rúsan nú ætlar at økja um útboðið og atgongdina?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hevur Rúsan ætlanir um onnur tiltøk fyri at halda játtanina á fíggjarlógini?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hvat heldur landsstýrismaðurin, at ein landsstýrismaður eigur at gera við eina leiðslu, sum ikki megnar at halda játtanina á fíggjarlógini?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s> Hevur landsstýrismaðurin tikið nøkur stig til tess at sleppa Rúsuni undan avlopskravinum á fíggjarlógini og heldur at stýra príspolitikkinum og fyribyrgingararbeiðnum umvegis avgjøld á § 20 í fíggjarlógini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyrsta grein í lóg um rúsdrekkasølu sigur, at endamálið við hesi lóg er at tálma NÝTSLUNI av rúsdrekka.</s>
+            <s>Sambært heimasíðuni hjá Rúsuni er missiónin at tálma rúsdrekkaMISnýtsluni.</s>
+            <s>Munur er á nýtslu og misnýtslu.</s>
+            <s>Tá Rúsan ikki tykist hava somu missión, sum lógin ásetir, nevniliga at tálma nýtsluni, er neyðugt hjá myndugleikunum at halda eitt serliga vakið eyga við, hvussu lógin verður fyrisitin í verki.</s>
+            <s>Eftir øllum at døma ger Rúsan ov nógv fyri at økja um nýtsluna av rúsdrekka.</s>
+            <s>Hetta fyri at røkka avlopskravinum í fíggjarlógini.</s>
+            <s>Avlopskravið er sjálvandi ein ómøgulig tvístøða fyri Rúsuna.</s>
+            <s>Tað er ómøguligt at miða ímóti at selja minni, samstundis sum roynast skal at selja meira.</s>
+            <s>Tí er neyðugt, at politiski myndugleikin beinanvegin loysir Rúsuna burtur úr hesi tvístøðuni.</s>
+            <s>Tað kann gerast við at flyta príspolitikkin til landsstýrismannin í fíggjarmálum, sum umsitur avgjaldspolitikkin.</s>
+            <s>Tí Rúsan skal ikki nýta sína orku til at royna at fáa fleiri at drekka meira.</s>
+            <s>Rúsan skal halda seg til upprunaendamálið, sum er at tálma nýtsluni.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin bað Løgtingið um at hækka játtanina til Rúsuna við kr. 500.000, so Rúsan megnaði at halda játtanina fyri 2010.</s>
+            <s>Hendan umbøn varð ikki eftirlíkað.</s>
+            <s>Nú ætlar Rúsan at økja um atgongdina og útboðið fyri at leggja trýst á politiska myndugleikan.</s>
+            <s>Hetta kann føra við sær meirnýtslu og harvið enn størri skaðar bæði heilsuligar og sosialar.</s>
+            <s>Tí má landsstýrismaðurin svara fyri óhepnu framferðini hjá leiðsluni í Rúsuni.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-10-22">22. oktober 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

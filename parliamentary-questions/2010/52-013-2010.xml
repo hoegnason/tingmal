@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eftirskúli í Suðuroy</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sjúrður Skaale</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25855" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/13">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sjúrður Skaale<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um eftirskúla í Suðuroy, settur Helenu Dam á Neystabø, landsstýriskvinnu í mentamálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji ítøkilig stig hevur landsstýriskvinnan tikið í málinum um eftirskúla í Suðuroy, síðani Løgtingið tann 19. november 2009 heitti á hana um at fáa gongd á málið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji ítøkilig stig fer landsstýriskvinnan at taka í hesum máli í komandi árið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tann 19. november 2009 atkvøddu 26 tinglimir fyri einum soljóðandi uppskoti til samtyktar um eftirskúla í Suðuroy:
+              "Løgtingið heitir á Føroya Landsstýri um at samstarva við stigtakararnar um at skipa eftirskúla í Suðuroy, og í tí sambandi at fyrireika og leggja fram neyðugar lógarbroytingar."</s>
+          </p>
+          <p>
+            <s>Nevndin viðgjørdi málið á fleiri fundum, tosaði við nógvar viðkomandi partar, og var samd um, at tað er rætt at skipa eftirskúlan.</s>
+            <s>Tí skrivaði Mentanarnevndin m.a. í álitinum, at "Hildið verður, at tað er rætt, at tingið vísir sín vilja til at stuðla málinum, soleiðis at landsstýrið verður eggjað til at taka lógina um eftirskúlan í nýtslu - lítið virði er í at samtykkja lóg um eftirskúlar fyri síðan ikki at brúka lógina."</s>
+          </p>
+          <p>
+            <s>Mentanarnevndin ásannaði kortini eisini, at fíggjarstøða landsins setir avmarkingar, og hevði tí hetta tilmælið til landsstýrið: "Tí má tað vera upp til eina gjølla viðgerð í landsstýrinum, hvussu eftiskúlin skal koma inn í raðfestingarnar á karminum, soleiðis at peningur bæði er til íløgukostnaðin og til rakstur av skúlanum."</s>
+          </p>
+          <p>
+            <s>Nú er nærum eitt ár liðið síðani hesa samtykt, og tí hevði verið gott um landsstýriskvinnan kundi greitt tinginum frá, hvussu málið um eftirskúla í Suðuroy stendur í dag.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-10-01">1. oktober 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sjúrður Skaale</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

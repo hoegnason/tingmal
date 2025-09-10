@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ergoterapi til børn við serligum tørvi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25944" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/57">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Ergoterapi til børn við serligum tørvi, settur Aksel V. Johannesen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær fer børnum við serligum tørvi, at standa í boði at fáa ergoteropoutiska viðgerð frá tí almenna?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat fer almenna tilboðið at kosta brúkara og almennu køssunum um tíman, samanborið við tilboðið, ið hevur verið galdandi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógvan pening hevur Heilsutrygd at arbeiða við í sambandi við ergoterapi?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er upphæddin nøktandi í mun til tørvin á viðgerðum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Eru aðrir almennir stovnar, sum skulu spjaða til við peningi, hølum og øðrum tænastum í sambandi við nýggju almennu ergoterapiina?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Um svarað verður ja í spurningi 5, hvørjir stovnar er so talan um, og hvussu umfatandi verður teirra ískoytið í nýggja almenna tilboðið?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvar í landinum fer almenn ergoterapi at verða veitt børnum við serligum tørvi?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hvussu nógvar ergoterapeutar er ætlanin at seta í alment starv?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin um skipanir, ið gera tað møguligt hjá læknum framhaldandi at ávísa børn, ið hava tørv á ergoterapoutiskari viðgerð, til privatar veitarar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hevur drigið alt ov leingi út at fáa sáttmála í lag millum Ergoterapeutfelagið og Heilsutrygd, ið tryggjar børnum við serligum tørvi stuðul í sambandi við neyðuga ergoterapoutiska viðgerð.</s>
+            <s>Avleiðingarnar av hesum sáttmálaloysi síggjast nú av álvara, við tað at børn als ikki fáa ta viðgerð, teimum frammanundan hevur staðið í boði.</s>
+          </p>
+          <p>
+            <s>Ergoterapoutar í privatu vinnuni og foreldur rópa varskó.</s>
+            <s>Ávarað verður um, at dýrabar vitan og viðgerð innan ergoterapi, ið er bygd upp seinastu árini, nú er við at fara fyri bakka.</s>
+            <s>Landsstýrismaðurin boðar harafturímóti frá, at hann er farin undir at byggja upp bæði betri og bíligari almenna skipan innan ergoterapi.</s>
+            <s>Í tvídráttinum, sum hevur tikið seg upp millum privatar ergoterapoutar øðrumegin og Heilsumálaráðið og Heilsutrygd hinumegin, er ilt at fáa eyga á nakran vinnara.</s>
+            <s>Men at børnini og teirra avvarðandi eru størstu tapararnir, er, sum ikki einaferð, lítið at ivast í.</s>
+          </p>
+          <p>
+            <s>Fløktu viðurskiftini mugu tí greiðast sum skjótast!</s>
+            <s>Tí hesir spurningar til landsstýrismannin:</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-02-08">8. februar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

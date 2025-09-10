@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Arbeiðsloyvi til útlendskar hjúnafelagar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25832" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/1">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um arbeiðsloyvi til útlendskar hjúnafelagar, settur Anniku Olsen, landsstýriskvinnu í innlendismálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landstýriskvinnan upplýsa, um føroyskir myndugleikar hava heimild til at veita útlendingum, sum eru giftir føroyingum, arbeiðsloyvi beinanvegin, søkt verður um tað, meðan bíðað verður eftir viðgerðini um familjusamanføring og varandi arbeiðs- og uppihaldsloyvi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um føroyingur, staddur í útlandinum, giftist við útlendingi, hvat er tryggasti og skjótasti háttur at fáa hjúnafelagan heim? a) søkja um turistvisum b) søkja um arbeiðs- og uppihaldsloyvi ella c) søkja um familjusamanføring?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvat er meðal avgreiðslutíðin av a) Turistvisum b) Arbeiðs/uppihaldsloyvi og c) Familjusamanføring.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Havi seinasta vetur sett landsstýriskvinnuni líknandi fyrispurning.</s>
+            <s>Framkomna tøknin t.d. Facebook og Skype geva føroyingum møguleika fyri at koma í samband við fólk kring allan heimin.</s>
+            <s>Alsamt fleiri av borgarum okkara nýta hendan møguleikan at finna sær drong ella unnustu.</s>
+            <s>Hjá nógvum endar tað við kærleika og hjúnalagi.</s>
+          </p>
+          <p>
+            <s>Tað er sjálvsagt at fegnast um, at hesir møguleikar standa opnir, tí Føroyar hava sum flestu fólkafátæku útjaðaraøki eitt sera ójavnt kynsbýti.</s>
+            <s>Tí er tað uttan iva gagnligt fyri eitt lítið samfelag sum okkara, at ávís tilgongd av fólki í burðardyggum aldri leitar hendavegin.</s>
+          </p>
+          <p>
+            <s>Um Føroyar skulu fáa ágóðan av fólkavøkstri og tilgongd er alneyðugt, at útlendingar, sum eru giftir føroyingum, sum skjótast sleppa til arbeiðis, annars er vandi fyri at parið flytur av landinum til lond, har arbeiðs- og uppihaldsmøguleikarnir eru betri.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2010-08-09">9. august 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Skipara- og skipsføraraútbúgvingar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25960" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/60">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um skipara- og skipsføraraútbúgvingar, settur Helenu Dam á Neystabø, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji eru upptøkukrøvini til skipsføraraútbúgvingina á Vinnuháskúlanum í dag?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu stórur partur av næmingunum, sum útbúgva seg til skipsførara í dag, hava “gymnasiala” miðnámsútbúgving?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu stórur partur av næmingunum, sum útbúgva seg til skipsførara, hava ikki miðnámsútbúgving, men eru skiparalærdir?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu langa tíð tekur tað at útbúgva skipsførara í dag: a) næming, sum hevur víðkaðu fráfaringarroynd fólkaskúlans (10. flokk), sum útgangsstøði? b) næming, sum frammanundan er skiparalærdur?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Eru tekin um, at núverandi skipsføraraútbúgving fer at missa altjóða góðkenningarásetingar sbrt. STCW- sáttmálanum hjá IMO í framtíðini?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvør er orsøkin til, at skiparaútbúgvingin ikki longur verður fyrri partur av skipsføraraútbúgvingini?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Kann landsstýriskvinnan grundgeva fyri, hví hon ætlar at broyta galdandi útbúgving til eina útbúgving á bachelorstigi, har upptøkukrøvini verða strangari, og tíðin at útbúgva seg væl longri?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað kundi sæð út til, at Mentamálaráðið er nøgt við maritimu útbúgvingarnar, tí í tíðindaskrivi, dagfest 31. januar 2011, verður sagt: “Verandi skipsførara- og maskinmeistaraútbúgvingar eru góðar og lúka verandi altjóða krøv”</s>
+          </p>
+          <p>
+            <s>Hóast omanfyristandandi hevur landsstýriskvinnan boðað frá, at hon ætlar at kolvelta skipanina við at lyfta skipsførara- og maskinmeistaraútbúgvingarnar á bachelorstig.</s>
+          </p>
+          <p>
+            <s>Samstundis er ætlanin eftir øllum at døma at skerja møguleikarnar hjá teimum, sum í framtíðini velja at fara á skiparaskúla.</s>
+            <s>Hetta kemur fram í framløgu hjá landsstýriskvinnuni, har hon segði: ”Ein natúrlig avleiðing av hesum verður, at skiparaútbúgvingin, sum er 1,5 ár, ikki longur verður fyrri partur av skipsføraraútbúgvingini”.</s>
+          </p>
+          <p>
+            <s>Við tað, at landsstýriskvinnan eftir øllum at døma arbeiðir við umfatandi broytingum av útbúgvingum, sum framanundan hava gott orð á sær, og við tad, at spurningurin ikki er viðgjørdur til lítar í politisku skipanini, verða hesir spurningar settir landsstýriskvinnuni.</s>
+          </p>
+          <p>
+            <s>Somu spurningar kundu eins væl verið settir í sambandi við maskinist- og maskinmeistaraútbúgvingarnar, men fyri at gera spurningin greiðari, verður einans spurt um nautisku útbúgvingarnar í hesum umfari.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-02-14">14. februar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

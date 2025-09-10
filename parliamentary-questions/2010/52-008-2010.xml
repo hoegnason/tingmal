@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jarðhitaskipan í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25847" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/8">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um jarðhitaskipan í Føroyum, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, hvørjir partar av vinnuni eru hoyrdir, viðvíkjandi jarðhitaskipanum í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Sambært heimasíðuni hjá Jarðfeingi, eru svenskar ásetingar galdandi fyri arbeiðið av boriholum. Er nøkur føroysk reglugerð í eygsjón, um ja, verða krøvini í nýggju ásetingini áleið tey somu sum núgaldandi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er nakað krav sett um, at føroysk arbeiðsmegi luttekur í boriarbeiðinum til tess at tryggja, at vit fáa neyðugu vitanina?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Kann landsstýrismaðurin greiða frá tilgongdini til undangóðkenning. Er arbeiðið bjóða út, ella er talan um útvaldar fyritøkur eftir givnum fortreytum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hevur Jarðfeingi goldið leigu fyri boriútgerðina, sum royndarfelagið hevur goymt í Føroyum, síðan royndarboringarnar byrjaðu. Um ja, hvussu nógv er goldið og av hvørji játtan?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Stendur Jarðfeingi sum innflytari av útgerðini, hvussu leingi skal hon verða í landinum, og er MVG goldið av innflutningsvirðinum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa úrslitið av royndunum higartil.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroyar hava bundið seg í altjóða avtalu at minka útlátið av veðurlagsgassum komandi árini við 20%.</s>
+            <s>Grøn orka stendur ovarlaga á breddanum hjá grannatjóðunum og allir møguleikar verða troyttir.</s>
+            <s>Vindur, vatn, vetni, sól og alda eru orkukeldur, sum hava stóran áhuga.</s>
+            <s>Somuleiðis er staðfest, at orka eisini kann fáast við at bora jarðhol og gagnnýta hitan.</s>
+          </p>
+          <p>
+            <s>Føroyar hava eitt ávíst arbeiðsloysi, og handverksvinnan saman við fiskivinnuni hava merkt størstu avbjóðingarnar.</s>
+            <s>Neyðugt er at útvega nýggj arbeiðspláss, tí er alneyðugt, at vit menna og tillaga okkara arbeiðsmegi til nýggjar avbjóðingar.</s>
+          </p>
+          <p>
+            <s>Vit mangla eina landsbyggireglugerð í Føroyum fyri sethús og aðrar bygningar.</s>
+            <s>Um vit skulu fáa nakað føroyskt felag ella føroyskan íverksetara at gera nakað við at bora eftir jarðhita í Føroyum, mugu vit hava føroyskar reglur, sum hóska til føroyska marknaðin, og ikki lata hesa vitanina fara av landinum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2010-09-23">23. september 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

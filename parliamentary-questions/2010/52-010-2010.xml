@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tannlæknaloysi á Landssjúkrahúsinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-10" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bergtóra H. Joensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25849" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/10">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bergtóra H. Joensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um tannlæknaloysið á Landssjúkrahúsinum, settur Aksel V. Johannesen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Á hvønn hátt er søkt og leitað eftir nýggjum tannlækna til Landssjúkrahúsið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu tryggjar Heilsumálaráðið sær, at eitt nú sjúklingar á psykiatriska deplinum, børn, sum hava tørv á serkønari tannlæknahjálp, og fólk, sum hava fingið stráluviðgerð í høvd og háls, fáa røttu og kønu tannlæknahjálpina?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu ætlar landsstýrismaðurin í heilsumálum at loysa hesa avbjóðing?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er talan í veruleikanum um eina her og nú spariætlan hjá Heilsumálaráðnum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Nær væntar landsstýrismaðurin, at starvið verður mannað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Mong mundu gerast paff og undra seg stórliga, tá tey í farnu viku fingu at vita, at eingin tannlækni verður á Landssjúkrahúsinum frá 1. oktober.</s>
+            <s>Verandi tannlækni fer frá vegna aldur.</s>
+            <s>Sostatt kemur tað neyvan óvart á Heilsumálaráðiðið, at starvið nú skal mannast av nýggjum.</s>
+            <s>Tannlæknafelagið ger vart við, at tey, sum serliga fara at kenna sviðan av hesum, eru sjúklingar, sum hoyra undir psykiatriska depilin, børn, sum hava tørv á serligari tannlæknaviðgerð, og fólk, sum hava fingið stráluviðgerð í høvd ella háls.</s>
+          </p>
+          <p>
+            <s>Verandi tannlæknar hava allir so mikið nógv at gera, at teir ikki taka móti fleiri sjúklingum.</s>
+            <s>Tískil verður neyvan gjørligt hjá hesum fólkum at fáa røttu hjálpina aðrastaðni.</s>
+          </p>
+          <p>
+            <s>Nýggjur tannlækni tykist at vera niðarlaga raðfestur hjá landsstýrismanninum.</s>
+            <s>Yrkisfelagið hjá tannlæknunum kennir einki til, at lýst hevur verið eftir tannlækna.</s>
+            <s>Tykist sera løgi, um Heilsumálaráðið ikki hevur sparrað við yrkisfelagið um hetta sera týdningarmikla starv, tá tað ikki er mannað.</s>
+            <s>Starvslýsingar skulu vera til øll almenn størv, eisini tí tykist tað ógvuliga margháttligt, um hetta starv ikki er lýst leyst á nakran hátt.</s>
+            <s>Tað er ikki í samsvari við almenna setanarpolitikkin.</s>
+          </p>
+          <p>
+            <s>Í grein í Dimmalætting fríggjadagin hin 17. september stendur, at eingin annar tannlækni dugir tað, sum verandi tannlækni á Landssjúkrahúsinum dugir.</s>
+            <s>Spell, at eingin er lærdur upp til ella er eggjaður til at ogna sær hesar týdningarmiklu førleikar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-09-23">23. september 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bergtóra H. Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
