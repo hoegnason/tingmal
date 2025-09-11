@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nýtsla av vakmyndatólum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName></persName>
+            <roleName>Kári P. Højgaard løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/43978" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/33">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>
+              Kári P. Højgaard
+              <lb />
+              <roleName>løgtingsmaður</roleName>
+            </persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold"></head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er sama lóg galdandi í Føroyum, sum í grannalondunum, viðvíkjandi vakmyndatólum, tá talan er um uppseting og gagnnýtslu av vitan frá hesi íløgu?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Fær til dømis ein bensinsøla loyvi at seta vakmyndatól á pumpurnar fyri at tryggja sær prógv, um onkur bilførari "gloymir" at rinda fyri áfylling? Og fæst atgongd til vitan um eigaraviðurskiftini frá løgregluni ella Akstovuni, við at upplýsa nummarplátuna?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um nei, hevur samgongan ætlanir um broytingar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært Dátueftirlitinum kunnu vakmyndatól bara nýtast til lóglig og saklig endamál.</s>
+            <s>Vakmyndatól verða í alt størri mun nýtt til eftirlit og fyribyrging.</s>
+            <s>Ein skuldi trúð, at lond í vesturheiminum høvdu eina áleið felags áseting um nýtslu og avmarkingar av vakmyndatólum á t.d. arbeiðsplássum, akførum, handlum, sjálvtøkum, tænastustøðum og á almennum økjum.</s>
+          </p>
+          <p>
+            <s>Í miðlunum hevur eitt sakarmál viðvíkjandi uppseting av vakmyndatóli fingið nógva umtalu, har eigarin av vakmyndatólinum vann sakina í Føroya Rætti.</s>
+          </p>
+          <p>
+            <s>Í ferðslusending nevndi løgreglumaður, at tað í onkrum føri hevði hjálpt væl til at staðfesta hending í ferðsluóhappi, har upptøkutól var í bilinum, men at tað var ólógligt.</s>
+          </p>
+          <p>
+            <s>Spurningurin er dagsaktuellur og viðkomandi, tí verður hann settur løgmanni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2018-11-13">13. november 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
