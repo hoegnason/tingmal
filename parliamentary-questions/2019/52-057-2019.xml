@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-11" />
+        <date when="2025-09-11"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName>Ruth Vang</persName>
             <roleName>løgtingsmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/3326" />
+          <ref target="https://www.logting.fo/documents/3326"/>
           <note type="source_format">PDF document, machine-readable text</note>
         </bibl>
       </sourceDesc>
@@ -43,50 +42,50 @@
       <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/57">
         <div type="questioner">
           <head rend="bold">
-            <persName>Ruth Vang<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName>Ruth Vang<lb/><roleName>løgtingsmaður</roleName></persName>
           </head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div>
           <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div type="question-title">
           <head rend="bold">Fyrispurningur um teksting av føroyskum sjónvarpssendingum, settur landsstýrismanninum í uttanríkis- og mentamálum, Jenisi av Rana (at svara skrivliga eftir TS § 52a)</head>
         </div>
-        <space type="vertical" />
+        <space type="vertical"/>
         <div type="question-list">
           <list type="ordered">
             <item xml:id="q1" type="question-item">
-              <s>Ætlar landsstýrismaðurin at gera nakað við málið, soleiðis at allar føroyskar sjónvarpssendingar, sum verða sendar í KVF, verða tekstaðar?</s>
+              <s xml:id="midemrizag">Ætlar landsstýrismaðurin at gera nakað við málið, soleiðis at allar føroyskar sjónvarpssendingar, sum verða sendar í KVF, verða tekstaðar?</s>
             </item>
             <item xml:id="q2" type="question-item">
-              <s>Um ja, nær kann væntast, at allar føroyskar sjónvarpssendingar verða tekstaðar?</s>
+              <s xml:id="yxgpoeqexa">Um ja, nær kann væntast, at allar føroyskar sjónvarpssendingar verða tekstaðar?</s>
             </item>
           </list>
         </div>
-        <space />
+        <space/>
         <div type="background">
           <head rend="bold">Viðmerkingar:</head>
           <p>
-            <s>Síðani løgtingssamtyktina frá mai 2009, hevur ST-sáttmálin um rættindi hjá einstaklingum, ið bera brek, verið galdandi í Føroyum, og hevur Løgtingið við samtyktini bundið seg til at fremja batar fyri fólk við breki.</s>
-            <s>Landsstýrið letur ST frágreiðing 4. hvørt ár, sum lýsir og metir um, í hvønn mun ST sáttmálar verða uppfyltir.</s>
-            <s>Í 2014 varð sokallað skuggafrágreiðing gjørd, har MBF gjørdi viðmerkingar til frágreiðingina hjá landsstýrinum um støðuna viðvíkjandi sáttmálanum um rættindi hjá einstaklingum, ið bera brek.</s>
-            <s>Niðurstøðan var, at batar vóru neyðugir.</s>
-            <s>Millum annað var neyðugt at betra um møguleikar hjá tunghoyrdum og deyvum til almenna kunning, so tey ikki verða útihýst frá at fylgja við tí, sum hendir í okkara samfelag.</s>
-            <s>ST-nevndin álegði landsstýrinum at tryggja bæði deyvum fólki og teimum, ið hava ringa hoyrn, atgongd til allar sendingar, ið KVF sendir.</s>
+            <s xml:id="qecevd7zgw">Síðani løgtingssamtyktina frá mai 2009, hevur ST-sáttmálin um rættindi hjá einstaklingum, ið bera brek, verið galdandi í Føroyum, og hevur Løgtingið við samtyktini bundið seg til at fremja batar fyri fólk við breki.</s>
+            <s xml:id="ewus5g4djz">Landsstýrið letur ST frágreiðing 4. hvørt ár, sum lýsir og metir um, í hvønn mun ST sáttmálar verða uppfyltir.</s>
+            <s xml:id="duoktzjhy2">Í 2014 varð sokallað skuggafrágreiðing gjørd, har MBF gjørdi viðmerkingar til frágreiðingina hjá landsstýrinum um støðuna viðvíkjandi sáttmálanum um rættindi hjá einstaklingum, ið bera brek.</s>
+            <s xml:id="iwm77hcco5">Niðurstøðan var, at batar vóru neyðugir.</s>
+            <s xml:id="a5o4jambpb">Millum annað var neyðugt at betra um møguleikar hjá tunghoyrdum og deyvum til almenna kunning, so tey ikki verða útihýst frá at fylgja við tí, sum hendir í okkara samfelag.</s>
+            <s xml:id="hd7mj527yr">ST-nevndin álegði landsstýrinum at tryggja bæði deyvum fólki og teimum, ið hava ringa hoyrn, atgongd til allar sendingar, ið KVF sendir.</s>
           </p>
           <p>
-            <s>Umleið sætti hvør føroyingur hevur eitt hoyribrek, sum m.a. ger tað trupult ella ómøguligt at fylgja við í føroyskum sjónvarpssendingum, sum ikki eru tekstaðar.</s>
-            <s>Hesum 8000 føroyingum er álagt at rinda kringvarpsgjald eins og øðrum.</s>
+            <s xml:id="pzhbpogc4s">Umleið sætti hvør føroyingur hevur eitt hoyribrek, sum m.a. ger tað trupult ella ómøguligt at fylgja við í føroyskum sjónvarpssendingum, sum ikki eru tekstaðar.</s>
+            <s xml:id="ckkcs7ksyi">Hesum 8000 føroyingum er álagt at rinda kringvarpsgjald eins og øðrum.</s>
           </p>
           <p>
-            <s>Nakað er hent á økinum seinnu árini, tá tað kemur til teknmálstulking, og eisini verða flest allar føroyskar dokumentarsendingar tekstaðar, men enn er tó ikki komið á mál.</s>
-            <s>KVF hevur boðað HOYR, felagnum fyri hoyribrekað, frá, at neyðugt er við játtan til 1,5 starv afturat, um allar sendingar skulu tekstast.</s>
-            <s>Tað merkir eitt nú, at seinna sendingin av Degi og viku á kvøldi kann sendast tekstað.</s>
+            <s xml:id="kivl6vwkus">Nakað er hent á økinum seinnu árini, tá tað kemur til teknmálstulking, og eisini verða flest allar føroyskar dokumentarsendingar tekstaðar, men enn er tó ikki komið á mál.</s>
+            <s xml:id="bjsnyo7yko">KVF hevur boðað HOYR, felagnum fyri hoyribrekað, frá, at neyðugt er við játtan til 1,5 starv afturat, um allar sendingar skulu tekstast.</s>
+            <s xml:id="i5vxxuhk3c">Tað merkir eitt nú, at seinna sendingin av Degi og viku á kvøldi kann sendast tekstað.</s>
           </p>
           <p>
-            <s>Nú 3. mars, ið er altjóða hoyridagur, nærkast, fari eg at nýta høvi at spyrja landsstýrismannin um teksting av føroyskum sjónvarpssendingum í KVF.</s>
+            <s xml:id="r2la63sgpk">Nú 3. mars, ið er altjóða hoyridagur, nærkast, fari eg at nýta høvi at spyrja landsstýrismannin um teksting av føroyskum sjónvarpssendingum í KVF.</s>
           </p>
         </div>
         <div type="signature">
