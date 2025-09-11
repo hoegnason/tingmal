@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sjúklingaráðið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen løgtingsmaður</persName>
+            <roleName>Fyrispurningur eftir Tingskipanini</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39299" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/61">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen løgtingsmaður<lb /><roleName>Fyrispurningur eftir Tingskipanini</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">innlendismálum, Sirið Stenberg, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví eru ongi umboð vald úr Eysturoynni í nývalda sjúklingaráðið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Vóru tilmæli um at velja fólk úr øðrum økjum enn Tórshavn, Klaksvík, Vági og Porkeri? Um ja, hvaðani?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur landsstýrismaðurin, at sjúklingar úr Eysturoynni ikki hava tørv á umboðan í sjúklingaráðnum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørjum hevur landsstýrismaðurin fingið tilmæli frá, og hvussu nógv tilmæli um persónar íalt fekk landsstýrismaðurin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrismaðurin hevur valt nýtt sjúklingaráð.</s>
+            <s>3 umboð úr Havn, 3 úr Klaksvík og 3 úr Suðuroy, harav 2 úr heimstaðnum hjá landsstýrismanninum.</s>
+            <s>Í lógini um sjúkrahúsverkið stendur:
+              <lb/>
+              <hi rend="bold">§ 3.</hi>
+              Landsstýrismaðurin velur eitt sjúklingaráð við níggju limum, út frá landafrøðiligum atliti, sum skal hava møguleika at viðgera øll heildarmál um viðurskifti, ið hava týdning fyri veitingar til sjúklingar.</s>
+            <seg>Stk. 2.</seg>
+            <s>Landsstýrismaðurin ásetir reglur um, hvussu sjúklingaráðið verður mannað og um virksemið hjá ráðnum.</s>
+          </p>
+          <p>
+            <s>Hóast lógin stutt og greitt áleggur landsstýriskvinnuni at velja sjúklingaráð út frá landafrøðiligum atliti, hevur hon við valinum gjørt júst øvugt.</s>
+            <s>Næststørsta oyggin við næstmesta fólkatalinum, Eysturoyggin, við meiri enn 11.000 fólkum, hevur einki umboð.</s>
+            <s>Eysturoyggin hevur onga skaðastovu, einki sjúkrahús og bert lutvísa sjúkraflutningstænastu og skuldi júst tí havt fyrsta val í sjúklingaráðið.</s>
+            <s>Men enn eina ferð vísir suður- og høvuðsstaðarsamgongan, at Eysturoyggin ikki stendur frammarlaga.</s>
+            <s>Heldur ikki hava Vágarnar, Sandoyggin og Norðstreyoy nakað umboð í sjúklingaráðnum, sum eins og Eysturoyggin hava egnar avbjóðingar, júst tí har ikki er sjúkrahústilbúgving.</s>
+          </p>
+          <p>
+            <s>Lógin er stutt og hevur í veruleikanum bert eina áseting: Landafrøðislig atlit.</s>
+            <s>Og júst tey atlitini hevur landsstýrismaðurin skúgvað til viks.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2017-03-17">17. mars 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

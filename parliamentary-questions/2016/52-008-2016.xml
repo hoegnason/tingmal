@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pensjónsnýskipanin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39192" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/8">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annika Olsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um pensjónsnýskipanina, settur landsstýrismanninum í almannamálum, Eyðgunn Samuelsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær kann politiski fylgibólkurin vænta at fáa fundarboð aftur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru ætlanir at gera broytingar í pensjónsnýskipanini í sambandi við fíggjarlógina?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Undan jólum í fjør gjørdi landsstýrissamgongan týðandi broytingar í pensjónini hjá føroyingum.</s>
+            <s>Eitt nú samtykti landsstýrissamgongan at niðurlaða grundarupphæddina í fólkapensjónini við 500 kr .</s>
+            <s>Steðgað varð á við inngjaldinum til persónligu uppsparingina, og útgjaldið úr Samhaldsfasta hækkaði.</s>
+            <s>Eingin ivi var um, at hetta varð gjørt til tess at bøta um fíggjarliga hallið á fíggjarlógini, tí talan var als ikki um nakra pensjónsnýskipan.</s>
+            <s>Eftir miklan og harðan orðadrátt i Tinginum og mótmælisskrivi frá pensjónistafelagnum, lovaði landsstýriskvinnan í almannamálum, at nú skuldi breið semja fáast um pensjónsnýskipanina.</s>
+            <s>Málið varð, at hetta arbeiðið skuldi vera liðugt í vár og leggjast fyri Tingið eftir ólavsøku.</s>
+          </p>
+          <p>
+            <s>Flokkarnir hava verið við samráðingarborðið, men eingin fundur hevur verið um pensjónsnýskipanina siðani í vár, og enn er sum kunnugt eingin breið semja funnin.</s>
+            <s>Hetta er ørkymlandi, og politikarar eru farnir at óttast, um ætlanin hjá landsstýrismanninum er at sleppa teirri breiðu semjuni til tess enn einaferð at leggja kollveltandi broytingar í pensjónslóggávuni fyri at fáa fíggjarlógina at hanga saman.</s>
+            <s>Tí verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2016-09-21">21. september 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

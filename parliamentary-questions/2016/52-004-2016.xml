@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fyrningarfreist av peningakrøvum hjá føroyskum peningastovnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39184" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/4">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um fyrningarfreist av peningakrøvum hjá føroyskum peninga- stovnum, settur løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann løgmaður greiða frá, hví fólkatingslógin um fyrningarfreistir frá 6. juni 2007, (lóg nr. 522 og nr. 523, settar í gildi í Danmark í 2008), ikki vóru settar í gildi í Føroyum um sama mundi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Veit løgmaður, hvørja ávirkan lógarbroytingin hevur havt í Danmark?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur løgmaður ætlanir um at seta somu lóg í gildi fyri Føroyar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyrningarfreistin fyri skuld í sambandi við lán í føroyskum fíggingarstovni er ásett við "Lov nr. 274 frá 22.12.1908".</s>
+            <s>Fyrningarfreistin er ásett at vera 20 ár.</s>
+            <s>Fleiri dømi eru um, at føroyskir fíggingarstovnar handhevja 108 ára gomlu lógina við fullari megi.</s>
+          </p>
+          <p>
+            <s>Í Danmark vóru fyrningarfreistirnar broyttar í 2008 við “lóg nr. 522 frá 6. juni 2007 og lóg nr. 523 við somu dagfesting” - til ávikavist 3 og 10 ára fyrningarfreist.</s>
+          </p>
+          <p>
+            <s>Gamla lógin frá 1908, og ásetingar í Norsku lóg 5-13-2, hava tikið móti frá flestu føroyskum familjum, sum komu illa fyri í kreppuni í 90 -unum, og fleiri av teimum føldu seg kroystar til at “flýggja” av landinum, tí eingin manssømilig semja kundi fáast við fíggingarstovnin.</s>
+          </p>
+          <p>
+            <s>Orð sum “jagstrað av peningastovnunum” hava eisini verið nýtt, ikki bara av teimum, sum “rýmdu” frá húsi og heimi til onnur lond, men lógin hevur eisini rakt meiniga mannin í Føroyum meint.</s>
+          </p>
+          <p>
+            <s>Henda støða sæð út frá sjónarmiðinum hjá føroyskum skattaborgarum tykist løgin, tá somu skattaborgarar hava loftað og hjálpt fíggjarstovni við 100 tals milliónum, bæði í sambandi við roknskaparligar avskrivingar og fíggjarlig tap.</s>
+          </p>
+          <p>
+            <s>Við gomlu lógini kunnu fíggjarstovnarnir í ein mansaldur krevja peningin inn og fasthalda fólki í ómenniskjaligum trega.</s>
+          </p>
+          <p>
+            <s>Tað eru ikki uttan orsøkir, at danir broyttu lógina í 2008, og tað kann tykjast hugvekjandi og løgið, at Føroya Landsstýri ikki broytti lógina samsvarandi, og at sjónarmiðini hjá fíggingarstovnunum tykjast at hava vigað tyngri enn fíggjarliga støðan hjá føroysku skattaborgarunum/útisetunum.</s>
+            <s>Ein lógarbroyting av hesum slagi vil loysa nógvar føroyingar úr ómenniskjaligum figgjarligum kvørkrataki.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2016-08-17">17. august 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

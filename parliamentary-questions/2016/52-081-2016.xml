@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Um Sirið Stenberg, landsstýrismaður, hevur sagt ósatt fyri tinginm</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Joen Magnus Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39339" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/81">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Joen Magnus Rasmussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Sirið Stenberg, landsstýrismaður, hevur sagt ósatt fyri tinginum, settur Aksel V. Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur Sirið Stenberg, landsstýrismaður, sagt ósatt fyri Løgtinginum, tá hon 25.05.2016 svaraði fyrispurningi hjá Jógvani á Lakjuni, um broytingar í hjúna- bandslógini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um svarið til spurning 1 er ja, hvørjar avleiðingar fær hetta so fyri landsstýris- mannin?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um svarið til spurning 1 er nei, kann løgmaður so upplýsa um § 14, stk. 2 í hjúnabandslógini var yvirtikin áðrenn ella aftaná 25.05.2016, tá Sirið Stenberg, landsstýrismaður, svaraði omanfyri nevnda spurningi frá Jógvani á Lakjuni?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í niðurstøðu meirluta landsstýrismálanevndarinnar stendur soleiðis: <lb/><hi rend="italic">”Kortini so hevur løgmaður nú verið við til at tulka § 14, stk. 2 til av vera yvirtikna heilt aftur frá 2007. <lb/> Við hesi tulking kunnu vit staðfesta, at Sirið Stenberg, landsstýrismaður, hevur sagt ósatt fyri tinginum.”</hi></s>
+          </p>
+          <p>
+            <s>Í svarinum til Jógvan á Lakjuni tann 25.05.2016, til 3. spurning, sigur Sirið Stenberg, landsstýrismaður, soleiðis: <lb/>
+              <hi rend="italic">”Hjúnabandsmál er partur av familjurættarliga økinum, sum framvegis er felagsmál.”</hi></s>
+          </p>
+          <p>
+            <s>Svarið til 4. spurning er soljóðandi: <lb/>”Sum nevnt omanfyri er talan framvegis um danskt málsøki, og tað eru tí danskir myndugleikar, sum taka avgerð um, hvussu víðari skal farast fram í hesum máli.”</s>
+          </p>
+          <p>
+            <s>Viðmerkjast skal, at ikki øll niðurstøða landsstýrismálanevndarinnar, og ikki alt svarið hjá Sirið Stenberg, landsstýrismanni er endurgivið, men einans tey brot, ið eg havi mett viðkomandi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2017-05-22">22. mai 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Joen Magnus Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bróstkrabbatoymið á Landssjúkrahúsinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39188" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/6">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annika Olsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bróstkrabbatoymið á Landssjúkrahúsinum, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru ætlanir um at niðurleggja vælvirkandi bróstkrabbatoymið á Landssjúkrahúsinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er ætlanin avtaka møguleikan hjá føroyskum kvinnum at fáa viðgerð fyri bróstkrabba í Íslandi?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Tað hevur ljóðað, at vælvirkandi bróstkrabbatoymið á Landssjúkrahúsinum skal niðurleggjast, nú broytingar verða gjørdar innan mammugrafiscreeningina á Landssjúkrahúsinum.</s>
+</p>
+<p><s>Mammografitoymið við røntgenlækna og skurðlækna hevur í mong ár tikið sær fyrimyndarliga væl av føroyskum bróstkrabbasjúklingum.</s>
+<s>Hetta toymið hevur virkað sera væl, og kvinnur, ið eru raktar av ræðuligu sjúkuni bróstkrabba, hava latið væl at hesum toymi, sum hevur loftað og hjálpt teimum, tá ið harðast leikaði á.</s>
+</p>
+<p><s>Toymið hevur tikið sær av mammografi, biopsi, diagnostisering, skurðviðgerð og screening.</s>
+<s>Hetta toymið hevur sostatt uppbygt sær holla vitan ígjøgnum fleiri ár og hevur serkunnleika innan bróstkrabbaøkið.</s>
+<s>Biðitíðin hevur verið lítil til at fáa skjóta viðgerð, starvsfólk hava fylgt væl við gongdini eftir, at sjúkan hevur verið staðfest.</s>
+<s>Hendan skjóta og góða viðgerð hevur gjørt, at úrslitini fyri leking hava verið ómetaliga góð.</s>
+</p>
+<p><s>Mangar føroyskar kvinnur hava fingið viðgerð í Íslandi við sera góðum royndum, og lata hesar væl at góðari og skjótari viðgerð.</s>
+<s>Nú broytingar skulu gerast á mammografiøkinum hevur ljóðað, at tilboðið, føroyskar kvinnur hava havt um viðgerð í Íslandi, verður niðurlagt til frama fyri viðgerð í Danmark, og at vælvirkandi bróstkrabbatoymið verður niðurlagt.</s>
+<s>Tí verða hesir spurningar settir landsstýrismanninum í heilsumálum, Sirið Stenberg</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2016-09-13">13. september 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

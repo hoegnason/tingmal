@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mest loyvda ljóðstyrki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39238" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/31">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Helgi Abrahamsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um mest loyvdu ljóðstyrki, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er nøkur lóg fyri, hvussu harður tónleikur kann verða spældur á almennum støðum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um ein lóg er á økinum, hvat sigur hon so um ljóðstyrki bæði innandura og uttandura?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um eingin lóg er á økinum, hvørjum reglum verður so gingið eftir í sambandi við konsertir, festivalar og onnur líknandi tiltøk?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Um eingin lóg er á økinum, kunnu vit so rokna við, at ein lóg verður gjørd hesum viðvíkjandi í næstu framtíð?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Dømi eru um, at fólk hava fingið varandi hoyriskaðar, eftir at tey hava vitja á almennum støðum, har harður tónleikur varð spældur.</s>
+</p>
+<p><s>Hoyriskaðar er ein vaksandi trupulleiki í okkara parti av heiminum.</s>
+<s>Serliga ungdómar eru nógv útsettir fyri at fáa hoyriskaða, millum annað tí at tey ganga við proppum í oyrunum, haðani tey hoyra tónleik úr til dømis fartelefonini.</s>
+<s>Eisini á nógvum almennum støðum, bæði innandura og uttandura, er harður tónleikur at hoyra.</s>
+</p>
+<p><s>Kanningar vísa, at fólk sum eru í ljóði, sum er meira enn 120 db í meira enn tríggjar minuttir, kunnu rokna við at fáa varandi skaða í hoyrnina.</s>
+</p>
+<p><s>Einki bendir á, at nakrar reglur eru á hesum økinum í Føroyum, og tí verður hesin fyrispurningurin settur, fyri at varpa ljós á vaksandi trupulleikan.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2016-12-15">15. desember 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

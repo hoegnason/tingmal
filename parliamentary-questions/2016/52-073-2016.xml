@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Íløgur og viðlíkahald av havnaløgum á útoyggj</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39323" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/73">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um íløgur og viðlíkahald av havnaløgum á útoyggj, settur landsstýrismanninum í samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landstýrismaðurin upplýsa, hvørjar umsóknir/ynskir um nýíløgur, ábøtur og viðlíkahald seinastu 4 árini eru móttiknar frá kommunalu myndugleikunum vegna Fugloy, Svínoy, Kalsoy, Skúvoy, Mykines og Hest?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat er gjørt hetta tíðarskeiðið í nevndu oyggjum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Einasta samband við útoyggjar er kaisíðan og tyrlupallarnir. Metir landsstýris- madurin ikki, at tað er ein almenn uppgáva at dagføra og viðlíkahalda hesar alneyðugu íløgur á havnaløgunum s.s. fendarar, ábøtur og nýgerð?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Í karmalógini eru útoyggjar ikki nevndar. Hvørjar íløgur og ábøtur á samferðslu- økinum er ætlanin at fremja her komandi 4 árini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í karmalógini 2018 til 2022 sigur landsstýrismaðurin í fíggjarmálum, at tað gongur væl í Føroyum.</s>
+            <s>Ongantíð eru so nógvur peningur komin í almenna kassan, og rakstrarúrslitið áðrenn íløgur verður mett til 660 mió. kr. í 2018.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin í samferðslumálum hevur fráboðað nógvar dýrar ætlanir um ábøtur til bygdir í útjaðaranum, har tunlar í fleiri førum fara at avloysa vegir, sum liggja í hálendi og eru sera vandamiklir í hálku og illveðri á vetrartíð.</s>
+          </p>
+          <p>
+            <s>Umframt stóru tunnilsverkætlanirnar er ætlanin at játta 7 mió. kr. til eitt tunnilstoymi undir Landsverki, sum eftir ætlan skal bora einar 700 metrar av tunli árliga til smærru bygdirnar.</s>
+          </p>
+          <p>
+            <s>Vegirnir kring landið, ið samanbinda bygdir og býir (í summum førum vegir partvís gjøgnum bygt øki), hava verið roknaðir sum landsvegir, t.v.s. landið eigur vegirnar og heldur teir.</s>
+            <s>Tyrlupallarnir eru ein almenn íløga, og sjálvsagt kann ein rokna havnalagið sum motorvegin út í heim fyri borgarar á útoyggj á sama hátt, sum flogvøllurin er tað fyri allar føroyingar.</s>
+          </p>
+          <p>
+            <s>Tað er at fegnast um, at liviumstøðurnar batna í útjaðaranum.</s>
+            <s>Fleiri enn 80% av Føroya fólki hevur møguleikan at ferðast í bili til hvønn annan.</s>
+            <s>Hendan møguleikan hava útoyggjafólk ikki, og gerandisdagurin hjá teimum hevur heilt aðrar avbjóðingar.</s>
+            <s>Um t.d. skúvoyingar ætla sær ein túr inn á "meginlandið", er neyðugt at nýta tvær ferjur og minst tveir bussar hvønn vegin.</s>
+          </p>
+          <p>
+            <s>Vit eiga at leggja til merkis, at fólkatalið í Føroyum veksur samlað, men tað minkar á útoyggj.</s>
+            <s>Sum politikarar hava vit ábyrgdina at skapa góðar karmar og bestu umstøður kring alt landið, og øll eiga at fáa ágóðan av búskaparvøkstrinum.</s>
+          </p>
+          <p>
+            <s>Fyri at kunna betra um viðurskiftini á útoyggj er neyðugt, at vit kenna ynskini og tørvin hjá búfólkunum, tí verður hesin fyrispurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2017-04-19">19. apríl 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

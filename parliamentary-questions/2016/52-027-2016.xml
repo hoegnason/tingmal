@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Vágatunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jørgen Niclasen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39230" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/27">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jørgen Niclasen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Vágatunnilin, settur Aksel V. Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Verður ársaðalfundarsamtyktin hjá p/f Vágatunlinum frá í fjør, førd út í lívið í morgin, 10. desember 2016.</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær kunnu kommunurnar í Vágum og lokalu valfeløgini vænta at hoyra frá løgmanni?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Verður frá sunnudegnum 11. desember ókeypis at koyra í Vágtunli- num, eins og tað er ókeypis í øllum 18 tunlunum, sum Landsverk umsitur?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu nógv hava brúkararnir av Vágatunlinum goldið tilsamans øll árini, síðan tunnilin læt upp?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Í morgin, 10. desember 2016, er Vágatunnilin útgoldin, og eisini er peningur tikin inn til at dagføra tunnilin við.</s>
+<s>Á ársaðalfundi í fjør var samtykt, at tunnilin skuldi latast landinum í ár á 14 ára føðingardegnum hjá tunilinum.</s>
+<s>Nevndarformaðurin fyri tunnilin segði á tí aðalfundinum, at tað alla tíðina hevði verið teirra greiða mál og fatan, og tí vórðu bummgjøld eisini løgd eftir tí.</s>
+</p>
+<p><s>Tá skuldi verða ókeypis at koyra, júst sum politiska avtalan alla tíðina hevur verið.</s>
+<s>Sum skilst, hevur núverandi landsstýrimaður hjá Javnaðarflokkinum havt ætlanir um at broyta hesa avgerð.</s>
+<s>Vónandi ætlar landsstýrið ikki at gera Vágatunnilin til eina avgjalds mjólkimaskinu hjá landsstýrinum.</s>
+<s>Í dag er alt goldið, og um landsstýrið sunnudagin 11. desember 2016 krevur gjald fyri at koyra í Vágatunlinum, er talan um nýtt avgjald til ovurnýtslu hjá hesi skatta- og avgjaldssamgonguni.</s>
+<s>Um so er, er meira enn ivasamt, við hvørji heimild landsstýrið kann áleggja einum vegastrekki í landinum at vera almenn mjólkimaskina.</s>
+</p>
+<p><s>Í vár vóru kommurnar í Vágum og politisku valfeløgini á fundi við løgmann um Vágatunnilin.</s>
+<s>Løgmaður lovaði tá at venda aftur við eini loysn áðrenn 1. oktober.</s>
+<s>Nú jólahalgan stundar til, er enn einki komið frá løgmanni.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2016-12-09">9. desember 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jørgen Niclasen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
