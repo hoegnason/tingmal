@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viðvíkajandi bústøðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Aksel V. Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3367" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/78">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Aksel V. Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi bústøðum, settur landsstýrismanninum í almannamálum, Elsebeth Mercedis Gunnleygsdóttur (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Ætlar landsstýrismaðurin at lata Bústaðir fara undir fleiri bústaðaverkætlanir, og um so er, hvussu nógvar bústaðir er ætlanin at byggja í hesum valskeiðnum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Ætlar landsstýrismaðurin at krevja, at Bústaðir virka á vinnuligum grundarlag, sum arbeiðsbólkurin mælti til?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinasta valskeið vórðu á leið hálvttriðhundrað leigubústaðir útvegaðir við Bústøðum, og svarar hetta til meira enn ein bústað um vikuna farna valskeið.</s>
+            <s>Undanfarna samgonga hevði ætlanir um at lata Bústaðir útvega enn fleiri bústaðir, og við bústaðapakkanum skuldu Bústaðir fáa heimild til at læna 250 mió. kr. afturat.</s>
+            <s>Men táverandi andstøða forðaði fyri uppskotinum.</s>
+            <s>Nú nýggj samgonga er komin til, løgdu Javnaðarflokkurin og Tjóðveldi uppskotið um bústaðir fram aftur.</s>
+            <s>Men nýggja samgongan feldi tað.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin við bústaðamálum førdi í hesum sambandi fram, at hon vildi hava ein arbeiðsbólk at viðgera málið.</s>
+            <s>Fyrst í mars mánaði handaði arbeiðsbólkurin frágreiðingina, har tað m.a. varð mælt til at lata Bústaðir virka á vinnuligum grundarlag.</s>
+            <s>Arbeiðsbólkurin vísti á, at hetta fer at hava við sær, at leiguprísurin hækkar.</s>
+            <s>Sambært Bústøðum er fermetraprísurin á einum leigubústaði hjá Bústøðum meira enn helvtina av prísinum hjá privatari fyritøku, sum rekur vinnuligt virksemi við leigubústøðum.</s>
+          </p>
+          <p>
+            <s>Hetta málið skuldi viðgerast politiskt, vóru boðini frá landsstýrismanninum tá.</s>
+            <s>Nú tveir mánaðir eru farnir, er framvegis einki at frætta viðvíkjandi politisku ætlanunum á bústaðaøkinum.</s>
+          </p>
+          <p>
+            <s>Tað eru fólk, sum hava trupult við at fóta sær á verandi bústaðamarknaði, og sum tí mangla hóskandi tak yvir høvdið fyri ein rímiligan prís.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-05-06">6. mai 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Aksel V. Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

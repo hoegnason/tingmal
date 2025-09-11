@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tannviðgerð</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Ingilín Didriksen Strøm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3407" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/98">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Ingilín Didriksen Strøm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi tannviðgerð, settur landsstýrismanninum í heilsumálum, Kaj Leo Holm Johannesen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør kann í dag fáa serligt fíggjarligt ískoyti til tannviðgerð?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Heldur landsstýrismaðurin, at tað er rímiligt, at fólk við tannsjúkum ella tannskaðum sum fylgja av aðrari sjúku, sjálv skulu rinda fyri tannviðgerð?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at gera nakrar broytingar á hesum økinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í ríka vælferðarsamfelag okkara hava vit møguleika fyri at fáa ókeypis sjúkrahjálp, tí viðgerðin verður fíggjað umvegis felagskassan.</s>
+            <s>Men tað er ikki galdandi á øllum økjum.</s>
+            <s>Verða vit sjúk í tonnunum ella fáa tannskaðar, eitt nú sum fylgja av aðrari sjúku, so mugu vit í allarflestu førum sjálv rinda rokningina.</s>
+          </p>
+          <p>
+            <s>Summi hava ráð, men tað eru eisini nógv, sum merkja stóran fíggjarligan smeit aftaná tannlæknavitjan.</s>
+            <s>Spurnartekin kann setast við, um tað er rætt, at hesin parturin av heilsuverkinum ikki í størri mun verður fíggjaður umvegis felagskassan.</s>
+            <s>Serliga kann tað tykjast órættvíst fyri tey, sum orsakað av sjúku fáa avbjóðingar við tonnunum.</s>
+            <s>Sum dømi kunnu nevnast fólk við epilepsi, ið sum avleiðing av herðindum aftur og aftur fáa skaða á tenninar, ella fólk, sum hava fingið staðfest sjúku í munninum ella svølginum, sum ger stóran skaða.</s>
+          </p>
+          <p>
+            <s>Spyrjarin ynskir at fáa betri yvirlit yvir, hvør í dag hevur rætt til at fáa ískoyti til tannviðgerð, og um landsstýrismaðurin hevur ætlanir um at gera broytingar á hesum økinum.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-06-11">11. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Ingilín Didriksen Strøm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
