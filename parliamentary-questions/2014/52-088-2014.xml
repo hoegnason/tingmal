@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Leirvíkstunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Reimund Langgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35486" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/88">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Reimund Langgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Leirvíkstunnilin, settur Jørgen Niclasen, landsstýrismanni í undirstøðukervismálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv akfør koyra árliga ígjøgnum Leirvíkartunnilin?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Í hvussu nógvum av stóru tunlunum hoyrist útvarp ikki?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógv kostar tað at fáa útvarp í Leirvíkartunnilin?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er landsstýrismaðurin samdur við spyrjaranum um, at tað betrar um ferðslutrygdina, um útvarp hoyrist í tunlinum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at fáa útvarp í tunnilin, og í so fall, nær kann væntast, at hetta verður liðugt?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í vikuni bar P/F Norðoyatunnilin tíðindini, at nú bar til at hoyra allar útvarpsrásirnar í Norðoyatunlinum - eisini t.d. KissFM og Voxpop - og er hetta kanska ikki meir enn rímiligt í 2015.</s>
+          </p>
+          <p>
+            <s>Tað undrar kortini stórliga, at tað enn ikki ber til at hoyra Útvarp Føroya í grannatunlinum, sum enntá hevur nógv meira ferðslu enn Norðoyatunnilin.</s>
+          </p>
+          <p>
+            <s>Spyrjarin er eisini av tí áskoðan, at radiosignal kann betra um trygdina, bæði tí at hetta kann brúkast til samskifti, um ein vanlukka skuldi hent í tunlinum, og tí at vantandi útvarp kann hava við sær, at akfør koyra óneyðuga skjótt fyri at náa at hoyra t.d. tíðindini.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-04-29">29. apríl 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Reimund Langgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

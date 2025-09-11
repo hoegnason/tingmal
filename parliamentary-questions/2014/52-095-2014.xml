@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Føroya Tele</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Eivin Jacobsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35498" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/95">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Eivin Jacobsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Føroya Tele, settur Johan Dahl, landsstýrismanni í vinnumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin í vinnumálum kunna Løgtingið, um Føroya Tele hevur nakrar ætlanir um at betra um dekningin og hoyrilíkindini, tá koyrt verður á landsvegunum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur Føroya Tele nakað yvirlit yvir, hvussu dekningurin og hoyrilíkindi eru runt um í landinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Føroya Tele hevði eitt stórt avlop í 2013, har landskassin fekk 30 mió.kr. í vinningsbýti, og árið 2014 var nærum líka gott. Átti hetta ikki, at komið brúkarunum til góðar við betri hoyrilíkindum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>At hava eitt gott støðugt telenet og samskifti eigur at vera ein sjálvfylgja í einum framkomnum samfelagi, nú vit skrivað 2015, bæði privat og vinnuliga.</s>
+          </p>
+          <p>
+            <s>Vit mugu ásanna, at okkara gerandisdagur seinastu árini er nógv broyttur og byrjar vanliga við, at tú hevur brúk fyri at samskifta antin innan arbeiði ella privat.</s>
+          </p>
+          <p>
+            <s>Hetta er ein tørvur, sum er uttan mun til, um tú koyrir í einum bussi, hýruvogni ella privatakfari.</s>
+            <s>Menningin tøkniliga í dag í flest øllum akførum ger tað møguligt at samskifta uttan at bróta ferðslulógina, tí er hetta vorðið ein partur av arbeiðsdegnum.</s>
+          </p>
+          <p>
+            <s>Kemur tú til landið ella til flogvøllin í dag og hevur brúk fyri at samskifta á veg til miðstaðarøkið, ja so kanst tú vera vísur í, at tað kann bróta av upp til 3 ferðir á túrinum.</s>
+            <s>Um støðan er eins vánalig á øðrum vegastrekkjum í landinum, kundi verið áhugavert at fingið upplýst.</s>
+          </p>
+          <p>
+            <s>Føroya Tele hevur sum endamál at veita eina góða og bíliga samskiftistænastu.</s>
+            <s>Í 2014 fekk landskassin 30 mió.kr. í vinningsbýti, tí átti tað at verið sjálvsagt, at partur av hesum ístaðin kom brúkarunum til góðar við betri hoyrilíkindum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-05-08">8. mai2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Eivin H. Jacobsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

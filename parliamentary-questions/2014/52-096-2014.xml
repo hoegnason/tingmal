@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eftirkanningar fyri bróstkrabba</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jóna Mariusardóttir Mortensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35502" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/96">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jóna Mariusardóttir Mortensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um eftirkanningar fyri bróstkrabba, settur Karsten Hansen, landsstýrismanni í heilsumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær kunnu kvinnur, ið eru viðgjørdar fyri bróstkrabba og eru í eini skipan, har tær ganga til eftirkanning (kontroll), vænta, at skipanin fer at virka optimalt aftur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Metir landsstýrismaðurin, at skipanin við eftirkanningum fyri bróstkrabba virkar nóg væl? Og um ikki, hvat ætlar landsstýrismaðurin so at gera við tað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Spurningarnir verða settir, tí sum er, eru tað fleiri kvinnur, ið eru viðgjørdar fyri bróstkrabba, sum hava fingið bræv um, at eftirkanningin er útsett vegna manglandi lækna.</s>
+          </p>
+          <p>
+            <s>Hesar kvinnur hava nú bíðað í upp til 2 mánaðir og eru sera ørkymlaðar.</s>
+            <s>Tað at fáa staðfest krabbamein er í sjálvum sær eini sera skelkandi boð at fáa.</s>
+            <s>Ta fyrstu tíðina aftaná følir ein seg mest sum í leysum lofti.</s>
+            <s>Tí er tað sera umráðandi at trygdarnetið, sum heilsuverkið jú skal vera, er so effektivt, sum til ber.</s>
+            <s>Nógvar kvinnur ganga til eftirkanning triðja hvønn mánað, tí undrar tað meg stórliga, at hesar kvinnur soleiðis verða sleptar upp á fjall og ikki sleppa til kontroll til tíðina, men mugu bíða, uttan at vita hvussu leingi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-05-11">11. mai 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jóna Mariusardóttir Mortensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
