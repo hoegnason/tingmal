@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hoydalar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annita á Fríðriksmørk</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41688" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/74">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annita á Fríðriksmørk<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hvat Hoydalar kann brúkast til, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær væntar landsstýrismaðurin, at avgerð verður tikin um, hvat virksemi skal verða í Hoydølum eftir, at miðnámsskúlin er fluttur út í Marknagil?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat virksemi væntar landsstýrismaðurin, at Hoydalar verða brúktar til eftir at Glasir er flutt út í Marknagil?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Væntar landsstýrismaðurin, at vinnari verður funnin millum tey 60 uppskotini, sum komu inn á sumri í 2017?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er settur at koma við tilmæli millum tey innkomnu uppskotini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Mentamálaráðið fekk fyri knøppum ári síðani 60 uppskot um, hvussu Hoydalar best verða brúktar, eftir at Glasir er flutt út í Marknagil.</s>
+</p>
+<p><s>Hóast long tíð er liðin síðani freistin at lata inn uppskot er farin, hevur lítið og onki verið at frætt frá ráðnum, um hvat av uppskotunum ella um nakað av uppskotunum kann vænta at vinna kappingina.</s>
+<s>Hetta kann undra, tí um stutta tíð stendur økið í Hoydølum tómt, um ongin støða verður tikin.</s>
+<s>Og tað er ikki ein virðilig støða fyri eitt so kent og náttúruvakurt økið sum Hoydalar, og har sum so nógv góð hugskot eru um, hvussu tað best verður gagnnýtt.</s>
+</p>
+<p><s>Og tað er heldur ikki virðiligt fyri tey mongu, sum hava brúkt bæði tíð og pengar uppá at koma við so seriøsum uppskotið sum møguligt.</s>
+</p>
+<p><s>Tí vónar undirritaða at arbeitt verður við málinum, og at ein avgerð verður tikin skjótt.</s>
+</p>
+<p></p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-06-04">4. juni 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annita á Fríðriksmørk</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

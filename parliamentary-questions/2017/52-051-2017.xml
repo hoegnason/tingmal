@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Matvørulógin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41642" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/51">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um matvørulógina, settur landsstýrismanninum í uttanríkis- og vinnumálum, Poul Michelsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er grundarlagið fyri sølu og burðardyggum rakstri versnað av samtyktu broytingunum í matvørulógini hjá einstaklingum og smærri fyritøkum, ið virka eftir løggilding frá Heilsufrøðisligu starvsstovuni?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um tað er veruleikin, fer landsstýrismaðurin at taka stig til at veita teimum endurgjald, ið áður noyddust at gera stórar íløgur, um teir skuldu fáa løggilding frá almenna myndugleikanum fyri at kunna fremja sítt virksemi?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Broytingarnar, gjørdar vórðu í matvørulógini (løgtingslóg nr. 102 frá 13. juli 2017) hava óhepnar avleiðingar fyri smærri fyritøkur við góðskugóðkenning.</s>
+<s>Hesar hava gjørt stórar íløgur í hølir, útbúnað og góðkenda arbeiðsgongd, til tess at uppfylla treytirnar fyri at fáa fáa løggilding til sítt virksemi frá Heilsufrøðiligu starvsstovuni.</s>
+</p>
+<p><s>Nú onnur kunnu bjóða seg fram og kunnu selja vøru sína uttan góðkenning á einum frammanundan sera avmarkaðum heimamarknaði, gerst kappingin ójøvn.</s>
+<s>Tí er spurningurin, um grundarlag er fyri framhaldandi burðardyggum rakstri við løggilding, tá útboðið gerst størri og treytirnar ymiskar.</s>
+</p>
+<p></p>
+<p><s>Kári P. Højgaard</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-02-20">20. februar 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

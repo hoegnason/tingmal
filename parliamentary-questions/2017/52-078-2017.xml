@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tilbúgving og bjarging á landi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41694" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/78">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um tilbúgving og bjarging á landi, settur landsstýrismanninum í fiskivinnumálum, Høgna Hoydal (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu ofta hevur tyrlan luttikið í bjarging av útlendskum ferðafólkum seinastu trý árini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin yvirlit yvir kostnaðin fyri tyrlutænastuna v.m., ið hevur staðist av, at fremmand ókunnufólk hava gingið seg í óføri, omandottin ella eru komin til skaða og hava tørva flutning við tyrlu nevnda tíðarskeið?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør ber útreiðslurnar, og verður allur kostnaðurin endurrindaður?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Eru somu reglur galdandi í Føroyum sum í grannalondunum, tá talan er um endurrindan av útreiðslum fyri bjargingartiltøk?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Higartil hava ferðafólk havt rættuliga stórt frælsi at ferðast í Føroyum.</s>
+<s>Ikki so sjálvdan eru tíðindi at hoyra í fjølmiðlunum, at fólk hava biðið um hjálp, tí tey eru vilst ella hava gingið seg í óføri.</s>
+<s>Tíverri er heldur ikki ókent, at ferðafólk eru omandottin og hava brotið armar ella bein, og í summum førum hevur vanlukkan kravt mannalív.</s>
+</p>
+<p><s>Stundum er stór leiting sett í verk, tí fólk hava verið burtur longri tíðarskeIð enn væntað.</s>
+</p>
+<p><s>Ikki so sjálvdan er brúk fyri tyrluni, og er hon sera kostnaðarmikil.</s>
+<s>Tí er spurningurin viðkomandi, um talan er um eina útreiðslu fyri Føroyar, hvørja ferð bjargingartiltøk verða sett í verk, ella tað eru persónarnir ella teirra tryggingar, sum bera kostnaðin.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-06-15">15. juni 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

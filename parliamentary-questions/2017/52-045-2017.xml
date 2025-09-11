@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bíðitíð hjá føroyskum kvinnum til mammografi á Landssjúkrahúsinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Djóni Nolsøe Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41628" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/45">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Djóni Nolsøe Joensen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bíðitíð hjá føroyskum kvinnum til mammografi á Landssjúkrahúsinum, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu leingi kunnu kvinnur, sum hava fingið ávísing frá lækna, vænta at skula bíða eftir eini sjúkuavgerð?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu er ætlanin at skipa klinisku mammografiirnar á Landssjúkrahúsinum frameftir?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Kvinnur, sum seinasta mánaðin hava fingið ávísing frá serlækna til mammografi, eru noyddar at bíða yvir ein mánað eftir at sleppa framat.</s>
+            <s>Orsøkin sigst vera tann, at bróstarøntgenlæknin, sum síðani á sumri 2016 hevur tikið sær av teimum klinisku mammografiiunum á LSH, nú er givin.</s>
+            <s>Tær kvinnur, sum hava verið í tí óhepnu støðu at finna ein knykil í bróstinum seinastu tíðina, ganga tí í óvissu í fleiri vikur.</s>
+          </p>
+          <p>
+            <s>Tær sleppa ikki til serlækna í Føroyum, og velja tær at fara uttanlands, mugu tær gjalda fyri hetta sjálvar.</s>
+            <s>Við støði í tølum frá fyrrverandi serlækna á økinum verður mett, at tað í løtuni kunnu vera heilt upp til 70 kvinnur, ið ganga og bíða eftir at sleppa framat til kanning hjá bróstarøntgenlækna.</s>
+          </p>
+          <p>
+            <s>Tað hevur verið at frætt í miðlunum, at serlæknar og sjúkrasystrar á økinum eru koyrd vegna ósemjur á LSH, og at starvsfólk og sjúklingar eru hørm um hetta.</s>
+            <s>Støðan á mammografi økinum verður í løtuni lýst sum ótolandi vegna vantandi støðufesti.</s>
+            <s>Tær kvinnur, ið hava tørv á bróstarøntgenlækna (bæði í sambandi við kontrol og diagnostisering), vita hvørki nær, ella hvar kanningar og viðgerðir fara fram.</s>
+          </p>
+          <p>
+            <s>Tí hava vit tørv á at fáa greiðu á, hvussu langa tíð vit kunnu góðtaka, at ein kvinna skal bíða, frá tí hon hevur fingið ávísing frá kommunulækna, til hon sleppur framat hjá einum bróstarøntgenlækna.</s>
+            <s>Og harafturat er viðkomandi at spyrja, hvussu hetta økið verður skipað í framtíðini fyri at tryggja, at diagnostisering av bróstkrabba aftur kemur í eina fasta legu, har sjúklingurin ikki skal bíða ov leingi eftir at sleppa til kanning.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-01-30">30. januar 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Djóni Nolsøe Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>privatar føðistovur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Elsebeth Mercedis Gunnleygsdóttur</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41674" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/65">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Elsebeth Mercedis Gunnleygsdóttur<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um privatar føðistovur, settur landsstýrismanninum í heilsumálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at gera eina skipan, soleiðis at ljósmøður kunnu seta á stovn privatar føðistovur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at gera neyðugar lógarbroytingar at tryggja privatum føðistovum fígging til raksturin, til dømis við at peningurin fylgir barnakonuni?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um landsstýrismaðurin ikki kann veita trygd fyri, at privatar føðistovur kunnu fáa stuðul til raksturin, hevur landsstýrismaðurin so ætlanir um at lata føði- deildirnar á Klaksvíkar- og Suðuroyar sjúkrahúsi uppaftur?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri nøkrum árum síðan vórðu føðistovurnar á Klaksvíkar- og Suðuroyar sjúkrahúsi niðurlagdar og allar barnakonur í Føroyum skulu nú á Landssjúkrahúsið at eiga.</s>
+            <s>Tað eru mong, sum ikki eru so fegin um hesa skipan, eitt nú tí barnakonur mugu fara til Havnar í góðari tíð, áðrenn tær skulu eiga.</s>
+            <s>Tað at eiga børn er tann størsta eydnan hjá einum foreldrum og teirra familju, og vilja tey nærmastu fegin gleðast saman við foreldrunum, tá ið barnið er komið, og vera saman við teimum.</s>
+            <s>Vit seta øll tryggleikan í hásæti, og tí kunnu vit við vissu siga, at ikki allar barnakonur eru fegnar um galdandi skipan.</s>
+            <s>Vit eru vitandi um, at barnakonur hava átt, áðrenn tær komu á Landssjúkrahúsið.</s>
+            <s>Eisini ósemjan um bygnaðarbroytingar á føðideildini á Landssjúkrahúsinum skapti ótryggleika.</s>
+          </p>
+          <p>
+            <s>Tað átti ikki at verið nøkur faklig forðing fyri at givið eitt privat tilboð til barnakonur.</s>
+            <s>Tað kundu til dømis verið gjørdar privatar føðistovur í Suðri og Norðoyggjum soleiðis, at barnakonur kunnu velja møguleikan at eiga í teirra egna umhvørvi.</s>
+            <s>Ljósmøður hava autorisatión at hava sjálvstøðugt virki og eiga rættin at taka móti børnum sambært lóg, sí Anordning nr. 1472 í lóg um autorisatión.</s>
+            <s>Eisini eru barnakonur tryggjaðar ókeypis ljósmøðrahjálp við barnsburð, sí kongelig anordning nr. 643 í lov om svangerskabshygiejne og fødselshjælp, grein 1 stk 3.</s>
+          </p>
+          <p>
+            <s>Sum nú er mugu barnakonur, ið vilja eiga á eini privatari føðistovu, gjalda sjálvar.</s>
+            <s>Tað er tó ivasamt, hvussu nógvar barnakonur vilja gjalda fyri hetta, og um tær eru førar fyri tí.</s>
+            <s>Tí heldur spyrjarin, at tað hevði verið mest umráðandi at kannað, um Heilsutrygd kundi goldið hesar útreiðslur.</s>
+            <s>Upphæddin, sum almenna sjúkrahúsverkið nýtir til hvørja barnakonu, kundi verið útgoldin til ta privatu føðistovuna fyri tær barnakonur, ið eiga har.</s>
+            <s>Hetta verður gjørt í eitt nú Týsklandi har kvinnur, ið eiga heima, fáa ta upphædd, ið spard verður við ikki at nýta tað almenna sjúkrahúsið, útgoldna.</s>
+            <s>Í Danmark eru eisini avtalur í onkrum regiónum, at tað er ókeypis at eiga á privatari føðistovu.</s>
+            <s>Ein møguleiki er, at kommunurnar í økinum eru við til at fíggja høli og útgerð, á sama hátt sum nú verður gjørt í kommunulæknaskipanini.</s>
+            <s>Spyrjarin er vitandi um, at Ljósmøðrafelagið hevur sent fyrispurning til Heilsutrygd um hesi viðurskifti, men Heilsutrygd hevur svarað, at tað krevur lógarbroyting at seta eina slíka skipan í verk.</s>
+            <s>Tí verður hesin fyrispurningur settur landsstýrismanninum.</s>
+          </p>
+          <p>
+            <s>Um landsstýrismaðurin heldur, at tað ikki í løtuni ber til at lóggeva soleiðis, at privatar føðistovur kunnu fáa almennan stuðul til rakstur av peninginum, sum heilsuverkið sparir, tá barnakonur eiga á privatum føðistovum, ætlar landsstýrismaðurin so at skipa fyri, at føðideildirnar á Klaksvíkar- og Suðuroyar sjúkrahúsi verða latnar uppaftur?</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-04-10">10. april 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Elsebeth Mercedis Gunnleygsdóttur</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

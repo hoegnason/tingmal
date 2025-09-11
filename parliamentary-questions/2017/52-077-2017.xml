@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>møguleikan at sleppa av við ullina</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jenis av Rana</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41692" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/77">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jenis av Rana<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um møguleikan at sleppa av við ullina, settur landsstýrismanninum í landbúnaðarmálum, Høgna Hoydal (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjir møguleikar hava bøndur og aðrir seyðaeigarar at sleppa av við ullina í ár?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji stig eru tikin, so at støðan frá í fjør, tá meginparturin av føroysku ullini varð brend, ikki endurtekur seg?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri knøppum ári síðani, meðan fólk gingu føroysku fjøllini og royndu at fáa ullina til høldar, visti Kringvarpið at siga frá, hvussu væl ull brennir á brennistøðunum.</s>
+            <s>Tey flestu eru nokk samd við mær í, at hóast ullin í dag ikki er "Føroya gull", so kunnu vit ikki loyva okkum hetta, og at allar royndir at gagnnýta føroysku ullina mugu stuðlast so ella so.</s>
+          </p>
+          <p>
+            <s>Hóast eg fleiri ferðir seinasta árið havi spurt um málið, hevur ikki eydnast mær at fáa sannførandi svar um, hvussu verður í ár.</s>
+            <s>Verður gjørt sum í fyrrárið, tá fíggjarlig stuðlað ullamóttøka var á Royndarstøðini í Kollafirði, ella verður gjørt sum í fjør, tá játtaði stuðulin varð brúktur til onnur endamál.</s>
+          </p>
+          <p>
+            <s>Hóast stutt er til fyrstu fjøllini verða gingin, vóni og vænti eg, og óivað mong við mær, at landsstýrið loysir hendan trupulleikan.</s>
+            <s>Á hendan hátt kunnu bálini, sum annars aftur kunnu hugsast at fara at brenna runt landið í summar, okkum og sokallaðu “unspoiled” náttúruni og landi okkara til vanæru, verða forðaði.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2018-06-08">8. juni 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jenis av Rana</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
