@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ættleiðing úr Etiopia</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37160" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/38">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annika Olsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um ættleiðing úr Etiopia, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="qgmvktjnsi">Hvat ætlar landsstýrismaðurin at gera, nú Danmark hevur steðgað ættleiðing úr Etiopia?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="pyonljggiq">Hvat kann gerast fyri at hjálpa teimum føroysku familjunum, ið eru komnar í trupulleikar orsakað av hesum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="adtxnuytqi">Ættleiðing er felagsmál við Danmark, og herfyri avgjørdi danski ráðharrin í ættleiðingarmálum, Karen Ellemann, at Danmark ikki longur ynskir at ættleiða børn úr Etiopia.</s>
+            <s xml:id="wmvido6rzh">Grundgevingin er, at Etiopia ikki livir upp til mannarættindasáttmálan.</s>
+            <s xml:id="jhbpn35p77">Hetta hevur viðført, at einar 7 familjur í Føroyum, sum í góðari trúgv og við góðari vón hava skrivað seg til at ættleiða eitt barn úr Etiopia, eru komnar í trupulleikar.</s>
+          </p>
+          <p>
+            <s xml:id="fbk5m4d7d2">Í 2015 løgdu tey bæði privatu ættleiðingarfeløgini, Danadopt og AC Børnehjælp saman.</s>
+            <s xml:id="f24bpzllst">Endamálið segðist tá at vera, at hetta fór at geva familjunum eina betri tænastu í ættleiðingartilgongdini.</s>
+            <s xml:id="zdih2fnfkf">Samanleggingin skuldi tryggja góðsku og trygd í allari sakarmálsviðgerð, ið hevur við sjálva ættleiðingina at gera.</s>
+          </p>
+          <p>
+            <s xml:id="ikodxyrsxm">Hetta er tíverri ikki tað, sum øll føroysk ættleiðingarforeldur hava upplivað síðani samanleggingina.</s>
+            <s xml:id="olutgfkwug">Nógv av hesum ættleiðingarforeldrum hava goldið nógvan pening í umsiting og sakarmálsviðgerð, tó uttan at fáa neyðuga kunning og hava fingið eina verri tænastu.</s>
+            <s xml:id="nzfakfjeup">At danski ráðharrin nú uttan himpr steðgar allari ættleiðing úr Etiopia hevur viðført, at føroysk ættleiðingarforeldur nú standa eftir við stórari peningaligari rokning og ongum barni.</s>
+            <s xml:id="ptkefasijc">Hetta eisini tí, at fleiri av hesum ættleiðinarforeldrum renna seg inn í lógarásetta aldursmarkið fyri, nær man kann ættleiða.</s>
+            <s xml:id="q6zk2pter2">At seta seg á ein annan lista og ættleiða úr einum øðrum landi kann taka ár.</s>
+            <s xml:id="hqqrux2epp">Tí verða hesir spuningar settir landsstýrismanninum.</s>
+          </p>
+          <p />
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-03-30">30. mars 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

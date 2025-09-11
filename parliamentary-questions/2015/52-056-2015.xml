@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Koyribreytin á Viðareiði</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37193" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/56">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um koyribreytina á Viðareiði, settur landsstýrismanninum samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="psuaosu2rc">Hvat slag av tilfarið er lagt á koyribreytina eystan fyri tunnilsmunnan á Viðareiðistunlinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="yncg6cnhtn">Hvussu hevur eydnast at leggja tilfarið á eystan fyri tunnilsmunnan og móti Viðareiði?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="dte3ehsn3e">Verður tilfarið, sum er lagt á, tikið av aftur, og nýtt tilfar lagt á?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="szv2ypt47m">Um nýtt tilfar verður lagt á – hvat tilfar verður so talan um?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="kd5yewbofl">Hvør verður eyka kostnaðurin, um arbeiðið skal gerast av nýggjum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s xml:id="g75khfk5mj">Hvør verður ávirkanin á tíðarætlanina, um asfaltarbeiðið verður gjørt av nýggjum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s xml:id="zh2otzqnjs">Eru onnur vegastrekki í landinum, har sama tilfar er nýtt, og neyðugt hevur verið at gjørt arbeiðið tvær ferðir, orsakað av trupulleikum við tilfarinum?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s xml:id="jadof56kau">Um svarað verður játtandi í spurningi 7 - hvørji vegastrekki er so talan um, og hvør hevur eyka kostnaðurin verið?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s xml:id="zkgndpounv">Hvussu er landsstýrismaðurin nøgdur við tilfarið, sum sambært Landsverki nú verður nýtt at “asfaltera” við á vegastrekkjum, har ferðslan ikki er so stór?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s xml:id="gixbydwdyo"> Kann roknast við, at nevnda tilfar framhaldandi fer at verða nýtt – ella verður farið aftur til at nýta asfaltið, sum verður nýtt á vegastrekkjum, har meir ferðsla er?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="pdrul33tk5">Spurningurin verður settur í sambandi við, at arbeitt verður við at gera koyribreytina í Viðareiðistunlinum og á vegastrekkinum til tunnilin lidnar.</s>
+          </p>
+          <p>
+            <s xml:id="h6fn7sk633">Eystan fyri tunnilsmunnan á Viðareiði sær út til, at tilfar longu er lagt á.</s>
+            <s xml:id="uwm36agrab">Men tilfarið tykist sera leyst og ójavnt.</s>
+          </p>
+          <p>
+            <s xml:id="pcvr676ekb">Landsstýrimaðurin í samferðslumálum hevur fyrr boðað frá, at farið er yvir til at nýta bíligari tilfar á vegastrekkjum, har tað sambært Landsverki er lítil ferðsla.</s>
+          </p>
+          <p>
+            <s xml:id="fdiz56u4vl">Tí verður spurt um, hvat tilfar er lagt á vegirnar á Viðareiði, um arbeiðið skal gerast av nýggjum, og hvørjar møguligaar seinkingar og eykakostnaðir fara at standast av hesum.</s>
+          </p>
+          <p>
+            <s xml:id="dhekjcpkud">Spurt verður m.a eisini um, hvussu landsstýrismaðurin heldur, at nevnda bíliga tilfar roynist, og um hann framhaldandi fer at mæla til, at hetta tilfarið verður nýtt.</s>
+          </p>
+          <p />
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-05-27">27. mai 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

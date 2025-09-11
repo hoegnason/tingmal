@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útgjald úr Arbeiðsmarknaðareftirlønargrunninum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jónleif Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37217"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/69">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jónleif Johannesen<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útgjaldið úr Arbeiðsmarknaðareftirlønargrunninum, settur landsstýrismanninum í fíggjarmálum, Kristinu Háfoss (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="sxo5bxmt7u">Hvussu nógv varð útgoldið úr Samhaldsfasta fyrra hálvár 2015?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="uxcummbdwq">Hvussu nógv varð útgoldið úr Samhaldsfasta fyrra hálvár 2016?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="rf3yf6mxaf">Hvussu nógv hægri er samlaða útgjaldið úr Samhaldsfasta fyrra hálvár 2016 í mun til minkingina í játtanini til fólkapensjónspartin á fíggjarlógini sama tíðarskeið?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="ff2yfqvhcm">Hvussu nógv meira hevur ein pensjónistur fingið útgoldið úr Samhaldsfasta fyrra hálvár 2016 í mun til fyrra hálvár 2015?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s xml:id="hv5hkfdgxz">Síðan sitandi samgonga tók við, eru munandi broytingar hendar innan pensjónsøkið, har býtið millum útgjald umvegis fólkapensjónspartin á fíggjarlógini og útgjald umvegis Samhaldsfasta er broytt.</s>
+<s xml:id="iutwg25z7n">Hetta hevur alt verið liður í einari nýggjari pensjónsskipan, har fíggjarligu umstøðurnar hjá pensjónistunum eru betraðar og minni tengdar at fíggjarlógini.</s>
+</p>
+<p><s xml:id="buowgenh7c">Vit hava sæð, at hóast stórur vøkstur hevur verið í øllum samfelagnum seinastu mongu árini, so hevur fólkapensjónsøkið verið afturúrsiglt.</s>
+<s xml:id="e773wsywwp">Tí hevur samgongan mett tað skilagott, at pensjónirnar í minni mun verða tengdar at fíggjarlógini og í størri mun at Samhaldsfasta, ið javnan verður prístals viðgjørdur.</s>
+</p>
+<p><s xml:id="midd3ygq4n">Tí kundi tað verið áhugavert at fingið at vitað, hvussu útgjaldið úr Samhaldsfasta hevur verið fyrru hálvu 2016 í mun til fyrru hálvu 2015.</s>
+</p>
+<p/>
+<p><s xml:id="bryugqyewf">Jónleif Johannesen</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-24">24. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jónleif Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

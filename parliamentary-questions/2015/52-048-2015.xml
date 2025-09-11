@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bunkring</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Ingolf S. Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37177" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/48">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Ingolf S. Olsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bunkring, settur landsstýrismanninum í heilsu og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="kn7b5se3wo">Hvørjar havnir/kommunur hava fingið góðkenning eftir § 4, stk. 2 í bunkrings- kunngerðini til at loyva bunkring og annan flutning av olju á sjónum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="uu4rxlpqzq">Hvør fremur í verki eftirlit við, at lógir og reglur í sambandi við flutning av olju, herundir bunkring, millum skip í føroyskum sjóøki verða fylgdar - bæði tá flutningurin fer fram millum skip, sum liggja við bryggju, og tá hon fer fram í sjónum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="ur77qvwulk">Hvat fevnir eftirlitið um?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="eino2sjhml">Er eftirlitið nøktandi?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="ydyrn3f33w">Hvør hevur evstu ábyrgdina av, at eftirlitið verður framt?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s xml:id="qp6l7nzfwh">Hvussu tryggjar evsti myndugleikin sær, at kravda eftirlitið verður framt?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s xml:id="mnwpozdnx2">Danmark og Grønland eru í holtur við at herða reglurnar fyri bunkring við atliti til umhvørvistrygd. Í galdandi kunngerð skal danska Søfartsstyrelsen regluliga hava eftirlit við bunkringsútgerðini á veitaraskipunum og vátta, at hon lýkur ásettu treytirnar í kunngerðini. Í nýggju kunngerðini, ”Bekendtgørelse om overførsel af bunkersprodukter mellem skibe m.v. på dansk og grønlandsk søterritorium”, sum fær gildi 1. januar 2017, skulu veitaraskip, ið selja/veita olju í donskum og grønlendskum sjóøki, við í mesta lagi 12 mánaða millumbili hava eina regulera góðkenning frá Søfartsstyrelsen. Er ætlanin at seta hesa kunngerð í gildi í Føroyum eisini ella lýsa eina líknandi kunngerð?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s xml:id="whh4tu5xwh">Skulu útlendsk skip, ið veita olju til onnur skip í føroyskum sjóøki, rinda sama vørugjald, sum er ásett fyri føroysku oljufeløgini, tá hesi lata olju til skip?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s xml:id="qzq4df7cfd">Um ikki, hví eru føroyskir og útlendskir veitarar ikki javnsettir á hesum økinum, og eru ætlanir um at broyta hetta?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <div>
+            <head>Ad. 1</head>
+            <s xml:id="canu2b2hz4">Sambært bunkringskunngerðini, “Kunngerð um bunkring, flutning av olju o.a., sum broytt við kunngerð nr. 3 frá 14. januar 2013”, § 4, stk. 2 kann Umhvørvisstovan góðkenna bunkring, flutning av olju o.a. á sjóøki, sum er undir kommunalum myndugleika og tilbúgvingarligari ábyrgd.</s>
+          </div>
+          <div>
+            <head>Ad. 2, 3 og 4.</head>
+            <p>
+              <s xml:id="fcca5kbfvg">Sambært bunkringskunngerðini er tað tann einstaka kommunan/havnin, sum umsitur reglurnar í kunngerðini og skal hava eftirlit við, at tær verða fylgdar.</s>
+              <s xml:id="kesm2wheoy">Einki stendur tó um, nær og hvussu eftirlitið skal fremjast, ella hvønn undirveitara eftirlitið møguliga kann latast upp í hendur.</s>
+              <s xml:id="ewbxqo4r7a">Ábendingar eru um, at í fleiri kommunum verður als einki uppleitandi eftirlit framt í sambandi við bunkring millum skip.</s>
+              <s xml:id="qtxlpjcpwe">Ofta er talan um flutning av tungolju, sum dálkar sera illa og er sera torfør fyri ikki at siga ógjørlig at taka uppaftur, tá óhapp henda.</s>
+            </p>
+          </div>
+          <div>
+            <head>Ad. 5. og 6.</head>
+            <p>
+              <s xml:id="o6juscyyp4">Sambært kunngerðini varðar tann einstaka kommunan/havnin av praktisku umsitingini av reglunum í kunngerðini og eftirlitinum.</s>
+              <s xml:id="cdxkkp3e4c">Umhvørvisstovan undir Heilsu og innlendismálaráðnum skal góðkenna loyvir til bunkring millum skip í sjónum, men er tað eisini Umhvørvisstovan, ið skal síggja til, at kommunur/havnir liva upp til teirra eftirlitsskyldu?</s>
+            </p>
+          </div>
+          <div>
+            <head>Ad. 7.</head>
+            <p>
+              <s xml:id="pqpbfxjrsw">Landsstýrismaðurin í uttanríkis- og vinnumálum hevur lagt eina umfatandi dagføring av sjólógini fyri Løgtingið.</s>
+              <s xml:id="p4i545cmed">Dagføringin snýr seg um at seta fleiri av nýggjastu, donsku dagføringunum í gildi í Føroyum, so føroyska sjólógin verður meinlík sjólógunum í hinum Norðurlondunum og í samsvari við altjóða sáttmálar.</s>
+              <s xml:id="lijagqd7ac">Millum annað verður altjóða bunkerssáttmálin frá 2001 nú implementeraður í føroysku sjólógina - sjey ár eftir, at Løgtingið samtykti, at hesin sáttmálin kundi setast í gildi í Føroyum.</s>
+            </p>
+            <p>
+              <s xml:id="ihypqvakuo">Dagføringin hevur við sær, at tað verður lættari at krevja endurgjald í sambandi við dálkingaróhapp, og at øll skip, størri enn 1000 BT, skulu vátta, at tey hava trygging, ið fevnir um dálkingarskaða í sambandi við bunkring.</s>
+              <s xml:id="rudmrbjayr">Við øðrum orðum veitir henda dagføringin størri trygd, tá skaðin ER hendur.</s>
+              <s xml:id="jrfe2nmyny">Ein góðkenning eftir tí nýggju donsku/grønlendsku kunngerðini má hinvegin hugsast at hava øktan fyribyrgjandi virknað.</s>
+            </p>
+          </div>
+          <div>
+            <head>Ad. 8 og 9.</head>
+            <p>
+              <s xml:id="aylkh4mtrk">Føroysku oljufeløgini eru áløgd at gjalda værugjald fyri oljuna, sum verður pumpað í goymslutangarnar á landi.</s>
+              <s xml:id="ypbzcjxkmn">Tað er kappingaravlagandi mótvegis teimum, um útlendskir veitarar sleppa undan hesum gjaldinum.</s>
+            </p>
+          </div>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-05-04">4. mai 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Ingolf S. Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

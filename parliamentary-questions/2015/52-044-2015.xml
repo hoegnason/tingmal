@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Almenn starvsfólk kring landið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37169" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/44">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um almennar alment starvsfólk kring landið, settur landsstýris- manninum í fíggjarmálum, Kristinu Háfoss (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="epvlyskrq3">Hvussu nógv alment lønt starvsfólk arbeiða kring landið, uppgjørt eftir sama myndli, í hvørjari av sýslunum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="svvykbs35a">Hvussu stór er almenna lønarútgjaldingin, býtt eftir sama myndli, í hvørjari sýslu sær?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="u5d7rtcghz">Um vit vilja varðveita okkara oyggjasamfelag, so fólk eisini í framtíðini velja sær bústað uttan fyri meginøki, krevst, at almenn arbeiðspláss í størri mun verða løgd kring landið.</s>
+            <s xml:id="erffyt2fga">Tær gomlu sýslurnar kundu verið eitt gott boð, har politiska skipanin valdi at styrkja økismenningina við almennum arbeiðsplássum.</s>
+          </p>
+          <p>
+            <s xml:id="gdajpzdclt">Vællønt almenn arbeiðspláss krevja ofta góða útbúgving og servitan.</s>
+            <s xml:id="irqtwl5jlg">Sjálvsagt verða tey flestu av hesum størvum løgd í høvuðsstaðnum á sama hátt sum í okkara grannalondum.</s>
+            <s xml:id="dqbf3a3frv">Hinvegin er alneyðugt at hugsa um allar Føroyar.</s>
+            <s xml:id="jxrumpk4p2">Tað kann politiska skipanin gera við at skapa/leggja førleikakrevjandi almenn arbeiðspláss kring landið.</s>
+          </p>
+          <p>
+            <s xml:id="jqg7ko7dlp">Býtið av teimum seks sýslunum kundi verið eitt gott boð at greina, hvussu býtislutfallið av almennum arbeiðsplássum er í dag, og um nøkur oyggj er afturúrsigld í mun til onnur øki.</s>
+            <s xml:id="vqjvor5cye">Tí fer ein uppgerð av virkseminum, knýtt at húsaognunum, almenna tørvinum á leigubygningum og útgjald av almennum lønum, býtt út á sýslurnar, at greina veruleikan.</s>
+          </p>
+          <p>
+            <s xml:id="tvat6awulz">Um tað ikki ber til at greina svarið í sýslum, kundu kommunalu samstarvsøkini verið nýtt í staðin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-04-15">15. apríl 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

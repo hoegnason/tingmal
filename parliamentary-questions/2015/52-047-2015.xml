@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Skanning fyri ryggtrupulleikar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37175" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/47">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um skanning fyri ryggtrupulleikar, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="orz77xzsqw">Hvussu nógvir sjúklingar verða CT-skannaðir árliga fyri ryggtrupuleikar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="efctvovukb">Hvussu nógvir sjúklingar verða árliga kannaðir í MR-skannaranum fyri sama?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="kr63hni55c">Er nøktandi serkøn manning tøk á Landsjúkrahúsinum til MR-skannaran, so hesin kann nøkta tørvin og kann brúkast optimalt, ella er talan um bíðitíð?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="disogonyqt">Er tað rætt, sum landstýrismaðurin upplýsti, at eingin bíðitíð er til akuttar rygg- skurðviðgerðir, og at bíðitíð annars bert er 2 til 4 vikur?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="pofho2vfr6">Hvussu stórur er metti kostnaðurin fyri eina vanliga ryggskurðviðgerð, tá hendan verður framd í Føroyum, ella meirkostnaður, um hendan verður gjørd í Danmark?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s xml:id="tcenr3xzsa">Góðkennir føroyska heilsuverkið privathospitalið Hamlet í Danmark sum viðgerð- arstað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="oqq55r4ics">Eg setti líknandi spurning til landstýrismannin fyri nøkrum døgum síðani.</s>
+            <s xml:id="serktmavb5">Tá var eg vitandi um, at fleiri sjúklingar við ryggtrupuleikum hava bíðað mánaðir upp til ár uttan at hava fingið hjálp.</s>
+          </p>
+          <p>
+            <s xml:id="erxdsafqvx">Eftir at svarið frá landstýrismanninum er vorðið alment, hava fleiri persónar fráboðað, at svarið ikki samsvarar við teirra royndir, at fáa hjálp frá føroyska sjúkrahúsverkinum.</s>
+            <s xml:id="e7cgjyrr5c">Nakrir sjúklingar hildu seg hava bíðað so leingi, at tey ikki orkaðu at ganga við nógvu pínuni.</s>
+            <s xml:id="vzaet6ltuv">Tí eri eg kunnaður um 3 persónar, sum ikki sóu aðra loysn enn at leita sær hjálp á privathospitali í Danmark.</s>
+            <s xml:id="vizl6qlrt4">Fyri teir lá kostnaðurin millum 80 tús. og 170 tús. kr.</s>
+          </p>
+          <p>
+            <s xml:id="ura7qeje7k">Í svarinum sigur landstýrismaðurin, at almennu Føroyar ikki endurrinda sjúklingum útreiðslur í sambandi við skurðviðgerð, um hesir ikki eru "visiteraðir" og kautioneraðir av yvirlækna í føroyska sjúkrahúsverkinum.</s>
+          </p>
+          <p>
+            <s xml:id="ihyrkmos66">Um ein persónur er um at ganga av verðini av pínu og eftir kanning í Føroyum fær at vita, at einki er at síggja, og viðkomandi tí er "frískur", hóast ikki ber til at flyta seg uttan við krykkum, er skiljandi, at hesin ger eina roynd sjálvur, um hann hevur fíggjarligan møguleika.</s>
+            <s xml:id="cq74xrneq5">Tað skuldi verið ein sjálvfylgja, at viðkomandi fekk sama endurgjald, sum tað hevði kostað tí almenna, um ein sjúklingur hevur verið til kanningar hjá serfrøði í Danmark t.d. Hamlet og kann skjalprógva ein diskusprolaps, sum ikki kundi staðfestast í Føroyum.</s>
+            <s xml:id="afbzve6ui6">Tað mátti verið ein "vinn vinn" støða fyri allar partar, um viðkomandi so skjótt sum gjørligt fær staðfest, hvat feilar, og fær møguleikan fyri skurðviðgerð, um hendan krevst fyri at fáa arbeiðsførleikan aftur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-04-20">20. apríl 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

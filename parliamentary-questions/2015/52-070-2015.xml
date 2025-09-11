@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nýliga gjørda kanningin hjá Kappingareftirlitinum av føroyska oljumarknaðinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristianna Winther Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37219"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/70">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristianna Winther Poulsen<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um nýliga gjørdu kanningina hjá Kappingareftirlitinum av føroyska oljumarknaðinum, settur landsstýrismanninum í uttanríkis- og vinnumálum, Poul Michelsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="zsktfltwzg">Metir landsstýrismaðurin, at kanningin hjá Kappingareftirlitinum er eftir- farandi, hóast oljufeløgini hava sátt iva um tað?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="jw54f4kv65">Hvat metir landsstýrismaðurin ítøkiliga kann gerast fyri at fáa kapping millum oljufeløgini til frama fyri brúkaran?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="zadh445wzd">Hvat heldur landsstýrismaðurin um hugskotið at skapa karmar fyri, at nýggj feløg koma á marknaðin?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s xml:id="vynwvcaast">Nú um dagarnar kom nýggj kanning frá Kappingareftirlitinum av føroyska oljumarknaðinum.</s>
+<s xml:id="la77lpg2ql">Stutta niðurstøðan hjá Kappingareftirlitinum er, at Magn og Effo hava fingið størri vinning, eftir at tey vórðu seld úr ávikavist Shell og Statoil.</s>
+</p>
+<p><s xml:id="mfeqwamvgy">Sambært kanningini broyttist prísgongdin, tá Shell og Statoil valdu at selja síni dótturfeløg í Føroyum úr samtakinum í 2007 og 2008, og bruttovinningurin gjørdist størri.</s>
+<s xml:id="jlqtsvleax">Eftirlitið ger greitt, at avkastið er hægri enn hjá líknandi norðurlendskum feløgum.</s>
+</p>
+<p><s xml:id="h3r4eum7dl">Oljufeløgini hava hinvegin víst á, at kanningin als ikki er eftirfarandi, og tí stendur brúkarin spyrjandi, og tí verður hesin spurningur settur.</s>
+</p>
+<p><s xml:id="shixtaghwf">Brúkarin hevur staðfest, at tað als ikki ger nakran mun, um diesel ella bensin verða keypt frá Magn ella Effo.</s>
+<s xml:id="mpiepesmle">Brúkarin sær eisini dagliga, at prísskeltini við bensin- og dieselsølurnar altíð eru eins, meðan sami brúkari hevur sæð, at í øðrum londum, eitt nú í Danmark, kann prísurin væl vera nógv oyru á muni fyri liturin frá einum felag til tað næsta.</s>
+</p>
+<p><s xml:id="gzbjxqfhu5">Tí hevur tað fyri brúkaran stóran áhuga, um landsstýrismaðurin hevur nakað boð uppá, hvat kann gerast fyri fáa kapping á økinum.</s>
+</p>
+<p/>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-24">24. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristianna Winther Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

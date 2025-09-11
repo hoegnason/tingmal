@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hækkaði kringvarpsgjøld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37213"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/66">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hækkaði kringvarpsgjøld, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="mrn2nlvmr7">Hvørjar verða inntøkurnar hjá Kringvarpi Føroya av kringvarpsgjaldi í ár, sammett við undanfarin ár?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="cnj3smfajs">Hvørjar hava lýsingarinntøkurnar og inntøkurnar av eydnuspølum verið higartil í ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="ipfi2qf72x">Hvørjar verða samlaðu inntøkurnar hjá KVF í ár, í mun til undanfarin ár, býtt á kringvarpsgjald, inntøkur av eydnuspølum o.ø.?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="xk66n6booj">Hvussu nógv fara vinnufyritøkur, partafeløg og smápartafeløg at gjalda í kring- varpsgjaldi í ár, í mun til 2015?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="fezql42f7j">Hvussu nógv fara landsstovnar, sjálvsognarstovnar, interkommunalir stovnar og kommunur at gjalda í kringvarpsgjaldi í 2016?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s xml:id="tqcnvv2pjr">Hvørjar verða lønarútreiðslurnar hjá stovninum í ár, í mun til 2015?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s xml:id="twxjrsvltj">Ber til at fáa at vita um eitt nú útróðrarbátar í bólki 5, 4A og 4B gjalda “fult” kringvarpsgjald?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s xml:id="tky2icubuq">Um ja, hvørjar upphæddir er so talan um, og hvørjar umstøður metir landsstýris- maðurin, at útróðrarmenn hava at hyggja í sjónvarp umborð?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s xml:id="hhobxvdqda">Undir yvirskriftini eitt rættvísari kringvarpsgjald, vóru broytingar gjørdar í innkrevjingini av kringvarpsgjaldinum undan ársskiftinum.</s>
+<s xml:id="qmzqpgvaj6">Sagt varð, at TAKS, sum nú fór at krevja gjaldið inn, fór at fáa á leið somu upphæddir í kringvarpskassan sum frammanundan.</s>
+<s xml:id="vd73vc2sz6">Nú árið er hálvrunnið, og rokningarnar til feløg o.o. eru kravdar, eigur hilling vera funnin á, hvussu 2016 fer at hilnast Kringvarpinum.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-21">21. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Luftdálking í føroyskum sjóøki frá skipum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristianna Winther Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37223" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/71">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristianna Winther Poulsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um luftdálking í føroyskum sjóøki frá skipum, settur lands- stýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="wnx6xsvtsw">Hevur landsstýriskvinnan í umhvørvismálum ætlanir um, at Føroyar eisini verða fevndar av somu luftdálkingarkrøvunum fyri útlát frá skipum, sum eru galdandi í londunum rundan um okkum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="a6btoi6osc">Um ja, nær kunnu vit vænta, at hesi krøv koma í gildi í Føroyum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="gp4zb6o5yg">Síðan ársbyrjan 2015 hava reglurnar viðvíkjandi luftdálking frá skipum verið herdar soleiðis, at í sokallaða SECA-økinum (Sulphur Emission Control Area) skal í mesta lagi vera 0,1% svávul í útlátinum.</s>
+            <s xml:id="t5dpt6gnim">Hetta er eitt stórt øki, sum fevnir um Eystrasalt, Norðsjógvin og Norðuramerika.</s>
+          </p>
+          <p>
+            <s xml:id="nfclg5cjx5">Tíðugt síggja vit fremmand skip liggja her í okkara nærsjóøki í vikuvís, meðan tey bíða eftir onkrum at sigla við.</s>
+            <s xml:id="l56by7s5tu">Ivaleyst verða Føroyar valdar, tí her ber til at brenna tungolju, meðan tey, um tey lógu í eitt nú Noregi ella Onglandi, høvdu verið noydd at lagt um til diesel, ið er munandi dýrari enn tungolja.</s>
+          </p>
+          <p>
+            <s xml:id="x6qsxvza5n">Tað kann tykjast løgið, at eitt land, sum marknaðarførir seg við heimsins reinasta sjógvi, ikki hevur somu krøv til luftútlát frá skipum, sum flest øll lond rundan um okkum hava, eitt nú alt ES.</s>
+          </p>
+          <p>
+            <s xml:id="m3cjb6rjf3">Tí verður hesin spurningur settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-24">24. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristianna Winther Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

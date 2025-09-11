@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hækkaði vektgjøld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37205" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/62">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hækkaði vegtgjøld, settur landsstýrismanninum í fíggjarmálum, Kristinu Háfoss (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="zcb6bmrbsh">Hvussu nógv verður mett, at vektgjøldini fara at geva landskassanum í inntøkum í 2016 í mun til 2015?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="ouzj52k6vi">Hvussu stórur partur av møguligum meirinntøkum standast av hækkingini í vektgjøldum, sum samgongan setti í verk undan ársskiftinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="t632jinmnu">Verður arbeitt við at hækka vektgjøldini uppaftur meir?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="oamo3qahcp">Tá nýggj samgonga varð skipað, varð gjørt av at hækka almennu útreiðslurnar munandi.</s>
+            <s xml:id="h5tp7qzr4i">Fyri at fíggja ein part av ógvusliga útreiðsluvøkstrinum var ein røð av avgjøldum á borgarar og vinnulív hækkað.</s>
+            <s xml:id="b44sefe67x">Eitt av átøkunum var at hækka vektgjøldini á akfør.</s>
+            <s xml:id="ci3m4o62c5">Nú Akstovan hevur sent uppkrav fyri vektgjøldini fyri seinna hálvár, hevði verið áhugavert at fingið at vita, hvussu stór samlaða hækkingin hevur verið.</s>
+          </p>
+          <p>
+            <s xml:id="nukpmlqmn6">Ein roynd verður eisini gjørd at spyrja um, hvørjar framtíðarætlanirnar eru á økinum, hóast lítlar vónir eru um at fáa nakað svar hesum viðvíkjandi.</s>
+            <s xml:id="lxrnoncqhn">Landsstýrisfólkini, ið nú sita, hava sett nevndir á nærum øllum økjum.</s>
+            <s xml:id="c7plg5symb">Tí verður í so at siga hvørjum svarið víst til hesar nevndir, sum arbeiða, tá spurt verður um framtíðarætlanir.</s>
+          </p>
+          <p>
+            <s xml:id="ornlmq2ldb">Eitt nú var ein skattanevnd sett fyri kortum.</s>
+          </p>
+          <p />
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-10">10. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
