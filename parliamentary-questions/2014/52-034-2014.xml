@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rættindi hjá skipum, sum fiska við faststandandi fiskireiðskapi í føroyskum sjóøki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>Løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35375" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/34">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>Løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um rættindi hjá skipum, sum fiska við faststandandi fiskireið- skapi í føroyskum sjóøki, settur Jacob Vestergaard, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørja verju hava føroysk garnaskip móti fremmandum trolarum, ið royna eftir pelagiskum fiskasløgum í føroyskum sjógvi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru ásettar treytir í loyvunum hjá trolarunum, um ikki at koma á øki, har roynt verður við faststandandi reiðskapi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvat verður frá almennari síðu gjørt fyri at tryggja, at garnaskip ótarnað kunnu dríva garnaveiðu á djúpum vatni uttan ótta fyri, at fremmand skip skulu trola flotini omanav?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Talið av garnaskipum er minkað árini 2008 til 2012 úr sjey niður í fýra skip.</s>
+            <s>Øll árini í hesum tíðarskeIði hevur raksturin verið tungur hjá hesum skipunum.</s>
+            <s>Tá trolað verður eftir pelagiskum fiskasløgum, hendir tíðum, at flotini/boyurnar verða trolaðar omanav, av útlendskum trolarum.</s>
+            <s>Hetta gevur garnaskipunum stórar trupuleikar, tí neyðugt er at dreggja fyri at fáa gørnini aftur.</s>
+            <s>Hetta kostar bæði tíð og pening, og vandi er sjálvsagt fyri at missa reiðskap.</s>
+          </p>
+          <p>
+            <s>Tá Vørn hevur upplýsingar um knattstøðu á garnareiðskapinum skuldi verið sjálvsagt, at hendan kunning bleiv send útlendskum skipum, sum royna í føroyskum sjóøki.</s>
+          </p>
+          <p>
+            <s>Spyrjaranum kunnugt hava garnaskipini ongar trupuleikar av teimum føroysku skipunum á pelagiskari veiðu.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-12-11">11. desember 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

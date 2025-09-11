@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Førleikameting</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35354" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/22">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanna Jensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um førleikameting, settur Bjørn Kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær er ætlanin at søkja eftir fólki til at samskipa førleikameting?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu er ætlanin at førleikamenna øll tey, sum skulu vegleiða og fremja til før- leikameting í øllum teimum skipanunum, sum lóg um førleikameting fevnir um - t.e. faklærarar, lestrarvegleiðarar v.m?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er ætlan um at seta førleikametingargrunn á stovn? Um ja, nær?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er orsøkin til, at játtanin til Yrkisútbúgvingarskrivstovuna bert er hækkað við 250 t.kr. í uppskoti til løgtingsfíggjarlóg fyri 2015 við tilvísing til samskipara til førleikameting, og upphæddin ikki verður hækkað fylgjandi fíggjarár, tá tilmælið er eitt fult starv til at røkja uppgávuna?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <ol start="15">
+            <li>mai 2014 samtykti Løgtingið lóg um førleikameting. Upp á fyrispurning um førleikameting frá Eyðgunn Samuelsen, tingkvinnu, á heysti 2013 svaraði landsstýrismaðurin soleiðis: "Um lógin verður samtykt í Løgtinginum í vár, verður samskipari eftir ætlan settur at íverkseta skipanina, soleiðis at skipanin fæst at virka fyri árslok i 2014." Undir orðaskiftinum til 1. viðgerð av málinum kom fram, at samskiparin skuldi setast sama summar ella tíðliga á heysti í inniverandi ári.</li>
+          </ol>
+          <p>
+            <s>Um førleikamenning fyri tey, sum skulu gera førleikameting, varð sagt: "Eisini skulu fakfólk, ið skulu gera førleikametingina, førleikamennast.</s>
+            <s>Ein partur av hesari menningin kann fara fram, samstundis sum tey fyrstu verða førleikamett, men hugsast kann, at onnur tiltøk eisini eru neyðug, t.d. at lestrarvegleiðararnir á yrkisskúlunum skulu mennast í sambandi við íverksetan av einari slíkari skipan."</s>
+          </p>
+          <p>
+            <s>Tilmælið, sum liggur til grund fyri føroysku lóggávuni, mælir til, at lóggávan skal geva ófaklærdum møguleika at taka yrkisútbúgving og/ella miðnámsútbúgving og hægri útbúgving.</s>
+            <s>Sambært § 3 í lógini sjálvari frá mai 2014 fevnir hon um gymnasialar miðnámsútbúgvingar, yrkisútbúgvingar, støðisútbúgving innan tøkni, frítíðarundirvísing, stuttar framhaldsútbúgvingar á yrkisskúlum, útbúgving av manning á skipum o.ø., støðisútbúgving innan fyrisitingar-, handels- og skrivstovuøkið, heilsuútbúgvingar og um løgtingslóg um Fróðskaparsetur Føroya.</s>
+            <s>Og í álitinum stendur, at teir einstøku útbúgvingarstovnarnir skulu skipa fyri vegleiðing og kunning og seta í verk skipanir og mannagongdir fyri førleikameting.</s>
+            <s>Tí kann tað undra, at landsstýrismaðurin í nevnda svari bert umrøður, at fakfólk og vegleiðarar á yrkisskúlum skulu mennast til eitt tilboð, sum borgarar sum útgangsstøði skulu kunna fáa í øllum hesum skipanum.</s>
+          </p>
+          <p>
+            <s>Í álitinum um førleikameting og førleikamenning eru metingarnar av kostnaðinum fyri at seta í gongd førleikameting: 500 t.kr. til starvið, 100 t.kr. til kunningartilfar og heimasíðu og 30.000 t.kr. til at førleikamenna lærarar.</s>
+            <s>Hækkingin á kontuni hjá Yrkisútbúgvingarskrivstovuni til endamálið - sbrt. uppskoti til løgtingsfíggjarlóg fyri 2015 er 250 t.kr.</s>
+          </p>
+          <p>
+            <s>Út frá hesum ivamálum og viðurskiftum verða spurningarnir settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-11-14">14. november 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

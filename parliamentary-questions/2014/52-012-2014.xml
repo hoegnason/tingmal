@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Trygd á arbeiðsplássum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35331" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/12">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um trygd á arbeiðsplásum, settur Johan Dahl, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv álvarsom óhapp og vanlukkur hava verið á føroyskum arbeiðsplássum á landi seinastu tvey árini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv er hetta, í mun til undanfarin ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýrismaðurin, at trygdin á arbeiðsplássunum er nóg góð?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Metir landsstýrismaðurin, at eftirlitið við trygdini á arbeiðsplássum er nóg gott?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Í hvønn mun metir landsstýrismaðurin, at ásetingarnar í lógini um Arbeiðsumhvørvi verða hildnar?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvat verður gjørt til tess at tryggja rættan hugburð til trygd á arbeiðsplássunum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvussu verður tryggjað, at nóg góð kunning verður givin arbeiðstakarum um arbeiði, sum kunnu vera vandamikil, umframt um amboð, kemisk evni og annað, sum kunnu hava við sær álvarsamar skaðar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Javnan er at frætta um óhapp á arbeiðsplássum.</s>
+            <s>Við hvørt er talan um vanlukkur, har álvarsom mein standast av, og tíverri hava eisini deyðsvanlukkur verið.</s>
+          </p>
+          <p>
+            <s>Seinastu árini er játtanin til Arbeiðseftirlitið (sum síðani 2011 er partur av Heilsufrøðiligu Starvsstovuni) heilt nógv skorin.</s>
+            <s>Hetta hóast fakfeløg og onnur staðiliga hava ávarað ímóti at niðurraðfesta eftirlitið við trygdini á arbeiðsplássum.</s>
+          </p>
+          <p>
+            <s>Játtanin til Arbeiðseftirlitið var í 2008 4,7 milliónir, men var í fjør komin heilt niður í 2,8 milliónir, og sostatt minkað við nærum tveimum milliónum hesi árini.</s>
+            <s>Størsti niðurskurðurin hendi í sambandi við samanleggingina.</s>
+            <s>Í fíggjarlógaruppskotinum fyri 2015, skjýtur landsstýrismaðurin upp at uppraðfesta Arbeiðseftirlitið við 410.000 kr , sum bøtir, tó at fíggjarligu karmarnir framvegis eru munandi trengri enn fyri fáum árum síðani.</s>
+          </p>
+          <p>
+            <s>Flestu føroysku fyritøkur taka vónandi trygdina á arbeiðsplássinum í størsta álvara.</s>
+            <s>Tó tykist hetta ikki í nóg stóran mun at vera galdandi allastaðni.</s>
+          </p>
+          <p>
+            <s>Á vári 2013 samtykti Løgtingið víðfevndar broytingar í lógini um Arbeiðsumhvørvi.</s>
+            <s>Vitan og kunning er ein ógvuliga sentralur partur av tí at fyribyrgja óhappum og arbeiðsvanlukkum.</s>
+            <s>Í so máta er lógin sera greið, eitt nú verður staðfest í §13: Arbeiðsgevarin skal við leiðbeining og gjølla eftirliti vissa seg um, at arbeiðið við atliti at skaða- og heilsuvanda verður gjørt fult forsvarliga.</s>
+            <s>Í <hi rend="bold">§14:</hi> Arbeiðsgevarin skal kunna arbeiðsfólkini um teir vanlukku- og heilsuvandar, ið møguliga eru tengdir at arbeiði teirra.</s>
+            <seg>Stk. 2.</seg>
+            <s>Arbeiðsgevarin skal eisini síggja til, at arbeiðsfólkini fáa neyðuga upplæring og leiðbeining í at gera arbeiðið so vandaleyst, sum yvirhøvur gjørligt.</s>
+            <seg>Stk. 3.</seg>
+            <s>Landsstýrismaðurin kann áseta nærri reglur um skyldur arbeiðsgevarans, sbrt. stk. 1</s>
+          </p>
+          <p>
+            <s>Neyðugt er, at arbeiðseftirlitið hevur orkuna at gera eitt nóg munadygt fyribyrgjandi arbeiði.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-10-23">23. oktober 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

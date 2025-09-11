@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Full sólarmyrking 20. mars 2015 og undirvísingarverkið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjarni Djurholm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35358" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/25">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjarni Djurholm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um fulla sólarmyrking 20. mars 2015 og undirvísingarverkið, settur Bjørn Kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Fyrireikar Mentamálaráðið nøkur átøk í skúlaverkinum í sambandi við søguligu sólarmyrkingina 20. mars 2015?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Ætlar landsstýrismaðurin, at skúlar og undirvísingarstovnar verða frítiknir frá vanligari undirvísing 20. mars 2015?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fríggjadagin 20. mars 2015 verður full sólarmyrking í Føroyum.</s>
+            <s>Klokkan 9:40:12 rakar sólarmyrkingin Mykineshólm og fer haðani eysturyvir.</s>
+            <s>Umleið hálvan annan minutt seinni rakar myrkrið um tað eystasta á Fugloynni.</s>
+            <s>Myrkrið varar góðar 2 minuttir.</s>
+          </p>
+          <p>
+            <s>Seinasta fulla sólarmyrking í Føroyum var 30. juni í 1954.</s>
+            <s>Farnu øldirnar vóru fullar sólarmyrkingar í Føroyum í 1424,1440,1612 og sum nevnt í 1954.</s>
+            <s>Í árinum 1733 var sólarmyrking, sum var næstan full.</s>
+          </p>
+          <p>
+            <s>Sum flestu kunnugt er sólarmyrking, tá ið mánin stendur millum sólina og jørðina, soleiðis at jørðin kemur í skuggan av mánanum.</s>
+            <s>Tá ið sólarmyrkingin er full, verður myrkt eina løtu, og so verður ljóst aftur.</s>
+          </p>
+          <p>
+            <s>Fullar sólarmyrkingar eru ógvuliga sjáldsamar, og restina av hesum áratúsundinum verða bara tvær fullar sólarmyrkingar afturat í Føroyum.</s>
+            <s>Sambært NASA verða tær 26. mai 2245 og 7. september 2974.</s>
+            <s>Sostatt er talan um sera sjáldsamt náttúrufyribrigdi.</s>
+          </p>
+          <p>
+            <s>Tað er við spenningi, at føroyingar og onnur bíða eftir sólarmyrkingini í mars 2015.</s>
+            <s>Náttúrufyribrigdið eigur eisini at hava fulla eksponering í skúlaverkinum - frá grundskúla til hægsta lesnað.</s>
+            <s>Ábyrgdina av hesi fyriskipan er hjá Mentamálaráðnum.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin fyrispurningur settur landsstýrismanninum í mentamálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-11-18">18. november 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjarni Djurholm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

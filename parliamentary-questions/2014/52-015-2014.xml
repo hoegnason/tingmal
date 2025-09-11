@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Føroya Fólkaháskúli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Gunvør Balle</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35338" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/15">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Gunvør Balle<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur Føroya Fólkaháskúla, settur Bjørn Kalsø, landsstýrismanni í mentamálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørja árliga játtan hevur Føroya Fólkaháskúli fingið seinastu 30 árini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvør hevði játtanin verið í dag, um hon var prístalsviðgjørd á hvørjum ári í mun til 1985?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin um at gera ábøtur á bygningarnar hjá Háskúlanum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroya Fólkaháskúli byrjaði sítt virksemi í 1899, fyrst á Stongunum í Klaksvík og síðan í Føgrulíð.</s>
+            <s>Í 1909 vórðu bæði bygningurin og háskúlavirksemið flutt út í Hornabø í Havn, og har heldur Háskúlin til enn.</s>
+            <s>Skúlin varð nógv útbygdur í 1950 og 60 árunum við matsali, køki, kømurum og fimleikahøll.</s>
+          </p>
+          <p>
+            <s>Stovnararnir av Føroya Fólkaháskúla, Símun av Skarði og Rasmus Rasmussen, høvdu verið á Askov Højskole.</s>
+            <s>Kveiktir av donsku háskúlarørsluni løgdu teir alstóran dent á "tað livandi orðið", sum í nútiðar orðing ofta verður nevnt "persónlig menning og almenn upplýsing."</s>
+          </p>
+          <p>
+            <s>Týdningurin, sum Háskúlin hevur havt fyri føroyskan fólksligan samleika, kann ikki undirmetast.</s>
+            <s>Fyrstu 30 árini var Háskúlin einasta stað, har fólkið hevði møguleika at fáa hollan lærdóm í føroyskum máli, bókmentum og søgu, og har varð eisini hildin guðstænasta á føroyskum við føroyskum sálmum.</s>
+            <s>Ávirkanin frá háskúlarørsluni hevði stóran leiklut í, at almenni fólkaskúlin endiliga fekk sín føroyska samleika, og undirvísingarmálið gjørdist føroyskt.</s>
+          </p>
+          <p>
+            <s>Fyri eitt lítið fólk, ið roynir at varðveita samleika sín í støðuga meldrinum frá alheimsgerðini, og har trýstið frá fremmandum máli og mentanum er støðugt vaksandi, hevur Háskúlin enn stóran týdning.</s>
+            <s>Føroya Fólkaháskúli er einasti skúli av sínum slagi í landinum, eitt frírúm til persónliga menning og ein skúli, ið ikki hevur til endamáls at búgva fólk undir prógv.</s>
+          </p>
+          <p>
+            <s>Føroya Fólkaháskúli er sjálvsognarstovnur, men nær knýttur Mentamálaráðnum gjøgnum lóg og játtan.</s>
+            <s>Háskúlin hevur tíverri ikki fingið nógv uppmerksemi frá politiska myndugleikanum í mong ár, og umstøðurnar eru tí hareftir.</s>
+            <s>Játtanin hevur verið tann sama í mong harrans ár, so at siga ongar ábøtur eru gjørdar, og bygningarnir eru tí sera niðurslitnir, ótíðarhóskandi og dýrir at reka.</s>
+            <s>Innihaldið er framvegis dygdargott, og nógvir næmingar eru á ymsu skeiðunum á hvørjum ári.</s>
+            <s>Eitt sereyðkenni fyri Føroya Fólkaháskúla er eisini, at hann hevur nógvar vinir, um alt landið og gjøgnum fleiri æettarlið.</s>
+            <s>Men hølisumstøðurnar og lága rakstrarjáttanin ger tað tvørligt framhaldandi at endurnýggja og menna skúlan og víðka um skeiðstilboðini.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-10-30">30. oktober 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Gunvør Balle</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

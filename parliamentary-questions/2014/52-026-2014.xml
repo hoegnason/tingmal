@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Um starvið sum skúlastjóri í Vesturskúlanum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Gunvør Balle</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35360" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/26">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Gunvør Balle<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um starvið sum skúlastjóri í Vesturskúlanum, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær ætlar landsstýrismaðurin at lýsa eftir stjóra til nýggja Vesturskúlan?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um starvið ikki verður sett pr. 1. januar 2015, hvør er so ætlanin við skúlaleiðsluni á Venjingarskúlanum eftir 1. januar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Mentamálaráðið er komið til ta niðurstøðu, at leiðandi starvsfólk í ráðnum er ógegnigt, og at ráðið alt sum tað er tí er ógegnigt í sambandi við stjórasetanina í Vesturskúlanum.</s>
+            <s>Tí fór málið víðari til Løgmansskrivstovuna og haðani til landsstýrismannin í fíggjarmálum.</s>
+          </p>
+          <p>
+            <s>Tórshavnar Kommuna hevur samtykt, at byggjast skal nýggjur Vesturskúli, sum skal koma í staðin fyri Kommunuskúlan og Venjingarskúlan.</s>
+          </p>
+          <p>
+            <s>Í løtuni situr enn ein stjóri í fyribilsstarvi á Venjingarskúlanum fram til 1. januar 2015, hóast umboð fyri foreldur og starvsfólk á Venjingarskúlanum mótmæltu avgerðini um, at nýggj fyribils leiðsla enn eina ferð skuldi setast mitt í einum skúlaári.</s>
+          </p>
+          <p>
+            <s>Tað hevur stóran týdning fyri samanleggingartilgongdina til ein nýggjan Vesturskúla, at allir partar kunnu hava álit á tilgongdini.</s>
+            <s>Tað er sjálvsagt ikki nøktandi fyri Venjingarskúlan - ella fyri nakran skúla - at hava skiftandi fyribilssettar stjórar í longri tíð.</s>
+            <s>Tí er neyðugt at fáa staðfest, um og nær ætlanin er at lýsa skúlastjórastarvið til samanlagda Vesturskúlan leyst, soleiðis at ein savnað leiðsla fyri samanløgdu stovnarnar kann fara undir at fyrireika bygging og samanlegging av báðum skúlunum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-11-24">21. november 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Gunvør Balle</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

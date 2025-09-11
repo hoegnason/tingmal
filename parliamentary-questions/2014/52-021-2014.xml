@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Innsavnan av føroyskari upp sum rávøra til klædnaframleiðslu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35350" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/21">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um innsavnan av føroyskari ull sum rávøra til klædnafram- leiðslu, settur Johan Dahl, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin nakrar ætlanir fyri, hvussu stimbrast kann undir, at føroyska ullin verður innsavnað og kemur til høldar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu sær landsstýrismaðurin fyri sær, at ullin, heldur enn at fara til spillis, verður tøk sum rávøra til sniðgevingar- og klædnavinnuna?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýrismaðurin, at nøkur av verandi stuðulsskipanum fyri vinnumenning kann nýtast at gera tað lønandi fyri bøndurnar at lata ullina inn?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Um ja, hvussu sær landsstýrismaðurin fyri sær, at hetta kann skipast?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein stórur partur av føroysku ullini verður burturbeindur og fer soleiðis fyri skeyti, heldur enn at verða nýttur sum rávøra í klædnaídnaðinum.</s>
+            <s>Føroysk sniðgeving og klædnaframleiðsla hava seinastu árini veruliga tikið dik á seg, og tað er heilt eyðsýnt, at her liggja stórir møguleikar fyri framleiðslu bæði til heimamarknað og til útflutnings.</s>
+            <s>Hóast stórur partur av hesi framleiðslu byggir á ull, so kemur føroyska ullin bert í avmarkaðan mun til høldar.</s>
+            <s>Tørvur tykist vera á skipaðum infrastrukturi fyri innsavnan og hagreiðing av skinnum og ullini.</s>
+            <s>Privatar fyritøkur hava tikið ímóti ullini, men lønsemið er ov avmarkað fyri bøndurnar.</s>
+            <s>Tí er áhugin at lata ullina inn ov lítil.</s>
+          </p>
+          <p>
+            <s>Ímeðan 40 tons av ull vórðu innsavnað í fjør, eru einans 6 tons komin inn í ár.</s>
+            <s>Hetta kom fram í samrøðu sum útvarpið hjá KVF gjørdi við Árna Brattaberg, stjóra á ullavirkinum Sirri.</s>
+            <s>Fæst ein innsavningarskipan ikki at virka, verður sostatt lítil og eingin rávøra at spinna tógv burturúr.</s>
+            <s>Og tað verður sjálvsagt eitt stórt bakkast fyri føroyska klædnaframleiðslu.</s>
+            <s>Føroysk sniðgeving og binding er í stóran mun við til at branda Føroyar uttanlands.</s>
+          </p>
+          <p>
+            <s>Spurningarnir verða settir við teirri vón, at landsstýrismaðurin í vinnumálum hevur boð upp á loysn at tryggja rávørugrundarlagið undir hesi fyri Føroyar so týðandi vinnu.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-11-12">12. november 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

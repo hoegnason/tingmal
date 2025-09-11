@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fíggjarstøðan hjá einligum pápum, ið eru undir lesnaði</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanus Samró</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35368" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/31">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanus Samró<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um fíggjarstøðuna hjá einligum pápum,ið eru undir lesnaði, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Metir Annika Olsen, at fíggjarstøðan hjá einligum pápum, ið eru undir útbúgving, er nøktandi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýriskvinnan útgreina fíggjarstøðuna hjá ávíkavist einligum mammum og einligum pápum við tveimun børnum, har bæði eru undir lesnaði?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Ætlar landsstýriskvinnan at betra um korini hjá einligum pápum, ið eru undir lesnaði?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hevur verið víst á, at einligir pápar, ið eru undir lesnaði, hava trupult við at fáa endarnar at røkka saman, tí teir skulu gjalda barnapengar, meðan teir eru undir útbúgving.</s>
+            <s>Víst verður á, at einligir pápar, ið eru undir útbúgving, fáa hægri lestrarstuðul áljóðandi 3.815 kr. um mánaðin, áðrenn heilsutrygd, men teir skulu gjalda 1.083 kr. um mánaðain fyri hvørt barnið.</s>
+            <s>Er talan um tvey børn, hevur pápin upp í móti 1.500 kr. um mánaðin at liva fyri, men tað er fyri føstu útreiðslunar, t.v.s. bústað, trygging, telefon, mat og klæðir v.m.</s>
+          </p>
+          <p>
+            <s>Sambært lesarabrævinum “Einligir pápar skulu hava rættindini”, dagfest 2. desember 2014, ið var sent miðlunum, stendur, at “Einligir pápar (lesandi) við tveimum børnum (parttíð)… síggja fram til at liva fyri minus 138 krónur um dagin”.</s>
+          </p>
+          <p>
+            <s>Tað er nógv, sum bendir á, at einligir pápar, ið eru undir lesnaði, hava trupult við at fullføra sína útbúgving, tí teir skulu gjalda fleiri túsund krónur um árið í barnapengum, og ikki fáa nakran fíggjarligan ágóða frá landinum.</s>
+            <s>Størsti parturin tekur sær av børnunum helvtina ella triðing av tíðini, tí má tað metast at vera óheppið, at einligu páparnir, ið eru undir lesnaði, ikki fáa nakran fíggjarligan ágóða.</s>
+          </p>
+          <p>
+            <s>Tað má metast at vera sera óheppið fyri einligu páparnar, ið royna at fáa sær eina útbúgving, at teir standa við stórari skuld, tá teir eru lidnir við útbúgvingina.</s>
+            <s>Tí verða omanfyri nevndu spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2007-07-29">4. desember 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanus Samró</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Handilsviðurskiftini við Ísland</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjarni Djurholm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35315" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/4">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjarni Djurholm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi handilsviðurskiftunum við Ísland, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur løgmaður, at Hoyvíkssáttmálin gevur føroyskum vinnulívi javnbjóðis møguleikar við íslendskar fyritøkur á íslendska marknaðinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur løgmaður umhugsað at fáa Hoyvíkssáttmálan endurskoðaðan?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur løgmaður, at føroyskir myndugleikar gera nóg mikið fyri at hjálpa føroyskum fyritøkum generelt og í konkretum málum í samhandlinum við Ísland?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Kann løgmaður greina, hví íslendskar vørur, aftaná fíggjarliga skrædlið í Íslandi í 2008, ikki gjørdust bíligari í Føroyum, vísandi til ógvisligu niðurskrivingina av íslendska gjaldoyranum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í gleimi og politiskum kæti varð fríhandilssáttmáli millum Føroyar og Ísland undirskrivaður í 2005, sokallaði Hoyvíkssáttmálin.</s>
+            <s>Sagt varð, at sáttmálin var stórt frambrot fyri Føroyar, sum nú fingu frælsa atgongd á íslendska marknaðinum, sum er 6 ferðir størri enn tann føroyski.</s>
+            <s>Fyri at eyðmerkja týdningin bleiv eisini føroysk sendistova sett á stovn í Reykjavík og íslendskt generalkonsulat í Tórshavn.</s>
+          </p>
+          <p>
+            <s>Vónirnar til økta handilssamskiftið vóru stórar, men skjótt gjørdist greitt, at fagurlætnið, sum eyðmerkti umrøðuna og vónirnar til sáttmálan, ikki kundi javnmetast við gerandiskostin í handilssamstarvinum, sum skjótt dagaði í sjónarringinum.</s>
+          </p>
+          <p>
+            <s>Føroyska skerflatnið mótvegis íslendska samstarvspartinum bleiv skjótt gjørt til skammar.</s>
+            <s>Longu í tilgongdini til sáttmálan varð føroyska tryggingarvinnan, sum ætlaði at festa røtur í Íslandi, kveistrað til viks av íslendsku tryggingarvinnuni.</s>
+          </p>
+          <p>
+            <s>Ætlanin at flyta landbúnaðarvørur (serliga mjólkaúrdráttir) til Íslands fekk somu lagnu.</s>
+            <s>Flestu munnu eisini minnast, tá íslendskir myndugleikar við tekniskum forðingum hindraðu innflutningi av føroyskum eggum.</s>
+          </p>
+          <p>
+            <s>Í ætlanini um samstarv við íslendsku televinnuna um nýggjan fipurkaðal niður á meginlandið vóru íslendskir myndugleikar eisini altráðir eftir at forða føroyingum at skipa hetta løguarbeiði undir føroyskari leiðslu.</s>
+            <s>Tískil spurdist einki burtur úr nøkrum samstarvi og Føroya Tele gjørdi einsamalt Shefa-kaðalin o.s.fr.</s>
+          </p>
+          <p>
+            <s>Herfyri var aftur kuril á tráðnum.</s>
+            <s>Føroya Bjór varð hótt við sakarmáli, tók bryggjaríið ikki partar av sínum vøruúrvali av íslendsku hillunum.</s>
+            <s>Íslendskt bryggjarí hevur fingið sær einkarætt upp á heitið "gull".</s>
+            <s>Fyri flestu púra øvugt mannagongd.</s>
+            <s>Og nú frættist, at uppisjóvarskipið Næraberg, sum hevur verið í lógligum fiskiskapi í grønlendskum sjógvi, og sum hevur fingið maskinskaða, ikki sleppur í íslendska havn at bunkra, proviantera, leggja upp og skifta manning orsakað av, at íslendiskir myndugleikar meta okkara fiskiskap at vera ólógligan.</s>
+          </p>
+          <p>
+            <s>Nevndu dømir (onnur eru eisini) vísa, at fríhandilssáttmálin millum Føroyar og Ísland ikki hevur slóðað fyri øktum samhandli landanna millum, um ikki handilin í fyrsta lagi er til gagns fyri íslendingar.</s>
+          </p>
+          <p>
+            <s>Spurningurin er eisini, um føroyskir myndugleikar gera nóg mikið fyri at hjálpa føroyskum fyritøkum generelt og í konkreturm málum í samhandlinum við Ísland.</s>
+            <s>Hetta hevur stóran týdning, tí sjónligt er, at íslendingar verja heimamarknaðin, samstundis sum íslendsku útflytararnir duga væl at føra seg fram uttanlands og samstundis fáa hollan stuðul frá myndugleikunum, herundir íslendsku sendistovunum.</s>
+          </p>
+          <p>
+            <s>Annað, sum er undranarsamt, er, at tá Ísland fór av knóranum í 2008, og íslendska krónan mestsum gjørdist virðisleys og fekk ásett tekniskt virði, sum bara var brotpartur av upprunavirðinum, sást hetta ikki aftur í prísleguni á íslendskum vørum í Føroyum.</s>
+            <s>Sagt varð annars, at niðurskrivingin av gjaldoyranum styrkti munandi um íslendska útflutningin - íslendskur útflutningur gjørdist munandi meira kappingarførur á altjóða marknaðinum, tí íslendskar vørur gjørdust bíligari.</s>
+          </p>
+          <p>
+            <s>Her í Føroyum broyttist tó einki.</s>
+            <s>Íslendskar vørur, herundir lambskjøt, høvdu júst sama prís í Føroyum sum frammanundan, hóast íslendska gjaldoyrað í minsta lagi fór niður í ein triðing av upprunavirðinum.</s>
+            <s>Ella sagt øðrvísi, vørurnar, seldar í Føroyum, vórðu seldar fyri hægri prís, samanborið við íslendskar útflutningsvørur, seldar í øðrum londum.</s>
+          </p>
+          <p>
+            <s>Burtur úr hesi gongdini í handilssamstarvinum millum Ísland og Føroyar farnu árini stinga seg fleiri ivamál, har spurningurin um virðið á fríhandilsáttmálanum stendur ovast.</s>
+            <s>Tí verður hesin fyrispurningur settur løgmanni at svara.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2014-09-01">1. september 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjarni Djurholm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
