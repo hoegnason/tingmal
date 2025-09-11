@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bygging av vardum íbúðum í Klaksvík og Runavík</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Eyðgunn Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35475" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/83">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Eyðgunn Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bygging av vardum íbúðum í Klaksvík og Runavík, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær verða íbúðirnar klárar at taka í nýtslu?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv fólk fáa tilboð um íbúð/búpláss, ið ikki frammanundan hava eitt tilboð?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu stórur er bíðilistin til bústaðartilboð í Eysturoy og Norðoyggjum, eftir at íbúðirnar eru tiknar í nýtslu?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ein mannarættur at fáa egnan bústað, og tí eiga vit at gera tað, ið skal til fyri at útvega okkara borgarum við serligum avbjóðingum egnan bústað.</s>
+            <s>Tað hevur alstóran týdning fyri tey avvarðandi, at teirra børn fáa sama rætt til bústað og luttøku í samfelagnum á jøvnum føti við okkum onnur.</s>
+            <s>Hetta lættir eisini munandi um ta stúran, ið foreldur og onnur avvarðandi hava, um teirra næstu, ið hava serligar avbjóðingar.</s>
+            <s>Í 2014 var farið undir at byggja vardar bústaðir í Mylnutúni í Klaksvík og í Runavík.</s>
+            <s>Tilsamans 20 íbúðir í Klaksvík og 12 í Runavík.</s>
+            <s>Harumframt er ein verkætlan í gongd, har ein búfelagsskapur við 8 íbúðum verður bygdur við Heygavegin í Klaksvík í einum samstarvi millum Klaksvíkar kommunu, Almannaráðið og Bústaðir.</s>
+            <s>Nú er arbeiðið komið so langt áleiðis, at klárt er at flyta inn við Heygavegin í Klaksvík, og íbúðirnar við Mylnutún í Klaksvík og í Runavík verða eftir ætlan lidnar seinni í vár.</s>
+          </p>
+          <p>
+            <s>Tørvurin á vardum íbúðum kring landið er stórur.</s>
+            <s>Á heysti 2014 fekk Fíggjarnevndin upplýst frá landsstýriskvinnuni á almannamálum, at heili 82 borgarar standa á bíðilista til vardan bústað og bú- og viðgerðartilboð eftir § 32 og § 27 stk. 1 í forsorgarlógini.</s>
+            <s>Fyri 12 av teimum 82 borgarum er bíðistøðan ikki virkin.</s>
+            <s>Av hesum 12 búgva 11 heima og 1 i Danmark.</s>
+            <s>Harumframt eru 21, sum hava búpláss í Almannaverkinum, og hava fingið játtað flyting til annað búpláss í Almannaverkinum.</s>
+          </p>
+          <p>
+            <s>Tey, ið standa á bíðilistanum, eru úr øllum landinum, 28 borgarar búgva í Suðurstreymoy, 5 i Norðurstreymoy, 1 í Sandoynni, 3 i Vágum, 26 i Eysturoynni, 14 i Norðoyggjum, 2 i Suðuroy og 3 i Danmark.</s>
+            <s>Sostatt standa 40 fólk á bíðilista í Norðoyggjum og Eysturoy.</s>
+            <s>Tað er ikki óhugsandi, at fleiri eru komin afturat á bíðilistanum.</s>
+            <s>Tað er ein skylda, at vit sum samfelag útvega okkara borgarum við serligum avbjóðingum virðilig kor.</s>
+            <s>At fáa egnan bústað er eitt tað týdningarmesta í lívinum hjá okkum øllum.</s>
+            <s>Nógv hava staðið á bíðilista í áravís, og tí er spenningurin stórur, um tey, ið hava bíðað so leingi, nú loksins eru ímillum tey hepnu, ið fáa tilboð um egnan bústað.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-04-23">23. apríl 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Eyðgunn Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

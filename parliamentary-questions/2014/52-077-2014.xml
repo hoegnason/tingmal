@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Skjótt vaksandi vandin við mótstøðuførum bakterium</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørt Samuelsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35464" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/77">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um skjótt vaksandi vandan við mótstøðuførum bakterium, settur Karsten Hansen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvat verður gjørt í Føroyum til tess at fyribyrgja skjótt vaksandi vandanum við bakterium, ið gerast mótstøðuførar og tí ikki longur kunnu viðgerast við antibiotika?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat metir landsstýrismaðurin kann og eigur at verða gjørt til tess at fyribyrgja, at mótstøðuførar bakteriur gerast ein munandi trupulleiki á føroysku sjúkrahúsunum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógv antibiotika verður nýtt í Føroyum pr. íbúgva í mun til onnur lond, og hvussu nógv er hetta í mun til tey lond, sum brúka minst?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvat verður gjørt fyri at fáa vitanina út til fólkið, soleiðis at borgarin hevur røttu vitanina og kann virka eftir hesari?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Luttaka Føroyar í norðurlenskum samstarvi um fyribyrging av antibiotikaresistensi, um ja, á hvønn hátt?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað hendir longu hvønn einasta dag, at fólk doyggja kring um í heiminum av bakterium, sum annars hava verið mettar meinaleysar, men nú eru vorðnar mótstøðuførar ímóti antibiotika (bakteriutýnarum).</s>
+            <s>Antibiotika, sum hevur verið ein av hornasteinunum undir nútímans sjúkuviðgerð, er komið undir álvarsamt trýst, og stór átøk verða nú gjørd í fleiri londum til tess at fyribyrgja, at alsamt fleiri bakteriur gerast mótstøðuførar ímóti øllum sløgum av antibiotika.</s>
+            <s>Kring um í heiminum stríðast nógv sjúkrahús við henda trupulleika, eisini í grannalondum okkara.</s>
+            <s>Ein av fleiri orsøkum til skjótt vaksandi trupulleikan við mótstøðuførum bakterium er ovurnýtsla av antibiotika.</s>
+          </p>
+          <p>
+            <s>Í fjør summar lat norðurlendska ráðharraráðið úr hondum sonevndu
+              Kønbergfrágreiðingina um norðurlendskt heilsusamstarv.</s>
+            <s>Fremsta tilmælið er eitt felags átak ímóti vaksandi antibiotikamótstøðuførinum.</s>
+            <s>Mælt verður m.a. til víðfevnda avmarking av nýtsluni av antibiotika, at stórar upphæddir verða settar á fíggjarlógirnar til fyribyrging og til menning av nýggjum antibiotika.</s>
+          </p>
+          <p>
+            <s>Bo Kønberg vísir í frágreiðingini á, at vit í framtíðini fara at síggja alsamt fleiri doyggja av ígerðum, sum vit í dag meta vandaleysar, og hetta fer at leggja stórt trýst á heilsu- og sjúkrahúsverk.</s>
+            <s>Í 2013 doyðu í minsta lagi 25.000 fólk, bara í Evropu, orsakað av mótstøðuførum bakterium - eins mong og tey, sum doyðu í ferðsluni.</s>
+            <s>Støðan er enn verri í fleiri londum uttanfyri Evropa.</s>
+            <s>Ein onnur avbjóðing er, at nærum eingi nýggj sløg av antibiotika verða ment.</s>
+            <s>Fram til 1970 komu eini tjúgutals nýggj sløg av antibiotika á marknaðin, soleiðis, at virkaði eitt ikki, kundi eitt annað í flestu førum nýtast.</s>
+            <s>Síðani eru einans tvey nýggj sløg komin, av hesum einki síðani 1987!</s>
+            <s>Heimsheilsustovnurin WTO hevur í áravís rópt varskó og heitt á heimsins stjórnir um at taka trupulleikan í størri álvara.</s>
+            <s>Í fjør kom WTO við enn einari frágreiðing, har m.a. verður sagt:"An increasing number of governments around the world are devoting efforts to a problem so serious that it threatens the achievements of modern medicine.</s>
+            <s>A post-antibiotic era - in which common infections and minor injuries can kill - far from being an apocalyptic fantasy, is instead a very real possibility for the 21st Century."</s>
+            <seg>Frágreiðingin kann lesast her: <lb/>http://www.who.int/drugresistance/documents/surveillancereport/en/#.VSpTBqrrz24.f acebook.</seg>
+            <s>Spyrjarin fegnast um, at tað í hesi vikuni verður skipað fyri ráðstevnu um vandan við vaksandi antibiotikamótstøðuføri, og vónar, at hetta fer at seta neyðugt fokus á evnið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-04-14">14. apríl 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørt Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

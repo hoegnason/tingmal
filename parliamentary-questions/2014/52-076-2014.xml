@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Undirvísing í russiskum í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35458" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/76">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanna Jensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um undirvísing í russiskum máli í Føroyum, settur Bjørn Kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru ætlanir um at seta í verk skipaða frálæru í verk í russiskum máli í føroysku undirvísingarskipanini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er námsætlan gjørd ella ávegis fyri frálæru í russiskum máli í føroysku undir- vísingarskipanini?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru aðrar ætlanir á mentanar- og undirvísingarøkinum í sambandi við, at Føroyar hava sent sendifólk til russiska høvuðsstaðin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri fáum døgum síðani lótu Føroyar sendistovu á stovn í Moskva í Russlandi.</s>
+            <s>Endamálið er at røkja samstarv, samvinnu, samhandil v.m. á ein betri og meira skipaðan og miðvísan hátt.</s>
+          </p>
+          <p>
+            <s>Tá farið verður inn í eitt land - veri tað seg í handilsørindum, arbeiðsørindum ella líknandi - er tað ein royndur lutur, at gott innlit í mál og mentan í hesum landi er ein stórur vinningur og eitt amboð at røkka langt.</s>
+          </p>
+          <p>
+            <s>Tí kundi tað verið áhugavert, at føroyskir næmingar fingu møguleika at útbúgva seg í russiskum máli og mentan í fólkaskúla ella á miðnámi og harvið koma fyrr í gongd við eina yrkisleið, sum leggur dent á samhandil og altjóða samstarv við ella bara á vitan um russiskt og russisk viðurskifti.</s>
+          </p>
+          <p>
+            <s>Fyrr var møguleiki at velja russiskt sum fremmandamál á studentaskúalnum í Hoydølum.</s>
+            <s>Á heimasíðuni namsaetlanir.net, er eingin námsætlan fyri russiskt at hóma.</s>
+          </p>
+          <p>
+            <s>Í svari upp á spurningin frá undirritaðu um fremmandamálspolitik frá (24/2014) 14. november 2014 sigur avvarðandi landsstýrismaðurin so: “Næmingarnir kunnu eisini velja annað fremmandamál í staðin fyri týskt. Tað er ymiskt, hvussu skúlarnir skipa vallærugreinatilboðið, og um skúlar samstarva um vallærugreinir. Skúlarnir fáa játtað ávíst tímatal til vallærugreinir, so at allir næmingar hava møguleika at velja vallærugrein í 6 tímar um vikuna”</s>
+            <s>Her verður sipað til heimild í lóg um Fólkaskúlan.</s>
+          </p>
+          <p>
+            <s>Viðari varð sagt um hesi val: “Næmingarnir velja vallærugrein eftir áhuga, útboði skúlans og við atliti at framhaldandi skúlagongd.”</s>
+            <s>Og "Á Námsvísindadeildini á Fróðskaparsetri Føroya verða linjufak boðin út, sum eru millum tey fak, sum undirvíst verður í í fólkaskúlanum.</s>
+            <s>Við millumbilum verða fremmandamálini enskt og týskt boðin út."</s>
+            <s>Hesi svar benda á, at ikki stórvegis ætlanir eru um miðvíst at fara eftir nøkrum serligum úrslitum, sum ganga hond í hond við t.d. politisk átøk í altjóða viðurskiftum Føroya.</s>
+            <s>Heldur tykist vera latið upp til áhuga teirra lesandi, um Føroyar skal bjóða hesa ella hasa lærugreinina - í hesum førinum russiskt mál.</s>
+            <s>Sí sama svar frá 14. november 2014 "Um áhugi er millum lesandi at læra ávíst fremmandamál, sum ikki er í skipanini frammanundan, verður, um tað á nakran hátt er gjørligt, skipað so fyri, at tað ber til.</s>
+            <s>Hinvegin eru stig ikki tikin til at bjóða út onnur mál enn."</s>
+          </p>
+          <p>
+            <s>Spurningurin er, um politikkur á ymisku økjunum gongur hond í hond ella ikki, og um nøkur miðvís ætlan er at seta kós sum myndugleiki - í hesum førinum undirvísingarmyndugleiki.</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-03-27">27. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

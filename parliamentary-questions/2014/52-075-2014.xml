@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Prest til næmingar og lesandi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35456" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/75">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanna Jensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um prest til næmingar og lesandi, settur Bjørn Kalsø, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru ella hava ætlanir verið um at seta prest at røkja tænastu og uppgávur millum næmingar og lesandi í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu kann ein tílík skipan við presti/gudfrøðingi á útbúgvingarøkinum gerast veruleiki og um hvussu langa tíð?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjir partar eiga at hava ábyrgd av, hava ávirkan á og at fíggja eina skipan við presti/gudfrøðingi á útbúgvingarøkinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fólkakirkjan er týðandi partur av føroyska samfelagnum.</s>
+            <s>Í 1990 gjørdust Føroyar sjálvstøðugt bispadømi, og bispurin ovasti myndugleiki kirkjunnar.</s>
+            <s>Ólavsøkudag 2007 varð Fólkakirkjan yvirtikin, og síðani eru nógvir ymiskir spurningar viðgjørdir, nógv arbeiði gjørt, og sumt lutvíst avgreitt í arbeiðinum at menna kirkjuna á føroyskum grundarlagi.</s>
+          </p>
+          <p>
+            <s>Fólkakirkjur hava onnur prestastørv enn tey, sum eru knýtt at prestagjaldi so sum fongsulsprest, sjómansprest, ungdómsprest v.m. Hesi størv eru grundað á ein tørv fyri serligan bólk, og har tørvurin er uttan fyri vanliga siðbundna arbeiðið við kirkjurnar í einum prestagjaldi.</s>
+            <s>Kirkjur aðrastaðni hava ofta universitetsprestar ella teologar, sum eru starvssettir sum sálarhirðar og til at røkja ymiskar presta-/pastoruppgávur millum ung og vaksin innan útbúgvingarøkið.</s>
+          </p>
+          <p>
+            <s>Sum heild verður viðurkent millum tey, sum arbeiða við menniskjum, at neyðugt er at fevna um tað heila menniskja -likam sál og anda - eisini í sokallaðum "Student Wellbeeing Services".</s>
+            <seg>Sí t.d. á Københavns Universitet.</seg>
+            <seg>http://studenterpraesterne.ku.dk/.</seg>
+            <s>Tí kemur tíðum spurningurin upp, um Føroyar hevur universitetsprest ella skal hava eina líknandi skipan við gudfrøðingi, hvørs arbeiðsuppgáva fyrst og fremst er at tæna ímillum næmingar og lesandi - t.e. á einum øki í føroyska samfelagnum, har flestøll ung og mong vaksin hava sítt dagliga strev, í skúlum, miðnámsskúlum og hægri læristovnum.</s>
+          </p>
+          <p>
+            <s>Kanning millum ung í 9.flokki í Føroyum herfyri vísir greitt, at lívsins stóru spurningar og trupulleikar fylla nógv millum hesi.</s>
+            <s>Kanning á Studentaskúlanum í Hoydølum í 2014 bendi eisini á ein ávísan tørv á at bjóða ymiskar tænastur til hendan sera breiða hóp av ungdómi, sum fer undir okkurt slag av útbúgving eftir fólkaskúlan.</s>
+            <s>So leingi eitt samfelag hevur eina almenna fólkakirkju, kann vera skilagott at spyrja, um tænastan er, har fólkið er.</s>
+            <s>Hugsast kann, at eitt ávíst kanningar - og/ella fyrireikingararbeiði er gjørt hesum viðvíkjandi - antin hjá kirkjumyndugleikum ella í øðrum høpi.</s>
+            <s>Og møguliga eru fleiri gagnligir hættir at hugsa, fyrireika og fíggja eina tílíka presta-/pastortænastu - og møguliga kunnu fleiri ábyrgdarar vera, bæði tvørsektorelt og tvørkirkjuligt?</s>
+          </p>
+          <p>
+            <s>Tí verða hesir spurningar settir</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-03-27">27. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

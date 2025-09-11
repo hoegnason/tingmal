@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>At máa grundarlagið undan fíggjarlóg, játtanarlóg og stýrisskipanarlóg</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Háfoss</persName>
+            <roleName>løgtingsmaður/kvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35451" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/73">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Háfoss<lb /><roleName>løgtingsmaður/kvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um at máa grundarlagið undan fíggjarlóg, játtanarlóg og stýris- skipanarlóg, settur Jørgen Niclasen, landsstýrismanni í fíggjarmálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví kom landsstýrismaðurin í figgjarmálum ikki beinanvegin í Løgtingið við eykajáttan til Heilsumálaráðið, tá tað gjørdist greitt, at neyðugt verður við 10,3 mió. kr. eyka til at rinda rokning, ið Heilsumálaráðið skal rinda sambært dóms- úrskurði?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Heldur landsstýrismaðurin í fíggjarmálum tað vera í lagi, at landsstýrismaðurin í heilsumálum rindar hesar 10,3 mió. kr. av játtanini til serviðgerð uttanlands, hóast landsstýrismaðurin hevur upplýst, at játtanin á fíggjarlógini ikki røkkur til hesa serstøku rokning, umframt vanliga virksemið til serviðgerð uttanlands?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er hesin framferðarháttur ikki við til at máa grundarlagið undan fíggjarlóg, játt- anarlóg og stýrisskipanarlóg?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er hetta í samsvari við játtanarlóg og stýrisskipanarlóg?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hví umhugsar landsstýrið at fáa eykajáttan við fíggjarnevndarskjali, tá Løgtingið er saman og hevur fleiri tingfundir í vikuni?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Nær kann væntast, at landsstýrið kemur við umbøn um eykajáttan til serviðgerð uttanlands, og hvussu stór væntast henda eykajáttan at verða?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað undrar, at landsstýrið ikki er komið í Løgtingið við umbøn um eykajáttan til at rinda rokning á 10,3 mió. kr., ið eru álagdar Heilsumálaráðnum at rinda í rættinum herfyri.</s>
+          </p>
+          <p>
+            <s>Løgtingið hevur 4 tingfundir hesa vikuna, og tí hevur verið rúm tíð at viðgera eina eykajáttan frá landsstýrinum.</s>
+          </p>
+          <p>
+            <s>Í staðin hevur í fjølmiðlunum verið at frætt, at landsstýrismaðurin í heilsumálum ætlaði at koma í Løgtingsins Fíggjarnevnd við umbøn í fíggjarnevndarskjali.</s>
+            <s>Hetta undrar eisini stórliga.</s>
+            <s>Tí Fíggjarnevndin játtar bert átrokandi eykajáttanir umvegis fíggjarnevndarskjali, tá Løgtingið ikki er saman, og tá Løgtingið ikki hevur møguleika fyri skjótt at avgreiða eina átrokandi eykajáttan.</s>
+            <s>Hetta er ikki støðan í løtuni.</s>
+          </p>
+          <p>
+            <s>Nú frættist so, at landsstýrismaðurin í fíggjarmálum hevur noktað landsstýrismanninum í heilsumálum at koma í Fíggjarnevndina við fíggjarnevndarskjali.</s>
+            <s>Í staðin skal landsstýrismaðurin rinda peningin av eini játtan til serviðgerð uttanlands, hóast landsstýrið veit, at játtanin harvið ikki fer at røkka til endamál sítt samsvarandi fíggjarlógini.</s>
+            <s>Landsstýrismaðurin í heilsumálum upplýsir enntá sjálvur alment, at hann rindar av eini játtan á fíggjarlógini, har tað als ikki er nóg mikið av peningi á til bæði verandi virksemi og til hesa rokning á 10,3 mió. kr.</s>
+            <s>Um landsstýrið velur henda leistin fyri síðan einaferð seinni í ár at koma við umbøn um eykajáttan - leingi eftir at
+              peningurin er nýttur - gerst Løgtingið til eitt “stempulkontór”, ið onga veruliga ávirkan fær á játtanina.</s>
+          </p>
+          <p>
+            <s>Henda framferð setir tí spurnartekin við, hvørt landsstýrið í hesum føri arbeiðir í samsvari við Játtanarlógina og Stýrisskipanarlógina, ið báðar áseta, at eingin útreiðsla má rindast uttan, at játtan er til hesa áðrenn.</s>
+            <s>Í Stýrisskipanarlógini verður í § 43, stk. 2 ásett: “Eingin útreiðsla má verða goldin, uttan at heimild er fyri henni í teirri fíggjarlóg, ella aðrari játtanarlóg, ið er í gildi, tá ið ávíst verður.”</s>
+            <s>Og í Játtanarlógini verður í § 1 ásett: “Eingin útreiðsla má verða rindað og ikki má verða tikið ímóti inntøku, er játtan ikki útvegað frammanundan”.</s>
+          </p>
+          <p>
+            <s>Í hesum førinum verður ein útreiðsla rindað, hóast landsstýrið veit, at játtanin ikki gevur rúm fyri hesum, og hóast góðir møguleikar eru fyri, at Løgtingið kann veita eina eykajáttan beinanvegin.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa lýst málið, verða hesir spurningar settir landsstýrismanninum í fíggjarmálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2015-03-27">27. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Háfoss</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
