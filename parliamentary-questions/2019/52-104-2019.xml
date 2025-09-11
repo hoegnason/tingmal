@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lestrarpláss</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Beinir Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3419" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/104">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Beinir Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um lestrarpláss, settur landsstýrismanninum í uttanríkis - og mentamálum, Jenis av Rana (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv tøk lestrarpláss eru til miðnáms-, yrkis- og hægri útbúgvingar fyri komandi skúlaár?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at økja um lestrarplássini innan hesar útbúgvingar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Koronukreppan hevur havt nógvar avleiðingar.</s>
+            <s>Tær merkjast eisini í búskapinum, og hevur tað havt uppsagnir við sær, serliga í tænastu- og ferðavinnuni.</s>
+            <s>Ein aldursbólkur, ið er hart raktur, eru tey ungu.</s>
+            <s>Í svari til § 52a fyrispurning nr. 82 kundi landsstýrismaðurin í umhvørvis- og vinnumálum t.d. vísa á, at tann 12. mai 2020 var ein triðingur av teimum í COVID-19 stuðulsskipanini hjá ALS undir 30 ár.</s>
+          </p>
+          <p>
+            <s>Ein vandi kann nú verða, at ungfólk leita sær uttanlands at arbeiða ella lesa, orsakað av avmarkaðum møguleikum her heima.</s>
+          </p>
+          <p>
+            <s>Í samgonguskjalinum hevur samgongan sett sær fyri, at vit skulu menna og styrkja útbúgvingarmøguleikarnar.</s>
+            <s>Eisini hevur Løgtingið samtykt ein lærlingafrádrátt, ið samgongan eisini setti sær fyri í samgonguskjalinum, ið skal lætta um hjá lærlingum, og samstundis gera tað meira áhugavert at velja eina yrkisútbúgving.</s>
+          </p>
+          <p>
+            <s>Tískil hevði verið áhugavert at fingið svar uppá, um landsstýrismaðurin hevur ætlanir um at økja um lestarplássini, og tað innan allar greinar, og hvussu nógv eru tøk í løtuni til komandi skúlaár.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-06-16">16. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Beinir Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

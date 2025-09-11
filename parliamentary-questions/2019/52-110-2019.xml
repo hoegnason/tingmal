@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ávirkan á sjúklingar orsakað av koronu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3430" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/110">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um ávirkan á sjúklingar orsakað av koronu, settur landsstýrismanninum í heilsumálum, Kaj Leo Holm Johannesen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørja ávirkan hevur koronusmittan havt á virksemið í sjúkrahúsverkinum ?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógvir sjúklingar hava verið noyddir at bíða eftir kanningum, viðgerðum, endurvenjing og øðrum ?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu eru virksemistølini í sjúkrahúsverkinum higartil í ár sammett við somu tíð í fjør ?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvat hevur verið gjørt fyri at byrgja fyri avleiðingum av útsettum sjúklingatænastum ?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Verður nakað serligt gjørt frameftir fyri at innheinta bíðilistarnar í sjúkarhúsverkinum ?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Koronu støðan er serstøk og hevur avleiðingar á samfelagið alt.</s>
+            <s>Eisini í sjúkrahúsverkinum hevur koronutilbúgvingin kravt nógv, og vanliga virksemið hevur verið bæði ávirkað og skert.</s>
+            <s>Vit hava frætt, at fólk hava hildið seg aftur at fara til lækna, samstundis sum virksemið hevur verið skert í sjúkrahúsverkinum.</s>
+            <s>Fyri nakrar sjúkubólkar er óivað okkurt, sum kann bíða, hóast tað hevur avleiðingar fyri fólk.</s>
+            <s>Í øðrum førum kann størri vandi óivað verða, um álvarsom sjúka ikki verður funnin í rættari tíð, og neyðug viðgerð sett í verk.</s>
+            <s>Eisini kunnu stórar avleiðingar verða av eitt nú manglandi endurvenjing, har førleikamissur í ringasta føri ikki kann endurvinnast.</s>
+            <s>Umframt hetta koma sálarligu avleiðingar, sum eru av støðuni sum heild.</s>
+            <s>Spurningurin er, hvussu sjúkrahúsverkið, nú virksemið er økt aftur, kann innheinta bíðilistarnar, og hvørja tænastu fólk kunnu vænta at fáa.</s>
+            <s>Eisini er áhugavert at fáa at vita, hvat hevur verið gjørt í koronutíðini fyri at byrgja fyri avleiðingum av niðursetta virkseminum í sjúkarahúsverkinum, og hvat verður gjørt frameftir hesum viðvíkjandi.</s>
+            <s>Í eykajáttan herfyri er víst á, at Almannaverkið tørvar eyka pening fyri at fáa bøtt tey afturstig, sum teirra borgarar hava verið fyri orsakað av koronu.</s>
+            <s>Spurningurin er tí eisini, um nøkur líkandi skipan er fyri sjúklingar, sum eisini hava verið fyri afturstigi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2020-06-19">19. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

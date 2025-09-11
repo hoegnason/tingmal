@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Starvssetan av læknum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3438" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/113">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jóhannis Joensen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi starvssetan av læknum, settur landsstýrismanninum í heilsumálum, Kaj Leo Holm Johannesen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Ætlar landsstýrismaðurin at hækka játtanina til introstørv?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Heldur landsstýrismaðurin, at tað hevði borið til at stytt bíðitíðirnar í heilsuverkinum og havt meira støðugar læknar í økjum, har tað mangla læknar, um starvsfólkatilfeingið bleiv gagnnýtt betur?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Heilsuverkið í Føroyum manglar læknar.</s>
+            <s>Nógvir borgarar hava ongan fastan kommunulækna, og bíðtíðirnar til serlæknaviðtalur eru langar.</s>
+            <s>Fyri at gerast serlækni eru nøkur stig ella størv, tú skalt í gjøgnum.</s>
+            <s>Fyrsta stigið er KBU starv; hetta tekur eitt ár, og har hava vit fingið eina skipan, sum ger, at føroyingar hava framíhjárætt til størvini her.</s>
+            <s>Næsta stigið er introstarv, sum er eitt hálvt til eitt heilt ár innan valdu serlæknagrein.</s>
+            <s>Fleiri læknar taka meira enn eitt introstarv, um tey ivast í serlæknagreinini.</s>
+            <s>Í Føroyum hava vit í nógv ár snakkað um, at vit vilja hava fleiri serlæknar í heilsuverkið, og tí er spurningurin, um vit ikki skulu gera alt, vit eru ment til tess at útbúgva serlæknar.</s>
+            <s>Í løtuni eru 15 føroyskir yngri læknar í Føroyum, men tað eru bert trý introstørv lýst leys.</s>
+            <s>Tað vil siga, at vit hava 10-12 yngri læknar, sum mugu aftur til Danmarkar, um tey skulu koma nærri eini serlæknaútbúgving.</s>
+            <s>Eru læknarnir fyrst farnir av landinum, er vandi fyri, at teir búseta seg uttanlands og ikki koma aftur.</s>
+            <s>Um tað eru fleiri kommunulæknar kring landið, sum eru áhugaðir í at taka ímóti læknum í introstørvum, hevði hetta samstundis økt um læknatilfeingið í teimum økjunum, har tørvur er á læknum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-06-22">22. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

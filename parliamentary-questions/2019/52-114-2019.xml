@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viðvíkjandi tiltøkum at styrkja Suðuroynna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Heðin Mortensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3440" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/114">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Heðin Mortensen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi tiltøkum at styrkja Suðuroynna, settur løgmanni, Bárði á Steig Nielsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji tiltøk ætlar landsstýrið at seta í verk til tess at venda gongdini í fólkatalinum í Suðuroynni?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Metir løgmaður, at hetta at seta gongd á Suðuroyartunnilin hevði verið eitt týdningarmikið átak í hesum høpi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um so er, nær ætlar løgmaður, at farast skal undir at gera Suðuroyartunnilin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nýggjastu tølini frá Hagstovuni vísa, at sjálvt nú í góðum tíðum veksur fólkatalið í Suðuroynni ikki.</s>
+            <s>Vøkstur er í øllum hinum høvuðsøkjunum í landinum, so úrslitið er, at í dag búgva einans 8,8% av fólkinum í Suðuroynni, meðan 13% búðu har í 1985.¹</s>
+            <s>Hyggja vit eftir aldurs- og kynssamansetingini, eru útlitini enn daprari.</s>
+            <s>Glottar eru tó summastaðni í oynni, har gongdin ikki er so galin, og einstøk stór arbeiðspláss eru løgst aftrat.</s>
+            <s>Skal fólkatalið og vinnugrundarlagið styrkjast, er tað helst neyðugt, at landið hjálpir til við miðvísum átøkum; bæði til at stuðla undir ítøkiliga menning og til at birta størri áræði og broyta ímyndina av Suðuroynni.</s>
+            <s>Avmarkaðu og kostnaðarmiklu flutningsmøguleikarnir eru ofta lýstir sum ein stór avbjóðing í sambandi við trivnaðin í Suðuroynni.</s>
+            <s>Ein Suðuroyartunnil hevði bøtt munandi um hesi viðurskifti.</s>
+            <s>Tí er tað viðkomandi hjá løgmanni at boða fólki og vinnu frá, um ætlanin er at fara undir at gera Suðuroyartunnil.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-06-22">22. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Heðin Mortensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

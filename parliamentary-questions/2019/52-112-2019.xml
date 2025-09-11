@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Innkoyringarnar til Norðragøtu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Uni Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3436" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/112">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Uni Rasmussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um innkoyringarnar til Norðragøtu, settur landsstýrismanninum í fíggjarmálum, Jørgen Niclasen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at gera nakað fyri at bøta um ferðslutrygdina við innkoyringarnar til Norðragøtu?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Norðragøtu bygd hevur tríggjar innkoyringar frá landsvegnum.</s>
+            <s>Hesar innkoyringar eru ofta íblandaðar ferðsluóhapp, harav flest øll ferðsluóphappini henda við tær báðar sunnaru innkoyringinar til Norðragøtu.</s>
+            <s>Ferðsluóhappini, sum henda við innkoyringarnar til Norðragøtu, eru ofta ógvuslig.</s>
+            <s>Hetta kemst helst av, at talan er um vegastrekki, har ið tað er loyvt at koyra 80 km/t.</s>
+            <s>Hóast onkrar ábøtur eru gjørdar á strekkinum, so henda framvegis nógv ferðsluóhapp við hesar innkoyringar.</s>
+            <s>Tað tykist, at tað er bert ein spurningur um tíð, til at ein ferðsluvannlukka fer at henda, sum fer at kosta mannalív.</s>
+            <s>Meiningarnar, um hvat skal gerast, eru nógvar.</s>
+            <s>Ynski eru um at bøta uppmerkingina, bøta um útsýnið við innkoyringarnar, at seta hámarksferðina niður á hesum strekkinum v.m.</s>
+            <s>Spyrjarin ynskir at fáa at vita, um nakrar ætlanir eru um at bøta um ferðsluviðurskiftini við innkoyringarnar til Norðragøtu fyri at kunna forða fyri ferðsluóhappum í framtíðini.</s>
+            <s>Tí verður hesin fyrispurningurin settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2020-06-19">19. juni 2020</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Uni Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
