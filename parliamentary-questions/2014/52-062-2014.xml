@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lýsingarprísir hjá Kringvarpinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Gunvør Balle</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35431" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/62">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Gunvør Balle<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um lýsingarprísir í Kringvarpi Føroya, settur Bjørn Kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin vátta, at Kringvarpið hevur lækkað prísin á ljóðlýsingum í útvarpinum við 80 prosentum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um svarið til spurning 1 er játtandi, ætlar landsstýrismaðurin at gera nakað við hetta?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu ætlar landsstýrismaðurin at tryggja, at alment fíggjaða Kringvarpið ikki undirgrevur tilverugrundarlagið hjá privatu miðlunum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sosialurin frá 2. mars 2015 veit at siga, at Kringvarpið hevur sent handilsvinnuni bræv, har tey boða frá, at prísurin á ljóðlýsingum í útvarpinum verður lækkaður við $80 %$.</s>
+            <s>Ein lýsing sum í farnu viku kostaði 1400 kr , kostar í hesu vikuni 280 kr .</s>
+            <s>Tað sigur seg sjálvt, at hetta er stór provokasjón yvirfyri privatu miðlunum, ið royna at yvirliva einans uppá lýsingarinntøkur.</s>
+            <s>Við hesum verður grundarlagið undir privatu fjølmiðlunum skrykt burtur.</s>
+            <s>Frammanundan er stór ónøgd í privatu miðlavinnuni um, at tað yvirhøvur er loyvt alment fíggjaða Kringvarpinum at eta av avmarkaðá lýsingarmarknaðinum.</s>
+          </p>
+          <p>
+            <s>Spurningurin er, hvat landsstýrismaðurin ætlar at gera við hetta.</s>
+            <s>Ætlar hann framvegis at lata Kringvarpið virka í kapping úti á lýsingarmarknaðinum, ella ætlar hann at tryggja stovninum nøktandi almenna fígging, so til ber at nokta stovninum at fáa inntøkur av lýsingum.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2015-03-04">3. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Gunvør Balle</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

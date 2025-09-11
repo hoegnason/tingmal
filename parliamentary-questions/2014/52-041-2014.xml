@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flóttafólk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjarni Djurholm</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35391" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/41">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjarni Djurholm<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um flóttafólk, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur løgmaður metingar um, hvussu vit skulu skipa flóttafólkaarbeiði og kostnaðin av møguligari flóttafólkaskipan í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur løgmaður metingar um, hvørjar átrúnaligar, mentanarligar og fólkaræðiligar avbjóðingar fara at vera, taka við flóttafólk úr t.d. Miðeystri?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur løgmaður tað ikki vera skilabetri, at vit vera við at fíggja neyðhjálp og humaniter átøk nærhendis krígsøkjunum og soleiðis veruliga hjálpa, so tað munar?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Ælar løgmaður at leggja fyri Løgtingið frágreiðing, sum verður støði undir aðal- orðaskifti um flóttafólk til Føroyar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í nýggjársrøðuni bar løgmaður boðskapin, at Føroyar eiga at taka móti flóttafólkum.</s>
+            <s>Sum framhald hevur løgmaður víst á, at vit eiga at umhugsa at taka ímóti upp móti 60 flóttafamiljum um árið, sum samsvarar við eini 250 til 300 fólk.</s>
+          </p>
+          <p>
+            <s>Útmelding løgmans var greið, men ógreiða er harafturímóti um, hvussu samfelagið skal fyrireika seg til nýggju støðuna soleiðis, at samfelagið kann fyrireika seg til avbjóðingina.</s>
+          </p>
+          <p>
+            <s>Eisini er stóra avbjóðingin, hvussu samfelagið skal húsa, skúla, geva sálar/læknaliga hjálp og annars vera um flóttarnar, og hvussu landskassin kann bera kostnaðin, sum fyri 60 flóttafamljur helst fer at kosta útvið 50 mió. kr. árliga.</s>
+            <s>Hugsa vit okkum, at familutalið ár undan ári økist javnbært, verður skjótt talan um árliga upphædd, sum verður fleirfalt so stór.</s>
+          </p>
+          <p>
+            <s>Hetta fer harumfarmt at geva samfelagnum stórar fólkaræðiligar, mentanarligar og ikki minst átrúnaðarligar avbjóðingar.</s>
+          </p>
+          <p>
+            <s>Aðrastaðni er alt meira vanligt, at heili øki, sum eru búsett av flóttum við t.d. muslimskum átrúnaði, í størri og minni mun eru regulerað sum parallellsamfeløg, har erklerað mál hjá fleiri er at virka móti fólkaræði og ístaðin stuðla jihad og at umskipa samfelagið til eitt khalifat.</s>
+            <s>Tí kann flóttafólkaspurningurin eisini gerast spurningur um grundleggjandi virðini, sum samfelag okkara byggir á.</s>
+          </p>
+          <p>
+            <s>Vísandi til sjálvsøgdu virðingina fyri mannarættindum og grundlógartryggjaðu ásetingunum um trúðarfrælsi, frælsi at skipa samkomur o.s.fr.</s>
+            <s>, kunnu myndugleikarnir ikki loyva sær at skilja millum teir flóttar, sum vilja koma til Føroyar.</s>
+            <s>Tí er tað ein ovurstór avbjóðing, sum frálíður.</s>
+            <s>at taka móti 100-tals flóttum árliga, har eingin vitan er um langtíðarárini fyri føroyska samfelagið.</s>
+            <s>Alternativið at taka flóttar til Føroyar er, at landsstýrið átekur sær skipaða hjálp til flóttafólk í londum, sum eru nærhendis teimum krígsøkjunum, har fólk verða forfylgd, myrd, neyðtikin, seld sum trælir og annars jagstrað frá húsi og heimi fyri sín átrúnað.</s>
+          </p>
+          <p>
+            <s>Við at hjálpa flóttum í teirra nærumhvørvi kann landsstýrið lokalt fíggja skúlagongd, heilsurøkt, sanitera skipanir o.s.fr.</s>
+            <s>nógv dyggari, enn samfelagið fyri somu upphæddir megnar við at húsa 10-tals familjum árliga í Føroyum.</s>
+            <s>T.v.s. veruliga hjálpa, har tað munar.</s>
+            <s>At skipa fyri slíkum hjálpararbeiði og at fáa til vega neyðugan pening er bert spurningur um áræði og politiskan vilja.</s>
+          </p>
+          <p>
+            <s>Ein orsøk til eksponeringina á flóttar nú er, at ræðuleikarnir í muslimsku regiónunum eru vorðnir ófatiligir.</s>
+            <s>Sokallaða arabiska várið endað í sonnum ruðuleika og menniskjaligum ræðuleikum.</s>
+            <s>Serstakliga hevur borgarakríggið í Sýria víst, hvussu høpisleys støðan er í økinum.</s>
+            <s>Milliónir eru flýdd frá húsi og heimi og eru fløttar í egnum landi, umframt at aðrar milliónir eru flýdd av landinum.</s>
+            <s>Burtur úr hesum ræðuleikum er sprottið kanska mest ráði felagsskapur nakrantíð, Islamic State (IS), sum hevur erklerað mál, at stórur partur av Sýria og Irak skulu vera eitt islamiskt kalifat, har Sharia-lógin skal praktiserast niður í smálutir.</s>
+          </p>
+          <p>
+            <s>Serstakliga hevur forfylgingin rakt kristnu minnilutarnar í økinum.</s>
+            <s>Eisini aðrir minnilutar eru sera hart raktir.</s>
+            <s>Píning, neyðtøkur, dráp og søla av ungum gentum er gerandiskostur.</s>
+            <s>Eisini hava vit sæð markleysar ræðuleikar fyri opnum skermi, har vesturlendsk tíðinda- og hjálparfólk verða skorin á háls og avhøvdað fyri opnum upptøkutólum.</s>
+          </p>
+          <p>
+            <s>Samanumtikið nam løgmaður í nýggjársrøðuni við sera álvarsligar, viðkomandi og eisini avgerandi spurningar, tá hann mælti til, at vit umrøða at taka móti flóttafólkum.</s>
+            <s>Við støði í nýggjársrøðuni verður hesin skrivligi spurningur settur løgmanni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2015-01-07">7. januar 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjarni Djurholm</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

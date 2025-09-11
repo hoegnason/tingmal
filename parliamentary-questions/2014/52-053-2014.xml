@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tollforðingar í ES</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanus Samró</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35413" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/53">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanus Samró<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um tollforðingar hjá ES, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>ES hevur ein toll fyri niðursjóðaðan makrel úr Føroyum, ið er 25 %. Ætlar løgmaður at virka fyri, at tollurin verður avtikin?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um so er, nær ætlar løgmaður at taka samráðingarnar við ES um tollforðingar upp?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í fjølmiðlunum hevur verið ført fram, at føroysk uppsjóvarvirkir arbeiða í hesum døgum við einari verkætlan, har makrelur verður meirvirkaður í Føroyum og seldur av landinum, sum makrelur í dós.</s>
+            <s>Frammanundan hava virkini selt makrelin heilfrystan av landinum, men nú eru útlit fyri, at føroysku uppsjóvarvirkini gera stórar íløgur í meirvirking av makrelinum soleiðis, at makrelurin verður seldur av landinum í dós.</s>
+          </p>
+          <p>
+            <s>Sambært fjølmiðlunum kemur hetta at skapa umleið 60 arbeiðspláss.</s>
+            <s>Men umframt nýggju arbeiðsplássini, er tað nógv, ið bendir á, at Føroyar kunnu fáa meiri fyri hvørt kilo av makreli, tí munur er á prísunum fyri heilfrystan makrel og makrel í dós.</s>
+          </p>
+          <p>
+            <s>Um so er, at verkætlanin við niðursjóðaðum makreli eydnast, eru útlit fyri, at føroyski útflutningurin økist við hundraðtals milliónum krónum.</s>
+          </p>
+          <p>
+            <s>Tað vísir seg tó, at føroysku uppisjóvarvirkini hava trupult við at koma á ES- marknaðin, tí Føroyar hava onga avtalu við ES um niðursjóðaðan makrel.</s>
+            <s>Sostatt verður ein tollur á 25% lagdur oman á niðursjóðaðan makrel.</s>
+            <s>Tí hevur tað altstóran týdning fyri føroyska samfelagið, at tollmúrurin hjá ES verður avtikin.</s>
+            <s>Tískil verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2015-02-05">5. februar 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanus Samró</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

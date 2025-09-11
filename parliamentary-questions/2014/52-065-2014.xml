@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Serligar reglur fyri matvøruframleiðslu til heimamarknaðin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35435" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/65">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um serligar reglur fyri matvøruframleiðslu til heimamarknaðin, settur Jacob Vestergaard, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji sjónarmið hevur landsstýrismaðurin til garðsølu, uttandura/marknaðarsølu av landbúnaðarvørum, umframt framleiddum úrdráttum frá bóndavirksemi, ið verður selt beinleiðis til brúkaran.</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru nakrar altjóða forðingar fyri, at vit varðveita føroysku siðvenjuna, at vit til heimabrúks kunnu keypa beinleiðis frá framleiðara við vitanini, at vøran ikki er góðskugóðkend.</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur landsstýrismaðurin, at møguleikin skal verða hjá bóndum og privatfólki kring landið og útoyggj, at taka móti ferðafólki, har teimum verður bjóðað bit og ból, ið er undantikið strongu krøvunum, sum eru til matstovur og gistingarhús.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fleiri bóndur hava ætlanir um at víðka sítt virksemi, við at dyrka landbúnaðarvørur og grønmeti, gagnnýta úrdráttir frá slaktinum beinleiðis til brúkaran, umframt at ferðavinnan kann gerast eitt gott íkast til raksturin.</s>
+          </p>
+          <p>
+            <s>Náttúruupplivingar, gongutúrar, fiskimøguleikar í áum, vøtnum og sjónum eru góðir.</s>
+            <s>Harumframt ber til at bjóða bit og ból, har gagnnýtsla av úrdráttum frá framleiðsluni á garðinum, er ein náttúrligur partur av upplivingini.</s>
+          </p>
+          <p>
+            <s>Stokkastovan í Kirkjubø man verða tað staðið í Føroyum, har hesin møguleikin er best nýttur, og er hetta ein góð fyrimynd fyri líknandi matstøðum uttanfyri meginøki og á útoyggj.</s>
+          </p>
+          <p>
+            <s>Ferðavinnan er eisini týdningarmikil partur av tilverugrundarlagnum hjá nógvum smærri samfeløgum, í londunum kring okkum.</s>
+            <s>Nú verulig gongd er komin á ferðavinnuna her heima, er neyðugt, at hendan so vítt gjørligt kemur øllum samfelagnum til góða.</s>
+          </p>
+          <p>
+            <s>Tí hevði tað verið kærkomið hjá teimum ferðandi, um tey í størri mun fingu møguleikan at síggja og uppliva, hvussu gerandisdagurin, kosturin og bústaðarviðurskiftini eru, hjá tí vanliga føroyinginum á bygd.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Tórshavn</name>, <br /><date when="2015-03-05">5. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

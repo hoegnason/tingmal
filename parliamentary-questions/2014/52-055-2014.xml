@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Almenni keypsportalin og útboð av almennum keypi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Háfoss</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35417" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/55">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Háfoss<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um almenna keypsportalin og útboð av almennum keypi, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er eftirmeting gjørd av almenna keypsportalinum? Um ja, hvør er niðurstøðan?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógvar uppgávur eru útbjóðaðar á keypsportalinum og av hvørjum, síðan hesin varð tikin í nýtslu?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógvir partar hava í miðal bjóðað uppá ymsu keypini av vørum og tænastum, ið eru útboðin?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu stórur partur av almennum keypi, ið sambært ásetingunum fyri portalin átti at verið útbjóðað, verður mett ikki er útboðið á portalinum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Kennir landsstýrismaðurin til ítøkilig keyp, ið av røttum áttu at verið útbjóðað á portalinum, men ikki vórðu útbjóðað? Um ja, hvørji og hví?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hví er arbeiðið at projektera komandi nýggja landssjúkrahúsbygningin og arbeiðið at dýpa havnina í Skopun í fjør ikki boðin út á keypsportalinum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Metir landsstýrismaðurin, at hetta er samsvarandi almenna setanarpolitikkinum, tá Gjaldstova nú útbjóðar eitt verkætlanarleiðarastarv á keypsportalinum, har tímataksturin telur 50% í vektingini av, hvør fær starvið?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Er ætlanin, at almennir stovnar frameftir skulu kunna nýta keypsportalin at bjóða almenn størv fram á líknandi hátt?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Metir landsstýrismaðurin ikki, at hetta kann verða við til at undirgrava vunnin lønarrættindi og samráðingarnar á arbeiðsmarknaðinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Almenni keypsportalurin varð settur í verk í 2013.</s>
+            <s>Á keypsportalinum verður lýst við almennum útbjóðingum, tá almennir stovnar og stjórnarráð skulu keypa vørur ella tænastur fyri meira enn 800.000 kr. uttan mvg.</s>
+            <s>Keyp av vørum og tænastum fyri minni upphædd kann eisini lýsast á keypsportalinum.</s>
+          </p>
+          <p>
+            <s>Nakrir stovnar og nøkur stjórnarráð hava útbjóðað keyp á portalinum, men tað eru ikki øll almenn keyp av vørum og tænastum omanfyri 800.000 kr., ið eru boðin út á keypsportalinum.</s>
+            <s>Ímillum tær uppgávur, ið ikki eru útbodnar, eru eisini nakrar rættiliga stórar.</s>
+          </p>
+          <p>
+            <s>Í løtuni verður keypsportalurin harumframt nýttur til at útbjóða eitt starv sum verkætlanarleiðari.</s>
+            <s>Tann, ið vinnur útboðið, skal gera eina strategi fyri talgilding av tænastum hjá tí almenna.</s>
+            <s>Ljóðar at vera eitt sera týðandi starv.</s>
+            <s>Undir upplýsingunum um, hvussu ætlanin er at velja millum tey, ið bjóða seg fram, er upplýst, at í vektingini kemur tímakostnaðurin at telja 50%, meðan førleikar, útbúgving og royndir telja 50%.</s>
+            <s>Tvs.</s>
+            <s>at hetta almenna starvið verður boðið út, og tann, ið kann bjóða seg fram til lægstu løn - umframt at hava rættar førleikar, útbúgving og royndir - fær starvið.</s>
+          </p>
+          <p>
+            <s>Um hetta verður ein leistur, ið almennir stovnar og stjórnarráð fara at nýta frameftir, kann hetta væntandi undirgrava vunnin lønarrættindi og sáttmálasamráðingar millum partarnar á arbeiðsmarknaðinum.</s>
+            <s>Harumframt er hetta neyvan í samsvar við almenna setanarpolitikkin, ið m.a. ásetir, at: "Størv skulu flokkast, áðrenn tey verða lýst leys.</s>
+            <s>Um hetta av eini hvørjari orsøk ikki ber til at gera endaliga, áðrenn starvið verður lýst leyst, skal ein vegleiðandi flokking verða ásett."</s>
+          </p>
+          <p>
+            <s>Almennir stovnar og stjórnarráð eru týðandi partar av føroyska samfelagnum.</s>
+            <s>Tað er tí gott, at innkeyp hjá hesum nú kunnu skipast umvegis almennan keypsportal.</s>
+            <s>Hetta gevur betur gjøgnumskygni í mun til, hvørji keyp verða útboðin, ger tað vónandi lættari hjá stovnum og stjórnarráðum at útbjóða og ger tað lættari hjá teimum, ið ynskja at bjóða seg fram at veita eina vøru ella tænastu, at bjóða seg fram á røttum staði.</s>
+            <s>Um henda skipan fæst at virka til fulnar, skuldi hetta gjarna verið ein vinn-vinn støða, bæði fyri tað almenna og vinnulívið.</s>
+          </p>
+          <p>
+            <s>Enn eru tó als ikki øll almenn keyp, ið liva upp til ásetingarnar um at verða útboðin á keypsportalinum, ið verða útboðin.</s>
+            <s>Samstundis verður okkurt nú útbjóðað, ið spurnartekin kann setast við.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa lýst málið og royndirnar við almenna keypsportalinum verða hesir spurningar settir landsstýrismanninum í figgjarmálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2015-02-13">13. februar 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Háfoss<lb/><roleName>løgtingskvinna</roleName></persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

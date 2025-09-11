@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útsøgn løgmans at minka um talið av almennum nevndum og ráðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35405" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/49">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útsøgn løgmans at minka um talið av almennum nevndum og ráðum, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er talið av almennum nevndum og partafeløgum minkað, síðan fráboðan løgmans í februar 2014?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrið tikið nøkur stig fyri at bøta um ójavna kynsbýtið, í almennum nevndum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur løgmaður, at tað er í lagi, at stórur munur er á løn/samsýning í almennum partafeløgum/nevndum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í 2013 setti Løgmansskrivstovan eitt arbeiði í gongd fyri at gera eitt fullfíggjað yvirlit yvir upplýsingar um nevndir og ráð, ið landsstýrið varðar av.</s>
+          </p>
+          <p>
+            <s>Dagførda álitið staðfestir, at samsýningar í almennum partafeløgum eru munandi hægri enn í almennum nevndum.</s>
+            <s>Eisini eru nógv fleiri menn enn kvinnur, ið manna almennu nevndirnar.</s>
+          </p>
+          <p>
+            <s>Talan er um 145 almennar nevndir og 743 nevndarsessir, har árligu føstu samsýningarnar eru 11,5 mió. kr.</s>
+          </p>
+          <p>
+            <s>Í fráboðan løgmans stendur, at landsstýrið fer at kanna, hvussu nevndarøkið kann umskipast fyri at tryggja fakliga dygd, størri gjøgnumskygni og bíligari rakstur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2015-01-29">29. januar 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
