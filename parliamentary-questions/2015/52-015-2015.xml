@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Góðkendar hvalvágir</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37106" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/15">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Helgi Abrahamsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um góðkendar hvalvágir, settur Høgna Hoydal, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Fer landsstýrismaðurin at lýsa broytingar í kunngerð nr. 100 frá 5. juli 2013 um grind, nú ætlan er at broyta fráboðanarskylduna í grindalógini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Fer landsstýrismaðurin at góðkenna Skálafjørð sum hvalvág, um so verður, at nevnda kunngerð verður broytt?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Undirritaði hevur fyrr sett fyrispurningar til landsstýrismannin í fiskivinnumálum viðvíkjandi góðkenning av hvalvágum, og eisini hevur verið samskift nógv við landsstýrið um hetta mál.</s>
+          </p>
+          <p>
+            <s>Undirritaði hevur fingið at vita, at millum annað Skálafjørður fór at verða góðkendur sum hvalvág, tá grindalógin og tilhoyrandi kunngerð fóru at verða broytt.</s>
+          </p>
+          <p>
+            <s>Tíverri hendi tað, at tá lógin varð broytt í summar, vóru feilir í henni, og tí varð í fyrsta umfari bíðað eftir, at feilirnir vórðu rættaðir.</s>
+            <s>Seinni, tá feilirnir vórður rættaðir, vísti tað seg, at eisini aðrir trupulleikar við fráboðanarskylduni máttu fáast av vegnum, áðrenn kunngerðin kundi verða broytt.</s>
+          </p>
+          <p>
+            <s>Nú hevur landsstýrismaðurin boðað frá, at grindalógin í næstum verður broytt viðvíkjandi fráboðanarskylduni.</s>
+            <s>Í tí sambandinum er høvi samtíðis at broyta kunngerðina, sum millum annað ásetir, hvørjar hvalvágir eru góðkendar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-12-22">22. desember 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

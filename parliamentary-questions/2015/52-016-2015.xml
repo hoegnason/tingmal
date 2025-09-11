@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fíggjarstøðan hjá lesandi og lærlingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName></persName>
+            <roleName>Kristina Heðinsdóttir Clementsen løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37115" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/16">
+        <div type="questioner">
+          <head rend="bold">
+            <persName><lb /><roleName>Kristina Heðinsdóttir Clementsen løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um fíggjarstøðuna hjá lesandi og lærlingum, settur Rigmor Dam, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru nakrar ítøkiligar ætlanir um at betra um fíggjarstøðuna hjá lesandi og lærlingum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er ætlan at hækka studningin hjá fólki undir hægri lesnaði?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu ætlar landsstýriskvinnan at tryggja sær, at lestrar- og lærlingaíbúðir verða bygdar komandi árini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Tað dýrabarasta tilfeingið, eitthvørt samfelag hevur, er ungdómurin.</s>
+<s>Tíverri gerst fólkasamansetingin í Føroyum alsamt meiri skeiklað.</s>
+<s>Vit gerast fleiri eldri umframt at nógv ung fara av landinum at lesa, virka og búseta seg.</s>
+<s>Nógv av hesum fólkum koma ikki heimaftur á klettarnar.</s>
+<s>Neyðugt er, at samgongan ger munagóð tiltøk fyri at bøta um korini hjá ungum fólki, sum velja at virka í Føroyum.</s>
+<s>Tað skal gerast meira lokkandi at lesa og virka í Føroyum.</s>
+<s>Lesandi og lærlingar hava í nógv ár verið forsømd, og tí hevur tað stóran týdning, at samgongan ger alt fyri at bøta um korini hjá hesum bólkum.</s>
+</p>
+<p><s>Undirritaða spyr tískil, hvørjar ítøkiligar ætlanir eru um at betra um fíggjarstøðuna hjá lesandi og lærlingum, um ætlanin er at hækka studningin hjá teimum undir hægri lesnaði, og hvussu landsstýriskvinnan ætlar at tryggja sær, at lestrar- og lærlingaíbúðir verða bygdar komandi árini.</s>
+</p>
+<p></p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-12-28">23 desember 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Heðinsdóttir Clementsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

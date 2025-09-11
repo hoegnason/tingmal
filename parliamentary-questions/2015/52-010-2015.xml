@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Samhaldsfasti Eftirlønargrunnurin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37099" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/10">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Samhaldsfasta Eftirlønargrunnin, settur Aksel V. Johannesen, løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er ætlan samgongunnar, at Samhaldsfasti Eftirlønargrunnurin skal verða bulurin í nýggju pensjónskipanini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um Samhaldsfasti heilt ella partvís avloysir núgaldandi pensjónskipan saman við grundupphædd og viðbót, hví hevur hesin ikki somu ásetingar sum galdandi fólkapensjón?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur løgmaður tað vera rætt, at føroyingar, sum partvís hava búleikast og arbeitt í Danmark ella Grønlandi, ongan trupulleika hava viðvíkjandi fólkapensjónini, men koma undir 40 ára kravið, ið er galdandi fyri at fáa fult útgjald úr Samhaldsfasta, hóast hesin ikki sá dagsins ljós fyrr enn í 1991?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Fer løgmaður at taka stig til at rætta henda skeivleika?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Um føroyingur hevur búð í Danmark ella Grønlandi og flytir heim til Føroya at búgva, eru ongir trupulleikar sambært galdandi pensjónskipan.</s>
+            <s>Brotpensjón er ikki galdandi innan fyri ríkið, so tískil fær viðkomandi fulla fólkapensjón eftir føroyskari lóggávu.</s>
+            <s>Fyri at fáa fult útgjald úr Samhaldsfasta krevst hinvegin, at ein hevur verið 40 ár á føroyska arbeiðsmarknaðinum,tí at brotpensjón er galdandi fyri samhaldsfasta innan fyri ríkisfelagsskapin.</s>
+            <s>Hevur ein t.d. búð og arbeitt 20 ár uttanlands, fær viðkomandi bert hálvt gjald úr samhaldsfasta.</s>
+            <s>Hetta er eisini galdandi fyri persónar, sum hava goldið fult gjald til grunnin, síðan hesin varð stovnaður í 1991.</s>
+          </p>
+          <p>
+            <s>Um teir koma frá landi, sum hava líknandi skipan sum okkara, skuldi ongin trupulleiki verið, tí tá fáa tey tað, sum tey missa her, endurgoldið frá landinum, har tey hava búð.</s>
+            <s>Øðrvísi er, um tey td.</s>
+            <s>hava búð nøkur ár innan ríkisfelagsskapin (Grønland el. Danmark), so er ikki sami møguleiki.</s>
+            <s>Brotpensiónin er ikki galdandi innan ríkisfelagsskapin, meðan hon er galdandi fyri samhaldsfasta.</s>
+            <s>Soleiðis fara hesi at missa, tá tey flyta til Føroyar, meðan tey fáa dupult, (t.v.s. bæði fulla grønlendska fólkapensjón og samhaldsfasta úr Føroyum), um tey td.</s>
+            <s>flyta til Grønlands.</s>
+          </p>
+          <p>
+            <s>Í byrjanini var talan um eina lítla upphædd, nakrar hundrað krónur, og var henda tí eitt kærkomið ískoyti til vanligu pensjónina.</s>
+          </p>
+          <p>
+            <s>Nú fráboðað verður, at Samhaldsfasti Eftirlønargrunnurin skal verða størri partur av útgoldnu fólkapensjónini, tí 40 milliónir kr. verða tiknar av skattafríu grundupphæddini, samstundis sum útgjaldið úr Samhaldsfasta hækkar.</s>
+            <s>Av hesi orsøk kunnu nógvir pensjónistar, sum frammanundan eru í ella nærkast fátækraváða, fáa verri umstøður, enn teir hava í dag við galdandi skipan.</s>
+          </p>
+          <p>
+            <s>Tískil verða hesir spurningar settir, soleiðis at greiða kann fáast á hesi manglandi harmonisering millum fólkapensjón og samhaldsfasta.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2015-11-23">23. november 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

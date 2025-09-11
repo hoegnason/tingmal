@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kynsbýti og aldurssamanseting</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37121" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/19">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um kynsbýti og aldurssamanseting, settur Rigmor Dam, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjir útbúgvingarstovnar, vinnufeløg ella onnur feløg og stovnar kring landið eru umboðað í arbeiðsbólkinum, ið er settur at fyrireika lestrarbýtið á Frælsinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu er kynsbýtið í arbeiðsbólkinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er hædd tikin fyri javnstøðu millum kynini í arbeiðsbólkinum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er aldurssamansetingin í bólkinum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvar í landinum er starvs- ella lestrarstaðurin hjá limunum í bólkinum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Eru lesandi ella umboð fyri lesandi í bólkinum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvørjum yvirskipaðum útbúgvingarpolitiskum endamáli metir landstýriskvinnan at røkka við kyns- og aldurssamansetingini, sum er í arbeiðsbólkinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Aldurssamansetingin er ein stór avbjóðing í Føroyum.</s>
+            <s>Serliga eru tað ungdómar og ikki minst ungar kvinnur, sum ikki støðast.</s>
+            <s>Og tær, sum fara av landinum, koma ikki í nóg stórum tali aftur.</s>
+          </p>
+          <p>
+            <s>Fyri at bøta um hesi viðurskifti er umráðandi at gera røttu raðfestingarnar innan útbúgvingarøkini.</s>
+            <s>Eisini er umráðandi at arbeiðsbólkar, sum hava stóra ávirkan á, hvussu vit skipa okkara lestrarbýir og útbúgvingar í framtíðini, eru umboðandi.</s>
+          </p>
+          <p>
+            <s>Landsstýriskvinnan hevur sett arbeiðsbólk at fyrireika lestrarbý á Frælsinum, sum sambært henni er partur av útbúgvingarpolitikkinum, ið skal til fyri at bøta um aldurssamansetingina.</s>
+            <s>Tí er áhugavert at fáa upplýst, hvussu kynsbýtið og aldurssamansetingin í fyrsta arbeiðsbólkinum, sum nýggja landsstýrið hevur sett í hesum sambandi, er.</s>
+          </p>
+          <p>
+            <s>Fróðskaparsetrið er fyri alt landið.</s>
+            <s>Seinastu fýra árini hava vit eisini sæð, at Setrið hevur skipað smærri fjarlestrardeplar kring landið.</s>
+            <s>Tað er tí av stórum týdningi, at samstarv fæst í lag millum Setrið, aðrar stovnar, lærustovnar, granskingarstovnar og viðkomandi fyritøkur og øki kring landið.</s>
+          </p>
+          <p>
+            <s>Tí er eisini áhugavert at fáa upplýst, hvar í landinum umboðini í bólkinum starvast dagliga, um ung lesandi eru við, og hvørjir útbúgvingarstovnar, vinnufeløg ella onnur viðkomandi feløg og stovnar eru umboðað í arbeiðsbólkinum.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2016-01-12">12. januar. 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

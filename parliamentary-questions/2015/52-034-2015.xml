@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Familjuískoyti</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37155" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/34">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um familjuískoyti, settur landsstýrismanninum í almanna- málum, Eyðgunn Samuelsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv hava søkt um familjuískoyti higartil?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv hava fingið játtað familjuískoyti?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógv fer at verða brúkt av samlaðu játtanini fyri 2016 við verandi játtaðu umsóknum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør roknar út og ger av, um ein umsókn verður játtað ella noktað?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hevur játtandi myndugleikin ábyrgd í mun til §12 í lógini um familjuískoyti?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Nýggja skipanin við familjuískoyti hevur bert virkað í stutta tíð.</s>
+<s>Tí er ov stutt tíð fráliðin til at gera nakra eftirmeting av skipanini.</s>
+<s>Harfyri ber til at fáa innlit í, hvussu skipanin er farin av barkastokki.</s>
+<s>Serliga hevur málið áhuga, tí lógarteksturin við ásetingum um, hvør kann fáa familjuískoyti, er sera nágreiniligur og lutvíst torskildur.</s>
+</p>
+<p><s>Tað er trupult at siga, hvussu stór fíggjarlógarjáttanin til familjuískoyti skal vera, tá eingin verulig tørvskanning liggur sum grund fyri uppskotinum.</s>
+<s>Tí kann eitt innlit tíðliga geva eina ábending um nýtsluna fyri árið.</s>
+<s>§12 ásetir treytir fyri tann, sum av órøttum hevur fingið familjuískoyti.</s>
+<s>Tað kann undra, at myndugleikarnir kunnu koma í ta støðu at játta pening til treingjandi fólk, sum mynduleikin seinni skal krevja innaftur.</s>
+<s>Tí má spurnartekin setast við, um tað bert er umsøkjarin, sum hevur ábyrgd, um hann av órøttum fær familjuískoyti.</s>
+</p>
+<p></p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-03-15">15. mars 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

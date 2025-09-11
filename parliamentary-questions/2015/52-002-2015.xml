@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Námsfrøðingar, sum taka part av útbúgvingini í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37083" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/2">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um námsfrøðingar, sum taka part av útbúgvingini í Føroyum, settur Rigmor Dam, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógvir námsfrøðingar hava seinastu fimm árini valt at taka part av útbúgvingini í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýriskvinnan í mentamálum upplýsa, hví tað er so trupult at fáa góðskrivaða læru og starvsvenjing í Føroyum, um henda er tikin í Danmark og ætlanin er at gera útbúgvingina lidna í Føroyum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu vanligt er tað, at næmingar, sum taka somu útbúgving, ikki fáa alla lærutíðina ella starvsvenjingina í Danmark góðskrivaða á Fróðskaparsetrinum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur landsstýriskvinnan ætlanir um at fremja broytingar, sum javnseta somu útbúgvingar í londunum báðum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein høvuðstrupulleiki fyri føroyingar er, at flestu ungu leita sær víðari útbúgving í grannalondunum, serliga Danmark.</s>
+            <s>Stórur partur av okkara ungdómi festir røtur í útbúgvingarlandinum og kemur tískil ikki heimaftur.</s>
+          </p>
+          <p>
+            <s>Politiska skipanin hevur sett sær sum mál, at vit gera tað, sum gerast kann, fyri at betra um møguleikarnar at fáa fleiri væl útbúgvin ung at venda heim eftir loknan lestur.</s>
+            <s>Teirra vitan og royndir eru alneyðugar og fara at gagna føroyska samfelagnum.</s>
+          </p>
+          <p>
+            <s>Eitt stig móti málinum er at fáa lesandi at taka ein part av útbúgvingini í Føroyum.</s>
+            <s>Serliga positivt er, um talan verður um seinna partin av lesnaðinum, tí tá hava tey lesandi beinleiðis samband við arbeiðsmarknaðin og kunnu taka starvsvenjing og prógva sítt virði, ið eftir loknan lestur kann geva møguleika fyri at fáa fast starv.</s>
+          </p>
+          <p>
+            <s>Uttan iva verða tað fleiri, sum velja at búseta seg í Føroyum, um tey hava beinleiðis tilknýti til landið eftir lokna útbúgving.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-10-19">19. oktober 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

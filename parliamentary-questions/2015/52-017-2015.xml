@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flóttafólk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Heðinsdóttir Clementsen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37117" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/17">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Heðinsdóttir Clementsen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um flóttafólk, settur Poul Michelsen, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Í samgonguskjalinum stendur: “Sum partur í einum sínamillum tengdum heimi hava Føroyar eisini ábyrgd í mun til tær ovurhonds stóru avbjóðingarnar við flóttafólki og neyðstøddum kring heimin – og á henda hátt av at royna at skapa eitt tryggari heimssamfelag.” Hvat merkir hetta ítøkiliga?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Arbeiðir landsstýrismaðurin í útlendingamálum við nøkrum ítøkiligum viðvíkjandi flóttafólkaspurninginum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýrismaðurin, at Føroyar gera nóg mikið við stóru avbjóðingarnar við flóttafólki og neyðstøddum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Tað gongur ikki tann dagur, har vit ikki hoyra um flóttafólk í miðlunum.</s>
+<s>Flóttafólk eru persónar, sum hava grundaðan ótta fyri at vera forfylgd orsakað av rasu, átrúnaði, uppruna, tilknýti til serligan sosialan bólk, ella politiska áskoðan, og sum ikki eru í heimlandi sínum.</s>
+<s>Sambært Sameindu Tjóðum vóru í 201419 mió. flóttafólk, 38,2 mió. fólk, sum eru burtur frá egnum heimi, men enn í egnum landi, og minst 1,66 mió. fólk spurdu um friðskjól í 2014.</s>
+<s>Hetta gevur yvir 59,5 mió. fólk, sum ikki eru í sínum heimstaði.</s>
+</p>
+<p><s>Føroyar eru partur av einum altjóða heimi, og spurningurin er, um ikki eisini vit eiga at hjálpa flóttafólkum og neyðstøddum.</s>
+<s>Undirritaða ynskir tí at fáa at vita, hvat orðing í samgonguskjalinum merkir, hvørt landsstýrismaðurin arbeiðir við nøkrum ítøkiligum viðvíkjandi flóttafólkaspurninginum, og um landsstýrismaðurin metir, at Føroyar ger nóg mikið í løtuni.</s>
+</p>
+<p></p>
+<p><s>Kristina Heðinsdóttir Clementsen</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-12-28">23. desember 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Heðinsdóttir Clementsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
