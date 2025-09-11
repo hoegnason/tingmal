@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Samskipan av rutunum hjá Bygdaleiðum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/43992" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/39">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>
+              Kári P. Højgaard
+              <lb />
+              <roleName>løgtingsmaður</roleName>
+            </persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold"></head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur landsstýrismaðurin, at samskipanin millum ruturnar hjá Bygdaleiðum á høvuðsrutuni millum Tórshavn og Klaksvík er nøktandi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann væntast, at landsstýrismaðurin fer at betra um sambandið fyri borgarar kring Skálafjørðin við møguligari tilkalling, so hesir fáa somu sømdir, sum borgarar í Klaksvík og Tórshavn?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Snarbussur koyrir beinleiðis av Toftum mánadag til fríggjadag kl. 06.10 og kl. 17.25.</s>
+            <s>Hesin støðgar í Skálabotni.</s>
+          </p>
+          <p>
+            <s>Kring Skálafjørðin búgva áleið 6.000 fólk ella áleið tað sama, sum í Norðoyggjum.</s>
+            <s>Regluligt samband millum Tórshavn og Klaksvík er áleið 12 ferðir aftur og fram dagliga.</s>
+            <s>Bert góður helmingur at túrunum eru samskipaðir við bussleiðina á eystara armi á Skálafjørðinum og enn færri túrar á vestara armi.</s>
+          </p>
+          <p>
+            <s>Tí er ein viðkomandi spurningur, um landsstýrismaðurin heldur, at støðan er nøktandi, ella hann fer at økja um atknýtta túratalið til høvuðsrutuna, fyri at javnseta fjarðbúgvar, (fólkið við Skálafjørðin), við tey ferðandi til endastøðirnar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2018-11-27">27. november 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

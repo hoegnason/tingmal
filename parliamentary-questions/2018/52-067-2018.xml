@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útbjóðing av vindorku við Gellingarklett í Hoyvíkshaganum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/44044" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/67">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útbjóðingina av vindorku við Gellingarklett í Hoyvíks- haganum, settur landsstýrismanninum í búnaðarmálum, Høgna Hoydal (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær, hví og við hvørjari heimild er tilsøgn givin Sigert Paturssyni at nýta festijørðina til útbygging av vindmyllum í Hoyvíkshaganum og at gera eina samstarvsavtalu við Sp/f Vindrøkt, sum útihýsir øðrum tilboðsgevarum at fáa atgongd til almennu jørðina?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji ítøkilig lyfti eru givin festaranum sambært nevndu tilsøgn?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Kann henda tilsøgn takast aftur, ella er tilsøgnin galdandi í óásetta tíð?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørjar avleiðingar hevur tað, um tilsøgnin verður tikin aftur?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hava royndir verið gjørdar at taka tilsøgnina aftur?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Um royndir eru gjørdar at taka tilsøgnina aftur, hví eru hesar ikki realiseraðar?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Er tað bert Sigert Patursson, sum fær sersømdir í sambandi við nýtslu av almennari jørð til vindmylluútbygging?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Fer allur ágóðin í sambandi við evt. nýtslu av festinum hjá Sigert Paturssyni til vindmylluútbygging til festaran privat, ella kemur nakað av hesum ágóða sjálvum festinum til góðar?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hví velur landið ikki heldur at nýta lógásettu heimildina í §§ 7 og 9 í løgtingslóg um landsjørð at lata tað standa opið hjá øllum tilboðsgevarum, sum í fríari kapping vinna eitt loyvi til elframleiðslu úr vindmyllum, at leiga hesa jørð út í avmarkað tíðarskeið, ella í øðrum lagi at keypa hesa jørð fyri galdandi prís hjá Búnaðarstovuni, evt. við einum servitutti um afturkeypsrætt fyri sama prís, tá vindmylluloyvið er útgingið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í sambandi við útbjóðingina av vindorku við Gellingarklett í Hoyvíkshaganum er nú alment komið í ljósmála at festarin, Sigert Patursson, persónliga hevur fingið eina tilsøgn frá myndugleikunum í 2003 um at nýta hesa almennu jørð til staðseting og útbygging av vindorku.</s>
+            <s>Við støði í hesi tilsøgn hevur hann privat gjørt eina seravtalu við Sp/f Vindrøkt um samstarv og nýtslu av hesi almennu jørð til eina ætlaða vindorkuútbygging uppá 18 MW, sum nú er útboðin til áhugaðar umsøkjarar av orkumyndugleikanum á Umhvørvisstovuni.</s>
+            <s>Í útbjóðingartilfarinum setir Umhvørvisstovan sum avgerandi treyt, at áhugaðir umsøkjarar skulu prógva ræðisrætt og atgongd til viðkomandi lendi.</s>
+            <s>Úrslitið er, at aðrir áhugaðir umsøkjarar, harundir almenni kommunali felagsskapurin SEV, frammanundan eru útihýstir frá nevnda útbjóðingarumfari.</s>
+            <s>Tað kann sostatt tykjast sum, at almenna útboðið bert verður gjørt uppá kvamsvís.</s>
+            <s>Tí Umhvørvisstovan er frammanundan fullvitandi um, at nevndu avmarkingar útihýsa øðrum frá at luttaka í kappingini um loyvið, soleiðis at eitt komandi tilboð bert fer at fevna um tann eina umsøkjaran, nevniliga Sp/f Vindrøkt.</s>
+            <s>Tað er tí viðkomandi at fáa staðfest, um galdandi lóggávu á økinum heimilar slíkari privatari seravtalu um almenna jørð, sum forðar øðrum umsøkjarum, harundir elfelagnum SEV, at sleppa framat at bjóða uppá framtíðar vindorkuútbyggingina í Føroyum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-06-03">3. juni 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

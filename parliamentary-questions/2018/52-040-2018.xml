@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avgerð og vantandi grundgevingarnar fyri ikki at taka upp samstarv við Novo Nordisk grunnin um diabetesmiðstøð í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Elsebeth Mercedis Gunnleygsdóttur</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/43990" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/40">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Elsebeth Mercedis Gunnleygsdóttur<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um avgerðina og vantandi grundgevingarnar fyri ikki at taka upp samstarv við Novo Nordisk grunnin um diabetesmiðstøð í Føroyum, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar eru grundgevingarnar fyri, at Heilsumálaráðið sýtti fyri at taka samstarv upp við Novo Nordisk grunnin um diabetesmiðstøð í Føroyum? Og hvør hevur tikið avgerð um hetta?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hví setti Heilsumálaráðið seg ikki í samband við Diabetesfelagið?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørja ávirkan hevur avgerðin fyri diabetessjúklingar í Føroyum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Metir landsstýrismaðurin, at umstøðurnar hjá diabetessjúklingum eru nøktandi?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Um so varð, at ein diabetesmiðstøð varð sett upp í Føroyum, hvussu nógv nýggj arbeiðspláss høvdu verið skapt?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Útvarpið boðaði í gjár frá, at Novo Nordisk grunnurin í samstarvi við grønlendsku myndugleikarnar hevur gjørt av at seta eina diabetesmiðstøð upp í Grønlandi, meðan Heilsu- og innlendismálaráðið takkaði nei til sama tilboðið.</s>
+          </p>
+          <p>
+            <s>Sambært forkvinnuni í Diabetesfelagnum, hevur Heilsu- og innlendismálaráðið ikki ráðført seg við Diabetesfelagið, hóast tað eru millum 4000 og 5000 diabetessjúklingar í Føroyum.</s>
+            <s>Av tí, at Heilsu- og innlendismálaráðið ikki vildi taka upp samstarv við Novo Nordisk grunnin, hevur Jannik Hilsted, ið hevur evstu ábyrgd fyri játtanum til diabetes verkætlanir, sum Novo Nordisk grunnurin veitir, slept ætlanunum um samstarv.</s>
+          </p>
+          <p>
+            <s>Avgerðin hevur elvt til mikla øsing millum manna.</s>
+            <s>Tað er sera óheppið, tá Heilsu- og innlendismálaráðið tekur so stóra avgerð uttan at ráðføra seg við Diabetesfelagið, tí ein slík miðstøð hevði uttan iva verið diabetessjúklingum at gagni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2018-12-06">6. desember 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Elsebeth Mercedis Gunnleygsdóttur</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
