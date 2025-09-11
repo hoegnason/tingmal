@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tvískattaavtala við USA og onnur lond</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33108" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/41">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um tvískattaavtalu við USA og onnur lond, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar samráðingar eru um at útvega Føroyum tvískattaavtalu við USA og onnur lond, har eingin avtala er?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Nær kann roknast við, at avtala verður gjørd – og við hvørji lond?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjar eru tær ítøkiligu fíggjarligu avleiðingarnar fyri vinnufyritøkur og einstaklingar, ið hava inntøku úr USA og øðrum londum, har eingin avtala um skatting er?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørjar eru avleiðingarnar fyri at menna nýggjar marknaðir og vinnumøgu- leikar, tá ongar avtalur um tvískattting eru?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørjar eru avleiðingar fyri fyritøkur og einstaklingar í USA og øðrum londum, sum hava inntøku úr Føroyum – ella hava ætlanir um at hava tað?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Í mun til hvørji lond er trupulleikin mest átrokandi fyri fyritøkur og einstak- lingar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Føroyskar fyritøkur og einstaklingar, sum hava inntøku í USA, men heimstað í Føroyum, verða harðliga rakt fíggjarliga av, at eingin tvískattaavtala finst millum londini.</s>
+<s>Á sama hátt rakar hetta fyritøkur og einstaklingar í USA, sum hava inntøku ella ætlanir um at hava tað - í Føroyum.</s>
+</p>
+<p><s>Sami trupulleiki er sjálvsagt galdandi í mun til onnur lond, har eingin avtala um skatting er gjørd fyri Føroyar.</s>
+</p>
+<p><s>Málið hevur javnan verið reist á tingi, men einki bendir á, at trupulleikin er loystur, ella at nakað avgerandi hendir í málinum.</s>
+</p>
+<p><s>Tí verður spurt um málið til tess at fáa gongd á eina loysn sum skjótast.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-03-18">18. mars 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

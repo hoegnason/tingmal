@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hví eru m.a. fyritíðarpensjónistar hildnir uttan fyri nýggju eftirlønarsamansparingina</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33064" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/22">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hví m.a. fyritíðarpensjónistar eru hildnir uttan fyri nýggju eftirlønarsamansparingina, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar eru grundgevingarnar fyri, hví ávísir bólkar av fólki ikki eru fevndir av nýggju eftirlønarsamansparingini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu ætlar landsstýriskvinnan at tryggja hesum fólkum góð fíggjarviðurskifti, tá ið tey fara um fólkapensjónsaldur</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nýggja eftirlønalógin leggur upp til, at allir borgarar nú sjálvir skulu spara saman til síni ellisár.</s>
+            <s>Kravda eftirlønarsamansparingin byrjar longu í komandi ári.</s>
+            <s>Hóast hetta, so eru nakrir samfelagsbólkar hildnir uttanfyri, og tann størsti er kanska fólk, sum fáa fyritíðarpensjón.</s>
+            <s>Spurningurin er, hvørjar orsøkir liggja til grund fyri, at nøkur fólk ikki eru fevnd av nýggju eftirlønarlógini.</s>
+          </p>
+          <p>
+            <s>Tað tykist óvist, hvat skal henda við fólkapensjónini, sum vit kenna hana í dag.</s>
+            <s>Landsstýriskvinnan hevur alment víst á, at væntast skulu broytingar, og at mótroknað fer at verða í grundarupphæddini.</s>
+            <s>Útfrá hesum verður fólkapensjónin, sum vit kenna í dag, har øll hava rætt til pensjón, burtur.</s>
+          </p>
+          <p>
+            <s>Fólk, sum fáa fyritíðarpensjón, fáa hesa vegna skerdan arbeiðsførleika.</s>
+            <s>Í teirra viknisføru árum hava tey tí ikki havt møguleika at forvunnið sær annað enn sera avmarkaða inntøku.</s>
+            <s>Fyri nøkur er tað eisini trupult at liva av fyritíðarpensjónini, og sum tað sær út til við nýggju eftrlønarlógini, fer tað eisini at verða trupult at vera gamal í Føroyum, um tú hevur verið so óheppin, at lívsleiðin og lagnan lagaði seg soleiðis, at tú tíverri vart skerdur í arbeiðslívinum.</s>
+            <s>Tí er áhugavert at hoyra, hvussu landsstýriskvinnan ætlar sær at tryggja, at m.a fyritíðarpensjónistar fáa eina inntøku at liva av á ellisárum, og hvat skal henda við fólkapensjónini.</s>
+          </p>
+          <p></p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-12-10">10. desember 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

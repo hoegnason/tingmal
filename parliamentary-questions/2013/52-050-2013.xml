@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sálarlig hjálp til næmingar, lærlingar og lesandi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33128" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/50">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanna Jensen<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um sálarfrøðiliga hjálp til næmingar, lærlingar og lesandi, settur Bjørn Kalsø, landsstýrismann í mentamálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Veit Mentamálaráðið sum ovasti undirvísingarmyndugleiki, hvør tørvurin er á sálarfrøðiligari hjálp til lesandi í miðnámsskúlaskipanini, yrkisnámsskipanini og í hægri undirvísingarskipanum í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru aðrar kanningar gjørdar enn “Álit um sálarfrøðiliga hjálp” til miðnámsskúlanæmingar frá desember 2004?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýrismaðurin, at samband er ímillum sálarfrøðiligar trupulleikar og tað, at næmingar, lærlingar og lesandi gevast við útbúgvingini ella fáa munandi verri úrslit?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Um so er, hvørjar møguleikar hava næmingar, lærlingar og lesandi at koma fram at tænastu, sum bjóðar sálarfrøðiliga hjálp, sum kann byrgja upp fyri, at lesandi og lærlingar gevast við útbúgvingini ella ikki fáa nøktandi úrslit?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Eru nakrar ætlanir um at seta skipan við sálarfrøðiligari hjálp í verk fyri lesandi? Eru ætlanir um onnur sløg av stuðlandi átøkum til hendan sama bólk?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í desember 2004 varð “Álit viðvíkjandi sálarfrøðiligari hjálp til miðnámsskúlanæmingar” handað Mentamálaráðnum.</s>
+            <s>Álitið mælir til í minsta lagi ½ starvssettan sálarfrøðing fyri allar Føroyar - til at byrja 1. januar 2005.</s>
+          </p>
+          <p>
+            <s>Hetta eru 10 ár síðani, og millum starvsfólkið á miðnámsskúlaøkinum tykist semja vera um, at tørvur er á eini skipan, har miðnámsskúlanæmingar hava møguleika til at fáa sálarfrøðiliga hjálp.</s>
+            <s>Í umrødda álitinum verður mett, at í fleiri førum kundi fráfall frá skúlagongdini verið munandi minkað, um hetta tilboðið var tøkt - beinleiðis ætlað hesum næmingum.</s>
+            <s>Tí har er eitt mark ímillum ta vanligu lestrar- og yrkisvegleiðing, sum næmingar fáa, og so sálarfrøðiliga terapi og onnur tilboð, sum næmingar hava tørv á.</s>
+          </p>
+          <p>
+            <s>Hugsast kann, at eisini í øðrum undirvísingarskipanum er ein tílíkur tørvur, sum er ávístur í álitinum so sum á Yrkisnámi, Vinnuháskúlanum, Fróðskaparsetri Føroya v.m. Tí havi eg sett hesar spurningar fyri at fáa fram í ljósið, hvør vitan er um hesi mál, hvørjar aðrar kanningar og metingar møguliga eru gjørdar, og hvørjar møguleikar næmingar, lærlingar og lesandi hava fyri at fáa sálarfrøðiliga og møguliga aðra hjálp, meðan tey eru undir útbúgving, sum nú er.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-04-09">9. apríl 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Endurmenning</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33066" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/23">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um endurmenning, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Fer landsstýriskvinnan at virka fyri, at samdøgursrehabiliteringin á Boðanes- heiminum kann halda áfram í komandi ári?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu fer landsstýriskvinnan at tryggja heimabúgvandi borgarum gerandis- rehabilitering og ambulanta rehabilitering?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Boðanesheimið hevur havt verkætlan við samdøgursrehabilitering frá august 2013.</s>
+            <s>Verkætlanin hevur roynst væl, og 15 fólk hava verið til samdøgursrehabilitering.</s>
+            <s>Víst hevur verið á, at fólk aftaná eitt samdøgursrehabiliterandi uppihald eru væl fyri og í mongum førum hava styrkt sínar førleikar so mikið, at tey væl kunnu klára seg í egnum heimi, annaðhvørt við hjálp ella uttan.</s>
+            <s>Mett verður, at rehabiliteringin sparir bæði landskassanum og tí einstaka borgaranum nógv, tí fólk fáa betri førleikar og lívsgóðsku, og harvið megna at vera í egnum heimi longri, enn um tey onga rehabilitering fingu.</s>
+            <s>Tvørfakliga verkætlanin á Boðanesheiminum endar 20. desember og óvist er, um peningur er til at halda áfram komandi ár, hóast fólk standa á bíðilista at koma inn.</s>
+            <s>Tí er spurningurin til landsstýriskvinnuna, um hon vil virka fyri, at hetta tilboð kann halda áfram.</s>
+          </p>
+          <p>
+            <s>Alneyðugt er eisini við rehabilitering til heimabúgvandi.</s>
+            <s>Bæði sum ambulant tilboð, har fólk kunnu koma inn á eitt nú røktarheimini og fáa fakligt tilboð um endurmenning har, ella heima við hús, har økisterapeuturin kann veita tænastuna.</s>
+            <s>Hesar tænastur skulu viðvirka til at viðíkahalda førleikar, sum fólk hava endurvant, somuleiðis sum tað er eitt heilsufremjandi tilboð til heimabúgvandi, sum kann styrkja og viðíkahalda førleikar, og harvið fremja góða heilsu.</s>
+            <s>Hesi tilboð eru sera óeins um landið.</s>
+            <s>Nøkur øki bjóða tænastuna og onnur kanska skerda tænastu, meðan onnur næstan onga tænastu veita.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa samanhang í endurmeningartilgongdina er neyðugt, at ambulanta og gerandisrehabiliteringin vera framd í forleingilsi av samdøgursrehabiliteringin - eins og umvent.</s>
+            <s>Tí er áhugavert at vita, hvussu landsstýriskvinnan fer at tryggja eina samanhangandi rehabiliteringstilgongd fyri allar borgarar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-12-10">10. desember 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

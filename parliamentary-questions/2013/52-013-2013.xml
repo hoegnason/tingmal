@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Friðing og royndarveiða á Føroya Banka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33046" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/13">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um friðing og royndarveiðu á Føroya Banka, settur Jacob Vestergaard, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu leingi hevur Føroya Banki verið stongdur fyri vinnuligari veiðu, og eru nakrar ábendingar um, at friðingin hevur havt sjónliga positiva ávirkan á fiskastovnarnar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Á seinasta túri hjá Magnusi Heinasyni høvdu teir eini 29 hál og fingu umleið ein tosk í hvørja ferð. Sama søgan hevur verið í fleiri ár. Heldur landstýrismaðurin, at royndin hjá Magnusi Heinasyni avspeglar allan veruleikan?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógvir smábátar hava fingið royndarloyvi á Føroya Banka seinastu trý árini. Eru avreiðingarseðlarnir tøkir, og staðfesta hesir somu vánaligu støðuna, sum royndirnar hjá Magnusi Heinasyni?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Nær var royndarloyvi seinast givið til skip at royna við gørnum eftir havtasku á Føroya Banka?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvussu var fiskiskapurin tá, og er nøkur ætlan um framefir at geva garnaskipi royndarloyvi við eygleiðara frá Havstovuni umborð?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Er ætlanin at geva einum ella fleiri línubátum royndarloyvi á Bankanum, við eygleiðara umborð?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í Føroyum hava vit valt at hava eina fiskidagaskipan, sum regulerar veiðitrýstið.</s>
+            <s>Tað mest positiva við hesi skipan er, at tann veiða, sum kemur á dekkið, verður førd til lands og tískil eisini skrásett, mótvegis kvotaskipanini, sum revsar tann, sum fiskar meir enn kvotan loyvir.</s>
+          </p>
+          <p>
+            <s>Vit hava harumframt tekniskar reguleringar og økisfriðingar.</s>
+            <s>Stórur partur av landgrunninum er friðaður fyri trol og onnur øki eru friðað alt árið fyri allari vinnuligari veiðu.</s>
+          </p>
+          <p>
+            <s>Føroya Banki hevur fingið frið fyri veiðu í nógv ár, men einki røkist fyri, at fiskastovnarnir eru komnir fyri seg, so hesin aftur verður latin upp.</s>
+          </p>
+          <p>
+            <s>Nú ganga søgur um, at smábátar, sum hava fingið royndarloyvi, hava havt góðan fiskiskap.</s>
+            <s>Eru søgurnar sannar, stendur ein spyrjandi, um tað bert skal vera úrslitið frá havrannsóknarskipinum, sum liggur til grund fyri stovnsmetingunum.</s>
+          </p>
+          <p>
+            <s>Trolarar fóru yvir á Flammish Cap og fingu lítið av fiski.</s>
+            <s>Fækstu høvdu væntað, at línubátarnir sum seinni fóru yvir, skuldu fáa so gott fiskarí, sum teir uttan undantak fingu.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-10-24">24. oktober 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

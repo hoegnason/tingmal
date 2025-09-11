@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ergoterapi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33149" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/61">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur ergoterapi, settur Karsten Hansen, landsstýrismanni í heilsumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu vil landsstýrismaðurin tryggja, at fólk í Suðuroynni fáa nøktandi ergoterapeutiska viðgerð og endurmenning?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin um at fáa játtan til ergoterapi á Suðuroyar Sjúkrahúsi?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein stórur partur av at hava eina nøktandi endumenningartænastu og viðgerð á sjúkrahúsunum er at hava neyðugu fakligu førleikarnar tøkar.</s>
+            <s>Tað snýr seg um tvørfakligt samstarv millum ymiskar relevantar fakbólkar, og manglar ein av fakbólkunum, verður tænastan ikki nøktandi.</s>
+            <s>Harvið fær sjúkrahúsið ikki bjóðað sínum sjúklingum ella viðskiftafólki nøktandi endurmenningartænastu.</s>
+          </p>
+          <p>
+            <s>Útlitini fyri at endurvinna mistar førleikar og fyri at menna sítt menningartilfeingi verður tí skert fyri fólk, sum búgva á staði, har tænastan ikki finst.</s>
+            <s>Ein onnur avleiðing kann vera, at fólk flyta burtur úr økinum, tí vitanin um, at viðgerðartilboð eru í øðrum økjum, dregur, tí øll vilja gera sítt til at fáa bestu útlit til eitt innihaldsríkt lív við støði í tí støðu, viðkomandi er í.</s>
+          </p>
+          <p>
+            <s>Fram til 2011 hevði Suðuroyar Sjúkrahús ergoterapi.</s>
+            <s>Vegna sparingar bleiv tænastan tá tikin burtur og hevur ikki verið til staðar síðan.</s>
+            <s>Hetta hevur sett nógv fólk í sera truplar støður.</s>
+            <s>Nógv børn við trupulleikum av ymiskum slagi, sum t.d rørslutarni, sansamotoriskum trupulleikum, viðføddum sjúkum ella brekum høvdu stóra gleði av at fáa hetta neyðuga viðgerðartilboð.</s>
+            <s>Somuleiðis fólk við heilabløðingi, blóðtøppi í heilanum og ymiskum neurologiskum sjúkum.</s>
+            <s>Umframt tað stóra arbeiði, sum liggur í uppvenjing aftan á ólukkur og likamsbrot av ymiskum slagi.</s>
+            <s>So málbólkurin er stórur, og nógv er at vinna fyri tann einstaka í endurvunnum førleikum, og harvið betri framtíðarútlitum.</s>
+          </p>
+          <p>
+            <s>Støðan síðan 2011 hevur verið trupul.</s>
+            <s>Fólk við børnum eru noydd at fara av oynni fyri at fáa ergoterapi.</s>
+            <s>Hetta er als ikki nøktandi.</s>
+            <s>Vegna stóru fjarstøðuna, so verður ov lítil kontinuitetur í viðgerðini, umframt at tað ikki er sameiniligt við skúlagongd hjá barninum og arbeiðslív hjá foreldrum.</s>
+            <s>Eisini eru sjúklingar, sum ikki kunnu útskrivast til Suðuroyar sjúkrahús ella til hús, tí eingin ergoterapi er.</s>
+            <s>Onnur dømi eru um fólk, sum áttu at fingið ergoterapi, onga fáa.</s>
+          </p>
+          <p>
+            <s>Tað er sera umráðandi, at ergoterapi er á øllum sjúkrahúsum.</s>
+            <s>Tænastan er neyðug bæði fyri innlagdar sjúklingar, og sum ambulant tilboð.</s>
+            <s>Uppfylging og framhaldandi menning av førleikum kann vera ein áralong tilgongd.</s>
+            <s>Um ikki, kann nógv detta niðurfyri, sum setir fólk í støður við munandi verri heilsustøðu, enn neyðugt er.</s>
+            <s>Tí er umráðandi at vita, hvussu Karsten Hansen, landsstýrismaður, vil tryggja suðringum javnbjóðis rættindi til heilsutænastur, og um landsstýrismaðurin hevur ítøkiligar ætlanir um at virka fyri, at ergoterapeutur verður settur á Suðuroyar sjúkrahúsi.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin hevur fyrr fráboðað, at hann ætlar at koma við eini lóg um endurmenning.</s>
+            <s>Eisini í sambandi við ta ætlanina er ergoterapeuturin neyðugur í mun til ta tænastu, man tá ætlar at veita.</s>
+          </p>
+          <p>
+            <s>Tað er eingin ivi um, at endurmenning gevur úrslit bæði likamliga og menniskjansliga, og harvið eisini, sum frá líður, fyri heilsuverkið.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-05-08">8. mai 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Avleiðingar av rættarmáli móti Fiskimálaráðnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>Aksel V. Johannesen, løgtingsmaður Poul Michelsen, løgtingsmaður Kári P. Højgaard, løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33070" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/24">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName>Aksel V. Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName>Poul Michelsen<lb /><roleName>løgtingsmaður</roleName></persName>
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um avleiðingar av rættarmáli móti Fiskimálaráðnum, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er løgmaður greiður um, at eitt partafelag hevur stevnt Fiskimálaráðið inn fyri Føroya Rætt við kravi um, at rætturin viðurkennir, at ráðið seinastu árini ólógliga hevur umsitið lógina um vinnuligan fiskiskap í sambandi við tilluting av fiskirættindum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørjar avleiðingar heldur løgmaður eiga at takast, um stevnarin fær viðhald frá Føroya Rætti?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur løgmaður tað vera rætt, at Fiskimálaráðið aftur fer at luta út fiskirætt- indi til makrel og norðhavssild fyri 2014 eftir sama leisti sum undanfarin ár?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Heldur løgmaður, at Løgtingið eigur at bíða við at avgreiða løgtingslóg nr. 26/2013 um serstakar treytir fyri fiskiskap eftir norðhavssild og makreli fyri 2014, til Føroyar Rættur hevur felt dóm í málinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroya Rættur viðger í løtuni eitt mál, har Fiskimálaráðið er stevnt við uppáhaldi um, at Fiskimálaráðið hevur tillutað fiskirættindi ólógliga, og roknast kann við einum drúgvum og álvarsligum eftirspæli, og at øll fiskivinnuumsiting hjá landsstýrinum seinnu árini má endavendast.</s>
+          </p>
+          <p>
+            <s>Rættarmálið snýr seg um, at Fiskimálaráðið m.a. við at brúka grein 9, stk. 1, nr. 3 í lógini um vinnuligan fiskiskap ólógliga hevur tillutað uppisjóvarfiskirættindi seinastu tíðina.</s>
+          </p>
+          <p>
+            <s>Í løtuni viðger Løgtingið uppskot til løgtingslóg um serstakar treytir fyri fiskiskap eftir norðhavssild og makreli fyri 2014, løgtingsmál nr. 26/2013.</s>
+            <s>Fiskimálaráðið fer við hesi lógarheimild at tilluta fiskirættindi fyri 2014 eftir sama leisti, sum undanfarin ár.</s>
+          </p>
+          <p>
+            <s>Í næstum fellur dómur í omanfyrinevnda rættarmáli, og fáa vit tá at vita, um Fiskimálaráðið hevur umsitið lógina um vinnuligan fiskiskap á rættan og lógligan hátt.</s>
+            <s>Tá so er, kann spurningur setast um, hvussu rætt tað er at viðgera lógina um fiskirættindi til norðhavssild og makrel fyri 2014, fyrrenn rætturin hevur talað.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-12-11">11. desember 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+              <persName>Aksel V. Johannesen</persName>
+              <persName>Poul Michelsen</persName>
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

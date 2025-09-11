@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anita</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Gunvør Balle</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33122" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/48">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Gunvør Balle<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um “Anitu”, settur , Jacob Vestergaard, landsstýrismanni í fiskivinnumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví vórðu stig ikki tikin til at fáa reiðaríið hjá Anitu at taka gørnini inn fyrr?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevði Anita fingið undantaksloyvi at lata gørnini standa longri enn teir 72 tímarnar, sum sambært lógini er longsta tíð, tey kunnu standa?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um ikki, er tað so at meta sum ólógligur fiskiskapur, tá skipið brýtur hesa áseting?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Um svarið upp á spurning 3 er ja, hví sigur Fiskiveiðieftirlitið so, at teir ikki hava mandat at seta reiðarínum krøv um at draga gørnini, ella at fáa annað skip at draga gørnini upp á rokning hjá reiðarínum hjá Anitu?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Fær tað nakrar avleiðingar (fyri avvarðandi myndugleika ella reiðaríið), at gørnini hava staðið so leingi úti?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Í mars í 2013 meldaði Fiskimannafelagið Anitu til ymsar myndugleikar, m.a Fiskimálaráðið, hvat hevur ráðið svarað felagnum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Eru nøkur viðurskifti viðv. Anitu, sum landsstýrismaðurin ikki heldur kunnu góðtakast, um so er, hvørji eru hesi, og hvat ætlar landsstýrismaðurin at gera fyri at fyribyrgja at hesi ikki henda aftur?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Føroysk reiðarí eru seinnu árini farin at virka alt meira í altjóða sjóvinnu og tí ábyrgdar málið við Anitu okkara myndugleikar í einum altjóða høpi.</s>
+            <s>Eitt álvarsmál sum Anita vísir á fleiri prinsippmál fyri eina sjóvinnutjóð sum Føroyar, og tað krevst, at avvarðandi myndugleikar taka sína uppgávu í fullum álvara.</s>
+            <s>Bæði viðv. tí at seta neyðug tiltøk í verk tá talan sum her er um deyðsfall og somuleiðis at vísa ábyrgdarfult fiskarí og í hesum føri syrgja fyri, at gørnini beinanvegin verða tikin inn.</s>
+          </p>
+          <p>
+            <s>Yvirskipaði spurningurin til myndugleikarnar eftir Anitu-málið er, hvussu kunnu vit vísa í verki, at vit eru ein ábyrgdarfull fiskivinnutjóð.</s>
+            <s>Taka vit avleiðingarnar og stramma lóggávu o.a., sum krevst, tá slík mál sum Anita eftir øllum at døma avdúka alskyns brot á lóggávu og vánaligan atburð og hugburð sum heild - bæði móti fólki og tilfeingi?</s>
+            <s>Ella lata vit standa til.</s>
+          </p>
+          <p>
+            <s>Syrgilig deyðsvanlukka hendi umborð á garnaskipinum Anitu, tá ein maður sló út tann 11. februar í ár.</s>
+            <s>Kortini valdi skiparin og reiðarin at halda fram við at fiska, og skipið kom ikki til lands fyrr enn nærum tvær vikur seinni, tá sjóforhoyr skuldi vera.</s>
+            <s>Ikki fyrr enn 4. apríl frættist, at Anita er farin at taka gørnini upp, meir enn ein mánað eftir, at tey vórðu sett.</s>
+            <s>Í kunngerðini um garnaveiðu er ásett, at tá fiskifør fara inn at avreiða, og gørnini standa úti, skulu ikki ganga meiri enn 72 tímar, til skipið aftur er á fiskileið og fer at draga.</s>
+            <s>Í Føroyum hava vit eisini bann móti útblaking og sjálvt um her ikki er talan um beinleiðis útblaking, er úrslitið tað sama.</s>
+            <s>Her er talan um stóra mongd av fiski, ið verður veiddur uttan at koma til høldar.</s>
+            <s>Tað er heilt ørkymlandi, at fúti, Fiskiveiðieftirlitið og Fiskimálaráðið lata standa til, tá tað er mangt, sum bendir á, at brot er á lógina, og at eingin myndugleiki við teimum heimildum, sum lógin gevur, ger nakað við hetta málið.</s>
+          </p>
+          <p>
+            <s>Kjartan Hoydal sigur í blaðgrein, at -"Hetta er ein umhvørvisgøla av teimum stóru og kann, sum so nógv annað í málinum um Anitu, raka Føroyar hart".</s>
+            <s>Hann vísir á, at um gørnini ikki verða røkt, sum tey skulu, ella mist, fiska tey framvegis, og úrslitið er, at fiskurin rotnar í gørnunum og fer fyri skeyti.</s>
+            <s>Kjartan Hoydal vísir á, at hetta er orsøkin til, at Føroyar í NEAFC hava verið við til at banna gørnum í altjóða sjógvi.</s>
+            <s>"Vit skulu ikki gloyma, at umhvørvisfelagsskapir eru líka ágangandi móti veiðu á djúphavinum, sum móti grindadrápi".</s>
+          </p>
+          <p>
+            <s>Fiskimannafelagið hevur leingi roynt at gjørt vart við, at alt ruggaði ikki rætt umborð á Anitu, og meldaði reiðaríið í mars 2013 til ymsar myndugleikar uttan at hava fingið svar.</s>
+            <s>Nú meldaði Fiskimannafelagið aftur fyri at brúka útlendska arbeiðsmegi uttan arbeiðsloyvi til at landa í Føroyum.</s>
+            <s>Tað endaði við, at manningin varð send av landinum, tí útlendingarnir høvdu ikki neyðug arbeiðs- og uppihaldsloyvi.</s>
+          </p>
+          <p>
+            <s>Kunnu vit liva við, at so nógvir ivaspurningar verða reistir, sum í hesum málinum?</s>
+            <s>Okkara umdømi sum fiskivinnutjóð er sett í veð, skjótt er at bróta niður, men nógv tyngri er at byggja slíkt álit uppaftur.</s>
+            <s>Vit mugu taka ábyrgd og rudda upp í ógreiðum viðurskiftum so vit aftur kunnu vera errin av at kalla okkum fiskivinnutjóð.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-04-08">8. apríl 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Gunvør Balle</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
