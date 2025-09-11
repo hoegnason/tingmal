@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Hølisviðurskifti í Skálafjarðar læknadømi</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41572" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/16">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hølisviðurskifti í Skálafjarðar læknadømi, settur landsstýris- manninum í heilsumálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví heldur landsstýrismaðurin, at hølisviðurskiftini í Skálafjarðar læknadømi ikki eru nøktandi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, hvørji viðurskifti skulu fáast upp á pláss viðvíkjandi læknahølum, áðrenn søkjast kann eftir tí 4. kommunulæknanum til Skálafjarðar læknadømi?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin nýliga verið í sambandi við kommunurnar í Skála- fjarðar læknadømi um kommunulæknaviðurskiftini, síðani hon heldur, at høl- isviðurskiftini eru ein orsøk til at bíða við at biðja um eykajáttan?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Nær ætlar landsstýrismaðurin, at kommunulæknaviðurskiftini á Skálafjørð- inum skulu vera komin endaliga upp á pláss?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í útvarpssamrøðu týskvøldið 12. september sigur landsstýrismaðurin, at hølisviðurskiftini í Skálafjarðar læknadømi ikki eru nøktandi, og tí verður ikki søkt um eykajáttan til at seta tann fjórða kommunulæknan á hesum sinni.</s>
+          </p>
+          <p>
+            <s>Vit, sum dagliga búleikast inni á Skálafjørðinum, vita tó, at 4 viðtaluhølir dagliga eru í brúki í læknadøminum.</s>
+            <s>Og okkum kunnugt lúka hølini øll neyðug krøv og standa mát við alt tað, sum krevst hjá einum kommunulækna, fyri at hann kann útinna sítt starv.</s>
+            <s>Tí er ilt at vita, hví landsstýrismaðurin ikki heldur, at hesi 4 hølini eru nøktandi.</s>
+          </p>
+          <p>
+            <s>Tørvurin á at seta tann 4. kommunulæknan er ovurstórur, og tí er bráðneyðugt at fáa hetta starvið sett ongantíð ov skjótt.</s>
+            <s>Tí er tað harmiligt, at landsstýrismaðurin ikki eisini søkir um eykajáttan til hetta kommunulæknastarvið, samstundis sum hon søkir um pening til kommunulækna aðrastaðni í landinum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2017-09-19">19. september 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

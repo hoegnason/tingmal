@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liðugtgerð av Selatraðarvegnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annita á Fríðriksmørk</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41556" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/9">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annita á Fríðriksmørk<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um liðugtgerð av Selatraðarvegnum, settur landsstýris- manninum í samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Nær er ætlanin at fara undir at gera Selatraðarvegin lidnan?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat kostar at gera hann lidnan?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu langa tíð, væntar landsstýrismaðurin tað tekur, at gera hann lidnan?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvar er ætlanin at fáa grót frá til breiðkanina av vegnum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Á langtíðarkarmarnar fyri 2018 er samgongan samd um, at peningur skal setast av til liðugtgerð av Selatraðarvegnum.</s>
+            <s>Tí hevði verið gott at fingið at vitað, hvør ítøkiliga ætlanin er við pengunum.</s>
+            <s>Landsverk hevur áður mælt til at játta millum tvær og fimm milliónir krónur um árið til at breiðka og dagføra vegin.</s>
+            <s>Men tað hevur ikki verið undirtøka fyri at gjørt vegin lidnan.</s>
+          </p>
+          <p>
+            <s>Nú sær so loksins út til, at politiskur vilji er at gera íløguna lidna.</s>
+            <s>Tí hevði verið gott at fingið at vitað, hvussu farið verður fram, hvat restar í av pengum, og hvussu langa tíð, vit kunnu vænta, tað kemur at taka at gera vegin lidnan.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2017-09-01">1. september 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annita á Fríðriksmørk</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

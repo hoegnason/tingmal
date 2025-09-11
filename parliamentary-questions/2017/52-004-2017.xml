@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Forskúlar í frískúlum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41548" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2017/4">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um forskúlar í frískúlum, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógvir forskúlar eru í frískúlum í Føroyum í dag?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Í hvønn mun verða hesir stulaðir av landi ella kommunu?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Ætlar landsstýrismaðurin at gera broytingar í reglunum fyri fígging av hesum forskúlum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Løgtingslóg nr. 46 frá 26. mars 2002 um frískúlar heimilar landsstýrismanninum at geva loyvi til, at privatir felagsskapir og áhugabólkar fara undir frískúlavirksemi.</s>
+            <s>Í lógini stendur, at raksturin av einum slíkum skúla skal gjaldast partvís við foreldragjaldi og partvís almennum pengum.</s>
+            <s>Almenni parturin er býttur millum land og kommunur.</s>
+          </p>
+          <p>
+            <s>Eftir § 2, stk. 2. kann landsstýrismaðurin geva loyvi til, at ein frískúli eisini kann reka forskúla, og at forskúlin tá eisini kemur undir lógina.</s>
+            <s>Eftir orðaljóðinum at døma merkir hetta, at ein slíkur forskúli verður fíggjaður á sama hátt sum restin av frískúlanum.</s>
+            <s>Hetta er tó ikki nágreinað í sjálvum lógartekstinum, og viðmerkingarnar til lógina nevna heldur einki hesum viðvíkjandi.</s>
+          </p>
+          <p>
+            <s>Tí verður spurt, hvussu slíkir skúlar verða fíggaðir í dag, hvørjum lógargrundarlagi teir verða fíggjaðir eftir, og um landsstýrismaðurin hevur ætlanir um at gera nýggjar og greiðari reglur um virksemi hjá forskúlum, ið eru partur av einum frískúla.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br /><date when="2017-08-10">10. august 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
