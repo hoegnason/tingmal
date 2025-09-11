@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tunnilsvegurin til Hvalbiartunnilin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jóhan Eli Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3223" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/6">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jóhan Eli Poulsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um tunnilsvegin til Hvalbiartunnilin, settur landsstýris- manninum í fíggjarmálum, Jørgeni Niclasen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør er orsøkin til, at vegurin til nýggja Hvalbiartunnilin Hvalbiarmegin verður gjørdur við fleiri smáum svingum, heldur enn einum svingi?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýrismaðurin greiða frá, hví vegurin er lagdur har, tekningarnar hjá Landsverki leggja upp til?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um støðið verður tikið í tekningunum hjá Landsverki, ætlar landsstýrismaðurin at gera nakað við tað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Vegurin til Hvalbiartunnilin verður bygdur í løtuni.</s>
+            <s>Tað hevur elvt til stóra undran fyri fólk í Hvalba, at vegurin Hvalbiarmegin er farin væl oman um gamla uppdyrkingarvegin, ið liggur har.</s>
+            <s>Fólk hava fingið tekningar frá Landsverki, ið vísa, at vegurin fær eitt keðiligt “s” skap.</s>
+            <s>Hetta elvir til mikla ørkymlan hjá bygdarfólkunum.</s>
+            <s>Tað vildi verið upplagt, um vegurin varð gjørdur við einum beinum strekki og bleytum svingi.</s>
+            <s>Vegurin verður væl at merkja partur av Suðuroyartunlinum, tá ið hann kemur.</s>
+            <s>Hugsa vit um ferðslutrygd og framtíðarferðslu gjøgnum Hvalbiartunnilin og á tilhoyrandi vegum kann hugsast, at tað hevði verið skilabetri at lagt vegin soleiðis, at hann varð so beinur sum gjørligt, við so fáum svingum sum tilber.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-10-10">10. oktober 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jóhan Eli Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

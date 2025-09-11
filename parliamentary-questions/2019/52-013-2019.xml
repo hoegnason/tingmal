@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Málundirvísing fyri fremmandmælt børn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jóhannis Joensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3241" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/13">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jóhannis Joensen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um málundirvísing fyri fremmandmælt børn, settur landsstýris- manninum í uttanríkismálum, Jenisi av Rana (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar ítøkiligar ætlanir hevur landsstýrismaðurin viðvíkjandi málundirvísing fyri fremmandmælt børn á dagstovnum og í skúlum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Ætlar landsstýrismaðurin at fara undir skipað samstarv við fleiri partar á økinum t.d. Lærarafelagið, Skúlaleiðarafelagið og Kommunufelagið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógv fólk flyta til Føroya á hvørjum ári, og tað er sera gleðiligt, at vit fjølgast.</s>
+            <s>Fleiri av teimum, sum leita hendavegin eru av fremmandum uppruna, og summi teirra tosa bert upprunamálið og lítið ella einki av enskum ella norðurlendskum máli.</s>
+            <s>Hetta kann gera tað trupult at integrera tey í samfelagið.</s>
+            <s>Tey kunnu hava trupult við at fáa arbeiði, serliga tí torført er at samskifta.</s>
+            <s>Hetta førir við sær, at tey ikki gerast partur av felagsskapum í samfelagnum og kenna seg tí útstoytt ella ikki at vera ein aktivur partur av samfelagslívinum.</s>
+            <s>Vit kenna neiligu royndirnar í grannalondum okkara t.d. við ghettoíbúðarbýlingum og stigmatiseringum.</s>
+          </p>
+          <p>
+            <s>Uppaftur størri er avbjóðingin innan barnagarðs- og skúlagátt.</s>
+            <s>Ofta flyta fólk til landið, sum eiga fleiri børn í barnagarðs- og skúlaaldri.</s>
+            <s>Í fleiri førum duga hesi børn bert upprunamóðurmálið, sum liggur langt frá okkara føroyska máli.</s>
+            <s>Hóast hetta krevja vit, at tey m.a. skulu ganga í vanligum fólkaskúla við á leið somu treytum sum føroyskttalandi næmingar fáa.</s>
+            <s>Undirvísingarstýrið veitir skúlum nakrar undirvísingartímar í føroyskum fyri at bøta um málførleika teirra, men spurningurin er, um hetta er nøktandi í mun til tey krøv, sum verða sett til aldursvarandi føroyskar næmingar.</s>
+            <s>Og somuleiðis er ivasamt, um tað er nøktandi í mun til tey krøv, sum verða sett lærarunum.</s>
+            <s>Hoyra børnini ikki føroyskt heima, er skúlin ella dagstovnurin einasta stað, har barnið lærir málið.</s>
+            <s>Tí er tað umráðandi, at vit í felag fara undir at veita hesum børnum skjót og nøktandi tilboð fyri samfelagsins, skúlans, lærarans, og næmingsins besta.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-10-29">29. oktober 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jóhannis Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

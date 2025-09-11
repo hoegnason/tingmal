@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>MVG-endurrindan til hitapumpur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Rósa Samuelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3227" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/8">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Rósa Samuelsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um MVG-endurrindan til hitapumpur, settur landsstýris- manninum í fíggjarmálum, Jørgen Niclasen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv hava gjørt nýtslu av møguleikanum at fáa endurrindað MVG fyri uppseting av hitapumpum, síðan lógin kom í gildi, býtt upp á ár og økir í landinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv er talan um í krónum, býtt upp á ár og økir í landinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Ber til at siga, at ferð er sett á at fáa fólk/húsarhald at leggja um til hitapumpur, grundað á MVG-endurrindan?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Er landsstýrismaðurin sinnaður at leingja skipanina um MVG-endurrindan til el-riknar hitapumpuskipanir, sum gongur út 31.12.2019?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Verandi lógaráseting um endurrindan av MVG til hitapumpur fer úr gildi 31. desember 2019.</s>
+          </p>
+          <p>
+            <s>Endamálið við lógini um endurrindan av MVG fyri hitapumpur, sum bleiv samtykt 30.05.17, var at fáa sett ferð á at leggja um til grøna orku, eitt stig til at røkka ítøkiliga málinum um, at í minsta lagi helvtin av sethúsum og bygningum skulu verða hitað við el frá varandi orkukeldum.</s>
+          </p>
+          <p>
+            <s>Tað eru kortini fleiri, sum enn ikki hava havt møguleikan at útvega sær hitapumpur, tí tað er mangul uppá hondverkarar og bara eitt felag borar jarðhitahol, og tí er trupult at sleppa í gongd at byggja og eisini at leggja um til nýtslu av hitapumpum.</s>
+          </p>
+          <p>
+            <s>Fleiri eru nú í bíðistøðu fyri at koma í gongd, og áhugin fyri hitapumpum og jarðhita er sera stórur.</s>
+            <s>Sostatt er umráðandi, at hildið verður fram við skipanini við endurrindan av MVG fyri hitapumpur, og at skipanin veruliga fær møguleika og eitt neyðugt skotbrá at virka eftir endamálinum.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-10-14">14. oktober 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Rósa Samuelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

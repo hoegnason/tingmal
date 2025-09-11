@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sjóvegis samferðslukervið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Johan Dahl</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3231" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/12">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Johan Dahl<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um sjóvegis samferðslukervið, settur landsstýrismanninum í samferðslumálum, Jørgeni Niclasen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu gomul eru ferjur og skip hjá Strandferðsluni, og hvat verður mett er restlivitíðin hjá somu ferjum og skipum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu stórar upphæddir eru brúktar til viðlíkahald fyri strandferðsluflotan seinastu 5 árini, býtt upp á farleiðir/ferjur/skip og ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjar avbjóðingar og trupulleikar eru í løtuni á ymsu sjófarleiðunum hjá Strandferðsluni, og hvussu er ætlanin at loysa hetta upp á stutt sikt og longri sikt?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Eru ætlanir um at seta pening av á fíggjarlógini fyri 2020 til nýíløgur av ferjum og/ella skipum, um ikki, nær so?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Eru lagdar nakrar langtíðarætlanir fyri nýíløgur til ferjur og skip hjá Strandferðsluni?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ferjur og skip hjá Strandferðsluni eru álitið hjá teimum, sum búgva og reka vinnuligt virksemi í teimum oyggjum, har onki fast samband er.</s>
+            <s>Men vit hava nú í nøkur ár upplivað, at raksturin av ferjum og skipum er rættiliga óstabilur, og ongi útlit eru í løtuni fyri, at støðan gerst betri, heldur tvørturímóti.</s>
+            <s>Hesin óstabilitetur kemur fyri tað mesta av tekniskum brekum á ferjum og skipum og nógvum og títtum viðíkahaldi, sum stendst av høga aldrinum og "hart koyrdum" ferjum og skipum.</s>
+          </p>
+          <p>
+            <s>Flotin hjá Strandferðsluni siglir í einum farvatni, sum er klassifiserað sum opið hav og skal hesin floti tí tola eitt sindur av hvørjum gjøgnum árið.</s>
+          </p>
+          <p>
+            <s>Tað er tíverri nógv, sum bendir á, at Strandferðslan politiskt verður niðurraðfest, bæði tá talan er um rakstur og íløgur - hetta sæst m.a. við, at ongar nýíløgur verða gjørdar og ongar ítøkiligar alment kendar ætlanir eru til taks um nýíløgur, har peningur samsvarandi er settur av á fíggjarlógini.</s>
+          </p>
+          <p>
+            <s>Tað hevur alment verið frammi frá leiðsluni á Strandferðsluni, at talan er um ein íløgutørv upp á 280-300 mió. kr. fyri at tryggja tær styttru farleiðirnar við tíðarhóskandi skipum.</s>
+          </p>
+          <p>
+            <s>Strandferðslan skal við sínum ferjum, skipum og bussum vera við til at knýta øki og oyggjar saman í eitt landsdekkandi samferðslukervi.</s>
+            <s>Fleiri av sjófarleiðunum virka kortini so illa, at tað gongur út yvir trivnaðin og møguleikarnar at búleikast í hesum økjum uttan fast samband.</s>
+            <s>Í løtuni kunnu vit siga, at ikki øll økini í landinum eru javnt stillað viðvíkjandi atkomuligheit til møguleikar og tænastur kring landið.</s>
+            <s>Tí verður hesin fyrispurningur settur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-10-21">21. oktober 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Johan Dahl</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

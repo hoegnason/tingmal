@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Innkomuvegur til Havnar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Heðin Mortensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3258" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2019/18">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Heðin Mortensen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um innkomuvegin til Havnar, settur landsstýrismanninum í fíggjarmálum, Jørgeni Niclasen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin viðvíkjandi innkomuvegnum til Havnar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru tingingar millum land og kommunu um málið, og um so er, hvør er tíðarkarmurin?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Ætlar landsstýrismaðurin at seta pening av til innkomuvegin á komandi fíggjarlóg?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, nær innkomuvegurin til Havnar væntandi verður liðugur?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í oktober 2016 gjørdu táverandi borgarstjóri í Tórshavn og táverandi landsstýrismaður í samferðslumálum eina avtalu um innkomuvegin til Havnar.</s>
+            <s>Við hesi avtalu var komið á mál við einum áralongum stríði um, hvussu vegurin skuldi leggjast, hvussu nógvum íbindingum tørvur er á, og hvussu hesar skulu liggja, fyri at gera ferðsluna til Havnar og úr Havnini so smidliga sum gjørligt.</s>
+          </p>
+          <p>
+            <s>Innkomuvegurin, ið avtala er gjørd um, byrjar við Skarðshjalla og gongur umvegis nýggja rundkoyring við Hvítanesvegin oman fyri munnan til Eysturoyartunnilin norður um Havnina og til Oyggjarvegin.</s>
+          </p>
+          <p>
+            <s>Partarnir avtalaðu tá, hvørjum vegastrekkjum, íbindingum og flættingum, ið ávikavist landið og kommunan varða av, og grót frá undirsjóvartunlinum skuldi í størst møguligan mun verða nýtt til vegagerðirnar.</s>
+            <s>Avtalað var eisini, at landið og Tórshavnar kommuna skuldu fíggja tunnilin helvt um helvt, og at tunnilin skuldi verða landsvegur.</s>
+          </p>
+          <p>
+            <s>Nú umboð fyri Fólkaflokkin sita bæði í borgarstjórasessinum í Tórhavnar kommunu og í landsstýrissessinum við samferðslumálum, skuldi tað verið lagamanni at fingið eina avtalu í dag.</s>
+            <s>Tí fari eg at heita á landsstýrismannin um at greiða frá, hvørjar ætlanir hann hevur fyri at fáa vegin gjørdan.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2019-11-12">12. november 2019</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Heðin Mortensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
