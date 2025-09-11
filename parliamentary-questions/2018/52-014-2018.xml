@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bakkaverju fyri fornminni í Kirkjubø</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kaj Leo Holm Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/43938" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/14">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kaj Leo Holm Johannesen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bakkaverju fyri fornminni í Kirkjubø, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er gjørd nøkur tørvsmeting av bakkaverju í Kirkjubø - um ja, hvat er úrslitið av hesari tørvsmeting og um nei, hví er henda tørvsmeting ikki gjørd?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin um at gera bakkaverju í Kirkjubø?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at leggja uppskot fyri Løgtingið um at játta pening til bakkaverju í Kirkjubø?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur landsstýrismaðurin havt samskifti við landsstýrismannin í samferðslumálum og tunnilsfelagið um útvegan av gróti frá Sandoyartunlinum til bakkaverju í Kirkjubø?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Tað er fleiri ferðir víst á tørvin at gera eina bakkaverju í Kirkjubø við tí endamáli at verja fornminnini, Múrin og Ólavskirkjuna, sum eru í alt størri vanda fyri at fáa óbótaligan skaða av ódnarveðri og serliga brimi, sum spakuliga etur seg longur og longur inn í landslagið.</s>
+</p>
+<p><s>Landið hevur ábyrgdina av forminnunum í Kirkjubø og hevur tí skyldu at gera nakað munagott og ítøkiligt, áðrenn skaði stendst á hesi fornminni.</s>
+<s>Eitt nú hevur landsstýrismaðurin skyldu at meta um, hvat tað kostar at gera slíka bakkaverju og leggja fyri Løgtingið uppskot um játtan til at gera nakað við málið.</s>
+</p>
+<p><s>Higartil er einki, sum bendir á, at tað fyriliggur nøkur ítøklig ætlan frá landsins myndugleikum um at verja hesi fornminni við bakkaverju - bara óendaligt kjak og ongar loysnir og tiltøk.</s>
+</p>
+<p><s>Hetta er ikki eitt kommunumál, tí ein kommuna hevur ikki myndugleika á økinum, men tað hevur landsmyndugleikin.</s>
+</p>
+<p><s>Í sambandi við ætlaðu tunnilsgerðina til Sandoynna hevur tunnilsfelagið havt trupulleikar at sleppa av við grótið, og tí hevði tað verið upplagt at brúkt hetta grót til eina bakkaverju í Kirkjubø - sum eisini liggur tætt við, har grótið kemur út.</s>
+</p>
+<p><s>Fólk á staðnum hava eisini víst á tørvin á tiltøkum fyri at verja okkara forminni.</s>
+<s>Landið hevur nú ein gyltan møguleika at fáa grót frá Sandoyartunlinum til bakkaverju.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2018-09-20">20. september 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kaj Leo Holm Johannesen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

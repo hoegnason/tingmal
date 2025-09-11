@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Undirvísing í føroyskum fyri tilflytarar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristianna Winther Poulsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/43935" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2018/13">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristianna Winther Poulsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um undirvísing í føroyskum fyri tilflytarar, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji átøk eru í gongd fyri at fáa eitt skipað og standardiserað tilboð til undirvísing í føroyskum sum annaðmál fyri tilflytarar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat kann landsstýrismaðurin siga um arbeiðið við at framleiða undirvísingartilfar til undirvísing í føroyskum sum annaðmál?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjar ætlanir hevur landsstýrismaðurin við at útbúgva fólk til at undirvísa í føroyskum sum annaðmál?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur landsstýrismaðurin tryggjað, at ein møgulig námsætlan í føroyskum sum annaðmál verður í samsvari við altjóða standardar, til dømis CEFR, Common European Framework of Reference for Languages?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvussu ætlar landsstýrismaðurin at tryggja, at tilboðið um undirvísing í føroyskum fyri tilflytarar verður eins kring alt landið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head><p><s>Í dag búgva um 1300 fólk í Føroyum, sum eru úr øðrum londum enn Norðurlondum.</s>
+<s>Hesir samborgararnir - og ikki minst børn teirra - mugu fáa møguleikar og eggjast til at virka í samfelagnum á jøvnum føti við føroyingar, segði løgmaður í síni ólavsøkurøðu í ár.</s>
+</p>
+<p><s>Til hetta krevst, at tilflytararnir hava góðan møguleika at læra seg málið í nýggja heimlandinum, men higartil hevur undirvísingin í føroyskum fyri tilflytarar tíverri ikki verið nøktandi.</s>
+<s>Undirvísingin hevur verið ov tilvildarlig, og tengd at, hvar í landinum tilflytararnir búgva, umframt at tímatalið, sum er ásett til undirvísingina, er ov lágt til, at nakað veruliga munagott kann spyrjast burturúr.</s>
+<s>Heldur ikki er nóg stórur fleksibilitetur í teimum tilboðum, sum eru, bæði í mun til torleikastig, til stigvíst framhald í undirvísingini, og í mun til tíðir - neyðugt er við undirvísing bæði um dagin og um kvøldið, tí fólk arbeiða ymiskar tíðir á degnum.</s>
+</p>
+<p><s>Tað er stórur munur á, hvussu okkara nýggju borgarar eru fyri at læra føroyskt: summi hava høgar útbúgvingar, meðan onnur ikki hava útbúgving og sera avmarkaða skúlagongd.</s>
+<s>Summi duga væl enskt, og kenna latínska stavraðið, meðan onnur ikki hava kunnleika til hetta.</s>
+<s>Talan er um stórar avbjóðingar, bæði fyri tilflytararnar, sum ynskja at læra føroyskt, og fyri tey, sum undirvísa, tí við so ymiskum næmingum í sama flokki er torført at undirvísa.</s>
+<s>Eisini er neyðugt hjá undirvísarunum at menna fakligan kunnleika til frálæru í føroyskum sum annaðmál, ið er eitt nýtt øki í føroyskum læruhøpi.</s>
+<s>At undirvísingin fer fram í samsvari við altjóða standardar fyri undirvísing í máli, til dømis CEFR, hevur stóran týdning.</s>
+<s>CEFR verður brúkt sum standardur um alt Europa, og við at menna undirvísingartilboðini, so at tey eru í samsvari við hendan standard ber til at vita, hvørjar førleikar hvør einstakur næmingur hevur fingið við at fylgja undirvísingini og standa royndirnar á teimum ymsu stigunum.</s>
+</p>
+</div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2018-09-20">20. september 2018</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristianna Winther Poulsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
