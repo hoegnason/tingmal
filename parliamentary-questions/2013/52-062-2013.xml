@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Átøk landsstýrisins í sambandi við ES-boykottið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33151" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/62">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um átøk landsstýrisins í sambandi við ES-boykottið, settur Kaj Leo Holm Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvat metir landsstýrið, at ES-boykottið ímóti Føroyum hevur kostað higartil fyri føroyska vinnu og útflutningsinntøkur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat metir landsstýrið, at ES-boykottið fer at kosta fyri føroyska vinnu og útflutningsinntøkur, um tað stendur við í ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørji diplomatisk átøk hevur landsstýrið framt mótvegis einstøkum stjórnum og politikarum í ES-londum til tess at varpa ljós á boykottið og avleiðingarnar og at vinna undirtøku fyri at fáa tað burturtikið – eitt nú: Hvussu nógvar fundir og samrøður hava løgmaður ella landsstýrisfólk havt við stjórnarleiðarar í ES?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørji átøk hevur landsstýrið framt mótvegis vinnu- og øðrum lobbyistum í ES til tess at varpa ljós á boykottið og avleiðingarnar og at vinna undirtøku fyri at fáa tað burturtikið – eitt nú: Hvussu nógvar fundir og samrøður hava verið við vinnuna í ES, og hvat gjørdi landsstýrið í sambandi við árligu fiskivinnustevnuna í Brússel í ár?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørji diplomatisk átøk hevur landsstýrið framt mótvegis fjølmiðlum og almenningi í ES til tess at varpa ljós á boykottið og avleiðingarnar og at vinna undirtøku fyri at fáa tað burturtikið – eitt nú: Hvussu nógvar greinar eru skrivaðar til fjølmiðlar í ES-londum um málið, og hvussu nógvar samrøður hava løgmaður og landsstýrisfólk havt við fjølmiðlar í ES-londum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvørji átøk hevur landsstýrið framt mótvegis donsku stjórnini til tess at varpa ljós á boykottið og leggja trýst á at fáa tað burtur?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvat hevur danska stjórnin gjørt mótvegis ES og almenninginum í ES-londum til tess at varpa ljós á boykottið og at fáa tað burtur?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Roynir ES framvegis at tilskila sær rætt til at gera av, hvussu Føroyar áseta sína kvotu av Norðhavssild í ár og at brúka boykottið sum valdsamboð til hetta?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hevur danska stjórnin lagt trýst á landsstýrið til tess at fáa Føroyar at ganga undir ES-krøvini og trýsta Føroyar til at samráðast við ES – og ikki øll strandarlondini – um føroysku sildakvotuna?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Støðan viðvíkjandi boykottinum hjá ES ímóti Føroyum av øllum vørum og flutningi, sum hava við makrel og sild at gera, er tað mest ógvusliga valdsamboðið, sum hevur verið nýtt ímóti Føroyum - og helst ímóti øðrum londum við, í friðartíð.</s>
+          </p>
+          <p>
+            <s>Við hesum atgerðum hevur ES sett handils- og flutningsstongsul í verk ímóti knøppum triðingi av føroyska útflutningsvirðinum.</s>
+            <s>Endamálið er greitt: ES vil við hesum vinna sær vald til at gera av, hvørji rættindi Føroyar eiga til makrel og Norðhavssild.</s>
+            <s>Javnbjóðis samráðingar millum strandarlond um eitt rættvíst býti, ið verður bygt á saklig krøv, eru harvið undirgrivin.</s>
+          </p>
+          <p>
+            <s>Hvussu ógvuslig henda valdsskeiklingin er, kom í ljós, tá ES brúkti føroysku kvotuna av Norðhavssild til at fremja boykottið.</s>
+            <s>Norðhavssild finst so at siga ikki í ES-sjógvi - og tað var bert orsakað av trýsti úr Danmark síðst í 90-árunum, at ES kom uppí strandarlandaavtaluna um Norðhavssild og fekk størri kvotupart enn Føroyar.</s>
+          </p>
+          <p>
+            <s>Øll eru greið yvir, at ES brúkti Norðhavssildina sum umbering fyri at seta tiltøk í verk ímóti Føroyum, sum skuldu gagna ES í stríðnum um makrel.</s>
+            <s>Við hesum slapp ES eisini at brúka vald ímóti einum landi, sum ikki er sjálvstøðugt, men hevur ikki torað at sett tiltøk í verk ímóti sjálvstøðugum londum í makrelstríðnum.</s>
+            <s>Nú eru Føroyar við í semju um makrelin - men boykottið stendur við ímóti Føroyum, hóast onnur lond ikki eru við í semjuni um makrel.</s>
+          </p>
+          <p>
+            <s>Støðan er so ógvuslig og margháttlig, at allar orsøkir og allir møguleikar eru hjá føroyska landsstýrinum til at varpa ljós á støðuna og leggja trýst á allastaðni: Við at gera vart við seg mótvegis einstøkum stjórnum og politikarum í ES-londum.</s>
+            <s>Við at fáa umrøðu av støðuni í fjølmiðlum og í almenninginum.</s>
+            <s>Við at ávirka vinnulívsfeløgini í ES og lobbyistar teirra.</s>
+            <s>Og við at leggja trýst á donsku stjórnina, sum hevur ræðið á føroyskum uttanríkismálum, men kortini tekur lut í boykottinum og atkvøddi blankt, tá heimildarlógin til revsiamboðini upprunaliga varð samtykt.</s>
+          </p>
+          <p>
+            <s>Landsstýrisins altjóða serfrøðingar hava gjørt eitt frálíkt arbeiði til í sambandi við rættarmál ímóti ES sambært Havrættarsáttmálanum og sambært reglunum hjá WTO.</s>
+          </p>
+          <p>
+            <s>Men politiskt tykist málið als ikki at elva til nøkur átøk frá landsstýrinum.</s>
+            <s>Heldur bendir alt á, at tá málið er so pínligt fyri Danmark og fyri viðurskiftini millum Føroyar og Danmark, so vil landsstýrið fjala málið sum mest.</s>
+          </p>
+          <p>
+            <s>Ístaðin er stórur vandi fyri, at bæði Danmark og ES leggja stórt trýst á og vilja hava Føroyar til at binda seg til at slaka í kvotuni av Norðhavssild, afturfyri at ES skal sleppa boykottinum.</s>
+          </p>
+          <p>
+            <s>Hendir tað, so eru tað ikki longur samráðingar millum strandarlond, men boykott og valdsamboð frá ES, sum gera av, hvørji rættindi Føroyar hava til ferðandi fiskastovnar í okkara egna sjógvi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-05-19">19. mai 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

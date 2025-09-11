@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Útgjald av frítíðarískoyti av løn, tá feria verður hildin við løn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-11" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33157" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/66">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útgjald av frítíðarískoyti av løn, tá feria verður hildin við løn, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Sambært § 12 í løgtinglóg um frítið við løn skal frítíðarískoyti ikki gjaldast av løn, sum verður útgoldin í frítíðini. Kann landsstýrismaðurin upplýsa, um almenna lønarumsitingar umsita sambært hesum reglum ella ikki?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um ikki, hvussu nógv er meirkostnaðurin av ikki at umsita sambært feriulógini?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Ætlar landsstýrismaðurin í fíggjarmálum at taka stig til antin at umsita sambært § 12 í lógini ella at broyta lógina soleiðis, at hon verður í samsvari við galdandi mannagongd?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað frættist, at frítíðarískoyti verður roknað av allari lønini, t.v.s. eisini tá frítið verður hildin.</s>
+            <s>§ 12 í lóg um frítið við løn er soljóðandi: “<hi rend="bold">§ 12.</hi> Við útrokning av frítíðarløn og frítíðarískoyti verður ikki tald við løn, sum er útgoldin í frítíðini, veitt frítíðarløn ella útgoldið frítíðarískoyti.“</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-06-11">11. juni 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
