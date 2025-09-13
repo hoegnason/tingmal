@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-046/2015: OL-limaskapur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37173" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/46">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Annika Olsen<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi OL limaskapi, settur Aksel V. Johannesen løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Fer løgmaður at taka neyðug stig til at fáa føroyskan OL limaskap</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <body>
+            <p>
+              <s>Um vikuskiftið gjørdist tað greitt, at Føroyar verða umboðaðar til OL í Rio í 1500 m frí svimjing.</s>
+              <s>Somuleiðis gjørdist tað greitt, at um vit høvdu havt sjálvstøðugan limaskap í IOC, altjóða olympisku nevndini, so hevði ein annar føroyingur somuleiðis fingið møguleika at luttaka í 400 m frí.</s>
+              <s>Hetta tí, at kravtíðirnar hjá altjóða svimjisambandinum, FINA, eru øðrvísi enn tær donsku kravtíðirnar.</s>
+              <s>Men so leingi vit ikki hava sjálvstøðugan limaskap í IOC, altjóða OL nevndini, so ber ikki til hjá føroyingum at brúka FINA kravtíðirnar.</s>
+              <s>Sum støðan er, mugu føroyingar laga seg uppat teimum donsku kravtíðunum og luttaka undir donskum flaggi.</s>
+            </p>
+            <p>
+              <s>Okkara ítróttarfólk eru okkara fremstu ambassadørar.</s>
+              <s>Tey luttaka í altjóða kappingum og umboða Føroyar fyrimyndarliga væl.</s>
+              <s>Meðan føroyska Merkið kann veittra til nærum allar altjóða kappingar, so ber ikki til at bera føroyska Merkið til OL.</s>
+              <s>Hetta er alt annað enn nøktandi.</s>
+              <s>Nógvar royndir hava verið til tess at vinna Føroyum limaskap í IOC .</s>
+              <s>Í fjør var fyrrverandi løgmaður á fundi við Thomas Bac, forseta í Altjóða Olymisku nevndini, og glið kom á samráðingarnar til at fáa Føroyar umboðaðar í IOC.</s>
+              <s>Nú hevur nýtt landsstýrið tikið við, og enn hava vit onki frætt um, hvussu tað gongur við hesum máli.</s>
+              <s>Tíðin er stutt til OL í Rio, men vónandi tekur løgmaður øll neyðug stig til tess at fáa føroyskan limaskap í IOC.</s>
+              <s>Tí verða hesir spurningar settir løgmanni.</s>
+            </p>
+          </body>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-04-18">18. apríl 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

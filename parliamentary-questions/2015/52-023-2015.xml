@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-023/2015: Broytingar í hjúnabandslógini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jógvan á Lakjuni</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37130" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/23">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jógvan á Lakjuni<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um broytingar í hjúnabandslógini, settur Aksel V. Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <p>
+            <seg>Um lógaruppskotini um broytingar í hjúnabandslógini, sum í løtuni eru til viðgerðar í Løgtinginum, verða samtykt:</seg>
+          </p>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur løgmaður so, at tað er góður lóggávusiður, at Løgtingið samtykkir eina løgtingslóg, sum er í ósamsvari við aðra galdandi lóggávu í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann løgmaður veita trygd fyri – hóast kirkjulógin verður broytt – at eitt borgarliga vígt par av sama kyni ikki við tilvísing til hjúnabandslógina hevur rættarkrav upp á kirkjuligt vælsignilsi?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í løtuni verða lógaruppskot um broytingar í hjúnabandslógini viðgjørd í tinginum.</s>
+              <s>Í galdandi hjúnabandslóg §14, stk. 2 er ásett, at “ægtefæller kan få et ægteskab, som er indgået ved borgerlig vielse, kirkeligt velsignet af en præst i folkekirken”.</s>
+              <s>T.v.s., at tey, sum eru borgarliga vígd, hava krav upp á vælsignilsi í kirkjuni.</s> - <s>Um hjúnabandslógin verður broytt til eisini at umfata tveir persónar av sama kyni, so fara sambært hjúnabandslógini eisini borgarliga gift pør av sama kyni at hava rættarkrav upp á vælsignilsi frá kirkjuni.</s>
+          </p>
+          <p>
+            <s>Fyri at hetta ikki skal bera til, hava uppskotssetararnir skotið upp at broyta løgtingslóg nr. 42 frá 26. mai 2008 um at brúka kirkju og um limaskap í fólkakirkjuni soleiðis, at í § 14, stk. 1 verður sett aftrat: “Kirkjulig tænasta, ið snýr seg um vígslu ella signing kirkjunnar av hjúnabandi, fevnir um par av ymiskum kyni.“</s>
+          </p>
+          <p>
+            <s>Her sær út til, um hetta verður samtykt, at tvær lógir, sum báðar eru galdandi í Føroyum, verða í ósamsvari við hvørja aðra, og at Løgtingið tilvitað samtykkir eina lógarkonflikt.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-01-29">29. januar 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jógvan á Lakjuni</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

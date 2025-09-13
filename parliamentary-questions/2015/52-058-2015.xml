@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-058/2015: Nýsetta skattanevndin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37201" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/58">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um nýsettu skattanevndina, settur landsstýrismanninum í fíggjarmálum, Kristinu Háfoss (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví eru eingir serfrøðingar í nýsettu skattanevndini, sum búgva og arbeiða uttan fyri høvuðsstaðarøkið, valdir í skattanevndina?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru eingir serfrøðingar, egnaðir at sita í skattanevndini, sum búgva og arbeiða uttan fyri høvuðsstaðarøkið?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Tá allir nevndarlimirnir búgva og arbeiða í høvuðsstaðarøkinum, er tá ikki vandi fyri, at viðkomandi skattasjónarmið, sum mennast og virðast uttan fyri høvuðs- staðarøkið, vanta í arbeiðnum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hví eru í tveimum førum fólk við somu akademisku útbúgvingum sett í nevndina?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Heldur landsstýriskvinnan, at bert fólk við hægri útbúgvingum eru egnað at sita í nevndini?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hví eru eingi umboð fyri kommunurnar í nevndini?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hví er eingin ungdómsumboðan í nevndini?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hví er einki umboð fyri vinnulívið í nevndini?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hví er einki umboð fyri verkafólkið í nevndini?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s> Hví eru landafrøðislig atlit ikki tikin í valinum av nevndarlimum?</s>
+            </item>
+            <item xml:id="q11" type="question-item">
+              <s> Hvat meinast ítøkiliga við, tá sagt verður, at nevndin hevur servitan innan fyri føroyska samfelagið?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrismaðurin í fíggjarmálum hevur nú sett skattanevnd at koma við tilmælum um broytingar í skattaskipanini.</s>
+            <s>Tað er hugvekjandi at staðfesta, at allir limirnir í nevndini búgva og arbeiða í høvuðsstaðarøkinum.</s>
+            <s>Eingin úr Norðoyggjum, Eysturoynni, Vágum, Sandoynni ella Suðuroynni er mettur egnaður at siga landsstýrismanninum, hvussu framtíðar skattapolitikkurin skal síggja út.</s>
+          </p>
+          <p>
+            <s>Sjónarmiðini um, hvussu skattur skal áleggjast, eru sera ymisk í landi okkara.</s>
+            <s>Í økjum, har vinnulívið stendur sterkt, eru nøkur sjónarmið ráðandi, sum sjáldan vinna vegin fram til heitu stólarnar á almennu skrivstovunum í høvuðsstaðnum.</s>
+            <s>Í økjum, har talið av tímaløntum verkafólki lutfalsliga er høgt, eru somuleiðis nøkur sjónarmið ráðandi, sum sjáldan vinna vegin fram til flógvastu stólarnar í almennu umsitingini.</s>
+            <s>Millum tey ungu, sum antin arbeiða ella ganga á miðnámi, eru somuleiðis sjónarmið at finna, sum ikki eru serliga væl hoyrd í ovastu leiðslu landsins.</s>
+            <s>Sum heild bendir samansetingin av nevndarlimum á, at fleiri týðandi og viðkomandi sjónarmið á skattaøkinum fara at verða lítið viðgjørd í arbeiði nevndarinnar, meðan onnur sjónarmið fara at verða sera væl og enntá í ov stóran mun umboðað.</s>
+            <s>Skal arbeiðið í eini skattanevnd hava tyngd, vekt og undirtøku, bæði á Løgtingi og mest av øllum millum fólkið, er neyðugt, at øll viðkomandi sjónarmið verða vigað og viðgjørd á so sakligum og óheftum grundarlagi, sum gjørligt.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-03">3. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

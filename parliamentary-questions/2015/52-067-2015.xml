@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-067/2015: Umsiting av nummarspjøldrum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37215" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/67">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um umsiting av nummarspjøldrum, settur landsstýrismanninum í samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru ætlanir um at lata bilasølurnar sjálvar umsita ávísa nøgd av nummarspjøldrum í sambandi við sølu av nýggjum bilum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Bilar ganga sum heitt breyð í hesum døgum.</s>
+            <s>Hvørt tað er gott ella ringt, fer at liggja á hesum sinni.</s>
+          </p>
+          <p>
+            <s>Tað skerst tó ikki burtur, at umstøðurnar at selja og ogna sær nýggjan bil á bygd eru nógv verri enn í høvuðsstaðnum.</s>
+          </p>
+          <p>
+            <s>Hetta kemst av, at Akstovan, sum umsitur nummarspjøldrini liggur í Havn.</s>
+            <s>Hvørja ferð ein nýggjur bilur verður seldur, skal hann framvið á Akstovuni, áðrenn nummarspjaldrið verður latið nýggja eigaranum.</s>
+          </p>
+          <p>
+            <s>Skipanin ger tað tvørligt at selja bilar á bygd.</s>
+            <s>Hon ger tað eisini tvørligt hjá bygdafólki at ogna sær nýggjan bil, tí tað tekur mangan langa tíð at fáa bilin skrásettan.</s>
+          </p>
+          <p>
+            <s>Fert tú eitt nú úr Suðuroynni norður til Havnar at keypa bil, fært tú ikki bilin suður fyrr enn nakrar dagar seinni.</s>
+            <s>Akstovan letur aftur um 3 - tíðina yrkadagar og er ikki opin í vikuskiftinum.</s>
+          </p>
+          <p>
+            <s>Harumframt er skipanin tung at umsita, bæði hjá Akstovuni sjálvari og bilasølunum.</s>
+            <s>Í øðrum londum umsita bilasølur sjálvar skipanina við nummarspjøldrum.</s>
+            <s>Tí verður spurt, um hetta hevði verið møguligt hjá okkum eisini.</s>
+          </p>
+          <p>
+            <s>Sjálvsagt skal skipanin kortini verða trygg og einans umfata nýggjar bilar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-22">22. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
