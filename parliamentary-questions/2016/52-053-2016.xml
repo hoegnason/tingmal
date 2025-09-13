@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-053/2016: At luta út kommunal grundstykki</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Heðin Mortensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39283" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/53">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Heðin Mortensen<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um at luta út kommunal grundstykki, settur landsstýrismanninum í heilsu- og innlendismálum, Sirið Stenberg , (at svara skrivliga eftir TS § 52a) Viðmerkingar:</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa, hvørjar reglur galda, tá kommunur luta út kommunal grundstykki undir kostprís?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat ger landsstýrismaðurin fyri at tryggja, at borgarar ikki eru fyri mismuni, tá kommunur luta út grundstykki?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Seinastu árini hava fleiri dømi verið um kommunur, ið selja grundstykki undir kostprís.</s>
+            <s>Hetta kann vera, tí stykkini leingi hava verið til sølu uttan úrslit, og fyri at minka um tap velur kommunan at selja fyri minni enn tað, sum grundstykkið kostaði at stykkja út og/ella byggibúgva.</s>
+          </p>
+          <p>
+            <s>Men vit hava eisini dømi um kommunur, ið selja undir kostprís uttan fyrst at hava roynt kostprís við teirri grundgeving, at marknaður ikki tykist at vera fyri grundstykkjum í økinum.</s>
+          </p>
+          <p>
+            <s>Uttan mun til orsøk, so tykist hendan gongdin hvørki røtt ella serliga heppin.</s>
+            <s>At stykkja út og byggibúgva bindur nógva fíggjarorku hjá kommunum, og loyva vit, at selt verður undir kostprís, loyva vit, at kommunurnar lutvís skattafíggja grundstykkini.</s>
+            <s>Hetta gevur enn einaferð ríku kommununum kappingarfyrimunir, og teir borgarar, ið eru so hepnir at ogna sær stykkini, fáa eisini fyrimunir fram um aðrar borgarar.</s>
+          </p>
+          <p>
+            <s>Ein kommunal útstykking kemur altíð bara einum lítlum parti av borgarum til góðar.</s>
+            <s>Verða stykkini seld undir kostprís, so fáa hesir borgarar ein eyka skattafíggjaðan fyrimun fram um aðrar.</s>
+            <s>Hetta er ikki neyðturviliga teir borgarar, ið treingja mest, men tey, ið av tilvild standa ovast á einum bíðilista til gundstykki ella júst í teirri lqtuni eru klár at byggja sær hús.</s>
+          </p>
+          <p>
+            <s>Sum nevnt, so kunnu føri vera, tá tað er rímiligt at selja grundstykki fyri undir kostprís.</s>
+            <s>Men grundstykki og bústaðarmøguleikar annars eru týðandi liður í kappingini millum kommunur um borgarar, hetta kann tí skjótt fara á glið.</s>
+            <s>Tapararnir eru tá teir kommunalu skattaborgarar, sum, uttan at hava ynskt hetta, fíggja ein part av byggikostnaðinum hjá øðrum við skattapeningi sínum.</s>
+            <s>- Men taparar vera eisini tær kommunur, ið annaðhvørt halda seg neyvt til galdandi reglur, ella eru so hart fyrispentar fíggjarliga, at tær ikki megna at kappast um nýggjar skattaborgarar á hendan hátt.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-03-02">2. mars 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Heðin Mortensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
