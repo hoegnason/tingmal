@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-068/2016: Palliatión</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Katrin Kallsberg</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39313" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/68">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Katrin Kallsberg<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um palliatión, settur landsstýrismanninum í heilsumálum, Sirið Stenberg (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="thimob6pxy">Nær er skipanin við palliativa toyminum og palliativu eindini eftirmett, við tí endamáli at betra um palliativu tænastuna til sjúklingarnar?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="gmlka5eexm">Hvat vísti eftirmetingin, og hvørjar tillagingar eru gjørdar?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="lcuyjrtpwn">Eru ætlanir um at styrkja um tilboðið til heimabúgvandi sjúklingar, ið hava tørv á palliatión?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="mvj6jlrfdp">Um so er, hvørjar ætlanir eru?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="uq4t3okitt">Eru nakrar ætlanir um at seta á stovn hospice í Føroyum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+
+          <p>
+            <s xml:id="tgzl6erydx">Krabbameinsætlanin kom við nógvum góðum tiltøkum til gagns fyri føroysku sjúklingarnar.</s>
+            <s xml:id="mkhj5y3pcu">Fleiri teirra eru sett í verk, og her er mammografiscreeningin feskasta dømið.</s>
+          </p>
+          <p>
+            <s xml:id="cyv4xb33k7">Hóast krabbameinsviðgerð seinastu nógvu árini er vorðin alsamt betri og yvirlivingin størri, eru tað tíverri framvegis ov nógv, sum doyggja av krabbameini.</s>
+            <s xml:id="ffiloj6z4u">Palliativa viðgerðin er ein týðandi partur av tilboðnum til krabbameinssjúklingar, har lekjandi viðgerð ikki er gjørlig.</s>
+          </p>
+          <p>
+            <s xml:id="ei6nv2hqoq">Heimsheilsustovnurin WHO, allýsir palliatión soleiðis:
+              <lb/>”Palliativ viðgerð, røkt og umsorgan er ein innsatsur, sum skal bøta um lívsgóðskuna hjá sjúklingum, sum hava eina lívshóttandi sjúku, og teirra avvarðandi. Hetta verður gjørt við at fyribyrgja og linna líðingina við tíðliga at staðfesta og meta um sjúkuna og við at viðgera pínu og aðrar trupulleikar av bæði kropsligum, sá larligum, sálarligum-sosialum og andaligum slag”.</s>
+          </p>
+          <p>
+            <s xml:id="wdzzb2lzqj">Skilt verður millum tvey ymisk stig av pallierandi viðgerð: Palliativ viðgerð á grundstigi, sum verður veitt á vanligum sjúkrahúsdeildum (starvsfólk á deildini) og í heiminum hjá sjúklinginum (heimarøkt og kommunulæknar).</s>
+            <s xml:id="cyhwppacim">Og palliativ viðgerð á serfrøðingastigi, sum verður veitt sjúklingum við sjúkueyðkennum, ið krevja serkøn og/ella tvørfaklig átøk.</s>
+            <s xml:id="isgxveoayv">Hendan viðgerðin verður veitt av serútbúnum starvsfólki í palliativari eind á sjúkrahúsi, á hospice og/ella við palliativum toymum.</s>
+          </p>
+          <p>
+            <seg>Palliativa viðgerðin skal sambært WHO:
+            <list rend="bullet">
+              <item>
+                <s>Bjóða linnan av pínu og øðrum nervandi sjúkueyðkennum</s>
+              </item>
+              <item>
+                <s>Vátta lívið og fata deyðan sum eina natúrliga gongd</s>
+              </item>
+              <item>
+                <s>Hvørki royna at framskunda ella útseta deyðan</s>
+              </item>
+              <item>
+                <s>Taka við sálarligu og andaligu partarnar av umsorganini</s>
+              </item>
+              <item>
+                <s>Bjóða sjúklinginum stuðul at liva so virkið sum gjørligt til deyðan</s>
+              </item>
+              <item>
+                <s>Bjóða avvarðandi stuðul undir sjúkuni hjá sjúklinginum og í sorgini yvir missin</s>
+              </item>
+              <item>
+                <s>Brúka tvørfaklig toymi at ganga tørvinum hjá sjúklingi og avvarðandi á møti, íroknað stuðul í sorgini um neyðugt</s>
+              </item>
+              <item>
+                <s>Økja um lívsgóðskuna og eisini hava positivt árin á sjúkugongdina</s>
+              </item>
+              <item>
+                <s>Kunna setast í verk tiðliga í sjúkugongdini, saman við øðrum viðgerðum ið verða veittar við tí endamáli at leingja um lívið, t.d. kemo- og stráluviðgerð.</s>
+                <s>Fevnir eisini um tær kanningar, sum eru neyðugar fyri betri at skilja og handfara líðingarmiklar kliniskar komplikatiónir.</s>
+              </item>
+            </list></seg>
+          </p>
+          <p>
+            <s xml:id="rahya5ra5r">Ein palliatións-sjúklingagongd fevnir um nógv ymisk øki í heilsuverkinum, t.d. heimatænastu, onkologi, palliativa eind, palliativt toymi, sjúkrahúsdeildir og kommunulækna.</s>
+            <s xml:id="tzm6inovfe">Tað er umráðandi, at palliatiónin er lagað til øll støðini, og at hon byggir á gott tvørfakligt samstarv.</s>
+            <s xml:id="ritlmvflzu">Tá ein tosar um palliativa sjúklingin, er tann avvarandi altíð ein natúrliga atknýttur partur.</s>
+          </p>
+          <p>
+            <s xml:id="om2zp6j6xw">Í Krabbameinsætlanini varð víst til kanningar uttanlands.</s>
+            <s xml:id="qfwtmelo4z">sum vísa, at flestu sjúklingar, ið hava ólekiliga sjúku, helst vilja doyggja heima.</s>
+          </p>
+          <p>
+            <s xml:id="dt5xi2iaft">Í Føroyum hava vit onga kanning av, hvar palliativir sjúklingar helst vilja doyggja.</s>
+            <s xml:id="kk4lmgwvi6">Men tað er ein sannroynd, at sera fáir krabbameinssjúklingar í Føroyum doyggja í egnum heimi - bara 12 av tilsamans 85 sjúklingum í 2007.</s>
+            <s xml:id="ljibvi3vm4">Hetta svarar til $14 %$.</s>
+          </p>
+          <p>
+            <s xml:id="leuj7kyudf">Sum víst varð á í Krabbameinsætlanin, hava vit enn einki hospice í Føroyum.</s>
+            <s xml:id="ptkqvf7b3j">Eitt hospice kundi givið sjúklingunum og teirra avvarðandi góðar karmar og kundi haraftrat verið fakliga mennandi hjá starvsfólkunum.</s>
+            <s xml:id="vlc5v7lwpl">Krabbameinsætlanin vísir tó á, at vit í fyrstu atløgu, heldur enn at byggja eitt nýtt hospice, eiga at bøta um møguleikarnar hjá sjúklingum at vera heima seinastu livitiðina.</s>
+          </p>
+          <p>
+            <s xml:id="fr3dlpwhks">Sjúklingurin (saman við avvarðandi) eigur at hava møguleikan fyri at velja, um hann vil vera heima seinastu tiðina og doyggja har, ella um hann heldur vil vera á palliativu eindini.</s>
+            <s xml:id="fbgrkg4nnt">Umstøðurnar eiga at vera lagaðar soleiðis, at tað betur ber til hjá føroyskum sjúklingum, ið eru komnir til tað síðsta, at doyggja heima.</s>
+            <s xml:id="pgibfv4ha3">Tað er av avgerandi týðningi, at sjúklingurin og tey avvarandi kenna seg trygg í støðuni, at tey fáa ta hjálp, teimum tørvar, tá tey hava tørv á henni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-03-28">28. mars 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Katrin Kallsberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
