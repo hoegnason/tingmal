@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lýsingarprísir hjá Kringvarpinum</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Rani Høgnason Hansen</publisher>
+                <idno type="url">https://github.com/hoegnason/tingmal</idno>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+                    <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+                </availability>
+                <date when="2025-09-11" />
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="parliamentary_document">
+                    <publisher>Føroya Løgting</publisher>
+                    <author>
+                        <persName>Rigmor Dam</persName>
+                        <roleName>løgtingskvinna</roleName>
+                    </author>
+                    <ref target="https://www.logting.fo/documents/35431" />
+                    <note type="source_format">PDF document, machine-readable text</note>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+                </correction>
+                <segmentation>
+                    <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+                </segmentation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/62">
+                <div type="questioner">
+                    <head rend="bold">
+                        <persName>Rigmor Dam<lb /><roleName>løgtingskvinna</roleName></persName>
+                    </head>
+                </div>
+                <space type="vertical" />
+                <div>
+                    <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+                </div>
+                <space type="vertical" />
+                <div type="question-title">
+                    <head rend="bold">Fyrispurningur um handilslýsingar í Kringvarpi Føroya, settur, Bjørn Kalsø landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+                </div>
+                <space type="vertical" />
+                <div type="question-list">
+                    <list type="ordered">
+                        <item xml:id="q1" type="question-item">
+                            <s>Hvat heldur landsstýrimaðurin um, at almenni public-service stovnurin, Kringvarp Føroya, nú ”tillagar” handilsliga lýsingapartin, so fleiri lýsingar koma inn á sendiflatuna?</s>
+                        </item>
+                        <item xml:id="q2" type="question-item">
+                            <s>Hvat ætlar landsstýrismaðurin at gera við ágangandi lýsingarstrategiina hjá Kringvarpi Føroya?</s>
+                        </item>
+                        <item xml:id="q3" type="question-item">
+                            <s>Nær kunnu vit rokna við, at vit sleppa undan at verða dýkt undir í lokkandi handilslýsingum, tá ið vit tendra fyri almenna kringvarpinum, sum av røttum átti at verið landsins fremsti mentanarberi?</s>
+                        </item>
+                    </list>
+                </div>
+                <space />
+                <div type="background">
+                    <head rend="bold">Viðmerkingar:</head>
+                    <p>
+                        <s>Øll føroysk húski verða kravd eftir omanfyri 3.600 kr. í kringvarpsgjaldi árliga, soleiðis at fólkið í Føroyum hevur atgond til dygdargott, uppbyggjandi og fjølbroytt miðlatilfar á føroyskum máli.</s>
+                        <s>Allíkavæl verða vit dýkt undir við handilslýsingum um líkt og ólíkt frá morgni til myrkurs úr almenna kringvarpinum.</s>
+                        <s>Og sum skilst verður hesin ágangur nú herdur, við tað, at stovnurin hevur gjørt átak, sum skal fáa lýsarar bæði áðrenn og aftan á allar tíðindasendingar í útvarpinum, og kring allar føroyskar sendingar í sjónvarpinum.</s>
+                    </p>
+                    <p>
+                        <s>Umframt at handilslýsingar heilt grundleggjandi máa undan trúvirðinum hjá almenna public-service stovninum, óhefta tíðindaflutinginum og seriøsu miðlaframleiðsluni, og gera seg inn á fríu kappingina á privata markaðinum, so átti tað almenna ikki at gingið á odda við slíkari andsliga og mentalari dálking av almenna rúminum.</s>
+                    </p>
+                    <p>
+                        <s>Herfyri fekk Kringvarpið átalu frá Brúkaraumboðinum fyri at varpa handilslýsingar í barnasendingini Orrustan, tí talan var um óetiska marknaðarføring, sum vendi sær til børn.</s>
+                        <s>Við nýggja átakinum, har lýsarar fáa stóran avsláttur, um teir keypa pakkar við lýsingum, kunnu vit vænta meira sjóðan og fleiri lokkandi lýsingar í almenna rúmið.</s>
+                        <s>Tí verður spurt, um landsstýrismaðurin kann góðtaka at Føroyar fólk, umframt at rinda omanfyri 300 kr. mánaðarliga í kringvarpsgjaldi, skal útsetast fyri ágangandi lýsingar allan samlan dagin í útvarpinum og í sjónvarpinum á kvøldi?</s>
+                        <s>Skulu lættisoppa popplýsingar verða ímyndin av hesum stovni, sum einaferð var landsins fremsti mentanarberi, men sum við aggresivu lýsingarstrategiini fær fólk, sum annars eru góð við stovnin, at venda sær ímóti honum?</s>
+                    </p>
+                    <p>
+                        <s>Sum skilst, er ætlanin, at lýsingar skulu vera rundan um allar tíðindasendingar frá klokkan 7 til 21.00.</s>
+                    </p>
+                    <p>
+                        <list>
+                            <item>Kl. 07.00</item>
+                            <item>Kl. 07.30</item>
+                            <item>Kl. 08.00</item>
+                            <item>Kl. 09.00</item>
+                            <pb n="2" />
+                            <item>Kl. 10.00</item>
+                            <item>Kl. 12.20</item>
+                            <item>Kl. 13.00</item>
+                            <item>Kl. 14.00</item>
+                            <item>Kl. 15.00</item>
+                            <item>Kl. 16.00</item>
+                            <item>Kl. 17.00</item>
+                            <item>Kl. 18.00</item>
+                            <item>Kl. 21.00</item>
+                        </list>
+                    </p>
+                    <p>
+                        <seg>Og í sjónvarpinum fáa lýsarar tilboð um at lýsa í blokkum:</seg>
+                        <list>
+                            <item>Áðrenn Dagur og Vika</item>
+                            <item>Aftaná Dagur og Vika</item>
+                            <item>Áðrenn 3-2</item>
+                            <item>Aftaná 3-2</item>
+                            <item>Áðrenn føroyskar dokumentarsendinga</item>
+                            <item>Aftaná føroyskar dokumentarsendingar</item>
+                            <item>Áðrenn Gekkin</item>
+                            <item>Aftaná Gekkin</item>
+                            <item>Áðrenn føroyskar sendingar</item>
+                            <item>Aftaná føroyskar sendingar</item>
+                            <item>4 lýsingar millum kl. 19.00-24.00</item>
+                            <item>4 lýsingar millum kl. 20.00-24.00</item>
+                            <item>4 lýsingar millum kl. 21.00-24.00</item>
+                        </list>
+                    </p>
+                </div>
+                <div type="signature">
+                    <closer>
+                        <dateline>
+                            <hi class="signature-date" rend="bold center">
+                                <name type="place">Á Løgtingi</name>, <date when="2015-03-04">4. mars 2015</date></hi>
+                        </dateline>
+                        <signed rend="center">
+                            <persName>Rigmor Dam</persName>
+                        </signed>
+                    </closer>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
