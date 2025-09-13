@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-080/2014: Samskiftisøkið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Poul Michelsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35471"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/81">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Poul Michelsen<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um allýsingar av hugtøkum í lógini um vinnuligan fiskiskap, settur Jacob Vestergaard, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <!-- TODO: Fix struction of questions later! -->
+            <item xml:id="q1" type="question-item">
+              <s>Eru ásetingarnar í § 5: <lb/>a. bert ein allýsing av hugtøkum og skipanaramboðum í lógini? ella <lb/>b. bæði ein allýsing og heimildiráseting?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Um at skipa fyri fiskiskapi hjá fiskiførum á fiskileiðini (§ 9, stk 1): <lb/>a. nær fevnir heimildin um at gera neyvari reglur um verandi fiskiskap á fiskileiðini? ella <lb/>b. nær fevnir heimildin eisini um útlutan av veiðirættindum og fiskirættindum til persónar og feløg? <lb/>c. Hvussu skilir Fiskimálaráðið ímillum, nær heimildin fevnir um a) ella <lb/>b) ella bæði ?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tað er ikki óvanligt, at lógir allýsa (greina ella definera) hugtøk, sum hava serligan týdning í lógini.</s>
+            <s>Lógin um vinnuligan fiskiskap hevur eisini allýsingar av teimum týdningarmestu hugtøkunum.</s>
+            <s>Endamálið við hesum er sjálvandi at sleppa undan misskiljingum.</s>
+            <s>Tað, sum ørkymlar, er, at Fiskimálaráðið í skrivliga samskifti sínum brúkar allýsingar sum heimildir.</s>
+          </p>
+          <p>
+            <s>Hugtøk og heimildir skifta týdning og innihald alt eftir, hvat endamálið er, og tískil tykist eingin vita, hvat er upp, og hvat er niður.</s>
+            <s>Tað sama tykist eisini vera galdandi fyri hugtøk, sum hava havt so fastan týdning, at tað ikki hevur verið hildið neyðugt at greina tey í lógini; her verður serliga hugsað um, hvat hugtakið ‘fiskiskapur’ ella skipan av fiskiskapi á fiskileiðini fevnir um.</s>
+          </p>
+          <p>
+            <s>At fyrisita somu lóg ymiskt hóttir rættartrygd borgarans.</s>
+            <s>Hetta tykist vera nakað, sum er farið á glið seinastu árini. Hetta er hent uttan, at nakar hevur gáað um tað, fyrr enn vit síggja tær kollveltandi broytingar, sum tað hevur havt við sær.</s>
+          </p>
+          <p>
+            <s>Tað er grundleggjandi, at Fiskimálaráðið fyrisitur og fatar hugtøkini í lógini soleiðis, sum Løgtingið hevur samtykt lógina.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-04-21">21. apríl 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Poul Michelsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
