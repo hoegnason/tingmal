@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ætlanirnar við námsfrøðiligari útbúgving</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanna Jensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35346"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/20">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanna Jensen<lb/><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um ætlanirnar við námsfrøðiligari útbúgving, settur Bjørn Kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør er orsøkin til, at bert 13 lærarar á miðnámi eru sendir til verkliga partin av NÚ í 2014</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvør er tíðarætlanin fyri verkliga partin av NÚ frá 1.januar 2015 – t.e. hvussu nógv verða send á hetta skeið um árið og yvir hvussu mong ár?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør er ætlanin fyri tann bólkin av lærarum, sum taka ástøðiliga partin av NÚ í inniverandi skúlaári t.v.s. 2014-15?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Samanborið við svar upp á spurning nr. 4 í skrivliga fyrispurningum nr. 14, tingárið 2013, eru so ætlanir um at skipa NÚ – bæði ástøðiliga og verkliga partin – eftir føroyskum leisti á føroyskum útbúgvingarstovni?</s>
+              <s>Um ja, hvussu er so ætlanin at skipa NÚ, og nær verður farið í gongd?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Nær verður farið í holt við at skipa og bjóða fakdidaktisku skeiðini, sum eru neyðug, í sambandi við at nýggja breytaskipanin á miðnámi varð sett í verk í august 2013, og hvørji skeið verða boðin út?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í sambandi við skrivligan fyrispurning 7. november 2013 frá undirritaðu um námsfrøðiliga útbúgving (NÚ), varð sagt, at 109 lærarar manglaðu verkliga partin, og at ein ætlan var stungin út í kortið at senda hesi til verkliga partin av NÚ eftir eini 3-4 ára ætlan, har 20 – 25 lærarar á føroyskum miðnámi skuldu ígjøgnum skipanina um árið fyri at fáa bunguna burtur.</s>
+          </p>
+          <p>
+            <hi rend="bold"><s>Í sama svari varð sagt, at arbeitt hevur verið við at skipa NÚ í Føroyum á Fróðskaparsetri Føroya, men tá varð ikki komið á mál við hesum.</s>
+            <s>Nú eitt ár er liðið, og ástøðiligt NÚ er farið av bakkastokki fyri uml. 35 lærarar, sum so í vanligum umstøðum skulu taka verkliga partin aftaná, afturat teimum uml. 90, sum enn eru í bíðirøð at gera sína útbúgving lidna.</s></hi>
+            <s>Á hendan hátt kann rúm tíð ganga, áðrenn praktiski parturin við námsfrøðiligum vegleiðara verður avgreiddur – eisini fyri hendan bólkin.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin vísti fyri ári síðani á, at undirvísarar okkara mugu hava kravdu námsfrøðiligu førleikarnar og barlastina, og tí varð NÚ sett í gongd aftur.</s>
+            <s>Men samstundis varð sagt, at skipanin er kostnaðarmikil.</s>
+            <s>So tí kundi verið áhugavert at frætt, um ein skipan, sum í størri mun tekur støði í Føroyum á føroyskum skúlum kring landið og við undirvísarum á m.a. Fróðskaparsetri Føroya kundi verið bíligari og skynsamari - eisini í mun til ta longu bíðitíðina, vit kenna í dag?</s>
+            <s>Harafturat er týdningarmikið at fáa greiði á, nær tey neyðugu fakdidaktisku skeiðini til miðnámsskúlalærararnar sum heild verða hildin, nú ein heilt nýggj skipan er sett í verk.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-11-11">11. november 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanna Jensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
