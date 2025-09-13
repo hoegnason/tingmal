@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-057/2014: Viðvíkjandi bummgjøldum, vegskatti og ferðaseðlaprísum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35421" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/57">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Helgi Abrahamsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi bummgjøldum, vegskatti og ferðaseðlaprísum, settur Jørgeni Niclasen, landsstýrismanni</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv hevði prísurin á einum litri av bensini ella dieselolju skula hækkað, um hækkingin við verandi ferðslu skuldi kunna fíggja raksturin av verandi undirsjóvartunlum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv hevði prísurin á einum litri av bensini ella dieselolju skula hækkað, um hækkingin við verandi ferðslu skuldi svara til tað, sum landskassin fær inn í vegskatti?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu nógv hevði prísurin á einum litri av bensini ella dieselolju skula hækkað, um hækkingin við verandi ferðslu skuldi kunna fíggja raksturin av Bygdaleiðum og Strandfaraskipum landsins?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Kjak hevur tikið seg upp um, hvussu raksturin av undirsjóvartunlunum skal figgjast, tá íløgan er liðugt goldin.</s>
+            <s>Onkur sigur, at gjaldið skal lækka, onnur siga, at tað skal burtur, og uppaftur onnur halda, at gjaldið á allari samferðslu í landinum skal takast upp í eini samlaðari viðgerð.</s>
+          </p>
+          <p>
+            <s>Higartil hevur lítið verið at sæð til útrokningar sum vísa, hvat tær einstøku loysnirnar kosta, og tí verður hesin fyrispurningurin settur.</s>
+            <s>Spurningurin fer ikki í smálutir, men spurt verður bara um yvirskipað tøl, fyri á tann hátt at fáa eina einfalda mynd av støðuni.</s>
+          </p>
+          <p>
+            <s>Í fyrispurninginum verða økini bummgjøld, vegskattur og ferðaseðlar við bussum og bátum tikin við.</s>
+            <s>Spurt verður bara um rakstur og ikki um nýílegur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-02-26">26. februar 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-069/2014: Fáa alla rávøra til lands</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35445" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/69">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um at fáa alla rávøru til lands, settur Jacob Vestergaard, landsstýrismanni í fiskivinnumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Fer landstýrismaðurin at taka stig til at fáa dag-gamlan fisk til lands blóðgaðan, ókruvdan í ísvatni?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nógv er tosað um at fáa alla rávøruna úr fiski til lands.</s>
+            <s>Ávísar avbjóðingar eru fráboðaðar, tá talan er um fjarfiskiflotan.</s>
+            <s>Grundgevingin er, at prísurin fyri livur, høvd og innvøl ikki er lønandi at føra til lands.</s>
+          </p>
+          <p>
+            <s>Ein sjálvsøgd byrjan, sum kundi skapt grundarlag fyri fleiri arbeiðsplássum, har arbeiðslønin verður goldin av virðisøkingini, kundi verið gjørd við heimaflotanum, ið avreiðir dag-gamlan fisk.</s>
+          </p>
+          <p>
+            <s>Royndir hava víst, at góðskan verður munandi betri, um vælblóðgaður fiskur í ísvatni, ókruvdur verður førdur til lands.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin kann hava ein týðandi leiklut við at taka fyrsta stigið móti loysnini, ið flestu røddirnar í politisku skipanini ynskja, at øll rávøran verður gagnnýtt.</s>
+          </p>
+          <p>
+            <s>Tað má verða eitt aðalmál í eini burðardyggari fiskivinnu.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-03-19">19. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

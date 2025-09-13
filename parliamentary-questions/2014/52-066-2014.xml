@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-066/2014: At lýsa 20. mars 2015 sum almennan frídag hjá fólka- og miðnámsskúlum landsins</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <author>
+            <persName>Gunvør Balle</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35437" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/66">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg</persName> og <persName>Gunvør Balle</persName><lb />løgtingskvinnur </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um at lýsa 20. mars 2015 sum almennan frídag hjá fólka- og miðnámsskúlum landsins, settur Bjørn kalsø, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Heldur landsstýrismaðurin ikki, tað vera rætt at broyta avgerðina um, at fólkaskúlarnir skulu hava undirvísingarskyldu fríggjadagin 20.mars 2015?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Landsstýrismaðurin í mentamálum hevur boðað alment frá, at hann ætlar ikki at lýsa fríggjadagin 20. mars 2015, tá sólarmyrkingin verður í Føroyum, sum almennan frídag í fólkaskskúlum landsins.</s>
+          </p>
+          <p>
+            <s>Spurningurin er, um landsstýrismaðurin ikki eigur at endurskoða hesa avgerð.</s>
+            <s>Sólarmyrking er ein so serstøk hending, sum eingin okkara, sum nú eru á lívi, fara at uppliva aftur í Føroyum.</s>
+            <s>Um 8.000 ferðafólk koma til landið fyri at uppliva hetta sjáldsama fyribrigdið, og tá tykist tað heilt burturvið, at hesin dagur ikki er lýstur sum almennur frídagur fyri føroyskar skúlanæmingar.</s>
+            <s>Talan kundi eisini verið um at loyva skúlunum at halda frí fyrrapartin hendan dagin.</s>
+            <s>Foreldur og børn ynskja at vera saman, tá sólarmyrkingin verður, tí tað snýr seg um eitt minni fyri lívið.</s>
+          </p>
+          <p>
+            <s>Í løtuni bendir alt á, at hvør einstøk kommuna, skúli og familja ætla at gera sínar egnu reglur fyri dagin.</s>
+            <s>Summi foreldur fara als ikki at senda børn síni í skúla.</s>
+            <s>Summir skúlar gera nógv burturúr og skipa fyri felags tiltøkum, og aðrir ætla at undirvísa sum vanligt, tí námsætlanin skal jú haldast.</s>
+            <s>Nógvir skúlar og lærarar kenna seg ótryggar við at hava ábyrgd av, at børnini eru í verndarbrillum, og at tey sum heild fáa eina so minniliga og serstaka uppliving sum møguligt.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-03-09">9. mars 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+            <signed rend="center">
+              <persName>Gunvør Balle</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
