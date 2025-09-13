@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-020/2016: Arbeiðsloysis- og barsilsskipan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39216" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/20">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur eftir Tingskipanini §52a Fyrispurningur um Arbeiðsloysis- og Barsilsskipan, settur landsstýrismanninum í samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Ásetingarnar í ávikavist § 7 og § 17 í lógini um Arbeiðsloysisskipan og Barsilsskipan eru so at siga eins.</s>
+              <s>Men fyri persónar, sum eru undantiknir fyri at rinda til Folketrygd (NAV) í Noregi, umsita hesir báðir stovnarnir lóggávuna á hvør sín hátt.</s>
+              <s>Kann landsstýrismaðurin greiða frá, hví so er? </s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Tá Kærunevndin fyri Arbeiðsloysisskipanina hevur givið einum borgara viðhald og Arbeiðsloysisskipanin hevur boðað borgaranum frá, at stovnurin tekur avgerðina frá kærunevndini til eftirtektar og metir málið endaliga avgreitt, hevur Arbeiðsloysisskipanin so heimild til at stevna í hesum sama máli?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ítøkilig dømi eru um, at Arbeiðsloysisskipanin og Barsilsskipanin ikki umsita eins fyri løntakarar, sum hava fingið frítøku fyri at gjalda til Folketrygden (NAV) eftir Nordisk konvention om social sikring.</s>
+          </p>
+          <p>
+            <s>Føroyingar, sum arbeiða í Noregi, kunnu søkja Almannastovuna um at sleppa undan at gjalda inn í Folketrygd, sum er ein kombineraður eftirlønar-, sjúkratrygdar- og arbeiðsloysisgrunnur.</s>
+            <s>Sleppa tey undan, kunnu tey heldur velja at gjalda inn í føroysku arbeiðsmarknaðargrunnarnar Barsilsskipanina og Arbeiðsloysisskipanina við sjálvbodnari tekning.</s>
+            <s>Sjálvboðin innliman, tí inntøkan uttanlands verður ikki mett sum A-inntøka.</s>
+            <s>Barsilsskipanin góðtekur hesar uttanlandslønir við útlendskum arbeiðsgevara sum B-inntøka, meðan Arbeiðsloysisskipanin heldur fast um, at talan er um A-inntøku við tí páhaldi, at føroyska umboðsfelagið, sum sendir fólk til Noregs at arbeiða, er arbeiðsgevari.</s>
+            <s>Tá fær Arbeiðsloysisskipanin gjald frá bæði løntakara og arbeiðsgevara.</s>
+            <s>Hóast Als-lógin og BAS-lógin hava neyvt somu ásetingar um gjaldskyldug, koma tey til hvør sína niðurstøðu.</s>
+          </p>
+          <p>
+            <s>Tá lóggávan um Arbeiðsloysisskipan og Barsilsskipan er so at siga eins, tykist hetta sera løgið.</s>
+            <seg>Niðanfyri eru løgtingslóg um Arbeiðsloysisskipanina (nr. 113/1997) og um Barsilsskipanina (nr. 48/2001) samanbornar:
+              <lb/>
+              § 7. Gjaldskyldugir til Arbeiðsloysisskipanina eru
+              <lb/>1) allir persónar, sum móttaka A-inntøku og sum hava fulla skattskyldu í Føroyum, sum hava fylt 16 ár, men ikki 67 ár,
+              <lb/>2) øll, sum rinda A-inntøku í Føroyum.
+              § 17. Barsilsgjald skal rindast eftir stk. 2-4, og §§ 18 og 19....
+              <lb/>
+              Stk. 2. Gjaldskyldug sbrt. stk. 1 eru
+              <lb/>1) øll, sum fáa A-inntøku, sum hava fulla skattskyldu í Føroyum, og sum hava fylt 16 ár, men ikki 67 ár, og
+              <lb/>2) øll, sum rinda A-inntøku í Føroyum.
+            </seg>
+          </p>
+          <p>
+            <s>Viðmerkjast kann, at hugtakið A-inntøka stavar frá og er nágreinað í § 57 í Skattalógini (nr. 86/1983), og at TAKS hevur staðfest, at inntøkan hjá hesum løntakarum er ikki A-inntøka.</s>
+          </p>
+          <p>
+            <s>Báðir hesir stovnar eru ábyrgdarøki hjá landsstýrismanninum í samferðslumálum, tí má landsstýrismaðurin kunna siga, hvør av hesum stovnum umsitur rætt.</s>
+          </p>
+          <p>
+            <s>Omanfyrinevndi umsitingarligi munurin hevur verið fyri hjá Kærunevndini fyri Arbeiðsloysisskipanina, har kærarin fekk fult viðhald í, at talan er ikki um A-inntøku.</s>
+            <s>Kærarin hevur fingið fráboðan frá Arbeiðsloysisskipanini um, at Stýrið fyri Arbeiðsloysisskipanina tekur avgerðina frá Kærunevndini til eftirtektar, og Arbeiðsloysisskipanin metir hetta mál vera endaliga avgreitt.</s>
+          </p>
+          <p>
+            <s>Arbeiðsloysisskipanin hevur hóast hesa fráboðan eftirsíðani stevnt kærara í nevyt sama máli.</s>
+            <s>Tí verður í næsta spurningini spurt um hetta.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2016-11-24">24. november 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

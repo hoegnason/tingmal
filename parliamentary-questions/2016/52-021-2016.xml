@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-021/2016: Upprudding í Føroyingahavnini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39218" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/21">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um upprudding í Føroyingarhavnini og útróðrarplássum, føroyingar nýttu í Grønlandi, settur Aksel V. Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvat er hent síðan ríkisfundin, har løgmaður í miðlunum ger greitt, at tilgongdin at rudda upp í Føroyingahavnini er byrjað?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Arbeiðið kann blíva sera umfatandi.</s>
+              <s>Hvat er gjørt, hvat skal gerast, hvat er metti kostnaðurin, verður føroysk arbeiðsmegi nýtt, og nær kann væntast, at arbeiðið verður liðugt?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru eigaraviðurskiftini greið, at tað eru almennu Føroyar, sum einsamallar hava ábyrgdina av uppruddingini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Á Portalinum 30. apríl 2016 er grein við yvirskriftini.</s>
+            <s>Tilgongdin at rudda upp í Føroyingahavnini er byrjað.</s>
+            <s>Somuleiðis er videobrot við løgmanni, har hann greiðir frá málinum.</s>
+            <s>Í greinini verður sagt, at øll tilgongdin verður gjørd í tøttum samstarvi við grønlendskar myndugleikar.</s>
+          </p>
+          <p>
+            <s>Tað hevur ljóðað, at nógvir føroyingar eru áhugaðir í hesum uppruddingararbeiði.</s>
+            <s>Tá skuldi tað verið sjálvsagt, at tað verður føroysk arbeiðsmegi, skip og útgerð, ið nýtt verða at gera neyðuga uppruddingararbeiði.</s>
+          </p>
+          <p>
+            <s>Síðan fráboðanina frá løgmanni fyri sjey mánaðum síðani, hevur tøgn valdað um málið, og eingin oyramerktur peningur er avsettur á fíggjarlógini fyri 2017 til hetta arbeiðið.</s>
+          </p>
+          <p>
+            <s>Til tess at fáa greiði á, hvat status er í málinum saman við kostnaðar- og tíðarætlan, verður spurningurin settur løgmanni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-11-25">25. november 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

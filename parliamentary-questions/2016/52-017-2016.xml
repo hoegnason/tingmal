@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-017/2016: Føroyskur laksur - lívfiskur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Magnus Rasmussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39210" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/17">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Magnus Rasmussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um føroyska laksin - lívfiskin, settur landsstýrismanninum í uttanríkis- og vinnumálum, Poul Michelsen (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvønn týdning hevur rognaframleiðsla og kynbótaarbeiði av føroysku laksastammuni?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvør er ætlanin hjá landsstýrismanninum við tí føroyska laksinum - lívfiskinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Á hvønn hátt fer landsstýrismaðurin at fremja ætlanina - hvussu verður ætlanin skipað?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Nær fer landsstýrismaðurin at fremja ætlanina - ein arbeiðs- og tíðarætlan?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Málið um føroyska laksin - lívfiskin - hevur veruliga tikið seg upp aftur seinastu tíðina.</s>
+          </p>
+          <p>
+            <s>Spurningurin um at taka upp aftur rognaframleiðslu og kynbótaarbeiði, sum er grundað á føroyska laksastammuna, er aftur settur á breddan.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin hevur eisini givið hesum máli stóran ans og hevur boðað frá, at ein góð loysn skal fáast á hesum týdningarmikla máli.</s>
+            <s>Sum eg havi skilt tað, so ynskir landsstýrismaðurin at bera so í bandi, at rognaframleiðsla og kynbótaarbeiði við føroysku laksastammuni verður tikið upp aftur.</s>
+          </p>
+          <p>
+            <s>Støðan í dag er, at nakrir túsund av teimum seinastu laksunum av føroysku laksastammuni svimja í tveimum aliringum á Skálafjørðinum.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin hevur tí eitt stutt skotbrá at leggja eina ætlan og finna eina loysn í hesum málinum, tí laksirnir á Skálafjørðinum verða slaktaðir longu einaferð í 2017.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-11-07">7. november 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Magnus Rasmussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
