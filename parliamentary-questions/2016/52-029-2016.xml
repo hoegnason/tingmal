@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-029/2016: Asfaltering av umvældum vegastrekkjum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Helgi Abrahamsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39234" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/29">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Helgi Abrahamsen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um asfaltering av umvældum vegastrekkjum, settur landsstýrismanninum í samferðaslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Er nøkur ætlan um at asfaltera strekkini á Selatraðarvegnum, sum vórðu breiðkaði fyri nógvum árum síðani, men sum tó ongantíð blivu asfalterað?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fyri nógvum árum síðani vórðu tvey strekki á Selatraðarvegnum breiðkað, men asfalt varð tó ongantíð lagt á tey.</s>
+            <s>Annað strekkið er beint sunnan fyri Morkranes, og hitt er millum Morkranes og Selatrað.</s>
+            <s>Í eini 10 - 15 ár hava hesi vegastrekki ligið liðugtgjørd, men tey verða tó ikki brúkt.</s>
+            <s>Bilarnir koyra á gomlu vegsíðuni, tí har er asfalt á.</s>
+          </p>
+          <p>
+            <s>Í 2012 varð eitt annað vegastrekki, beint norðan fyri Kolbanargjógv, breiðkað og asfalterað, og tað hevur verið til stóra nyttu fyri tey, sum ferðast eftir vegnum.</s>
+          </p>
+          <p>
+            <s>Tað má sigast at vera stórt spell, tá pengar verða nýttir til at bøta um ein veg, at tað seinasta, sum restar í at fáa arbeiðið liðugt, er forðing fyri, at nytta fæst burturúr umvælingini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-12-14">14. desember 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Helgi Abrahamsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
