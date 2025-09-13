@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-001/2013: Fámará</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jógvan Skorheim</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33009" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/1">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jógvan Skorheim<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi Fámará, settur Jacob Vestergaard, landsstýrismanni í fiskivinnumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví varð festið í Fámará ikki avhendað, sum ásett í lógini um landsjørð, § 4. stk. 5, eftir at táverandi festari var farin av festinum í 2000?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Er nøkur ógoldin skuld ella møguligt fíggjarligt krav fyri røkt av festinum og bygningunum seinastu 13 árini?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør hevur havt ábyrgdina av at røkja festið seinastu 13 árini?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu nógvir áseyðir hoyrdu til festið í 2000?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvussu nógvir áseyðir hoyra til festið í dag?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvussu nógvar maskinur hoyrdu til festið, tá festarin fór av festinum í 2000?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvat var virðið av maskinunum í dagsprísi?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hvat varð av maskinunum, sum hoyrdu til festið?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hvørjum standi vóru bygningarnir í, tá festarin fór av festinum í 2000?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s>Hvørjum standi vóru bygningarnir í, innan fólk fluttu inn í mai 2010?</s>
+            </item>
+            <item xml:id="q11" type="question-item">
+              <s>Hvørjum standi eru bygningarnir í nú?</s>
+            </item>
+            <item xml:id="q12" type="question-item">
+              <s>Hvørjar fylgjur fær tað, um eitt festið verður misrøkt?</s>
+            </item>
+            <item xml:id="q13" type="question-item">
+              <s>Hví varð festið lýst til sølu í 2012?</s>
+            </item>
+            <item xml:id="q14" type="question-item">
+              <s>Hví varð sølan av festinum tikin aftur?</s>
+            </item>
+            <item xml:id="q15" type="question-item">
+              <s>Hvat er metingarstøðið, tá nýggjur festari skal setast?</s>
+            </item>
+            <item xml:id="q16" type="question-item">
+              <s>Hvørjum øðrum, enn teimum í lýsingini (lýsing í Sosialinum, mikudagin 5. juni 2013) settu førleikakrøvum, verður hugt eftir, tá festari skal setast?</s>
+            </item>
+            <item xml:id="q17" type="question-item">
+              <s>Hvør gav loyvi til, at fólk kundu búsetast í Fámará í 2010, og var nøkur skrivlig avtala gjørd við búfólkini og nær?</s>
+            </item>
+            <item xml:id="q18" type="question-item">
+              <s>Hvat samstarv hevur Búnaðarstovan havt við búfólkini, ið seinastu trý árini hava búð í Fámará?</s>
+            </item>
+            <item xml:id="q19" type="question-item">
+              <s>Hvat og nær er nakað gjørt fyri at fáa búfólkini, ið hava búð í Fámará, at fara av festinum?</s>
+            </item>
+            <item xml:id="q20" type="question-item">
+              <s>Varð avgerðin um nýggja festaran tikin á gegnigum grundarlagi?</s>
+            </item>
+            <item xml:id="q21" type="question-item">
+              <s>Metir landsstýrismaður, at Búnaðarstovan kann kanna sítt egna gegni?</s>
+            </item>
+            <item xml:id="q22" type="question-item">
+              <s>Hvussu nógv hevur Fámará kostað landinum í árunum 2000 - 2010?</s>
+            </item>
+            <item xml:id="q23" type="question-item">
+              <s>Hvussu nógv hevur Fámará kostað landinum í árunum frá juni 2010 til juni 2013?</s>
+            </item>
+            <item xml:id="q24" type="question-item">
+              <s>Hevur felagið Sinnisbati fingið svar frá Fiskimálaráðnum uppá áheitanina (send landsstýrismanninum 5. juli 2013) um Fámará?</s>
+            </item>
+            <item xml:id="q25" type="question-item">
+              <s>Hvussu nógv festi eru í dag uttan festara?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Nú málið um festið í Fámará hevur verið í brennideplinum í longri tíð og ivi sáddur millum fólk um almennu handfaringina av málinum er neyðugt at fáa sannleikan á borðið.</s>
+            <s>Tað er umráðandi, at Løgtingið og alt Føroya fólk fær vissu fyri, at allir umsøkjarar til almenna føroyska ogn fáa rættvísa viðgerð.</s>
+            <s>Tí verða omanfyrinevndu spurningar, um máls- og mannagongdir hjá Búnaðarstovuni í sambandi við festið Fámará og festir sum heild, settir landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-08-01">1. august 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jógvan Skorheim, <roleName>løgtingsmaður</roleName></persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

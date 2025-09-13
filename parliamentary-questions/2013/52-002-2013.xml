@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-002/2013: Møguligur útistongsul av føroyskum fiskiskipum í donskum havnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Henrik Old</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33012" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/2">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Henrik Old<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um møguligan útistongsul av føroyskum fiskiskipum í donskum havnum, settur Kaj Leo Holm Johannesen, løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógvar ferðir og hvussu nógv tons av makreli hava føroysk fiskiskip landað beinleiðis í donskum havnum í 2011, 2012 og higartil í 2013?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógvar ferðir og hvussu nógv tons av sild hava føroysk fiskiskip landað beinleiðis í donskum havnum í 2011, 2012 og higartil í 2013?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í sambandi við hóttanina frá ES um at steingja havnir fyri føroyskum skipum, ger løgmaður nógv burturúr, at fylgjurnar verða ógvisligar fyri ríkisfelagsskapin ímillum Føroyar og Danmark, um føroysk skip verða stongd úti frá at landa fisk í donskum havnum.</s>
+          </p>
+          <p>
+            <s>Fyri at fáa greiðu á, um fylgjurnar verða so ógvisligar sum løgmaður vil vera við, verða hesir fyrispurningar settur løgmanni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2013-08-07">7. august 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Henrik Old</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
