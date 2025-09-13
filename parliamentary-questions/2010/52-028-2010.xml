@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-028/2010: Játtanarlógin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Magni Laksáfoss</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25887" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/28">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Magni Laksáfoss<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um játtanarlógina settur Kaj Leo Johannesen, løgmanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji stig ætlar løgmaður at taka í sambandi við, at landsstýrismaðurin í fíggjarmálum hevur staðfest, at hann ikki hevur yvirhildið játtanarlógina.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært § 33 í stýrisskipanarlógini hevur Løgmaður eftirlitsskyldu við landsstýrismonnunum, at teir umsita síni málsøki á lógligan og fullgóðan hátt.</s>
+          </p>
+          <p>
+            <s>Umsiting Løgtingsins hevur í uppriti staðfest, at framlagda fíggjarlógaruppskot fyri 2011 ikki er í samsvari við ásetingarnar í játtanarlógini.</s>
+          </p>
+          <p>
+            <s>Fíggjarnevndin hevur sent landsstýrismanninum í fíggjarmálum uppritið til ummælis.</s>
+            <s>Landsstýrismaðurin hevur í skrivi, dagfest 19. oktober 2010, ásannað, at hann ikki hevur fylgt játtanarlógini.</s>
+          </p>
+          <p>
+            <s>Spurningurin er settur fyri at vita, um hvørji stig løgmaður ætlar at taka í hesum sambandi.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2010-10-29">29. oktober 2010</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Magni Laksáfoss</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
