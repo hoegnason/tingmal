@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-027/2013: Um atkomuviðurskiftini umborð á Atlantic Airways</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanus Samró</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33074" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/27">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanus Samró<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um atkomuviðurskiftini umborð á Atlantic Airways, settur Johan Dahl, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin við vinnumálum greiða frá, um nakað krav varð sett fram, tá farið varð í holt við at útbyggja Vága Floghavn, um at lata byggja ein arm til tey, ið bera brek?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat kostar slíkur armur?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hevur landsstýrismaðurin við vinnumálum nakra ætlan um at fara í eina tilgongd við Vága Floghavn, um at arbeiða við at byggja ein slíkan arm?</s>
+            </item>            
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <p>
+            <s>Týsdagin 17. desember svaraði landsstýrismaðurin við vinnumálum, Jóhan Dahl, undirritaða upp á skrivligan § 52a fyrispurning, ið var settur viðvíkjandi atkomuviðurskiftunum í Vága Floghavn og umborð á Atlantic Airways.</s>
+            <s>Tá varð ført fram, at tað mátti metast at vera óheppið, tá flogvøllurin varð útbygdur fyri hundraðtals milliónir krónur, at atlit ikki vórðu tikin til tey, ið høvdu likamligar avbjóðingar, tí tað átti at verið ein sjálvsagdur rættur, at tey, ið sita í koyristóli, koyra umborð á flogfarið, ístaðin fyri at verða útsett fyri ta eyðmýkd at verða borðin umborð.</s>
+            <s>Ein sjálvsagdur rættur, tá tey klára at pakka kuffertið, skriva seg inni, koma til og frá flogvøllinum sjálvi, men tá tað kemur til at koma umborð á flogfarið verða noydd at biðja um hjálp, tí tey ikki klára trappurnar.</s>
+            <s>Um so var, at tað var ein trupulleiki, varð tað mett at vera óheppið.</s>
+          </p>
+          <p>
+            <s>Landsstýrismaðurin við vinnumálum svaraði skrivliga fyrispurninginum siðiliga, har hann vísti á, at Vága Floghavn og Atlantic Airways tóku atlit til tey, ið bóru brek.</s>
+            <s>Í svarinum vísti landsstýrismaðurin somuleiðis á, at atlit vóru tikin til farstøðina, vesini og hurðarnar.</s>
+            <s>Harafturat vísti landsstýrismaðurin á, at Atlantic Airways hevur gjørt íløgu í eina ambulyftu, hvørs uppgáva sambært svarinum er: “at meta sum ein flutningshjálp, ger, at tey, sum hava tørv á tí, kunnu flytast upp og niður frá aftara endanum í flogfarinum.”</s>
+          </p>
+          <p>
+            <s>Hetta má metast at vera gagnligt fyri tey, ið bera brek, men spurningurin er hinvegin, um landsstýrismaðurin við vinnumálum setti sum krav, tá farið var í holt við at byggja Vága Floghavn, at ein armur var til tey, ið bera brek, ella ikki.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-12-18">18. desember 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanus Samró</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

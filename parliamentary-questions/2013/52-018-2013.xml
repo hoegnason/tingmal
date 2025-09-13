@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-018/2013: Bygging fram við landsvegi og møguleika fyri at geva undantøk</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33054" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/18">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um bygging fram við landsvegi og møguleika fyri at geva undantøk, settur Jørgen Niclasen, landsstýrismanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landstýrismaðurin upplýsa, hvør heimild greitt ásetir fjarðleika og byggi- linju, tá bygt verður fram við landsveg?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørjar grundgevingar eru fyri at sýta frávik og krevja, at nýggja missiónshúsið við Gøtugjógv skal hava 25 m frástøðu frá miðlinju á vegnum, tá 3 av bygning- unum vestan fyri Missiónshúsið hava eina frástøðu ávikavist 11 m – 8 m – 12 m?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um landsstýrismaðurin heldur, at kravið um 25 m frástøðu er órímiligt, fer hann so at viðvirka til, at ein virðilig loysn kann finnast, sum allir partar kunnu liva við?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í longri tíð hevur verið arbeitt fyri at fáa nýtt missiónshús í Gøtu.</s>
+            <s>Gamla Betania, sum stóð tætt við vegin, hevur í nærum eina øld hýst andaliga virkseminum hjá missiónini.</s>
+          </p>
+          <p>
+            <s>Bæði stýrið fyri Missiónshúsið og Eystur Kommuna eru samd um, at tað ikki ber til at fara so langt frá vegnum við bygninginum, sum LV krevur.</s>
+            <s>Verður kravið um 25 m frástøðu ultimativt, verður bygningurin kroystur oman á bakkan og einki pláss verður niðanfyri, har er sum kunnugt eisini nógvur uppgangur.</s>
+          </p>
+          <p>
+            <!-- TODO: Fix this list later! -->
+            <s>Sambært LL nr. 51 frá 25. juli 1972 um landsvegir, .... sstendur í grein 6: Við tí endamáli at kunna koma tørvinum hjá eini vaksandi ferðslu á møti og at kunna gera umstøðurnar hjá teimum ferðandi so góðar sum gjørligt, verður landsstýrið heimilað <lb /> 1. at áseta, hvussu langt frá landsvegi bygt skal verða, <lb /> 2. á bygging fram við tílíkum vegi at leggja treytir, sum hava samband við endamálið í hesi grein, <lb /> 3. at forbjóða atgongd til landsveg á ávísum strekkjum ella avmarka talið av atgongdum, <lb /> 4. at forbjóða, at annar vegur verður bundin í landsveg á ávísum strekkjum ella at avmarka íbindingarnar og <lb /> 5. at leggja forboð fyri, at kommunustýri (bygginevnd) innan fyri ávíst tíðarskeIð gevur byggiloyvi á økjum, har arbeitt verður við byggiætlan fyri nýggjum landsvegi, umbygging ella umlegging av einum tílíkum.</s>
+            <s>Tílíkt forðboð kann tó ikki røkka longur enn 2 ár fram.</s>
+          </p>
+          <p>
+            <s>Um loyvi varð givið til frávik at bygt 20 m frá miðlinju, høvdu trupulleikarnir verið loystir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, <date when="2013-11-11">11. november 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

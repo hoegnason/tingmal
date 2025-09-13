@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-015/2013: Vektgjald av el-bilum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33050" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/15">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um vektgjaldi av el-bilum, settur Jørgen Niclasen, landsstýris- manni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landstýrismaðurin nakrar ætlanir um at gera sum í øðrum londum - at lækka ella kanska avtaka vektavgjaldið (vegskattin) á el-bilum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Løgtingið samtykti í 2008 “løgtingslóg nr. 33 frá 19 mai 2008, og aftur longd í løgtingslóg nr. 12 frá 26 februar 2010”, at motorakfør, sum bert nýta ravmagn, “elbilar”, skuldu sleppa undan at gjalda virðisgjald.</s>
+          </p>
+          <p>
+            <s>Hetta varð gjørt fyri at stuðla undir, at føroyingar skuldu kunna fáa sær ein el-bil.</s>
+            <s>Sum táverandi landsstýrismaður í fíggjarmálum segði: “eitt gott signalvirði fyri føroyska umhvørvispolitikkin”.</s>
+          </p>
+          <p>
+            <s>Hettar var eitt gott átak, og onkrir el-bilar eru komnir á føroysku vegirnar.</s>
+            <s>Men tað virkar eitt sindur løgið, at lógin um vektavgjøld (vegskatt) ikki bleiv broytt samstundis.</s>
+          </p>
+          <p>
+            <s>Í øðrum londum hevur man eisini gjørt ymisk tiltøk fyri at stuðla undir, at fáa fólk kunnu brúka el-bilar, eitt nú við at lækka vektavgjaldið, ella heilt at taka tað burtur fyri el-bilar.</s>
+          </p>
+          <p>
+            <s>Í Føroyum er tað løgna fyribrigdi, at lógin um vektavgjøld "løgtingslóg nr. 38 frá 31 mars 1982" sigur, at allir bilar, sum nýta aðra drívmegi enn bensin, skulu gjalda eitt hægri gjald.</s>
+          </p>
+          <p>
+            <s>Tað vil siga, at ein el-bilur skal gjalda sama vektavgjald sum ein diesel bilur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-11-06">6. november 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
