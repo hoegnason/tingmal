@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-040/2014: Frípláss á barnaansingarøkinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Janus Rein</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/35387" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2014/40">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Janus Rein<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um frípláss á barnaansingarøkinum, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Metir landsstýriskvinnan, at útrokningarhátturin fyri eitt frípláss á barnaansingar- økinum er hóskandi?</s> - <s>Víst verður her á, at upplýsingar frá Fíggjarmálaráðnum til Løgtingið vísa, at eitt húsarhald við tveimum børnum, støk ella par, sum hava eitt inntøkugrundalag upp á 25.000 krónur mánaðarliga, hava 593 krónur minni í tiltøkupeningi enn eitt samsvarandi húsarhald við einum inntøkugrundarlagi upp á 20.833 krónur mánaðarliga.</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Metir landsstýriskvinnan, at tað er óheppið, at tað almenna á henda hátt leggur upp til, at tað ikki skal loysa seg hjá einum húsarhaldi at forvinna sær eitt sindur meira av peningi til húsarhaldið?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýriskvinnan, at mørkini í útrokningarháttinum á ávikavist 247.900 krónur fyri fult frípláss og 292.900 krónur, har alt fríplássið er fallið burtur, eru hóskandi?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Metir landsstýriskvinnan, at útrokningarhátturin fyri, nær eitt frípláss ávikavist fæst 100%, og nær tað fellur heilt burtur við eini lækking á 2% fyri hvørjar 1.000 krónur, inntøkugrundarlagið hækkar upp um 247.990 krónur, er hóskandi?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Metir landsstýriskvinnan, at tað er rættvíst, at eitt húsarhald, sum roynir at for- vinna sær eitt sindur meira av tiltøkupeningi, skal hava 593 krónur minni í tiltøkupeningi, um inntøkugrundarlagið hjá húsarhaldinum fer úr 20.833 krónum upp í 25.000 krónur?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Metir landsstýriskvinnan, at best er, um vit hava eina skipan á økinum, sum fyrst og fremst loftar teimum foreldrum, sum ikki sjálvi megna at rinda útreiðslurnar til eitt ansingarpláss, men sum eisini tekur hædd fyri, at fríplássið ikki fellur burtur skjótari, enn inntøkugrundarlagið hækkar, við tað at tiltøkupeningurin hjá familjuni heilt ítøkiligt minkar so hvørt, sum inntøkan hækkar?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Metir landstýriskvinnan, at útrokningargrundarlagið eigur at verða broytt soleiðis, at tað gerst meira rættvíst?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Metir landsstýriskvinnan, at skipanin møguliga hevði verið betur hóskandi, um hægra upphæddin, 292.900 krónur, har fríplássið er fallið heilt burtur, varð flutt eitt vet longur upp soleiðis, at eitt húsarhald ikki verður straffað so hart fíggjarliga fyri at royna at hækka sítt inntøkugrundarlag?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hevði henda broyting ført við sær, at møguleikin fyri fríplássi hevði fallið burtur meira líðandi, og at eitt húsarhald á tann hátt ikki hevði verið straffað so hart fyri at forvinna húsarhaldinum meira pening?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s>Hevði tað ført við sær, at tað fer at loysa seg betur at økja um inntøkuna sam- stundis, sum hetta ikki rakar tey veikaru í samfelagnum, sum eiga og skulu hava fult frípláss?</s>
+            </item>
+            <item xml:id="q11" type="question-item">
+              <s>Ætlar landsstýriskvinnan at gera nakað við trupulleikan?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Sambært § 6a, stk. 2, í løgtingslóg nr. 67 frá 10. mai 2000 um dagstovnar og dagrøkt skal landsstýriskvinnan í almannamálum áseta nærri reglur um fíggjarligt frípláss til foreldur, sum ikki sjálvi megna at rinda útreiðslurnar til eitt ansingarpláss.</s>
+            <s>Hetta er gjørt við kunngerð nr. 88 frá 17. juni 2009 um fíggjarligt frípláss.</s>
+            <s>Víðari skal inntøkugrundarlagið fyri, nær frípláss fæst sambært § 1, stk. 2 í kunngerðini, við rundskrivi hvørt ár javnast sambært lønarhækkingunum á arbeiðsmarknaðinum.</s>
+            <s>Fyri tíðarskeiðið 1. august 2014 til 31. juli 2015 verður eitt 100% frípláss latið, um inntøkugrundarlagið hjá húsarhaldinum er 247.900 krónur ella minni.</s>
+            <s>Egingjaldið til ansingarpláss hækkar hareftir 2% fyri hvørjar 1.000 krónur inntil 292.900 krónur, tá fríplássið er fallið heilt burtur, og egingjaldið fyri ansingarplássið er 100%.</s>
+          </p>
+          <p>
+            <s>Gleðiligt er, at vit hava eina skipan, sum hjálpir teimum hart sperdu familjunum, støk ella pør, við fríplássi á barnaansingarøkinum, tá tey sjálvi ikki megna at rinda útreiðslurnar.</s>
+            <s>Ein tílík skipan er als ikki givin í flestu av heimsins londum.</s>
+          </p>
+          <p>
+            <s>Tó sær verandi útrokningarháttur út til at hava nakrar løgnar og óhepnar fylgjur við sær.</s>
+            <s>Útrokningar, sum Fíggjarmálaráðið hevur latið Løgtinginum, vísa, at eitt húsarhald, støk ella pør við tveimum børnum, við einum inntøkugrundarlagi upp á 25.000 krónur um mánaðin, hevur 593 krónur minni eftir í tiltøkupeningi, enn tey, sum forvinna 20.833 krónur um mánaðin.</s>
+            <s>Tað vil í stuttum siga, at eitt húsarhald verður fíggjarliga rættiliga markant straffað í mánaðarliga tiltøkupeninginum, um tey royna at forvinna sær nakrar krónur afturat til húsarhaldið.</s>
+            <s>Við øðrum orðum so loysir tað seg í hesum førinum snøgt sagt ikki at arbeiða, tí henda skipanin hjá tí almenna leggur upp til, at húsarhaldið hevur meira tiltøkupening eftir við at arbeiða eitt sindur minni.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-12-17">17. desembur 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Janus Rein</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
