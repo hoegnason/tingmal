@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-045/2016: Barsilsskipan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39267" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/45">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um barsilsskipan, settur landsstýrismanninum í samferðslumálum, Henrik Old (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv hevði tað kostað barsilsskipanini árliga, við sama føðitali sum í 2016, um øll, í sambandi við barnsburð eftir verandi skipan annars, høvdu rætt til eitt minsta útgjald úr barsilsskipanini á kr. 8.000,00 um mánaðin, tó so, at tey, sum hava rætt til útgjald eftir aðrari skipan, t.d. forsorgarlógini, lestrarstuðulsskipanini ella familjuískoytisskipanini, fyrst fáa tann partin útgoldnan og síðani ískoyti úr barsilsskipanini upp til nevnda mark, um rætturin til tað útgjaldið er niðan fyri kr. 8.000 um mánaðin?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Ein kvinna, sum er undir útbúgving og ikki hevur havt lønandi inntøku seinastu 3 árini, hevur ikki rætt til gjald úr barsilsskipanini.</s>
+            <s>Hetta kann tykjast órímiligt í mun til ætlanir landsins um at styðja øll átøk fyri at vaksa um fólkatalið.</s>
+            <s>Sæð í eini heild er tað eisini órímiligt, at tey, sum hava arbeitt, áðrenn tey fáa børn, hava betri rætt til gjald úr barsilsskipanini enn tey, sum fara at arbeiða, aftaná at børnini eru komin.</s>
+            <s>Ein familja, sum raðfestir at nema sær útbúgving og samstundis stovna familju við børnum, er sett í verri støðu enn ein familja, har bæði foreldur hava inntøku av arbeiðsmarknaðinum.</s>
+            <s>Yvir eitt heilt arbeiðslív hava bæði tann familjan, sum fær børnini, meðan tey eru undir útbúgving og hin familjan, har børnini koma, meðan foreldrini eru á arbeiðsmarknaðinum, avrikað á leið tað sama og goldið á leið tað sama í barsilsskipanina.</s>
+            <s>Tí tykist tað órættvíst, at ikki øll eru eins fyri lógini um barsilsskipan - uttan mun til, hvar á lívsleiðini tey eru stødd, tá børnini koma.</s>
+            <s>Spurningurin leggur upp til, at øll kunnu fáa eitt minstagjald úr skipanini og at kostnaðurin av hesum verður ásettur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-01-16">16. januar 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

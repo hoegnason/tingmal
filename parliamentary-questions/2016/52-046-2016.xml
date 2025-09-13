@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-046/2016: Ridluskriði</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39269" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/46">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um mótstøðuføri og aling í sambandi við ridluskriða settur landsstýris- manninum í fiskivinnumálum, Høgna Hoydal (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu útbreiddur er ridluskriði í mun til landafrøði, hagapartar og áseyðatal í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji stig eru tikin at forða smittuspjaðing og at niðurberja herviligu seyðasjúkuna?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru ætlanir um at fremja meira umfatandi smittu- og sjúkufyribyrgjandi tiltøk, um ja, hvørji?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu fer meirjáttanin á 600 <abbr>t.kr.</abbr>, sum Løgtingið játtaði til endamálið við 3. viðgerð av fíggjarlógini fyri 2017, at verða nýtt?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørjir aðaltættir skulu eftir ætlan vera í teirri vitan, sum skal fáast burtur úr teimum royndum, sum fara at verða gjørdar?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvørjar niðurstøður eru gjørdar út frá teimum blóðroyndum, sum higartil eru tiknar?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvørjar vandar sær landsstýrismaðurin fyri sær kunnu standast, um ein miðvís aling fer at fara fram við tí fyri eyga at ala mótstøðuføran seyð út frá blóðroyndum?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Eru ætlanir at gera meira umfatandi kanningar- og granskingarætlanir, sum eisini lýsa aðrar týðandi partar av arvatæri í føroyskum seyði?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Verður arbeitt við ætlanum um at játta meira pening til kanningar- og granskingararbeiðið á hesum øki?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+
+          <p>
+            <s>Oyggjarnar liggja mitt úti í Atlantshavinum.</s>
+            <s>Tí hevur føroyski seyðurin ikki verið fongdur við nógvu og herviligu seyðasjúkunum, sum eru á meginlandinum.</s>
+          </p>
+          <p>
+            <s>Hóast góðu landafrøðiligu fyritreytirnar eru vit ikki heilt sloppin undan álvarsligum seyðasjúkum.</s>
+            <s>T.d. hava garnasóttin og seinni ridluskriðin gjørt um seg.</s>
+          </p>
+          <p>
+            <s>Serliga hevur ridluskriðin elvt til høvuðbrýggj í seyðahaldinum.</s>
+            <s>Eingin heilivágur er framleiddur, sum kann basa sjúkuni, og smittan er sera trupul at rudda úr náttúruni, tí hon yvirlivir har í áravís.</s>
+          </p>
+          <p>
+            <s>Tey økir og teir hagapartar, har sjúkan er staðfest, eru sera meint rakt.</s>
+            <s>Tí hevur tað eisini stóran týdning, at myndugleikarnir og vinnan í felag taka vandan í álvara og í felag finna útvegir fyri at forða smittuspjaðing, og rættar hættir at basa sjúkuni.</s>
+          </p>
+          <p>
+            <s>Hetta eigur tó at verða gjørt við fyriliti fyri tí arvatæri, ið føroyski seyðurin við tíðini hevur vunnið sær í harðbalnum umhvørvi og miðvísari røkt.</s>
+            <s>Her verður serliga hugsað um glærfita, móðurkenslu, evnini at skava, at finna gott bit, at finna skýli, fiti í ullini, at vera hagfastur o.a.</s>
+          </p>
+          <p>
+            <s>Síðan ridluskriðin varð staðfestur, eru nøkur stig tikin at forða smittuspjaðing og fyri at berja niður sjúkuna við teimum avmarkaðu fíggjarligu kørmun, sum hava verið.</s>
+          </p>
+          <p>
+            <s>Tá fíggjarlógin fyri 2017 varð samtykt við 3. viðgerð, vóru bæði andstøða og samgonga samd um at hækka játtanina til nevnda øki við 600 <abbr>t.kr.</abbr></s>
+            <s>Spurt verður tí, hvørji stig higartil eru tikin á økinum, hvørjar ætlanir liggja í kortunum við serligum atliti at meirjáttanini á 600 <abbr>t.kr.</abbr> í 2017, og hvørji fyrilit landsstýrismaðurin sær fyri sær eiga at vera havd í huga í sambandi við eina møguliga aling við mótstøðuføri ímóti ridluskriða sum máli.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-01-17">17. januar 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
