@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-101/2022: Tannrøkt til eldri borgarar og til fólk, sum eru avlamin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56810"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1"/>
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/101">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá, <roleName>landsstýrismaður í heilsumálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Tannrøkt til eldri borgarar og til fólk, sum eru avlamin</div>
+        <space/>
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+                <s>Hevur landsstýrismaðurin ætlanir um at tryggja, at eldri og avlamin, ið ikki megna at fara til tannlækna/tannrøktara fáa ein lógartryggjaðan rætt til hetta?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+                <s>Hvussu nógvir borgarar fáa ikki tannrøkt í Føroyum orsakað av heilsustøðu?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+                <s>Hvussu nógvir borgarar, ið eru avlamin og óhjálpin, fáa ikki tannrøkt í Føroyum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+                <s>Um hagtøl ikki finnast á hesum øki, vil landsstýrismaðurin so arbeiða fyri at kanna hesi viðurskifti?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tanntøkt og møguleikin at fáa tannlæknaviðgerð er ein grundleggjandi rættur, sum vit ynskja at veita øllum borgarum í okkara samfelag.</s>
+            <s>Vit hava ókeypis barnatannrøkt, sum umfatar børn upp til 18 ár, tí vit ynskja, at børn okkara hava góðar tenn, og at tannheilsan hjá okkara børnum er góð.</s>
+            <s>Ert tú eldri enn 18 ár, hevur tú sum borgari møguleika at leita tær til tannlækna við jøvnum millumbili, tá tørvur er á tí, afturfyri eitt gjald.</s>
+            <s>Verri er støðan hjá okkara eldri borgarum og fólkum, sum eru óhjálpin og avlamin.</s>
+            <s>Í 2019 játtaði Tórshavnar býráð 200 tús. kr. til eina mobila tannlæknaeind til ellis- og røktarheimini, soleiðs at okkara gomlu kundu fáa tannrøkt og møguleika at fáa tannlæknaviðgerð.</s>
+            <s>Avbjóðingin vísir seg nú at vera, at tað reisa seg nógvar lógartekniskar avbjóðingar um t.d., hvør skal taka sær av hesum á ellis- og røktarheimunum, og hvussu tannrøkt kann veitast til borgarar undir eitt nú heimatænastuni.</s>
+            <s>Harafturat sita nógvir borgarar heima við hús, avlamin og óhjálpin og hava ikki eins góðar møguleikar at fáa tannrøkt, sum aðrir borgarar.</s>
+            <s>Kanningar vísa, at góð tannrøkt er avgerandi fyri ein sunnan aldurdóm og fyri góða lívsgóðsku.</s>
+            <s>Eldri fólk taka nógvan heilivág, sum eisini ávirkar teirra tenn, og sum fer illa við tonnunum við árunum.</s>
+            <s>At hava góðar tenn er eisini umráðandi fyri føðsluna hjá eldri.</s>
+            <s>I grannalondunum hjá okkum eru hesi viðurskiftini lógartryggjað, og tí verða hesir spurningar settir landsstýrismanninum í heilsumálum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <br/><date when="2023-05-11">11. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/bh7xsinb">Annika Olsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

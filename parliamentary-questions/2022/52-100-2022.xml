@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-100/2022: Heim í Suðuroynni fyri borgarar við avbjóðingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-03"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/56771"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb n="1"/>
+      <div type="boiler-plate-title">
+        <head type="main" rend="center">Skrivligur fyrispurningur</head>
+        <head type="sub" rend="center">eftir § 52a í Tingskipanini</head>
+      </div>
+    </front>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2022/100">
+        <div type="questioner">
+          <head>Spyrjari: </head>
+          <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen, <roleName>løgtingsmaður</roleName></persName>
+        </div>
+        <div type="respondent">
+          <head>Svarari: </head>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">Sirið Stenberg, <roleName>landsstýrismaður í almanna- og mentamálum</roleName></persName>
+        </div>
+        <div type="subject">
+          <head>Evni: </head>Heim í Suðuroynni fyri borgarar við avbjóðingum</div>
+        <space/>
+        <div type="question-list">
+          <head>Spurningar: </head>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+                <s>Nær kann væntast, at heimið í Suðuroynni letur upp?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+                <s>Hvussu nógv búpláss verða á heiminum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+                <s>Hvørjir borgarar fáa búpláss?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+                <s>Hvussu nógv umlættingarpláss verða á heiminum?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+                <s>Er ætlanin at hava annað virksemi á heiminum?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Tørvurin fyri varandi bústøðum til borgarar við avbjóðingum í Suðuroynni hevur verið eyðsýndur í nógv ár, men ikki raðfestur.</s>
+            <s>Av tí sama eru borgarar dotnir niður ímillum skipanir, og aðrir hava búð á Suðuroyar sjúkrahúsi í mánaðir, tí einki tilboð hevur verið til teirra.</s>
+            <s>Onkur hevur verið noyddur at flyta av oynni til aðra oyggj, har viðkomandi hvørki hevur familju ella privat netverk.</s>
+          </p>
+          <p>
+            <s>Undanfarni landsstýrismaður í almannamálum, Sólvit E. Nolsø, raðfesti eitt nýtt heim í Suðuroynni á fíggjarlógini fyri 2023, og valdi núverandi samgonga sjálvandi at varðveita og arbeiða víðari við hesari týdningarmiklu raðfesting á fíggjarlógini fyri 2023, har 7,5 mill. kr. eru settar av til heimið.</s>
+          </p>
+          <p>
+            <s>Upprunaliga var ætlanin ein stovnur, sum skuldi hýsa 10 borgarum við seinheilaskaða, menningartarni og við autismu, umframt at møguleiki skuldi verða fyri umlætting.</s>
+          </p>
+          <p>
+            <s>Nú er árið 2023 skjótt hálvrunnið og fólk, borgarar og avvarðandi, í Suðuroynni byrja at ótolnast eftir at frætta nýtt frá hesi verkætlan, sum átrokandi tørvur er á.</s>
+            <s>Tí seti eg hesar spurningar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2023-05-11">11. mai 2023</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName ref="https://tingdata.fo/person/su4sbwqe">Súsanna Bertholdsen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
