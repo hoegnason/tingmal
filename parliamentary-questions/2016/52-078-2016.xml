@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-078/2016: Landsroyndir í fólkaskúlanum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39333" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/78">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um landsroyndir í fólkaskúlanum, settur landsstýrismanninum í mentamálum, Rigmor Dam (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s xml:id="ahwphkcdu5">Hvør er orsøkin til, at tað aftur og aftur gongur galið við landsroyndunum í fólkaskúlanum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s xml:id="qdtvk6vb6w">Hvørji stig tekur landsstýrismaðurin at tryggja, at landsroyndirnar frameftir virka, sum ætlað?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s xml:id="q2d637gqbx">Hvussu verða líknandi royndir skipaðar í okkara grannalondum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s xml:id="ugz7k7dt5j">Hava okkara grannalond líknandi miseydnaðar royndir við tøknini, tá skúlaroyndir verða fyriskipaðar?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s xml:id="alebxehnwp">Kann landsstýrismaðurin greiða frá forritinum, skipanin byggir á, sum verður brúkt til royndirnar?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s xml:id="sni3p2qcrr">Er veitingin av KT at skipa landsroyndirnar boðin alment út?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="f7vixnlyzo">Enn einaferð miseydnaðist landsroyndin, sum í dag skuldi vera fyri 4. flokki í fólkaskúlanum.</s>
+            <s xml:id="xztvdqzfl7">Sagt verður, at KT-forritið er orsøkin.</s>
+            <s xml:id="vj2q7ectvp">Í løtuni verður arbeitt við at talgilda alt samfelagið fyri væl meiri enn 100 mió. krónur.</s>
+            <s xml:id="k2wvc7cnzq">Neyvan man álitið hjá unga ættarliðnum, sum nú enn einaferð fekk eina negativa uppliving av talgilda samfelagnum, verða serliga stórt á talgildar loysnir.</s>
+            <s xml:id="d6nvq6j6l7">Tað er skomm fyri almenna myndugleikan, sum skal føra okkara børn til roynd, aftur og aftur at dumpa í fyriskipanini av royndunum.</s>
+            <s xml:id="tofktspuun">Neyvan man nakar leggja í at standa roynd, sum er fyriskipað av almennum myndugleika, sum sjálvur dumpar ferð eftir ferð.</s>
+            <s xml:id="waughea6kt">Hvussu skal dumpandi myndugleikin kunna greiða børnunum frá týdninginum av at standa royndina?</s>
+          </p>
+          <p>
+            <s xml:id="zzijvh366z">Nú eiga øll børn og foreldur at fáa eina haldføra frágreiðing um viðurskiftini.</s>
+            <s xml:id="r3xicrvp33">Tað er orsøkin til spurningin.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-05-02">2. mai 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-100/2016: Samansparingar hjá føroyingum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sonja J. Jógvansdóttir</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39379" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2016/100">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sonja J. Jógvansdóttir<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um samansparingar hjá føroyingum, settur landsstýrismanninum í fíggjarmálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv er samlaða samansparda virðið hjá føroyingum, tá tað snýr seg um pening, sum er settur í ymsu pensjónsformarnar?</s>
+              <list>
+                <label>a.</label>
+                <item>
+                  <s>Hvussu nógv av hesum skal skattast við útgjald (t.e. inngoldið áðrenn 1. jan. 2012)</s>
+                </item>
+                <label>b.</label>
+                <item>
+                  <s>Hvussu nógv av hesum skal skattast við útgjald (t.e. inngoldið áðrenn 1. jan. 2012)</s>
+                </item>
+              </list>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu eru hesar uppsparingar deildar ímillum kvinnur og menn? (um ikki nágreiniliga, so við eini meting)</s>
+              <list>
+                <label>a.</label>
+                <item>
+                  <s>Hvussu nógv er uppsparda virðið samanlagt hjá kvinnum, og hvussu nógvar kvinnur eiga lut í hesi pengamongd.</s>
+                </item>
+                <label>b.</label>
+                <item>
+                  <s>Hvussu nógv er uppsparda virðið samanlagt hjá monnum, og hvussu nógvir menn eiga lut í hesi pengamongd.</s>
+                </item>
+              </list>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvussu er samlaða uppsparingin deild ímillum ymsu aldursbólkarnar (t.d. 21-25 ár, 26-30 ár, 31-35 ár, 36-40 ár, 41-45 ár, 46-50 ár, 51-55 ár, 56-60 ár og 61-65 ár)?</s>
+              <list>
+                <label>a.</label>
+                <item>
+                  <s>Hvussu nógv er samlaða uppsparda pensjónsvirðið í hesum aldursbólkum, og hvussu nógv fólk eru í ymsu bólkunum.</s>
+                </item>
+              </list>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu stór spjaðing er í millum føroyingar, sum eiga uppsparing?</s>
+              <seg>Hvussu eru føroyingar býttir út á hesi intervallir:
+              <list>
+                <label>a.</label>
+                <item>
+                  <s>Hvussu nógvir eiga 0-100.000 kr?</s>
+                  <list>
+                    <label>i.</label>
+                    <item>
+                      <s>Hvussu er aldursbýtið í hesum bólki?</s>
+                    </item>
+                  </list>
+                </item>
+                <label>b.</label>
+                <item>
+                  <s>Hvussu nógvir eiga 100.001-500.000 kr?</s>
+                  <list>
+                    <label>i.</label>
+                    <item>
+                      <s>Hvussu er aldursbýtið í hesum bólki?</s>
+                    </item>
+                  </list>
+                </item>
+                <label>c.</label>
+                <item>
+                  <s>Hvussu nógvir eiga kr. 500.001-1.000.000 kr?</s>
+                  <list>
+                    <label>i.</label>
+                    <item>
+                      <s>Hvussu er aldursbýtið í hesum bólki?</s>
+                    </item>
+                  </list>
+                </item>
+                <label>d.</label>
+                <item>
+                  <s>Hvussu nógvir eiga kr. 1.000.001 og 2.000.000kr?</s>
+                  <list>
+                    <label>i.</label>
+                    <item>
+                      <s>Hvussu er aldursbýtið í hesum bólki?</s>
+                    </item>
+                  </list>
+                </item>
+                <label>e.</label>
+                <item>
+                  <s>Hvussu nógvir eiga kr. 2.000.001 og uppeftir?</s>
+                  <list>
+                    <label>i.</label>
+                    <item>
+                      <s>Hvussu er aldursbýtið í hesum bólki?</s>
+                    </item>
+                  </list>
+                </item>
+              </list></seg>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:id="jm2mlj673n">Kjakast verður ofta um samlaðu uppsparingina hjá føroyingum.</s>
+            <s xml:id="oclckrg2sn">Hetta kjakið er bæði viðkomandi og neyðugt, og upprunin til henda fyrispurning er undranin um møguligu spjaðingina ímillum føroyingar, tá tað snýr seg um, hvussu stóran lut hvør einstakur eigur í uppspardu pengamongdini.</s>
+          </p>
+          <p>
+            <s xml:id="khmv52hhxr">Hetta er neyðugt hjá politisku skipanini at hava greiðu á, fyri á besta hátt at kunna tryggja, at komandi pensjónsnýskipanin tekur atlit til, at allir føroyingar skulu hava gó figgjarlig kor á ellisárunum.</s>
+            <s xml:id="arn4d7mshp">Áhugavert er eisini at fáa at vita, hvussu samansparingarnar hjá føroyingum eru samansettar ímillum m.a. kyn og aldur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2017-06-23">23. juni 2017</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sonja J. Jógvansdóttir</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
