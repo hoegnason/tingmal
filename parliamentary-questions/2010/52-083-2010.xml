@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-083/2010: Rakstur og eftirlit hjá Vaktar og bjargingartænastuni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/26005"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/83">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um rakstur og eftirlit hjá <orgName>Vaktar- og bjargingartænastuni</orgName>, settur <persName>Johan Dahl, <roleName>landsstýrismanni</roleName></persName>, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu metir landsstýrismaðurin, at útlitini fyri nøktandi vaktarhaldi við <placeName>Føroyar</placeName> eru restina av árinum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann væntast, at eftirlitið verður skert í juli og oktober ársfjórðingum, í mun til virksemi somu tíð seinasta ár, tá <name type="vessel">Brimil</name> bert loysti einar 4 ferðir seinasta ársfjórðingin?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Metir landsstýrismaðurin, at verandi játtan tryggjar <orgName>Vaktartænastuni</orgName> nøktandi eftirlit?</s>
+              <s>Um ikki, hvat fer landstýrismaðurin, ið hevur evstu ábyrgdina av málsøkinum, at gera til tess at at tryggja, at lóg og reglur verða hildnar, so fiskað verður burðardygt sambært ásetingum og reglum?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvar metir landsstýrismaðurin, at niðasta markið fyri nøktandi játtan til <orgName>Vaktar og Bjargingartænastuna</orgName> liggur?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Umhugsar landsstýrismaðurin eykajáttan, tí støðan, sum nú er, við manglandi játtan, nærkast markinum fyri ábyrgdarloysi?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fari fyrst at vísa á svarið til skrivligan fyrispurning 10. november 2010 viðvíkjandi trygd á sjónum.</s>
+            <s>Tá bleiv upplýst, at skipini eru tøk til leiting og bjarging, men vegna fíggjarumstøðurnar verða eftirlitsuppgávurnar á sjónum avmarkaðar.</s>
+            <s>Trygdarviðurskifti og tilbúgving verða sjálvsagt, sum nú er, raðfest fram um eftirlitsuppgávurnar. </s>
+          </p>
+          <p>
+            <s>Hóast fíggjarlógin hevur stórt hall, sum ætlanin er at fáa stigvíst burtur, eru nakrar týdningarmiklar uppgávur, sum skulu og mugu røkjast.</s>
+            <s>Ein av hesum alneyðugu uppgávunum er <orgName>Fiskiveiðieftirlitið</orgName>.</s>
+          </p>
+          <p>
+            <s>Hóast skipini stórt sæð lógu seinasta ársfjórðing, tá <name type="vessel">Tjaldrið</name> var úti, minnist meg rætt, einar 20 dagar, meðan <name type="vessel">Brimil</name> bert loysti 4 ferðir, so eru 800 túsund krónur minni avsettar til <orgName>Fiskiveiðieftirlitið</orgName> í ár í mun til 2010.</s>
+            <s>Oljuprísirnir eru hækkaðir, so tá til stykkis kemur, verður eftirlitisvirksemi minnið í ár enn seinasta ár, tað kann ikki vera nøktandi.</s>
+          </p>
+          <p>
+            <s>Tá bleiv eisini upplýst, at arbeiðið á sjónum viðvíkjandi fiskiveiðieftirliti verður merkt av fíggjarkarminum, men fíggjarligu árinini á sjálvt leiti- og bjargingararbeiðið skulu avmarkast so nógv, sum til ber.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-06-17">17. juni 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
