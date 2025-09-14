@@ -1,0 +1,113 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-062/2010: Serviðgerð av tonnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25958"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/62">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard,<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um serviðgerð av tonnum, settur John Johannessen , landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Metir landstýrismaðurin, at støðan er nøktandi, nú møguleikin fyri tannviðgerð á landsjúkrahúsinum er niðurløgd?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landstýrismaðurin útgreina ávirkanina/avleiðingarnar, av niðurløgdu tænastuni.</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Tá talan er um børn, har neyðugt er við serviðgerð, td. trupul skurðviðgerð av tonnum sum ikki koma niður.</s>
+              <s>Kunnu allar slíkar skurðviðgerðir fremjast í Føroyum, ella er neyðugt í summum førum at senda fólk av landinum til viðgerðar?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Tá talan er sum omanfyri nevnt um neyðuga viðgerð av børnum, (ikki bert kosmetiskt).</s>
+              <s>Hvør rindar kostnaðin av viðgerðini?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Virkandi tannlæknar, hava áður havt møguleikan, at ávísa fólki til kanningar og víðari viðgerð á tannlæknastovuni á Landsjúkrahúsinum.</s>
+          </p>
+          <p>
+            <s>Tá tannlæknastovan fyrr var á Landssjúkrahúsinum, var ein tænasta við sertannlækna.</s>
+            <s>Hetta var ein tænasta, sum var ókeypis fyri tey, sum vórðu víst til landssjúkrahúsið.</s>
+          </p>
+          <p>
+            <s>Sertannlæknin hevur nú lagt frá sær vegna aldur, og ongi tekin eru um, at Landsjúkrahúsið hevur ætlanir um at seta ein nýggjan.</s>
+          </p>
+          <p>
+            <s>Uttan mun til, um tað er tilvitað, ikki at seta nýggjan sertannlækna og harvið niðurleggja tænastuna, so skyldar landsstýrismaðurin at kunna almenningin og politisku skipanina um støðuna og greiða frá, hvussu henda viðgerð nú verður skipað framyvir.</s>
+          </p>
+          <p>
+            <s>Spurningurin er eisini um kostnað.</s>
+            <s>Tá talan er um serliga trupla viðgerð, kann talan uttan iva eisini verða um munandi peningaupphæddir, serliga um fólk verða send av landinum; er tað tá kommunan, landið ella tann einstaki/foreldur, sum koma at bera kostnaðin.</s>
+          </p>
+          <p>
+            <s>Eg vóni, at landstýrismaðurin kann geva eitt greitt svar og finna eina loysn á hesum álvarsmáli, ásannandi orðatakið um at: “Nýggir kustar feiða best”</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-03-01">1. mars 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
