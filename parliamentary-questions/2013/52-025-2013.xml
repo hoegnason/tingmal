@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-025/2013: Broyting í fólkaskúlalógini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanus Samró</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33068"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/25">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanus Samró<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um broyting í fólkaskúlalógini, settur Bjørn Kalsø, landsstýrismanni í mentamálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin nakra ætlan um, at broyta fólkaskúlalógina soleiðis, at flokkarnir verða býttir upp eftir førleikum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat heldur landsstýrismaðurin um, at næmingar verða býttir upp eftir førleikum?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>PISA-kanningini hevur sent ein lítlan skelk gjøgnum føroysku skúlaskipanina, tí úrslitini vísa, at Føroyar eru framvegis niðan fyri hini OECD londini.</s>
+            <s>Tað verður ikki mett at vera neyðugt at kollvelta skipanina av hesi orsøk, tí ivasamt er, um kanningin hóskar til føroysku skúlaskipanina.</s>
+            <s>Ikki neyðugt, tí vit hava bæði dugnaligar og evnaríkar næmingar í føroyska fólkaskúlanum.</s>
+          </p>
+          <p>
+            <s>Hinvegin er tað ein sannroynd, at næmingar eru ymiskir.</s>
+            <s>Nakrir duga føroyskt.</s>
+            <s>Aðrir støddfrøði.</s>
+            <s>Meðan onnur hava góðar eginleikar innan tónleik og list.</s>
+            <s>Hetta eru eginleikar, ið vit skulu gleðast um, bæði sum samfelag og sum tjóð.</s>
+          </p>
+          <p>
+            <s>Tí kann tað tykjast óheppið, tá politiska skipanin heldur evnunum niðri.</s>
+            <s>Ikki loyvir evnunum at spríkja.</s>
+            <s>At vaksa.</s>
+            <s>Tað má metast at vera óheppið, tá politiska skipanin ikki virðir evnini hjá einstøku næmingunum.</s>
+            <s>Tí hevði tað verið ynskiligt, um landsstýrismaðurin við mentamálum, Bjørn Kalsø, fór í eina tilgongd, har arbeitt varð ímóti at broyta fólkaskúlalógina soleiðis, at næmingar sleppa at arbeiða við sínum evnum.</s>
+            <s>Har fólkaskúlin verður býttur upp eftir evnum.</s>
+            <seg>Førleikum.</seg>
+            <s>Spyrjarin er tilvitaður um, at hetta verður mett at vera ein kollvelting av føroyska fólkaskúlanum, men tað er avgerandi, at næmingarnir finna sínar líkar innan ymisku fakini.</s>
+            <s>Umráðandi fyri framhaldandi búningina av teirra evnum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-12-11">11. desember 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanus Samró</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
