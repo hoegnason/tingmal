@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-007/2011: Próvtøkur á Vinnuháskúlanum/maskinmeistaraútbúgvingini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28465" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/7">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um próvtøkur á Vinnuháskúlanum/maskinmeistaraútbúgv- ingini, settur Helenu Dam á Neystabø, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýriskvinnan greiða frá reglunum um endurpróvtøku og rætting av próvtøkuúrslitum á Vinnuháskúlanum/maskinmeistaraútbúgvingini?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Veit landsstýrismaðurin um, at fleiri úrslit vórðu broytt í próvtøkuni á vetri 2004- 2005?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Veit landsstýrismaðurin, at enn eru ikki øll mál avgreidd frá hesi próvtøku?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Veit landsstýrismaðurin um umboðsmannamál um kæru um próvtøku á maskinmeistaraútbúgvingini er tikið til eftirtektar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background"/>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-08-17">17. august 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
