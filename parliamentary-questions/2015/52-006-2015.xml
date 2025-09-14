@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-006/2015: Grágæs</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37093"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/5">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um grágæs, settur Høgna Hoydal, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin upplýsa áleið, hvussu nógvar grágæs vóru í Føroyum 1. juni 2014, tá bøndur og jarðareigarar eftir umsókn fingu loyvi at skjóta burtur av stovninum alt árið?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv loyvi eru útskrivað, hvaðan í Føroyum koma umsóknirnar og hvussu nógvar gæs eru higartil skotnar?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur landsstýrismaðurin, at tað er rætt at skjóta grágás, tá hon reiðrast og hevur ungar?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Eigur slíkt loyvi ikki at verða givið í samráð við serfrøði og avvarðandi feløg?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Til fyri stórthundrað árum síðani áttu grágæs í Føroyum so væl sum aðrastaðni.</s>
+            <s>Tá menn fyrilitarleyst fóru at skjóta fuglin, doyði grágásin út her á landi.</s>
+          </p>
+          <p>
+            <s>Stovnurin hevur verið friðaður seinnu árini og tí ment seg so nógv, at nakrir bóndur hava havt trupulleikar, tí gæsnar hava etið ein part av grøðini.</s>
+          </p>
+          <p>
+            <s>Tá ætlanirnar hjá landsstýrismanninum at minka um stovnin vórðu kunnaðar, vísti limur í Fuglafrøðifelagnum á, at tað var út um alt mark, at almennu Føroyar ætlaðu at geva loyvi at avmarka ein fuglastovn uttan at vita, hvussu stórur stovnurin er, og uttan at kenna til ferðing og annað hjá hesum fuglastovni.</s>
+          </p>
+          <p>
+            <s>Eisini Umhvørvisstovan, fuglafrøðingur á Havstovuni umframt Føroya Fuglafrøðifelag vóru harðliga ímóti ætlanini.</s>
+          </p>
+          <p>
+            <s>Eitt, sum hesir stovnar vísa á, er, at eingin veit, hvussu nógv er til av grágás í Føroyum.</s>
+          </p>
+          <p>
+            <s>Tað er skjótt at gera av við búfuglin, um ikki neyvt eftirlit er við, hvussu nógvir fuglar verða skotnir.</s>
+            <s>Harafturat kann spurnartekin setast við, um tað ikki er etiskt og moralskt skeivt, at loyvt er at skjóta fugl um summarið, tá hesin reiðrast og hevur ungar.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-10-04">4. november 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
