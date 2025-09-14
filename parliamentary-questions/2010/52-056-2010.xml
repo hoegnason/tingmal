@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-056/2010: Ergoterapi til børn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bergtóra Høgnadóttir Joensen</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25947"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/56">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bergtóra Høgnadóttir Joensen<lb/><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um ergoterapi til børn, settur <persName>Aksel V. Johannesen, <roleName>landsstýrismanni</roleName></persName>, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvørji ergoterapeutisk tilboð eru nú til tey børn, sum hava havt gagn av einasta barnaergorterapeutiska tilboðnum í <placeName>Føroyum</placeName>?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin nakrar ítøkiligar ætlanir á barnaergoterapeutiska økinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Um ja, nær gerast tær veruleiki?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Á hvønn hátt ætlar landsstýrismaðurin at tryggja, at tann sergreinin og servitanin, sum barnaergoterapi er, ikki hvørvur?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Vit mugu nú sanna, at 100-tals børn, sum hava havt gagn av ergoterapeutiskari viðgerð, tykjast slept upp á fjall.</s>
+          </p>
+          <p>
+            <s>Enn er ikki eydnast at gera ein sáttmála millum <orgName>Heilsutrygd</orgName> og <orgName>Ergoterapeutfelagið</orgName>.</s>
+            <s>Staðfest er nú eisini, at einasta barnaergoterapeutiska tilboðið í Føroyum letur aftur.</s>
+          </p>
+          <p>
+            <s>Mannagongdin í hesum máli undrar spyrjaran stórliga.</s>
+            <s>Í 2009 fingu á leið 100 børn ergoterapeutiska viðgerð, síðani økið bleiv merkt av manglandi politiskari raðfesting, er talið minkað niður í ein triðing.</s>
+            <s>Vit hava ikki serstovnar til hesi børn, og ergoterapi var eitt av sera fáum viðgerðartilboðum til júst hesi børn.</s>
+            <s>Í løtuni er líkt til, at hesi børnini missa eitt av fáu viðgerðartilboðunum, vit hava.</s>
+            <s>Bæði børn og foreldur kenna sviðan, og hetta fer at ávirka lívsdygdina hjá fleiri hundraðtals føroyingum.</s>
+          </p>
+          <p>
+            <!-- TODO: fix these bullet points -->
+            <seg>Børnini sum higartil hava havt gagn av ergoterapeutiskari viðgerð, eru serliga børn sum:
+                <lb/>
+                • eru spastisk lamin
+                <lb/>
+                • eru fjølbrekað
+                <lb/>
+                • hava Downs Syndrom
+                <lb/>
+                • hava sansaintegrasjónstrupulleikar: Eru t.d. órólig, aggressiv, hyperaktiv, inniloka
+                <lb/>
+                • hava niðursettan munn- og andlitsmotorikk</seg>
+          </p>
+          <p>
+            <s>Barnaergoterapi er eitt sergreinaøki, sum ergoterapeutar fáa førleika til eftir drúgvar royndir, skeið, lesnað og vitan frá serfrøðingum.</s>
+            <s>Vandi er nú fyri, at henda servitanin verður spjædd í allar ættir – ein stórur missur fyri børn, familjur teirra og fakligu førleikarnar hjá ergoterapeutunum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Løgtingi</name>, tann <br/><date when="2011-02-08">8. februar 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bergtóra Høgnadóttir Joensen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
