@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-076/2010: Skipsskjøl fyri bátar og skip millum 5 og 20 BRT, ið eru skrásett í Føroyum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25991"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/76">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi skipsskjølum fyri bátar og skip millum 5 og 20 BRT, ið eruskrásett í Føroyum settur Kaj Leo Holm Johannesen,virkandi landstýrismanni í fiskivinnumálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landstýrismaðurin upplýsa, um siglingarbræv (Fartcertifikat) krevst?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Eru krøvini frá Skipaeftirlitinum, sambært løgtingslóg um bjargingarútgerð á opnum bátum og førum undir 20 tons (BT) § 1, stk. 2, standardkrøv? Eru hesi lýst og hvør hevur ábyrgdina av eftirlitinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Eru somu herdu krøvini frá Skipaeftirlitinum til smærri fiskifør, galdandi í grannalondunum?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar :</head>
+          <p>
+            <s>Krøvini til smærri fiskifør eru økt munandi.</s>
+            <s>Umframt kravda eldsløkkjaran, verður nú kravt eldsløkkjaraskipan, snarlás til øll sjógvinntøk, vc við tanga, fyri at nevna nøkur av nýggju krøvunum.</s>
+            <s>Talan er um stórar íløgur fyri bátaeigaran, ið kunna koma upp í einar 150 til 200 túsund krónur.</s>
+          </p>
+          <p>
+            <s>Tá <orgName>Vaktartænastan</orgName> fremur eftirlit, verða hesi framd eftir galdandi lógaráseting, sum eisini stendur lýst til vegleiðingar í álmanakkanum.</s>
+            <s>Har eru krøvini, ið <orgName>Skipaeftirlitið</orgName> nú setur, ikki nevnd.</s>
+          </p>
+          <p>
+            <s>Tað er tí sera týdningarmikið at fáa staðfest, um siglingarbræv krevst fyri nevnda skipabólk og um <orgName>Skipaeftirlitið</orgName> hevur heimild at áleggja útróðrarbátum hesar skyldur.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-04-18">18. apríl 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
