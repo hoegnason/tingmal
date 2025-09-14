@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-016/2011: Hjáveiðiprosent</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28481" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/16">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hjáveiðiprosent, settur Johan Dahl, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin útgreina, hví hann, hóast Fiskivinnuráðið frámælti, av sínum eintingum hækkaði hjáveiðiprosentið hjá teimum, sum fiska makrel, úr 5 upp í 12%?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Tá skip liggja við kai, tí tey hava mist fiskiloyvi ávíst tíðarskeið fyri brot á hjáveiðihámarkið 5%, heldur landsstýrismaðurin so, at hesi revsaðu skipini eru javnstillað, um onnur brádliga við einari kunngerð kunnu hava upp til 12% hjáveiðu?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Heldur landsstýrismaðurin, at hækkanin av hjáveiðiprosentinum fylgir lívfrøðiligu ásetingunum um burðardygga veiðu, sum “Makrelsamgongan” hevur undirskrivað?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur landsstýrismaðurin ikki ein habilitetstrupulleika, tá ið hann ásetir og lýsir hesa kunngerð og fyrr hevur víst til, at hann vegna gegnistrupuleika ikki kundi viðgera umsókn frá sama reiðaríi, sum nú fær ágóðan av broyttu kunngerðini?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Er tað rætt, at eitt fiskiloyvi í bólki 5 kann vera grundarlagið fyri at uppkeypa størsta partin av makrelinum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Um høvuðsendamálið við søluni er, at fáa mest møguligar pengar í almenna kassan, hví ikki opna hurðina á víðan vegg og selja beinleiðis til útlendingar, tá fullvitan er um, at tað eru útlendingar, sum standa aftanfyri?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at broyta ásetingarnar í § 7 í lógini um vinnuligan fiskiskap, har kravið um, at útlendingar hægst kunnu eiga ein triðing í føroyskum fiskiskipum, verður slept?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hvørjum verður økta hjáveiðiprosentið av sild lutað burturav?</s>
+              <s>Verður nøgdin mótroknað næsta ár, og hvør verður avleiðingin fyri skipabólkarnar, sum eru í pelagisku vinnuni?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Kann landsstýrismaðurin útgreina møguligar avleiðingar av makrelfiskiskapinum, nú samráðast skal um fiskiveiðiavtalur við onnur lond?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s>Uppboðssøluprísurin er kunnugur, men ber til at fáa eina uppgerð yvir kostnaðin, havandi í huga og mótvegis ongari fiskiveiðiavtalu við Noreg og ES, nógv lægri avreiðingarprísur fyri makrelin, arbeiðsloysi á flakavirkjum, tí trolarar veiða makrel og sild etc.?</s>
+            </item>
+            <item xml:id="q11" type="question-item">
+              <s>Finst ein uppgerð fyri, hvussu nógv føroysk arbeiðspláss makrelvertíðin hevur givið, og hvussu nógvur peningur liggur eftir í føroyska samfelagnum í ár samanborið við 2010?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Ongantíð áður er so nógvur makrelur veiddur “av føroyingum” sum í ár, væntandi áleið 150 túsund tons.</s>
+            <s>Hetta skuldi verið ein sólskinssøga, men nógvir ivaspurningar eru av røttum reistir í hesum sambandi.</s>
+          </p>
+          <p>
+            <s>Breið semja var í politisku skipanini um, at føroyingar ikki longur skuldu góðtaka, at vit bert fingu sløk 5% av makrelkvotuni, men at henda skuldi vera áleið 15%.</s>
+            <s>Seinni gjørdu umboð fyri Javnaðarflokkin, Sambandsflokkin, Tjóðveldi og Framsókn eina langtíðaravtalu um fiskivinnupolitikkin.</s>
+            <s>Ein høvuðstáttur í hesi avtalu er útlutanin av loyvum at fiska makrel, uppboðsølan/fiskidagabúðin og ein stórur niðurskurður av fiskidøgum, sum heilt og fult skal fylgja tilmælunum frá Havstovuni og ICES.</s>
+          </p>
+          <p>
+            <s>Nógv hevur verið gjørt burtur úr royndunum við uppboðssøluni, har meir enn dupult so nógv fekst fyri makrelin, sum landsstýrið annars hevði roknað við.</s>
+            <s>Sera væleydnað sigur løgmaður, ein sólskinssøga hevur skoðsmálið frá landsstýrismanninum verið um hesar fyrstu royndirnar; ein stór skandala siga onnur.</s>
+          </p>
+          <p>
+            <s>Eitt er vist, í mun til nøgdina av makreli, sum er veidd, er ivasemi stórt, hvussu nógv økta veiðan er komin føroyska samfelagnum til góðar.</s>
+            <s>At útlendsk skip og manning í so stóran mun hava luttikið í fiskiskapinum og tilvirkanini er óheppið fyri okkum, tá vit skulu til samráðingar.</s>
+            <s>Grannar okkara, íslendingar, hava í nógv størri mun ført veiðuna til lands og virkað makrelin við íslendskari arbeiðsmegi, sum hevur givið arbeiði til nógvar hendur í vertíðini.</s>
+            <s>Høvdu móðurskipini ligið inni við land ella á firðunum, kundu nøkur av teimum 1.500 arbeiðsleysu havt arbeiði hetta tíðarskeiðið, samstundis sum betri eftirlit var við virkseminum.</s>
+          </p>
+          <p>
+            <s>Tað er fyri at fáa greiðu á hesum ivamálum, at spurningurin verður settur landsstýrismanninum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2011-09-09">9. september 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

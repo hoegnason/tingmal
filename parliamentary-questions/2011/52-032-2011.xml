@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-032/2011: Um avtalu við Suðuroyar Sparikassa um pensjónsinngjøld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kristina Háfoss</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/28515" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2011/32">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kristina Háfoss<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um avtalu við <orgName>Suðuroyar Sparikassa</orgName> um pensjónsinngjøld, settur <persName>Jørgen Niclasen, <roleName>landsstýrismannni</roleName></persName> (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hví er arbeiðið at stovna og umsita samlikontur til pensjónsinngjøld hjá øllum føroyskum løntakarum ikki útbjóðað?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hví er júst <orgName>Suðuroyar Sparikassi</orgName> valdur til at stovna og umsita samlikontur, ið øll pensjónsinngjøld í <placeName>Føroyum</placeName> verða flutt til og frá?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørjir aðrir veitarar í <placeName>Føroyum</placeName> kundu veitt somu tænastu?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er kostnaðurin, ið verður rindaður <orgName>Suðuroyar Sparikassa</orgName> fyri hesa tænastu mánaðarliga og árliga?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvør rindar henda kostnaðin?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvussu leingi er avtalan við <orgName>Suðuroyar Sparikassa</orgName> galdandi?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Samgongan valdi at hækka pensjónsskattin og fara undir at skatta pensjónir við inngjaldi heldur enn við útgjaldi <date when="2012-01-01">1. januar 2012</date>.</s>
+          </p>
+          <p>
+            <s>Hetta hóast partarnir á arbeiðsmarknaðinum, serfrøðingar í <orgName>Fíggjarmálaráðnum</orgName> og sum heild nærum øll bóðu um, at avleiðingarnar vórðu nærri lýstar, og at málið varð greinað nærri og tikið upp í sambandi við arbeiðið at gera eina pensjónsnýskipan.</s>
+          </p>
+          <p>
+            <s>Støðan í dag er, at nógv ivamál og ógreið viðurskifti eru viðvíkjandi pensjónsviðurskiftum hjá føroyingum í og uttanfyri <placeName>Føroyar</placeName>, og kenna vit framhaldandi ikki allar avleiðingarnar av broytingini yvir tíð.</s>
+          </p>
+          <p>
+            <s>Tá umræður tekniska partin av fyrisitingini av nýggju lóggávuni, so eru allir partar ikki lidnir við at menna KT til nýggju lóggávuna.</s>
+            <s>Tó kann <orgName>TAKS</orgName> taka 40% av øllum pensjónsinngjøldum við eini loysn, sum er gjørd í samstarvi við <orgName>Suðuroyar Sparikassa</orgName>.</s>
+            <s>Tí nú nýggja pensjónsskattingin er sett í verk, hevur <orgName>TAKS</orgName> gjørt avtalu við <orgName>Suðuroyar Sparikassa</orgName> um, at øll pensjónsinngjøld í <placeName>Føroyum</placeName> verða flutt á serstakar sokallaðar “samlikontur” í <orgName>Suðuroyar Sparikassa</orgName>, áðrenn hesi verða fluttar víðari til <orgName>TAKS</orgName> og onnur.</s>
+          </p>
+          <p>
+            <s>Talan er um flyting og umsiting av øllum pensjónsinngjøldum í <placeName>Føroyum</placeName> og er talan tí um eina stóra uppgávu, ið landið hevur latið privatari fyritøku at umsita.</s>
+          </p>
+          <p>
+            <s>Fyri at upplýsa málið verða hesir spurningar settir.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2012-03-01">1. mars 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kristina Háfoss</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
