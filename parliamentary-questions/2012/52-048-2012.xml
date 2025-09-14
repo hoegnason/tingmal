@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-048/2012: Húsini Eirargarður 14-16</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Hanus Samró</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30902" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/48">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Hanus Samró<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um húsini Eirargarður 14-16, settur Anniku Olsen, landsstýris- kvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvør hevur í dag ræðisrættin á húsunum Eirargarður 14-16.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Skeltið inn til høvuðsdyrnar vísir, at psykiatriski depilin hevur virksemi í húsunum.</s>
+            <s>Orð sum psykiatri og demens standa á skeltunum við høvuðsdyrnar.</s>
+            <s>Spurnartekin kann setast við, um skeltini geva rættar upplýsingar um fólkini, húsini vóru bygd til, og sum enn búgva í húsunum.</s>
+          </p>
+          <p>
+            <s>Eitt lítið, illa farið skelti sigur, at ein bústovnur er í húsunum.</s>
+            <s>Men tá vit nú vita, at eitt sambýli fyri sálarliga menningartarnað fólk húsast har, so er einki skelti, sum sigur frá tí.</s>
+            <s>Nógv av teimum, sum búgva í sambýli har, hava búð har, síðani húsini vóru bygd í 1980 sum ein bústovnur - ein pedagogiskur stovnur.</s>
+            <s>Síðan 1.1.2012 er stovnurin rikin sum sambýli.</s>
+          </p>
+          <p>
+            <s>Sum skeltið uttan fyri dyrnar vísir, so eru tað tey sálarliga sjúku fólkini, sum eru mest sjónlig í bygninginum, meðan tey sálarliga menningartarnaðu hava mist sítt rásarúm, serliga tey stóru hølini í húsinum.</s>
+          </p>
+          <p>
+            <s>Tað kann eisini setast spurnartekin við, hvussu gagnligt tað er fyri seinment fólk og sálarliga sjúk fólk at húsast undir somu lon, og um øll kunnu vera felags um mennandi tilboð og stóru hølini í húsunum.</s>
+            <s>Og hvat siga tey sjálvi, tey, ið duga og orka at seta orð á umstøðurnar, har tey búgva.</s>
+            <s>Kanska eru øll ónøgd.</s>
+          </p>
+          <p>
+            <s>Húsini Eirargarður 14-16 vóru bygd í 1980 til bústovn fyri 48 sálarliga menningartarnað fólk, 12 í hvørjari eind.</s>
+            <s>Peningurin at byggja hesi húsini fyri var bundin til júst hetta prosjektið.</s>
+          </p>
+          <p>
+            <s>Spurningurin er, hvør í dag hevur ræðisrættin á húsunum Eirargarður 14-16.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-05-02">2. mai 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Hanus Samró</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

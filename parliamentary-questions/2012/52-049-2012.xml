@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-049/2012: Luttøka Føroya í Arktiska Ráðharraráðnum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30904" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/49">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Høgni Hoydal<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Johannesen, løgmanni (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Eru Føroyar umboðaðar sum land í egnum navni á ráðharrafundunum hjá Arktiska Ráðharraráðnum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu eru Føroyar umboðaðar í Arktiska Ráðharraráðnum í løtuni – og er ein broyting farin fram, síðani Svøríki tók við formansskapinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hví er Uttanlandsnevndin hjá Løgtinginum ikki kunnað um broytingarnar í umboðan Føroya, og hví hevur løgmaður ikki ráðført seg við nevndina um hetta?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvør er leiklutur løgmans á ráðharrafundinum í Kiruna, Svøríki, 15. mai 2013?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Fer løgmaður at taka nakað stig – eins og Grønland júst hevur gjørt – til tess at mótmæla, at Føroyar ikki taka lut í egnum navni á ráðharrafundunum og til tess at vinna frama fyri egnari luttøku?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Arktiska Ráðharraráðið hevur fund í Kiruna í Svøríki í hesum døgum.</s>
+            <s>Sambært tíðindaskrivi frá Løgmansskrivstovuni tekur løgmaður lut á fundinum.</s>
+          </p>
+          <p>
+            <s>Men 14. mai 2013 hevur grønlendska landsstýrið boðað frá, at tey taka ikki lut á fundinum til tess at mótmæla, at Grønland ikki kann taka lut í egnum navni.</s>
+          </p>
+          <p>
+            <s>Sambært grønlendska landsstýrinum er tann siðvenja broytt, at bæði Grønland og Føroyar hava kunnað tikið lut á fundunum i Arktiska Ráðharraráðnum undir egnum navni.</s>
+            <s>Nú er eftir øllum at døma bert Danmark formliga umboðað á fundinum, og Grønland vil ikki góðtaka hetta.</s>
+          </p>
+          <p>
+            <s>Uttanlandsnevndin hjá Løgtinginum er als ikki kunnað um, at broytingar eru farnar fram í umboðan Føroya - og málið er als ikki viðgjørt politiskt sum í Grønlandi.</s>
+          </p>
+          <p>
+            <s>Tí er spurningurin til løgmans, hvør leiklutur løgmans er á hesum fundum og á fundinum í Kiruna 15. mai 2013.</s>
+          </p>
+          <p>
+            <s>Og ætla løgmaður og føroyska landsstýrið at gera sum Grønland og krevja viðurkenning og egnan leiklut - ella er løgmaður við í kiruna sum danskt embætisfólk?</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-05-15">15. mai 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
