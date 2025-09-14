@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-078/2010: Næmingarnir á Rásini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/25995"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2010/78">
+        <pb n="1"/>
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur viðvíkjandi næmingunum á Rásini, settur Rósu Samuelsen, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landstýriskvinnan upplýsa, um nakrar ætlanir eru fyri framhaldandi tilboðum, til teir næmingar, sum nú ganga á Rásini, tá teirra skúlagongd endar á jólum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur samskifti verið millum landsmyndugleikarnar og Runavíkar/ ella aðrar kommunur, um framtíðar bústaðarloysn fyri teimum næmingum, sum við skúlatilboðnum betri eru førir fyri at klára seg sjálvar í egnari íbúð?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Kann landstýriskvinnan útgreinað, hvørjar møguleikar hon sær fyri eini skjótari og góðari loysn?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Á jólum er skúlagongdin á Rásini liðug.</s>
+            <s>Næmingarnir, sum hava gjørt brúk av hesum tilboð, skulu nú til at finna sær ein bústað og ”seta føtur undir egið borð”.</s>
+          </p>
+          <p>
+            <s>Tað er ein samfelagskylda, at vit tryggja teimum minni mentu borgarum okkara eitt gott bústaðartilboð.</s>
+            <s>Somuleiðis eiga tey at fáa avbjóðingar, sum svara til teirra møguleikar og førleika, til tess at lívið kann verða ríkt, gevandi og mennandi.</s>
+          </p>
+          <p>
+            <s>Landstýriskvinnan skal hava rós fyri, at hon nú velur at fara burtur frá fyribilsloysnum, við gomlum umbygdum sethúsum, tá talan er um virksemi fyri fjølbrekaði børn, men at hon í staðin velur at byggja nýtt, samsvarandi neyðuga tørvinum. Hesin spurningurin verður tí reistur fyri at fáa greiðu á, um tey ungu við skerdum førleika, sum eru nevnd omanfyri, eisini fara at fáa eitt nøktandi bústaðartilboð.</s>
+          </p>
+          <p>
+            <s>Mær er sagt, at fimm av teimum sjey næmingunum á Rásini, saman við øllum teimum sjey, sum búgva við Leitisveg, kundu hugsað sær at búleikast í einum búfelagskapi í Runavík, har tey høvdu sína egnu íbúð.</s>
+          </p>
+          <p>
+            <s>Tí skuldi tað verið sjálvsagt, at land og kommuna í felag tosaðu saman, til tess at finna eina góða og varandi loysn á hesum álvarsmáli.</s>
+          </p>
+        </div>
+        <pb n="2"/>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á løgtingi</name>, <br/><date when="2011-05-11">11. mai 2011</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
