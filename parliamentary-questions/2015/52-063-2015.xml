@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-063/2015: Hækkaði tinglýsingargjøld</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bjørn Kalsø</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37209"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/63">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørn Kalsø<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hækkaði tinglýsingargjøld, settur <persName>Kristinu Háfoss, <roleName>landsstýrismanni</roleName></persName> (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv verður mett, at tinglýsingargjøldini fara at geva landskassanum í inntøkum í 2016 í mun til árini frammanundan?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu stórur partur av møguligum meirinntøkum í tinglýsingargjøldum standast av hækkingini, sum samgongan legði omaná rokningina undan ársskiftinum?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Verður arbeitt við at hækka tinglýsingargjøldini uppaftur meir?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            Í 2008 tvífaldaði <orgName>CHE-samgongan</orgName> tinglýsingargjøldini.
+          </p>
+          <p>
+            <s>Nú Javnaðarfolkkurin og Tjóðveldi, hesaferð saman við Framsókn, aftur umsita avgjaldspolitikkin, er tikið til somu vápn.</s>
+            <s>Tinglýsingargjøldini hava enn einaferð fingið eitt trivaligt gypp uppeftir.</s>
+          </p>
+          <p>
+            <s>Tá almenni útreiðsluvøksturin spolar avstað við førda politikkinum, hava samgonguflokkarnir valt at leggja eina røð av eyka avgjøldum á borgarar og vinnulív í eini roynd at fíggja ein part av útreiðslugildinum.</s>
+          </p>
+          <p>
+            <s>Eitt av hesum hækkaðu avgjøldum eru tinglýsingargjøldini, sum eisini vóru hækkaði undir <orgName>CHE</orgName>.</s>
+            <s>Telja vit hesa hækking við, kann sigast at ”stóru” samgonguflokkarnir, hava verið við til at ferfalda tinglýsingargjøldini í eini handavend.</s>
+            <s>Hóast hesir somu ferð eftir ferð hava lovað at gera tað lættari hjá fólki, eitt nú at seta føtur undir egið borð.</s>
+          </p>
+          <p>
+            <s>Nú árið er hálvrunnið, verður tí spurt, hvussu hevur hilnast við innkrevjingini?</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2016-06-16">16. juni 2016</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bjørn Kalsø</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
