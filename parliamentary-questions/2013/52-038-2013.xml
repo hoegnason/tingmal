@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-038/2013: Hvørji fólk skulu hava bústað á nýggja sambýlinum fyri sálarsjúk, sum verður bygt í Havn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-13" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Sirið Stenberg</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/33102" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2013/38">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Sirið Stenberg<lb /><roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hvørji fólk skulu hava bústað á nýggja sambýlinum fyri sálarsjúk, sum verður bygt í Havn, settur Anniku Olsen, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Verða tað tey fólkini, sum í dag búgva á Psykiatriska Deplinum, sum skulu fáa fast búpláss á nýggja sambýlinum í Havn?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Í áratíggju hava vit sum samfelag ikki megnað at útvegað teimum sálarsjúku, sum eru fastbúgvandi á Psykiatriska Deplinum, egnan bústað.</s>
+            <s>Hetta man vera ringa samvitskan hjá allari politisku skipanini.</s>
+            <s>Tí var tað sera gleðiligt, tá ið samtykt varð at byggja sambýlið, sum var tilætlað júst hesum menniskjum.</s>
+          </p>
+          <p>
+            <s>Tí undrar tað ikki sørt, tá ið landsstýriskvinnan í almannamálum í miðlunum vísir á, at tað ikki er víst, at tey fastbúgvandi á Psykiatriska Deplinum fáa framíhjá rættindi til búpláss á sambýlinum, og opnar upp fyri, at onnur fólk møguliga kunnu fáa pláss.</s>
+            <s>Tá ið Løgtingið samtykti at byggja sambýli í Havn til fólk við sálarsjúku, var tað við tí í hyggju at útvega teimum fólkum, sum í áravís hava verið fastbúgvandi á Psykiatriska Deplinum eitt varandi heim.</s>
+          </p>
+          <p>
+            <s>Tey sálarsjkúku fólkini, sum búgva á Psykiatriska Deplinum, hava verið við sviðusoð í samfelagnum.</s>
+            <s>Loksins tykist ætlanin at útvega hesum fólkum eitt bútilboð vera komin í fasta legu.</s>
+            <s>Tí undrar tað stórliga, og man ikki kennast sørt ørkymlandi fyri tey fólk, tað rakar, tá ið landsstýriskvinnan nú í tólvta tíma setir spurnartekin við, hvør skal hava búplássini á sambýlinum.</s>
+          </p>
+          <p>
+            <s>Tí verður hesin spurningur settur landsstýriskvinnuni at svara skrivliga fyri at fáa greiðu á, um trygd kann fáast fyri, um tey fastbúgvandi fólkini á Psykiatriska deplinum, nú endiliga fáa sítt egna heim- ella ikki.</s>
+            <lb />
+            <seg>Tjóðveldi</seg>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2014-02-27">27. februar 2014</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Sirið Stenberg</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
