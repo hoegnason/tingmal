@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-013/2015: Útgjald úr Samhaldsfasta</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/37103"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2015/13">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um útgjald úr Samhaldsfasta, settur Kristinu Háfoss, landsstýriskvinnu (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógvir persónar, sum búgva uttanlands, fáa útgoldið úr Samhaldsfasta?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu verður ávirkanin á inngjald/útgjald úr Samhaldsfasta, tá grunnurin, sum skuldi verða ískoyti til pensjónina, nú verður tann berandi grundstuðulin?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Fara allir pensjónistar, sum í dag fáa útgjald úr Samhaldsfasta, at fáa sama ágóða av hækkingini?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørji stig fer landsstýriskvinnan at taka, til tess at greiða mismunin millum pensjón og Samhaldsfasta, tá føroyingar, sum hava arbeitt í Grønlandi ella Danmark, venda heimaftur at búgva og eru fyri vanbýti?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Er tað almennu Føroyar, sum eiga Samhaldsfasta og hava ræðisrættin, ella eru tað partarnir á arbeiðsmarknaðinum?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Um arbeiðsmarknaðurin eigur Samhaldsfasta, og politiska skipanin áleggur stýrinum, hvat skal útgjaldast, og fráboðar, at hereftir skal pensjónin í størri mun liggja uttanfyri landskassan og gjaldast av arbeiðsmarknaðinum, er talan tá ikki um ognartøku av grunninum?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Er nakar møguleiki fyri, at samgongan tekur uppskotið um lækking av grundupphæddini í fólkapensjónini aftur og bíðar, til fráboðaða breiða semjan er veruleiki á ólavsøku 2016?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+            <head rend="bold">Viðmerking til spurning 4:</head>
+            <p>
+                <s>Um føroyingur hevur búð í Danmark ella Grønlandi og flytir heim til Føroya at búgva, eru ongir trupulleikar sambært galdandi pensjónskipan.</s>
+                <s>Brotpensjón er ikki galdandi innan fyri ríkið, so tískil fær viðkomandi fulla fólkapensjón eftir føroyskari lóggávu.</s>
+                <s>Fyri at fáa fult útgjald úr Samhaldsfasta krevst hinvegin, at ein hevur verið 40 ár á føroyska arbeiðsmarknaðinum, tí at brotpensjón er galdandi fyri samhaldsfasta innan fyri ríkisfelagsskapin.</s>
+                <s>Hevur ein t.d. búð og arbeitt 20 ár uttanlands, fær viðkomandi bert hálvt gjald úr samhaldsfasta.</s>
+                <s>Hetta er eisini galdandi fyri persónar, sum hava goldið fult gjald til grunnin, síðan hesin varð stovnaður í 1991.</s>
+            </p>
+            </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2015-12-09">9. desember 2015</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári P. Højgaard</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
