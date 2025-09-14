@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-036/2012: Ættleiðing</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Pauli Petersen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30866" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/36">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Pauli Petersen<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um ættleiðing, settur Karsten Hansen, landsstýrismanni í heilsumálum, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at seta á stovn sokallað ættleiðingar- ambulatorium í Føroyum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hevur landsstýrismaðurin ætlanir um at seta fyriskipan í verk, so at ættleidd børn, ið koma til Føroya, fáa tilboð til serstakar kanningar á Landssjúkrahúsinum?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Fyri nøkrum árum síðan læt Ríkissjúkrahúsið upp eitt Ættleiðingarambulatorium.</s>
+            <s>Ættleiðingarforeldur fáa har ráðgeving og eina einstaka meting og kanning av ættleidda barninum.</s>
+          </p>
+          <p>
+            <s>Hetta ambulatorium er opið ein dag um vikuna.</s>
+            <s>Tá foreldur hava ættleitt, bjóðar ættleiðingarambulatoriið: <lb /> • Infektiónspædiatriska meting <lb /> • Neuropædiatriska meting <lb /> • Vakstrar- og menningar meting, somuleiðis endokrinologiska meting <lb /> • Føðslumeting og kostvegleiðing, møguliga menningar-sálarfrøðiliga meting <lb /> • Sálarliga/Námsfrøðiliga frágreiðing</s>
+          </p>
+          <div>
+            <head rend="bold">Viðmerkingar</head>
+            <p>
+              <s>Foreldur at ættleiddum børnum kunnu koma út fyri, at barn teirra hevur onkra sjúku, tá tey fáa tað.</s>
+              <s>Hetta kann t.d. vera maga- ella tarmígerð, snúltarar, livrabruni, ella kann ivi vera um menningina hjá barninum.</s>
+            </p>
+            <p>
+              <s>Ivi kann eisini vera um, hvørjar vaksinatiónir barnið hevur fingið.</s>
+              <s>Tað kann verða ringt hjá kommunulæknanum at greina hesar sjúkur/eyðkenni, ið vit ikki síggja so ofta í Føroyum.</s>
+            </p>
+            <p>
+              <s>Tí kundi Barnadeildin á Landssjúkrahúsinum gjørt hesar kanningar.</s>
+              <s>Ríkisumboðið kundi givið boð til Barnadeildina, tá eitt ættleitt barn kemur til Føroya, síðan kundi Barnadeildin bjóða foreldrum hesar kanningar av barni teirra.</s>
+            </p>
+            <p>
+              <s>Tað skuldi ikki staðist eyka kostnaður av hesum, eftirsum at Barnadeildin kundi fyriskipa hetta.</s>
+              <s>Tó hevði hetta gjørt stóran mun hjá ættleiðingarforeldrum.</s>
+              <s>Vónandi sæer landsstýrismaðurin týdningin av hesum og fer at virka fyri, at slík fyriskipan verður sett í verk í Føroyum.</s>
+            </p>
+          </div>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-03-19">19. mars 2013</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Pauli Petersen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
