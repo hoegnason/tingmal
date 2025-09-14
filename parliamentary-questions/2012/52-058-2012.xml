@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-058/2012: Hvussu líður við arbeiðinum at áseta eitt føroyskt fátækramark</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-09-14" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jenis av Rana</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/30922" />
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2012/58">
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Jenis av Rana<lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um hvussu líður við arbeiðinum at áseta eitt føroyskt fátækramark), settur Anniku Olsen, landsstýriskvinnu, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu líður við arbeiðinum at áseta eitt føroyskt fátækramark?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Hin 24. februar 2011 legði Miðflokkurin uppskot fyri Løgtingið um ásetan av einum føroyskum fátækramarki.</s>
+            <s>Knappar tríggjar mánaðir seinni, hin 13. mai, samtykti tingið álitið frá Trivnaðarnevndini, og ein arbeiðsbólkur av serkønum varð settur at útgreina, hvat í minsta lagi skal til hjá einum húsarhaldi, fyri at kunna hava sámilig livikor.</s>
+            <s>Hetta arbeiði skuldi so verða grundarlagið undir einum lógaruppskoti at leggja fyri Løgtingið.</s>
+          </p>
+          <p>
+            <s>Ætlanin varð, at nevndararbeiðið skuldi vera liðugt 1. apríl 2013, og hesin dagur er fleiri ferðir váttaður av landsstýriskvinnuni.</s>
+            <s>Men nú vit eru komin væl inn í juni mánað, er enn einki frætt frá nevndini.</s>
+          </p>
+          <p>
+            <s>Í mongum londum verður miðvíst arbeitt fyri at staðfesta og loysa hendan stóra trupulleikan.</s>
+            <s>Nevnast skal, at í USA verður mett, at heili $15 %$ av íbúgvunum liva undir fátækramarkinum, og er hetta tal enntá vaksandi.</s>
+            <s>Í Danmark hevur ein serfrøðinganevnd júst lagt seinastu hond á sítt arbeiði, og áseta tey, at tú er fátækur, um tú í trý ár hevur livað fyri eina upphædd, sum er helvtin av einari meðalinntøku.</s>
+            <s>Útfrá hesi definitión liva 42.000 danir undir fátækramarkinum, tí hesi hava eina inntøku minni enn 103.200 kr árliga ( aftaná skatt ).</s>
+          </p>
+          <p>
+            <s>Umráðandi er, at vit fáa greið tøl á borðið, so politiski myndugleikin, heldur enn aftur og aftur at krógva seg aftan fyri manglandi tøl, kann fara miðvíst til verka við politiskum átøkum við tí endamáli at minka um og fáa burtur fátækradømið í Føroyum, einum av heimsins ríkastu londum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2013-06-12">14. juni 2012</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Jenis av Rana</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
