@@ -56,6 +56,35 @@ The summary below was **computed from `sentences.jsonl`**, a sentence-level JSON
 | 5-95% sentence length (tokens) | 7-39 |
 | Avg. sentence length (characters) | 127.4 |
 
+
+### Coverage of Parliamentary Questions
+
+The table below reports yearly coverage of parliamentary questions - currently limited to §52a - by comparing the number of TEI/XML records present in this repository with the official yearly totals.
+These figures are computed from the files under **`parliamentary-questions/<YEAR>/`** using the script in `utils/section52a_coverage.py`. 
+
+
+| Year | Collected | Official total | Coverage | Missing |
+|:----:|----------:|---------------:|---------:|--------:|
+| 2008 |         0 |             39 |     0.0% |      39 |
+| 2009 |        50 |            115 |    43.5% |      65 |
+| 2010 |        85 |             85 |   100.0% |       0 |
+| 2011 |        46 |             46 |   100.0% |       0 |
+| 2012 |        60 |             60 |   100.0% |       0 |
+| 2013 |        66 |             66 |   100.0% |       0 |
+| 2014 |       108 |            108 |   100.0% |       0 |
+| 2015 |        71 |             71 |   100.0% |       0 |
+| 2016 |        76 |            100 |    76.0% |      24 |
+| 2017 |        24 |             86 |    27.9% |      62 |
+| 2018 |        31 |             88 |    35.2% |      57 |
+| 2019 |        43 |            120 |    35.8% |      77 |
+| 2020 |        79 |            169 |    46.7% |      90 |
+| 2021 |       222 |            222 |   100.0% |       0 |
+| 2022 |       135 |            135 |   100.0% |       0 |
+| 2023 |       141 |            141 |   100.0% |       0 |
+| 2024 |       119 |            119 |   100.0% |       0 |
+
+**Totals:** Collected **1,356** of **1,770** (overall coverage **76.6%**). *Note:* these figures currently exclude regular written and oral parliamentary questions; those will be added in a later release.
+
 ## Contributing
 Issues and pull requests are welcome. Please open an issue to discuss substantial changes.
 
