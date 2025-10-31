@@ -42,6 +42,20 @@ Under the following terms:
 
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
+## Stats
+The summary below was **computed from `sentences.jsonl`**, a sentence-level JSONL file with fields `id` and `text`. It contains only **full, deduplicated sentences** where formatting such as bullet points, ordinal list numbers, and legal section symbols (§) has been removed. Sentence segmentation has been reviewed by a Faroese native speaaker.
+
+
+| Metric | Value |
+|:---|---:|
+| Sentences | 23,664 |
+| Tokens (space-split) | 463,313 |
+| Types (unique tokens, case-folded) | 49,998 |
+| Avg. sentence length (tokens) | 19.58 |
+| Median sentence length (tokens) | 18 |
+| 5-95% sentence length (tokens) | 7-39 |
+| Avg. sentence length (characters) | 127.4 |
+
 ## Contributing
 Issues and pull requests are welcome. Please open an issue to discuss substantial changes.
 
