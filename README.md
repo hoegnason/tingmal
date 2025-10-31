@@ -31,21 +31,21 @@ The repository is organized into the following directories:
 ```
 tingmal/
 ├── parliamentary-questions/   # Parliamentary questions organized by year (2008-2025)
-│   └── YYYY/                 # Each year contains XML files named: 52-NNN-YYYY.xml
-├── legislation/              # Laws, guidelines, and procedural rules
-│   └── loegtingid/          # Parliament-specific regulations and procedures
-├── proposals/               # Legislative proposals organized by year
-├── reports/                 # Committee reports organized by year
-├── decisions/               # Administrative decisions from various bodies
-├── coalition-agreements/    # Government coalition agreements
-├── misc/                    # Miscellaneous documents
-├── utils/                   # Python utilities for data processing
+│   └── YYYY/                     # Each year contains XML files named: 52-NNN-YYYY.xml
+├── legislation/               # Laws, guidelines, and procedural rules
+│   └── loegtingid/               # Parliament-specific regulations and procedures
+├── proposals/                 # Legislative proposals organized by year
+├── reports/                   # Committee reports organized by year
+├── decisions/                 # Administrative decisions from various bodies
+├── coalition-agreements/      # Government coalition agreements
+├── misc/                      # Miscellaneous documents
+├── utils/                     # Python utilities for data processing
 │   ├── compute_stats.py          # Generate statistics from sentences.jsonl
-│   ├── section52a_coverage.py   # Compute parliamentary question coverage
+│   ├── section52a_coverage.py    # Compute parliamentary question coverage
 │   ├── detect_gaps.py            # Detect gaps in question numbering
 │   ├── export_ids.py             # Export and manage sentence IDs
 │   └── id_utils.py               # Generate unique base32 IDs
-└── sentences.jsonl          # Deduplicated sentence-level dataset (23,664+ sentences)
+└── sentences.jsonl            # Deduplicated sentence-level dataset (23,664+ sentences)
 ```
 
 **Key files:**
@@ -185,15 +185,6 @@ with open('sentences.jsonl', 'r', encoding='utf-8') as f:
     for line in f:
         obj = json.loads(line)
         print(f"ID: {obj['id']}, Text: {obj['text'][:50]}...")
-```
-
-#### Reading JSONL in Other Languages
-
-```bash
-# Command line tools
-jq '.text' sentences.jsonl              # Extract all text fields
-grep '"id": "woyjvu7qcg"' sentences.jsonl  # Find specific sentence
-wc -l sentences.jsonl                   # Count sentences
 ```
 
 ## Processing Pipeline
