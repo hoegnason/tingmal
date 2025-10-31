@@ -19,11 +19,12 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-
+import argparse
 from pathlib import Path
 from typing import Iterator
 from lxml import etree
 from id_utils import generate_b32_id
+import json
 
 def xml_files(root: str | Path) -> Iterator[Path]:
     root = Path(root)
@@ -31,6 +32,58 @@ def xml_files(root: str | Path) -> Iterator[Path]:
         # robust across case-sensitive (Linux) and case-insensitive (macOS) filesystems
         if p.is_file() and p.suffix.lower() == ".xml":
             yield p
+
+
+def parse_sentences_for_extraction(filepath) -> list[tuple[str, str]]:
+    # Parse with a parser that preserves whitespace
+    parser = etree.XMLParser(remove_blank_text=False,
+                             remove_comments=False,
+                             strip_cdata=False)
+
+    # Read the file
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # Parse the XML
+    tree = etree.fromstring(content.encode('utf-8'), parser)
+
+    results = []
+
+    # Define namespace map
+    namespaces = {
+        'xml': 'http://www.w3.org/XML/1998/namespace',
+        'tei': 'http://www.tei-c.org/ns/1.0'
+    }
+
+    # Find elements and add xml:id
+    ## for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
+    for element in tree.xpath('//tei:s[@xml:id]', namespaces=namespaces):
+
+        found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
+
+        xml_lang = element.get('{http://www.w3.org/XML/1998/namespace}lang')
+
+        if found_id is not None and len(found_id) == 10:
+
+            if xml_lang == 'da':
+                continue
+
+            element_text_content = element.xpath('string()')
+
+            if element_text_content is not None:
+
+                results.append((found_id, " ".join(element_text_content.strip().split())))
+
+    # # Write back with minimal changes
+    # result = etree.tostring(tree,
+    #                        encoding='unicode',
+    #                        pretty_print=False,
+    #                        method='xml')
+    #
+    # with open(filepath, 'w', encoding='utf-8') as f:
+    #     f.write(result)
+
+    return results
 
 
 def parse_sentences(filepath) -> list[str]:
@@ -147,12 +200,67 @@ def do_work(target_file: str):
 
     add_ids_to_file(target_file, used_ids)
 
-def main():
-
-    relevant_files = xml_files("/home/rani/Repositories/tingmal/parliamentary-questions/2024")
+def process_files(relevant_files_path):
+    # relevant_files = xml_files("/home/rani/Repositories/tingmal/parliamentary-questions")
+    # relevant_files = xml_files("/home/rani/Repositories/tingmal/decisions")
+    relevant_files = xml_files(relevant_files_path)
 
     for relevant_file in relevant_files:
         do_work(str(relevant_file))
 
+    # do_work("/home/rani/Repositories/tingmal/legislation/vegleiding_til_standard_leigusattmalan.xml")
+    # do_work("/home/rani/Repositories/tingmal/decisions/datueftirlitid.xml")
+
+    # return
+
+    # relevant_files = xml_files("/home/rani/Repositories/tingmal/proposals/2006")
+    #
+    #### for relevant_file in relevant_files:
+        #### do_work(str(relevant_file))
+
+    sentences = []
+
+    for file in xml_files("../"):
+        output = parse_sentences_for_extraction(file)
+
+        for item in output:
+            sentences.append(item)
+
+    results: list[dict[str, str]] = []
+
+    for item in sentences:
+
+        formatted = {
+            'id': item[0],
+            'text': item[1],
+        }
+
+        results.append(formatted)
+
+    seen_sentences = set()
+    deduplicated_sentences: list[dict[str, str]] = []
+
+    # Or if you want case-insensitive sorting:
+    results = sorted(results, key=lambda x: x['text'].lower())
+
+    for sentence in results:
+        if sentence['text'] not in seen_sentences:
+            deduplicated_sentences.append(sentence)
+            seen_sentences.add(sentence['text'])
+
+    with open('../sentences.jsonl', 'w') as f:
+
+        for result in deduplicated_sentences:
+
+            f.write(json.dumps(result) + '\n')
+
+
+
 if __name__ == "__main__":
-    main()
+    # process_files("/home/rani/Repositories/tingmal/coalition-agreements")
+    process_files("/home/rani/Repositories/tingmal/decisions")
+    # process_files("/home/rani/Repositories/tingmal/legislation")
+    # process_files("/home/rani/Repositories/tingmal/misc")
+    # process_files("/home/rani/Repositories/tingmal/parliamentary-questions")
+    # process_files("/home/rani/Repositories/tingmal/proposals")
+    # process_files("/home/rani/Repositories/tingmal/reports")
