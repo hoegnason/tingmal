@@ -368,7 +368,7 @@ Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 ## Stats
-The summary below was **computed from `sentences.jsonl`**, a sentence-level JSONL file with fields `id` and `text`. It contains only **full, deduplicated sentences** where formatting such as bullet points, ordinal list numbers, and legal section symbols (§) has been removed. Sentence segmentation has been reviewed by a Faroese native speaaker.
+The summary below was **computed from `sentences.jsonl`**, a sentence-level JSONL file with fields `id` and `text`. It contains only **full, deduplicated sentences** where formatting such as bullet points, ordinal list numbers, and legal section symbols (§) has been removed. Sentence segmentation has been reviewed by a Faroese native speaker.
 
 
 | Metric | Value |
