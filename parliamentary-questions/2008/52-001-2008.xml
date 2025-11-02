@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-001/2008: Um tunnil til Vestmannar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20370" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2008-11-19"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/1">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur settur Anniku Olsen, landsstýrismanni, um tunnil til Vestmannar <lb />(at svara skrivliga eftir TS §a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi, <lb /><roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <label>1.</label>
+            <item xml:id="q1" type="question-item">
+              <seg>Kann landsstýrismaðurin greiða frá, hvørja raðfesting tunnil til Vestmannar hevur í samferðsluætlanini, herundir:</seg>
+              <list type="ordered">
+                <label>a.</label>
+                <item xml:id="q1a" type="question-item">
+                  <s>Hvørja leið og hvørja longd heldur landsstýrismaðurin mest ráðiligar, tá ið ræður um tunnil til Vestmannar?</s>
+                </item>
+
+                <label>b.</label>
+                <item xml:id="q1b" type="question-item">
+                  <s>Hvussu stórar nøgdir av fiski, fiskaframleiðslu og aðrari vinnuframleiðslu umframt ferðslu annars úr Vestmanna metir landsstýrismaðurin mugu førast um Høgareyn?</s>
+                </item>
+
+                <label>c.</label>
+                <item xml:id="q1c" type="question-item">
+                  <s>Hvussu stórar rakstrarsparingar, útlátssparingar og búskaparsparingar metir landsstýrismaðurin vera í hesi verkætlan.</s>
+                </item>
+              </list>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <body>
+            <p>
+              <s>Vestmanna kommuna sendi á sinni landinum uppskot um tunnil millum Vestmanna og Leynar.</s>
+              <s>Tá var svarað, at Landsverk arbeiddi við samferðsluætlan fyri alt landið, og at hesin tunnil varð viðgjørdur í hesi ætlan.</s>
+            </p>
+            <p>
+              <s>Tá vístu teljingar hjá Landsverki, at í 2004 koyrdu 1.016 akfør um samdøgrið til Vestmannar og úr Vestmanna.</s>
+              <s>Um sama mundi koyrdu færri akfør í Vágar og úr Vágum.</s>
+            </p>
+            <p>
+              <s>Tvinnanda orsøkir eru til at gera tunnil til Vestmannar.</s>
+              <s>Í fyrra lagi er talan um sera trupla farleið, ið er at meta millum teirra síðstu truplu fjølnýttu farleið, nú tunlar hava loyst av farleiðir sum Eiðisskarð og Hovsegg, Vestmannasund og Lorvíksfjørð.</s>
+              <s>Høgareyn er ikki altíð so tespiligt í hálku og kavaroki, hvørki hjá vanliga verkafólkinum, ið fer av bygdini dagliga, men ei heldur hjá stórum trailarabilum, ið flyta ferskan fisk til virkingar ella avskipingar aðrastaðnis í landinum.</s>
+              <s>Nøgdirnar av fiski og fiskavørum munnu liggja væl omanfyri 10.000 tons, umframt væl av øðrum vinnuvirksemi er.</s>
+              <s>Hartil kemur, at Vestmanna er vorðin meginstøð fyri útbúgving innan høvuðsvinnu okkara.</s>
+              <s>Bæði trolarar, fiskavirki og nú fiskivinnuskúli gera Vestmanna til framtíðar fiskivinnuhøvuðsstað Føroya.</s>
+            </p>
+            <p>
+              <s>Í seinna lagi er talan um sera stórt viðíkahald av vegi (asfaltering, kavarudding), sera stórt útlát, og sera stórar útreiðslur til brennievni og akfararøkt.</s>
+              <s>Bæði land, einstaklingar og samfelagsbúskapur høvdu spart munandi upphæddir.</s>
+            </p>
+            <p>
+              <s>Leggjast skal afturat, at tá ið talan er um fyrispurning at svara skrivliga inna 10 dagar, verður eyðvitað neyðugt at meta um tøl, um neyv tøl ikki fyriliggja.</s>
+            </p>
+          </body>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2008-11-19">tann 19. november 2008</date></hi>
+            </dateline>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
