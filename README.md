@@ -372,10 +372,10 @@ The summary below was **computed from `sentences.jsonl`**, a sentence-level JSON
 
 
 | Metric | Value |
-|:---|---:|
-| Sentences | 23,664 |
-| Tokens (space-split) | 463,293 |
-| Types (unique tokens, case-folded) | 49,979 |
+|---|---|
+| Sentences | 23,661 |
+| Tokens (space-split) | 463,290 |
+| Types (unique tokens, case-folded) | 49,980 |
 | Avg. sentence length (tokens) | 19.58 |
 | Median sentence length (tokens) | 18 |
 | 5-95% sentence length (tokens) | 7-39 |
@@ -391,8 +391,8 @@ How the dataset is distributed across different decades:
 | 1940s | 13 | 0.05% | 246 | 151 | 18.92 | 114.2 |
 | 1990s | 785 | 3.32% | 13,487 | 4,196 | 17.18 | 112.8 |
 | 2000s | 1,116 | 4.72% | 21,619 | 6,083 | 19.37 | 126.4 |
-| 2010s | 9,734 | 41.13% | 192,053 | 28,556 | 19.73 | 128.7 |
-| 2020s | 11,319 | 47.83% | 221,287 | 28,276 | 19.55 | 127.0 |
+| 2010s | 9,731 | 41.13% | 192,050 | 28,557 | 19.74 | 128.7 |
+| 2020s | 11,319 | 47.84% | 221,287 | 28,276 | 19.55 | 127.0 |
 | Unknown | 689 | 2.91% | 14,464 | 3,442 | 20.99 | 133.8 |
 
 
