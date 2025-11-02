@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-006/2008: Viðvíkjandi Fróðskaparsetrinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Anfinni Kallsberg</persName>
+            <roleName>nevndarformaður (Fíggjarnevndin)</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20383" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-02-18"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/6">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur settur Helenu Dam á Neystabø, landsstýriskvinnu, viðvíkjandi <lb/>Fróðskaparsetrinum (at svara skrivliga eftir TS § 52 a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">Frá <persName>Anfinni Kallsberg</persName> vegna Fíggjarnevndina</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Játtanin til lønir hava seinastu mongu árini verið millum 85-89 % av samlaðu játtanini til Fróðskaparsetrið, meðan rakstrarútreiðslurnar hava verið millum 11-15 %.</s>
+              <s>Hvussu ber tað til, at roknskapir hesi somu árini hava havt nógv størri rakstarútreiðslur, millum 21-25 % ?</s>
+              <s>Men nú í 2008 hava rakstrarútreiðslurnar verið heili 30% av samlaðu útreiðslunum.</s>
+              <s>Hvat er frágreiðingin, og kann landsstýrismaðurin sundurgreina, hvat tað er fyri útreiðslur, sum gera, at so stórur partur fer til rakstur?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvørji nýggj størv eru komin á Fróðskaparsetrinum í 2008?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvørji fólk eru sett í størvini?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvørji av hesum størvunum verða ikki sett aftur í 2009?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Hvørji onnur størv verða ikki sett aftur í 2009?</s>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <s>Hvørjar avleiðingar hevur hetta fyri verandi virksemi?</s>
+            </item>
+            <item xml:id="q7" type="question-item">
+              <s>Hvat eru rakstrarútreiðslurnar pr. deild pr. ár seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q8" type="question-item">
+              <s>Hvat er umsóknartalið til ymsu útbúgvingarnar pr. ár seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q9" type="question-item">
+              <s>Hvussu nógv hava staðið bachelor-prógv pr. ár seinastu 10 árini – býtt á ymsu útbúgvingarnar?</s>
+            </item>
+            <item xml:id="q10" type="question-item">
+              <s>Hvussu stórur partur av upptiknu næmingunum hava gjøgnumført útbúgvingina til bachelor stig pr. ár seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q11" type="question-item">
+              <s>Hvat hevur næmingatalið verið pr. ár seinastu 10 árini – býtt á árgangir og deildir?</s>
+            </item>
+            <item xml:id="q12" type="question-item">
+              <s>Hvat hevur næmingatalið verið pr. lærara pr. ár seinastu 10 árini – býtt á deildir?</s>
+            </item>
+            <item xml:id="q13" type="question-item">
+              <s>Hvussu nógv hava staðið útbúgvingina pr. ár pr. deild seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q14" type="question-item">
+              <s>Hvat er kostnaðurin pr. gjøgnumførdan næming pr. deild?</s>
+            </item>
+            <item xml:id="q15" type="question-item">
+              <s>Hvat hevur talið av umsitingarfólki pr. vísindafólk og pr. næming verið pr. ár seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q16" type="question-item">
+              <s>Hvussu er hetta í mun til onnur lond – t.d. Norðanlond?</s>
+            </item>
+            <item xml:id="q17" type="question-item">
+              <s>Hvørjar útbúgvingar hava verið fíggjaðar eksternt seinastu árini – við altjóða, norðurlendskari ella føroyskari fígging?</s>
+            </item>
+            <item xml:id="q18" type="question-item">
+              <s>Í hvønn mun ber til at fíggja útbúgvingar við eksternari fígging komandi árini – við altjóða, norðurlendskari ella føroyskari fígging?</s>
+            </item>
+            <item xml:id="q19" type="question-item">
+              <s>Hvørjar eru fíggjarligu avleiðingarnar komandi árini av, at lærustovnarnir eru lagdir saman í ein Háskúla?</s>
+            </item>
+            <item xml:id="q20" type="question-item">
+              <s>Hvussu nógvar vísindaligar greinar eru publiseraðar pr. deild pr. ár seinastu 10 árini?</s>
+            </item>
+            <item xml:id="q21" type="question-item">
+              <s>Hvussu stór er framleiðslan av vísindaligum greinum, samanborin við universitet í øðrum londum - t.d. Norðanlondum?</s>
+            </item>
+          </list>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Fyrispurningur eftir Tingskipanini § 52a<lb /><roleName>Fyrispurningur settur Helenu Dam á Ne Fróðskaparsetrinum (at svara skrivliga</roleName></persName>
+          </head>
+        </div>
+        <space />
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2009-02-18">18. februar 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <seg>N.v.</seg>
+              <persName>Anfinn Kallsberg<lb/><roleName>nevndarformaður</roleName></persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
