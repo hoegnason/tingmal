@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-033/2008: Fiskidaganevndin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20452" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-06-22" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/33">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um Fiskidaganevndina, settur Jacob Vestergaard, landsstýrismanni, <lb />(at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi, <roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Ber til at fáa fiskidaganevndina at standardisera eygleiðingar sínar, kvantifisera metingar sínar, og konseptualisera fatanir sínar, so tær kunnu samskipast við tær hjá Havstovuni?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvat meta Havstovan og bólkur 1 um helstu eygleiðingar, metingar og niðurstøður fiskidaganevndarinnar?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er ávís andsøgn ímillum útmeldingar um góð útlit, og at fiskurin er væl fyri, og so útsagnir um, at neyðugt er við grundleggjandi inntrivum, so stovnarnir kunnu menna seg aftur?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvussu nógv kostar fiskidaganevndin í rakstri?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Fiskidaganevndin er sera áhugavert fyribrigdi í føroysku umsitingarskipanini.</s>
+            <s>Meðan Havstovan er vísindaligur stovnur, ið arbeiðir við kvantitativum mátingum, eitt nú metir stovnsstødd og veiðu í tonsum og annað mangt í prosentum, døgum, centimetrum ella øðrum mátbærum eindum, so er fiskidaganevndin meira í tí kvalitativa, hon sær tingini “sum heild,” heldur, at støðan er “góð,” mælir til at “minka” ella “óbroytt.”</s>
+          </p>
+          <p>
+            <s>Fiskidaganevndin er í stíli rættiliga spent og avgjørd, í stutta tilmæli sínum endar hon t.d. tíggju ferðir við úrópstekni!</s>
+            <seg> – </seg>
+            <s>Millum annað: “Nevndin metir útlitini góð til komandi ár!” Rópitekn kemur fyri sjey ferðir í argumentasjónini fyri at broyta skipanina av bólki 1 – ið ikki er fevndur av fiskidagaskipanini og tí ikki umboðaður í fiskidaganevndini.</s>
+            <s>Rópitekn kemur fyri sjey ferðir í argumentasjónini fyri at broyta skipanina av bólki 1 - ið ikki er fevndur av fiskidagaskipanini og tí ikki umboðaður í fiskidaganevndini.</s>
+            <s>Loksins eru tvinnandi útróp um føðigrundarlagið: “Okkara meting er, at nóg mikið er til av føði!”</s>
+            <seg>“<s>Nevndin metir, at góða støðan við ætinum gevur grundarlag fyri, at stovnarnir kunna koma fyri seg aftur skjótt!</s>”</seg>
+          </p>
+          <p>
+            <s>Júst hesar orðingar um “nóg mikið” og “góða støðu” eru truplar hjá øðrum at meta um, ikki minst, tá ið sagt verður, at tær “byggja á eygleiðingar frá teimum, ið hava sítt dagliga yrki á sjónum,” føra til slíkar niðurstøður, sum at “Fiskurin er sum heild væl fyri til fiti,” “tað hevur verið nógv æti at síggja,” og ” At veiðan eftir toski er lítil [tí] munandi minni roynd er eftir toski hjá línu- og útróðrarflotanum.”</s>
+          </p>
+          <p>
+            <s>Her hevði verið betur, um roynt var við tølum at siga, hvussu nógv føði er nóg mikil, og við tølum at sagt, nær og hvussu skjótt fiskurin, ið fær hesa føðina, kann fiskast.</s>
+            <s>At sjómenn gera eygleiðingar er frálíkt, men hvussu eru tær samskipaðar?</s>
+            <s>Er semja um, nær “nóg mikið” av føði er, ella hvussu feitur fiskur er “væl fyri,” fyri ikki at tala um, hvør orsakar- og virknissamanhangurin er ímillum veiðu og roynd?</s>
+          </p>
+          <p>
+            <s>Serliga trupult er at taka støðu til tilmæli, ið bæði sigur útlitini vera góð - og áneyðir vera fyri inntrivum, bæði sigur fiskin vera væl fyri - og at stovnarnir mugu mennast aftur og koma fyri seg.</s>
+            <s>Gott var, um til bar at fáa betri samband ímillum hesar eygleiðingar, metingar og fatanir og so tær hjá fiskifrøðini, so til ber at bera saman kvantifiseringar í somu eindum.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2009-06-22">22. juni 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
