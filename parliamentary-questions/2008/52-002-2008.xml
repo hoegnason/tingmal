@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-002/2008: Stormskaðar, serliga í Hvalba og Skálavík</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20372" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2008-11-19" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/2">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur settur Anniku Olsen landsstýrismanni um ábøtur á havnir og lendingar eftir <lb />stormskaðar, serliga í Hvalba og Skálavík, og ætlanir at skipa trygging móti slíkum skaðum <lb />(at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi, <roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýrismaðurin greiða frá, hvønn stuðul landið fer at lata kommununum serliga í Hvalba og Skálavík eftir herviligu ódnir og uppgang í januar 2008?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýrismaðurin greiða frá, hvussu gongur við ætlanum um at skipa trygging ella grunn til tess at leggja upp fyri tílíkum skaðum í framtíðini?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <body>
+            <p>
+              <s>Sera stórur skaði stóðst av brimi og báru á hávetri 2008.</s>
+              <s>Landnyrðingsfroðan er tiltikin í Skálavík, og hesa ferð stóðst stórur skaði.</s>
+            </p>
+            <p>
+              <s>Sama var í øðrum bygdum, serliga í Hvalba.</s>
+              <s>Tíbetur gjørdi feigdin ikki um seg, og lív lótust ikki, men í peningavirði gjørdist skaðin ómetaligur fyri hesi smáu bygdaløg.</s>
+            </p>
+            <p>
+              <s>Fevnd skaða gerst so alstór, tá ið kemur í ljós, at grótkastini skakaðust.</s>
+              <s>Brimgarðar, lagdir eftir tátíðar kunnleika og fatan, skalaðust illa og fóru av grundini.</s>
+              <s>Umvælingin er ikki bert at leggja grót afturíaftur, uttan heldur at laða av nýggjum og binda grótið øðrvísi.</s>
+            </p>
+            <p>
+              <s>Hesar fylgjur koma so óvart á, at órímiligt og óbarligt er fyri so smá samfeløg, ið strevast á ytstu útnesum í samfelagskervi okkara, at bera slíkar byrðar einsamallar.</s>
+              <s>Landið hevur sett øðrum kommunum bann móti at hjálpa, men hóast slíkt økisligt samhaldsfesti varð loyvt, er neyðugt við størri miðlum og betri samskipan.</s>
+            </p>
+            <p>
+              <s>Tessvegna hava fleiri tingfólk róð uppundir, at í fyrru atløgu mugu skaðarnir frá farnu ódn bøtast, uttan at hesar bygdir gerast óbótaførar, og í seinnu atløgu má trygging ella grunnur skipast at leggja upp fyri tílíkum forløgum.</s>
+            </p>
+            <p>
+              <s>Leggjast skal afturat, at tá ið talan er um fyrispurning at svara skrivliga inna 10 dagar, verður eyðvitað neyðugt at meta um tøl, um neyv tøl ikki fyriliggja.</s>
+            </p>
+          </body>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2008-11-19">tann 19. november 2008</date></hi>
+            </dateline>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
