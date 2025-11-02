@@ -34,7 +34,7 @@ def xml_files(root: str | Path) -> Iterator[Path]:
             yield p
 
 
-def parse_sentences_for_extraction(filepath) -> list[tuple[str, str]]:
+def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]]:
     # Parse with a parser that preserves whitespace
     parser = etree.XMLParser(remove_blank_text=False,
                              remove_comments=False,
@@ -55,6 +55,20 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str]]:
         'tei': 'http://www.tei-c.org/ns/1.0'
     }
 
+    # Extract year from publication date in sourceDesc (optional)
+    # Get first date without type attribute from sourceDesc
+    year = None
+    try:
+        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=namespaces)
+        if date_elements:
+            date_when = date_elements[0].get('when')
+            if date_when and len(date_when) >= 4:
+                # Extract year from date (e.g., "2025-09-03" -> 2025)
+                year = int(date_when[:4])
+    except (ValueError, IndexError, AttributeError):
+        # If date parsing fails, year remains None
+        pass
+
     # Find elements and add xml:id
     ## for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
     for element in tree.xpath('//tei:s[@xml:id]', namespaces=namespaces):
@@ -72,7 +86,7 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str]]:
 
             if element_text_content is not None:
 
-                results.append((found_id, " ".join(element_text_content.strip().split())))
+                results.append((found_id, " ".join(element_text_content.strip().split()), year))
 
     # # Write back with minimal changes
     # result = etree.tostring(tree,
@@ -226,19 +240,20 @@ def process_files(relevant_files_path):
         for item in output:
             sentences.append(item)
 
-    results: list[dict[str, str]] = []
+    results: list[dict[str, str | int | None]] = []
 
     for item in sentences:
 
         formatted = {
             'id': item[0],
             'text': item[1],
+            'year': item[2],
         }
 
         results.append(formatted)
 
     seen_sentences = set()
-    deduplicated_sentences: list[dict[str, str]] = []
+    deduplicated_sentences: list[dict[str, str | int | None]] = []
 
     # Or if you want case-insensitive sorting:
     results = sorted(results, key=lambda x: x['text'].lower())
@@ -248,19 +263,19 @@ def process_files(relevant_files_path):
             deduplicated_sentences.append(sentence)
             seen_sentences.add(sentence['text'])
 
-    with open('../sentences.jsonl', 'w') as f:
+    with open('../sentences.jsonl', 'w', encoding='utf-8') as f:
 
         for result in deduplicated_sentences:
 
-            f.write(json.dumps(result) + '\n')
+            f.write(json.dumps(result, ensure_ascii=False) + '\n')
 
 
 
 if __name__ == "__main__":
-    # process_files("/home/rani/Repositories/tingmal/coalition-agreements")
+    process_files("/home/rani/Repositories/tingmal/coalition-agreements")
     process_files("/home/rani/Repositories/tingmal/decisions")
-    # process_files("/home/rani/Repositories/tingmal/legislation")
-    # process_files("/home/rani/Repositories/tingmal/misc")
-    # process_files("/home/rani/Repositories/tingmal/parliamentary-questions")
-    # process_files("/home/rani/Repositories/tingmal/proposals")
-    # process_files("/home/rani/Repositories/tingmal/reports")
+    process_files("/home/rani/Repositories/tingmal/legislation")
+    process_files("/home/rani/Repositories/tingmal/misc")
+    process_files("/home/rani/Repositories/tingmal/parliamentary-questions")
+    process_files("/home/rani/Repositories/tingmal/proposals")
+    process_files("/home/rani/Repositories/tingmal/reports")
