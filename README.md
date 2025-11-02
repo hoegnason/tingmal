@@ -373,10 +373,10 @@ The summary below was **computed from `sentences.jsonl`**, a sentence-level JSON
 
 | Metric | Value |
 |---|---|
-| Sentences | 23,661 |
-| Tokens (space-split) | 463,290 |
-| Types (unique tokens, case-folded) | 49,980 |
-| Avg. sentence length (tokens) | 19.58 |
+| Sentences | 23,945 |
+| Tokens (space-split) | 469,088 |
+| Types (unique tokens, case-folded) | 50,559 |
+| Avg. sentence length (tokens) | 19.59 |
 | Median sentence length (tokens) | 18 |
 | 5-95% sentence length (tokens) | 7-39 |
 | Avg. sentence length (characters) | 127.4 |
@@ -389,11 +389,11 @@ How the dataset is distributed across different decades:
 |---|---|---|---|---|---|---|
 | 1900s | 8 | 0.03% | 137 | 98 | 17.12 | 85.8 |
 | 1940s | 13 | 0.05% | 246 | 151 | 18.92 | 114.2 |
-| 1990s | 785 | 3.32% | 13,487 | 4,196 | 17.18 | 112.8 |
-| 2000s | 1,116 | 4.72% | 21,619 | 6,083 | 19.37 | 126.4 |
-| 2010s | 9,731 | 41.13% | 192,050 | 28,557 | 19.74 | 128.7 |
-| 2020s | 11,319 | 47.84% | 221,287 | 28,276 | 19.55 | 127.0 |
-| Unknown | 689 | 2.91% | 14,464 | 3,442 | 20.99 | 133.8 |
+| 1990s | 785 | 3.28% | 13,487 | 4,196 | 17.18 | 112.8 |
+| 2000s | 1,400 | 5.85% | 27,417 | 7,394 | 19.58 | 127.6 |
+| 2010s | 9,731 | 40.64% | 192,050 | 28,557 | 19.74 | 128.7 |
+| 2020s | 11,319 | 47.27% | 221,287 | 28,276 | 19.55 | 127.0 |
+| Unknown | 689 | 2.88% | 14,464 | 3,442 | 20.99 | 133.8 |
 
 
 ### Coverage of Parliamentary Questions
@@ -404,7 +404,7 @@ These figures are computed from the files under **`parliamentary-questions/<YEAR
 
 | Year | Collected | Official total | Coverage | Missing |
 |:----:|----------:|---------------:|---------:|--------:|
-| 2008 |         0 |             39 |     0.0% |      39 |
+| 2008 |        24 |             39 |    61.5% |      15 |
 | 2009 |        50 |            115 |    43.5% |      65 |
 | 2010 |        85 |             85 |   100.0% |       0 |
 | 2011 |        46 |             46 |   100.0% |       0 |
@@ -422,7 +422,7 @@ These figures are computed from the files under **`parliamentary-questions/<YEAR
 | 2023 |       141 |            141 |   100.0% |       0 |
 | 2024 |       119 |            119 |   100.0% |       0 |
 
-**Totals:** Collected **1,356** of **1,770** (overall coverage **76.6%**). *Note:* these figures currently exclude regular written and oral parliamentary questions; those will be added in a later release.
+**Totals:** Collected **1,380** of **1,770** (overall coverage **78%**). *Note:* these figures currently exclude regular written and oral parliamentary questions; those will be added in a later release.
 
 ## Contributing
 Issues and pull requests are welcome. Please open an issue to discuss substantial changes.
