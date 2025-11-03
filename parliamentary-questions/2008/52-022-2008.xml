@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-020/2008: Um ætlanir at kalla Løgtingið saman á sumri 2009</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-03"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20426"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-06-10"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/20">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um avleiðingar av ymsum íløgum fyri arbeiðsmegina í Føroyum, <lb/>settur Jóannes Eidesgaard, landsstýrismanni, (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi, <roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <seg>Hvørjar avleiðingar eru mettar at standast av ávísum íløgum:</seg>
+          <lb/>
+          <seg>Hvussu nógv ársverk verða mett at standast av:</seg>
+          <lb/>
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              tunlum Norð um Fjall og tunli til Sandoyar?
+            </item>
+            <item xml:id="q2" type="question-item">
+              bjálving av almennum bygningum fyri somu upphæddir?
+            </item>
+            <item xml:id="q3" type="question-item">
+              <seg>umvæling av vegum og bygningum fyri somu upphæddir?</seg>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <seg>íløgu í skúladepil ella aðra nýbygging fyri somu upphæddir?</seg>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <seg>hækkan av pensjónsviðbót fyri somu upphæddir?</seg>
+            </item>
+            <item xml:id="q6" type="question-item">
+              <seg>útbýti av persónligum brúkstreytaðum kekkum fyri somu upphæddir?</seg>
+            </item>
+          </list>
+          <lb/>
+          <s>Hvørjir aðrir munir eru á stuttíðar og langtíðar avleiðingum av at raðfesta hesi ymsu tiltøk?</s>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s>Rættiliga vist er, at vælferð, tryggleiki og trivnaður hækka av samtyktum ætlanum at gera ávíkavist tveir tunlar Norð um Fjall (alment 252 mió. kr. sambært tingmáli nr. 112/2008) og tunli millum Streymoy og Sandoy (alment 680 mió. kr. sambært tingmáli nr. 36/2007).</s>
+          </p>
+          <p>
+            <s>Men ivi er um, hvussu nógv arbeiði skapast av hesum verkætlanum.</s>
+          </p>
+          <p>
+            <s>Tunlarnir sigast geva sera lítið arbeiði, tí talan er fyri tað mesta um at brúka útlendska vitan, brúka stórar maskinur, keypa útlendskt byggitilfar, ið verður brúkt ella sett upp uttan stórvegis arbeiðsmegi.</s>
+          </p>
+          <p>
+            <s>Til samanberingar sigst nógv arbeiði standast av at bjálva bygningar, tí talan er fyri tað mesta um at brúka innlendska arbeiðsmegi, brúka smávegis amboð, keypa uppá seg ódýrt og ikki so rúgvusmikið tilfar, ið krevur uppá seg nógva arbeiðsmegi.</s>
+          </p>
+          <p>
+            <s>Somuleiðis sigst nógv arbeiði standast av umvælingum, serliga hampan av vegum, har tilfarið fyri stóran part er føroyskt grót og endurvunnið asfalt, har meginparturin av peninginum fer til arbeiðsløn.</s>
+          </p>
+          <p>
+            <s>So eisini bygging av nýggjum bygningum, har tilfarið fyri part er føroyskt, og sera stórur partur av útreiðsluni fer til løn.</s>
+            <s>Serliga skúladeplar hava eisini tann fyrimunin at vera beinleiðis produktivir eftir bygging, skapa fleiri arbeiðpláss, størri búskaparvøkstur og meiri fólkabinding enn tær vælferðarkendu íløgurnar í tunlar.</s>
+          </p>
+          <p>
+            <s>Annað alternativ er at hækka pensjónir.</s>
+            <s>Mangir pensjónistar eru illa fyri og vilja brúka hvørt oyra at keypa vørur og tænastur og skapa harvið nógv arbeiði.</s>
+          </p>
+          <p>
+            <s>Til tess at tryggja, at peningur, latin borgarum, veruliga førir við sær økt forbrúk og økta ferð á samfelagshjólunum, hava fleiri lond valt at senda fólki kekkar, ið treytaðir eru av brúki; harvið verður forðað fyri, at nakað verður spart upp og fullur virknaður fæst fyri pengarnar, ferð verður sett á búskaparhjólini.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2009-06-10">10. juni 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
