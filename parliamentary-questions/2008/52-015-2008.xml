@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-012/2008: Inntøkutrygd hjá fiskimonnum (Lógarbundin játtan), konta nr. 5.34.4.01.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-03" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Bill Justinussen</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20410"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-05-20" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/15">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um leiguútreiðslur á almannaøkinum, settur Rósu Samuelsen, <lb/>landsstýriskvinnu í almannamálum (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bill Justinussen</persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <label>1)</label>
+            <item xml:id="q1" type="question-item">
+              <s>Kann landsstýriskvinnan geva eitt yvirlit yvir kostnað, staðseting og endamál viðvíkjandi øllum leigumálum, sum tað almenna rindar fyri innan fyri hennara málsøki, tað veri seg øll sløg av leigumálum bæði dagstovnar, samdøgursstovnar, sambýlir og leigumál til um- og fyrisiting og alt annað, sum ikki er nevnt í hesum spurningi?</s>
+            </item>
+            <label>2)</label>
+            <item xml:id="q2" type="question-item">
+              <s>Kann landsstýriskvinnan greiða frá, um nøkur yvirskipað ætlan er at ogna tí almenna hesi ella onnur líknandi hølir, ella um æltanin er at halda fram við verandi leigumálum?</s>
+            </item>
+            <label>3)</label>
+            <item xml:id="q3" type="question-item">
+              <s>Hvør er yvirskipaði útreiðslupolitikkurin, tá leigumál verða avtalað.</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2009-05-20">20. mai 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Bill Justinussen</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
