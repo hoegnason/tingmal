@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-031/2008: Sanering og uppsøgn av festum vegna ov stóra skuld og misrøkt av lánsskyldum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20456" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-06-22" />
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/31">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical" />
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur um sanering og uppsøgn av festum vegna ov stóra skuld og <lb />misrøkt av lánsskyldum, settur Jacob Vestergaard, landsstýrismanni, (at svara <lb />skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical" />
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Kári á Rógvi, <roleName>løgtingsmaður</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical" />
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv festi eru uppsøgd eftir heimildunum í lóg um landsjørð § 5, samanhildið við lóg um búnaðargrunn § 9?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu nógv saneringsumfør eru gjørd eftir lóg um búnaðargrunn § 9, stk. 2 – og er nakað ávegis?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Er skuld eftirgivin á nakran hátt uttan um saneringsumfør?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hevur Búnaðargrunnurin sent Búnaðarstovuni boð um festarar, ið ikki gjalda skuld, hava ov stóra skuld, ella hvørs viðurskifti annars eiga at verða tikin til viðgerðar?</s>
+            </item>
+          </list>
+        </div>
+        <space />
+        <div type="background">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <seg>Í lóg um landsjørð stendur, at Búnaðarstova hevur eftirlit við festum, og at festi skulu uppsigast í ávísum førum, serliga:</seg>
+          </p>
+          <ul>
+            <li>um festarin ikki heldur sínar lánsskyldur;</li>
+            <li>um kríatúr og jørð verða misrøkt;</li>
+            <li>um festitreytir ikki verða hildnar.</li>
+          </ul>
+          <p>
+            <seg>Í lóg um búnaðargrunn stendur:</seg>
+          </p>
+          <ul>
+            <li>at jarðarumsitingin skal taka støðu festarans til viðgerðar, tí skuldin er ov stór;</li>
+            <li>at avskriving av skuld vanliga bert kann henda í sambandi við saneringsumfør, ið verða framd sum løgtingslóg.</li>
+          </ul>
+          <p>
+            <s>Tí verður spurt, hvussu gongur hjá fyrisitingini at fyrireika sanering av teimum, ið uppfylla teir treytirnar, og hvussu gongst at siga teimum upp, ið ikki røkja djór, jørð og lán síni.</s>
+          </p>
+          <p>
+            <s>Greitt er, at sera stórar eftirstøður hava verið, festarar hava skyldað upp til milliónaupphæddir í falnum lánsgjøldum uttan útlit til bata í rakstrinum, og at Búnaðargrunnurin fleiri ferðir hevur mælt til, at manglandi vilji og evni at halda skyldurnar føra til uppsøgn.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, <date when="2009-06-22">tann 22. juni 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Kári á Rógvi</persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
