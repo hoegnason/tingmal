@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>52-005/2008: Um íløgur hjá Framtaki í P/F Smyril Line</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-02"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Høgni Hoydal</persName>
+            <roleName>løgtingskvinna</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/20386"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-03-02"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="question" corresp="https://tingdata.fo/52a-fyrispurningur/2008/7">
+        <div>
+          <head rend="bold">Fyrispurningur eftir Tingskipanini § 52a.</head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-title">
+          <head rend="bold">Fyrispurningur til Johan Dahl, landsstýrismann í vinnumálum, um íløgur hjá <lb/>Framtaki í P/F Smyril Line (at svara skrivliga eftir TS § 52a)</head>
+        </div>
+        <space type="vertical"/>
+        <div type="questioner">
+          <head rend="bold">
+            <persName>Bjørt Samuelsen, <roleName>løgtingskvinna</roleName></persName>
+          </head>
+        </div>
+        <space type="vertical"/>
+        <div type="question-list">
+          <list type="ordered">
+            <item xml:id="q1" type="question-item">
+              <s>Hvussu nógv metir Fíggjarmálaráðið, at samtykti skattalættin hjá ABCsamgonguni frá og við 2005 til 2008 hevur kostað tilsamans í mistum skattainntøkum hjá landskassa og kommunum?</s>
+            </item>
+            <item xml:id="q2" type="question-item">
+              <s>Hvussu er prosentvísa býtið millum inntøkur landskassans av skatti og inntøkur landskassans av avgjøldum broytt hesi somu árini?</s>
+            </item>
+            <item xml:id="q3" type="question-item">
+              <s>Hvat hevur ein flakakvinna við 30-tíma arbeiðsviku í meðal, fingið burturúr skattalættanum 2005 til 2008, um hon býr í einari kommunu við hægsta skattaprosenti, tá eisini økta inngjaldið til samhaldsfasta er tikið við?</s>
+            </item>
+            <item xml:id="q4" type="question-item">
+              <s>Hvat hevur ein A-inntøka á 550.000 árliga fingið í skattalætta í eini kommunu við meðal skattaprosenti hesi somu árini, tá inngjaldið til samhaldsfasta er tikið við?</s>
+            </item>
+            <item xml:id="q5" type="question-item">
+              <s>Kann landsstýrismaðurin seta upp eina talvu, ið vísir, hvussu reallønargongdin hevur verið hjá ymsum inntøkubólkum hesi somu árini?</s>
+            </item>
+          </list>
+        </div>
+        <space/>
+        <div type="background">
+          <head rend="bold">Viðmerkingar</head>
+          <p>
+            <s>Støðugt verður ført fram frá serliga Fólkaflokkinum, at avtalaði og samtykti skattalættin hjá fyrru ABC-samgonguni kostaði 60 mió. krónur um árið og tilsamans 240 mió. krónur árliga, tá øll stig vórðu sett í verk, hjá tí almenna í árunum frá og við 2005 til 2008.</s>
+          </p>
+          <p>
+            <s>Millum annað undirritaði hevur støðugt ført fram, at talan er um eitt nógv hægri tal.</s>
+          </p>
+          <p>
+            <s>Fíggjarmálaráðið ger metingar av hesum fyri bæði land og kommunur, og tað er týdningarmikið at fáa røttu tølini á borðið.</s>
+          </p>
+          <p>
+            <s>Undirskotið á føroysku fíggjarlógini nú, er serliga vaksið, av tí at mvg-og avgjaldsinntøkur minka í stórum, tá nýtslan minkar í samfelagnum.</s>
+            <s>Júst sum ávarað varð um, ber ikki til at fíggja grundleggjandi vælferðartænasturnar, tá tær verða útbygdar við ótryggum vónum um økta nýtslu og øking í mvg- og avgjaldsinntøkum landskassans.</s>
+          </p>
+        </div>
+        <div type="signature">
+          <closer>
+            <dateline>
+              <hi class="signature-date" rend="bold center">
+                <name type="place">Á Løgtingi</name>, tann <date when="2009-03-02">2. mars 2009</date></hi>
+            </dateline>
+            <signed rend="center">
+              <persName>Høgni Hoydal<lb/><roleName>løgtingsmaður</roleName></persName>
+            </signed>
+          </closer>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
