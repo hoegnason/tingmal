@@ -1,597 +1,696 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>FG-003/1998: Frágreiðing um framtíðar samferðslukervið í Føroyum - Samferðsluverkætlan</title>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Rani Høgnason Hansen</publisher>
-                <idno type="url">https://github.com/hoegnason/tingmal</idno>
-                <availability status="free">
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-                    <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
-                    <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
-                </availability>
-                <date when="2025-11-04" />
-            </publicationStmt>
-            <notesStmt>
-                <note />
-            </notesStmt>
-            <sourceDesc>
-                <bibl type="parliamentary_document">
-                    <publisher>Føroya Løgting</publisher>
-                    <author>
-                        <persName>Finnbogi Arge</persName>
-                        <roleName>landsstýrismaður</roleName>
-                    </author>
-                    <author>
-                        <orgName>Vinnumálastýrið</orgName>
-                    </author>
-                    <ref target="https://www.logting.fo/documents/4549" />
-                    <note type="source_format">PDF document, machine-readable text</note>
-                    <date when="1999-02-09">09.02.1999</date>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
-                </correction>
-                <segmentation>
-                    <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
-                </segmentation>
-            </editorialDecl>
-        </encodingDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <pb n="1" />
-            <div type="report">
-                <div>
-                    <head rend="bold center">Frágreiðing um framtíðar samferðslukervið í Føroyum</head>
-                </div>
-                <div>
-                    <head rend="center">Samferðsluverkætlanin</head>
-                </div>
-                <pb n="2" />
-                <div>
-                    <head rend="bold">Formæli</head>
-                    <p>
-                        <s xml:id="qkwttaxgig">Føroya Løgting játtaði í fjør pening til at gera eina langtíðarætlan fyri samferðsluíløgur í Føroyum.</s>
-                        <s xml:id="fzi77o5ksv">Sambært fíggjarlógini fyri 1998 var endamálið at samskipa samferðsluna betri og gera kostnaðnyttu (cost-benefit) útrokningar av ymiskum íløgumøguleikum.</s>
-                    </p>
-                    <p>
-                        <s xml:id="npemoxpe7p">Vinnumálastýrið setti ein samferðsluverkætlanarbólk at loysa uppgávuna.</s>
-                        <s xml:id="l4kk4k37eg">Bólkurin var mannaður við umboðum úr Strandfaraskipum Landsins, Landsverkfrøðingsstovninum og Vinnumálastýrinum.</s>
-                    </p>
-                    <p>
-                        <s xml:id="pc26wvkts3">Verkætlanarbólkurin almannakunngjørdi í oktober 1998 eina kostnað-nyttu kanning av fasta sambandinum um Vestmannasund.</s>
-                        <s xml:id="qynp3cavcy">Henda kanningin er í styttum formi tikin við her.</s>
-                    </p>
-                    <p>
-                        <s xml:id="gvfhc2qj7e">Samferðsluætlanin lýsir nýggjar verkætlanir, ið kunnu fáa avgerandi týdning fyri samferðslukervið.</s>
-                        <s xml:id="mi4urwlphk">Tó eru fleiri verkætlanir eftir, ið ikki eru tiknar við.</s>
-                        <s xml:id="oau3yx6bir">T.d. eru einstøk vegastrekki kring landið, sum ikki eru útbygd til tunga ferðslu.</s>
-                        <s xml:id="mjaj45an6t">Verkætlanir, ið kunnu bøta um hesar trupulleikar, eiga at verða lýstar eins gjølla og tær, ið eru í hesari frágreiðing.</s>
-                    </p>
-                    <p>
-                        <s xml:id="mkldnaj3ay">Í dag hava umleið 66% av íbúgvunum í Føroyum sínámillum vegasamband.</s>
-                        <s xml:id="hxgolmbp53">Samferðslubólkurin mælir m.a. til íløgur í tveir undirsjóartunlar, og verður hetta veruleikin einaferð, koma nærum 85% av føroyingum at hava beinleiðis vegasamband hvør við annan.</s>
-                    </p>
-                    <p>
-                        <s xml:id="muhdk3pw3l">Um Vágoyggin og Norðoyggjar fáa fast samband við meginøkið, og Sandoyggin og Suðuroyggin fáa nýggj og betri skip, eru fortreytirnar fyri menning av vinnulívi og trivnaði hjá borgarum munandi batnaðar.</s>
-                    </p>
-                    <p>
-                        <s xml:id="x2ccrqsdpz">Samferðsluætlanin skal ikki skiljast sum ein roynd at venda aftur til ovurstóru íløgurnar í áttatitalinum.</s>
-                        <s xml:id="j3of7rhi3v">Hetta er ein roynd at lýsa tørvin á høvuðsíløgunum í samferðslukervið næstu 10-15 árini, soleiðis at Løgtingið betri kann leggja eina raðfesting til rættis.</s>
-                        <s xml:id="amlijaspoo">Búskaparliga gongdin og fíggjarligu karmarnir fara sjálvsagt at avgera, hvussu skjótt farast kann fram.</s>
-                    </p>
-                    <p>
-                        <s xml:id="myhjqlxg7f">Samferðsluætlanin er tann fyrsta av sínum slagi her hjá okkum, og fær hon vónandi eina positiva viðgerð á Føroya Løgtingi.</s>
-                    </p>
-                    <space type="vertical" />
-                    <div type="signature">
-                        <dateline>
-                            <hi rend="center">Í <name type="place"> Tinganesi</name>, <date when="1999-01-26">26. januar 1999</date></hi>
-                        </dateline>
-                        <space type="vertical" />
-                        <signed rend="center">
-                            <persName>Finnbogi Arge <lb /><roleName>Landsstýrismaður</roleName></persName>
-                        </signed>
-                    </div>
-                </div>
-                <pb n="3" />
-                <div>
-                    <head rend="bold">Samandráttur</head>
-                    <p>
-                        <s xml:id="wukmuyobwf">Á fíggjarlógini fyri 1998 játtaði Føroya Løgting pening til eina samferðsluverkætlan, og varð verkætlanarbólkur settur undir Vinnumálastýrinum at arbeiða við hesari ætlan.</s>
-                    </p>
-                    <p>
-                        <s xml:id="mmur77vbwb">Høvuðsendamálið við verkætlanini er at geva landsstýrismanninum í samferðslumálum eitt fakliga undirbygt grundarlag fyri at tillaga og útbyggja almennu samferðsluskipaninar á ein slíkan hátt, at tær best møguligt kunnu nøkta tørvin hjá vinnulívi og borgarum landsins.</s>
-                    </p>
-                    <p>
-                        <s xml:id="popzhyq2pd">Henda frágreiðingin er fyrst og fremst eitt tilmæli um, hvussu verkætlanarbólkurin metir, at samferðslukervið <hi rend="italic">sum heild</hi> eigur at verða skipað, og støða verður í fyrstu syftu ikki tikin til smærri verkætlanir, sum t.d. einstakar vegbreiðkingar.</s>
-                    </p>
-                    <p>
-                        <s xml:id="xqiqsdavun">Í frágreiðingini verður dentur lagdur á at lýsa hvørjar nýíløgur, ið eru neyðugar at fremja í skipaflotan hjá Strandfaraskipum Landsins, og kannað verður eisini hvørjar størri íløgur, ið eru skilagóðar at fremja í veganetinum komandi árini.</s>
-                    </p>
-                    <p>
-                        <s xml:id="ayivammjpb">Í frágreiðingini verða kostnað-nyttu kanningar gjørdar av fimm týðandi verkætlanum, ið hava verið í uppskoti at fremja, og sum fara at broyta fortreytirnar fyri samferðslu, verða tær framdar.</s>
-                        <s xml:id="sgqjb2bc5r">Umframt hetta er gjørd ein lýsing av farleiðunum hjá Strandfaraskipum Landsins, har kannað verður, hvar størsti tørvurin er á nýíløgum.</s>
-                    </p>
-                    <p>
-                        <seg>Tær fimm verkætlanirnar, har kostnað-nyttu kanningar verða gjørdar, eru hesar:</seg>
-                        <lb />
-                        <list rend="bullet">
-                            <item>Ferðasambandið um Vestmannasund</item>
-                            <item>Ferðasambandið um Leirvíksfjørð</item>
-                            <item>Tunnil Millum fjarða-Kambsdal</item>
-                            <item>Vegastrekkið Øravík-Hov</item>
-                            <item>Suðuroyarleiðin</item>
-                        </list>
-                    </p>
-                    <p>
-                        <s xml:id="goqvhsva7m">Úrslitið av kanningunum er, at verkætlanin at gera fast samband um Vestmannasund og verkætlanin at gera tunnil millum Kambsdal og Millum fjarða geva eitt samfelagsbúskaparligt íkast, meðan verkætlanin at fremja fast samband um Leirvíksfjørð er samfelagsbúskaparligt neutral í mun til framhaldandi ferjusigling.</s>
-                        <s xml:id="jbufalzz2x">Onnur atlit sum t.d. í samband við tilbúgving, fiskaframleiðslu og mentunarlív tala fyri einum føstum sambandi um Leirvíksfjørð, tí mælir arbeiðsbólkurin til, at tunnil um Leirvíksfjørð kemur við í raðfestingina.</s>
-                    </p>
-                    <p>
-                        <s xml:id="qmtcudpdxh">Kannað verður eisini, um tað loysir seg at leggja ferðslu til Suðuroynna um Sandoynna, men úrslitini benda greitt á, at verandi skipan, har Smyril røkir farleiðina beinleiðis millum høvuðsstaðarøkið og Suðuroynna, loysir seg best samfelagsbúskaparliga.</s>
-                    </p>
-                    <p>
-                        <s xml:id="y7fripnvry">Vegastrekkið Øravík-Hov verður eisini kannað, men vísa kostnað-nyttu kanningar, at hvørki verkætlanin at umbyggja verandi veg ella verkætlanin at gera tunnil loysa seg samfelagsbúskaparliga.</s>
-                        <s xml:id="fheyogbkv5">Um tað hóast alt verður neyðugt at fremja aðra av verkætlanunum (t.d. av trygdar orsøkum) vísa úrslitini, at ein tunnilsloysn kann loysa seg betri enn umbygging av verandi vegi.</s>
-                        <s xml:id="gbea6dr6ed">Ein tunnil loysir <pb n="4" /> seg betri, um samlaði íløgukostnaðurin verður o.u. 100 mió. kr. ella minni (u/mvg).</s>
-                        <s xml:id="slsdikgusu">Um íløgukostnaðurin av tunlinum verður mettur at verða omanfyri 100 mió. kr., loysir tað seg betri at umbyggja verandi veg.</s>
-                        <s xml:id="rtpgwkkmn6">Enn er ov tíðliga at siga nakað avgjørt um, hvussu íløgukostnaðurin av einum tunli væntandi verður, tí jarðfrøðisligu kanningarnar eru ikki lidnar enn.</s>
-                    </p>
-                    <p>
-                        <s xml:id="kmrfmjq64y">Lýsingin av farleiðunum hjá Strandfaraskipum Landsins varð gjørd við tí endamáli at vísa á tørvin fyri átroðkandi útskiftingum í flotanum.</s>
-                        <s xml:id="gw65cs4d3n">Lýsingin vísti á, at umframt nýggja skipið, sum verður bygt til Sandoyarleiðina, er serligur tørvur á at fáa nýtt skip til Suðuroyarleiðina umframt Fugloyar – Svínoyarleiðina.</s>
-                        <s xml:id="zn4panlkrk">Másin, ið er nýliga umvældur, kann so fyribils setast í sigling á Kallsoyarleiðini, har 70 ára gamli Barsskor enn røkir siglingina.</s>
-                        <s xml:id="dvgq566ul6">Harumframt er tørvur á einum nýggjum avloysaraskipi, tí tey verandi eru bæði gomul og illa hóskandi til at røkja flutningsuppgávurnar á flestu farleiðum í dag.</s>
-                    </p>
-                    <p>
-                        <seg>Sostatt vil verkætlanarbólkurin mæla til, at fylgjandi íløgur verða gjørdar í samferðslukervið komandi árini:</seg>
-                    </p>
-                    <p>
-                        <seg>Nýíløgur í vegakervið:</seg>
-                        <lb />
-                        <list rend="numbered">
-                            <label>1.</label>
-                            <item>Verkætlanin at gera fast samband um Vestmannasund verður framd</item>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>FG-003/1998: Frágreiðing um framtíðar samferðslukervið í Føroyum - Samferðsluverkætlan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-04" />
+      </publicationStmt>
+      <notesStmt>
+        <note>
+          <!-- TODO: explain the formatting here! -->
+          <s>At geva borgarum og vinnulívi í ymisku pørtunum av landinum eitt nøktandi, trygt og umhvørvisvinarligt samferðslukerv til lægst møguligan samfelagsbúskaparligan kostnað.</s>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Finnbogi Arge</persName>
+            <roleName>landsstýrismaður</roleName>
+          </author>
+          <author>
+            <orgName>Vinnumálastýrið</orgName>
+          </author>
+          <ref target="https://www.logting.fo/documents/4549" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="1999-02-09">09.02.1999</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+      <div type="report">
+        <div>
+          <head rend="bold center">Frágreiðing um framtíðar samferðslukervið í Føroyum</head>
+        </div>
+        <div>
+          <head rend="center">Samferðsluverkætlanin</head>
+        </div>
+        <pb n="2" />
+        <div>
+          <head rend="bold">Formæli</head>
+          <p>
+            <s xml:id="qkwttaxgig">Føroya Løgting játtaði í fjør pening til at gera eina langtíðarætlan fyri samferðsluíløgur í Føroyum.</s>
+            <s xml:id="fzi77o5ksv">Sambært fíggjarlógini fyri 1998 var endamálið at samskipa samferðsluna betri og gera kostnaðnyttu (cost-benefit) útrokningar av ymiskum íløgumøguleikum.</s>
+          </p>
+          <p>
+            <s xml:id="npemoxpe7p">Vinnumálastýrið setti ein samferðsluverkætlanarbólk at loysa uppgávuna.</s>
+            <s xml:id="l4kk4k37eg">Bólkurin var mannaður við umboðum úr Strandfaraskipum Landsins, Landsverkfrøðingsstovninum og Vinnumálastýrinum.</s>
+          </p>
+          <p>
+            <s xml:id="pc26wvkts3">Verkætlanarbólkurin almannakunngjørdi í oktober 1998 eina kostnað-nyttu kanning av fasta sambandinum um Vestmannasund.</s>
+            <s xml:id="qynp3cavcy">Henda kanningin er í styttum formi tikin við her.</s>
+          </p>
+          <p>
+            <s xml:id="gvfhc2qj7e">Samferðsluætlanin lýsir nýggjar verkætlanir, ið kunnu fáa avgerandi týdning fyri samferðslukervið.</s>
+            <s xml:id="mi4urwlphk">Tó eru fleiri verkætlanir eftir, ið ikki eru tiknar við.</s>
+            <s xml:id="oau3yx6bir">T.d. eru einstøk vegastrekki kring landið, sum ikki eru útbygd til tunga ferðslu.</s>
+            <s xml:id="mjaj45an6t">Verkætlanir, ið kunnu bøta um hesar trupulleikar, eiga at verða lýstar eins gjølla og tær, ið eru í hesari frágreiðing.</s>
+          </p>
+          <p>
+            <s xml:id="mkldnaj3ay">Í dag hava umleið 66% av íbúgvunum í Føroyum sínámillum vegasamband.</s>
+            <s xml:id="hxgolmbp53">Samferðslubólkurin mælir m.a. til íløgur í tveir undirsjóartunlar, og verður hetta veruleikin einaferð, koma nærum 85% av føroyingum at hava beinleiðis vegasamband hvør við annan.</s>
+          </p>
+          <p>
+            <s xml:id="muhdk3pw3l">Um Vágoyggin og Norðoyggjar fáa fast samband við meginøkið, og Sandoyggin og Suðuroyggin fáa nýggj og betri skip, eru fortreytirnar fyri menning av vinnulívi og trivnaði hjá borgarum munandi batnaðar.</s>
+          </p>
+          <p>
+            <s xml:id="x2ccrqsdpz">Samferðsluætlanin skal ikki skiljast sum ein roynd at venda aftur til ovurstóru íløgurnar í áttatitalinum.</s>
+            <s xml:id="j3of7rhi3v">Hetta er ein roynd at lýsa tørvin á høvuðsíløgunum í samferðslukervið næstu 10-15 árini, soleiðis at Løgtingið betri kann leggja eina raðfesting til rættis.</s>
+            <s xml:id="amlijaspoo">Búskaparliga gongdin og fíggjarligu karmarnir fara sjálvsagt at avgera, hvussu skjótt farast kann fram.</s>
+          </p>
+          <p>
+            <s xml:id="myhjqlxg7f">Samferðsluætlanin er tann fyrsta av sínum slagi her hjá okkum, og fær hon vónandi eina positiva viðgerð á Føroya Løgtingi.</s>
+          </p>
+          <space type="vertical" />
+          <div type="signature">
+            <dateline>
+              <hi rend="center">Í <name type="place"> Tinganesi</name>, <date when="1999-01-26">26. januar 1999</date></hi>
+            </dateline>
+            <space type="vertical" />
+            <signed rend="center">
+              <persName>Finnbogi Arge <lb /><roleName>Landsstýrismaður</roleName></persName>
+            </signed>
+          </div>
+        </div>
+        <pb n="3" />
+        <div>
+          <head rend="bold">Samandráttur</head>
+          <p>
+            <s xml:id="wukmuyobwf">Á fíggjarlógini fyri 1998 játtaði Føroya Løgting pening til eina samferðsluverkætlan, og varð verkætlanarbólkur settur undir Vinnumálastýrinum at arbeiða við hesari ætlan.</s>
+          </p>
+          <p>
+            <s xml:id="mmur77vbwb">Høvuðsendamálið við verkætlanini er at geva landsstýrismanninum í samferðslumálum eitt fakliga undirbygt grundarlag fyri at tillaga og útbyggja almennu samferðsluskipaninar á ein slíkan hátt, at tær best møguligt kunnu nøkta tørvin hjá vinnulívi og borgarum landsins.</s>
+          </p>
+          <p>
+            <s xml:id="popzhyq2pd">Henda frágreiðingin er fyrst og fremst eitt tilmæli um, hvussu verkætlanarbólkurin metir, at samferðslukervið <hi rend="italic">sum heild</hi> eigur at verða skipað, og støða verður í fyrstu syftu ikki tikin til smærri verkætlanir, sum t.d. einstakar vegbreiðkingar.</s>
+          </p>
+          <p>
+            <s xml:id="xqiqsdavun">Í frágreiðingini verður dentur lagdur á at lýsa hvørjar nýíløgur, ið eru neyðugar at fremja í skipaflotan hjá Strandfaraskipum Landsins, og kannað verður eisini hvørjar størri íløgur, ið eru skilagóðar at fremja í veganetinum komandi árini.</s>
+          </p>
+          <p>
+            <s xml:id="ayivammjpb">Í frágreiðingini verða kostnað-nyttu kanningar gjørdar av fimm týðandi verkætlanum, ið hava verið í uppskoti at fremja, og sum fara at broyta fortreytirnar fyri samferðslu, verða tær framdar.</s>
+            <s xml:id="sgqjb2bc5r">Umframt hetta er gjørd ein lýsing av farleiðunum hjá Strandfaraskipum Landsins, har kannað verður, hvar størsti tørvurin er á nýíløgum.</s>
+          </p>
+          <p>
+            <seg>Tær fimm verkætlanirnar, har kostnað-nyttu kanningar verða gjørdar, eru hesar:</seg>
+            <lb />
+            <list rend="bullet">
+              <item>Ferðasambandið um Vestmannasund</item>
+              <item>Ferðasambandið um Leirvíksfjørð</item>
+              <item>Tunnil Millum fjarða-Kambsdal</item>
+              <item>Vegastrekkið Øravík-Hov</item>
+              <item>Suðuroyarleiðin</item>
+            </list>
+          </p>
+          <p>
+            <s xml:id="goqvhsva7m">Úrslitið av kanningunum er, at verkætlanin at gera fast samband um Vestmannasund og verkætlanin at gera tunnil millum Kambsdal og Millum fjarða geva eitt samfelagsbúskaparligt íkast, meðan verkætlanin at fremja fast samband um Leirvíksfjørð er samfelagsbúskaparligt neutral í mun til framhaldandi ferjusigling.</s>
+            <s xml:id="jbufalzz2x">Onnur atlit sum t.d. í samband við tilbúgving, fiskaframleiðslu og mentunarlív tala fyri einum føstum sambandi um Leirvíksfjørð, tí mælir arbeiðsbólkurin til, at tunnil um Leirvíksfjørð kemur við í raðfestingina.</s>
+          </p>
+          <p>
+            <s xml:id="qmtcudpdxh">Kannað verður eisini, um tað loysir seg at leggja ferðslu til Suðuroynna um Sandoynna, men úrslitini benda greitt á, at verandi skipan, har Smyril røkir farleiðina beinleiðis millum høvuðsstaðarøkið og Suðuroynna, loysir seg best samfelagsbúskaparliga.</s>
+          </p>
+          <p>
+            <s xml:id="y7fripnvry">Vegastrekkið Øravík-Hov verður eisini kannað, men vísa kostnað-nyttu kanningar, at hvørki verkætlanin at umbyggja verandi veg ella verkætlanin at gera tunnil loysa seg samfelagsbúskaparliga.</s>
+            <s xml:id="fheyogbkv5">Um tað hóast alt verður neyðugt at fremja aðra av verkætlanunum (t.d. av trygdar orsøkum) vísa úrslitini, at ein tunnilsloysn kann loysa seg betri enn umbygging av verandi vegi.</s>
+            <s xml:id="gbea6dr6ed">Ein tunnil loysir <pb n="4" /> seg betri, um samlaði íløgukostnaðurin verður o.u. 100 mió. kr. ella minni (u/mvg).</s>
+            <s xml:id="slsdikgusu">Um íløgukostnaðurin av tunlinum verður mettur at verða omanfyri 100 mió. kr., loysir tað seg betri at umbyggja verandi veg.</s>
+            <s xml:id="rtpgwkkmn6">Enn er ov tíðliga at siga nakað avgjørt um, hvussu íløgukostnaðurin av einum tunli væntandi verður, tí jarðfrøðisligu kanningarnar eru ikki lidnar enn.</s>
+          </p>
+          <p>
+            <s xml:id="kmrfmjq64y">Lýsingin av farleiðunum hjá Strandfaraskipum Landsins varð gjørd við tí endamáli at vísa á tørvin fyri átroðkandi útskiftingum í flotanum.</s>
+            <s xml:id="gw65cs4d3n">Lýsingin vísti á, at umframt nýggja skipið, sum verður bygt til Sandoyarleiðina, er serligur tørvur á at fáa nýtt skip til Suðuroyarleiðina umframt Fugloyar – Svínoyarleiðina.</s>
+            <s xml:id="zn4panlkrk">Másin, ið er nýliga umvældur, kann so fyribils setast í sigling á Kallsoyarleiðini, har 70 ára gamli Barsskor enn røkir siglingina.</s>
+            <s xml:id="dvgq566ul6">Harumframt er tørvur á einum nýggjum avloysaraskipi, tí tey verandi eru bæði gomul og illa hóskandi til at røkja flutningsuppgávurnar á flestu farleiðum í dag.</s>
+          </p>
+          <p>
+            <seg>Sostatt vil verkætlanarbólkurin mæla til, at fylgjandi íløgur verða gjørdar í samferðslukervið komandi árini:</seg>
+          </p>
+          <p>
+            <seg>Nýíløgur í vegakervið:</seg>
+            <lb />
+            <list rend="numbered">
+              <label>1.</label>
+              <item>Verkætlanin at gera fast samband um Vestmannasund verður framd</item>
 
-                            <label>2.</label>
-                            <item>Verkætlanin at gera tunnil Millum fjarða – Kambsdal verður framd</item>
+              <label>2.</label>
+              <item>Verkætlanin at gera tunnil Millum fjarða – Kambsdal verður framd</item>
 
-                            <label>3.</label>
-                            <item>Verkætlanin at gera fast samband um Leirvíksfjørð verður framd</item>
-                        </list>
-                    </p>
-                    <p>
-                        <seg>Nýíløgur í skipaflotan hjá Strandfaraskipum Landsins:</seg>
-                        <list rend="numbered">
-                            <label>1.</label>
-                            <item>Nýtt suðuroyarskip</item>
+              <label>3.</label>
+              <item>Verkætlanin at gera fast samband um Leirvíksfjørð verður framd</item>
+            </list>
+          </p>
+          <p>
+            <seg>Nýíløgur í skipaflotan hjá Strandfaraskipum Landsins:</seg>
+            <list rend="numbered">
+              <label>1.</label>
+              <item>Nýtt suðuroyarskip</item>
 
-                            <label>2.</label>
-                            <item>Nýtt skip at røkja siglingina til Fugloyar og Svínoyar</item>
+              <label>2.</label>
+              <item>Nýtt skip at røkja siglingina til Fugloyar og Svínoyar</item>
 
-                            <label>3.</label>
-                            <item>Nýtt avloysaraskip</item>
-                        </list>
-                    </p>
-                    <p>
-                        <s xml:id="tcim36pkxu">Harafturat krevur nýggja Sandoyarferjan broytingar/ábøtur av ferjulegunum/havnunum í Skopun, Gomlu Rætt og í Hesti, og atløguviðurskiftini í Suðuroynni eiga eisini at verða viðgjørd.</s>
-                    </p>
-                    <p>
-                        <s xml:id="ygsalo3zfv">Verkætlanarbólkurin hevur valt ikki at seta eitt ítøkiligt árstal á, nær einstøku ætlanirnar eiga at verða framdar.</s>
-                        <s xml:id="m3mlnvmk7i">Hesin spurningur er í stóran mun treytaður av fíggjarorkuni hjá landskassanum, og búskaparligu gongdini í samfelagnum sum heild.</s>
-                    </p>
-                    <p>
-                        <s xml:id="yjaf6rzbk5">Verkætlanarbólkurin vil tó mæla til, at raðfest verður heldur millum einstakar verkætlanir enn at raðfesta yvir tíð.</s>
-                        <s xml:id="vqmrpqc5k5">Við hesum meinast við, at um íløgukarmurin er lítil, skal ein heldur royna at avmarka talið av verkætlanum, enn at byrja nógvar ymiskar verkætlanir, sum ein so noyðist at draga út í nógv ár.</s>
-                        <s xml:id="s3nd4pojys">Heldur arbeiða við einari verkætlan í senn, ið tekur 5 ár at fremja, enn at arbeiða við tveimum verkætlanum í senn, sum so noyðast at koyra við lágum blussi í 10 ár.</s>
-                        <s xml:id="khq2qexmpv">Skjótari einstakar verkætlanir verða framdar, skjótari fáa borgararnir ágóðan av almennu íløgunum, og harvið sparir landið eisini rentuútreiðslur, í mun til støðuna har arbeitt verður spakuligari við fleiri verkætlanum í senn.</s>
-                    </p>
-                    <pb n="5" />
-                    <p>
-                        <s xml:id="xtq7lumu6z">Mint verður eisini á, at tað kann koma upp á tal at fremja aðrar verkætlanir komandi árini enn tær, ið eru nevndar her.</s>
-                        <s xml:id="invluxwb75">Henda frágreiðing viðger bert íløgur, ið hava týðandi avleiðingar fyri skipanina av føroyska samferðslukervinum.</s>
-                        <s xml:id="ud3lclcvl4">Ætlanin er tó í framtíðini eisini at lýsa avleiðingarnar av at fremja smærri íløgur.</s>
-                    </p>
-                </div>
-                <div>
-                    <head rend="bold">Fyrsti partur: Inngangur</head>
-                    <div>
-                        <head rend="bold"><label>1.</label> Endamálið við verkætlanini</head>
-                        <p>
-                            <seg>Í arbeiðssetninginum fyri verkætlanini verður ásett:</seg>
-                            <quote>
-                                <p>
-                                    <hi rend="italic">
-                                        <s xml:id="paz6vxqrpg">Høvuðsendamálið við hesi verkætlan er at geva landsstýrismanninum í samferðslumálum eitt fakliga undirbygt grundarlag fyri at tillaga og útbyggja almennu samferðsluskipaninar á ein slíkan hátt, at tær best møguligt kunnu nøkta tørvin hjá vinnulívi og borgarum landsins.</s>
-                                    </hi>
-                                </p>
-                            </quote>
-                        </p>
-                        <p>
-                            <s xml:id="v2yytk7l6y">Tað, sum verkætlanin skal lýsa er fyrst og fremst tørvin á átroðkandi ábótum og útbyggingum, og at gera eina langtíðarætlan fyri samferðslukervið í Føroyum.</s>
-                            <s xml:id="ilewwfbwln">Harafturat skal verkætlanin viðgera møguleikarnar fyri betri samskipan av tænastuveitingunum, og viðgera møguligar lógarbroytingar, ið eru neyðugar.</s>
-                        </p>
-                        <p>
-                            <s xml:id="elqpjicvbg">Henda fyrsta frágreiðingin er fyrst og fremst eitt tilmæli um, hvussu verkætlanarbólkurin metir, at samferðslukervið sum heild eigur at verða skipað, og støða verður í fyrstu syftu ikki tikin til smærri verkætlanir, sum t.d. einstakar vegbreiðkingar.</s>
-                            <s xml:id="s3kzrvzaod">Bólkurin hevur í hesari fyrstu frágreiðing valt ikki at fara niður í smálutir, men hevur í staðin valt at leggja dentin á at viðgera størri verkætlanir, við stórum strategiskum týdningi fyri føroysku samferðsluna.</s>
-                            <s xml:id="gq5mg5ttdb">Hildið verður, at avgerðir um smærri ábøtir á vegir í fyrstu syftu eiga at vera hildnar uttanfyri hesa frágreiðing.</s>
-                            <s xml:id="mdzghkwswi">Eisini hevur bólkurin valt ikki at viðgera mál um ferðaætlanir og viðlíkahald av vegunum.</s>
-                        </p>
-                    </div>
+              <label>3.</label>
+              <item>Nýtt avloysaraskip</item>
+            </list>
+          </p>
+          <p>
+            <s xml:id="tcim36pkxu">Harafturat krevur nýggja Sandoyarferjan broytingar/ábøtur av ferjulegunum/havnunum í Skopun, Gomlu Rætt og í Hesti, og atløguviðurskiftini í Suðuroynni eiga eisini at verða viðgjørd.</s>
+          </p>
+          <p>
+            <s xml:id="ygsalo3zfv">Verkætlanarbólkurin hevur valt ikki at seta eitt ítøkiligt árstal á, nær einstøku ætlanirnar eiga at verða framdar.</s>
+            <s xml:id="m3mlnvmk7i">Hesin spurningur er í stóran mun treytaður av fíggjarorkuni hjá landskassanum, og búskaparligu gongdini í samfelagnum sum heild.</s>
+          </p>
+          <p>
+            <s xml:id="yjaf6rzbk5">Verkætlanarbólkurin vil tó mæla til, at raðfest verður heldur millum einstakar verkætlanir enn at raðfesta yvir tíð.</s>
+            <s xml:id="vqmrpqc5k5">Við hesum meinast við, at um íløgukarmurin er lítil, skal ein heldur royna at avmarka talið av verkætlanum, enn at byrja nógvar ymiskar verkætlanir, sum ein so noyðist at draga út í nógv ár.</s>
+            <s xml:id="s3nd4pojys">Heldur arbeiða við einari verkætlan í senn, ið tekur 5 ár at fremja, enn at arbeiða við tveimum verkætlanum í senn, sum so noyðast at koyra við lágum blussi í 10 ár.</s>
+            <s xml:id="khq2qexmpv">Skjótari einstakar verkætlanir verða framdar, skjótari fáa borgararnir ágóðan av almennu íløgunum, og harvið sparir landið eisini rentuútreiðslur, í mun til støðuna har arbeitt verður spakuligari við fleiri verkætlanum í senn.</s>
+          </p>
+          <pb n="5" />
+          <p>
+            <s xml:id="xtq7lumu6z">Mint verður eisini á, at tað kann koma upp á tal at fremja aðrar verkætlanir komandi árini enn tær, ið eru nevndar her.</s>
+            <s xml:id="invluxwb75">Henda frágreiðing viðger bert íløgur, ið hava týðandi avleiðingar fyri skipanina av føroyska samferðslukervinum.</s>
+            <s xml:id="ud3lclcvl4">Ætlanin er tó í framtíðini eisini at lýsa avleiðingarnar av at fremja smærri íløgur.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Fyrsti partur: Inngangur</head>
+          <div>
+            <head rend="bold"><label>1.</label> Endamálið við verkætlanini</head>
+            <p>
+              <seg>Í arbeiðssetninginum fyri verkætlanini verður ásett:</seg>
+              <quote>
+                <p>
+                  <hi rend="italic">
+                    <s xml:id="paz6vxqrpg">Høvuðsendamálið við hesi verkætlan er at geva landsstýrismanninum í samferðslumálum eitt fakliga undirbygt grundarlag fyri at tillaga og útbyggja almennu samferðsluskipaninar á ein slíkan hátt, at tær best møguligt kunnu nøkta tørvin hjá vinnulívi og borgarum landsins.</s>
+                  </hi>
+                </p>
+              </quote>
+            </p>
+            <p>
+              <s xml:id="v2yytk7l6y">Tað, sum verkætlanin skal lýsa er fyrst og fremst tørvin á átroðkandi ábótum og útbyggingum, og at gera eina langtíðarætlan fyri samferðslukervið í Føroyum.</s>
+              <s xml:id="ilewwfbwln">Harafturat skal verkætlanin viðgera møguleikarnar fyri betri samskipan av tænastuveitingunum, og viðgera møguligar lógarbroytingar, ið eru neyðugar.</s>
+            </p>
+            <p>
+              <s xml:id="elqpjicvbg">Henda fyrsta frágreiðingin er fyrst og fremst eitt tilmæli um, hvussu verkætlanarbólkurin metir, at samferðslukervið sum heild eigur at verða skipað, og støða verður í fyrstu syftu ikki tikin til smærri verkætlanir, sum t.d. einstakar vegbreiðkingar.</s>
+              <s xml:id="s3kzrvzaod">Bólkurin hevur í hesari fyrstu frágreiðing valt ikki at fara niður í smálutir, men hevur í staðin valt at leggja dentin á at viðgera størri verkætlanir, við stórum strategiskum týdningi fyri føroysku samferðsluna.</s>
+              <s xml:id="gq5mg5ttdb">Hildið verður, at avgerðir um smærri ábøtir á vegir í fyrstu syftu eiga at vera hildnar uttanfyri hesa frágreiðing.</s>
+              <s xml:id="mdzghkwswi">Eisini hevur bólkurin valt ikki at viðgera mál um ferðaætlanir og viðlíkahald av vegunum.</s>
+            </p>
+          </div>
 
-                    <div>
-                        <head rend="bold"><label>2.</label> Verkætlanarskipan</head>
-                        <p>
-                            <s xml:id="z224hu7wsz">Niels Winther úr Samskiftisdeildini hjá Vinnumálastýrinum hevur staðið fyri dagliga arbeiðinum við verkætlanini.</s>
-                            <seg>Í verkætlanarbólkinum hava annars luttikið:</seg>
-                            <!-- TODO: ENCODE PEOPLE LATER... -->
-                        </p>
-                    </div>
-                    <pb n="7" />
-                    <div>
-                        <head rend="bold"><label>3.</label> Avmarking av samferðslukervi</head>
-                        <p>
-                            <s xml:id="gpeytakchr">Tá eitt yvirlit og íløguraðfesting skal gerast fyri føroyska samferðslukervið, er neyðugt at greina út, hvat eitt slíkt umfatar.</s>
-                            <s xml:id="vgborpfkhk">Í grannalondum okkara er vorðið alt meira vanligt, at orðið ”infrastruktur” verður nýtt í breiðara merking sum <hi rend="italic">samskiftiskerv</hi>, sum umfatar alt realfæ, ið ger samskifti millum persónar møguligt.</s>
-                            <s xml:id="xpxgjpirv2">Hetta merkir, at eisini elektroniskt kapitalfæ, so sum kaðalir, satelittar o.t., ið verður nýtt at samskifta við, eru partur av einum slíkum infrastrukturi ella samskiftiskervi.</s>
-                            <s xml:id="wu5m3zgzkt">Orsøkin til, at tað gevur meining at tosa um eitt samskiftiskerv er, at tørvurin fyri fysiskari samferðslu er vorðin tengdur alt tættari saman við møguleikanum fyri elektroniskum samskifti.</s>
-                            <s xml:id="szaaksih34">T.d. hevur internetsamband gjørt tað møguligt hjá fólki at sita heima og arbeiða part av tíðini, so tað ikki er neyðugt hjá teimum fysiskt at flyta seg úr staðnum.</s>
-                            <s xml:id="e6z63yo5ca">Eisini hevur nýggja tøknifrøðin gjørt tað møguligt hjá fólkum á avbyrgdum støðum at fylgja líka væl við í gongdini sum fólk, ið búgva í stórbýnum.</s>
-                            <s xml:id="xxexulu25u">Eitt softwarevirki kann í prinsippinum líka væl vera á einari lítlari oyggj sum í einum stórbýi, bert samskiftismøguleikarnir við útheimin eru i lagi.</s>
-                        </p>
-                        <p>
-                            <s xml:id="cimokrywak">Verkætlanarbólkurin hevur tó samtykt, at samferðslukerv í samband við hesa verkætlan skal skiljast í tí traditionella týdninginum, t.v.s. føst anlegg og flutningseindir, hvørs endamál tað er at flyta persónar og góðs úr einum staði til eitt annað.</s>
-                            <s xml:id="cz7nvj6jqt">Einki er nevniliga sum bendir á, at tørvurin fyri samferðslu minkar, heldur hevur hann hug at veksa, um so nýggja tøknifrøðin gevur møguleikar fyri at nýta aðrar samskiftishættir enn vanliga samferðslu.</s>
-                            <s xml:id="atzfigks27">Nógvar ymiskar orsøkir eru til økta samferðslutørvin, eitt nú økt frítíð og búskaparligur vøkstur.</s>
-                        </p>
-                        <p>
-                            <s xml:id="xdxs3sqaeu">Innanlands samferðslukervið umfatar tí sum grundstøði vegir, havnir, tunnlar, brúgvar, byrgingar, tyrlupallar, ferjur, bussar og tyrlur.</s>
-                            <s xml:id="cxxcbq7xj2">Í søguligum baksýni hevur tað verið ein eyðkend landsuppgáva at tryggja borgarunum eitt væl útbygt innanoyggja samferðslukerv, so allir borgarar í mest møguligan mun kundu flyta seg skjótt og trygt úr staði í stað.</s>
-                            <s xml:id="iipurpuuuw">Tað hevur verið vanligt, at landið yvir fíggjarlógina hevur fíggjað ein stóran part av íløgu og rakstri av hesum samferðslukervi, um so eitt ávíst brúkaragjald oftast er tengt at nýtsluni.</s>
-                        </p>
-                        <p>
-                            <s xml:id="xrnukozsj2">Uttanlands samferðslukervið umfatar flogvøllin í Vágum og størri havnir, ið farma- og ferðafólkaskip nýta í sambandi við sigling til grannalondini.</s>
-                            <s xml:id="i57tpl4rag">Flogvøllurin í Vágum er enn danskt ábyrgdarøki, og verður tí ikki viðgjørdur í hesari samferðsluverkætlan.</s>
-                            <s xml:id="fkdmm2bnuf">Viðvíkjandi uttanlands skipaferðslu, hevur luturin hjá tí almenna í størri mun verið at tryggja nøktandi <hi rend="italic">karmar</hi> á økinum, so minst møguligar forðingar eru fyri at avgreiða hetta samband á effektivan hátt.</s>
-                            <s xml:id="rwnewd7aqf">Lutur hins almenna hevur sostatt í størstan mun verið at tryggja, at kapasitetur er í landinum til at taka ímóti hesum skipum, heldur enn beinleiðis at umsita og reka hesa ferðslu.</s>
-                            <s xml:id="tgxeqb33kd">Hetta hevur í stóran mun verið ein privat uppgáva, um sæð verður burtur frá tíðarskeiðnum, tá Smyril røkti siglingina til Skotlands.</s>
-                        </p>
-                        <p>
-                            <s xml:id="cg4ycw4tcc">Vinnumálastýrið og stovnar undir tí umsita og reka í stóran mun tað almenna samferðslukervið, men partar eru lagdir út til kommunur at umsita, ella til privat/alment felag at reka.</s>
-                            <s xml:id="jpkidofizx">Dømi um hetta seinasta er tyrlutænastan, ið Landsstýrið hevur gjørt sáttmála við Atlantic Airways um at reka, og har kostnaðurin av hesum sáttmála er játtaður á fíggjarlógini.</s>
-                        </p>
-                        <pb n="8" />
-                        <p>
-                            <s xml:id="k7jai6vaq7">Sostatt eru øki, har Vinnumálastýrið og stovnar undir tí taka avgerð um íløgur í føst anlegg og flutningseindir, og onnur øki, har hesar avgerðir verða tiknar av kommunum, privatum, ella stovnum undir danska statinum.</s>
-                            <s xml:id="gry74bhd47">Bólkurin hevur í fyrstu syftu valt at leggja størsta dentin á viðgerðina av tí partinum av samferðslukervinum, har tað verður mett at verða ein landsuppgáva at taka avgerðir um at fremja íløgur, ella har landið fíggjar ein stóran part av íløgunum, ið gjørdar verða.</s>
-                            <seg>Hetta merkir, at bólkurin í fyrstu syftu hevur lagt seg eftir at meta um íløgur í:</seg>
-                            <list rend="numbered">
-                                <label>1.</label>
-                                <item>
-                                    <seg>Veganetið (vegir, berghol v.m.)</seg>
-                                </item>
+          <div>
+            <head rend="bold"><label>2.</label> Verkætlanarskipan</head>
+            <p>
+              <s xml:id="z224hu7wsz">Niels Winther úr Samskiftisdeildini hjá Vinnumálastýrinum hevur staðið fyri dagliga arbeiðinum við verkætlanini.</s>
+              <seg>Í verkætlanarbólkinum hava annars luttikið:</seg>
+              <!-- TODO: ENCODE PEOPLE LATER... -->
+            </p>
+          </div>
+          <pb n="7" />
+          <div>
+            <head rend="bold"><label>3.</label> Avmarking av samferðslukervi</head>
+            <p>
+              <s xml:id="gpeytakchr">Tá eitt yvirlit og íløguraðfesting skal gerast fyri føroyska samferðslukervið, er neyðugt at greina út, hvat eitt slíkt umfatar.</s>
+              <s xml:id="vgborpfkhk">Í grannalondum okkara er vorðið alt meira vanligt, at orðið ”infrastruktur” verður nýtt í breiðara merking sum <hi rend="italic">samskiftiskerv</hi>, sum umfatar alt realfæ, ið ger samskifti millum persónar møguligt.</s>
+              <s xml:id="xpxgjpirv2">Hetta merkir, at eisini elektroniskt kapitalfæ, so sum kaðalir, satelittar o.t., ið verður nýtt at samskifta við, eru partur av einum slíkum infrastrukturi ella samskiftiskervi.</s>
+              <s xml:id="wu5m3zgzkt">Orsøkin til, at tað gevur meining at tosa um eitt samskiftiskerv er, at tørvurin fyri fysiskari samferðslu er vorðin tengdur alt tættari saman við møguleikanum fyri elektroniskum samskifti.</s>
+              <s xml:id="szaaksih34">T.d. hevur internetsamband gjørt tað møguligt hjá fólki at sita heima og arbeiða part av tíðini, so tað ikki er neyðugt hjá teimum fysiskt at flyta seg úr staðnum.</s>
+              <s xml:id="e6z63yo5ca">Eisini hevur nýggja tøknifrøðin gjørt tað møguligt hjá fólkum á avbyrgdum støðum at fylgja líka væl við í gongdini sum fólk, ið búgva í stórbýnum.</s>
+              <s xml:id="xxexulu25u">Eitt softwarevirki kann í prinsippinum líka væl vera á einari lítlari oyggj sum í einum stórbýi, bert samskiftismøguleikarnir við útheimin eru i lagi.</s>
+            </p>
+            <p>
+              <s xml:id="cimokrywak">Verkætlanarbólkurin hevur tó samtykt, at samferðslukerv í samband við hesa verkætlan skal skiljast í tí traditionella týdninginum, t.v.s. føst anlegg og flutningseindir, hvørs endamál tað er at flyta persónar og góðs úr einum staði til eitt annað.</s>
+              <s xml:id="cz7nvj6jqt">Einki er nevniliga sum bendir á, at tørvurin fyri samferðslu minkar, heldur hevur hann hug at veksa, um so nýggja tøknifrøðin gevur møguleikar fyri at nýta aðrar samskiftishættir enn vanliga samferðslu.</s>
+              <s xml:id="atzfigks27">Nógvar ymiskar orsøkir eru til økta samferðslutørvin, eitt nú økt frítíð og búskaparligur vøkstur.</s>
+            </p>
+            <p>
+              <s xml:id="xdxs3sqaeu">Innanlands samferðslukervið umfatar tí sum grundstøði vegir, havnir, tunnlar, brúgvar, byrgingar, tyrlupallar, ferjur, bussar og tyrlur.</s>
+              <s xml:id="cxxcbq7xj2">Í søguligum baksýni hevur tað verið ein eyðkend landsuppgáva at tryggja borgarunum eitt væl útbygt innanoyggja samferðslukerv, so allir borgarar í mest møguligan mun kundu flyta seg skjótt og trygt úr staði í stað.</s>
+              <s xml:id="iipurpuuuw">Tað hevur verið vanligt, at landið yvir fíggjarlógina hevur fíggjað ein stóran part av íløgu og rakstri av hesum samferðslukervi, um so eitt ávíst brúkaragjald oftast er tengt at nýtsluni.</s>
+            </p>
+            <p>
+              <s xml:id="xrnukozsj2">Uttanlands samferðslukervið umfatar flogvøllin í Vágum og størri havnir, ið farma- og ferðafólkaskip nýta í sambandi við sigling til grannalondini.</s>
+              <s xml:id="i57tpl4rag">Flogvøllurin í Vágum er enn danskt ábyrgdarøki, og verður tí ikki viðgjørdur í hesari samferðsluverkætlan.</s>
+              <s xml:id="fkdmm2bnuf">Viðvíkjandi uttanlands skipaferðslu, hevur luturin hjá tí almenna í størri mun verið at tryggja nøktandi <hi rend="italic">karmar</hi> á økinum, so minst møguligar forðingar eru fyri at avgreiða hetta samband á effektivan hátt.</s>
+              <s xml:id="rwnewd7aqf">Lutur hins almenna hevur sostatt í størstan mun verið at tryggja, at kapasitetur er í landinum til at taka ímóti hesum skipum, heldur enn beinleiðis at umsita og reka hesa ferðslu.</s>
+              <s xml:id="tgxeqb33kd">Hetta hevur í stóran mun verið ein privat uppgáva, um sæð verður burtur frá tíðarskeiðnum, tá Smyril røkti siglingina til Skotlands.</s>
+            </p>
+            <p>
+              <s xml:id="cg4ycw4tcc">Vinnumálastýrið og stovnar undir tí umsita og reka í stóran mun tað almenna samferðslukervið, men partar eru lagdir út til kommunur at umsita, ella til privat/alment felag at reka.</s>
+              <s xml:id="jpkidofizx">Dømi um hetta seinasta er tyrlutænastan, ið Landsstýrið hevur gjørt sáttmála við Atlantic Airways um at reka, og har kostnaðurin av hesum sáttmála er játtaður á fíggjarlógini.</s>
+            </p>
+            <pb n="8" />
+            <p>
+              <s xml:id="k7jai6vaq7">Sostatt eru øki, har Vinnumálastýrið og stovnar undir tí taka avgerð um íløgur í føst anlegg og flutningseindir, og onnur øki, har hesar avgerðir verða tiknar av kommunum, privatum, ella stovnum undir danska statinum.</s>
+              <s xml:id="gry74bhd47">Bólkurin hevur í fyrstu syftu valt at leggja størsta dentin á viðgerðina av tí partinum av samferðslukervinum, har tað verður mett at verða ein landsuppgáva at taka avgerðir um at fremja íløgur, ella har landið fíggjar ein stóran part av íløgunum, ið gjørdar verða.</s>
+              <seg>Hetta merkir, at bólkurin í fyrstu syftu hevur lagt seg eftir at meta um íløgur í:</seg>
+              <list rend="numbered">
+                <label>1.</label>
+                <item>
+                  <seg>Veganetið (vegir, berghol v.m.)</seg>
+                </item>
 
-                                <label>2.</label>
-                                <item>
-                                    <seg>Skipaflotan hjá Strandfaraskipum Landsins</seg>
-                                </item>
+                <label>2.</label>
+                <item>
+                  <seg>Skipaflotan hjá Strandfaraskipum Landsins</seg>
+                </item>
 
-                                <label>3.</label>
-                                <item>
-                                    <seg>Samferðsluhavnir</seg>
-                                </item>
-                            </list>
-                        </p>
-                    </div>
-                    <div>
-                        <head rend="bold"><label>4.</label> Grundarlagið undir metingum í verkætlanini</head>
-                        <p>
-                            <s xml:id="i2p2afl4mn">Í arbeiðssetninginum verða grundsetningarnir nevndir, ið ein langtíðarætlan eigur at verða grundað á.</s>
-                            <seg>Teir eru fýra í tali:</seg>
-                            <list rend="bullet">
-                                <item>
-                                    <s xml:id="t3v5lnbhmy">
-                                        <hi rend="italic">Mest møguligt eins tænastustøði fyri allar partar av landinum.</hi>
-                                    </s>
-                                    <list rend="bullet">
-                                        <item>
-                                            <!-- <s>frávik frá hesum grundsetningi kunnu tó gerast, um a) kostnað-nyttu kanningar vísa á, at kostnaðurin av einari íløgu als ikki stendur mát við ta nyttu, ið fæst burturúr íløguni ella um b) fyrilit fyri vinnuligum áhugamálum føra við sær, at summar farleiðir eru betri útbygdar.</s> -->
-                                            <s xml:id="ezewvdjjvg">Frávik frá hesum grundsetningi kunnu tó gerast, um a) kostnað-nyttu kanningar vísa á, at kostnaðurin av einari íløgu als ikki stendur mát við ta nyttu, ið fæst burturúr íløguni ella um b) fyrilit fyri vinnuligum áhugamálum føra við sær, at summar farleiðir eru betri útbygdar.</s>
-                                        </item>
-                                    </list>
-                                </item>
-                                <item>
-                                    <s xml:id="pjef6ikyuy">
-                                        <hi rend="italic">Flutningur av fólki og góðsi skal skipast á einum høgum trygdarligum støði.</hi>
-                                    </s>
-                                    <list rend="bullet">
-                                        <item>
-                                            <s xml:id="dgvqojyh42">Miðað eigur at verða eftir at minka um talið av vanlukkum við fyribyrgjandi tiltøkum.</s>
-                                        </item>
-                                    </list>
-                                </item>
-                                <item>
-                                    <s xml:id="wi7m6vdins">
-                                        <hi rend="italic">Best møgulig tænasta fyri lægst møguligan kostnað.</hi>
-                                    </s>
-                                    <list rend="bullet">
-                                        <item>
-                                            <s xml:id="crymdf3j56">Hetta merkir m.a. at stórur dentur eigur at verða lagdur á at samskipa ymsu partarnar av almenna samferðsluvirkseminum.</s>
-                                            <s xml:id="gmwltc4ep4">Eisini spurningar um skynsemismenning, liberalisering og útbjóðing av almennum tænastum/arbeiðum hava týdning í hesum sambandi.</s>
-                                        </item>
-                                    </list>
-                                </item>
-                                <item>
-                                    <s xml:id="plohst6fse">
-                                        <hi rend="italic">Í tann mun landafrøði og fíggjarorka loyva tí, verða mest framkomnu samferðslumiðlar nýttir.</hi>
-                                    </s>
-                                    <list rend="bullet">
-                                        <item>
-                                            <s xml:id="mfdaw52o7z">Hetta er galdandi bæði viðvíkjandi føstum anleggum og flutningseindum.</s>
-                                        </item>
-                                    </list>
-                                </item>
-                            </list>
-                        </p>
-                        <p>
-                            <s xml:id="s23wc4srgv">Tað er eyðsæð, at hesir fýra grundsetningar ikki eru neyvar ávísingar um, hvussu raðfest eigur at verða, men kanska heldur eru grundsetningar, ein eigur at hava í huga, tá íløguspurningar verða viðgjørdir.</s>
-                            <s xml:id="yecpu5eeum">T.d. er ikki heilt greitt hvat meinast við, at tænastan skal vera best møgulig fyri lægst møguligan kostnað.</s>
-                            <s xml:id="giepc6j3eo">Tað kann merkja, at avgerð verður tikin um tænastustøðið, og at kostnaðurin fyri hetta ávísa tænastustøðið skal verða so lágur sum møguligt.</s>
-                            <s xml:id="mpsmoet26k">Tað kann eisini merkja, at kostnaðurin av farleiðini verður ásettur, og so skal best møgulig tænasta fáast burturúr hesum peningi.</s>
-                            <s xml:id="tpxn53lz7w">Ein triði møguleiki er, at tænasta og kostnaður eigur at vigast upp móti hvørjum øðrum, og spurningurin er so hvussu hetta skal gerast heilt ítøkiligt.</s>
-                            <s xml:id="pjtd2o2nks">Hvussu tú tulkar henda setning er avgerandi fyri, hvat ítøkiligt úrslit, ið spyrst burturúr.</s>
-                        </p>
-                        <pb n="9" />
-                        <p>
-                            <s xml:id="lahrmfl7um">Ei heldur er heilt greitt ásett, hvørja vekt ymsu grundsetningarnar skulu hava.</s>
-                            <s xml:id="jn6pftpawp">Skal avmarkaða tilfeingið á fíggjarlógini, ið er avsett til íløgur innan samferðsluøkið fyrst og fremst nýtast til at betra ferðslutrygdina, ella til at tryggja, at tænastustøðið í størst møguligan mun er líka fyri allar partar av landinum?</s>
-                        </p>
-                        <p>
-                            <s xml:id="kzooas3ydg">Verkætlanarbólkurin hevur tí valt at leggja áherðslu á, at týdningamesti grundsetningurin undir arbeiðinum er, at møguleiki skal vera fyri persóns- og góðsflutningssambandi til allar bygdir í Føroyum, antin talan er um fast samband ella samband við flutningsførum.</s>
-                            <s xml:id="yfah5boxdx">Hetta merkir, at um eitt flutningssamband til eina bygd ella øki er hótt, eigur íløgukarmurin fyrst og fremst at tryggja eitt regluligt flutningssamband.</s>
-                            <s xml:id="z37yyvjl57">Hetta kann t.d. vera, at nýggj trygdarkrøv gera tað ómøguligt at halda fram við verandi flutningsfari, og at íløga tí má gerast í eitt nýtt.</s>
-                        </p>
-                        <p>
-                            <s xml:id="pguir3baav">Um flutningssamband er til allar bygdir, verður næsti týðandi grundsetningur, at best møgulig tænasta skal fáast fyri lægst møguligan kostnað.</s>
-                            <s xml:id="zn5p7veohk">Mett verður, at grundsetningarnir um ferðslutrygd og framkomin flutningstól í stóran mun eru umfataði av setninginum um, at tænastan skal vera best møgulig fyri lægst møguligan kostnað.</s>
-                            <s xml:id="qoi6mqneth">Hetta merkir ikki tað sama sum, at ferðslutrygdin ongan týdning hevur, men bert, at íløgur, ið skulu betra um ferðslutrygdina, eisini eru umfataði av, at íløgurnar skulu gerast í mun til, hvussu nógv fæst burturúr avmarkaða tilfeinginum.</s>
-                            <s xml:id="jmewjz6i2f">Mett verður eisini, at framkomnir flutningsmiðlar ikki er eitt mál í sær sjálvum, men at møguleiki er fyri, at framkomnir flutningsmiðlar kunnu vera viðvirkandi til at skapa so góða tænastu fyri so lágan kostnað sum møguligt.</s>
-                            <s xml:id="dmqbcl6zht">Roknað verður við, at fíggjarligu karmarnir til nýíløgur liggja nokk so fastir, og at roynt skal verða at fáa sum mest burturúr avmarkaða tilfeinginum.</s>
-                        </p>
-                    </div>
-                </div>
-                <div>
-                    <head rend="bold">Annar partur: Samferðslukervið í Føroyum</head>
-                    <div>
-                        <p>
-                            <s xml:id="g7bhixlh3m">Ymisk viðurskifti hava týdning fyri, á hvønn hátt og hvussu nógv samferðslukervið er vorðið útbygt í Føroyum.</s>
-                            <s xml:id="qgpwoyvncu">Serliga hava søgulig og búskaparlig viðurskifti umframt ynskir um at menna lokalsamfeløgini í Føroyum havt týdning fyri, hvørjar íløgur eru gjørdar í samferðslukervið.</s>
-                        </p>
-                    </div>
-                    <div>
-                        <head rend="bold"><label>2.</label> Søguligar slóðir</head>
-                        <p>
-                            <s xml:id="fzyfsjsq5w">Samferðslukervið í Føroyum hevur søguliga sæð ment seg á ein desentralan hátt.</s>
-                            <s xml:id="dlcmrpkfuo">Vegasamband varð gjørt millum tvær bygdir av tí orsøk, at hetta lætti so mikið nógv um samskiftið millum bygdirnar, at tað varð hildið at vera vert at fara undir eitt slíkt stórtak at gera ein veg.</s>
-                            <s xml:id="pjup5bsjmw">Av fyrstan tíð var eingin yvirorðnað ætlan við samferðsluútbyggingunum, og bert fáur maður mundi hugsa um, hvussu hesin vegurin einaferð fór at hóska inn í eitt samlað føroyskt samferðslukerv.</s>
-                            <s xml:id="xqnn2cxsnr">Útbyggingarnar hava frá fyrstan tíð í stóran mun verið gjørdar við vinnuligum áhugamálum fyri eyga, og vóru tað ofta vinnulívsmenn, ið strongdu á fyri at fáa hesar útbyggingar av samferðslukervinum framdar.</s>
-                        </p>
-                        <p>
-                            <s xml:id="vjlic76wch">Fyrstu veruligu vegir og havnir vóru bygdar fyrst í okkara øld, og hevur útbyggingin av samferðslukervinum ment seg síðani.</s>
-                            <s xml:id="vhphiawfqu">Verulig ferð kom tó nústaðni á aftaná seinna heimsbardaga, tá inntøkur landskassans vuksu nógv.</s>
-                            <s xml:id="zp7ixynhtm">Áðrenn hetta hevði tað í stóran mun verið danski staturin sum saman við kommununum fíggjaði útbyggingarnar.</s>
-                        </p>
-                        <p>
-                            <s xml:id="nv7jjuytm4">Desentrala menningin av samferðslukervinum og tann tekniska menningin, ið er farin fram síðan fyrsti vegurin varð bygdur, hevur ført við sær, at samferðslukervið í dag ikki er tað best samskipaða ella mest skynsama, ið hugsast kann.</s>
-                            <s xml:id="svloiaxpiw">Um byrjað var umaftur í dag at uppbyggja eitt føroyskt samferðslukerv frá botninum, høvdu óivað stórar broytingar verið í mun til í dag.</s>
-                            <s xml:id="lapxpvq4bp">Hetta merkir tó ikki tað sama sum, at alt samferðslukervið eigur at verða broytt til tað mest skynsama kerv, ið hugsast kann.</s>
-                            <s xml:id="sjiht6kpyd">Tær íløgur, ið gjørdar eru fyrr í okkara samferðslukerv, ávirka nevniliga í stóran mun, hvørjar íløgur, ið eru tær skynsamastu at fremja í dag.</s>
-                            <s xml:id="h5waajoltd">Allar avgerðir um íløgur mugu taka støði í tí verandi, og nýíløgur bert fremjast, um kostnaðurin stendur mát við tann ágóða, ið fæst burturúr íløguni.</s>
-                            <s xml:id="weh3r2huzj">Ognarviðurskifti ella vantandi tekniskur kunnleiki kunnu t.d. hava ávirkað linjuføringina av einum vegi, so hesin ikki varð tann beinasti ella mest skynsami av øllum møguleikum.</s>
-                            <s xml:id="j3ykr4d6ih">Hóast hetta er tað ikki vist, at tað í dag loysir seg at rætta hetta ”mistak”, so vegurin verður beinari, ella teinurin styttri at koyra, tí nú liggur av søguligum orsøkum ein vegur, ið er væl nýtiligur, og sum tað kanska er ov kostnaðarmikið at gera av nýggjum.</s>
-                            <s xml:id="erv2bd5agt">Tað, ið fæst burturúr, stendur ikki mát við kostnaðin at umbyggja vegin, ella kanska at gera ein nýggjan, styttri veg millum tvær bygdir.</s>
-                        </p>
-                        <p>
-                            <s xml:id="hvfqispi5o">Sostatt hava tær søguligu avgerðir, ið eru tiknar um íløgur í samferðslukervið týdning fyri, hvørjar eru tær skynsamastu at fremja í dag.</s>
-                            <s xml:id="vyzb3bqqzz">Hetta er tað, sum í institutionellari búskaparfrøði rópast ”path dependency”.</s>
-                            <s xml:id="jurrk5rdu3">Um ein fyrst er byrjaður at ganga eina leið, er tað ikki altíð møguligt ella skilagott at venda við og velja eina aðra leið.</s>
-                            <s xml:id="svanrepcul">Tann slóðin, ið er traðkað áðrenn, hevur ávirkan á, hvør leið, ið er tann beinasta at velja.</s>
-                        </p>
-                    </div>
-                    <pb n="11" />
-                    <div>
-                        <head rend="bold"><label>2.</label> Búskaparligi týdningurin av samferðslukervinum</head>
-                        <p>
-                            <s xml:id="wsnsv43oxe">Ikki er tað av tilvild, at tað vóru vinnulívsmenn, ið strongdu mest á at fáa útbygt føroyska samferðslukervið.</s>
-                            <s xml:id="mg7i253irg">Eingin ivi er um, at samferðslukervið hevur havt ein týdningarmiklan leiklut í búskaparligu menningini í flest øllum ídnaðurlondum.</s>
-                            <s xml:id="mcr2mdu36k">Íløgur í samferðslukervið hava minkað friktiónina í samskifti og ikki minst samhandli millum persónar, virkir og lond.</s>
-                            <s xml:id="d7xfarz6uz">Hetta hevur verið ein viðvirkandi orsøk til búskaparligan vøkstur og øking í livifótinum í ídnaðarlondum sum heild.</s>
-                        </p>
-                        <p>
-                            <s xml:id="bmbwp2n3g4">Tó er tað sjálvandi ikki so lætt, at um tú gert íløgur í eitt gott samferðslu- og samskiftiskerv, so kemur búskaparligi vøksturin at kalla av sær sjálvum.</s>
-                            <s xml:id="ezo24sujf3">Íløgur í samferðslukervið kunnu betra karmarnar hjá vinnuni, men ongantíð av sær sjálvum gera vinnur rentablar.</s>
-                            <s xml:id="jfdkefhtdm">Til hetta krevst hugsjónir, virkisfýsni og dirvi hjá fólkunum, ið arbeiða í landinum.</s>
-                            <s xml:id="fxrktvbmgj">Leikluturin hjá tí almenna er at skapa røttu karmarnar fyri, at virkir og einstaklingar kunnu virka tað, teir duga, við so fáum forðingum og so lítlari friktión sum møguligt.</s>
-                            <s xml:id="huwnf5tfvn">Hetta gerst m.a. við at gera væl umhugsaðar íløgur í samferðslukervið, ið kunnu tryggja, at samskiftis- og flutningstørvurin hjá vinnuni verður nøktaður.</s>
-                        </p>
-                        <p>
-                            <s xml:id="x26bjnksnh">At skapa góðar karmar fyri samskiftis- og flutningstørvin hjá vinnulívinum merkir tó ikki, at so nógvar íløgur sum møguligt eiga at verða gjørdar í samferðslukervið.</s>
-                            <s xml:id="teev2r5vpo">Sum við flest øllum íløgum vil marginala nyttan av hvørjari krónu, ið verður nýtt til at betra um samferðslukervið verða fallandi aftaná eina ávísa upphædd.</s>
-                            <s xml:id="ltv73ezj7y">T.d. kann tað í ávísum førum virka fremjandi fyri persón- og góðsflutning at breiðka ein einsporaðan veg til ein tveysporaðan, men um tú heldur áfram at breiðka vegin útum eina ávísa breidd, verður búskaparligi týdningurin av hvørjum eyka sentimetri sera lítil.</s>
-                            <s xml:id="ratjewhu24">Tí má samfelags-búskaparliga nyttan av einari verkætlan vigast upp ímóti kostnaðinum av at fremja hana, um avmarkaða almenna tilfeingið skal nýtast á ein skilagóðan hátt.</s>
-                        </p>
-                        <p>
-                            <s xml:id="b3xfp3wsg2">Samferðslukervið hevur tó eisini búskaparligan týdning í breiðara merking fyri einstaka borgaran í landinum.</s>
-                            <s xml:id="fjmvkwoixa">Um íløgur í samferðslukervið føra við sær, at tað verður skjótari at ferðast, ella leiðin verður styttri at koyra, hevur hetta búskaparligan týdning fyri einstaka borgaran.</s>
-                            <s xml:id="boxxpayibi">Spart verður brennievni, slit á akfarið og ferðatíð, sum alt hevur eitt búskaparligt virði.</s>
-                            <s xml:id="wkeiz5jcnd">Tá metast skal um búskaparliga týdningin av onkrari verkætlan, er tí neyðugt bæði at kanna týdningin fyri vinnulívið eins væl og týdningin fyri einstaka borgaran.</s>
-                            <s xml:id="ce4nkdtjjw">Samlaði samfelagsbúskapurin fevnir bæði um virkir og einstaklingar.</s>
-                        </p>
-                        <p>
-                            <s xml:id="lnrumlm5uw">Tá verkætlanir verða mettar við atliti til búskaparligu menningina, er ein týðandi partur av hesari meting kostnað-nyttu kanningar av verkætlanini.</s>
-                            <s xml:id="ntjuai37wj">Um tær eru væl gjørdar, verður samlaði samfelagsbúskaparligi týdningurin av verkætlanini í stóran mun lýstur av úrslitunum í kanningini.</s>
-                            <s xml:id="isi6v46f6p">Í einari norskari kanning av økisbúskaparliga týdninginum av íløgum í samferðslukervið er niðurstøðan: ”Vår konklusion er mao. at godt utførte nytte-kostnad analyser trolig er istand til at gjenspeile alle ringvirkninger”.</s>
-                        </p>
-                        <p>
-                            <s xml:id="ic2uoadvz2">Tó kunnu dynamiskar avleiðingar standast av verkætlanum, har veruligir fløskuhálstrupulleikar verða loystir, ið tað kann vera ringt at spáa um áðrenn.</s>
-                            <s xml:id="kvsovd76iw">T.d. kann eitt betrað samskifti millum tvey virkir føra til, at hesi virki fara at samstarva meira, t.d. um eina felags marknaðarføring.</s>
-                            <s xml:id="fu7oiahp5p">1+1 er í slíkum førum ikki altíð 2, men kann onkuntíð geva 3.</s>
-                        </p>
-                    </div>
-                    <pb n="12" />
-                    <div>
-                        <head rend="bold"><label>3.</label> Samferðslukervið í sambandi við økis- og bygdamenning</head>
-                        <div>
-                            <head rend="bold"><label>3.1.</label> Gongdin í Føroyum</head>
-                            <p>
-                                <s>Samferðslukervið í Føroyum er tó ikki bert vorðið so væl útbygt tí tað loysti seg samfelagsbúskaparliga.</s>
-                                <s>Avgerðir um íløgur í samferðslukervið verða ofta tiknar, tí tað verður mett, at tað kann stimbra eina bygd ella eitt øki, um betri samband verður við hinar bygdirnar og hini økini í Føroyum.</s>
-                                <s>Eisini hava stórar íløgur verið gjørdar í havnir og lendingar, í einari roynd at betra um fortreytir fyri fiskivinnu í bygdum og býum, fyri at fáa fólkið at støðast.</s>
-                            </p>
-                            <p>
-                                <s>Um hesar royndir at menna lokalsamfeløgini í Føroyum hava eydnast, er eitt sindur ringt at meta um.</s>
-                                <s>Fyri tað fyrsta er ringt at siga, hvussu gongdin hevði verið, um ongar íløgur vórðu gjørdar.</s>
-                                <s>Fyri tað næsta hava eingi greitt defineraði mál verið fyri bygda- og økismenningina.</s>
-                                <s>Er endamálið við slíkari menning at stuðla smáplássini, ella er tað at stuðla allari búseting uttanfyri høvuðsstaðarøkið?</s>
-                                <s>Er endamálið bert at varðveita spjaðingina í búsetingsmynstrinum, ella er tað eisini eitt endamál at spjaða vinnuliga virksemið?</s>
-                            </p>
-                            <p>
-                                <s>Bert heilt fáar føroyskar kanningar eru gjørdar av ávirkanini av íløgum í samferðslukervið á lokalsamfeløgini kring landið, og hagfrøðisliga tilfarið er avmarkað.</s>
-                                <s>Serliga tá tað snýr seg um ávirkanina á spjaðingina av vinnuliga virkseminum er hagfrøðisliga tilfarið soltið.</s>
-                                <s>Hagtalstilfar er tó tøkt, ið kann lýsa, hvussu menningin í fólkatalinum hevur verið í teimum smáu kommununum í mun til tær størri upp ígjøgnum okkara øld.</s>
-                                <s>Hetta kann vísa, hvussu gongdin hevur verið í miðsavnani í føroyska samfelagnum, men kann sjálvandi ikki vísa, hvussu gongdin hevði verið, um færri samferðsluíløgur vórðu gjørdar.</s>
-                            </p>
-                            <p>
-                                <s>Talva 2.1 vísir talið á kommunum og talva 2.2 vísir samlaða fólkatalið uppbýtt á kommunustødd í tíðarskeiðnum 1960-95.</s>
-                                <s>Ikki er møguligt at gera nakra heilt greiða niðurstøðu út frá hesum báðum talvum.</s>
-                                <s>Fólkatalið í einstøku bólkunum í talvu 2.2. broytist nógv hvønn vegin, orsakað av, at talið á kommunum í einstøku bólkunum broytist.</s>
-                                <s>Greiðasta niðurstøðan er, at fólkatalið í miðstaðarøkinum er økt nógv seinastu 40 árini.</s>
-                                <s>Samlaða fólkatalið í kommunum við færri enn 200 íbúgvum er minkað nakað, og tað tykist, sum størsti vøksturin hevur verið í kommunum við lutfalsliga høgum íbúgvaratali.</s>
-                            </p>
-                            <p>
-                                <!-- TODO: add table later... -->
-                                <note>
-                                    <s>Argir, Hoyvík, Hvítanes og Kaldbak eru roknaði uppí Tórshavnar kommunu fyri øll árini.</s>
-                                </note>
-                            </p>
-                            <pb n="13" />
-                            <!-- TODO: add table later... -->
-                            <p>
-                                <s>Eina greiðari mynd fæst við at hyggja eftir broytingini í samlaða fólkatalinum í 20 teimum størstu og 20 teimum minstu kommununum í Føroyum 1960-1995.</s>
-                                <s>Her sæst týðiliga, at ein alsamt størri partur av samlaða fólkatalinum býr í teimum stóru kommununum.</s>
-                                <s>Eisini tá Tórshavnar kommuna verður frároknað, er gongdin tann sama: alsamt fleiri fólk búleikast í teimum stóru kommununum í mun til tær smáu.</s>
-                            </p>
-                            <!-- TODO: add table later... -->
-                            <p>
-                                <s>Eitt annað áhugavert fyribrigdi er, at miðalaldurin í teimum smærri kommununum klárt er hægri enn í teimum størri kommununum.</s>
-                                <s>T.d. er parturin av fólki, ið eru eldru enn 60 ár gott 25% í smæstu kommununum, meðan parturin av fólki eldri enn 60 ár t.d. í Havnini bert er gott 15% (Árbók fyri Føroyar 1998).</s>
-                                <s>Hetta fyribrigdi er sjálvandi partvíst orsakað av, at nógv ung fólk nema sær <pb n="14" /> útbúgving í Havnini, men tað kann ikki á sama hátt greiðast frá, hví munur eisini er á smæstu kommununum og stóru/miðalstóru kommununum uttanfyri Havnina.</s>
-                                <s>Sum sagt er ringt at siga, hvussu gongdin hevði verið, um ongar íløgur vórðu gjørdar í samferðslukervið, men tey avmarkaðu hagtølini benda á, at íløgur í samferðslukervið ikki av sær sjálvum kunnu steðga gongdini móti einari ávísari miðsavnan.</s>
-                            </p>
-                            <p>
-                                <s>Dømi eru tó um, at einstakar verkætlanir greitt hava havt eina positiva ávirkan á fólkatalið í lokalsamfeløgunum, ið hava fingið størsta ágóðan av íløguni.</s>
-                                <s>Hugsað verður m.a. um byrgingina um Hvannasund og byrgingina um Haraldssund/Kunoyartunnilin, ið óivað hava verið ein tann týdningarmesta orsøkin til, at fólkatalið í kommununum er økt.</s>
-                                <s>Knappliga broytingin til eina positiva gongd er í hesum førum hend beint aftaná, at bygdirnar vóru knýttar saman við miðstaðarøkið í Norðuroyggjum.</s>
-                            </p>
-                            <p>
-                                <s>Eisini í Kallsoynni eru stórar og kostnaðarmiklar verkætlanir framdar, ið óivað hava verið ein viðvirkandi orsøk til eina meira positiva gongd í búsetingarmynstrinum.</s>
-                                <s>Í 1979-85 fingu bygdirnar í oynni vegasamband gjøgnum tey berghol, ið vóru gjørd frá 1979-85, og líka síðan fasta vegasambandið gjørdist veruleiki, er fólkatalið økt í báðum kommununum í oynni.</s>
-                            </p>
-                            <!-- TODO: add table later... -->
-                            <p>
-                                <s>At hava fast vegasamband er tó á ongan hátt ein trygd fyri vøkstur í fólkatalinum í einum lokalsamfelagi.</s>
-                                <!-- TODO: add note here! <s>T.d. hevur ein støðug minking verið í fólkatalinum í fleiri av teimum lítlu kommununum í Eysturoynni1 , hóast fasta vegasambandið.</s> -->
-                                <s>At hava fast vegasamband er tó á ongan hátt ein trygd fyri vøkstur í fólkatalinum í einum lokalsamfelagi.</s>
-                                <s>T.d. hevur ein støðug minking verið í fólkatalinum í fleiri av teimum lítlu kommununum í Eysturoynni, hóast fasta vegasambandið.</s>
-                            </p>
-                            <p>
-                                <s>Um ein varin niðurstøða skal gerast um týdningin av samferðsluíløgum fyri búsetingarmynstrið í Føroyum er tað, at hóast stóru íløgurnar í samferðslukervið, er ein spakulig, men støðug miðsavning farin fram hesi seinastu 40 árini.</s>
-                                <s>Um hugt verður eftir verkætlanum, ið hava betrað nógv um samferðslumøguleikarnar hjá lokalsamfeløgum sæst tó, at gongdin á íbúgvaratalinum í summum økjum er vend til tað betra, beint aftaná, at verkætlanirnar vórðu framdar.</s>
-                                <s>Við tí støðugu miðsavning, ið hevur verið í føroyska samfelagnum sum heild, kann tað tó tykjast sannlíkt, at eisini hesi smápláss við tíðini fara at merkja gongdina móti einari miðsavning av íbúgvunum í teimum størri kommununum.</s>
-                                <s>Hetta er eisini niðurstøðan hjá Wachter (1998).</s>
-                            </p>
-                        </div>
-                        <pb n="15" />
-                        <div>
-                            <head><label>3.2.</label> Útlendskar royndir</head>
-                            <p>
-                                <s>Henda varna niðurstøða er í tráð við tær royndir, ið eru gjørdar í grannalondum okkara.</s>
-                                <s>Niðurstøðurnar úr frágreiðingum, ið viðgera hetta evni er ofta, at tað er ivasamt, um íløgur í samferðslukervið hava eina positiva ávirkan á økismenningina, um ikki íløgurnar loysa veruligar fløskuhálstrupulleikar fyri lokalsamfelagið.</s>
-                                <s>Í einari kanning av, hvønn týdning gerð av brúgvum til avbyrgd øki (m.a. oyggjasamfeløg) hava haft fyri økismenningina í Onglandi, staðfestir danskarin Maskell (1994), at tær positivu búskaparligu avleiðingarnar í mesta lagi eru sera lítlar, og í ringasta føri verða køvdar av sonevndum ”sogupípu-effektum”.</s>
-                                <s>Við hesum meinast við, at betraðir samskiftismøguleikar merkja, at arbeiðspláss í størri mun verða miðsavnaði í størri býarsamfeløgum.</s>
-                                <s>T.d. kunnu betri samferðslumøguleikar føra til, at lokal virkir og handlar, ið fyrr høvdu eitt lokalt monopol uppá virksemið, nú skulu kappast við størri virkir og handlar sum halda til í størri býarsamfeløgum.</s>
-                                <s>Hetta kann merkja, at vinnulívið á staðnum verður fyri einum bakkasti, um tað ikki klárar at umstilla seg til ta nýggju kappingina.</s>
-                                <s>Maskell sigur víðari: ”I intet tilfælde synes den opgjorte regionale erhvervsøkonomiske effekt i sig selv at kunne retfærdiggøre den trufne investering.”</s>
-                                <s>At arbeiðsplássini verða miðsavnaði merkir tó ikki altíð, at fólkatalið í smærri lokalsamfeløgunum minkar, tí eitt útbygt samferðslukerv merkir, at tað verður lættari at ”pendla” aftur og fram millum bústað og arbeiðspláss.</s>
-                            </p>
-                            <p>
-                                <s>Í einari frágreiðing, sum norska Samferdselsdepartementet hevur umbiðið, verða úrslit endurgivin úr einamest norðurlendskum kanningum av týdninginum av samferðslukervinum fyri búskaparligu økismenningina.</s>
-                                <s>Hóast úrslit og kanningarhættir í hesum kanningum eru nokk so ymisk, ber til at gera eina varna niðurstøðu.</s>
-                                <s>Henda niðurstøða er, at íløgur í samferðslukervið møguliga kunnu menna búskapin í samfelagnum sum heild, men at íløgur í samferðslukervið neyvan av sær sjálvum menna akkurát tað øki, ið hevur fingið betri samband orsakað av íløgunum.</s>
-                                <s>Tvørturímóti vísir ein stórur partur av kanningunum á negativar avleiðingar fyri vinnurnar í teimum smærri lokalsamfeløgunum, ið fáa betrað samferðslumøguleikarnar.</s>
-                            </p>
-                            <p>
-                                <s>Sum heild kann sigast, at tað ikki er sjálvsagt, at íløgur í samferðslukervið uppá longri sikt virka mennandi fyri eitt lokalsamfelag.</s>
-                                <s>Um ein ger íløgur í samferðslukervið við tí endamáli at menna bygdirnar, eigur ein at hava eina heilt greiða fatan av, hvussu henda íløga heilt ítøkiligt kann verða viðvirkandi til at menna eitt ávíst lokalsamfelag.</s>
-                                <s>Eitt betrað flutningssamband kann ikki einsamalt menna bygdirnar.</s>
-                            </p>
-                        </div>
-                    </div>
-                    <div>
-                        <head rend="bold"><label>4.</label> Niðurstøða</head>
-                        <p>
-                            <s>Niðurstøðan av øðrum parti er, at hóast búskaparfrøðingar mestsum eru á einum máli um, at góðir samskiftismøguleikar eru ein fortreyt fyri búskaparliga menning í samfelagnum sum heild, er føroyska samferðslukervið í dag so mikið væl útbygt, at kannast má, hvussu væl týðandi íløgur í samferðslukervið loysa seg samfelagsbúskaparliga, áðrenn tær verða framdar.</s>
-                            <s>Sjálvandi kunnu reint tekniskar orsøkir verða til eina umbygging av einum vegi, men umráðandi er, at ein altíð hevur fremst í huga, hvat borgarar og vinnulív kunnu væntast at fáa burturúr einari íløgu, og um hesir fyrimunir <pb n="16" /> standa mát við kostnaðin.</s>
-                            <s>Kostnað-nyttu kanningar kunnu í hesum sambandi vera eitt hent amboð til at viga fyrimunir og vansar upp ímóti hvørjum øðrum.</s>
-                        </p>
-                        <p>
-                            <s>Aðrar orsøkir enn bert samfelagsbúskaparligar hava søguliga verið til at gera íløgur í samferðslukervið.</s>
-                            <s>Kanska serliga í Føroyum hava íløgur í samferðslukervið verið gjørdar, tí ynski hevur verið um at varðveita eitt spjatt búsetingarmynstur í Føroyum, og hildið hevur verið, at slíkar íløgur kundu vera viðvirkandi til at nøkta hesum ynski.</s>
-                            <s>Spurningurin er so bert, um íløgur, sum eru gjørdar í samferðslukervið veruliga kunnu vera viðvirkandi til at røkka hesum endamáli.</s>
-                            <s>Um hugt verður eftir føroyska samfelagnum sum heild, vísa tey fáu tøku hagtølini, at gongdin tey seinastu 40 árini hevur verið, at ein alsamt størri partur av fólkunum býr í størri kommununum, og serliga í høvuðsstaðarøkinum.</s>
-                            <s>Íløgurnar, ið eru gjørdar í samferðslukervið hava sostatt ikki kunnað steðga einari miðsavnan í búsetingarmynstrinum.</s>
-                            <s>Hetta er í stórum í tráð við útlendskar royndir, ið vísa, at tað er ójavnt hvussu samferðsluíløgur ávirka menningina í einum lokalsamfelagi.</s>
-                            <s>Í summum førum kunnu samferðsluíløgur vera ein viðvirkandi orsøk til, at vinnulívið verður fyri einum bakkasti, ella at fólkatalið minkar.</s>
-                        </p>
-                        <p>
-                            <s>Sannlíkt er tó, at summar íløgur í samferðslukervið í minsta lagi uppá stutt sikt hava virkað mennandi fyri talið av fólkum, ið støðast á hesum smáu kommunum.</s>
-                            <s>Hinvegin eru eisini dømir um kommunur, har fólkatalið hóast gott samband við miðstaðarøkir, er í støðugari minking.</s>
-                        </p>
-                        <p>
-                            <s>Alt í alt má niðurstøðan sostatt verða, at um ein ger íløgur í samferðslukervið við tí endamáli at menna eitt lokalsamfelag, er ikki vist, at tær røkka hesum endamáli.</s>
-                            <s>Íløgur kunnu menna fólkatalið uppá stutt sikt, men uppá longri sikt er sannlíkt, at aðrar, miðsavnandi kreftir fara at gera vart við seg.</s>
-                            <s>Hóast risaíløgur í samferðslukervið tey seinastu 40 árini býr ein alsamt størri partur av fólkunum í teimum størri kommununum.</s>
-                        </p>
-                    </div>
-                </div>
-                <div>
-                    <head rend="bold">Triði partur: Planlegging av samferðslukervinum</head>
-                    <div>
-                        <p>
-                            <s>Í Føroyum hevur tað í stóran mun verið Landsverkfrøðingurin, ið hevur staðið fyri planleggingini av íløgum í vegir og havnir.</s>
-                            <s>Havnaútbyggingar eru aftaná seinna heimsbardaga vorðnar framdar eftir trimum 10 ára ætlanum, einari 6 ára ætlan og seinast einari 8 ára ætlan.</s>
-                            <s>Ringt er tó at meta um grundarlagið, ið hesar ætlanir eru gjørdar á.</s>
-                            <s>Einki alment skrivligt tilfar er, sum viðger havnaíløgurnar.</s>
-                            <s>Sannlíkt er tó, at planleggingin í stóran mun hevur verið grundað á ynskir frá kommunum, metingar hjá verkfrøðingum á Landsverkfrøðinginum og politisk signalir.</s>
-                        </p>
-                        <p>
-                            <s>Innan vegaøkið hava ongar ítøkiligar langtíðarætlanir verið, men Landsverkfrøðingurin hevur eisini her helst roynt at planleggja út frá teimum politisku signalum, ið teir hava fingið.</s>
-                        </p>
-                        <p>
-                            <s>Í høvuðsheitum hava sostatt ongar systematiskar uppgerðir verið av fyrimunum og vansum, ið standast av ítøkiligum verkætlanum.</s>
-                            <s>Tað kann tí tykjast upplagt at kanna, hvussu grannalondini hjá okkum hava skipað sína planlegging innan samferðslukervið.</s>
-                        </p>
-                    </div>
-                </div>
+                <label>3.</label>
+                <item>
+                  <seg>Samferðsluhavnir</seg>
+                </item>
+              </list>
+            </p>
+          </div>
+          <div>
+            <head rend="bold"><label>4.</label> Grundarlagið undir metingum í verkætlanini</head>
+            <p>
+              <s xml:id="i2p2afl4mn">Í arbeiðssetninginum verða grundsetningarnir nevndir, ið ein langtíðarætlan eigur at verða grundað á.</s>
+              <seg>Teir eru fýra í tali:</seg>
+              <list rend="bullet">
+                <item>
+                  <s xml:id="t3v5lnbhmy">
+                    <hi rend="italic">Mest møguligt eins tænastustøði fyri allar partar av landinum.</hi>
+                  </s>
+                  <list rend="bullet">
+                    <item>
+                      <!-- <s>frávik frá hesum grundsetningi kunnu tó gerast, um a) kostnað-nyttu kanningar vísa á, at kostnaðurin av einari íløgu als ikki stendur mát við ta nyttu, ið fæst burturúr íløguni ella um b) fyrilit fyri vinnuligum áhugamálum føra við sær, at summar farleiðir eru betri útbygdar.</s> -->
+                      <s xml:id="ezewvdjjvg">Frávik frá hesum grundsetningi kunnu tó gerast, um a) kostnað-nyttu kanningar vísa á, at kostnaðurin av einari íløgu als ikki stendur mát við ta nyttu, ið fæst burturúr íløguni ella um b) fyrilit fyri vinnuligum áhugamálum føra við sær, at summar farleiðir eru betri útbygdar.</s>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <s xml:id="pjef6ikyuy">
+                    <hi rend="italic">Flutningur av fólki og góðsi skal skipast á einum høgum trygdarligum støði.</hi>
+                  </s>
+                  <list rend="bullet">
+                    <item>
+                      <s xml:id="dgvqojyh42">Miðað eigur at verða eftir at minka um talið av vanlukkum við fyribyrgjandi tiltøkum.</s>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <s xml:id="wi7m6vdins">
+                    <hi rend="italic">Best møgulig tænasta fyri lægst møguligan kostnað.</hi>
+                  </s>
+                  <list rend="bullet">
+                    <item>
+                      <s xml:id="crymdf3j56">Hetta merkir m.a. at stórur dentur eigur at verða lagdur á at samskipa ymsu partarnar av almenna samferðsluvirkseminum.</s>
+                      <s xml:id="gmwltc4ep4">Eisini spurningar um skynsemismenning, liberalisering og útbjóðing av almennum tænastum/arbeiðum hava týdning í hesum sambandi.</s>
+                    </item>
+                  </list>
+                </item>
+                <item>
+                  <s xml:id="plohst6fse">
+                    <hi rend="italic">Í tann mun landafrøði og fíggjarorka loyva tí, verða mest framkomnu samferðslumiðlar nýttir.</hi>
+                  </s>
+                  <list rend="bullet">
+                    <item>
+                      <s xml:id="mfdaw52o7z">Hetta er galdandi bæði viðvíkjandi føstum anleggum og flutningseindum.</s>
+                    </item>
+                  </list>
+                </item>
+              </list>
+            </p>
+            <p>
+              <s xml:id="s23wc4srgv">Tað er eyðsæð, at hesir fýra grundsetningar ikki eru neyvar ávísingar um, hvussu raðfest eigur at verða, men kanska heldur eru grundsetningar, ein eigur at hava í huga, tá íløguspurningar verða viðgjørdir.</s>
+              <s xml:id="yecpu5eeum">T.d. er ikki heilt greitt hvat meinast við, at tænastan skal vera best møgulig fyri lægst møguligan kostnað.</s>
+              <s xml:id="giepc6j3eo">Tað kann merkja, at avgerð verður tikin um tænastustøðið, og at kostnaðurin fyri hetta ávísa tænastustøðið skal verða so lágur sum møguligt.</s>
+              <s xml:id="mpsmoet26k">Tað kann eisini merkja, at kostnaðurin av farleiðini verður ásettur, og so skal best møgulig tænasta fáast burturúr hesum peningi.</s>
+              <s xml:id="tpxn53lz7w">Ein triði møguleiki er, at tænasta og kostnaður eigur at vigast upp móti hvørjum øðrum, og spurningurin er so hvussu hetta skal gerast heilt ítøkiligt.</s>
+              <s xml:id="pjtd2o2nks">Hvussu tú tulkar henda setning er avgerandi fyri, hvat ítøkiligt úrslit, ið spyrst burturúr.</s>
+            </p>
+            <pb n="9" />
+            <p>
+              <s xml:id="lahrmfl7um">Ei heldur er heilt greitt ásett, hvørja vekt ymsu grundsetningarnar skulu hava.</s>
+              <s xml:id="jn6pftpawp">Skal avmarkaða tilfeingið á fíggjarlógini, ið er avsett til íløgur innan samferðsluøkið fyrst og fremst nýtast til at betra ferðslutrygdina, ella til at tryggja, at tænastustøðið í størst møguligan mun er líka fyri allar partar av landinum?</s>
+            </p>
+            <p>
+              <s xml:id="kzooas3ydg">Verkætlanarbólkurin hevur tí valt at leggja áherðslu á, at týdningamesti grundsetningurin undir arbeiðinum er, at møguleiki skal vera fyri persóns- og góðsflutningssambandi til allar bygdir í Føroyum, antin talan er um fast samband ella samband við flutningsførum.</s>
+              <s xml:id="yfah5boxdx">Hetta merkir, at um eitt flutningssamband til eina bygd ella øki er hótt, eigur íløgukarmurin fyrst og fremst at tryggja eitt regluligt flutningssamband.</s>
+              <s xml:id="z37yyvjl57">Hetta kann t.d. vera, at nýggj trygdarkrøv gera tað ómøguligt at halda fram við verandi flutningsfari, og at íløga tí má gerast í eitt nýtt.</s>
+            </p>
+            <p>
+              <s xml:id="pguir3baav">Um flutningssamband er til allar bygdir, verður næsti týðandi grundsetningur, at best møgulig tænasta skal fáast fyri lægst møguligan kostnað.</s>
+              <s xml:id="zn5p7veohk">Mett verður, at grundsetningarnir um ferðslutrygd og framkomin flutningstól í stóran mun eru umfataði av setninginum um, at tænastan skal vera best møgulig fyri lægst møguligan kostnað.</s>
+              <s xml:id="qoi6mqneth">Hetta merkir ikki tað sama sum, at ferðslutrygdin ongan týdning hevur, men bert, at íløgur, ið skulu betra um ferðslutrygdina, eisini eru umfataði av, at íløgurnar skulu gerast í mun til, hvussu nógv fæst burturúr avmarkaða tilfeinginum.</s>
+              <s xml:id="jmewjz6i2f">Mett verður eisini, at framkomnir flutningsmiðlar ikki er eitt mál í sær sjálvum, men at møguleiki er fyri, at framkomnir flutningsmiðlar kunnu vera viðvirkandi til at skapa so góða tænastu fyri so lágan kostnað sum møguligt.</s>
+              <s xml:id="dmqbcl6zht">Roknað verður við, at fíggjarligu karmarnir til nýíløgur liggja nokk so fastir, og at roynt skal verða at fáa sum mest burturúr avmarkaða tilfeinginum.</s>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head rend="bold">Annar partur: Samferðslukervið í Føroyum</head>
+          <div>
+            <p>
+              <s xml:id="g7bhixlh3m">Ymisk viðurskifti hava týdning fyri, á hvønn hátt og hvussu nógv samferðslukervið er vorðið útbygt í Føroyum.</s>
+              <s xml:id="qgpwoyvncu">Serliga hava søgulig og búskaparlig viðurskifti umframt ynskir um at menna lokalsamfeløgini í Føroyum havt týdning fyri, hvørjar íløgur eru gjørdar í samferðslukervið.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold"><label>2.</label> Søguligar slóðir</head>
+            <p>
+              <s xml:id="fzyfsjsq5w">Samferðslukervið í Føroyum hevur søguliga sæð ment seg á ein desentralan hátt.</s>
+              <s xml:id="dlcmrpkfuo">Vegasamband varð gjørt millum tvær bygdir av tí orsøk, at hetta lætti so mikið nógv um samskiftið millum bygdirnar, at tað varð hildið at vera vert at fara undir eitt slíkt stórtak at gera ein veg.</s>
+              <s xml:id="pjup5bsjmw">Av fyrstan tíð var eingin yvirorðnað ætlan við samferðsluútbyggingunum, og bert fáur maður mundi hugsa um, hvussu hesin vegurin einaferð fór at hóska inn í eitt samlað føroyskt samferðslukerv.</s>
+              <s xml:id="xqnn2cxsnr">Útbyggingarnar hava frá fyrstan tíð í stóran mun verið gjørdar við vinnuligum áhugamálum fyri eyga, og vóru tað ofta vinnulívsmenn, ið strongdu á fyri at fáa hesar útbyggingar av samferðslukervinum framdar.</s>
+            </p>
+            <p>
+              <s xml:id="vjlic76wch">Fyrstu veruligu vegir og havnir vóru bygdar fyrst í okkara øld, og hevur útbyggingin av samferðslukervinum ment seg síðani.</s>
+              <s xml:id="vhphiawfqu">Verulig ferð kom tó nústaðni á aftaná seinna heimsbardaga, tá inntøkur landskassans vuksu nógv.</s>
+              <s xml:id="zp7ixynhtm">Áðrenn hetta hevði tað í stóran mun verið danski staturin sum saman við kommununum fíggjaði útbyggingarnar.</s>
+            </p>
+            <p>
+              <s xml:id="nv7jjuytm4">Desentrala menningin av samferðslukervinum og tann tekniska menningin, ið er farin fram síðan fyrsti vegurin varð bygdur, hevur ført við sær, at samferðslukervið í dag ikki er tað best samskipaða ella mest skynsama, ið hugsast kann.</s>
+              <s xml:id="svloiaxpiw">Um byrjað var umaftur í dag at uppbyggja eitt føroyskt samferðslukerv frá botninum, høvdu óivað stórar broytingar verið í mun til í dag.</s>
+              <s xml:id="lapxpvq4bp">Hetta merkir tó ikki tað sama sum, at alt samferðslukervið eigur at verða broytt til tað mest skynsama kerv, ið hugsast kann.</s>
+              <s xml:id="sjiht6kpyd">Tær íløgur, ið gjørdar eru fyrr í okkara samferðslukerv, ávirka nevniliga í stóran mun, hvørjar íløgur, ið eru tær skynsamastu at fremja í dag.</s>
+              <s xml:id="h5waajoltd">Allar avgerðir um íløgur mugu taka støði í tí verandi, og nýíløgur bert fremjast, um kostnaðurin stendur mát við tann ágóða, ið fæst burturúr íløguni.</s>
+              <s xml:id="weh3r2huzj">Ognarviðurskifti ella vantandi tekniskur kunnleiki kunnu t.d. hava ávirkað linjuføringina av einum vegi, so hesin ikki varð tann beinasti ella mest skynsami av øllum møguleikum.</s>
+              <s xml:id="j3ykr4d6ih">Hóast hetta er tað ikki vist, at tað í dag loysir seg at rætta hetta ”mistak”, so vegurin verður beinari, ella teinurin styttri at koyra, tí nú liggur av søguligum orsøkum ein vegur, ið er væl nýtiligur, og sum tað kanska er ov kostnaðarmikið at gera av nýggjum.</s>
+              <s xml:id="erv2bd5agt">Tað, ið fæst burturúr, stendur ikki mát við kostnaðin at umbyggja vegin, ella kanska at gera ein nýggjan, styttri veg millum tvær bygdir.</s>
+            </p>
+            <p>
+              <s xml:id="hvfqispi5o">Sostatt hava tær søguligu avgerðir, ið eru tiknar um íløgur í samferðslukervið týdning fyri, hvørjar eru tær skynsamastu at fremja í dag.</s>
+              <s xml:id="vyzb3bqqzz">Hetta er tað, sum í institutionellari búskaparfrøði rópast ”path dependency”.</s>
+              <s xml:id="jurrk5rdu3">Um ein fyrst er byrjaður at ganga eina leið, er tað ikki altíð møguligt ella skilagott at venda við og velja eina aðra leið.</s>
+              <s xml:id="svanrepcul">Tann slóðin, ið er traðkað áðrenn, hevur ávirkan á, hvør leið, ið er tann beinasta at velja.</s>
+            </p>
+          </div>
+          <pb n="11" />
+          <div>
+            <head rend="bold"><label>2.</label> Búskaparligi týdningurin av samferðslukervinum</head>
+            <p>
+              <s xml:id="wsnsv43oxe">Ikki er tað av tilvild, at tað vóru vinnulívsmenn, ið strongdu mest á at fáa útbygt føroyska samferðslukervið.</s>
+              <s xml:id="mg7i253irg">Eingin ivi er um, at samferðslukervið hevur havt ein týdningarmiklan leiklut í búskaparligu menningini í flest øllum ídnaðurlondum.</s>
+              <s xml:id="mcr2mdu36k">Íløgur í samferðslukervið hava minkað friktiónina í samskifti og ikki minst samhandli millum persónar, virkir og lond.</s>
+              <s xml:id="d7xfarz6uz">Hetta hevur verið ein viðvirkandi orsøk til búskaparligan vøkstur og øking í livifótinum í ídnaðarlondum sum heild.</s>
+            </p>
+            <p>
+              <s xml:id="bmbwp2n3g4">Tó er tað sjálvandi ikki so lætt, at um tú gert íløgur í eitt gott samferðslu- og samskiftiskerv, so kemur búskaparligi vøksturin at kalla av sær sjálvum.</s>
+              <s xml:id="ezo24sujf3">Íløgur í samferðslukervið kunnu betra karmarnar hjá vinnuni, men ongantíð av sær sjálvum gera vinnur rentablar.</s>
+              <s xml:id="jfdkefhtdm">Til hetta krevst hugsjónir, virkisfýsni og dirvi hjá fólkunum, ið arbeiða í landinum.</s>
+              <s xml:id="fxrktvbmgj">Leikluturin hjá tí almenna er at skapa røttu karmarnar fyri, at virkir og einstaklingar kunnu virka tað, teir duga, við so fáum forðingum og so lítlari friktión sum møguligt.</s>
+              <s xml:id="huwnf5tfvn">Hetta gerst m.a. við at gera væl umhugsaðar íløgur í samferðslukervið, ið kunnu tryggja, at samskiftis- og flutningstørvurin hjá vinnuni verður nøktaður.</s>
+            </p>
+            <p>
+              <s xml:id="x26bjnksnh">At skapa góðar karmar fyri samskiftis- og flutningstørvin hjá vinnulívinum merkir tó ikki, at so nógvar íløgur sum møguligt eiga at verða gjørdar í samferðslukervið.</s>
+              <s xml:id="teev2r5vpo">Sum við flest øllum íløgum vil marginala nyttan av hvørjari krónu, ið verður nýtt til at betra um samferðslukervið verða fallandi aftaná eina ávísa upphædd.</s>
+              <s xml:id="ltv73ezj7y">T.d. kann tað í ávísum førum virka fremjandi fyri persón- og góðsflutning at breiðka ein einsporaðan veg til ein tveysporaðan, men um tú heldur áfram at breiðka vegin útum eina ávísa breidd, verður búskaparligi týdningurin av hvørjum eyka sentimetri sera lítil.</s>
+              <s xml:id="ratjewhu24">Tí má samfelags-búskaparliga nyttan av einari verkætlan vigast upp ímóti kostnaðinum av at fremja hana, um avmarkaða almenna tilfeingið skal nýtast á ein skilagóðan hátt.</s>
+            </p>
+            <p>
+              <s xml:id="b3xfp3wsg2">Samferðslukervið hevur tó eisini búskaparligan týdning í breiðara merking fyri einstaka borgaran í landinum.</s>
+              <s xml:id="fjmvkwoixa">Um íløgur í samferðslukervið føra við sær, at tað verður skjótari at ferðast, ella leiðin verður styttri at koyra, hevur hetta búskaparligan týdning fyri einstaka borgaran.</s>
+              <s xml:id="boxxpayibi">Spart verður brennievni, slit á akfarið og ferðatíð, sum alt hevur eitt búskaparligt virði.</s>
+              <s xml:id="wkeiz5jcnd">Tá metast skal um búskaparliga týdningin av onkrari verkætlan, er tí neyðugt bæði at kanna týdningin fyri vinnulívið eins væl og týdningin fyri einstaka borgaran.</s>
+              <s xml:id="ce4nkdtjjw">Samlaði samfelagsbúskapurin fevnir bæði um virkir og einstaklingar.</s>
+            </p>
+            <p>
+              <s xml:id="lnrumlm5uw">Tá verkætlanir verða mettar við atliti til búskaparligu menningina, er ein týðandi partur av hesari meting kostnað-nyttu kanningar av verkætlanini.</s>
+              <s xml:id="ntjuai37wj">Um tær eru væl gjørdar, verður samlaði samfelagsbúskaparligi týdningurin av verkætlanini í stóran mun lýstur av úrslitunum í kanningini.</s>
+              <s xml:id="isi6v46f6p">Í einari norskari kanning av økisbúskaparliga týdninginum av íløgum í samferðslukervið er niðurstøðan: ”Vår konklusion er mao. at godt utførte nytte-kostnad analyser trolig er istand til at gjenspeile alle ringvirkninger”.</s>
+            </p>
+            <p>
+              <s xml:id="ic2uoadvz2">Tó kunnu dynamiskar avleiðingar standast av verkætlanum, har veruligir fløskuhálstrupulleikar verða loystir, ið tað kann vera ringt at spáa um áðrenn.</s>
+              <s xml:id="kvsovd76iw">T.d. kann eitt betrað samskifti millum tvey virkir føra til, at hesi virki fara at samstarva meira, t.d. um eina felags marknaðarføring.</s>
+              <s xml:id="fu7oiahp5p">1+1 er í slíkum førum ikki altíð 2, men kann onkuntíð geva 3.</s>
+            </p>
+          </div>
+          <pb n="12" />
+          <div>
+            <head rend="bold"><label>3.</label> Samferðslukervið í sambandi við økis- og bygdamenning</head>
+            <div>
+              <head rend="bold"><label>3.1.</label> Gongdin í Føroyum</head>
+              <p>
+                <s>Samferðslukervið í Føroyum er tó ikki bert vorðið so væl útbygt tí tað loysti seg samfelagsbúskaparliga.</s>
+                <s>Avgerðir um íløgur í samferðslukervið verða ofta tiknar, tí tað verður mett, at tað kann stimbra eina bygd ella eitt øki, um betri samband verður við hinar bygdirnar og hini økini í Føroyum.</s>
+                <s>Eisini hava stórar íløgur verið gjørdar í havnir og lendingar, í einari roynd at betra um fortreytir fyri fiskivinnu í bygdum og býum, fyri at fáa fólkið at støðast.</s>
+              </p>
+              <p>
+                <s>Um hesar royndir at menna lokalsamfeløgini í Føroyum hava eydnast, er eitt sindur ringt at meta um.</s>
+                <s>Fyri tað fyrsta er ringt at siga, hvussu gongdin hevði verið, um ongar íløgur vórðu gjørdar.</s>
+                <s>Fyri tað næsta hava eingi greitt defineraði mál verið fyri bygda- og økismenningina.</s>
+                <s>Er endamálið við slíkari menning at stuðla smáplássini, ella er tað at stuðla allari búseting uttanfyri høvuðsstaðarøkið?</s>
+                <s>Er endamálið bert at varðveita spjaðingina í búsetingsmynstrinum, ella er tað eisini eitt endamál at spjaða vinnuliga virksemið?</s>
+              </p>
+              <p>
+                <s>Bert heilt fáar føroyskar kanningar eru gjørdar av ávirkanini av íløgum í samferðslukervið á lokalsamfeløgini kring landið, og hagfrøðisliga tilfarið er avmarkað.</s>
+                <s>Serliga tá tað snýr seg um ávirkanina á spjaðingina av vinnuliga virkseminum er hagfrøðisliga tilfarið soltið.</s>
+                <s>Hagtalstilfar er tó tøkt, ið kann lýsa, hvussu menningin í fólkatalinum hevur verið í teimum smáu kommununum í mun til tær størri upp ígjøgnum okkara øld.</s>
+                <s>Hetta kann vísa, hvussu gongdin hevur verið í miðsavnani í føroyska samfelagnum, men kann sjálvandi ikki vísa, hvussu gongdin hevði verið, um færri samferðsluíløgur vórðu gjørdar.</s>
+              </p>
+              <p>
+                <s>Talva 2.1 vísir talið á kommunum og talva 2.2 vísir samlaða fólkatalið uppbýtt á kommunustødd í tíðarskeiðnum 1960-95.</s>
+                <s>Ikki er møguligt at gera nakra heilt greiða niðurstøðu út frá hesum báðum talvum.</s>
+                <s>Fólkatalið í einstøku bólkunum í talvu 2.2. broytist nógv hvønn vegin, orsakað av, at talið á kommunum í einstøku bólkunum broytist.</s>
+                <s>Greiðasta niðurstøðan er, at fólkatalið í miðstaðarøkinum er økt nógv seinastu 40 árini.</s>
+                <s>Samlaða fólkatalið í kommunum við færri enn 200 íbúgvum er minkað nakað, og tað tykist, sum størsti vøksturin hevur verið í kommunum við lutfalsliga høgum íbúgvaratali.</s>
+              </p>
+              <p>
+                <!-- TODO: add table later... -->
+                <note>
+                  <s>Argir, Hoyvík, Hvítanes og Kaldbak eru roknaði uppí Tórshavnar kommunu fyri øll árini.</s>
+                </note>
+              </p>
+              <pb n="13" />
+              <!-- TODO: add table later... -->
+              <p>
+                <s>Eina greiðari mynd fæst við at hyggja eftir broytingini í samlaða fólkatalinum í 20 teimum størstu og 20 teimum minstu kommununum í Føroyum 1960-1995.</s>
+                <s>Her sæst týðiliga, at ein alsamt størri partur av samlaða fólkatalinum býr í teimum stóru kommununum.</s>
+                <s>Eisini tá Tórshavnar kommuna verður frároknað, er gongdin tann sama: alsamt fleiri fólk búleikast í teimum stóru kommununum í mun til tær smáu.</s>
+              </p>
+              <!-- TODO: add table later... -->
+              <p>
+                <s>Eitt annað áhugavert fyribrigdi er, at miðalaldurin í teimum smærri kommununum klárt er hægri enn í teimum størri kommununum.</s>
+                <s>T.d. er parturin av fólki, ið eru eldru enn 60 ár gott 25% í smæstu kommununum, meðan parturin av fólki eldri enn 60 ár t.d. í Havnini bert er gott 15% (Árbók fyri Føroyar 1998).</s>
+                <s>Hetta fyribrigdi er sjálvandi partvíst orsakað av, at nógv ung fólk nema sær <pb n="14" /> útbúgving í Havnini, men tað kann ikki á sama hátt greiðast frá, hví munur eisini er á smæstu kommununum og stóru/miðalstóru kommununum uttanfyri Havnina.</s>
+                <s>Sum sagt er ringt at siga, hvussu gongdin hevði verið, um ongar íløgur vórðu gjørdar í samferðslukervið, men tey avmarkaðu hagtølini benda á, at íløgur í samferðslukervið ikki av sær sjálvum kunnu steðga gongdini móti einari ávísari miðsavnan.</s>
+              </p>
+              <p>
+                <s>Dømi eru tó um, at einstakar verkætlanir greitt hava havt eina positiva ávirkan á fólkatalið í lokalsamfeløgunum, ið hava fingið størsta ágóðan av íløguni.</s>
+                <s>Hugsað verður m.a. um byrgingina um Hvannasund og byrgingina um Haraldssund/Kunoyartunnilin, ið óivað hava verið ein tann týdningarmesta orsøkin til, at fólkatalið í kommununum er økt.</s>
+                <s>Knappliga broytingin til eina positiva gongd er í hesum førum hend beint aftaná, at bygdirnar vóru knýttar saman við miðstaðarøkið í Norðuroyggjum.</s>
+              </p>
+              <p>
+                <s>Eisini í Kallsoynni eru stórar og kostnaðarmiklar verkætlanir framdar, ið óivað hava verið ein viðvirkandi orsøk til eina meira positiva gongd í búsetingarmynstrinum.</s>
+                <s>Í 1979-85 fingu bygdirnar í oynni vegasamband gjøgnum tey berghol, ið vóru gjørd frá 1979-85, og líka síðan fasta vegasambandið gjørdist veruleiki, er fólkatalið økt í báðum kommununum í oynni.</s>
+              </p>
+              <!-- TODO: add table later... -->
+              <p>
+                <s>At hava fast vegasamband er tó á ongan hátt ein trygd fyri vøkstur í fólkatalinum í einum lokalsamfelagi.</s>
+                <!-- TODO: add note here! <s>T.d. hevur ein støðug minking verið í fólkatalinum í fleiri av teimum lítlu kommununum í Eysturoynni1 , hóast fasta vegasambandið.</s> -->
+                <s>At hava fast vegasamband er tó á ongan hátt ein trygd fyri vøkstur í fólkatalinum í einum lokalsamfelagi.</s>
+                <s>T.d. hevur ein støðug minking verið í fólkatalinum í fleiri av teimum lítlu kommununum í Eysturoynni, hóast fasta vegasambandið.</s>
+              </p>
+              <p>
+                <s>Um ein varin niðurstøða skal gerast um týdningin av samferðsluíløgum fyri búsetingarmynstrið í Føroyum er tað, at hóast stóru íløgurnar í samferðslukervið, er ein spakulig, men støðug miðsavning farin fram hesi seinastu 40 árini.</s>
+                <s>Um hugt verður eftir verkætlanum, ið hava betrað nógv um samferðslumøguleikarnar hjá lokalsamfeløgum sæst tó, at gongdin á íbúgvaratalinum í summum økjum er vend til tað betra, beint aftaná, at verkætlanirnar vórðu framdar.</s>
+                <s>Við tí støðugu miðsavning, ið hevur verið í føroyska samfelagnum sum heild, kann tað tó tykjast sannlíkt, at eisini hesi smápláss við tíðini fara at merkja gongdina móti einari miðsavning av íbúgvunum í teimum størri kommununum.</s>
+                <s>Hetta er eisini niðurstøðan hjá Wachter (1998).</s>
+              </p>
             </div>
-        </body>
-    </text>
+            <pb n="15" />
+            <div>
+              <head><label>3.2.</label> Útlendskar royndir</head>
+              <p>
+                <s>Henda varna niðurstøða er í tráð við tær royndir, ið eru gjørdar í grannalondum okkara.</s>
+                <s>Niðurstøðurnar úr frágreiðingum, ið viðgera hetta evni er ofta, at tað er ivasamt, um íløgur í samferðslukervið hava eina positiva ávirkan á økismenningina, um ikki íløgurnar loysa veruligar fløskuhálstrupulleikar fyri lokalsamfelagið.</s>
+                <s>Í einari kanning av, hvønn týdning gerð av brúgvum til avbyrgd øki (m.a. oyggjasamfeløg) hava haft fyri økismenningina í Onglandi, staðfestir danskarin Maskell (1994), at tær positivu búskaparligu avleiðingarnar í mesta lagi eru sera lítlar, og í ringasta føri verða køvdar av sonevndum ”sogupípu-effektum”.</s>
+                <s>Við hesum meinast við, at betraðir samskiftismøguleikar merkja, at arbeiðspláss í størri mun verða miðsavnaði í størri býarsamfeløgum.</s>
+                <s>T.d. kunnu betri samferðslumøguleikar føra til, at lokal virkir og handlar, ið fyrr høvdu eitt lokalt monopol uppá virksemið, nú skulu kappast við størri virkir og handlar sum halda til í størri býarsamfeløgum.</s>
+                <s>Hetta kann merkja, at vinnulívið á staðnum verður fyri einum bakkasti, um tað ikki klárar at umstilla seg til ta nýggju kappingina.</s>
+                <s>Maskell sigur víðari: ”I intet tilfælde synes den opgjorte regionale erhvervsøkonomiske effekt i sig selv at kunne retfærdiggøre den trufne investering.”</s>
+                <s>At arbeiðsplássini verða miðsavnaði merkir tó ikki altíð, at fólkatalið í smærri lokalsamfeløgunum minkar, tí eitt útbygt samferðslukerv merkir, at tað verður lættari at ”pendla” aftur og fram millum bústað og arbeiðspláss.</s>
+              </p>
+              <p>
+                <s>Í einari frágreiðing, sum norska Samferdselsdepartementet hevur umbiðið, verða úrslit endurgivin úr einamest norðurlendskum kanningum av týdninginum av samferðslukervinum fyri búskaparligu økismenningina.</s>
+                <s>Hóast úrslit og kanningarhættir í hesum kanningum eru nokk so ymisk, ber til at gera eina varna niðurstøðu.</s>
+                <s>Henda niðurstøða er, at íløgur í samferðslukervið møguliga kunnu menna búskapin í samfelagnum sum heild, men at íløgur í samferðslukervið neyvan av sær sjálvum menna akkurát tað øki, ið hevur fingið betri samband orsakað av íløgunum.</s>
+                <s>Tvørturímóti vísir ein stórur partur av kanningunum á negativar avleiðingar fyri vinnurnar í teimum smærri lokalsamfeløgunum, ið fáa betrað samferðslumøguleikarnar.</s>
+              </p>
+              <p>
+                <s>Sum heild kann sigast, at tað ikki er sjálvsagt, at íløgur í samferðslukervið uppá longri sikt virka mennandi fyri eitt lokalsamfelag.</s>
+                <s>Um ein ger íløgur í samferðslukervið við tí endamáli at menna bygdirnar, eigur ein at hava eina heilt greiða fatan av, hvussu henda íløga heilt ítøkiligt kann verða viðvirkandi til at menna eitt ávíst lokalsamfelag.</s>
+                <s>Eitt betrað flutningssamband kann ikki einsamalt menna bygdirnar.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <head rend="bold"><label>4.</label> Niðurstøða</head>
+            <p>
+              <s>Niðurstøðan av øðrum parti er, at hóast búskaparfrøðingar mestsum eru á einum máli um, at góðir samskiftismøguleikar eru ein fortreyt fyri búskaparliga menning í samfelagnum sum heild, er føroyska samferðslukervið í dag so mikið væl útbygt, at kannast má, hvussu væl týðandi íløgur í samferðslukervið loysa seg samfelagsbúskaparliga, áðrenn tær verða framdar.</s>
+              <s>Sjálvandi kunnu reint tekniskar orsøkir verða til eina umbygging av einum vegi, men umráðandi er, at ein altíð hevur fremst í huga, hvat borgarar og vinnulív kunnu væntast at fáa burturúr einari íløgu, og um hesir fyrimunir <pb n="16" /> standa mát við kostnaðin.</s>
+              <s>Kostnað-nyttu kanningar kunnu í hesum sambandi vera eitt hent amboð til at viga fyrimunir og vansar upp ímóti hvørjum øðrum.</s>
+            </p>
+            <p>
+              <s>Aðrar orsøkir enn bert samfelagsbúskaparligar hava søguliga verið til at gera íløgur í samferðslukervið.</s>
+              <s>Kanska serliga í Føroyum hava íløgur í samferðslukervið verið gjørdar, tí ynski hevur verið um at varðveita eitt spjatt búsetingarmynstur í Føroyum, og hildið hevur verið, at slíkar íløgur kundu vera viðvirkandi til at nøkta hesum ynski.</s>
+              <s>Spurningurin er so bert, um íløgur, sum eru gjørdar í samferðslukervið veruliga kunnu vera viðvirkandi til at røkka hesum endamáli.</s>
+              <s>Um hugt verður eftir føroyska samfelagnum sum heild, vísa tey fáu tøku hagtølini, at gongdin tey seinastu 40 árini hevur verið, at ein alsamt størri partur av fólkunum býr í størri kommununum, og serliga í høvuðsstaðarøkinum.</s>
+              <s>Íløgurnar, ið eru gjørdar í samferðslukervið hava sostatt ikki kunnað steðga einari miðsavnan í búsetingarmynstrinum.</s>
+              <s>Hetta er í stórum í tráð við útlendskar royndir, ið vísa, at tað er ójavnt hvussu samferðsluíløgur ávirka menningina í einum lokalsamfelagi.</s>
+              <s>Í summum førum kunnu samferðsluíløgur vera ein viðvirkandi orsøk til, at vinnulívið verður fyri einum bakkasti, ella at fólkatalið minkar.</s>
+            </p>
+            <p>
+              <s>Sannlíkt er tó, at summar íløgur í samferðslukervið í minsta lagi uppá stutt sikt hava virkað mennandi fyri talið av fólkum, ið støðast á hesum smáu kommunum.</s>
+              <s>Hinvegin eru eisini dømir um kommunur, har fólkatalið hóast gott samband við miðstaðarøkir, er í støðugari minking.</s>
+            </p>
+            <p>
+              <s>Alt í alt má niðurstøðan sostatt verða, at um ein ger íløgur í samferðslukervið við tí endamáli at menna eitt lokalsamfelag, er ikki vist, at tær røkka hesum endamáli.</s>
+              <s>Íløgur kunnu menna fólkatalið uppá stutt sikt, men uppá longri sikt er sannlíkt, at aðrar, miðsavnandi kreftir fara at gera vart við seg.</s>
+              <s>Hóast risaíløgur í samferðslukervið tey seinastu 40 árini býr ein alsamt størri partur av fólkunum í teimum størri kommununum.</s>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head rend="bold">Triði partur: Planlegging av samferðslukervinum</head>
+          <div>
+            <p>
+              <s>Í Føroyum hevur tað í stóran mun verið Landsverkfrøðingurin, ið hevur staðið fyri planleggingini av íløgum í vegir og havnir.</s>
+              <s>Havnaútbyggingar eru aftaná seinna heimsbardaga vorðnar framdar eftir trimum 10 ára ætlanum, einari 6 ára ætlan og seinast einari 8 ára ætlan.</s>
+              <s>Ringt er tó at meta um grundarlagið, ið hesar ætlanir eru gjørdar á.</s>
+              <s>Einki alment skrivligt tilfar er, sum viðger havnaíløgurnar.</s>
+              <s>Sannlíkt er tó, at planleggingin í stóran mun hevur verið grundað á ynskir frá kommunum, metingar hjá verkfrøðingum á Landsverkfrøðinginum og politisk signalir.</s>
+            </p>
+            <p>
+              <s>Innan vegaøkið hava ongar ítøkiligar langtíðarætlanir verið, men Landsverkfrøðingurin hevur eisini her helst roynt at planleggja út frá teimum politisku signalum, ið teir hava fingið.</s>
+            </p>
+            <p>
+              <s>Í høvuðsheitum hava sostatt ongar systematiskar uppgerðir verið av fyrimunum og vansum, ið standast av ítøkiligum verkætlanum.</s>
+              <s>Tað kann tí tykjast upplagt at kanna, hvussu grannalondini hjá okkum hava skipað sína planlegging innan samferðslukervið.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold"><label>1.</label> Samferðsluætlanir í Norðurlondum</head>
+            <div>
+              <head><label>1.1.</label> Noreg</head>
+              <p>
+                <s>Í Noreg er tað Samferdselsdepartementet, sum hevur ábyrgdina av at gera langskygdar ætlanir á samferðsluøkinum.</s>
+                <s>Hetta verður fyrst og fremst gjørt gjøgnum tær sokallaðu <hi rend="italic">Stortingsmeldinger</hi>, ið eru frágreiðingar, sum verða lagdar fyri Stortinget at kjakast um og taka støðu til.</s>
+                <s>Í einari samlaðari ætlan verða vanliga fleiri Stortingsmeldingar lagdar fram.</s>
+                <s>Ein stortingsmelding viðger t.d. tey samferðslupolitisku málini, ið eru grundarlagið undir raðfestingini, og hvørji prinsippir, ið raðfest verður eftir.</s>
+                <s>Eisini verður sambandið millum teir ymsu samferðslusektorarnar viðgjørt her, t.d. sambandið millum veg og jarnbreyt.</s>
+                <s>Afturat hesi Stortingsmelding verður so ein ætlan gjørd fyri hvønn sektor sær, ið eisini verður løgd fyri Stortinget.</s>
+              </p>
+              <p>
+                <s>Nýggjastu sektorætlanirnar, ið Samferdselsdepartementet hevur gjørt, eru hesar: Norsk veg- og vegtrafikkplan, Norsk jernbaneplan og Norsk luftfartsplan, allar gjørdar í 1996-97.</s>
+                <s>Afturat hesum er sum nakað nýtt ein sektorætlan gjørd fyri havnir og infrastruktur í samband við flutning á sjónum.</s>
+                <s>Hesar sektorætlanir geva eitt yvirlit yvir týðandi verkætlanir og tiltøk, sum ætlanin er at byrja ella halda áfram við í ætlanartíðarskeiðnum.</s>
+                <s>Vanliga verða einstøku verkætlanirnar ikki viðgjørdar út í æsir í sjálvari sektorætlanini, men hagtøl um kostnaðin av verkætlanunum og virðismeting av avleiðingunum av at fremja tær verða viðgjørdar út frá lyklaorðum sum <hi rend="italic">framkommelighet, miljø og trafikksikkerhet</hi>.</s>
+              </p>
+              <p>
+                <s>Ætlaninar fevna um eitt tíðarskeið uppá 10 ár, við dentin lagdan á tey fyrstu 4 árini.</s>
+                <s>Orsøkin til hetta er óivað, at stór óvissa er á ætlanum, ið hava longri tíðarhorisont enn stjórnartíðarskeiðið.</s>
+                <s>Orsøkin til, at 10-ára ætlanir verða gjørdar er, at tær kunnu geva eina ábending um, hvussu einstakar verkætlanir hóska inn í samspælið við aðrar verkætlanir, so møguleikin fyri suboptimering minkar.</s>
+                <s>Um tað <pb n="18" /> t.d. stendur í ætlanini, at fast samband væntandi avloysir ferjusigling á einari ávísari leið um 8-10 ár, er tað eitt signal, ferjuoperatørurin kann nýta í íløgupolitikki sínum.</s>
+                <s>Um verkætlanin er at byggja ein nýggjan høvuðsveg, ávirkar tað eisini, hvørjar íløgur, ið eiga at verða gjørdar í smærri, lokalar vegir í framtíðini, o.s.fr.</s>
+                <s>Um hesi signalini ikki vóru til staðar, og ætlan bert var gjørd fyri fá ár í senn, er møguligt, at ferjuoperatørurin gjørdi íløgu í nýggja ferju við tí fyri eyga, at hon skuldi sigla í nógv ár afturat, ella at útbyggingar av kommunalum vegum vórðu gjørdir, ið ongan týdning høvdu haft, tá landsvegurin varð gjørdur fá ár seinni.</s>
+              </p>
+              <p>
+                <s>Ein ítøkilig verkætlan kann bert koma við í langtíðarætlanina, um avleiðingarnar av at fremja hana eru gjølla viðgjørdar í samarbeiði millum Samferdselsdepartement og stovnar undir tí.</s>
+                <s>Um t.d. ein vegur skal byggjast, verða konsekvensútgreiningar gjørdar av verkætlanini, har samfelagsbúskaparligar kostnað-nyttu (cost-benefit) kanningar eru ein týðandi partur av útgreiningini.</s>
+                <s>Eisini verða aðrar, ikki virðismettar avleiðingar viðgjørdar, ávirkan á landslagið o.t.</s>
+              </p>
+              <p>
+                <s>Sjálvandi kemur tað í Noreg líka væl sum aðra staðni fyri, at verkætlanir, ið ikki loysa seg samfelagsbúskaparliga, verða framdar.</s>
+                <s>Fleiri orsøkir kunnu vera til hetta, t.d. regionalar ella fordeilingspolitiskar orsøkir.</s>
+                <s>Hetta merkir ikki tað sama sum, at konsekvensútgreiningarnar ongan týdning hava, tí um tær eru væl gjørdar, krevjast góð argumentir fyri, hví ein verkætlan eigur at verða framd, um positiva árinið av íløguni ikki stendur mát við íløgukostnaðin.</s>
+                <s>Í Stortingsmeldingunum sæst eisini, at av teimum verkætlanum, ið ætlanin er at fremja komandi 10 árini, hava bert heilt fáar eitt negativt árin á samfelagsbúskapin.</s>
+              </p>
+              <p>
+                <s>Í Noreg eru stórar upphæddir nýttar seinastu árini til at fremja íløgur í samferðslukervið, og hevur tað í ávísan mun merkt, at rakstur og viðlíkahald ikki hevur verður raðfest so ovaliga.</s>
+                <s>Í nýggjastu ætlanunum verður tó gjørt vart við hetta, og mælt verður til, at javnvágin millum íløgur og viðlíkahald verður betri.</s>
+              </p>
+            </div>
+            <div>
+              <head><label>1.2.</label> Ísland</head>
+              <p>
+                <s>Í Íslandi leggur ráðharrin í samferðslumálum ætlanir á hvørjum samferðsluøki sær fyri Altingið til samtyktar.</s>
+                <s>Í hesum ætlanum er ásett hvussu fíggjarligu karmarnir til íløgur og viðlíkahald væntandi verða, og hvussu útreiðslurnar verða býttar út á ymsar verkætlanir.</s>
+                <s>Tríggjar sektorætlanir verða gjørdar, ávíkavist fyri vegagerð, havnir og flogferðslu.</s>
+              </p>
+              <p>
+                <s>Vanliga verða hesar samferðsluætlanir gjørdar fyri 4 ára tíðarskeið, men verða síðani endurskoðaðar annað hvørt ár.</s>
+                <s>T.d. varð havnaætlan gjørd fyri 1995-99 og so aftur frá 1997-2001.</s>
+                <s>Sum nakað nýtt verða eisini langtíðarætlanir gjørdar á vegaøkinum har tíðarhorisonturin verður øktur til 12 ár (1999-2010).</s>
+                <s>Hetta skeiðið verður býtt upp í 3 fýra-ára skeið, og væntaðu útreiðslurnar til hvørja verkætlan sær býttar á hvørt fýra-ára skeiðið.</s>
+                <s>Hesar 12-ára ætlanir eru tó ikki líka neyvar sum 4 áraætlanirnar, men viðgerða fyrst og fremst størri verkætlanir.</s>
+              </p>
+              <p>
+                <s>Veikleikin við at gera ætlanir á hvørjum øki sær er, at broytingar á einum øki ofta ávirka onnur samferðsluøki.</s>
+                <s>T.d. vil ein útbygging av einari havn kunna krevja útbyggingar av vegasambandinum <pb n="19" /> til havnina.</s>
+                <s>Tí setti ráðharrin í samferðslumálum fyrst í 1998 ein bólk, ið fekk til uppgávu at meta um, hvussu væl einstøku ætlanirnar hóska saman, og um ráðiligt er at samskipa einstøku ætlanirnar í eina heildarætlan fyri alt samferðsluøkið.</s>
+                <s>Fyrimunurin við at samansjóða einstøku sektorætlanirnar er, at kannast kann, hvønn tørv á samferðslu ymisk økir hava, og so síðani gera eina heildarloysn fyri økini, ið umfatar havnir, veg og flogferðslu.</s>
+              </p>
+              <p>
+                <s>Í Íslandi eru teir eisini farnir at arbeiða við kostnað-nyttu kanningum av teimum verkætlanum, ið eru í uppskoti, fyri betri at kunna raðfesta ymsu uppskotini til íløgur í samferðslukervið.</s>
+                <s>Teir hava í hesum sambandi fingið vegleiðing úr Noreg, har teir hava drúgvar royndir við slíkum kanningum.</s>
+              </p>
+            </div>
+            <div>
+              <head><label>1.3.</label> Danmark</head>
+              <p>
+                <s>Danmark hevur ikki verið av ídnastu londum at gera heildarætlanir á samferðsluøkinum.</s>
+                <s>Fyrsta ætlanin, ið kann sigast at bera brá av at vera ein heildarætlan, er <hi rend="italic">Trafik 2005</hi>, ið danska Trafikministeriet gjørdi í 1993.</s>
+                <s>Í hesi frágreiðing vórðu yvirorðnaðu prinsippini, ið arbeiðast skuldu eftir næstu 12 árini løgd fram, men einstakar verkætlanir vórðu ikki viðgjørdar nágreiniliga.</s>
+                <s>Spurningurin er tó, hvussu nógv <hi rend="italic">Trafik 2005</hi> veruliga hevur havt at týða fyri framtíðar samferðslupolitikkin í Danmark.</s>
+                <s>Í nýggjastu Trafikredegørelse frá Dansk Trafikministerium verður frágreiðingin bert nevnd í innganginum, men ongantíð aftur í sjálvari frágreiðingini.</s>
+                <s>Harafturímóti verða fleiri hvít- og grønbøkur frá ES-kommissiónini neyvt lýstar í frágreiðingini, og danski samferðslupolitikkurin viðgjørdur út frá hesum ES-skjølum.</s>
+                <s>Mangt bendir sostatt á, at danski samferðslupolitikkurin í stóran mun verður ávirkaður av ES-samstarvinum.</s>
+              </p>
+              <p>
+                <s>Hóast samferðslupolitikkurin í Danmark ikki hevur nakra veruliga heildarætlan at halda seg til, verður í danska Vejdirektoratet gjørd ein neyv lýsing av einstøku verkætlanunum innan samferðsluøkið.</s>
+                <s>M.a. verða kostnað-nyttu kanningar gjørdar av hvørjari einstakari verkætlan, og hevur Vejdirektoratet smíðað eitt telduforrit (PUS) til endamálið, ið lættir nógv um tað annars sera møtumikla arbeiðið at gera kostnað-nyttu kanningar.</s>
+                <s>Telduforritið ger tað lagaligari at gera kostnað-nyttu kanningar, so nógvar ymiskar loysnir kunnu sammetast, um ein t.d. er í iva um, hvør teknisk loysn gevur mest nyttu í mun til kostnaðin.</s>
+              </p>
+            </div>
+            <div>
+              <head><label>1.4.</label> Svøríki</head>
+              <p>
+                <s>Í Svøríki er tað Riksdagen, ið samtykkir tey samferðslupolitisku málini, ið arbeiðast skal eftir í íløguætlanunum.</s>
+                <seg>Yvirorðnaða endamálið, ið Riksdagen hevur viðtikið er hetta:</seg>
+                <lb />
+                <quote>
+                  <seg>”At geva borgarum og vinnulívi í ymisku pørtunum av landinum eitt nøktandi, trygt og umhvørvisvinarligt samferðslukerv til lægst møguligan samfelagsbúskaparligan kostnað”</seg>
+                </quote>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
