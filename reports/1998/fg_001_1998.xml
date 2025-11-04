@@ -12,8 +12,13 @@
           <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
           <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
         </availability>
-        <date when="2025-09-16"/>
+        <date when="2025-09-16" />
       </publicationStmt>
+      <notesStmt>
+        <note>
+          <s>Eftir tingsins viðgerð og samtykt skal grundarlagið undir samráðingum og sáttmála byggja á eitt neyvt fyrireikingararbeiði.</s>
+        </note>
+      </notesStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
           <publisher>Føroya Løgting</publisher>
@@ -21,7 +26,7 @@
             <persName>Anfinn Kallsberg</persName>
             <roleName>løgmaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/4546"/>
+          <ref target="https://www.logting.fo/documents/4546" />
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="1997-07-29">29. juli 1997</date>
         </bibl>
@@ -40,360 +45,589 @@
   </teiHeader>
   <text>
     <body>
+      <pb n="1" />
       <div type="report">
-        <pb n="1"/>
-        <head rend="bold">Framløga Løgmans</head>
-        <p>
-          <s xml:id="oekhtamawn"><hi rend="italic">Harra formaður.</hi></s>
-        </p>
-        <p>
-          <s xml:id="tpyqaf3eos">Skjøtil er settur á eina nýggja tingsetu og eitt nýtt valskeið, ið røkkur inn í næstu øld.</s>
-        </p>
-        <p>
-          <s xml:id="motbbaap66">Eftir løgtingsvalið tann 30. apríl í ár varð nýggj samgonga skipað millum Fólkaflokkin, Tjóðveldisflokkin og Sjálvstýrisflokkin, og samgonguavtala varð undirskrivað tann 9. mai.</s>
-          <s xml:id="fp25faf4do">Løgmaður varð valdur 15. mai og landsstýri síðani skipað.</s>
-        </p>
-        <p>
-          <s xml:id="xeeg55uajz">Frágreiðing løgmans fer at viðgera støðu landsins sum heild og leggja dent á tey politisku høvuðsmálini, sum landsstýrið hevur í hyggju at fremja í hesi tingsetu og hesum valskeiði.</s>
-        </p>
         <div>
-          <head rend="bold">Framtíðarviðurskifti</head>
+          <head rend="bold">Framløga Løgmans</head>
           <p>
-            <s xml:id="tiik5gz7oa">Seinastu 8-10 árini hevur føroyska samfelagið verið merkt av politiskum og búskaparligum turbulensi.</s>
-            <s xml:id="icmolommgc">Hetta hevur elvt til, at stórur partur av teirri politisku orkuni er farin til at viðgera fortíðina og at hóra undan í nútíðini.</s>
-          </p>
-          <pb n="2"/>
-          <p>
-            <s xml:id="bq5zashjts">Búskaparliga eru fortreytirnar broyttar almikið seinastu árini.</s>
-            <s xml:id="cco6oukont">Við seinastu avtaluni millum landsstýrið og donsku stjórnina um endurgjald fyri bankamálið fer nettouttanlandsskuldin helst at koma niður á 0 í hesum ári, eftir at hon var omanfyri 8 milliardir krónur í 1991.</s>
+            <s xml:id="oekhtamawn">
+              <hi rend="italic">Harra formaður.</hi>
+            </s>
           </p>
           <p>
-            <s xml:id="s5ni466zi2">Seinasta frágreiðingin frá Búskaparráðnum staðfestir, at tað gongur sum heild framá í føroyska búskapinum.</s>
-            <s xml:id="m3unb46bof">Framgongd er í flestu vinnugreinum grundað á økta framleiðslu og betrað kappingarføri.</s>
+            <s xml:id="tpyqaf3eos">Skjøtil er settur á eina nýggja tingsetu og eitt nýtt valskeið, ið røkkur inn í næstu øld.</s>
           </p>
           <p>
-            <s xml:id="dmbwtjkjhz">Áræði, virkishugur og álit á framtíðina merkjast aftur í samfelagnum.</s>
-            <s xml:id="norm5lwfhf">Tó eru nógvir trupulleikar eftir at loysa fyri at fáa grundarlag undir øktum og støðugum framburði.</s>
+            <s xml:id="motbbaap66">Eftir løgtingsvalið tann 30. apríl í ár varð nýggj samgonga skipað millum Fólkaflokkin, Tjóðveldisflokkin og Sjálvstýrisflokkin, og samgonguavtala varð undirskrivað tann 9. mai.</s>
+            <s xml:id="fp25faf4do">Løgmaður varð valdur 15. mai og landsstýri síðani skipað.</s>
           </p>
           <p>
-            <s xml:id="t4beetx52x">Tíðin er nú komin at viðgera tey politisku stórmálini, sum hava ligið á láni.</s>
+            <s xml:id="xeeg55uajz">Frágreiðing løgmans fer at viðgera støðu landsins sum heild og leggja dent á tey politisku høvuðsmálini, sum landsstýrið hevur í hyggju at fremja í hesi tingsetu og hesum valskeiði.</s>
           </p>
-          <p>
-            <seg>Landsstýrið hevur sett sær fyri, at hetta valskeiðið skal snúgva seg um at skipa framtíðarkarmarnar um føroyska samfelagið:<lb/></seg>
-            <list rend="bullet">
-              <item>
-                <s xml:id="jdkvxpedgq">Tann grundleggjandi karmin - okkara ríkisrættarligu støðu og okkara viðurskifti við útheimin.</s>
-              </item>
-              <item>
-                <s xml:id="roaqphwrvy">Marknaðarkarmarnar, har samráðingar um nýggja avtalu við ES skulu fyrireikast og viðgerast politiskt.</s>
-              </item>
-              <item>
-                <s xml:id="dttej5y5n3">Innanhýsis politisku karmarnar, har nýggj kommunuskipan verður viðgjørd.</s>
-              </item>
-              <item>
-                <s xml:id="xh374vl4mt">Búskaparligu og fíggjarligu karmarnar fyri føroyska samfelagið framyvir.</s>
-              </item>
-              <item>
-                <s xml:id="qny3o5eqb4">Vinnuligu karmarnar fyri fiskivinnu, øðrum vinnum og møguliga oljuvinnu.</s>
-              </item>
-              <item>
-                <s xml:id="ldq26nd6my">Útbygging av føroyska samfelagnum á samferðsluøkinum og møguleikar hjá útjaðaranum at mennast.</s>
-              </item>
-              <item>
-                <s xml:id="kvuffmgatq">Vælferðarskipanina, har vit skulu tryggja varandi loysnir í heilsuverkinum og í almannaverkinum.</s>
-              </item>
-              <item>
-                <s xml:id="a5f5fam2jp">Mentanarligar karmar, har vit skulu fóta okkum í útbúgving, gransking og tøkni í altjóða menningini.</s>
-              </item>
-            </list>
-          </p>
-          <p>
-            <s xml:id="evdi4rj6mv">Tað skal vera mín vón og mín áheitan á løgtingið, at vit við opnum sinni viðgera hesi stórmál, og at vit kunnu finna breiðar politiskar semjur um framtíðarkarmarnar um føroyska samfelagið.</s>
-          </p>
-        </div>
-        <div>
-          <head rend="bold">Høvuðssetningur landsstýrisins</head>
-          <p>
-            <s xml:id="ieeko7uirk">Samgonguflokkarnir eru samdir um, at tað er neyðugt at hava fult ræði og fulla ábyrgd av landinum til tess at skapa eitt trygt grundarlag undir føroyska samfelagnum í framtíðini.</s>
-          </p>
-          <p>
-            <s xml:id="mzl6zs6gta">Høvuðssetningur landsstýrisins er greiður sambært samgonguavtaluni: Føroyar verða skipaðar sum fullveldi, har alt politiskt vald og ábyrgd eru hjá føroyskum myndugleikum.</s>
-            <s xml:id="etkswnstwu">Tað vil ikki siga, at bondini við Danmark og umheimin verða kvett.</s>
-          </p>
-          <pb n="3"/>
-          <p>
-            <s xml:id="eh7jpvadgo">Endamálið er at samstarva á einum nýggjum grundarlagi sum javnbjóðis partar.</s>
-            <seg>Í samgonguskjalinum er ásett, at hetta verður at gera eftir eini skipaðari ætlan:</seg>
-            <list rend="bullet">
-              <item>
-                <s xml:id="jqyse54l7o">Ein partur snýr seg um at fyrireika og samráðast við donsku stjórnina um ein samstarvssáttmála landanna millum, sum tvey sjálvstøðug lond eins og Ísland og Danmark í 1918.</s>
-                <s xml:id="disjnonyem">Herundir skal samráðast við stjórnina um eina búskaparliga og fíggjarliga skiftisskipan.</s>
-              </item>
-              <item>
-                <s xml:id="n5k7bm3xdt">Ein partur snýr seg um at gera eina grundlóg fyri Føroyar.</s>
-              </item>
-              <item>
-                <s xml:id="f2vemliws4">Og ein partur snýr seg um at gera føroyskar skipanir á øllum málsøkjum í føroyska samfelagnum, at meta um fíggjarligan tørv, lóggávutørv og umsitingarligan tørv, og ikki minst at gera búskaparligar ætlanir og framrokningar fyri einum sjálvberandi føroyskum búskapi.</s>
-              </item>
-            </list>
-          </p>
-          <p>
-            <s xml:id="erilzifx4u">Lyklaorðini í hesum arbeiði eru: Fyrireiking, kunning og demokratisk viðgerð.</s>
-            <s xml:id="t3mnaqgeuf">Føroya løgting viðger øll mál og ger av, hvørjar broytingar skulu gerast.</s>
-            <s xml:id="vjwqmu37sl">Haraftrat hevur samgongan bundið seg til, at uppskot til nýggjan sáttmála við Danmark og uppskot til eina føroyska grundlóg verða send til fólkaatkvøðu í Føroyum.</s>
-          </p>
-          <p>
-            <s xml:id="jpgeev6acf">Til tess at fyrireika hesi stóru stig eru sjálvstýrismál eitt nýtt málsøki í landsstýrinum, og landsstýrismaður er settur til hetta mál burturav.</s>
-            <s xml:id="ir6fsw5bna">Fyrireikingarnar eru byrjaðar, og fyrsta uppskotið um framtíðarstøðu Føroya verður lagt fyri tingið eftir ólavsøku.</s>
-          </p>
-        </div>
-        <div>
-          <head rend="bold">Avtalan við donsku stjórnina</head>
-          <p>
-            <s xml:id="fx422gklqc">Arbeiðið at skipa framtíðarkarmarnar um føroyska samfelagið byrjaði longu í samráðingunum við donsku stjórnina í juni í ár, sum var fyrsta stóra uppgávan hjá hesum landsstýri.</s>
-            <s xml:id="ejvb4w5z3x">Tann 10. juni varð avtala undirskrivað í Keypmannahavn millum landsstýrið og donsku stjórnina um m.a. endurgjald fyri bankamálið, afturgjalding av uttanlandsskuld, blokkstuðul og tilsøgn um samráðingar um ríkisrættarligu støðu Føroya.</s>
-          </p>
-          <p>
-            <s xml:id="u323bj7mzp">Landsstýrið legði í fyrireikingunum til samráðingarnar dent á, at talan var um politiskar samráðingar, sum ikki bert skuldu snúgva seg um tann løgfrøðiliga partin av bankamálinum.</s>
-          </p>
-          <p>
-            <s xml:id="hkon42mjyy">Landsstýrið miðaði ímóti eini heildaruppgerð um bankamálið, skuldina til ríkiskassan og tey politisku krepputiltøkini, sum vórðu ein beinleiðis partur av bankamálinum.</s>
-            <s xml:id="tcd7o3mm56">Harafturat skuldi avtalan leggja lunnar undir komandi samráðingar um ríkisrættarligu støðu Føroya.</s>
-            <s xml:id="yeyikgc4xr">Tað eydnaðist at fáa eina góða heildaravtalu.</s>
-          </p>
-          <p>
-            <s xml:id="vvlxja6otv">Í veruleikanum er avtalan byrjanin til eitt nýtt tíðarskeið í viðurskiftunum Føroya og Danmarkar millum.</s>
-            <s xml:id="vjxy5u7dr5">Vit hava fingið eitt búskaparligt og politiskt rásarúm at styrkja føroyska samfelagið og leggja lunnar undir at broyta ríkisrættarligu støðu okkara.</s>
-            <s xml:id="webssjyndi">Avtalan ber í sær, at vit taka fulla búskaparliga ábyrgd av Føroyum.</s>
-          </p>
-          <p>
-            <s xml:id="b6s3oqxa4g">Tað er at fegnast um, at eitt samt løgting tók undir við avtaluni.</s>
-          </p>
-          <p>
-            <s xml:id="qyp77i7d4p">Í stuttum verður nortið við tey ymsu málsøkini, men víst verður til 2. part av løgmansrøðuni, har einstøku málsøkini eru nærri útgreinað.</s>
-          </p>
-        </div>
-        <div>
-          <head rend="bold">Stytt málsøki</head>
           <div>
-            <head rend="bold">Uttanlandsmál</head>
+            <head rend="bold">Framtíðarviðurskifti</head>
             <p>
-              <s xml:id="z5fefkvxnl">Seinastu árini hevur løgmaður lagt frágreiðing um uttanlandsmál fyri løgtingið, sum væntandi verður løgd fyri tingið í heyst.</s>
+              <s xml:id="tiik5gz7oa">Seinastu 8-10 árini hevur føroyska samfelagið verið merkt av politiskum og búskaparligum turbulensi.</s>
+              <s xml:id="icmolommgc">Hetta hevur elvt til, at stórur partur av teirri politisku orkuni er farin til at viðgera fortíðina og at hóra undan í nútíðini.</s>
+            </p>
+            <pb n="2" />
+            <p>
+              <s xml:id="bq5zashjts">Búskaparliga eru fortreytirnar broyttar almikið seinastu árini.</s>
+              <s xml:id="cco6oukont">Við seinastu avtaluni millum landsstýrið og donsku stjórnina um endurgjald fyri bankamálið fer nettouttanlandsskuldin helst at koma niður á 0 í hesum ári, eftir at hon var omanfyri 8 milliardir krónur í 1991.</s>
             </p>
             <p>
-              <s xml:id="msja6ceajw">Her skal tó verða trivið í tey mál, ið hava havt týdning fyri Føroya land seinasta árið, og sum landsstýrið fer at leggja stóran dent á næstu árini.</s>
+              <s xml:id="s5ni466zi2">Seinasta frágreiðingin frá Búskaparráðnum staðfestir, at tað gongur sum heild framá í føroyska búskapinum.</s>
+              <s xml:id="m3unb46bof">Framgongd er í flestu vinnugreinum grundað á økta framleiðslu og betrað kappingarføri.</s>
             </p>
             <p>
-              <s xml:id="o23odav3hx">Samráðingarnar við Bretland um landgrunsmarkið hava verið drúgvar og torførar.</s>
-              <s xml:id="mno2zhibme">Tað hevur frá samráðingarbyrjan verið støða landsstýrisins at fáa í lag eina semju við bretar, ið fær breiða undirtøku á løgtingi.</s>
+              <s xml:id="dmbwtjkjhz">Áræði, virkishugur og álit á framtíðina merkjast aftur í samfelagnum.</s>
+              <s xml:id="norm5lwfhf">Tó eru nógvir trupulleikar eftir at loysa fyri at fáa grundarlag undir øktum og støðugum framburði.</s>
             </p>
             <p>
-              <s xml:id="idpp3htfhq">Marknatrætan er tikin upp til máls millum danska forsætismálaráðharran og løgmann.</s>
-              <s xml:id="u7epsp77an">Gongdin seinasta hálvárið hevur víst, at vilji er frá báðum pørtum at royna semju heldur enn at leggja marknamálið fyri altjóða dómstólin í Haag.</s>
+              <s xml:id="t4beetx52x">Tíðin er nú komin at viðgera tey politisku stórmálini, sum hava ligið á láni.</s>
             </p>
             <p>
-              <s xml:id="mfqhbra2sx">Í løtuni verða fyrieikingar gjørdar til tess at greina út, hvussu frægast er at fara fram í hesum máli.</s>
-              <s xml:id="wk5vun635u">Ætlanin er at røkka einari loysn á marknamálinum innan rímiliga tíð.</s>
-            </p>
-            <p>
-              <s xml:id="ommcoxirbe">Heimshandilin er merktur av, at samhandilin í millumlandafelagsskapum og teirra millum mennist.</s>
-              <s xml:id="yjlmgewgel">Hóast Føroyar higartil hava valt at standa uttan fyri hesar felagsskapir, eru vit farin í holt við at endurskoða hesi viðurskifti.</s>
-            </p>
-          </div>
-          <div>
-            <head rend="bold">Kommunumál</head>
-            <p>
-              <s xml:id="py2xbjfspt">Skattainntøkurnar hjá kommununum vaksa støðugt.</s>
-              <s xml:id="zuttobbdaw">Gongdin higartil í ár vísir, at skattainntøkurnar verða uml. 740 mió. kr, sum er nakað hægri enn mett í fíggjarætlanini.</s>
-              <s xml:id="eisauhnyjk">Meðal kommunuskattaprosentið er óbroytt á 19,85%.</s>
-            </p>
-            <p>
-              <s xml:id="nmoz4uvehb">Rakstrar- og íløguútreiðslurnar eru hækkaðar munandi, og hetta er tekin um økt virksemi í landinum.</s>
-            </p>
-            <p>
-              <s xml:id="hcctwmpowg">Kommunurnar eiga at seta munandi upphæddir av til rentur og avdráttir fyri at gjalda skuldina aftur.</s>
-              <s xml:id="cszhps4d6w">Flestu kommunur eru førar fyri at gjalda skuld aftur, men hjá teimum, sum hava meir enn 3 álíkningar í skuld, er tað sera tørført at koma burtur úr hesum hafti.</s>
-              <s xml:id="p4vcud56ty">Nakrar kommunur mugu enn fáa hjálp úr veðhaldsgrunninum fyri at rinda rentur og avdráttir.</s>
-            </p>
-            <p>
-              <s xml:id="rbjwat5ikw">Landsstýrið fer at leggja áherðslu á at fáa loysn á kommunuskuldini, soleiðis at kommunurnar leggja doyin á at gjalda skuld aftur og ikki at taka nýggj lán.</s>
-            </p>
-          </div>
-          <div>
-            <head rend="bold">Fíggjar- og búskaparmál</head>
-            <p>
-              <s xml:id="ygiq3ttyht">Framgongdin frá seinasta ári heldur fram í 1998.</s>
-              <s xml:id="gbn3uko5hf">Hetta sæst millum annað í hagtølunum, sum liggja við sum fylgiskjøl til løgmansrøðuna.</s>
-              <s xml:id="l23s5tifd4">Niðanfyri nevndu tøl í ár eru samanborin við sama tíðarskeið í fjør.</s>
-            </p>
-            <p>
+              <seg>Landsstýrið hevur sett sær fyri, at hetta valskeiðið skal snúgva seg um at skipa framtíðarkarmarnar um føroyska samfelagið:<lb /></seg>
               <list rend="bullet">
                 <item>
-                  <s xml:id="wzujdazyyc">Fólkatalið veksur støðugt.</s>
-                  <s xml:id="uonw3wsm7f">Fólkatalið verður við árslok eini 500 fólk fleiri enn í fjør.</s>
+                  <s xml:id="jdkvxpedgq">Tann grundleggjandi karmin - okkara ríkisrættarligu støðu og okkara viðurskifti við útheimin.</s>
                 </item>
                 <item>
-                  <s xml:id="n5gv2l4cmi">Arbeiðsloysið minkar alsamt, úr 10% í fjør niður í eini 8% í ár.</s>
-                </item>
-                <pb b="5"/>
-                <item>
-                  <s xml:id="uzlctsosef">Løngjaldingarnar eru 11% hægri, javnvágin millum framleiðsluvinnuna og almennar tænastur er vorðin betri.</s>
+                  <s xml:id="roaqphwrvy">Marknaðarkarmarnar, har samráðingar um nýggja avtalu við ES skulu fyrireikast og viðgerast politiskt.</s>
                 </item>
                 <item>
-                  <s xml:id="wllhlbarya">Handilsjavnin, skip ikki íroknað, er 34 mió. kr. betri fyrsta ársfjórðing í ár.</s>
+                  <s xml:id="dttej5y5n3">Innanhýsis politisku karmarnar, har nýggj kommunuskipan verður viðgjørd.</s>
                 </item>
                 <item>
-                  <s xml:id="nslp7hk536">Gjaldsjavnaavlopið, sum í fjør var 881 mió. kr. verður helst á sama støði í ár.</s>
+                  <s xml:id="xh374vl4mt">Búskaparligu og fíggjarligu karmarnar fyri føroyska samfelagið framyvir.</s>
                 </item>
                 <item>
-                  <s xml:id="hy6hualt53">Nettouttanlandsskuldin, sum við árslok í fjør var 2,2 mia. kr. minkar í ár samsvarandi bankaendurgjaldinum 1 mia. kr., og verður nettouttanlandsskuldin umleið 0 við árslok, um gjaldsjavnaavlopið verður á leið tað sama sum í fjør.</s>
+                  <s xml:id="qny3o5eqb4">Vinnuligu karmarnar fyri fiskivinnu, øðrum vinnum og møguliga oljuvinnu.</s>
+                </item>
+                <item>
+                  <s xml:id="ldq26nd6my">Útbygging av føroyska samfelagnum á samferðsluøkinum og møguleikar hjá útjaðaranum at mennast.</s>
+                </item>
+                <item>
+                  <s xml:id="kvuffmgatq">Vælferðarskipanina, har vit skulu tryggja varandi loysnir í heilsuverkinum og í almannaverkinum.</s>
+                </item>
+                <item>
+                  <s xml:id="a5f5fam2jp">Mentanarligar karmar, har vit skulu fóta okkum í útbúgving, gransking og tøkni í altjóða menningini.</s>
                 </item>
               </list>
             </p>
             <p>
-              <s xml:id="pah5eiyj6b">Ein av høvuðsorsøkunum fyri hesum úrslitum er tann skatta- og avgjaldspolitikkur, ið førdur er seinastu árini, har kappingarførið hjá vinnuni er batnað, og at tað aftur loysir seg at arbeiða.</s>
-            </p>
-            <p>
-              <s xml:id="kvnjvmqf2x">Avtalan við donsku stjórnina fær avgerandi týdning fyri framtíðar fíggjarpolitikk landsins, hon leggur eitt fast gjald til rentur og avdrátt av landskassans skuld til danska statin til 323 mio. um árið í 20 ár.</s>
-              <s xml:id="bhyhzo5udg">Hetta er uml. 80 mio. kr. minni enn tað, ið vit hava goldið í rentu av hesi skuld.</s>
-              <s xml:id="q2j7qtkwhr">Rentan er føst, 5% p.a. fyri alt tíðarskeiðið.</s>
-            </p>
-            <p>
-              <s xml:id="ifli6onkv4">Avtalan staðfestir, at vit hava fullan avgerðarrætt og ábyrgd av búskaparpolitikkinum í framtíðini.</s>
-            </p>
-            <p>
-              <s xml:id="slv6vbklff">Hetta ber í sær, at neyðugt er at føra ein varligan fíggjar- og búskaparpolitik fyri at styrkja samfelagið og fyri at kunna standa ímóti bakkøstum.</s>
-            </p>
-            <p>
-              <s xml:id="m5ptvj6m4i">Landsstýrið fer tí at skipa fyri, at avlop verður á fíggjarlógini í komandi árum, og nýggj lán til landskassan koma ikki upp á tal.</s>
-            </p>
-            <p>
-              <s xml:id="egbuhbncl7">Eisini fer landsstýrið at laga almennu íløgurnar til privatu íløgurnar, so vit ikki aftur fáa ovurvirksemi í búskapin.</s>
+              <s xml:id="evdi4rj6mv">Tað skal vera mín vón og mín áheitan á løgtingið, at vit við opnum sinni viðgera hesi stórmál, og at vit kunnu finna breiðar politiskar semjur um framtíðarkarmarnar um føroyska samfelagið.</s>
             </p>
           </div>
           <div>
-            <head rend="bold">Fiskivinnumál</head>
+            <head rend="bold">Høvuðssetningur landsstýrisins</head>
             <p>
-              <s xml:id="uga6xtcfnj">Rikin verður ein varin fiskivinnupolitikkur.</s>
-              <s xml:id="bo5wiyjg3b">Reguleringartiltøkini skulu tryggja, at fiskastovnarnir undir Føroyum verða gagnnýttir burðardyggiliga við fiskidøgum, stongdum økjum og friðingum á gýtingarleiðum, so endamálið í lógini um vinnuligan fiskiskap verður rokkið.</s>
+              <s xml:id="ieeko7uirk">Samgonguflokkarnir eru samdir um, at tað er neyðugt at hava fult ræði og fulla ábyrgd av landinum til tess at skapa eitt trygt grundarlag undir føroyska samfelagnum í framtíðini.</s>
             </p>
             <p>
-              <s xml:id="ppjvce3xzl">Hugt má verða at heildini, og ikki bert at pørtunum hvør sær.</s>
-              <s xml:id="cep56gurrn">Øll liðini mugu verða burðardygg, skal tað geva úrslit.</s>
-              <s xml:id="czlwmmwxew">Dentur verður lagdur á allar tættir, samstarv millum framleiðslulið og sølulið, økismenning, arbeiðsumhvørvi, góðskukrøv, hagreiðingarskipanir, meira umsetilig fiskirættindi og størri liberalisering í veiðiliðinum.</s>
+              <s xml:id="mzl6zs6gta">Høvuðssetningur landsstýrisins er greiður sambært samgonguavtaluni: Føroyar verða skipaðar sum fullveldi, har alt politiskt vald og ábyrgd eru hjá føroyskum myndugleikum.</s>
+              <s xml:id="etkswnstwu">Tað vil ikki siga, at bondini við Danmark og umheimin verða kvett.</s>
+            </p>
+            <pb n="3" />
+            <p>
+              <s xml:id="eh7jpvadgo">Endamálið er at samstarva á einum nýggjum grundarlagi sum javnbjóðis partar.</s>
+              <seg>Í samgonguskjalinum er ásett, at hetta verður at gera eftir eini skipaðari ætlan:</seg>
+              <list rend="bullet">
+                <item>
+                  <s xml:id="jqyse54l7o">Ein partur snýr seg um at fyrireika og samráðast við donsku stjórnina um ein samstarvssáttmála landanna millum, sum tvey sjálvstøðug lond eins og Ísland og Danmark í 1918.</s>
+                  <s xml:id="disjnonyem">Herundir skal samráðast við stjórnina um eina búskaparliga og fíggjarliga skiftisskipan.</s>
+                </item>
+                <item>
+                  <s xml:id="n5k7bm3xdt">Ein partur snýr seg um at gera eina grundlóg fyri Føroyar.</s>
+                </item>
+                <item>
+                  <s xml:id="f2vemliws4">Og ein partur snýr seg um at gera føroyskar skipanir á øllum málsøkjum í føroyska samfelagnum, at meta um fíggjarligan tørv, lóggávutørv og umsitingarligan tørv, og ikki minst at gera búskaparligar ætlanir og framrokningar fyri einum sjálvberandi føroyskum búskapi.</s>
+                </item>
+              </list>
             </p>
             <p>
-              <s xml:id="ixwvcrw6iy">Fiskiveiðiavtalurnar fyri 1998 vísa á økt føroysk veiðirættindini á fjarleiðum, tó verða útlendsk veiðirættindi á føroysku landleiðini skerd.</s>
-              <s xml:id="zed7g3mvea">Hesar broytingar stava frá eini skerjing í øllum botnfiski og eini øking í uppsjóvarfiski og ídnaðarfiski.</s>
-            </p>
-          </div>
-          <div>
-            <head rend="bold">Vinnumál</head>
-            <p>
-              <s xml:id="prhopqefpe">Ein nútíðarvinnupolitikkur leggur dent á at víðka um ræsur, førleika og møguleikar <pb n="6"/> hjá so mongum einstaklingum og fyritøkum í landinum sum gjørligt fyri at fremja virksemi, ið veksur um búskapin og gerst sostatt ein sameinandi liður í politiska arbeiðinum.</s>
+              <s xml:id="erilzifx4u">Lyklaorðini í hesum arbeiði eru: Fyrireiking, kunning og demokratisk viðgerð.</s>
+              <s xml:id="t3mnaqgeuf">Føroya løgting viðger øll mál og ger av, hvørjar broytingar skulu gerast.</s>
+              <s xml:id="vjwqmu37sl">Haraftrat hevur samgongan bundið seg til, at uppskot til nýggjan sáttmála við Danmark og uppskot til eina føroyska grundlóg verða send til fólkaatkvøðu í Føroyum.</s>
             </p>
             <p>
-              <s xml:id="nphal3aigc">Hóast ein góð semja við danir longu nú hevur slóðað fyri øktum politiskum sjálvræði, slepst ikki undan, at ein sterkur búskapur í longdini er besta trygdin fyri varandi sjálvbjargni.</s>
-            </p>
-            <p>
-              <s xml:id="vy7bh4ngjj">Fiskieydnan kann vera svikalig, og blokkstuðulin fer einaferð at hvørva.</s>
-              <s xml:id="ctr4acmjbf">Tað er tí umráðandi, at landskassin fær aðrar inntøkukeldur at líta á.</s>
-            </p>
-            <p>
-              <s xml:id="lb2j2deoxi">Grundstøðið undir føroyska búskapinum verður ov veikt, finna vit ikki aðrar vinnur, ið kunnu tryggja javnvágina í búskapinum, tá fiskivinnan hevur ring ár.</s>
-            </p>
-            <p>
-              <s xml:id="j5ucrsf2ue">Alivinnan er eitt dømi um vinnu, ið bráddliga hevur fingið stóran týdning fyri búskapin.</s>
-              <s xml:id="w65eca4zak">Vit byggja í løtuni skip til Grønlands, vit útflyta trol og nótir, blanda alifóður til Hetlands, smíða hús í Norra, dýpa havnir í Íslandi, og vit flyta ferðafólk millum lond.</s>
-              <s xml:id="tkkpho5ggt">Sostatt eru mong dømi um, at vit eru kappingarfør, har vit hava rætta fólkið og rættan hugburð.</s>
-            </p>
-            <p>
-              <s xml:id="i4nsvf66fi">Somuleiðis verður tryggjað eitt hóskandi ferða- og flutningssamband innanoyggja, sum hevur alstóran týdning fyri vinnumøguleikar, menning og trivnað í útjaðaranum.</s>
-            </p>
-            <p>
-              <s xml:id="hfqwiyrjgu">Landsstýrið hevur sett eina verkætlan í gongd um orðing av vinnupolitikki, og ætlanin er, at verkætlanin verður grundarlag undir politisku viðgerðini, nú broyttar politiskar fortreytir krevja, at vit ganga nýggjar vinnuvegir.</s>
+              <s xml:id="jpgeev6acf">Til tess at fyrireika hesi stóru stig eru sjálvstýrismál eitt nýtt málsøki í landsstýrinum, og landsstýrismaður er settur til hetta mál burturav.</s>
+              <s xml:id="ir6fsw5bna">Fyrireikingarnar eru byrjaðar, og fyrsta uppskotið um framtíðarstøðu Føroya verður lagt fyri tingið eftir ólavsøku.</s>
             </p>
           </div>
           <div>
-            <head rend="bold">Oljuvinna</head>
+            <head rend="bold">Avtalan við donsku stjórnina</head>
             <p>
-              <s xml:id="p7jvrv5wlv">Tulkingar av innkomnum datamongdum frá seismiskum kanningum undir Føroyum benda á, at grundarlag er fyri at bjóða út øki til oljuleiting.</s>
-              <s xml:id="hilevbnbuc">Stóri áhugin hjá oljufeløgum fyri føroyska landgrunninum er gott tekin.</s>
+              <s xml:id="fx422gklqc">Arbeiðið at skipa framtíðarkarmarnar um føroyska samfelagið byrjaði longu í samráðingunum við donsku stjórnina í juni í ár, sum var fyrsta stóra uppgávan hjá hesum landsstýri.</s>
+              <s xml:id="ejvb4w5z3x">Tann 10. juni varð avtala undirskrivað í Keypmannahavn millum landsstýrið og donsku stjórnina um m.a. endurgjald fyri bankamálið, afturgjalding av uttanlandsskuld, blokkstuðul og tilsøgn um samráðingar um ríkisrættarligu støðu Føroya.</s>
             </p>
             <p>
-              <s xml:id="lt2vxjbbzd">Oljuleiting og oljuvinna eiga fyrst og fremst at menna føroysku vinnuna, so hon betur kann laga seg til broytingar og gerast kappingarfør í altjóða høpi.</s>
-              <s xml:id="koa7lv3z5r">Fyrsta stigið er at vera við í oljuvinnu við Føroyar, og at tryggja føroyskum fyritøkum møguleikar at veita oljufeløgum vørur og tænastur, tá leitingarloyvi verða givin.</s>
-            </p>
-          </div>
-          <div>
-            <head rend="bold">Almanna- og heilsumál</head>
-            <p>
-              <s xml:id="n3jrs6jyqc">Stórar avbjóðingar standa fyri framman, og tilmæli til føroyskan almannapolitikk verður eftir ætlan lagt fyri løgtingið til aðalorðaskiftis.</s>
+              <s xml:id="u323bj7mzp">Landsstýrið legði í fyrireikingunum til samráðingarnar dent á, at talan var um politiskar samráðingar, sum ikki bert skuldu snúgva seg um tann løgfrøðiliga partin av bankamálinum.</s>
             </p>
             <p>
-              <s xml:id="nxm4z4zfdt">Í nýggju almannalóggávuni verður miðað ímóti at gera greiðar reglur fyri skyldum hjá landi og kommunum og at avmarka galdandi afturgjalds- og refusiónskipanir.</s>
+              <s xml:id="hkon42mjyy">Landsstýrið miðaði ímóti eini heildaruppgerð um bankamálið, skuldina til ríkiskassan og tey politisku krepputiltøkini, sum vórðu ein beinleiðis partur av bankamálinum.</s>
+              <s xml:id="tcd7o3mm56">Harafturat skuldi avtalan leggja lunnar undir komandi samráðingar um ríkisrættarligu støðu Føroya.</s>
+              <s xml:id="yeyikgc4xr">Tað eydnaðist at fáa eina góða heildaravtalu.</s>
             </p>
             <p>
-              <s xml:id="qgizujpttz">Lóggávan er á fleiri økjum ótíðarhóskandi og verður at endurskoða samsvarandi fíggjarorku landsins, soleiðis at greiðir karmar verða gjørdir um skyldur og rættindi okkara mótvegis teimum, sum á einhvønn hátt eru við skerdan lut, eins og hin einstaki hevur ábyrgdina av lívi og heilsu síni, meðan at tað almenna stuðlar undir.</s>
-            </p>
-            <pb n="7"/>
-            <p>
-              <s xml:id="vf5kz6ir5k">Íbúðartørvurin hjá fólki broytist við árunum.</s>
-              <s xml:id="sdqzq3rclg">Vit eiga at umhugsa at broyta endamálið við Húsalánsgrunninum til at røkja hesa uppgávu, so fólk ikki verða so bundin at tí bústaði, tey einaferð valdu sær.</s>
+              <s xml:id="vvlxja6otv">Í veruleikanum er avtalan byrjanin til eitt nýtt tíðarskeið í viðurskiftunum Føroya og Danmarkar millum.</s>
+              <s xml:id="vjxy5u7dr5">Vit hava fingið eitt búskaparligt og politiskt rásarúm at styrkja føroyska samfelagið og leggja lunnar undir at broyta ríkisrættarligu støðu okkara.</s>
+              <s xml:id="webssjyndi">Avtalan ber í sær, at vit taka fulla búskaparliga ábyrgd av Føroyum.</s>
             </p>
             <p>
-              <s xml:id="dibdunjk3r">Ein pensjóns- og eftirlønarábót er neyðug.</s>
-              <s xml:id="zrurkpwbcs">Verður einki gjørt, gerast eftirlønar- og pensjónskipanirnar fleiri, umframt tvær samhaldsfastar skipanir, sum landið rindar, men sum ikki nøkta tørvin hjá teimum, sum liva av fólkapensjónini burturav.</s>
+              <s xml:id="b6s3oqxa4g">Tað er at fegnast um, at eitt samt løgting tók undir við avtaluni.</s>
             </p>
             <p>
-              <s xml:id="zbr6xyjqqg">Heilsutænastan sum heild eigur at gerast betri bæði viðvíkjandi hølum og tøkni.</s>
-              <s xml:id="gvbi3qroas">Júst tøkni kann gerast eitt týðandi stuðulsamboð.</s>
-              <s xml:id="ztouskrv52">Hugsandi er, at teldutøkni og kunningartøkni kunnu veita sjúklingum í útjaðaraøkjum tænastur og vera ein trygd hjá óttafullum fólki í einbýli.</s>
+              <s xml:id="qyp77i7d4p">Í stuttum verður nortið við tey ymsu málsøkini, men víst verður til 2. part av løgmansrøðuni, har einstøku málsøkini eru nærri útgreinað.</s>
             </p>
           </div>
           <div>
-            <head rend="bold">Undirvísingar- og mentamál</head>
+            <head rend="bold">Stytt málsøki</head>
+            <div>
+              <head rend="bold">Uttanlandsmál</head>
+              <p>
+                <s xml:id="z5fefkvxnl">Seinastu árini hevur løgmaður lagt frágreiðing um uttanlandsmál fyri løgtingið, sum væntandi verður løgd fyri tingið í heyst.</s>
+              </p>
+              <p>
+                <s xml:id="msja6ceajw">Her skal tó verða trivið í tey mál, ið hava havt týdning fyri Føroya land seinasta árið, og sum landsstýrið fer at leggja stóran dent á næstu árini.</s>
+              </p>
+              <p>
+                <s xml:id="o23odav3hx">Samráðingarnar við Bretland um landgrunsmarkið hava verið drúgvar og torførar.</s>
+                <s xml:id="mno2zhibme">Tað hevur frá samráðingarbyrjan verið støða landsstýrisins at fáa í lag eina semju við bretar, ið fær breiða undirtøku á løgtingi.</s>
+              </p>
+              <p>
+                <s xml:id="idpp3htfhq">Marknatrætan er tikin upp til máls millum danska forsætismálaráðharran og løgmann.</s>
+                <s xml:id="u7epsp77an">Gongdin seinasta hálvárið hevur víst, at vilji er frá báðum pørtum at royna semju heldur enn at leggja marknamálið fyri altjóða dómstólin í Haag.</s>
+              </p>
+              <p>
+                <s xml:id="mfqhbra2sx">Í løtuni verða fyrieikingar gjørdar til tess at greina út, hvussu frægast er at fara fram í hesum máli.</s>
+                <s xml:id="wk5vun635u">Ætlanin er at røkka einari loysn á marknamálinum innan rímiliga tíð.</s>
+              </p>
+              <p>
+                <s xml:id="ommcoxirbe">Heimshandilin er merktur av, at samhandilin í millumlandafelagsskapum og teirra millum mennist.</s>
+                <s xml:id="yjlmgewgel">Hóast Føroyar higartil hava valt at standa uttan fyri hesar felagsskapir, eru vit farin í holt við at endurskoða hesi viðurskifti.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Kommunumál</head>
+              <p>
+                <s xml:id="py2xbjfspt">Skattainntøkurnar hjá kommununum vaksa støðugt.</s>
+                <s xml:id="zuttobbdaw">Gongdin higartil í ár vísir, at skattainntøkurnar verða uml. 740 mió. kr, sum er nakað hægri enn mett í fíggjarætlanini.</s>
+                <s xml:id="eisauhnyjk">Meðal kommunuskattaprosentið er óbroytt á 19,85%.</s>
+              </p>
+              <p>
+                <s xml:id="nmoz4uvehb">Rakstrar- og íløguútreiðslurnar eru hækkaðar munandi, og hetta er tekin um økt virksemi í landinum.</s>
+              </p>
+              <p>
+                <s xml:id="hcctwmpowg">Kommunurnar eiga at seta munandi upphæddir av til rentur og avdráttir fyri at gjalda skuldina aftur.</s>
+                <s xml:id="cszhps4d6w">Flestu kommunur eru førar fyri at gjalda skuld aftur, men hjá teimum, sum hava meir enn 3 álíkningar í skuld, er tað sera tørført at koma burtur úr hesum hafti.</s>
+                <s xml:id="p4vcud56ty">Nakrar kommunur mugu enn fáa hjálp úr veðhaldsgrunninum fyri at rinda rentur og avdráttir.</s>
+              </p>
+              <p>
+                <s xml:id="rbjwat5ikw">Landsstýrið fer at leggja áherðslu á at fáa loysn á kommunuskuldini, soleiðis at kommunurnar leggja doyin á at gjalda skuld aftur og ikki at taka nýggj lán.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fíggjar- og búskaparmál</head>
+              <p>
+                <s xml:id="ygiq3ttyht">Framgongdin frá seinasta ári heldur fram í 1998.</s>
+                <s xml:id="gbn3uko5hf">Hetta sæst millum annað í hagtølunum, sum liggja við sum fylgiskjøl til løgmansrøðuna.</s>
+                <s xml:id="l23s5tifd4">Niðanfyri nevndu tøl í ár eru samanborin við sama tíðarskeið í fjør.</s>
+              </p>
+              <p>
+                <list rend="bullet">
+                  <item>
+                    <s xml:id="wzujdazyyc">Fólkatalið veksur støðugt.</s>
+                    <s xml:id="uonw3wsm7f">Fólkatalið verður við árslok eini 500 fólk fleiri enn í fjør.</s>
+                  </item>
+                  <item>
+                    <s xml:id="n5gv2l4cmi">Arbeiðsloysið minkar alsamt, úr 10% í fjør niður í eini 8% í ár.</s>
+                  </item>
+                  <pb b="5" />
+                  <item>
+                    <s xml:id="uzlctsosef">Løngjaldingarnar eru 11% hægri, javnvágin millum framleiðsluvinnuna og almennar tænastur er vorðin betri.</s>
+                  </item>
+                  <item>
+                    <s xml:id="wllhlbarya">Handilsjavnin, skip ikki íroknað, er 34 mió. kr. betri fyrsta ársfjórðing í ár.</s>
+                  </item>
+                  <item>
+                    <s xml:id="nslp7hk536">Gjaldsjavnaavlopið, sum í fjør var 881 mió. kr. verður helst á sama støði í ár.</s>
+                  </item>
+                  <item>
+                    <s xml:id="hy6hualt53">Nettouttanlandsskuldin, sum við árslok í fjør var 2,2 mia. kr. minkar í ár samsvarandi bankaendurgjaldinum 1 mia. kr., og verður nettouttanlandsskuldin umleið 0 við árslok, um gjaldsjavnaavlopið verður á leið tað sama sum í fjør.</s>
+                  </item>
+                </list>
+              </p>
+              <p>
+                <s xml:id="pah5eiyj6b">Ein av høvuðsorsøkunum fyri hesum úrslitum er tann skatta- og avgjaldspolitikkur, ið førdur er seinastu árini, har kappingarførið hjá vinnuni er batnað, og at tað aftur loysir seg at arbeiða.</s>
+              </p>
+              <p>
+                <s xml:id="kvnjvmqf2x">Avtalan við donsku stjórnina fær avgerandi týdning fyri framtíðar fíggjarpolitikk landsins, hon leggur eitt fast gjald til rentur og avdrátt av landskassans skuld til danska statin til 323 mio. um árið í 20 ár.</s>
+                <s xml:id="bhyhzo5udg">Hetta er uml. 80 mio. kr. minni enn tað, ið vit hava goldið í rentu av hesi skuld.</s>
+                <s xml:id="q2j7qtkwhr">Rentan er føst, 5% p.a. fyri alt tíðarskeiðið.</s>
+              </p>
+              <p>
+                <s xml:id="ifli6onkv4">Avtalan staðfestir, at vit hava fullan avgerðarrætt og ábyrgd av búskaparpolitikkinum í framtíðini.</s>
+              </p>
+              <p>
+                <s xml:id="slv6vbklff">Hetta ber í sær, at neyðugt er at føra ein varligan fíggjar- og búskaparpolitik fyri at styrkja samfelagið og fyri at kunna standa ímóti bakkøstum.</s>
+              </p>
+              <p>
+                <s xml:id="m5ptvj6m4i">Landsstýrið fer tí at skipa fyri, at avlop verður á fíggjarlógini í komandi árum, og nýggj lán til landskassan koma ikki upp á tal.</s>
+              </p>
+              <p>
+                <s xml:id="egbuhbncl7">Eisini fer landsstýrið at laga almennu íløgurnar til privatu íløgurnar, so vit ikki aftur fáa ovurvirksemi í búskapin.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fiskivinnumál</head>
+              <p>
+                <s xml:id="uga6xtcfnj">Rikin verður ein varin fiskivinnupolitikkur.</s>
+                <s xml:id="bo5wiyjg3b">Reguleringartiltøkini skulu tryggja, at fiskastovnarnir undir Føroyum verða gagnnýttir burðardyggiliga við fiskidøgum, stongdum økjum og friðingum á gýtingarleiðum, so endamálið í lógini um vinnuligan fiskiskap verður rokkið.</s>
+              </p>
+              <p>
+                <s xml:id="ppjvce3xzl">Hugt má verða at heildini, og ikki bert at pørtunum hvør sær.</s>
+                <s xml:id="cep56gurrn">Øll liðini mugu verða burðardygg, skal tað geva úrslit.</s>
+                <s xml:id="czlwmmwxew">Dentur verður lagdur á allar tættir, samstarv millum framleiðslulið og sølulið, økismenning, arbeiðsumhvørvi, góðskukrøv, hagreiðingarskipanir, meira umsetilig fiskirættindi og størri liberalisering í veiðiliðinum.</s>
+              </p>
+              <p>
+                <s xml:id="ixwvcrw6iy">Fiskiveiðiavtalurnar fyri 1998 vísa á økt føroysk veiðirættindini á fjarleiðum, tó verða útlendsk veiðirættindi á føroysku landleiðini skerd.</s>
+                <s xml:id="zed7g3mvea">Hesar broytingar stava frá eini skerjing í øllum botnfiski og eini øking í uppsjóvarfiski og ídnaðarfiski.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Vinnumál</head>
+              <p>
+                <s xml:id="prhopqefpe">Ein nútíðarvinnupolitikkur leggur dent á at víðka um ræsur, førleika og møguleikar <pb n="6" /> hjá so mongum einstaklingum og fyritøkum í landinum sum gjørligt fyri at fremja virksemi, ið veksur um búskapin og gerst sostatt ein sameinandi liður í politiska arbeiðinum.</s>
+              </p>
+              <p>
+                <s xml:id="nphal3aigc">Hóast ein góð semja við danir longu nú hevur slóðað fyri øktum politiskum sjálvræði, slepst ikki undan, at ein sterkur búskapur í longdini er besta trygdin fyri varandi sjálvbjargni.</s>
+              </p>
+              <p>
+                <s xml:id="vy7bh4ngjj">Fiskieydnan kann vera svikalig, og blokkstuðulin fer einaferð at hvørva.</s>
+                <s xml:id="ctr4acmjbf">Tað er tí umráðandi, at landskassin fær aðrar inntøkukeldur at líta á.</s>
+              </p>
+              <p>
+                <s xml:id="lb2j2deoxi">Grundstøðið undir føroyska búskapinum verður ov veikt, finna vit ikki aðrar vinnur, ið kunnu tryggja javnvágina í búskapinum, tá fiskivinnan hevur ring ár.</s>
+              </p>
+              <p>
+                <s xml:id="j5ucrsf2ue">Alivinnan er eitt dømi um vinnu, ið bráddliga hevur fingið stóran týdning fyri búskapin.</s>
+                <s xml:id="w65eca4zak">Vit byggja í løtuni skip til Grønlands, vit útflyta trol og nótir, blanda alifóður til Hetlands, smíða hús í Norra, dýpa havnir í Íslandi, og vit flyta ferðafólk millum lond.</s>
+                <s xml:id="tkkpho5ggt">Sostatt eru mong dømi um, at vit eru kappingarfør, har vit hava rætta fólkið og rættan hugburð.</s>
+              </p>
+              <p>
+                <s xml:id="i4nsvf66fi">Somuleiðis verður tryggjað eitt hóskandi ferða- og flutningssamband innanoyggja, sum hevur alstóran týdning fyri vinnumøguleikar, menning og trivnað í útjaðaranum.</s>
+              </p>
+              <p>
+                <s xml:id="hfqwiyrjgu">Landsstýrið hevur sett eina verkætlan í gongd um orðing av vinnupolitikki, og ætlanin er, at verkætlanin verður grundarlag undir politisku viðgerðini, nú broyttar politiskar fortreytir krevja, at vit ganga nýggjar vinnuvegir.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Oljuvinna</head>
+              <p>
+                <s xml:id="p7jvrv5wlv">Tulkingar av innkomnum datamongdum frá seismiskum kanningum undir Føroyum benda á, at grundarlag er fyri at bjóða út øki til oljuleiting.</s>
+                <s xml:id="hilevbnbuc">Stóri áhugin hjá oljufeløgum fyri føroyska landgrunninum er gott tekin.</s>
+              </p>
+              <p>
+                <s xml:id="lt2vxjbbzd">Oljuleiting og oljuvinna eiga fyrst og fremst at menna føroysku vinnuna, so hon betur kann laga seg til broytingar og gerast kappingarfør í altjóða høpi.</s>
+                <s xml:id="koa7lv3z5r">Fyrsta stigið er at vera við í oljuvinnu við Føroyar, og at tryggja føroyskum fyritøkum møguleikar at veita oljufeløgum vørur og tænastur, tá leitingarloyvi verða givin.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Almanna- og heilsumál</head>
+              <p>
+                <s xml:id="n3jrs6jyqc">Stórar avbjóðingar standa fyri framman, og tilmæli til føroyskan almannapolitikk verður eftir ætlan lagt fyri løgtingið til aðalorðaskiftis.</s>
+              </p>
+              <p>
+                <s xml:id="nxm4z4zfdt">Í nýggju almannalóggávuni verður miðað ímóti at gera greiðar reglur fyri skyldum hjá landi og kommunum og at avmarka galdandi afturgjalds- og refusiónskipanir.</s>
+              </p>
+              <p>
+                <s xml:id="qgizujpttz">Lóggávan er á fleiri økjum ótíðarhóskandi og verður at endurskoða samsvarandi fíggjarorku landsins, soleiðis at greiðir karmar verða gjørdir um skyldur og rættindi okkara mótvegis teimum, sum á einhvønn hátt eru við skerdan lut, eins og hin einstaki hevur ábyrgdina av lívi og heilsu síni, meðan at tað almenna stuðlar undir.</s>
+              </p>
+              <pb n="7" />
+              <p>
+                <s xml:id="vf5kz6ir5k">Íbúðartørvurin hjá fólki broytist við árunum.</s>
+                <s xml:id="sdqzq3rclg">Vit eiga at umhugsa at broyta endamálið við Húsalánsgrunninum til at røkja hesa uppgávu, so fólk ikki verða so bundin at tí bústaði, tey einaferð valdu sær.</s>
+              </p>
+              <p>
+                <s xml:id="dibdunjk3r">Ein pensjóns- og eftirlønarábót er neyðug.</s>
+                <s xml:id="zrurkpwbcs">Verður einki gjørt, gerast eftirlønar- og pensjónskipanirnar fleiri, umframt tvær samhaldsfastar skipanir, sum landið rindar, men sum ikki nøkta tørvin hjá teimum, sum liva av fólkapensjónini burturav.</s>
+              </p>
+              <p>
+                <s xml:id="zbr6xyjqqg">Heilsutænastan sum heild eigur at gerast betri bæði viðvíkjandi hølum og tøkni.</s>
+                <s xml:id="gvbi3qroas">Júst tøkni kann gerast eitt týðandi stuðulsamboð.</s>
+                <s xml:id="ztouskrv52">Hugsandi er, at teldutøkni og kunningartøkni kunnu veita sjúklingum í útjaðaraøkjum tænastur og vera ein trygd hjá óttafullum fólki í einbýli.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Undirvísingar- og mentamál</head>
+              <p>
+                <s xml:id="wjcx2xacgm">Mentanarpolitikkur er ein natúrligur partur av heildarpolitikkinum og er ein av fortreytunum fyri menning í nútíðarsamfelagnum.</s>
+                <s xml:id="ytmzsnfuyd">Landsstýrið hevur sett sær fyri at orða ein mentanarpolitikk til at seta í verk í seinasta lagi ár 2000.</s>
+                <s xml:id="pxom3d3kfa">Ímeðan eiga vit at bøta um fortreytirnar fyri mentanarliga virkseminum í landinum, tí ábøtur eru neyðugar á fleiri økjum.</s>
+              </p>
+              <p>
+                <s xml:id="cogj4n7qlc">Nýggj fólkaskúlalóg kemur í gildi 1. august í ár.</s>
+                <s xml:id="nawvjflam7">Nýggja lógin ber í sær rættiliga stórar broytingar, og til tess at lúka krøvini, ið lógin setur, er neyðugt við øktari játtan til fólkaskúlan komandi árini.</s>
+              </p>
+              <p>
+                <s xml:id="woq7moxxtv">Neyðugt er at veita lærarum eina munadygga eftirútbúgving, so teir gerast betur førir fyri at taka ímóti teimum avbjóðingum, ið nýggja lógin førir við sær.</s>
+              </p>
+              <p>
+                <s xml:id="psu74q52zl">Gransking er ein fortreyt fyri framburði.</s>
+                <s xml:id="fzjzc3wwyr">Skal granskingin ikki verða afturútsigld, mega vit skifta kós, tí útbúgvingartørvurin er stórur.</s>
+              </p>
+              <p>
+                <s xml:id="frqqnkue3t">Viðvíkjandi kunningartøkni og teldusamskifti eiga vit ikki standa aftanfyri.</s>
+                <s xml:id="etb4sxpprt">Arbeitt verður við eini KT-ætlan fyri vinnu- og miðnámsskúlaøkið, sum kann gera karmar um menningina í skúlunum og vísa á møguleikarnar, sum kunningartøkni gevur.</s>
+              </p>
+              <p>
+                <s xml:id="yt5mldkv6w">Í hesum viðfangi kann verða nevnt, at løgmansrøðan liggur sum tingmál á heimasíðu løgtingsins á vevsíðu, har hon er tøk hjá borgarum landsins.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Samantak</head>
             <p>
-              <s xml:id="wjcx2xacgm">Mentanarpolitikkur er ein natúrligur partur av heildarpolitikkinum og er ein av fortreytunum fyri menning í nútíðarsamfelagnum.</s>
-              <s xml:id="ytmzsnfuyd">Landsstýrið hevur sett sær fyri at orða ein mentanarpolitikk til at seta í verk í seinasta lagi ár 2000.</s>
-              <s xml:id="pxom3d3kfa">Ímeðan eiga vit at bøta um fortreytirnar fyri mentanarliga virkseminum í landinum, tí ábøtur eru neyðugar á fleiri økjum.</s>
+              <hi rend="italic">
+                <s xml:id="qvunhvweqq">Harra formaður.</s>
+                <lb />
+                <s xml:id="hcscgqinjf">Risatøk liggja fyri framman, og neyðugt er tí við breiðari politiskari semju um tey mál, ið viðgerast skulu.</s>
+                <s xml:id="z653haek75">Sera umráðandi er at náa eina felags fatan av teim ymisku málunum í hesi viðgerð, hóast vit ikki eru samd um smálutirnar.</s>
+              </hi>
             </p>
             <p>
-              <s xml:id="cogj4n7qlc">Nýggj fólkaskúlalóg kemur í gildi 1. august í ár.</s>
-              <s xml:id="nawvjflam7">Nýggja lógin ber í sær rættiliga stórar broytingar, og til tess at lúka krøvini, ið lógin setur, er neyðugt við øktari játtan til fólkaskúlan komandi árini.</s>
+              <s xml:id="sqqjm7xszw">Eg fari við hesum orðum at bjóða løgtinginum - samgongu sum andstøðu - til eitt týdningarmikið og avgerandi samstarv við eitt vegamót í framtíðarstøðu Føroya.</s>
             </p>
             <p>
-              <s xml:id="woq7moxxtv">Neyðugt er at veita lærarum eina munadygga eftirútbúgving, so teir gerast betur førir fyri at taka ímóti teimum avbjóðingum, ið nýggja lógin førir við sær.</s>
-            </p>
-            <p>
-              <s xml:id="psu74q52zl">Gransking er ein fortreyt fyri framburði.</s>
-              <s xml:id="fzjzc3wwyr">Skal granskingin ikki verða afturútsigld, mega vit skifta kós, tí útbúgvingartørvurin er stórur.</s>
-            </p>
-            <p>
-              <s xml:id="frqqnkue3t">Viðvíkjandi kunningartøkni og teldusamskifti eiga vit ikki standa aftanfyri.</s>
-              <s xml:id="etb4sxpprt">Arbeitt verður við eini KT-ætlan fyri vinnu- og miðnámsskúlaøkið, sum kann gera karmar um menningina í skúlunum og vísa á møguleikarnar, sum kunningartøkni gevur.</s>
-            </p>
-            <p>
-              <s xml:id="yt5mldkv6w">Í hesum viðfangi kann verða nevnt, at løgmansrøðan liggur sum tingmál á heimasíðu løgtingsins á vevsíðu, har hon er tøk hjá borgarum landsins.</s>
+              <s xml:id="vdwfoueqhk">Góða ólavsøku.</s>
             </p>
           </div>
         </div>
         <div>
-          <head rend="bold">Samantak</head>
-          <p>
-            <hi rend="italic">
-              <s xml:id="qvunhvweqq">Harra formaður.</s>
-              <lb/>
-              <s xml:id="hcscgqinjf">Risatøk liggja fyri framman, og neyðugt er tí við breiðari politiskari semju um tey mál, ið viðgerast skulu.</s>
-              <s xml:id="z653haek75">Sera umráðandi er at náa eina felags fatan av teim ymisku málunum í hesi viðgerð, hóast vit ikki eru samd um smálutirnar.</s>
-            </hi>
-          </p>
-          <p>
-            <s xml:id="sqqjm7xszw">Eg fari við hesum orðum at bjóða løgtinginum - samgongu sum andstøðu - til eitt týdningarmikið og avgerandi samstarv við eitt vegamót í framtíðarstøðu Føroya.</s>
-          </p>
-          <p>
-            <s xml:id="vdwfoueqhk">Góða ólavsøku.</s>
-          </p>
+          <head rend="bold center">PARTUR II</head>
+          <div>
+            <head rend="bold">Málsøki útgreinað</head>
+            <div>
+              <head>Uttanlandsmál</head>
+              <p>
+                <s>Seinastu árini hevur løgmaður lagt frágreiðing um uttanlandsmál fyri løgtingið.</s>
+                <s>Henda frágreiðing verður væntandi løgd fyri løgtingið í heyst.</s>
+              </p>
+              <p>
+                <s>Her skal tó verða trivið í tey mál, ið hava havt týdning fyri Føroya land seinasta árið, og sum landsstýrið fer at leggja stóran dent á næstu árini.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Altjóða samráðingar</head>
+              <div>
+                <head>Marknamálið</head>
+                <p>
+                  <s>Eitt sera týdningarmikið mál er tann framvegis óloysti spurningurin um landgrunsmarkið millum Føroya og Bretlands.</s>
+                </p>
+                <p>
+                  <s>Málið hevur verið á skránni í 20 ár.</s>
+                  <s>Tær samráðingarnar, sum byrjaðu fyri 7 árum síðani hava verið truplar og hava ikki higartil ført til nakað úrslit.</s>
+                  <s>Síðan 1993 hevur landsstýrið havt ábyrgdina av samráðingarleiðsluni.</s>
+                  <s>Ongin fundur hevur verið millum samráðingarnevndirnar síðan september 1997.</s>
+                  <s>Hinvegin hevur hvørgin parturin boðað mótpartinum frá, at samráðingarnar verða hildnar at verða endaðar úrslitaleysar.</s>
+                  <s>Sambandið millum partarnar er ikki avbrotið.</s>
+                </p>
+                <p>
+                  <s>Seinastu tíðina hava avvarðandi bretsku myndugleikar við fleiri ymisk høvi sagt seg fúsar at gera sítt til tess at náa fram til eina samráðingarloysn.</s>
+                  <s>Landsstýrið er í holt við at kanna, hvat býr undir hesum bretska boðskapi.</s>
+                </p>
+                <p>
+                  <s>Skilligt er, at áhugin hjá oljuvinnuni at sleppa í gongd við leiting báðumegin eitt komandi mark er stórur, og at báðir partar høvdu staðið seg við at fingið ásett markið áðrenn langt um líður.</s>
+                </p>
+              </div>
+              <div>
+                <head>Altjóða handilsmál</head>
+                <p>
+                  <s>Heimshandilin er merktur av, at samhandilin í millumlandafelagsskapum og teirra millum mennist.</s>
+                  <s>Hóast Føroyar higartil hava valt at standa uttan fyri hesar felagsskapir, eru vit tó farin í holt við at endurskoða okkara viðurskifti í samstarvinum við hesar.</s>
+                </p>
+              </div>
+              <div>
+                <head>Samráðingar við ES</head>
+                <p>
+                  <s>Samstarvið við ES er grundað á ein fiskivinnusáttmála og ein handilssáttmála.</s>
+                  <s>Landsstýrið hevur ta áskoðan, at handilssáttmálin við ES er ikki nøktandi.</s>
+                  <s>Tískil varð ein nevnd sett í fjør at kanna møguleikarnar fyri sáttmála við ES um eina EBS líknandi skipan.</s>
+                  <s>Nevndin er liðug við sín setning og frágreiðing verður handað løgmanni í næstum.</s>
+                </p>
+                <p>
+                  <s>Eftir ætlan verður farið undir samráðingar um sínamillum heilsufrøðilig viðurskifti í heyst.</s>
+                  <s>Málið er at fáa semju í lag líknandi tí íslendsku.</s>
+                </p>
+              </div>
+              <div>
+                <head>Samráðingar við Mið- og Eystureuropa</head>
+                <p>
+                  <s>Áheitan um samráðingar um fríhandil er send tíggju mið- og eystureuropeiskum londum.</s>
+                  <s>Sáttmálin við Estland verður lagdur aftur fyri løgtingið í heyst.</s>
+                  <s>Harumframt <pb n="9" /> verður sáttmálin við Pólland væntandi undirritaður um stutta tíð og lagdur fyri løgtingið seinni í tingsetuni.</s>
+                </p>
+              </div>
+            </div>
+            <div>
+              <head rend="bold">Trygdarmál</head>
+              <div>
+                <head>Skjalarannsóknir</head>
+                <p>
+                  <s>Við støði í løgtingssamtykt tann 19. apríl 1996 setti løgmaður stýrisbólk at skipa fyri rannsóknararbeiðinum í sambandi við herstøðirnar í Føroyum.</s>
+                  <s>Stýrisbólkurin setti søgufrøðing at savna skjøl í USA, og bólkurin hevur savnað skjøl í Danmark og Føroyum.</s>
+                  <s>Tó resta nakrar skjalarannsóknir í Danmark og Føroyum í.</s>
+                </p>
+                <p>
+                  <s>Eitt stórt og áhugavert skjalatilfar er fingið til vega.</s>
+                  <s>Tilfarið verður viðgjørt og frágreiðing verður latin í málinum seinni.</s>
+                </p>
+              </div>
+            </div>
+            <div>
+              <head rend="bold">Norðurlandamál</head>
+              <div>
+                <head>Sjálvstøðug umboðan</head>
+                <p>
+                  <s>Sum staðfest í samgonguskjalinum er ætlan landsstýrisins at fáa sjálvstøðuga umboðan í Norðurlandaráðnum í samsvari við, at Føroyar gerast eitt land við fullveldi.</s>
+                </p>
+                <p>
+                  <s>Neyðugt verður at endurskoða leiklut Føroya í Norðurlandaráðnum og at taka støðu til gongdina í norðurlendskum samstarvi.</s>
+                </p>
+                <p>
+                  <s>Norðurlendska samstarvið er í eini broytingartíð.</s>
+                  <s>Samstarvið við ES og samstarvið við tey sonevndu nærøkini, sum fevna um Russland og londini í Eystrasalti, verða raðfest høgt í ráðharraráðnum.</s>
+                  <s>Samstarv millum Norðurlandaráðið og Barentsøkið eins og samstarvið við arktiska økið tvørturum Atlantshav til Kanada verður ment.</s>
+                </p>
+              </div>
+              <div>
+                <head>Útnorður</head>
+                <p>
+                  <s>Dentur verður lagdur á at styrkja støðu Útnorðurlanda og at vera við í nýggju samstarvsøkjunum hjá Norðurlandaráðnum.</s>
+                </p>
+              </div>
+              <div>
+                <head>Meting av samstarvinum</head>
+                <p>
+                  <s>Stig eru tikin til tess at fáa metingar um leiklut landsstýrisins í Norðurlandasamstarvinum og at fáa tilmæli um, hvussu samstarvið kann styrkjast á ymsu økjunum.</s>
+                </p>
+              </div>
+            </div>
+            <div>
+              <head rend="bold">Kommunumál</head>
+              <div>
+                <head rend="bold">Skattainntøkur</head>
+                <p>
+                  <s>Skattainntøkurnar hjá kommununum vaksa støðugt.</s>
+                  <s>Í 1992 vóru tær 562 mió. kr. og í 1997 uml. 730 mió. kr.</s>
+                </p>
+                <p>
+                  <s>Gongdin higartil í ár vísir, at skattainntøkurnar verða uml. 740 mió. kr, sum er nakað hægri enn mett í fíggjarætlanini.</s>
+                  <s>Meðal kommunuskattaprosentið er óbroytt á 19,85%.</s>
+                </p>
+                <p>
+                  <s>Rakstrar- og íløguútreiðslurnar eru hækkaðar uml. 38 mió. kr. upp í 483 mió. kr.</s>
+                </p>
+                <pb n="10" />
+                <p>
+                  <s>Kommunurnar hava sett 126 mió. kr. av til avdráttir av lánum, men rentuútreiðslurnar eru lækkaðar 15 mió. kr. til 109 mió. kr., sum stendst av, at rentustøðið er lækkað og skuldin minkað.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Kommunuskuld</head>
+                <p>
+                  <s>Kommunuskuldin verður við árslok uml. 1,5 mia. kr., sum er gott og væl 2 álíkningar.</s>
+                  <s>Hetta er ein álíkning minni enn í 1995, tá avtala varð gjørd við lánsveitararnar.</s>
+                  <s>Skuldin er tó enn sera tyngjandi fyri raksturin hjá flestu kommunum, tí uml. 1/3 av kommunalu fíggjarætlanunum fer til rentur og avdráttir av lánum.</s>
+                </p>
+                <p>
+                  <s>Flestu kommunur eru førar fyri at gjalda skuld aftur, men hjá teimum, sum hava meir enn 3 álíkningar í skuld, er tað sera tørført at koma burtur úr hesum hafti.</s>
+                  <s>Einstakar kommunur mugu enn fáa hjálp úr veðhaldsgrunninum fyri at rinda rentur og avdráttir.</s>
+                </p>
+                <p>
+                  <s>Ongantíð ov skjótt má finnast ein loysn á kommunuskuldini.</s>
+                  <s>Landsstýrið fer at leggja áherðslu á, at kommunurnar halda fram við at leggja doyin á at gjalda skuldina aftur og halda seg frá at taka nýggj lán.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Kommunubygnaður</head>
+                <p>
+                  <s>Kommununevndin, sum landsstýrið setti í 1996 at endurskoða kommunbygnaðin, fer at leggja fram álit í næstum.</s>
+                  <s>Í álitinum er uppskot um nýtt uppgávu- og ábyrgdarbýti millum land og kommunur og nýtt kommunuuppbýti.</s>
+                  <s>Eisini viðurskifti viðvíkjandi útjavning, fíggjarviðurskiftum og serskipanum verða umrødd og við er uppskot um nýggja kommunulóg, nýggja vallóg og eina samanleggingarlóg.</s>
+                </p>
+              </div>
+            </div>
+            <div>
+              <head rend="bold">Sjálvstýrismál</head>
+              <div>
+                <p>
+                  <s>Sjálvstýrismál eru skipað sum sjálvstøðugt málsøki í landsstýrinum.</s>
+                  <s>Endamálið er at samskipa og fyrireika tað politiska og umsitingarliga arbeiðið at skipa Føroyar sum fullveldi.</s>
+                  <s>Gjørd verður ein verkætlan, sum Løgmansskrivstovan samskipar.</s>
+                </p>
+                <p>
+                  <seg>Sjálvstýrismálini verða sundurliðað í trý:</seg>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Sáttmáli við Danmark</head>
+                <p>
+                  <s>Beint eftir ólavsøku verður uppskot lagt fyri løgtingið at skipa Føroyar sum fullveldi.</s>
+                  <s>Uppskotið skal reika fyri samráðingum við donsku stjórnina um ein sáttmála, ið skal staðfesta Føroyar sum fullveldi og áseta framtíðarsamstarvið við Danmark.</s>
+                  <s>Haraftrat verður samráðst um eina fíggjarliga og búskaparliga uppgerð og skiftisskipan landanna millum.</s>
+                </p>
+                <p>
+                  <seg>Eftir tingsins viðgerð og samtykt skal grundarlagið undir samráðingum og sáttmála byggja á eitt neyvt fyrireikingararbeiði:</seg>
+                  <lb />
+                  <list rend="bullet">
+                    <item>
+                      <s>Serfrøðingar greina tað søguliga ríkisrættarliga og fólkarættarliga grundarlagið fyri, at Føroyar gerast fullveldi.</s>
+                    </item>
+                    <item>
+                      <s>Serfrøðingar gera grundarlagið fyri eini búskaparligari og fíggjarligari uppgerð millum Føroyar og Danmark bygd á søguligar metingar og á verandi viðurskifti.</s>
+                    </item>
+                    <item>
+                      <s>Tørvurin á lóggávu og fyrisiting fyri tey málsøki, sum Føroyar ikki umsita í dag, verður útgreinað og uppskot til framtíðarsamstarv og skiftisskipanir verður gjørt.</s>
+                    </item>
+                    <item>
+                      <s>Á teimum málsøkjum, sum Føroyar heilt og lutvíst hava yvirtikið, verður mett um tørvin á nýggjari lóggávu og samstarvi við Danmark og onnur lond.</s>
+                    </item>
+                    <item>
+                      <s>Fíggjarligar og búskaparligar framrokningar verða gjørdar um ein sjálvberandi føroyskan búskap.</s>
+                    </item>
+                  </list>
+                </p>
+                <p>
+                  <s>Til tess at tryggja eina neyva politiska viðgerð verður frágreiðing um fyrireikingarnar løgd fyri tingið til aðalorðaskiftis.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Grundlóg fyri Føroyar</head>
+                <p>
+                  <s>Í heyst verður uppskot lagt fyri tingið um grundlógarnevnd.</s>
+                  <s>Hetta arbeiðið fer fram samstundis sum sáttmálin verður gjørdur.</s>
+                </p>
+                <p>
+                  <s>Nevndin skal gera uppskot til grundlóg fyri Føroyar og uppskot til, hvussu dómsvaldið verður skipað óheft av løgtingi og landsstýri.</s>
+                  <s>Ætlanin er, at uppskotið til grundlóg fyri Føroyar verður lagt fyri tingið og til fólkaatkvøðu.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Kunning</head>
+                <p>
+                  <s>Ein tann týdningarmesti parturin í arbeiðinum við sjálvstýrismálum er kunningin.</s>
+                  <s>Politiska viðgerðin á tingi og í almenninginum er ein týdningarmikil liður í hesum setningi.</s>
+                  <s>Ætlanin er at seta pening av til politiska upplýsing í samband við fólkaatkvøðurnar.</s>
+                </p>
+                <p>
+                  <s>Landsstýrið ætlar at skipa fyri eini ráðstevnu í Føroyum um smátjóðir saman við Fróðskaparsetrinum.</s>
+                  <s>Ráðstevnan skal lýsa og samanbera royndirnar hjá sjálvsstøðugum smátjóðum í politiskum, búskaparligum, vinnuligum, almonnum og mentanarligum høpi.</s>
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </body>
