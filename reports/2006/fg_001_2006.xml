@@ -1,589 +1,1035 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>FG-001/2006: Ólavsøkufrágreiðing løgmans 2006</title>
-            </titleStmt>
-            <publicationStmt>
-                <publisher>Rani Høgnason Hansen</publisher>
-                <idno type="url">https://github.com/hoegnason/tingmal</idno>
-                <availability status="free">
-                    <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-                    <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
-                    <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
-                </availability>
-                <date when="2025-11-08" />
-            </publicationStmt>
-            <notesStmt>
-                <note />
-            </notesStmt>
-            <sourceDesc>
-                <bibl type="parliamentary_document">
-                    <publisher>Føroya Løgting</publisher>
-                    <author>
-                        <persName>Jóannes Eidesgaard</persName>
-                        <roleName>løgmaður</roleName>
-                    </author>
-                    <ref target="https://www.logting.fo/documents/16076" />
-                    <note type="source_format">PDF document, machine-readable text</note>
-                    <date when="2006-07-29">29. juli 2006</date>
-                </bibl>
-            </sourceDesc>
-        </fileDesc>
-        <encodingDesc>
-            <editorialDecl>
-                <correction>
-                    <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
-                </correction>
-                <segmentation>
-                    <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
-                </segmentation>
-            </editorialDecl>
-        </encodingDesc>
-    </teiHeader>
-    <text>
-        <body>
-            <pb n="1" />
-            <div type="report">
-                <pb n="5" />
-                <div type="chapter">
-                    <head>Partur I</head>
-                    <div>
-                        <head rend="bold">Framløga Løgmans</head>
-                        <div>
-                            <p>
-                                <seg>Harra formaður.</seg>
-                            </p>
-                            <p>
-                                <s>Løtan við skrúðgongu, gudstænastu og kórsangi kennist tignarlig.</s>
-                                <s>Tjóðin øll steðgar á og fer úr gerandishaminum.</s>
-                                <s>Vit kenna felagsskapin so veruligan - kenna, at vit eru partur av sama samleika.</s>
-                                <s>Ivaleyst ásanna vit øll, at tað er ein framíhjárættur at vera borgari í hesum samfelag, sum er okkara, og sum vit øll eru so ómetaliga góð við.</s>
-                                <s>Hetta er góður førningur at hava við sær á ferðini, nú vit gerast alt meira partur av alheiminum.</s>
-                            </p>
-                            <p>
-                                <s>Hóast ein hevur verið við í mong ár, so kennir ein framvegis hátíðina so ítøkiliga, tá ið farið verður oman í dómkirkjuna – nú fyri seinastu ferð í eina danska kirkju.</s>
-                                <s>Tú kennir ylin fara ígjøgnum teg, tá ið kórsangurin tekur at ljóma á Tinghúsvøllinum.</s>
-                                <s>Og soleiðis kennist eisini henda løtan, har eg fyri triðju ferð skal bera ólavsøkurøðuna fram.</s>
-                            </p>
-                            <p>
-                                <s>Men samstundis ber hetta boð um, at fjørðurin hjá sitandi samgongu er meira enn hálvrógvin.</s>
-                                <s>Vit standa á gáttini til okkara seinastu heilu tingsetu í hesum valskeiði, og hóast vit hava rokkið nógv av setningini okkara, so eru enn mong týdningarmikil mál at avgreiða.</s>
-                            </p>
-                            <p>
-                                <s>Vit løgdu fyri í 2004 við at siga, at vit ynsktu at skapa álit og arbeiðsfrið, tí hetta var fyritreytin fyri, at vit kunnu røkka úrslitum.</s>
-                                <s>Hetta vísti seg at bera til.</s>
-                            </p>
-                            <p>
-                                <s>Vit ynsktu at fáa vent búskapargongdini við at reka ein varnan, men tó arbeiðsstimbrandi búskaparpolitikk, og alt bendir á, at hetta hevur eydnast.</s>
-                            </p>
-                            <p>
-                                <s>Vit vildu fáa viðurskiftini í sjálvstýrismálinum á føroyskar hendur, so at framtíðar tilgongdin skuldi liggja í hondunum á Føroya fólki og hesum høga tingi.</s>
-                                <s>Hetta er eisini komið í rættlag.</s>
-                            </p>
-                            <p>
-                                <s>Tað kennist hugaligt, men lat tað vera okkum ein íbirtari til ikki at setast hendur í favn, men at halda áfram og greiða tey mongu týdningarmiklu málini, sum krevja skilagóðar loysnir.</s>
-                                <s>Og til hetta arbeiðið hava vit brúk fyri øllum góðum kreftum, eisini frá andstøðuni.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <p>
-                                <seg>Harra formaður.</seg>
-                            </p>
-                            <p>
-                                <s>Tað stendur væl til í Føroyum.</s>
-                            </p>
-                            <p>
-                                <s>Okkara búskapur er vorðin betri seinasta árið, og útlitini eru í løtuni bjørt fyri land okkara.</s>
-                                <s>Vit fegnast um, at arbeiðsloysið er sera lítið – minni enn í flestu Norðurlondum og í ES.</s>
-                                <s>Inntøkurnar í landskassan vaksa, samstundis sum Landsstýrið, eins og vit lovaðu, hevur givið skattalætta, sum stimbrar hugin at arbeiða og harvið eisini búskapin.</s>
-                                <s>Lønarútgjaldingarnar eru øktar.</s>
-                                <s>Tað gongur væl í flestu pørtum av okkara vinnulívi.</s>
-                                <s>Trygga politiska støðan skapar álit, sum saman við einum skynsomum búskaparpolitikki gevur dirvi og trúgv upp á framtíðina.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Familju- og bústaðarpakki</head>
-                            <p>
-                                <s>Hóast búskaparstøðan er góð, so eru tað enn tíverri tey, ið ikki hava nóg góðar fíggjarligar umstøður.</s>
-                            </p>
-                            <pb n="6" />
-                            <p>
-                                <s>Vit síggja, at húsaprísirnir hækka dag um dag.</s>
-                                <s>Tað kostar nú so nógv at keypa sær hús ella íbúð í miðstaðarøkinum, at tað nærum er vónleyst hjá ungum familjum, skulu tær ikki at binda seg fíggjarliga til langt inn í ellisár.</s>
-                                <s>Oljuprísirnir eru methøgir, og tí er tungt at húsast hjá nógvum familjum og hjá eldri fólki.</s>
-                            </p>
-                            <p>
-                                <s>Hetta vilja vit - og hetta fara vit - at gera nakað við!</s>
-                            </p>
-                            <p>
-                                <s>Familjan fer at standa fremst í raðfestingunum á komandi fíggjarlóg.</s>
-                                <s>Bústaðarpakkin, sum Landsstýrið fer at leggja fram, fer at gera tað lættari hjá ungum fólki og familjum at seta búgv og fer eisini at betra um møguleikarnar hjá fólki við serligum tørvi at fáa sær egnan bústað.</s>
-                            </p>
-                            <p>
-                                <s>Hetta fara vit at gera við tveimum lógaruppskotum - einum um lutaíbúðafeløg og einum um bústaðapartafelag.</s>
-                                <s>Skipanin við lutaíbúðafeløgum ger tað lættari hjá fólki við lægri inntøkum at seta føtur undir egið borð.</s>
-                                <s>Somuleiðis fara eldri fólk at kunna skifta hús síni um við minni bústaðir.</s>
-                                <s>Við hesum gerst bústaðarmynstrið fjølbroyttari.</s>
-                            </p>
-                            <p>
-                                <s>Lógin um bústaðapartafelag fer at skipa Húsalánsgrunnin og Íbúðagrunnin í eitt alment partafelag, sum skal fíggja bústaðir til fólk við serligum tørvi.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið fer at gera tað møguligt hjá lesandi at fara í barnsburðarfarloyvi, so at korini hjá teimum gerast betri.</s>
-                            </p>
-                            <p>
-                                <s>Vit fara at leggja barnafrádráttin um til eitt útgjald.</s>
-                                <s>Hetta merkir, at eisini tey, sum onga arbeiðsinntøku hava, fáa barnastuðul.</s>
-                                <s>Umframt hetta ætlar Landsstýrið at hækka stuðulin til barnafamiljur við serligum tørvi.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið fer at leggja fram uppskot um sjúkradagpeningalóg, sum fer at gera, at tímalønt fáa betri møguleikar at vera heima hjá sjúkum børnum, og eitt uppskot um felags foreldramyndugleika fyri at styrkja støðuna hjá bæði børnum og foreldrum.</s>
-                            </p>
-                            <p>
-                                <s>Vit hava longu økt inngjaldið í Samhaldsfasta, og samsvarandi er útgjaldið nú hækkað.</s>
-                                <s>Frá 1. januar næsta ár fer tað veruliga at merkjast, tí tá hækkar útgjaldið munandi.</s>
-                                <s>Saman við reguleringini av fólkapensjónini fer ein fólkapensjonistur, sum ikki hevur aðra munandi inntøku, at fáa 9.000 kr., og eini hjún 15.000 kr. um mánaðin.</s>
-                            </p>
-                            <p>
-                                <s>Harumframt fer Landsstýrið at fremja ein víðfevnandi eftirlønarreform, sum fer at bera við sær, at allir borgarar sum frá líður fara at gjalda til egna eftirlønarskipan.</s>
-                                <s>Hetta er ein neyðugur lutur fyri at tryggja komandi ættarliðum góð pensjóns- og eftirlønarviðurskifti.</s>
-                                <s>Eitt álit um pensjónsreformin kemur nú í heyst.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Visjón 2015</head>
-                            <p>
-                                <s>Í fjør nýtti eg stóran part av ólavsøkurøðuni til at umrøða hugsanirnar aftan fyri Visjón 2015, sum er eitt av hjartamálunum hjá Landsstýrinum.</s>
-                                <s>Sum kunnugt hevur Landsstýrið sett strategibólkar at gera uppskot til mál og ítøkiligar ætlanir fyri samfelag okkara.</s>
-                                <s>Somuleiðis setti Landsstýrið eitt visjónstorg, sum er breitt umboðað av politisku skipanini, umframt av arbeiðstakarum, arbeiðsgevarum og áhugafeløgum.</s>
-                                <s>Visjónstorgið viðger og umrøður tað arbeiði, sum strategibólkarnir leggja fram.</s>
-                            </p>
-                            <p>
-                                <s>Arbeiðið higartil hevur gingið væl, og fólkið hevur tikið visjónina til sín.</s>
-                                <s>Almenningurin viðger visjónina í álvarsemi, konstruktivt og jaliga, og við hvørt meira kritiskt og neiliga.</s>
-                                <s>Tað er umráðandi at vit kjakast, og at vit líta longur fram - at hugarenslið verður strekt munandi longri enn til næsta val.</s>
-                                <s>Tí kjakið er grundarlagið undir teimum avgerðum, vit skulu taka, fyri at fáa samfelagið, vit ynskja okkum í 2015.</s>
-                            </p>
-                            <pb n="7" />
-                            <p>
-                                <s>Eg skal her leggja dent á, at bólkarnir koma við teimum uppskotum, sum teir meta vera rættast – óheft av samgonguskjalinum ella politiska viljanum annars.</s>
-                                <s>Landsstýrið fer gjølla at viðgera uppskotini, ið koma frá strategibólkunum.</s>
-                            </p>
-                            <p>
-                                <s>Í juni varð skipað fyri fýra visjónsdøgum, har teir ymsu strategibólkarnir løgdu fram tey mál, sum teir meta, at vit eiga at seta okkum.</s>
-                                <s>Í løtuni arbeiða bólkarnir við at leggja strategiir fyri hesi mál, og í heyst fara teir at leggja endaliga arbeiði sítt fyri Visjónstorgið.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið vil nýta hetta arbeiðið til at finna felags semjur og felags kós á økjum, har tað er avgerandi neyðugt at leggja langtíðarætlanir – eitt nú um vinnukarmar, gransking og skúlaverk.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Fólkaskúlin</head>
-                            <p>
-                                <s>Eg nevndi fyrst í røðuni, at vit fara at leggja dent á familjuna á komandi fíggjarlóg.</s>
-                                <s>Skúlaverkið, sum er grundarsteinur í Visjón 2015, fær eisini fremstu raðfesting.</s>
-                                <s>PISAundankanningin, sum varð almannakunngjørd í vár, bendi á, at føroyskir næmingar eru ikki nóg væl fyri fakliga.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið hevur tikið hesa niðurstøðu í allar størsta álvara og hevur viðgjørt kanningina saman við øllum skúlaleiðarum í fólkaskúlanum.</s>
-                            </p>
-                            <p>
-                                <s>Bøtast skal um umstøðurnar hjá øllum næmingum, bæði teimum, sum duga væl, og ikki minni hjá teimum, sum tørvar hjálp.</s>
-                            </p>
-                            <p>
-                                <s>Størri áherðsla skal leggjast á byrjanarundirvísingina, serliga í føroyskum og støddfrøði.</s>
-                                <s>Málið er, at næmingarnir duga at lesa eftir annað skúlaár.</s>
-                                <s>Umráðandi er at menna bæði lesiførleikan og lesiáhugan hjá næmingunum og at skipa so fyri, at teir fáa fjølbroytt og mennandi tilfar á móðurmálinum.</s>
-                            </p>
-                            <p>
-                                <s>Umframt fráfaringarroyndirnar er ætlanin at seta í verk støðuroyndir, til dømis í 3., 5. og 7. flokki, sum ein lið at eftirmeta undirvísingina í skúlunum.</s>
-                            </p>
-                            <p>
-                                <s>Næsta PISA-kanningin verður á vári 2009, og tá skulu Føroyar vera líka væl fyri sum hini Norðurlondini.</s>
-                            </p>
-                            <p>
-                                <s>Arbeitt verður við at gera skúlan betri til at taka ímóti næmingum við serligum tørvi og at styrkja sernámsfrøðiligu tænastuna, eitt nú við tænastueindum kring landið.</s>
-                                <s>Tann fyrsta eindin er sett á stovn í Eysturoynni.</s>
-                                <s>Næstu eindirnar skulu eftir ætlan vera í Suðuroy og Streymoynni.</s>
-                            </p>
-                            <p>
-                                <s>Fakligi førleikin hjá lærarum hevur sjálvandi størstan týdning fyri fólkaskúlan, og sum ein avgerandi liður í menningini skulu lærara- og pedagogútbúgvingarnar styrkjast munandi.</s>
-                                <s>Næsta vár verður lógaruppskot um at nútímansgera læraraútbúgvingina lagt fyri tingið.</s>
-                                <s>Ætlanin er at skipa lærara- og pedagogútbúgvingarnar á bachelorstigi.</s>
-                                <s>Hesar útbúgvingar skulu í framtíðini í allar mátar vera eins góðar og tilsvarandi útbúgvingar í ES og grannalondum okkara.</s>
-                                <s>Hetta er neyðugt, skulu lærarar og pedagogar taka ímóti støðugt vaksandi avbjóðingum.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Fiskivinnan</head>
-                            <p>
-                                <s>Seinasta tíðin hevur verið merkt av nógva kjakinum um keyp og sølu av fiskiloyvum.</s>
-                                <s>Hetta er ikki nýtt fyribrigdi, men hevur verið ein veruleiki í rættiliga nógv ár, tó uttan at nøkur haldbar politisk loysn er funnin.</s>
-                            </p>
-                            <pb n="8" />
-                            <p>
-                                <s>Landsstýrið tekur spurningin í fullum álvara og hevur sett hol á eina politiska viðgerð, sum fer at hava við sær eina heilt nýggja lóg um vinnuligan fiskiskap.</s>
-                            </p>
-                            <p>
-                                <s>Millum annað skal henda politiska viðgerðin taka støðu til spurningar sum at staðfesta ognarrættin, og undir hesum uppsøgn av veiðiloyvum, brúksskyldu, tilfeingisgjald og møguleikar hjá tí almenna at selja fiskirættindi.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið fer at arbeiða fyri atlimaskapi í FAO, sum er matvøru- og landbúnaðarfelagsskapurin hjá ST.</s>
-                                <s>Hetta er ein góður samskiftisdepil hjá heimsins fiskivinnulondum.</s>
-                                <s>Atlimaskapur fer at geva okkum ein virknari og sjónligari leiklut sum fiskivinnutjóð í alheimshøpi, og vit fáa eisini høvi at gera vart við okkum á røttum stað.</s>
-                            </p>
-                            <p>
-                                <s>Størsta framstigið í samráðingunum um fiskiveiðuavtalur fyri 2006 var semjan, sum loksins varð gjørd við Ísland, Noreg og ES um, hvussu svartkjaftastovnurin skal umsitast.</s>
-                                <s>Okkara samráðingarfólk áttu stóran lut í hesi semju, sum undir givnum fortreytum var sera góð.</s>
-                            </p>
-                            <p>
-                                <s>Støðug menning í fiskivinnuni skal styrkja um kappingarføri okkara.</s>
-                                <s>Tí er ætlanin framhaldandi at tillaga játtanirnar til gransking á fiskivinnuøkinum, so at støðug menning av vinnugranskingini verður raðfest fremri.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Onnur vinna</head>
-                            <p>
-                                <s>Tað tykist, sum føroyska vinnan sum heild gerst dynamiskari og fjølbroyttari, og vónandi fær brúkarin ágóða av hesum.</s>
-                                <s>Vit síggja, at kapping er á fleiri økjum – eitt nú innan telefoni, internet, flogferðslu og peningastovnar.</s>
-                                <s>Og fleiri fyritøkur víðka sítt virksemi uttan fyri landoddarnar.</s>
-                            </p>
-                            <p>
-                                <s>Á tryggingarøkinum fara munandi broytingar at henda.</s>
-                                <s>Útlendsk tryggingarfeløg fara at fáa atgongd til føroyska marknaðin, og brúkarin fer at kunna tekna tryggingar uttanlands.</s>
-                            </p>
-                            <p>
-                                <s>At fleiri almennar fyritøkur nú verða einskildar, fer at skapa enn meira dynamikk.</s>
-                                <s>Ætlanin er at selja 33% av partabrøvunum í Atlantsflogi í ár, og helvtin av partabrøvunum í Føroya lívstrygging verður latin tryggingartakarunum.</s>
-                                <s>Hin helvtin verður seld øðrum íleggjara.</s>
-                                <s>Byrjað verður eisini at einskilja Føroya banka og Føroya tele í 2007.</s>
-                            </p>
-                            <p>
-                                <s>Í hesi løtu verður fjórði brunnurin á landgrunninum boraður.</s>
-                                <s>Ein boring verður í 2007 og ein í 2008.</s>
-                                <s>Hugsa vit um tær ovurhonds stóru upphæddir, sum oljufeløgini nýta til borivirksemi í og nærhendis føroyskum øki, so er lítil ivi um, at tey trúgva uppá, at olja er at finna.</s>
-                                <s>Og tað, at nógv olja er funnin bretskumegin markið, ger hetta ógvuliga sannlíkt.</s>
-                                <s>Hóast ein møgulig oljuvinna helst liggur nøkur ár frammi í tíðini, mugu vit longu nú fyrireika okkum bæði mentalt og samfelagsliga til tær grundleggjandi broytingar, ein slík vinna fer at hava á okkara samfelag.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið fer at seta á stovn ein búskapargrunn, har serligar inntøkur til landskassan, eitt nú inntøkur frá einskiljingum og eini møguligari oljuvinnuni, fara í.</s>
-                                <s>Grunnurin skal millum annað nýtast til at standa ímóti við í verri tíðum, til at gjalda niður almenna skuld og til at fíggja gransking.</s>
-                            </p>
-                            <p>
-                                <s>Gransking er eisini eitt øki, vit í sambandi við Visjón 2015 leggja stóran dent á at styrkja í framtíðini, og Vísindaráð Føroya verður sett í næstum.</s>
-                                <s>Vit hava nú fingið eitt ílegusavn, sum verður liður í at byggja upp eina ílegugransking í Føroyum.</s>
-                            </p>
-                            <p>
-                                <s>Í alivinnuni eru stór framstig við at henda, hóast útflutningurin í ár er sera lítil.</s>
-                                <s>Bøttar mannagongdir í alingini hava ført til betri sjúkufyribyrging og hava saman við koppseting bast ILA-sjúkuni.</s>
-                                <s>Alivinnan tykist at fara at fóta sær í størri og sterkari eindum, sum helst verða kappingarførari við útlendskar alifyritøkur.</s>
-                            </p>
-                            <pb n="9" />
-                            <p>
-                                <s>Ætlanin er somuleiðis at gera Føroya altjóða skipaskráseting kappingarføra.</s>
-                                <s>9 skip komu í FAS í fjør, og við árslok vóru til samans 35 skip í skrásetingini.</s>
-                            </p>
-                            <p>
-                                <s>Á ymiskan hátt fer Landsstýrið at stuðla upp undir íverksetan og at menna íverksetaramentan.</s>
-                                <s>Samstundis skal land okkara marknaðarførast sum eitt land, har tað er gott at gera íløgur – eitt nú í almennar fyritøkur, sum verða einskildar.</s>
-                                <s>Sum eitt land, har útlendskar fyritøkur kunnu royna nýggjar KT-skipanir.</s>
-                                <s>Sum eitt áhugavert land í sambandi við frálandavinnu, aling, fiskavirking og gransking.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Arbeiðsmarknaður</head>
-                            <p>
-                                <s>Á arbeiðsmarknaðinum eru verulig frambrot gjørd, við tað at partarnir hava stovnað fastan gerðarrætt og gjørt sáttmála um, hvussu trætumál og spurningar um sáttmálabrot skulu greiðast sum skjótast og við fyriliti fyri samfelagsligum áhugamálum.</s>
-                                <s>Partarnir eiga miklan heiður uppibornan fyri hetta avrik sítt.</s>
-                            </p>
-                            <p>
-                                <s>Ein arbeiðsmarknaður, har rúmd er fyri øllum, eigur at vera næsta frambrotið.</s>
-                            </p>
-                            <p>
-                                <s>Í einum vælferðarsamfelagi sum okkara eigur tað at vera ein sjálvfylgja, at fólk við skerdum førleika kunnu skapa sær eitt lív við innihaldsríkum arbeiði og fastari inntøku.</s>
-                                <s>Men tíverri mugu vit ásanna, at tað framvegis er alt ov lítið rúm fyri teimum ófullføru á arbeiðsmarknaðinum – bæði tí privata og tí almenna.</s>
-                            </p>
-                            <p>
-                                <s>Tí verður farið undir eina serliga verkætlan.</s>
-                                <s>Arbeiðsmarknaðardeildin á Almannastovuni skal styrkjast, so at vit kunnu fáa fleiri fólk við skerdum førleika á arbeiðsmarknaðin og fyribyrgja, at fólk missa tilknýtið til hansara.</s>
-                            </p>
-                            <p>
-                                <s>Eg fari inniliga at heita á privatar so væl sum almennar arbeiðsgevarar um at hugsa um tað samfelagsliga virðið, sum liggur í einum rúmligum arbeiðsmarknaði.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Útlendingamál</head>
-                            <p>
-                                <s>Útlendingaøkið hevur fingið nógva umrøðu.</s>
-                                <s>Eingin ivi skal vera um, at Landsstýrið vil, at vit taka væl ímóti teimum útlendingum, sum koma higar at arbeiða og seta búgv.</s>
-                                <s>At taka ímóti útlendingum krevur eisini av okkum, at vit fáa hesar borgarar at fella til í okkara samfelagi.</s>
-                            </p>
-                            <p>
-                                <s>Umsóknirnar um arbeiðs- og uppihaldsloyvi gerast alt fleiri.</s>
-                                <s>Fyrra hálvár í ár komu umleið 270 umsóknir aftur ímóti umleið 90 somu tíð í fjør.</s>
-                                <s>Harumframt eru aðrar umsóknir um uppihaldsloyvi, eitt nú familjusamanføringar.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið hevur sett sær fyri at fáa skil á útlendingaøkið.</s>
-                                <s>Okkara reglur skulu vera smidligar og samfelagsliga skilagóðar.</s>
-                                <s>Skjótari og greiðari mannagongdir fyri málsviðgerðina av útlendingamálum verða nú gjørdar.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið vil stovna eitt arbeiðsmarknaðarráð við pørtunum á arbeiðsmarknaðinum at ráðgeva Innlendismálaráðnum um tørvin á útlendskari arbeiðsmegi.</s>
-                            </p>
-                            <p>
-                                <s>Vit vilja leggja okkum eftir at fáa breiða politiska semju á tingi um okkara framtíðar útlendingapolitikk.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Støðan í tølum</head>
-                            <p>
-                                <s>Hyggja vit eitt sindur at hagtølum, so búðu 48.258 fólk í Føroyum tann 1. apríl – 189 færri enn somu tíð í fjør.</s>
-                            </p>
-                            <pb n="10" />
-                            <p>
-                                <s>Fólkatalið vaks nógv frá 1997 til 2002, men í fjør var afturgongd.</s>
-                                <s>Tá fluttu 422 fólk fleiri av landinum enn til landið.</s>
-                                <s>Fólkatalið minkaði tó ikki meira enn 127 fólk, tí burðaravlopið er stórt.</s>
-                            </p>
-                            <p>
-                                <s>Tað verða fødd nakað oman fyri 700 børn um árið, ella 2,62 børn í miðal fyri hvørja kvinnu í barnførum aldri.</s>
-                                <s>Hetta er tað mesta síðan 1990 og tað mesta í øllum Evropa.</s>
-                                <s>Hetta er eitt heilsutekin, og vit skulu gera okkara til, at familjurnar trívast, so at vit varðveita høga barnatalið.</s>
-                                <s>Tað er ein góð trygd fyri okkara samfelag í framtíðini.</s>
-                            </p>
-                            <p>
-                                <s>Tekin eru nú um, at nettofráflytingin seinastu árini er um at venda til eina nettotilflyting, og vit mugu vóna, at so verður.</s>
-                                <s>Okkum tørvar allar góðar kreftir, og tað hevur sjálvsagt stóran týdning fyri landið, at fólk, sum fara í onnur lond at úbúgva seg ella nema sær royndir, flyta heim aftur.</s>
-                            </p>
-                            <p>
-                                <s>Brúkaraprísirnir eru nakað hækkaðir, men samanumtikið hevur inflasjónin verið tann sama sum í hinum Norðurlondunum, ið ikki hava stóra inflasjón.</s>
-                            </p>
-                            <p>
-                                <s>Verða skipini ikki uppítald, er okkara innflutningur minkaður javnt og samt frá 2001 til 2005.</s>
-                                <s>Seinastu mánaðirnar er hann tó vaksin aftur.</s>
-                                <s>Síðsta árið eru prísirnir á oljuúrdráttum nógv uppfarnir, og hetta sæst týðiliga aftur í innflutningstølunum.</s>
-                            </p>
-                            <p>
-                                <s>Framvegis er nógv tann størsti parturin av okkara útflutningi fiskur og fiskavørur - um 95%.</s>
-                                <s>Fyrsta ársfjórðing í ár var útflutningsvirðið 934 mió. kr.</s>
-                                <s>Hetta eru 9% meira enn somu tíð í fjør.</s>
-                                <s>Høvuðsorsøkin til vøksturin eru munandi betri fiskaprísir, tí samstundis, sum virðið er vaksið, er útflutta nøgdin minkað.</s>
-                                <s>Útflutningsvirðið á alifiski er tó minkað nógv, men væntandi fer tað nú at vaksa aftur.</s>
-                            </p>
-                            <p>
-                                <s>Sum nakað nýtt eru vit farin at skráseta aðrar vørur enn fisk og fiskaúrdráttir í hagtølunum fyri útflutning.</s>
-                                <s>Eftir at lógin um skráseting kom í gildi, er talið á skrásettum vørum farið úr 150 upp í 240, og mett verður, at einar 100 mió. kr. av føroyska útflutninginum vóru óskrásettar, áðrenn nýggja lógin kom í gildi.</s>
-                            </p>
-                            <p>
-                                <s>Hallið á handilsjavnanum var lutfalsliga stórt í fjør – 675 milliónir krónir.</s>
-                                <s>Tá eru skip íroknað.</s>
-                            </p>
-                            <p>
-                                <s>Føroyska bruttoskuldin uttanlands var 6 mia. kr. í 2004, og bruttoognin var 9,4 mia. kr.</s>
-                                <s>Hetta svarar til, at nettoognin uttanlands var um 3,4 mia. kr.</s>
-                                <s>Hon er tískil minkað 1 mia. kr. frá 2002 til 2004.</s>
-                            </p>
-                            <p>
-                                <s>Nettoskuld landskassans er 3 mia. kr.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Samferðslukervið</head>
-                            <p>
-                                <s>Nýggi Smyril kom til landið seinast í 2005, og í apríl varð Norðoyatunnilin upplatin.</s>
-                                <s>Við honum hava um 85% av fólkinum nú landfast samband.</s>
-                                <s>Av størri samferðsluætlanum kunnu nevnast útbygging av flogvøllinum, sum farið verður undir, nú hann verður yvirtikin.</s>
-                                <s>Vit eru sera fegin um, at ein loysn loksins er komin fyri flogvøllin, sum so harðliga treingir til at dagførast og útbyggjast.</s>
-                            </p>
-                            <p>
-                                <s>Arbeitt verður við verkætlan um undirsjóvartunnil millum Skálafjørðin og Havnina, og forkanningarnar eru farnar í gongd til tunnil millum Streymoynna og Sandoynna.</s>
-                            </p>
-                            <p>
-                                <s>Vit fegnast um, at okkara undirstøðukervi áhaldandi verður útbygt.</s>
-                                <s>Men vit mugu tíverri eisini ásanna, at ferðslan hevur sína skuggasíðu, og framvegis doyggja ov mong í ferðsluni.</s>
-                                <s>Tí verður í hesi tingsetu lagt fram uppskot at broyta ferðslulógina, har serliga verður hugsað um ungar bilførarar.</s>
-                            </p>
-                        </div>
-                        <pb n="11" />
-                        <div>
-                            <head rend="bold">Heilsa</head>
-                            <p>
-                                <s>Landsstýrið leggur dent á, at heilsustøða føroyinga skal vera góð, og nú verður stóra fólkaheilsuætlanin sett í verk.</s>
-                            </p>
-                            <p>
-                                <s>Hetta skal geva føroyingum – ungum sum gomlum - betri heilsu og harvið betri lív.</s>
-                                <s>Fólkaheilsuætlanin skal fyribyrgja fólkasjúkum sum krabbameini, hjarta- og æðrasjúkum og sukursjúku.</s>
-                                <s>Í fólkaheilsuætlanini verður høvuðsdentur lagdur á at fáa fólk at røra seg meira, roykja minni, eta heilsubetri mat og at minka um rúsdrekka- og rúsevnismisnýtsluna.</s>
-                            </p>
-                            <p>
-                                <s>Nógvir skúlar hava gjørt íløgur í vatnkølarar og geva børnunum dagligt tilboð um frukt.</s>
-                                <s>At okkara skúlabørn kunnu velja frukt og reint vatn fram um góðgæti og sodavatn fær stóra ávirkan á fólkaheilsuna í framtíðini.</s>
-                                <s>Eisini fegnast vit um stóru undirtøkuna fyri fólkaheilsurenningini, sum verður hildin á triðja sinni í heyst.</s>
-                            </p>
-                            <p>
-                                <s>Annar liður í okkara heilsupolitikki er at høvuðsumvæla og nútímansgera Landssjúkrahúsið, so at tað kann gerast eins gott og sjúkrahúsini í grannalondum okkara, tá ið ræður um kanningartilboð, viðgerðartilboð, trygd og hentleikar.</s>
-                                <s>Arbeitt verður av øllum alvi at talgilda heilsuverkið, so at sjúklingar kunnu fáa betri tænastur.</s>
-                            </p>
-                            <p>
-                                <s>Hóast psykiatriin hevur verið fyri munandi framstigum seinastu árini, ásanna vit í Landsstýrinum, at enn er langt á mál.</s>
-                                <s>Gerast skal nýggj psykiatrilóg, sum tryggjar rættindini hjá sálarsjúkum.</s>
-                                <s>Útbyggingin av sosialpsykiatriini og økispsykiatriini skal halda fram, og barna-, ungdóms- og eldrapsykiatriskar tænastur skulu setast á stovn komandi árini.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <p>
-                                <s>Harra formaður.</s>
-                            </p>
-                            <p>
-                                <s>Hetta landsstýrið setti sær fyri at fáa greið og støðug viðurskifti við Danmark til tess at fáa útint tey mongu politisku mál, sum vit settu okkum.</s>
-                                <s>Sambandið og samstarvið okkara millum er í dag merkt av virðing frá báðum pørtum, sum er grundleggjandi neyðugt, um ein skal fremja tey mál, ein setur sær.</s>
-                                <s>Tað merkir tó ikki, at Landsstýrið er samt við donsku stjórnina í einum og øllum!</s>
-                            </p>
-                            <p>
-                                <s>Men tað hevur eydnast Landsstýrinum at gera fleiri týdningarmiklar semjur við danir, sum føra land okkara longri fram á leiðini móti fullari ábyrgd av øllum okkara viðurskiftum – innanríkispolitiskt sum uttanríkispolitiskt.</s>
-                                <s>Dømi um hetta eru uttanríkispolitiska lógin og yvirtøkulógin, sum nú hava verið í gildi í eitt ár.</s>
-                                <s>Nú vit hava fingið yvirtøkulógina, eru tað einans vit sjálv, sum gera av, nær vit yvirtaka málsøki.</s>
-                            </p>
-                            <p>
-                                <s>Størsta yvirtøkan í hesum valskeiðnum verður fólkakirkjan, og Landsstýrið ætlar, at kirkja okkara skal vera føroysk næstu ólavsøku.</s>
-                            </p>
-                            <p>
-                                <s>Fjølmiðlaábyrgdin er yvirtikin, og fjølmiðlakærunevnd er sett.</s>
-                            </p>
-                            <p>
-                                <s>Aftur at hesum er ætlanin at yvirtaka vinnufelagslóggávu og tilbúgving.</s>
-                                <s>Felags stovnur fyri tilbúgvingarmyndugleikan er skipaður.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Stjórnarskipan</head>
-                            <p>
-                                <s>Arbeiðið í stjórnarskipanarnevndini gongur eftir ætlan, og nevndin fer at handa mær álit seinast í árinum.</s>
-                                <s>Síðan skal málið viðgerast politiskt.</s>
-                                <s>Millum týdningarmiklu tættirnar er spurningurin um, hvussu mannagongdin skal vera, um verandi ríkisrættarliga støðan skal sigast upp.</s>
-                            </p>
-                        </div>
-                        <pb n="12" />
-                        <div>
-                            <head rend="bold">Norðurlendska samstarvið</head>
-                            <p>
-                                <s>Umsóknin um føroyskan limaskap í norðurlendska samstarvinum verður framvegis viðgjørd, og mál okkara er fullur limaskapur.</s>
-                                <s>Hinvegin er at leggja sær í geyma, at politiskar forðingar eru fyri broytingum í norðurlendskum høpi, og at Danmark framvegis hevur eitt ávíst stjórnarrættarligt fyrivarni fyri fullum limaskapi.</s>
-                                <s>Hetta, hóast uttanríkispolitiska lógin leggur upp fyri hesum.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Uttanríkispolitikkur og menningarhjálp</head>
-                            <p>
-                                <s>Harra formaður.</s>
-                            </p>
-                            <p>
-                                <s>Eg legði fyri við at siga, at tað stendur væl til í landi okkara, og búskaparútlitini eru góð.</s>
-                                <s>Og í dag fegnast vit um okkara tjóðarhátíð, og at vit liva í einum landi við fólkaræði, har friður valdar.</s>
-                                <s>Vit hava í royndum allar fyritreytir at skapa eitt enn betri og sterkari samfelag.</s>
-                                <s>Hetta er als eingin sjálvfylgja, tí at heimurin kring okkum er alt annað enn tryggur.</s>
-                                <s>Í hesi løtu bresta bumbur í Libanon og Ísrael, og vandi er fyri, at Miðeystur alt fer at standa í ljósum loga, um ikki vápnahvíld verður sum skjótast.</s>
-                                <s>Bumbur greiða ongar trætur, men sáa einans mistreysti og hatur.</s>
-                                <s>Íbúgvarnir gjalda ein prís, vit illa duga at ímynda okkum.</s>
-                            </p>
-                            <p>
-                                <s>Á heimskortinum er tíverri stutt millum økini, har kríggj og náttúruvanlukkur gera um seg.</s>
-                                <s>Tað er ein sjálvfylgja, at rík lond sum okkara eru við til at byggja upp aftur.</s>
-                                <s>Farnu tingsetu hava vit latið nakað av peningi til bráðfeingis neyðhjálp, og vit eru farin at byggja menningarhjálp upp sum øki í fyrisitingini.</s>
-                                <s>Framvegis eru tað ikki stórar upphæddir, ið avsettar verða, men tær tríggjar milliónirnar á fíggjarlógini eru ein byrjan.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið ætlar, at menningarhjálp skal gerast fastur partur av okkara uttanríkispolitikki og ætlar at menna økið so líðandi.</s>
-                                <s>Í dag samstarva Føroyar við Heimsbankan, CARE Peru, Mercy Corps og íslendska menningarhjálparstovnin Iceida.</s>
-                                <s>Í hesum sambandi kann eg nevna, at tann fyrsti føroyski starvslesandi er farin til Namibia og Malavi.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <head rend="bold">Uttanríkispolitikkur sum heild</head>
-                            <p>
-                                <s>Føroyar eru av álvara farnar at virka uttanríkispolitiskt, og vit seta okkum framsøkin mál.</s>
-                                <s>Ein avgerandi liður er at gera land okkara sjónligari, og her hevur tað stóran týdning, at løgmaður og landsstýrismenn áhaldandi virka fyri føroyskum vinnu- og mentanaráhugamálum í øðrum londum.</s>
-                            </p>
-                            <p>
-                                <s>Løgmaður var í vár saman við føroyskum vinnulívsfólki í India, har virkað varð fyri vinnuligum netverkum, eins og tosað varð við politiskar myndugleikar og umboð fyri stovnar og felagsskapir.</s>
-                                <s>Indiski áhugin fyri føroyskari tøkni og vitan – eitt nú innan fiskivinnuna - var stórur.</s>
-                                <s>Somuleiðis kann okkara vinna læra mangt frá londum sum India, londum, ið mennast skjótt og eru í fremstu røð á fleiri økjum – eitt nú í kunningar- og samskiftistøkni.</s>
-                            </p>
-                            <p>
-                                <s>Tá ið íslendski forsætisráðharrin var í Føroyum við íslendskum vinnulívsfólki í vár, beyð hann løgmanni á almenna vitjan í Íslandi.</s>
-                                <s>Eg havi tikið av hesi innbjóðing og ætli at bjóða vinnulívsfólki við á ferðina.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið leggur stóra áherðslu á at økja um møguleikarnar hjá vinnu okkara at virka úti í heimi.</s>
-                                <s>Og nógv er hent hesa tingsetu, nú altjóða handilspolitiski karmurin fyri vinnuna er batnaður munandi.</s>
-                            </p>
-                            <p>
-                                <s>Føroyar eru vorðnar partur av Pan-euro-med skipanini um at samsavna uppruna, atgongdin fyri okkara fiskavørur til ES-marknaðir er vorðin betri, og Russlandssáttmálin fær nú gildi.</s>
-                            </p>
-                            <pb n="13" />
-                            <p>
-                                <s>Hesin sáttmáli javnsetur føroyskar fyritøkur við fyritøkur í Íslandi, Noregi og ES, ið hava bestu handilsligu viðurskifti við Russland.</s>
-                                <s>Sáttmálin fer serliga at koma uppsjóvarvinnuni til góðar.</s>
-                            </p>
-                            <p>
-                                <s>Uttanríkispolitiska lógin hevur nú virkað í eitt ár, og við henni eru fleiri millumtjóðasáttmálar gjørdir - sáttmálar við Ísland, Noreg, ES og Sveis, um at Føroyar eru við í felags evropisku skipanini um samsavnan av uppruna – Pan-euro-med.</s>
-                            </p>
-                            <p>
-                                <s>Tá ið Hoyvíkssáttmálin kemur í gildi seinni í ár, verða Føroyar og Ísland eitt búskaparøki.</s>
-                                <s>Eingin ivi er um, at sáttmálin fer at roynast væl hjá vinnu okkara, og at hann fer at stimbra búskapin.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið hevur fingið fráboðanir frá dønum um, at Loran-C støðin á Eiði ikki fer at verða rikin sum higartil.</s>
-                                <s>Landsstýrið hevur fingið at vita, at radarin á Sornfelli verður sløktur við árslok.</s>
-                                <s>Hetta eru tvey mál, sum Landsstýrið arbeiðir miðvíst við at greiða í samráði við uttanlandsnevndina.</s>
-                            </p>
-                            <p>
-                                <s>Landsstýrið arbeiðir í løtuni miðvíst við at fáa í lag EFTA-limaskap.</s>
-                                <s>Í hesum sambandi havi eg verið á fundi við Liktinstein og Sveis.</s>
-                                <s>Eftir summarfrítíðina verður fundur við ávikavist Ísland og Noreg.</s>
-                            </p>
-                            <p>
-                                <s>Umframt EFTA-limaskap ætla vit at styrkja okkara samband við ES og arbeiða fyri, at samstarvið í framtíðini skal fevna um tey fýra frælsini fyri vørur, tænastur, kapital og persónar umframt samstarv á øðrum økjum, ið hava felags áhuga so sum útbúgving, gransking og mentan.</s>
-                            </p>
-                            <p>
-                                <s>Í heyst verður uttanríkispolitisk frágreiðing løgd fyri Løgtingið.</s>
-                            </p>
-                            <p>
-                                <s>Sum løglistin boðar frá, so verður nógv politiskt virksemi í komandi tingsetu.</s>
-                                <s>Vit fara at avgreiða ein familju- og bústaðarpakka og hava eina grundleggjandi viðgerð av okkara høvuðsvinnu.</s>
-                                <s>Vit fara undir setningin at styrkja okkara fólkaskúla, so tað ger mun.</s>
-                                <s>Vit skulu samtykkja ein eftirlønarreform og yvirtaka fólkakirkjuna.</s>
-                                <s>Og ætlanirnar fyri grundarsteinarnar í Visjón 2015 verða lagdar fram og viðgjørdar.</s>
-                            </p>
-                        </div>
-                        <div>
-                            <p>
-                                <s>Harra formaður.</s>
-                            </p>
-                            <p>
-                                <s>Samanumtikið stendur væl til í Føroyum.</s>
-                                <s>Lat okkum tí taka saman hendur, so at vit ikki bert halda fast við framgongdina, men lyfta samfelagið longri fram á leið.</s>
-                            </p>
-                            <p>
-                                <s>Góða tingsetu og góða ólavsøku!</s>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div type="chapter">
-                    <head rend="bold center">Partur II</head>
-
-                </div>
-                <pb n="43" />
-                <div type="chapter">
-                    <head>Partur III</head>
-                    <div>
-                        <head rend="bold">Løglisti</head>
-                    </div>
-                </div>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>FG-001/2006: Ólavsøkufrágreiðing løgmans 2006</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+          <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+          <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+        </availability>
+        <date when="2025-11-08" />
+      </publicationStmt>
+      <notesStmt>
+        <note />
+      </notesStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName>Jóannes Eidesgaard</persName>
+            <roleName>løgmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/16076" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2006-07-29">29. juli 2006</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+        </correction>
+        <segmentation>
+          <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+        </segmentation>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <pb n="1" />
+      <div type="report">
+        <pb n="5" />
+        <div type="chapter">
+          <head>Partur I</head>
+          <div>
+            <head rend="bold">Framløga Løgmans</head>
+            <div>
+              <p>
+                <seg>Harra formaður.</seg>
+              </p>
+              <p>
+                <s>Løtan við skrúðgongu, gudstænastu og kórsangi kennist tignarlig.</s>
+                <s>Tjóðin øll steðgar á og fer úr gerandishaminum.</s>
+                <s>Vit kenna felagsskapin so veruligan - kenna, at vit eru partur av sama samleika.</s>
+                <s>Ivaleyst ásanna vit øll, at tað er ein framíhjárættur at vera borgari í hesum samfelag, sum er okkara, og sum vit øll eru so ómetaliga góð við.</s>
+                <s>Hetta er góður førningur at hava við sær á ferðini, nú vit gerast alt meira partur av alheiminum.</s>
+              </p>
+              <p>
+                <s>Hóast ein hevur verið við í mong ár, so kennir ein framvegis hátíðina so ítøkiliga, tá ið farið verður oman í dómkirkjuna – nú fyri seinastu ferð í eina danska kirkju.</s>
+                <s>Tú kennir ylin fara ígjøgnum teg, tá ið kórsangurin tekur at ljóma á Tinghúsvøllinum.</s>
+                <s>Og soleiðis kennist eisini henda løtan, har eg fyri triðju ferð skal bera ólavsøkurøðuna fram.</s>
+              </p>
+              <p>
+                <s>Men samstundis ber hetta boð um, at fjørðurin hjá sitandi samgongu er meira enn hálvrógvin.</s>
+                <s>Vit standa á gáttini til okkara seinastu heilu tingsetu í hesum valskeiði, og hóast vit hava rokkið nógv av setningini okkara, so eru enn mong týdningarmikil mál at avgreiða.</s>
+              </p>
+              <p>
+                <s>Vit løgdu fyri í 2004 við at siga, at vit ynsktu at skapa álit og arbeiðsfrið, tí hetta var fyritreytin fyri, at vit kunnu røkka úrslitum.</s>
+                <s>Hetta vísti seg at bera til.</s>
+              </p>
+              <p>
+                <s>Vit ynsktu at fáa vent búskapargongdini við at reka ein varnan, men tó arbeiðsstimbrandi búskaparpolitikk, og alt bendir á, at hetta hevur eydnast.</s>
+              </p>
+              <p>
+                <s>Vit vildu fáa viðurskiftini í sjálvstýrismálinum á føroyskar hendur, so at framtíðar tilgongdin skuldi liggja í hondunum á Føroya fólki og hesum høga tingi.</s>
+                <s>Hetta er eisini komið í rættlag.</s>
+              </p>
+              <p>
+                <s>Tað kennist hugaligt, men lat tað vera okkum ein íbirtari til ikki at setast hendur í favn, men at halda áfram og greiða tey mongu týdningarmiklu málini, sum krevja skilagóðar loysnir.</s>
+                <s>Og til hetta arbeiðið hava vit brúk fyri øllum góðum kreftum, eisini frá andstøðuni.</s>
+              </p>
             </div>
-        </body>
-    </text>
+            <div>
+              <p>
+                <seg>Harra formaður.</seg>
+              </p>
+              <p>
+                <s>Tað stendur væl til í Føroyum.</s>
+              </p>
+              <p>
+                <s>Okkara búskapur er vorðin betri seinasta árið, og útlitini eru í løtuni bjørt fyri land okkara.</s>
+                <s>Vit fegnast um, at arbeiðsloysið er sera lítið – minni enn í flestu Norðurlondum og í ES.</s>
+                <s>Inntøkurnar í landskassan vaksa, samstundis sum Landsstýrið, eins og vit lovaðu, hevur givið skattalætta, sum stimbrar hugin at arbeiða og harvið eisini búskapin.</s>
+                <s>Lønarútgjaldingarnar eru øktar.</s>
+                <s>Tað gongur væl í flestu pørtum av okkara vinnulívi.</s>
+                <s>Trygga politiska støðan skapar álit, sum saman við einum skynsomum búskaparpolitikki gevur dirvi og trúgv upp á framtíðina.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Familju- og bústaðarpakki</head>
+              <p>
+                <s>Hóast búskaparstøðan er góð, so eru tað enn tíverri tey, ið ikki hava nóg góðar fíggjarligar umstøður.</s>
+              </p>
+              <pb n="6" />
+              <p>
+                <s>Vit síggja, at húsaprísirnir hækka dag um dag.</s>
+                <s>Tað kostar nú so nógv at keypa sær hús ella íbúð í miðstaðarøkinum, at tað nærum er vónleyst hjá ungum familjum, skulu tær ikki at binda seg fíggjarliga til langt inn í ellisár.</s>
+                <s>Oljuprísirnir eru methøgir, og tí er tungt at húsast hjá nógvum familjum og hjá eldri fólki.</s>
+              </p>
+              <p>
+                <s>Hetta vilja vit - og hetta fara vit - at gera nakað við!</s>
+              </p>
+              <p>
+                <s>Familjan fer at standa fremst í raðfestingunum á komandi fíggjarlóg.</s>
+                <s>Bústaðarpakkin, sum Landsstýrið fer at leggja fram, fer at gera tað lættari hjá ungum fólki og familjum at seta búgv og fer eisini at betra um møguleikarnar hjá fólki við serligum tørvi at fáa sær egnan bústað.</s>
+              </p>
+              <p>
+                <s>Hetta fara vit at gera við tveimum lógaruppskotum - einum um lutaíbúðafeløg og einum um bústaðapartafelag.</s>
+                <s>Skipanin við lutaíbúðafeløgum ger tað lættari hjá fólki við lægri inntøkum at seta føtur undir egið borð.</s>
+                <s>Somuleiðis fara eldri fólk at kunna skifta hús síni um við minni bústaðir.</s>
+                <s>Við hesum gerst bústaðarmynstrið fjølbroyttari.</s>
+              </p>
+              <p>
+                <s>Lógin um bústaðapartafelag fer at skipa Húsalánsgrunnin og Íbúðagrunnin í eitt alment partafelag, sum skal fíggja bústaðir til fólk við serligum tørvi.</s>
+              </p>
+              <p>
+                <s>Landsstýrið fer at gera tað møguligt hjá lesandi at fara í barnsburðarfarloyvi, so at korini hjá teimum gerast betri.</s>
+              </p>
+              <p>
+                <s>Vit fara at leggja barnafrádráttin um til eitt útgjald.</s>
+                <s>Hetta merkir, at eisini tey, sum onga arbeiðsinntøku hava, fáa barnastuðul.</s>
+                <s>Umframt hetta ætlar Landsstýrið at hækka stuðulin til barnafamiljur við serligum tørvi.</s>
+              </p>
+              <p>
+                <s>Landsstýrið fer at leggja fram uppskot um sjúkradagpeningalóg, sum fer at gera, at tímalønt fáa betri møguleikar at vera heima hjá sjúkum børnum, og eitt uppskot um felags foreldramyndugleika fyri at styrkja støðuna hjá bæði børnum og foreldrum.</s>
+              </p>
+              <p>
+                <s>Vit hava longu økt inngjaldið í Samhaldsfasta, og samsvarandi er útgjaldið nú hækkað.</s>
+                <s>Frá 1. januar næsta ár fer tað veruliga at merkjast, tí tá hækkar útgjaldið munandi.</s>
+                <s>Saman við reguleringini av fólkapensjónini fer ein fólkapensjonistur, sum ikki hevur aðra munandi inntøku, at fáa 9.000 kr., og eini hjún 15.000 kr. um mánaðin.</s>
+              </p>
+              <p>
+                <s>Harumframt fer Landsstýrið at fremja ein víðfevnandi eftirlønarreform, sum fer at bera við sær, at allir borgarar sum frá líður fara at gjalda til egna eftirlønarskipan.</s>
+                <s>Hetta er ein neyðugur lutur fyri at tryggja komandi ættarliðum góð pensjóns- og eftirlønarviðurskifti.</s>
+                <s>Eitt álit um pensjónsreformin kemur nú í heyst.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Visjón 2015</head>
+              <p>
+                <s>Í fjør nýtti eg stóran part av ólavsøkurøðuni til at umrøða hugsanirnar aftan fyri Visjón 2015, sum er eitt av hjartamálunum hjá Landsstýrinum.</s>
+                <s>Sum kunnugt hevur Landsstýrið sett strategibólkar at gera uppskot til mál og ítøkiligar ætlanir fyri samfelag okkara.</s>
+                <s>Somuleiðis setti Landsstýrið eitt visjónstorg, sum er breitt umboðað av politisku skipanini, umframt av arbeiðstakarum, arbeiðsgevarum og áhugafeløgum.</s>
+                <s>Visjónstorgið viðger og umrøður tað arbeiði, sum strategibólkarnir leggja fram.</s>
+              </p>
+              <p>
+                <s>Arbeiðið higartil hevur gingið væl, og fólkið hevur tikið visjónina til sín.</s>
+                <s>Almenningurin viðger visjónina í álvarsemi, konstruktivt og jaliga, og við hvørt meira kritiskt og neiliga.</s>
+                <s>Tað er umráðandi at vit kjakast, og at vit líta longur fram - at hugarenslið verður strekt munandi longri enn til næsta val.</s>
+                <s>Tí kjakið er grundarlagið undir teimum avgerðum, vit skulu taka, fyri at fáa samfelagið, vit ynskja okkum í 2015.</s>
+              </p>
+              <pb n="7" />
+              <p>
+                <s>Eg skal her leggja dent á, at bólkarnir koma við teimum uppskotum, sum teir meta vera rættast – óheft av samgonguskjalinum ella politiska viljanum annars.</s>
+                <s>Landsstýrið fer gjølla at viðgera uppskotini, ið koma frá strategibólkunum.</s>
+              </p>
+              <p>
+                <s>Í juni varð skipað fyri fýra visjónsdøgum, har teir ymsu strategibólkarnir løgdu fram tey mál, sum teir meta, at vit eiga at seta okkum.</s>
+                <s>Í løtuni arbeiða bólkarnir við at leggja strategiir fyri hesi mál, og í heyst fara teir at leggja endaliga arbeiði sítt fyri Visjónstorgið.</s>
+              </p>
+              <p>
+                <s>Landsstýrið vil nýta hetta arbeiðið til at finna felags semjur og felags kós á økjum, har tað er avgerandi neyðugt at leggja langtíðarætlanir – eitt nú um vinnukarmar, gransking og skúlaverk.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fólkaskúlin</head>
+              <p>
+                <s>Eg nevndi fyrst í røðuni, at vit fara at leggja dent á familjuna á komandi fíggjarlóg.</s>
+                <s>Skúlaverkið, sum er grundarsteinur í Visjón 2015, fær eisini fremstu raðfesting.</s>
+                <s>PISAundankanningin, sum varð almannakunngjørd í vár, bendi á, at føroyskir næmingar eru ikki nóg væl fyri fakliga.</s>
+              </p>
+              <p>
+                <s>Landsstýrið hevur tikið hesa niðurstøðu í allar størsta álvara og hevur viðgjørt kanningina saman við øllum skúlaleiðarum í fólkaskúlanum.</s>
+              </p>
+              <p>
+                <s>Bøtast skal um umstøðurnar hjá øllum næmingum, bæði teimum, sum duga væl, og ikki minni hjá teimum, sum tørvar hjálp.</s>
+              </p>
+              <p>
+                <s>Størri áherðsla skal leggjast á byrjanarundirvísingina, serliga í føroyskum og støddfrøði.</s>
+                <s>Málið er, at næmingarnir duga at lesa eftir annað skúlaár.</s>
+                <s>Umráðandi er at menna bæði lesiførleikan og lesiáhugan hjá næmingunum og at skipa so fyri, at teir fáa fjølbroytt og mennandi tilfar á móðurmálinum.</s>
+              </p>
+              <p>
+                <s>Umframt fráfaringarroyndirnar er ætlanin at seta í verk støðuroyndir, til dømis í 3., 5. og 7. flokki, sum ein lið at eftirmeta undirvísingina í skúlunum.</s>
+              </p>
+              <p>
+                <s>Næsta PISA-kanningin verður á vári 2009, og tá skulu Føroyar vera líka væl fyri sum hini Norðurlondini.</s>
+              </p>
+              <p>
+                <s>Arbeitt verður við at gera skúlan betri til at taka ímóti næmingum við serligum tørvi og at styrkja sernámsfrøðiligu tænastuna, eitt nú við tænastueindum kring landið.</s>
+                <s>Tann fyrsta eindin er sett á stovn í Eysturoynni.</s>
+                <s>Næstu eindirnar skulu eftir ætlan vera í Suðuroy og Streymoynni.</s>
+              </p>
+              <p>
+                <s>Fakligi førleikin hjá lærarum hevur sjálvandi størstan týdning fyri fólkaskúlan, og sum ein avgerandi liður í menningini skulu lærara- og pedagogútbúgvingarnar styrkjast munandi.</s>
+                <s>Næsta vár verður lógaruppskot um at nútímansgera læraraútbúgvingina lagt fyri tingið.</s>
+                <s>Ætlanin er at skipa lærara- og pedagogútbúgvingarnar á bachelorstigi.</s>
+                <s>Hesar útbúgvingar skulu í framtíðini í allar mátar vera eins góðar og tilsvarandi útbúgvingar í ES og grannalondum okkara.</s>
+                <s>Hetta er neyðugt, skulu lærarar og pedagogar taka ímóti støðugt vaksandi avbjóðingum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fiskivinnan</head>
+              <p>
+                <s>Seinasta tíðin hevur verið merkt av nógva kjakinum um keyp og sølu av fiskiloyvum.</s>
+                <s>Hetta er ikki nýtt fyribrigdi, men hevur verið ein veruleiki í rættiliga nógv ár, tó uttan at nøkur haldbar politisk loysn er funnin.</s>
+              </p>
+              <pb n="8" />
+              <p>
+                <s>Landsstýrið tekur spurningin í fullum álvara og hevur sett hol á eina politiska viðgerð, sum fer at hava við sær eina heilt nýggja lóg um vinnuligan fiskiskap.</s>
+              </p>
+              <p>
+                <s>Millum annað skal henda politiska viðgerðin taka støðu til spurningar sum at staðfesta ognarrættin, og undir hesum uppsøgn av veiðiloyvum, brúksskyldu, tilfeingisgjald og møguleikar hjá tí almenna at selja fiskirættindi.</s>
+              </p>
+              <p>
+                <s>Landsstýrið fer at arbeiða fyri atlimaskapi í FAO, sum er matvøru- og landbúnaðarfelagsskapurin hjá ST.</s>
+                <s>Hetta er ein góður samskiftisdepil hjá heimsins fiskivinnulondum.</s>
+                <s>Atlimaskapur fer at geva okkum ein virknari og sjónligari leiklut sum fiskivinnutjóð í alheimshøpi, og vit fáa eisini høvi at gera vart við okkum á røttum stað.</s>
+              </p>
+              <p>
+                <s>Størsta framstigið í samráðingunum um fiskiveiðuavtalur fyri 2006 var semjan, sum loksins varð gjørd við Ísland, Noreg og ES um, hvussu svartkjaftastovnurin skal umsitast.</s>
+                <s>Okkara samráðingarfólk áttu stóran lut í hesi semju, sum undir givnum fortreytum var sera góð.</s>
+              </p>
+              <p>
+                <s>Støðug menning í fiskivinnuni skal styrkja um kappingarføri okkara.</s>
+                <s>Tí er ætlanin framhaldandi at tillaga játtanirnar til gransking á fiskivinnuøkinum, so at støðug menning av vinnugranskingini verður raðfest fremri.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Onnur vinna</head>
+              <p>
+                <s>Tað tykist, sum føroyska vinnan sum heild gerst dynamiskari og fjølbroyttari, og vónandi fær brúkarin ágóða av hesum.</s>
+                <s>Vit síggja, at kapping er á fleiri økjum – eitt nú innan telefoni, internet, flogferðslu og peningastovnar.</s>
+                <s>Og fleiri fyritøkur víðka sítt virksemi uttan fyri landoddarnar.</s>
+              </p>
+              <p>
+                <s>Á tryggingarøkinum fara munandi broytingar at henda.</s>
+                <s>Útlendsk tryggingarfeløg fara at fáa atgongd til føroyska marknaðin, og brúkarin fer at kunna tekna tryggingar uttanlands.</s>
+              </p>
+              <p>
+                <s>At fleiri almennar fyritøkur nú verða einskildar, fer at skapa enn meira dynamikk.</s>
+                <s>Ætlanin er at selja 33% av partabrøvunum í Atlantsflogi í ár, og helvtin av partabrøvunum í Føroya lívstrygging verður latin tryggingartakarunum.</s>
+                <s>Hin helvtin verður seld øðrum íleggjara.</s>
+                <s>Byrjað verður eisini at einskilja Føroya banka og Føroya tele í 2007.</s>
+              </p>
+              <p>
+                <s>Í hesi løtu verður fjórði brunnurin á landgrunninum boraður.</s>
+                <s>Ein boring verður í 2007 og ein í 2008.</s>
+                <s>Hugsa vit um tær ovurhonds stóru upphæddir, sum oljufeløgini nýta til borivirksemi í og nærhendis føroyskum øki, so er lítil ivi um, at tey trúgva uppá, at olja er at finna.</s>
+                <s>Og tað, at nógv olja er funnin bretskumegin markið, ger hetta ógvuliga sannlíkt.</s>
+                <s>Hóast ein møgulig oljuvinna helst liggur nøkur ár frammi í tíðini, mugu vit longu nú fyrireika okkum bæði mentalt og samfelagsliga til tær grundleggjandi broytingar, ein slík vinna fer at hava á okkara samfelag.</s>
+              </p>
+              <p>
+                <s>Landsstýrið fer at seta á stovn ein búskapargrunn, har serligar inntøkur til landskassan, eitt nú inntøkur frá einskiljingum og eini møguligari oljuvinnuni, fara í.</s>
+                <s>Grunnurin skal millum annað nýtast til at standa ímóti við í verri tíðum, til at gjalda niður almenna skuld og til at fíggja gransking.</s>
+              </p>
+              <p>
+                <s>Gransking er eisini eitt øki, vit í sambandi við Visjón 2015 leggja stóran dent á at styrkja í framtíðini, og Vísindaráð Føroya verður sett í næstum.</s>
+                <s>Vit hava nú fingið eitt ílegusavn, sum verður liður í at byggja upp eina ílegugransking í Føroyum.</s>
+              </p>
+              <p>
+                <s>Í alivinnuni eru stór framstig við at henda, hóast útflutningurin í ár er sera lítil.</s>
+                <s>Bøttar mannagongdir í alingini hava ført til betri sjúkufyribyrging og hava saman við koppseting bast ILA-sjúkuni.</s>
+                <s>Alivinnan tykist at fara at fóta sær í størri og sterkari eindum, sum helst verða kappingarførari við útlendskar alifyritøkur.</s>
+              </p>
+              <pb n="9" />
+              <p>
+                <s>Ætlanin er somuleiðis at gera Føroya altjóða skipaskráseting kappingarføra.</s>
+                <s>9 skip komu í FAS í fjør, og við árslok vóru til samans 35 skip í skrásetingini.</s>
+              </p>
+              <p>
+                <s>Á ymiskan hátt fer Landsstýrið at stuðla upp undir íverksetan og at menna íverksetaramentan.</s>
+                <s>Samstundis skal land okkara marknaðarførast sum eitt land, har tað er gott at gera íløgur – eitt nú í almennar fyritøkur, sum verða einskildar.</s>
+                <s>Sum eitt land, har útlendskar fyritøkur kunnu royna nýggjar KT-skipanir.</s>
+                <s>Sum eitt áhugavert land í sambandi við frálandavinnu, aling, fiskavirking og gransking.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Arbeiðsmarknaður</head>
+              <p>
+                <s>Á arbeiðsmarknaðinum eru verulig frambrot gjørd, við tað at partarnir hava stovnað fastan gerðarrætt og gjørt sáttmála um, hvussu trætumál og spurningar um sáttmálabrot skulu greiðast sum skjótast og við fyriliti fyri samfelagsligum áhugamálum.</s>
+                <s>Partarnir eiga miklan heiður uppibornan fyri hetta avrik sítt.</s>
+              </p>
+              <p>
+                <s>Ein arbeiðsmarknaður, har rúmd er fyri øllum, eigur at vera næsta frambrotið.</s>
+              </p>
+              <p>
+                <s>Í einum vælferðarsamfelagi sum okkara eigur tað at vera ein sjálvfylgja, at fólk við skerdum førleika kunnu skapa sær eitt lív við innihaldsríkum arbeiði og fastari inntøku.</s>
+                <s>Men tíverri mugu vit ásanna, at tað framvegis er alt ov lítið rúm fyri teimum ófullføru á arbeiðsmarknaðinum – bæði tí privata og tí almenna.</s>
+              </p>
+              <p>
+                <s>Tí verður farið undir eina serliga verkætlan.</s>
+                <s>Arbeiðsmarknaðardeildin á Almannastovuni skal styrkjast, so at vit kunnu fáa fleiri fólk við skerdum førleika á arbeiðsmarknaðin og fyribyrgja, at fólk missa tilknýtið til hansara.</s>
+              </p>
+              <p>
+                <s>Eg fari inniliga at heita á privatar so væl sum almennar arbeiðsgevarar um at hugsa um tað samfelagsliga virðið, sum liggur í einum rúmligum arbeiðsmarknaði.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Útlendingamál</head>
+              <p>
+                <s>Útlendingaøkið hevur fingið nógva umrøðu.</s>
+                <s>Eingin ivi skal vera um, at Landsstýrið vil, at vit taka væl ímóti teimum útlendingum, sum koma higar at arbeiða og seta búgv.</s>
+                <s>At taka ímóti útlendingum krevur eisini av okkum, at vit fáa hesar borgarar at fella til í okkara samfelagi.</s>
+              </p>
+              <p>
+                <s>Umsóknirnar um arbeiðs- og uppihaldsloyvi gerast alt fleiri.</s>
+                <s>Fyrra hálvár í ár komu umleið 270 umsóknir aftur ímóti umleið 90 somu tíð í fjør.</s>
+                <s>Harumframt eru aðrar umsóknir um uppihaldsloyvi, eitt nú familjusamanføringar.</s>
+              </p>
+              <p>
+                <s>Landsstýrið hevur sett sær fyri at fáa skil á útlendingaøkið.</s>
+                <s>Okkara reglur skulu vera smidligar og samfelagsliga skilagóðar.</s>
+                <s>Skjótari og greiðari mannagongdir fyri málsviðgerðina av útlendingamálum verða nú gjørdar.</s>
+              </p>
+              <p>
+                <s>Landsstýrið vil stovna eitt arbeiðsmarknaðarráð við pørtunum á arbeiðsmarknaðinum at ráðgeva Innlendismálaráðnum um tørvin á útlendskari arbeiðsmegi.</s>
+              </p>
+              <p>
+                <s>Vit vilja leggja okkum eftir at fáa breiða politiska semju á tingi um okkara framtíðar útlendingapolitikk.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Støðan í tølum</head>
+              <p>
+                <s>Hyggja vit eitt sindur at hagtølum, so búðu 48.258 fólk í Føroyum tann 1. apríl – 189 færri enn somu tíð í fjør.</s>
+              </p>
+              <pb n="10" />
+              <p>
+                <s>Fólkatalið vaks nógv frá 1997 til 2002, men í fjør var afturgongd.</s>
+                <s>Tá fluttu 422 fólk fleiri av landinum enn til landið.</s>
+                <s>Fólkatalið minkaði tó ikki meira enn 127 fólk, tí burðaravlopið er stórt.</s>
+              </p>
+              <p>
+                <s>Tað verða fødd nakað oman fyri 700 børn um árið, ella 2,62 børn í miðal fyri hvørja kvinnu í barnførum aldri.</s>
+                <s>Hetta er tað mesta síðan 1990 og tað mesta í øllum Evropa.</s>
+                <s>Hetta er eitt heilsutekin, og vit skulu gera okkara til, at familjurnar trívast, so at vit varðveita høga barnatalið.</s>
+                <s>Tað er ein góð trygd fyri okkara samfelag í framtíðini.</s>
+              </p>
+              <p>
+                <s>Tekin eru nú um, at nettofráflytingin seinastu árini er um at venda til eina nettotilflyting, og vit mugu vóna, at so verður.</s>
+                <s>Okkum tørvar allar góðar kreftir, og tað hevur sjálvsagt stóran týdning fyri landið, at fólk, sum fara í onnur lond at úbúgva seg ella nema sær royndir, flyta heim aftur.</s>
+              </p>
+              <p>
+                <s>Brúkaraprísirnir eru nakað hækkaðir, men samanumtikið hevur inflasjónin verið tann sama sum í hinum Norðurlondunum, ið ikki hava stóra inflasjón.</s>
+              </p>
+              <p>
+                <s>Verða skipini ikki uppítald, er okkara innflutningur minkaður javnt og samt frá 2001 til 2005.</s>
+                <s>Seinastu mánaðirnar er hann tó vaksin aftur.</s>
+                <s>Síðsta árið eru prísirnir á oljuúrdráttum nógv uppfarnir, og hetta sæst týðiliga aftur í innflutningstølunum.</s>
+              </p>
+              <p>
+                <s>Framvegis er nógv tann størsti parturin av okkara útflutningi fiskur og fiskavørur - um 95%.</s>
+                <s>Fyrsta ársfjórðing í ár var útflutningsvirðið 934 mió. kr.</s>
+                <s>Hetta eru 9% meira enn somu tíð í fjør.</s>
+                <s>Høvuðsorsøkin til vøksturin eru munandi betri fiskaprísir, tí samstundis, sum virðið er vaksið, er útflutta nøgdin minkað.</s>
+                <s>Útflutningsvirðið á alifiski er tó minkað nógv, men væntandi fer tað nú at vaksa aftur.</s>
+              </p>
+              <p>
+                <s>Sum nakað nýtt eru vit farin at skráseta aðrar vørur enn fisk og fiskaúrdráttir í hagtølunum fyri útflutning.</s>
+                <s>Eftir at lógin um skráseting kom í gildi, er talið á skrásettum vørum farið úr 150 upp í 240, og mett verður, at einar 100 mió. kr. av føroyska útflutninginum vóru óskrásettar, áðrenn nýggja lógin kom í gildi.</s>
+              </p>
+              <p>
+                <s>Hallið á handilsjavnanum var lutfalsliga stórt í fjør – 675 milliónir krónir.</s>
+                <s>Tá eru skip íroknað.</s>
+              </p>
+              <p>
+                <s>Føroyska bruttoskuldin uttanlands var 6 mia. kr. í 2004, og bruttoognin var 9,4 mia. kr.</s>
+                <s>Hetta svarar til, at nettoognin uttanlands var um 3,4 mia. kr.</s>
+                <s>Hon er tískil minkað 1 mia. kr. frá 2002 til 2004.</s>
+              </p>
+              <p>
+                <s>Nettoskuld landskassans er 3 mia. kr.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Samferðslukervið</head>
+              <p>
+                <s>Nýggi Smyril kom til landið seinast í 2005, og í apríl varð Norðoyatunnilin upplatin.</s>
+                <s>Við honum hava um 85% av fólkinum nú landfast samband.</s>
+                <s>Av størri samferðsluætlanum kunnu nevnast útbygging av flogvøllinum, sum farið verður undir, nú hann verður yvirtikin.</s>
+                <s>Vit eru sera fegin um, at ein loysn loksins er komin fyri flogvøllin, sum so harðliga treingir til at dagførast og útbyggjast.</s>
+              </p>
+              <p>
+                <s>Arbeitt verður við verkætlan um undirsjóvartunnil millum Skálafjørðin og Havnina, og forkanningarnar eru farnar í gongd til tunnil millum Streymoynna og Sandoynna.</s>
+              </p>
+              <p>
+                <s>Vit fegnast um, at okkara undirstøðukervi áhaldandi verður útbygt.</s>
+                <s>Men vit mugu tíverri eisini ásanna, at ferðslan hevur sína skuggasíðu, og framvegis doyggja ov mong í ferðsluni.</s>
+                <s>Tí verður í hesi tingsetu lagt fram uppskot at broyta ferðslulógina, har serliga verður hugsað um ungar bilførarar.</s>
+              </p>
+            </div>
+            <pb n="11" />
+            <div>
+              <head rend="bold">Heilsa</head>
+              <p>
+                <s>Landsstýrið leggur dent á, at heilsustøða føroyinga skal vera góð, og nú verður stóra fólkaheilsuætlanin sett í verk.</s>
+              </p>
+              <p>
+                <s>Hetta skal geva føroyingum – ungum sum gomlum - betri heilsu og harvið betri lív.</s>
+                <s>Fólkaheilsuætlanin skal fyribyrgja fólkasjúkum sum krabbameini, hjarta- og æðrasjúkum og sukursjúku.</s>
+                <s>Í fólkaheilsuætlanini verður høvuðsdentur lagdur á at fáa fólk at røra seg meira, roykja minni, eta heilsubetri mat og at minka um rúsdrekka- og rúsevnismisnýtsluna.</s>
+              </p>
+              <p>
+                <s>Nógvir skúlar hava gjørt íløgur í vatnkølarar og geva børnunum dagligt tilboð um frukt.</s>
+                <s>At okkara skúlabørn kunnu velja frukt og reint vatn fram um góðgæti og sodavatn fær stóra ávirkan á fólkaheilsuna í framtíðini.</s>
+                <s>Eisini fegnast vit um stóru undirtøkuna fyri fólkaheilsurenningini, sum verður hildin á triðja sinni í heyst.</s>
+              </p>
+              <p>
+                <s>Annar liður í okkara heilsupolitikki er at høvuðsumvæla og nútímansgera Landssjúkrahúsið, so at tað kann gerast eins gott og sjúkrahúsini í grannalondum okkara, tá ið ræður um kanningartilboð, viðgerðartilboð, trygd og hentleikar.</s>
+                <s>Arbeitt verður av øllum alvi at talgilda heilsuverkið, so at sjúklingar kunnu fáa betri tænastur.</s>
+              </p>
+              <p>
+                <s>Hóast psykiatriin hevur verið fyri munandi framstigum seinastu árini, ásanna vit í Landsstýrinum, at enn er langt á mál.</s>
+                <s>Gerast skal nýggj psykiatrilóg, sum tryggjar rættindini hjá sálarsjúkum.</s>
+                <s>Útbyggingin av sosialpsykiatriini og økispsykiatriini skal halda fram, og barna-, ungdóms- og eldrapsykiatriskar tænastur skulu setast á stovn komandi árini.</s>
+              </p>
+            </div>
+            <div>
+              <p>
+                <s>Harra formaður.</s>
+              </p>
+              <p>
+                <s>Hetta landsstýrið setti sær fyri at fáa greið og støðug viðurskifti við Danmark til tess at fáa útint tey mongu politisku mál, sum vit settu okkum.</s>
+                <s>Sambandið og samstarvið okkara millum er í dag merkt av virðing frá báðum pørtum, sum er grundleggjandi neyðugt, um ein skal fremja tey mál, ein setur sær.</s>
+                <s>Tað merkir tó ikki, at Landsstýrið er samt við donsku stjórnina í einum og øllum!</s>
+              </p>
+              <p>
+                <s>Men tað hevur eydnast Landsstýrinum at gera fleiri týdningarmiklar semjur við danir, sum føra land okkara longri fram á leiðini móti fullari ábyrgd av øllum okkara viðurskiftum – innanríkispolitiskt sum uttanríkispolitiskt.</s>
+                <s>Dømi um hetta eru uttanríkispolitiska lógin og yvirtøkulógin, sum nú hava verið í gildi í eitt ár.</s>
+                <s>Nú vit hava fingið yvirtøkulógina, eru tað einans vit sjálv, sum gera av, nær vit yvirtaka málsøki.</s>
+              </p>
+              <p>
+                <s>Størsta yvirtøkan í hesum valskeiðnum verður fólkakirkjan, og Landsstýrið ætlar, at kirkja okkara skal vera føroysk næstu ólavsøku.</s>
+              </p>
+              <p>
+                <s>Fjølmiðlaábyrgdin er yvirtikin, og fjølmiðlakærunevnd er sett.</s>
+              </p>
+              <p>
+                <s>Aftur at hesum er ætlanin at yvirtaka vinnufelagslóggávu og tilbúgving.</s>
+                <s>Felags stovnur fyri tilbúgvingarmyndugleikan er skipaður.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Stjórnarskipan</head>
+              <p>
+                <s>Arbeiðið í stjórnarskipanarnevndini gongur eftir ætlan, og nevndin fer at handa mær álit seinast í árinum.</s>
+                <s>Síðan skal málið viðgerast politiskt.</s>
+                <s>Millum týdningarmiklu tættirnar er spurningurin um, hvussu mannagongdin skal vera, um verandi ríkisrættarliga støðan skal sigast upp.</s>
+              </p>
+            </div>
+            <pb n="12" />
+            <div>
+              <head rend="bold">Norðurlendska samstarvið</head>
+              <p>
+                <s>Umsóknin um føroyskan limaskap í norðurlendska samstarvinum verður framvegis viðgjørd, og mál okkara er fullur limaskapur.</s>
+                <s>Hinvegin er at leggja sær í geyma, at politiskar forðingar eru fyri broytingum í norðurlendskum høpi, og at Danmark framvegis hevur eitt ávíst stjórnarrættarligt fyrivarni fyri fullum limaskapi.</s>
+                <s>Hetta, hóast uttanríkispolitiska lógin leggur upp fyri hesum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Uttanríkispolitikkur og menningarhjálp</head>
+              <p>
+                <s>Harra formaður.</s>
+              </p>
+              <p>
+                <s>Eg legði fyri við at siga, at tað stendur væl til í landi okkara, og búskaparútlitini eru góð.</s>
+                <s>Og í dag fegnast vit um okkara tjóðarhátíð, og at vit liva í einum landi við fólkaræði, har friður valdar.</s>
+                <s>Vit hava í royndum allar fyritreytir at skapa eitt enn betri og sterkari samfelag.</s>
+                <s>Hetta er als eingin sjálvfylgja, tí at heimurin kring okkum er alt annað enn tryggur.</s>
+                <s>Í hesi løtu bresta bumbur í Libanon og Ísrael, og vandi er fyri, at Miðeystur alt fer at standa í ljósum loga, um ikki vápnahvíld verður sum skjótast.</s>
+                <s>Bumbur greiða ongar trætur, men sáa einans mistreysti og hatur.</s>
+                <s>Íbúgvarnir gjalda ein prís, vit illa duga at ímynda okkum.</s>
+              </p>
+              <p>
+                <s>Á heimskortinum er tíverri stutt millum økini, har kríggj og náttúruvanlukkur gera um seg.</s>
+                <s>Tað er ein sjálvfylgja, at rík lond sum okkara eru við til at byggja upp aftur.</s>
+                <s>Farnu tingsetu hava vit latið nakað av peningi til bráðfeingis neyðhjálp, og vit eru farin at byggja menningarhjálp upp sum øki í fyrisitingini.</s>
+                <s>Framvegis eru tað ikki stórar upphæddir, ið avsettar verða, men tær tríggjar milliónirnar á fíggjarlógini eru ein byrjan.</s>
+              </p>
+              <p>
+                <s>Landsstýrið ætlar, at menningarhjálp skal gerast fastur partur av okkara uttanríkispolitikki og ætlar at menna økið so líðandi.</s>
+                <s>Í dag samstarva Føroyar við Heimsbankan, CARE Peru, Mercy Corps og íslendska menningarhjálparstovnin Iceida.</s>
+                <s>Í hesum sambandi kann eg nevna, at tann fyrsti føroyski starvslesandi er farin til Namibia og Malavi.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Uttanríkispolitikkur sum heild</head>
+              <p>
+                <s>Føroyar eru av álvara farnar at virka uttanríkispolitiskt, og vit seta okkum framsøkin mál.</s>
+                <s>Ein avgerandi liður er at gera land okkara sjónligari, og her hevur tað stóran týdning, at løgmaður og landsstýrismenn áhaldandi virka fyri føroyskum vinnu- og mentanaráhugamálum í øðrum londum.</s>
+              </p>
+              <p>
+                <s>Løgmaður var í vár saman við føroyskum vinnulívsfólki í India, har virkað varð fyri vinnuligum netverkum, eins og tosað varð við politiskar myndugleikar og umboð fyri stovnar og felagsskapir.</s>
+                <s>Indiski áhugin fyri føroyskari tøkni og vitan – eitt nú innan fiskivinnuna - var stórur.</s>
+                <s>Somuleiðis kann okkara vinna læra mangt frá londum sum India, londum, ið mennast skjótt og eru í fremstu røð á fleiri økjum – eitt nú í kunningar- og samskiftistøkni.</s>
+              </p>
+              <p>
+                <s>Tá ið íslendski forsætisráðharrin var í Føroyum við íslendskum vinnulívsfólki í vár, beyð hann løgmanni á almenna vitjan í Íslandi.</s>
+                <s>Eg havi tikið av hesi innbjóðing og ætli at bjóða vinnulívsfólki við á ferðina.</s>
+              </p>
+              <p>
+                <s>Landsstýrið leggur stóra áherðslu á at økja um møguleikarnar hjá vinnu okkara at virka úti í heimi.</s>
+                <s>Og nógv er hent hesa tingsetu, nú altjóða handilspolitiski karmurin fyri vinnuna er batnaður munandi.</s>
+              </p>
+              <p>
+                <s>Føroyar eru vorðnar partur av Pan-euro-med skipanini um at samsavna uppruna, atgongdin fyri okkara fiskavørur til ES-marknaðir er vorðin betri, og Russlandssáttmálin fær nú gildi.</s>
+              </p>
+              <pb n="13" />
+              <p>
+                <s>Hesin sáttmáli javnsetur føroyskar fyritøkur við fyritøkur í Íslandi, Noregi og ES, ið hava bestu handilsligu viðurskifti við Russland.</s>
+                <s>Sáttmálin fer serliga at koma uppsjóvarvinnuni til góðar.</s>
+              </p>
+              <p>
+                <s>Uttanríkispolitiska lógin hevur nú virkað í eitt ár, og við henni eru fleiri millumtjóðasáttmálar gjørdir - sáttmálar við Ísland, Noreg, ES og Sveis, um at Føroyar eru við í felags evropisku skipanini um samsavnan av uppruna – Pan-euro-med.</s>
+              </p>
+              <p>
+                <s>Tá ið Hoyvíkssáttmálin kemur í gildi seinni í ár, verða Føroyar og Ísland eitt búskaparøki.</s>
+                <s>Eingin ivi er um, at sáttmálin fer at roynast væl hjá vinnu okkara, og at hann fer at stimbra búskapin.</s>
+              </p>
+              <p>
+                <s>Landsstýrið hevur fingið fráboðanir frá dønum um, at Loran-C støðin á Eiði ikki fer at verða rikin sum higartil.</s>
+                <s>Landsstýrið hevur fingið at vita, at radarin á Sornfelli verður sløktur við árslok.</s>
+                <s>Hetta eru tvey mál, sum Landsstýrið arbeiðir miðvíst við at greiða í samráði við uttanlandsnevndina.</s>
+              </p>
+              <p>
+                <s>Landsstýrið arbeiðir í løtuni miðvíst við at fáa í lag EFTA-limaskap.</s>
+                <s>Í hesum sambandi havi eg verið á fundi við Liktinstein og Sveis.</s>
+                <s>Eftir summarfrítíðina verður fundur við ávikavist Ísland og Noreg.</s>
+              </p>
+              <p>
+                <s>Umframt EFTA-limaskap ætla vit at styrkja okkara samband við ES og arbeiða fyri, at samstarvið í framtíðini skal fevna um tey fýra frælsini fyri vørur, tænastur, kapital og persónar umframt samstarv á øðrum økjum, ið hava felags áhuga so sum útbúgving, gransking og mentan.</s>
+              </p>
+              <p>
+                <s>Í heyst verður uttanríkispolitisk frágreiðing løgd fyri Løgtingið.</s>
+              </p>
+              <p>
+                <s>Sum løglistin boðar frá, so verður nógv politiskt virksemi í komandi tingsetu.</s>
+                <s>Vit fara at avgreiða ein familju- og bústaðarpakka og hava eina grundleggjandi viðgerð av okkara høvuðsvinnu.</s>
+                <s>Vit fara undir setningin at styrkja okkara fólkaskúla, so tað ger mun.</s>
+                <s>Vit skulu samtykkja ein eftirlønarreform og yvirtaka fólkakirkjuna.</s>
+                <s>Og ætlanirnar fyri grundarsteinarnar í Visjón 2015 verða lagdar fram og viðgjørdar.</s>
+              </p>
+            </div>
+            <div>
+              <p>
+                <s>Harra formaður.</s>
+              </p>
+              <p>
+                <s>Samanumtikið stendur væl til í Føroyum.</s>
+                <s>Lat okkum tí taka saman hendur, so at vit ikki bert halda fast við framgongdina, men lyfta samfelagið longri fram á leið.</s>
+              </p>
+              <p>
+                <s>Góða tingsetu og góða ólavsøku!</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <pb n="14" />
+        <pb n="15" />
+        <div type="chapter">
+          <head rend="bold center">Partur II</head>
+          <div>
+            <head rend="bold">Stjórnar- og uttanríkismál</head>
+            <div>
+              <head rend="bold">Visjón 2015</head>
+              <p>
+                <s>Á ólavsøku í fjør fór stórur partur av frágreiðing løgmans at greiða frá teimum hugsanum, sum liggja aftan fyri Visjón 2015.</s>
+                <s>Tá vórðu eisini umrøddir nakrir av grundarsteinunum í visjónini.</s>
+              </p>
+              <p>
+                <s>At fáa til vegar ítøkiligar ætlanir fyri umráðandi partar av samfelagsskipanini, setti Landsstýrið nakrar strategibólkar at gera uppskot um mál og strategiir.</s>
+                <s>Somuleiðis varð sett eitt visjónstorg, sum er breitt umboðað av politisku skipanini, umframt av arbeiðstakarum, arbeiðsgevarum og áhugafeløgum.</s>
+                <s>Visjónstorgið skal viðgera og umrøða tað arbeiðið, sum strategibólkarnir leggja fram.</s>
+              </p>
+              <p>
+                <s>Arbeitt hevur verið miðvíst í strategibólkum og visjónstorgi, og í juni varð skipað fyri visjónsdøgum, har bólkarnir løgdu fram tey mál, sum vit eiga at seta okkum, um Føroyar skulu verða millum fremstu tjóðir í 2015.</s>
+                <s>Arbeiðið er enn ávegis, og strategibólkarnir stinga nú út í kortið, hvussu vit kunnu røkka fyrisettu málunum.</s>
+                <s>Í heyst fara teir at leggja endaliga arbeiði sítt fyri Visjónstorgið.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Útflutningsframi</head>
+              <p>
+                <s>Nú Føroyar verða virknari í alheimssamfelagnum og sett verða framsøkin uttanríkispolitisk mál, eiga løgmaður og landsstýrismenn eftir besta førimuni at virka fyri føroyskum vinnuog mentanaráhugamálum í øðrum londum.</s>
+              </p>
+              <p>
+                <s>Í vár var løgmaður saman við føroyskum vinnulívsfólki í India, har virkað varð fyri vinnuligum netverkum og tosað varð við politiskar myndugleikar og umboð fyri stovnar og felagsskapir.</s>
+                <s>Ferðin eydnaðist sera væl, og løgmaður hevur fingið áheitan frá vinnuni um at gera fleiri tílíkar ferðir.</s>
+              </p>
+              <p>
+                <s>Tá ið forsætisráðharri Íslands var í Føroyum við íslendskum vinnulívsfólki í vár, beyð hann løgmanni á almenna vitjan í Íslandi.</s>
+                <s>Løgmaður fer at taka av hesi innbjóðing og ætlar at bjóða føroyskum vinnulívsfólki við á ferðina.</s>
+                <s>Nú Íslandssáttmálin skjótt kemur í gildi, er umráðandi, at føroyskar vinnufyritøkur gera sær dælt av teimum møguleikum, ið sáttmálin letur upp fyri.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Sjálvstýrismál</head>
+              <p>
+                <s>Yvirtøkulógin og uttanríkispolitiska lógin hava nú verið í gildi í eitt ár.</s>
+              </p>
+              <p>
+                <s>Við heimild í yvirtøkulógini hava føroyskir myndugleikar nú einsamallir gjørt av at yvirtaka málsøkið fjølmiðlaábyrgd.</s>
+                <s>Hesa avgerð bar ikki til at taka, áðrenn yvirtøkulógin kom.</s>
+                <s>Í hesi tingsetu ætlar landsstýrið at yvirtaka tey málsøki, ið eftir eru í samgonguskjalinum, t.e. fólkakirkju, vinnufelagslóggávu og tilbúgving.</s>
+                <s>Allar yvirtøkur verða nú gjørdar við serligari løgtingslóg um ræði á málum og málsøkjum, har øll málsøki, ið enn ikki eru yvirtikin, eru allýst.</s>
+                <s>Tá ið yvirtøkur verða framdar, verður tað sostatt gjørt við eini broyting í nevndu ræðislóg.</s>
+                <s>Við hesum hátti verður altíð full greiða á, hvørji mál og málsøki eru á føroyskum <pb n="16" /> hondum, og hvørji eru á donskum.</s>
+                <s>Harafturat fæst betri greiða á ivaspurningum í sambandi við yvirtøkur.</s>
+              </p>
+              <p>
+                <s>Endalig avtala er nú gjørd millum løgmann og danska forsætisráðharran um at yvirtaka flogvøllin og at fíggja eina nútímansgerðing við at niðurkapitalisera íleggingargrunnin við fólkatingslóg.</s>
+                <s>Hetta má sigast at vera í tøkum tíma, tí málið hevur verið óloyst í næstan átta ár, júst í eini tíð, har tørvurin á at nútímansgera flogvøllin hevur verið støðugt vaksandi.</s>
+              </p>
+              <p>
+                <s>Samsvarandi uttanríkispolitisku lógini eru fleiri millumtjóðasáttmálar longu gjørdir.</s>
+                <s>Teirra millum eru sáttmálar við Ísland, Noreg, ES og Sveis, um at Føroyar vera við í felags evropiska upprunaøkinum, ið eisini fevnir um londini kring Miðjarðarhavið.</s>
+                <s>Fáa vit limaskap í EFTA, verður tað eisini í samsvari við hesa lóg.</s>
+                <s>Higartil hevur lógin sostatt víst seg at vera ein hóskandi karmur um uttanríkisarbeiðið Føroya.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Stjórnarskipan</head>
+              <p>
+                <s>Arbeiðið í stjórnarskipanarnevndini gongur eftir ætlan, og nevndin fer at handa løgmanni álit innan 31. desember í ár.</s>
+                <s>Síðan verður málið lagt til politiska viðgerð.</s>
+                <s>Millum týdningarmiklu tættirnar er spurningurin um, hvussu mannagongdin skal vera, um verandi ríkisrættarliga støðan skal sigast upp.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Samstarvið í Norðurlandaráðharraráðnum</head>
+              <p>
+                <s>Umsóknin um føroyskan limaskap í norðurlendska samstarvinum verður framvegis viðgjørd, og ætlanin er enn sum áður at fáa fullan limaskap.</s>
+                <s>Málið liggur í løtuni hjá samstarvsráðharrunum.</s>
+                <s>Frágreiðingin hjá norðurlendskum serfrøðingum um støðuna hjá sjálvstýrandi londunum í norðurlendskum samstarvi, sum samstarvsráðharrarnir hava biðið um, er komin og er send uttanlandsnevndini.</s>
+              </p>
+              <p>
+                <s>Frágreiðingin varð umrødd á MR-SAM fundi tann 14. juni í Ålesund.</s>
+                <s>Har varð avgjørt, at londini skuldu fáa góðar stundir at viðgera hana fyri síðan at venda aftur til málið á næsta MR-SAM fundi.</s>
+                <s>Á fundi tann 28. juni í ár í Tinganesi millum formansskapin í Norðurlandaráðnum og umboð fyri Landsstýrið varð frágreiðingin umrødd.</s>
+                <s>Fyribils niðurstøðan var, at tað neyvan eru nakrar fólkarættarligar forðingar fyri føroyskum limaskapi í Norðurlandaráðnum.</s>
+              </p>
+              <p>
+                <s>Frágreiðingin er annars til ummælis hjá føroyskum løgfrøðingi, og tá ið úrslitið er tøkt, verður farið at viðgera hana politiskt.</s>
+                <s>Landsstýrið fer sjálvsagt at ráðføra seg við uttanlandsnevndina um málið og fer undir viðgerðini eisini at hava samband við Áland og Grønland at tryggja, at partarnir vita av hvør øðrum.</s>
+                <s>Á fundi tann 7. september í ár fara samstarvsráðharrarnir væntandi at taka støðu til frágreiðingina og hvussu farast skal fram i málinum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Altjóða handilspolitisk mál</head>
+              <p>
+                <s>Altjóða handilspolitiski karmurin fyri føroysku vinnuna er batnaður munandi seinasta árið.</s>
+                <s>Føroyar eru vorðnar partur í EuroMed-skipanini um samsavnaðan uppruna, og 1. august 2006 verður settur í gildi MFN-sáttmáli millum Føroyar og Rusland.</s>
+                <s>MFN stendur fyri Most Favoured Nation, og við hesum sáttmála fáa føroyskar útflutningsfyritøkur somu kappingarumstøður í Russlandi sum fyritøkur í teimum londum, ið hava bestu handilsligu viðurskifti við Russland, eitt nú fyritøkur í Íslandi, Noregi og ES.</s>
+                <s>Hetta fer serliga at koma uppsjóvarvinnuni til góðar, tí tollurin fer at lækka munandi.</s>
+              </p>
+              <p>
+                <s>Fundur var í felagsnevndini Føroyar-ES í summar, og fleiri týðandi semjur vórðu gjørdar.</s>
+                <s>Kvotan á pilkaðum rækjum varð tvífaldað, so at hon verður 6.000 tons eftir trimum árum, og útflutningurin av frystari, rundari hýsu varð frælsisgjørdur.</s>
+                <s>Harumframt er nú væntandi, at avgerð verður tikin við skrivligari mannagongd longu seinni í ár um at kvotan á fiskafóðri verður tvífaldað uppí 20.000 tons, tó at málið er 50.000 tons.</s>
+              </p>
+              <p>
+                <s>Ásannandi at politiskur meiriluti er ikki fyri føroyskum ES-limaskapi orsakað av fiskivinnupolitikki ES og støðu Føroya sum partur av danska ríkinum, ætlar landsstýrið at fáa í lag munandi tættari formligt samstarv millum Føroyar og ES.</s>
+                <s>Hetta samstarv fevnir um tey fýra frælsini fyri vørur, tænastur, kapital og persónar, umframt onnur økið, ið hava felags áhuga, til dømis útbúgving, gransking og mentan.</s>
+                <s>Hetta mál varð eisini viðgjørt á seinasta fundi í felagsnevndini millum Føroyar og ES.</s>
+                <s>Partarnir vóru samdir um at hittast á fundi aftur næsta ár í Brússel og annars at halda fram við teimum óformligu fundunum, ið liggja millum árligu felagsnevndarfundirnar.</s>
+              </p>
+              <p>
+                <s>Tilgongdin ímóti føroyskum EFTA-limaskapi er byrjað.</s>
+                <s>Í hesum sambandi hevur føroysk sendinevnd á embætismannastigi verið á rundferð til EFTA-høvuðsstaðirnar at greina málið betur.</s>
+                <s>Tilgongdin heldur nú fram á politiskum stigi.</s>
+                <s>Løgmaður hevur longu havt fundir við Liktinstein og Sveis, og beint eftir summarfrítíðina fer løgmaður á fund við Ísland og Noreg.</s>
+                <s>Eingin ivi er um, at gongdin fram ímóti EFTA-limaskapi fer at taka tíð og krevja fleiri átøk á ymsum stigum næstu mánaðirnar.</s>
+              </p>
+              <p>
+                <s>Hoyvíkssáttmálin varð fyrr í ár góðkendur í Føroyum og Íslandi.</s>
+                <s>Áðrenn sáttmálin fær gildi, skal Danmark eisini hava góðkent hann.</s>
+                <s>Ilt er í hesi løtu at siga, nær henda góðkenningarmannagongd er lokin.</s>
+                <s>Hesin sáttmáli fer at skipa Føroyar og Ísland í eitt og sama búskaparøki, og longu nú eru fleiri góðtekin komin ymsastaðni frá um sáttmálan.</s>
+                <s>Eingin ivi er um, at hann fer at gagna Føroyum á fleiri økjum, ikki minst búskaparliga.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Altjóða tilfeingismál</head>
+              <p>
+                <s>Svartkjaftasemjan við Ísland, Noreg og ES var størsta frambrotið viðvíkjandi altjóða tilfeingi í seinastu tingsetu.</s>
+                <s>Svartkjaftatilfeingið á havleiðum okkara er og verður týðandi táttur í føroyska búskapinum.</s>
+                <s>Sama kann sigast um makrel og norðhavssild, sum nú aftur stendur í føroyskum sjógvi.</s>
+                <s>Strandarlandaavtala varð aftur gjørd um makrel, men fyri norðhavssildina hevur eingin strandarlandasemja verið seinastu árini.</s>
+                <s>Annars vóru árligu semjurnar um sínámillum veiðirættindi við londini kring norðurhøv longdar nøkulunda óbroyttar.</s>
+              </p>
+              <p>
+                <s>Í løtuni verður kannað, um Føroyar kunnu verða sjálvstøðugur avtalupartur í millumtjóða felagsskapunum NAFO og NEAFC.</s>
+                <s>Um so er, verða vit helst sjálvstøðugur limur í egnum navni.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Altjóða menningarsamstarv</head>
+              <p>
+                <s>Økið er framvegis nýtt, og tí ræður um at ogna sær royndir og at leggja arbeiðið til rættis á besta hátt.</s>
+                <s>Seinasta árið er nógv orka løgd í at kanna, hvussu onnur lond skipa samstarv sítt við menningarlond.</s>
+                <s>Tað var við hesi barlast, at lógaruppskotið um altjóða menningarsamstarv varð orðað og samtykt á tingi í maimánaði í ár.</s>
+              </p>
+              <p>
+                <s>Við teirri fíggjarligu og fyrisitingarligu orku, ið avsett er til økið, er skilabest at arbeiða eftir einum breiðum leisti fyrstu árini.</s>
+                <s>Í hesum sambandi verður dentur lagdur á at skapa altjóða sambond, eitt nú við stjórnir og hjálparfelagsskapir, ið arbeiða við menningarsamstarvi.</s>
+              </p>
+              <p>
+                <s>Ætlanin við lógini um altjóða menningarsamstarv er at stuðla menningarlondum at basa fátækradømi og at skapa føroyskan kunnleika, royndir og áhuga fyri triðja heiminum og <pb n="18" /> altjóða viðurskiftum sum heild.</s>
+                <s>Hetta gerst við at finna samstarvspartar og verkætlanir, ið geva føroyskum einstaklingum, felagsskapum, stovnum og virkjum høvi at bjóða førleikar sínar fram.</s>
+              </p>
+              <p>
+                <s>Í dag samstarva Føroyar við Heimsbankan, CARE Peru, Mercy Corps og íslendska menningarhjálparstovnin Iceida um ymsar verkætlanir, har arbeitt verður við ítøkiligum møguleikum hjá Føroyum at hjálpa menningarlondum við fíggjarligum ella yrkisligum stuðli.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Marknamál</head>
+              <p>
+                <s>Marknasetingin á havleiðum Føroya heldur fram.</s>
+                <s>Higartil eru marknasáttmálar gjørdir við Noreg og Bretland.</s>
+                <s>Í 2003 varð politisk semja gjørd við Ísland um markið, og henda semja verður væntandi staðfest í einum altjóðarættarligum marknasáttmála antin seinni í ár ella næsta ár.</s>
+              </p>
+              <p>
+                <s>Tá ið ræður um landgrunsmarkið uttan fyri tveyhundrað fjórðingar, hava Føroyar, Ísland og Noreg sett fram krøv um økið norðan fyri Føroyar.</s>
+                <s>Harafturat hava Føroyar, Ísland, Bretland og Írland sett fram krøv um økið í ein útsynning úr Føroyum.</s>
+                <s>Í løtuni verða vísindaligar rannsóknir gjørdar í báðum økjum til at nýta sum føroyskt próvtilfar í landgrunsnevndini hjá Sameindu tjóðum.</s>
+                <s>Viðvíkjandi norðara økinum hava avvarðandi londini eisini havt tætt samskifti um, hvussu tey kunnu býta økið sínámillum í framtíðini.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Trygdarpolitisk mál</head>
+              <p>
+                <s>Av trygdarpolitiskum málum, ið hava verið á breddanum seinasta árið, eru málini um fangaflogfør, Loranstøðina á Eiði og herstøðina á Sornfelli.</s>
+              </p>
+              <p>
+                <s>Danski uttanríkisráðharrin hevur higartil ikki kunnað váttað, at honum vitandi hava fangaflogfør flogið um føroyskt loftrúm.</s>
+                <s>Málsøkið flogferðsla er ikki yvirtikið, og føroyingar kunnu tí einans spyrja seg fyri hjá donskum myndugleikum um tílík mál.</s>
+                <s>Eingin ivi er um, at sama um málsøkið er føroyskt ella danskt, so kann verða sera trupult at staðfesta, hvørt fangaflutningur er í loftrúmi okkara ella ikki.</s>
+              </p>
+              <p>
+                <s>Eftir at avgerð varð tikin um at taka Loranstøðina á Eiði niður, hevur Frakland víst áhuga fyri, at støðin heldur fram við virksemi sínum.</s>
+                <s>Hon tykist annars at hava serligan týdning fyri Galileoverkætlanina, ið fevnir um eina røð av fylgisveinum og loranstøðum, sum í felag skulu tryggja skipum, flogførum, akførum og øðrum neyva staðkenning.</s>
+              </p>
+              <p>
+                <s>Avgjørt er at minka munandi um virksemið á herstøðini í Mjørkadali, og einans tær lívsneyðugu tænasturnar til danska herflotan í Føroyum halda fram.</s>
+                <s>Í hesum sambandi verður farið í holt við at taka radaran niður um ársskiftið, av tí at hann lítlan og ongan strategiskan týdning hevur longur.</s>
+                <s>Hann hevur kortini havt stóran týdning fyri ferðamannaflogfør, og tí verður kannað, um til ber at seta upp annan radara, ið er egnaður til slíka ferðslu.</s>
+                <s>Gjørt verður vart við, at radarin á Sornfelli er ogn hjá bretsku stjórnini.</s>
+                <s>Hann er lutfalsliga dýrur at reka og er tøkniliga aveldur samanborið við nýggjar radarar, ið eru gjørdir til ferðamannaflogfør burturav.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Sendistovur</head>
+              <p>
+                <s>Sendistovurnar hava ein týdningarmiklan leiklut í økta uttanríkispolitikki Føroya.</s>
+                <s>Í fjør varð víst á, at skulu vit gera okkum vón um veruligt uttanríkispolitiskt samstarv og búskaparligar sáttmálar við onnur lond, so mega vit styrkja sendistovurnar.</s>
+                <s>Landsstýrið hevur tí sett ein sendifulltrúa afturat í Brússel og umhugsar eisini at útvega sær egin høli í hesum umráðandi <pb n="19" /> býi.</s>
+                <s>Sendistovurnar í London og í Keypmannahavn hava somuleiðis virknan leiklut í uttanríkispolitikki og virka fyri føroyskum vinnu- og mentanaráhugamálum í útlondum.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Fíggjar- og búskaparmál</head>
+            <div>
+              <head rend="bold">Búskapargongd</head>
+              <p>
+                <s>Tað gongur væl við føroyska búskapinum, arbeiðsloysið er lítið og inflasjónin er ikki høg.</s>
+                <s>Eftir at stígur var í búskapinum í nøkur ár, kom rættilig gongd á aftur í seinnu helvt av 2005, og vøksturin stendur við.</s>
+                <s>Tað eru privatu vinnurnar sum heild og serliga tilfeingisvinnurnar, sum nú bera vøksturin.</s>
+                <s>Betri fiskaprísir á altjóða marknaðinum eru høvuðsorsøkin til økta virksemið í tilfeingisvinnunum.</s>
+              </p>
+              <p>
+                <s>Onnur orsøk til stóra vøksturin í virksemi og eftirspurningi seinastu mánaðirnar eru nýggjar sethúsafíggingar.</s>
+                <s>Fyrr fíggjaðu føroyingar sethús síni við vanligum bankalánum yvir 15-20 ár, men fyri árskiftið beyðst høvi at fíggja við 30-ára veðhaldsláni.</s>
+                <s>Hetta skapti samstundis stóra kapping millum føroysku peningastovnarnar, og renta og lánstreytir sum heild eru vorðin nógv lagaligari.</s>
+                <s>Sethúsaeigarar hava tí fingið nógv meira tøkan pening til dagliga húsarhaldið, og hetta sæst aftur í stórum vøkstri í eftirspurninginum eftir t.d. bilum og øðrum varandi nýtsluvørum.</s>
+              </p>
+              <p>
+                <s>Lagaliga sethúsafíggingin hevur eisini havt við sær, at húsaprísirnir eru munandi uppfarnir, serliga í høvuðsstaðarøkinum, har eftirspurningurin eftir íbúðum og handverkarum eisini er nógv størri enn útboðið.</s>
+                <s>Tí er ógvuliga torført at útvega sær bústað í hesum øki, serliga hjá støkum, men Landsstýrið ætlar at bøta um henda trupulleika við bústaðarpolitikki sínum.</s>
+              </p>
+              <p>
+                <s>Umframt nógva virksemið í privatvinnuni, eru útreiðslurnar til rakstur og íløgur hjá kommununum eisini vaksnar nógv seinastu árini.</s>
+                <s>Kommunurnar eru helvtin av tí almenna og mega tí, saman við landinum, vísa samfelagsábyrgd, so at búskapur okkara verður ikki yvirupphitaður, nú so nógv virksemi er hjá tí privata.</s>
+              </p>
+              <p>
+                <s>Førdi fíggjarpolitikkurin hevur eydnast væl.</s>
+                <s>Rikin hevur verið ein arbeiðsskapandi fíggjarpolitikkur fyri at fáa gongd á aftur búskapin, og tí hevur hall verið á fíggjarlógini.</s>
+                <s>Nú vøkstur er íkomin, verður lagt um, og málið í 2007 er at fáa avlop aftur.</s>
+                <s>Tí er sera umráðandi at landið ansar væl eftir útreiðslum sínum, so at tað ikki ovstimbrar búskaparliga virksemið.</s>
+                <s>Hetta samsvarar eisini við ásetingarnar í samgonguskjalinum um at fáa avlop á fíggjarlógina og at tálma sveiggjum í búskapinum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Einskiljingar</head>
+              <p>
+                <s>Landsstýrið hevur seinasta árið raðfest arbeiðið við einskiljingum frammarlaga.</s>
+                <s>Framtaksgrunnurin hevur selt Føroya fiskavirking, og fiskivinnan á landi er aftur á privatum hondum.</s>
+                <s>Farmaleiðir vórðu somuleiðis seldar fyrr í ár.</s>
+                <s>Hetta var leingi ætlanin, tí virksemið var í beinleiðis kapping við privat feløg og gekk eisini ímóti kappingarlóggávuni.</s>
+              </p>
+              <p>
+                <s>Trý einskiljingarmál vórðu viðgjørd á Løgtingi í vár.</s>
+                <s>Heimild er nú fingin at einskilja Føroya banka og Føroya lívstrygging, og somuleiðis er heimild fingin at fara undir at einskilja Atlantsflog.</s>
+                <s>Ætlandi verða 33% av partabrøvunum í Atlantsflogi seld í ár, og helvtin av partabrøvunum í Føroya lívstrygging verður latin tryggingartakarunum.</s>
+                <s>Hin helvtin verður seld øðrum íleggjara.</s>
+                <s>Lógaruppskot um at selja Føroya tele verður lagt fyri tingið í heyst, og ætlandi verður farið at selja í 2007.</s>
+              </p>
+              <pb n="20" />
+              <p>
+                <s>Umframt at gera greitt mark millum tað almenna og tað einskilda, kann væntast, at einskiljingarnar fara at geva almennu fyritøkunum størri frælsi til virðisskapan.</s>
+                <s>Hetta fer óivað at skapa vinnuligt áræði, til gagns fyri alt samfelagið.</s>
+              </p>
+              <p>
+                <s>Semja er um, at tann peningur, sum vinst við einskiljingunum, skal ikki fara til almenna nýtslu, men til at niðurgjalda almenna skuld.</s>
+                <s>Einskiljingarnar verða gjørdar í eini skipaðari tilgongd við hygni fyri samfelagsligum áhugamálum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Bruttotjóðarúrtøka</head>
+              <p>
+                <s>Bruttotjóðarúrtøka okkara verður uppgjørd í ársins prísum, og tjóðarroknskapartølini verða kunngjørd hálvtannað ár eftir árslok.</s>
+                <s>Føroyski tjóðarroknskapurin og bruttotjóðarúrtøkan vísa tí ikki aktuellu búskapargongdina, og tí verða lønarhagtølini mangan nýtt í staðin.</s>
+              </p>
+              <p>
+                <s>Í 2005 vóru samlaðu lønargjaldingarnar 6,1 mia. kr.</s>
+                <s>Hetta eru 172 mió. kr. (2,9%) meira enn í 2004.</s>
+                <s>Mest vuksu tær í almennari fyrisiting og tænastum (88 mió. kr), og næstmest í fiskiskapi (57 mió. kr).</s>
+                <s>Lønargjaldingarnar vuksu eisini í sjóflutningi, øðrum flutningi og vinnuligum tænastum.</s>
+                <s>Tær minkaðu 32 mió. kr. hjá ali- og kryvjivirkjum og 16 mió. kr. hjá fiskivøruídnaði.</s>
+              </p>
+              <p>
+                <s>Samlaði lønarvøksturin í 2005 var tann størsti síðan 2002, men tó væl lægri enn fyrstu árini í hesi øld.</s>
+                <s>Í 2001 var hann 13,7% størri enn í 2000.</s>
+              </p>
+              <p>
+                <s>Vøksturin í lønargjaldingunum byrjaði í august 2005 og stendur við.</s>
+                <s>Fyrsta ársfjórðing í ár var hann 124 mió. kr. ella 9% størri enn somu tíð í fjør.</s>
+                <s>Lønargjaldingarnar fóru upp um 1,5 mia. kr., sum er met fyrsta ársfjórðing.</s>
+              </p>
+              <p>
+                <s>Almennu lønirnar bera ikki longur vøksturin í lønargjaldingunum, og almenni lønarvøksturin hevur seinastu mánaðirnar verið hin minsti í fimm ár.</s>
+                <s>Vøkstur hevur verið í øllum vinnugreinum uttan alivinnuni.</s>
+                <s>Kortini skal sigast, at lønargjaldingarnar í alivinnuni vóru ikki minni enn síðsta ársfjórðing í fjør.</s>
+                <s>Hetta kann benda á, at vend er við at koma í hjá alivinnuni.</s>
+                <s>Annars hevur vøkstur verið í tilfeingisvinnunum tríggjar ársfjórðingar á rað eftir eina støðuga minking teir seinastu ellivu ársfjórðingarnar.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fólkatal</head>
+              <p>
+                <s>1. apríl 2006 búðu 48.258 fólk í Føroyum.</s>
+                <s>Fólkatalið vaks nógv frá 1997 til 2002, tá ið tað øktist 1,8% samanborið við árið fyri.</s>
+                <s>Síðan 2002 er árliga vakstrarprosentið minkað, og við ársbyrjan 2005 var tað komið niður á 0,3%.</s>
+                <s>Við árslok 2005 var vøksturin vendur til afturgongd á 0,3%.</s>
+                <s>Hetta eru 127 fólk.</s>
+              </p>
+              <p>
+                <s>Síðan 1998 er árliga tilflytingin støðugt minkað, og frá 2001 er fráflytingin harafturat vaksin.</s>
+                <s>Árliga nettotilflytingin er tí minkað á hvørjum ári síðan 2001.</s>
+                <s>Í 2004 fluttu 150 fólk fleiri av landinum enn til landið, og í 2005 vóru tey 422.</s>
+              </p>
+              <p>
+                <s>Fólkatalið minkaði tó ikki meira enn 127 fólk, tí føroyska burðaravlopið er stórt.</s>
+                <s>Síðan 2002 hevur tað verið rímiliga støðugt, nakað oman fyri 700 børn um árið.</s>
+                <s>Burðartíttleikin er um 15 fyri hvørji 1000 fólk.</s>
+                <s>Hetta er nógv, um sammett verður við grannalondini.</s>
+                <s>Í Danmark og Noregi liggur hann um 12 og í Svøríki um 11.</s>
+                <s>Í 2005 fingu føroysk konufólk í barnførum aldri 2,62 børn í miðal.</s>
+                <s>Hetta er tað mesta síðan 1990 og eisini tað mesta í Evropa.</s>
+              </p>
+              <p>
+                <s>Tekin eru nú um, at nettofráflytingin seinastu árini er um at venda til eina nettotilflyting.</s>
+              </p>
+            </div>
+            <pb n="21" />
+            <div>
+              <head rend="bold">Arbeiðsloysi</head>
+              <p>
+                <s>Í februar 2005 var arbeiðsloysið tað mesta síðan aldarskiftið, tá ið yvir 1.200 fólk vóru fulltíðararbeiðsleys.</s>
+                <s>Støðan batnaði síðan fram til juni 2005 og stóð so við fram til januar í ár, tá ið hon batnaði enn meira.</s>
+                <s>Í mai vóru 792 fulltíðararbeiðsleys.</s>
+                <s>Hetta eru 29 færri enn í apríl og 104 færri enn í mars.</s>
+                <s>Arbeiðsloysisprosentið minkaði samsvarandi úr 3,1% í mars niður í 2,8% í mai.</s>
+              </p>
+              <p>
+                <s>Yvirhøvur eru færri mannfólk arbeiðsleys enn konufólk.</s>
+                <s>Árstíðarjavnaða arbeiðsloysið hjá mannfólki var 2,0% og hjá konufólki 3,7.</s>
+                <s>Mesta arbeiðsloysið hevur seinastu fimm árini verið í Suðuroy, men frá apríl til mai fór arbeiðsloysið í Norðuroyggjum uppum, úr 3,9 upp í 4,1%.</s>
+                <s>Í Suðuroy minkaði tað úr 4,2 niður í 4,0.</s>
+                <s>Har er tað serliga minkað hjá konufólki, niður í helvt eftir einum ári.</s>
+                <s>Í mai var tað komið niður á 6,2%, sum er minni enn hjá konufólki í Norðuroyggjum, har tað var komið upp á 6,5.</s>
+              </p>
+              <p>
+                <s>Føroyska arbeiðsloysið er niðan fyri 3%, og tað er lítið samanborið við flestu Norðurlond.</s>
+                <s>Í Íslandi er tað 1,6%, í Noregi 3,8, í Danmark 4,5, í Svøríki 4,9 og í Finnlandi 7,8.</s>
+                <s>Í ES er arbeiðsloysið í miðal 8,6.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Brúkaraprístal</head>
+              <p>
+                <s>Fyrsta ársfjórðing í ár vóru brúkaraprísirnir í miðal 0,9% hægri enn somu tíð í fjør, og annan ársfjórðing í miðal 2,2% hægri.</s>
+                <s>Hetta er fittur vøkstur, men samanumtikið hevur inflasjónin verið tann sama sum í hinum Norðurlondunum, ið ikki hava stóra inflasjón.</s>
+                <s>Tá er Ísland ikki uppítalt.</s>
+              </p>
+              <p>
+                <s>Árligi prísvøksturin hevur verið størstur í høvuðsbólkunum flutningi (4,7%), býli (3,8), rúsdrekka og tubbaki (3,5) og mati og drekka (2,8).</s>
+                <s>Príslækkingin hevur verið mest í høvuðsbólkunum frítíð og mentan (-1,6) og innbúgvi, húsbúnaði o.tíl. (-1,5).</s>
+              </p>
+              <p>
+                <s>Teir nýtslubólkar, sum hava ávirkað brúkaraprístalið mest uppeftir seinasta árið, eru brenniolja til húsarhald (+1,14 prosentstig), brennievni til akfør (+0,43), tubbak (+0,23) og kjøt (+0,24).</s>
+                <s>Bólkarnir, sum hava ávirkað talið mest niðureftir, eru undirbólkarnir rentuútreiðslur fyri íbúðalán (-0,67) og frítíðarferð uttanlands (-0,22).</s>
+              </p>
+              <p>
+                <s>Frá fyrsta til annan ársfjórðing vaks brúkaraprístalið 1,6%, úr 104,5 upp í 106,2.</s>
+                <s>Størsta orsøkin eru býlisútreiðslur og hægri prísir á brennievni og matvørum.</s>
+                <s>Prísvøksturin í nýtslubólkinum býli hevur í miðal verið 4,5%, og rentan á íbúðalánum er hækkað 6,4%.</s>
+                <s>Hetta hevur ávirkað brúkaraprístalið 0,31 prosentstig uppeftir.</s>
+                <s>Prísurin á brenniolju til húsarhald er hækkaður 8,3% (+0,47), viðlíkahald av bústaði er hækkað 2,1% (+0,06), og húsaleiga er hækkað 2% (+0,05).</s>
+                <s>Prísurin á brennievni til akfør er hækkaður 7,3% og hevur ávirkað brúkaraprístalið 0,24 prosentstig uppeftir.</s>
+                <s>Prísirnir á mati og drekka eru hækkaðir 1,1% seinasta ársfjórðingin.</s>
+                <s>Hetta hevur ávirkað talið 0,24 prosentstig uppeftir.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Innflutningur av vørum</head>
+              <p>
+                <s>Innflutningurin minkaði munandi frá 1988 til 1993, men vaks so í stórum fram til 2000, tá ið steðgur kom í aftur.</s>
+                <s>Hevur skipainnflutningurin verið rættiliga stórur seinastu árini, var hann so at siga eingin í 1990-árunum.</s>
+                <s>Verða skipini ikki uppítald, er innflutningurin minkaður spakuliga frá 2001 til 2005, serliga til vinnuliga nýtslu.</s>
+                <s>Talan er bæði um rávøru til vinnuliga nýtslu og um vinnuligan innflutning av maskinum.</s>
+              </p>
+              <p>
+                <s>Innflutningurin til húsarhaldsnýtslu minkaði undir kreppuni; helst tí at fólkatalið minkaði nógv og tí at minni og ódýrari vøra varð innflutt.</s>
+                <s>Frá 1993 til 2002 vaks innflutningurin <pb n="22" /> aftur støðugt og hevur síðan staðið at kalla í stað.</s>
+                <s>Seinastu mánaðirnar er hann tó vaksin aftur.</s>
+              </p>
+              <p>
+                <s>Seinasta árið eru prísirnir á oljuúrdráttum nógv uppfarnir, og hetta sæst týðiliga aftur í innflutningstølunum.</s>
+                <s>Í 2005 vórðu innflutt 237.000 tons av oljuúrdráttum afturímóti 250.000 í 2004.</s>
+                <s>Innflutningsvirðið var 692 mió. kr. í 2005 og 508 mió. kr. í 2004.</s>
+                <s>Nøgdin minkaði sostatt 13 tons, men virðið vaks 184 mió. kr.</s>
+                <s>Í 2004 var miðal innflutningsprísurin 1.927 kr. fyri tonsið av kyndingarolju, og í 2005 var hann 2.808 kr.</s>
+                <s>Hetta er ein vøkstur á 881 kr. ella 46%.</s>
+                <s>Fyri bensin var vøksturin 884 kr. (36%) og fyri dieselolju 1.018 kr. (43%).</s>
+              </p>
+              <p>
+                <s>Fyrstu fimm mánaðirnar í ár var innflutningurin 1,7 mia. kr.</s>
+                <s>Hetta eru góðar 200 mió. kr. ella 15% meira enn somu tíð í fjør.</s>
+                <s>Nógv tann størsti vøksturin hevur verið í innflutninginum av oljuúrdráttum.</s>
+                <s>Í flestøðrum vørubólkum hevur hann verið javnur.</s>
+              </p>
+              <p>
+                <s>Samanborið við undanfarin ár er tað bara í 2001 at innflutningurin hevur verið størri fyrstu fimm mánaðirnar av árinum, um skip og oljuúrdráttir ikki verða uppítald.</s>
+                <s>Kemur oljan afturat, er hetta nógv tað størsta innflutningsárið.</s>
+                <s>Hóast innflutta nøgdin av kyndingarolju er 15% minni fyrstu fimm mánaðirnar í ár enn somu tíð í fjør, so er virðið 17% størri.</s>
+                <s>Miðalprísurin fyri tonsið av olju hevur higartil í ár verið tvífalt so høgur sum somu mánaðir 10 tey seinastu árini.</s>
+                <s>Miðalprísurin fyri tonsið av kyndingarolju hevur higartil í ár verið 3.600 kr. afturímóti 2.600 kr. somu mánaðir í fjør.</s>
+                <s>Fyrstu fimm mánaðarnar í 2004 var innflutningsprísurin á kyndingarolju helvtina av tí hann hevur verið í ár.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Útflutningur av vørum</head>
+              <p>
+                <s>Um 95% av vøruútflutningi okkara eru fiskur og fiskavørur.</s>
+                <s>Síðan 1980 er fiskaútflutningurin vaksin í virði og nøgd.</s>
+                <s>Í 2005 var nøgdin um tvær ferðir so nógv sum í 1980 og virðið næstan fýra ferðir so nógv.</s>
+              </p>
+              <p>
+                <s>Hesi árini er tvær reisur komið fyri, at bæði nøgd og virði eru minkað.</s>
+                <s>Fyrru ferð millum 1991 og 1995, tá útflutningurin minkaði 25% í virði, úr 2,6 mia. kr. niður í 2 mia. kr.</s>
+                <s>Seinnu ferð millum 2001 og 2005, tá ið hann minkaði 20% í virði, úr 4,2 mia. kr. niður í 3,4 mia. kr.</s>
+              </p>
+              <p>
+                <s>Fyrstu fimm mánaðirnar í ár var útflutningsvirðið 90 mió. kr. ella 6% minni enn somu tíð í fjør.</s>
+                <s>Orsakirnar til minkingina eru fyrst og fremst vánaligi toskafiskiskapurin, lítla framleiðslan av alifiski og minkaða rækjuveiðan.</s>
+                <s>Minkingin í útflutningsvirðinum fyri hesar tríggjar vørubólkar er samanlagt um 280 mió. kr.</s>
+                <s>Harafturímóti er meira fiskað og framleitt av serliga upsa, hýsu og øðrum fiskasløgum sum t.d. havtasku.</s>
+                <s>Av upsa, hýsu og øðrum fiski er útflutt fyri 170 mió. kr. meira enn somu tíð í fjør.</s>
+              </p>
+              <p>
+                <s>Av tí at prísirnir fyri allarflestu fiskasløg og vørusløg hava verið betri í ár, er minkingin í virði ikki so stór sum minkingin í útfluttum nøgdum.</s>
+                <s>Minkingin í útfluttum nøgdum av fiskavørum var samanlagt 28% fyrstu fimm mánaðirnar í ár í mun til somu tíð í fjør.</s>
+                <s>Í virði var minkingin kortini bert 7% ella slakar 100 mió. kr.</s>
+                <s>Prísirnir á týdningarmestu fiskasløgunum og framleiddu vørunum eru uppfarnir síðan í fjør.</s>
+                <s>Prísirnir eru yvirhøvur av tí allarbesta í nógv ár, og hetta ber upp fyri minkingini í veiddum og framleiddum nøgdum.</s>
+              </p>
+              <p>
+                <s>Nýggj lóg um útflutning fór at virka frá 1. januar 2006.</s>
+                <s>Fyrr vóru at siga bara fiskur og fiskaúrdráttir skrásettir í hagtølunum, og fyri 1. januar vóru sostatt í miðal 150 ymisk vørunummur skrásett hvønn ársfjórðing.</s>
+                <s>Nú eru tey 240.</s>
+                <s>Mett verður, at einar 150 mió. kr. av føroyska útflutninginum vóru óskrásettar, áðrenn nýggja lógin kom í gildi.</s>
+                <s>Sum dømi kann nevnast, at fyrstu fimm mánaðirnar í ár varð útflutt fyri 30 mió. kr. av oljuúrdráttum.</s>
+                <s>Av hesum varð einki skrásett frammanundan.</s>
+                <s>Útflutt varð fyri 14 mió. kr. í trolreiðskapi.</s>
+                <s>Av <pb n="23"/> hesum vórðu millum 5 og 6 mió. kr. skrásettar árini frammanundan.</s>
+                <s>Útflutt var fyri 4 mió. kr. í burturkasti, sum ikki hevur verið skrásett frammanundan.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold"></head>
+            </div>
+            <div>
+              <head rend="bold"></head>
+            </div>
+          </div>
+        </div>
+        <pb n="43" />
+        <div type="chapter">
+          <head>Partur III</head>
+          <div>
+            <head rend="bold">Løglisti</head>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
 </TEI>
