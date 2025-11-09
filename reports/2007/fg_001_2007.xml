@@ -1,0 +1,76 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>FG-001/2006: Ólavsøkufrágreiðing løgmans 2006</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Rani Høgnason Hansen</publisher>
+                <idno type="url">https://github.com/hoegnason/tingmal</idno>
+                <availability status="free">
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+                    <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+                    <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+                </availability>
+                <date when="2025-11-08"/>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <bibl type="parliamentary_document">
+                    <publisher>Føroya Løgting</publisher>
+                    <author>
+                        <persName>Jóannes Eidesgaard</persName>
+                        <roleName>løgmaður</roleName>
+                    </author>
+                    <ref target="https://www.logting.fo/documents/16076"/>
+                    <note type="source_format">PDF document, machine-readable text</note>
+                    <date when="2006-07-29">29. juli 2006</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <correction>
+                    <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+                </correction>
+                <segmentation>
+                    <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+                </segmentation>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1"/>
+            <div type="report">
+                <pb n="5"/>
+                <div type="chapter">
+                    <head>Partur I</head>
+                    <div>
+                        <head rend="bold">Framløga Løgmans</head>
+                        <div>
+                            <p>
+                                <seg>
+                                    <hi rend="italic">Harra formaður,</hi>
+                                </seg>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div type="chapter">
+                    <head rend="bold center">Partur II</head>
+
+                </div>
+                <pb n="43"/>
+                <div type="chapter">
+                    <head>Partur III</head>
+                    <div>
+                        <head rend="bold">Løglisti</head>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
