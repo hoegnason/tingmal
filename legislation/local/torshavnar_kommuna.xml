@@ -1572,29 +1572,453 @@
     </text>
   </TEI>
   <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <fileDesc>
-      <titleStmt>
-        <title type="main">Kunngerð um parkering í Tórshavnar kommunu</title>
-      </titleStmt>
-      <sourceDesc>
-        <bibl>
-          <title level="a" type="main">Kunngerð um parkering í Tórshavnar kommunu</title>
-          <author>
-            <orgName>Føroya Landfúti</orgName>
-          </author>
-          <publisher>
-            <orgName>Dimmalætting</orgName>
-          </publisher>
-          <publisher>
-            <orgName>Føroya Landfúti</orgName>
-          </publisher>
-          <idno type="url">https://www.torshavn.fo/media/qj2puaof/kunnger%C3%B0-um-parkering-%C3%AD-t%C3%B3rshavnar-kommunu-2007.pdf</idno>
-          <ref type="source" target="https://www.torshavn.fo/media/qj2puaof/kunnger%C3%B0-um-parkering-%C3%AD-t%C3%B3rshavnar-kommunu-2007.pdf">Original URL</ref>
-          <date type="accessed" when="2025-11-11"/>
-          <date when="2007-01-24">24. januar 2007</date>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title type="main">Gerðabók fyri býráðsfundin 18. mars 2010</title>
+        </titleStmt>
+        <sourceDesc>
+          <bibl>
+            <title level="a" type="main">Gerðabók fyri býráðsfundin 18. mars 2010</title>
+            <author>
+              <orgName>Tórshavnar kommuna</orgName>
+            </author>
+            <publisher>
+              <orgName>Tórshavnar kommuna</orgName>
+            </publisher>
+            <idno type="url">https://www.torshavn.fo/media/24kahj1j/ger%C3%B0ab%C3%B3k-fyri-b%C3%BDr%C3%A1%C3%B0sfundin-18-mars-2010.pdf</idno>
+            <ref type="source" target="https://www.torshavn.fo/media/24kahj1j/ger%C3%B0ab%C3%B3k-fyri-b%C3%BDr%C3%A1%C3%B0sfundin-18-mars-2010.pdf">Original URL</ref>
+            <date type="accessed" when="2025-11-11"/>
+            <date when="2010-03-18">18. mars 2010</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <tagsDecl>
+          <rendition xml:id="case" scheme="css">
+            margin-top: -1.5em;
+            margin-left: 4em;
+            margin-bottom: 2em;
+          </rendition>
+          <rendition xml:id="headingNumber" scheme="css">
+            display: none;
+          </rendition>
+        </tagsDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <div type="minutes">
+          <div>
+            <head rend="bold">Gerðabók</head>
+            <space type="vertical"/>
+            <p><label rend="bold">Dato:</label> 18. mars 2010 <time when="2010-03-18T17:00">kl. 17.00</time></p>
+            <p><label rend="bold">Stað:</label> Býráðssalurin</p>
+            <p><label rend="bold">Málsnr:</label> 36/10-47/10</p>
+            <space type="vertical"/>
+            <listPerson>
+              <head rend="bold">
+                <hi rend="bold">Fundarleiðari</hi>
+              </head>
+              <person>
+                <persName>Heðin Mortensen</persName>
+                <!-- <roleName>fundarleiðari</roleName> -->
+              </person>
+            </listPerson>
+            <space type="vertical"/>
+            <listPerson>
+              <head rend="bold">
+                <hi rend="bold">Við luttøku av:</hi>
+              </head>
+              <person>
+                <persName>Heðin Mortensen</persName>
+              </person>
+              <person>
+                <persName>Bogi Andreasen</persName>
+              </person>
+              <person>
+                <persName>Marin Katrina Frýdal</persName>
+              </person>
+              <person>
+                <persName>Jógvan Arge</persName>
+              </person>
+              <person>
+                <persName>Elin Lindenskov</persName>
+              </person>
+              <person>
+                <persName>Halla Samuelsen</persName>
+              </person>
+              <person>
+                <persName>Jákup Símun Simonsen</persName>
+              </person>
+              <person>
+                <persName>Maria H. Olsen</persName>
+              </person>
+              <person>
+                <persName>Annfinn Brekkstein</persName>
+              </person>
+              <person>
+                <persName>Vagnur Johannesen</persName>
+              </person>
+              <person>
+                <persName>Levi Mørk</persName>
+              </person>
+              <person>
+                <persName>Jan Christiansen</persName>
+              </person>
+              <person>
+                <persName>Sjúrður Olsen</persName>
+              </person>
+            </listPerson>
+            <space type="vertical"/>
+            <listPerson>
+              <head rend="bold">
+                <hi rend="bold">Luttóku ikki:</hi>
+              </head>
+              <!-- none listed explicitly under this header in the source page -->
+            </listPerson>
+            <space type="vertical"/>
+            <listPerson>
+              <head rend="bold">
+                <hi rend="bold">Luttók eisini:</hi>
+              </head>
+              <person>
+                <persName>Jóan Petur Hentze</persName>
+              </person>
+              <person>
+                <persName>Bjørgfríð Ludvig</persName>
+              </person>
+              <person>
+                <persName>Randi Frederiksberg</persName>
+              </person>
+              <person>
+                <persName>Tróndur Djurhuus</persName>
+              </person>
+            </listPerson>
+            <space type="vertical"/>
+            <list>
+              <item>
+                <label rend="bold">Skrivari:</label>
+                <item>Ingibjørg Berg</item>
+              </item>
+              <item>
+                <label rend="bold">Protokollførari:</label>
+                <item>Magnus Dam</item>
+              </item>
+            </list>
+          </div>
+          <pb n="2"/>
+          <div>
+            <space type="vertical"/>
+            <head rend="bold">Mál fyri opnum hurðum kl. 18.00</head>
+            <space type="vertical"/>
+            <p rend="bold">
+              <s xml:id="hqypzotttl">Býráðsformaðurin setti fundin og las upp dagsskránna.</s>
+            </p>
+            <space type="vertical"/>
+            <div type="agenda">
+              <label rend="bold" place="margin">37/10</label>
+              <div type="case" xml:id="tb-37-10">
+                <!-- <label rend="bold" place="margin">37/10</label>
+                <space type="vertical" /> -->
+                <head rend="bold underline">2010-0177 <lb/> Mál beind í nevndir</head>
+                <space type="vertical"/>
+                <p>
+                  <label rend="bold">Býráðið 18. mars 2010:</label>
+                  <s xml:id="mx7zmth5j6">Tikið til eftirtektar.</s>
+                </p>
+              </div>
+            </div>
+            <label rend="bold" place="margin">38/10</label>
+            <div type="case" xml:id="tb-38-10">
+              <head rend="bold underline">2010-0610 <lb/> Visjón og framtíðarmynd</head>
+              <div>
+                <p>
+                  <s xml:id="qvh5aoff5j">Málið verður lagt fram á forfundi til býráðsfundin.</s>
+                </p>
+                <p>
+                  <label rend="bold">Býráðið 18. mars 2010:</label>
+                  <seg>Býráðið hevur einmælt samtykt soljóðandi orðing til visjón og framtíðarmynd fyri høvuðsstaðin:</seg>
+                </p>
+              </div>
+              <div>
+                <div>
+                  <head type="main" rend="bold center">Okkara høvuðsstaður - virkin og vakin</head>
+                  <head type="sub" rend="bold center">Vakstrardepil í Norðuratlantshavi</head>
+                  <list type="numbered" rend="arabic">
+                    <item n="1">
+                      <p>
+                        <s xml:id="gp4kqoa7bp">Vit vilja, at høvuðsstaðurin er alheimsgjørdur og fjølbroyttur.</s>
+                        <s xml:id="h5zghrryqk">Her skal verða rúm fyri ymiskum áskoðanum, hugskotum og mentanum, tí soleiðis verður gott hjá øllum at liva, búgva og virka</s>
+                      </p>
+                    </item>
+                    <item n="2">
+                      <p>
+                        <s xml:id="qd4rkrzkho">Vit vilja, at høvuðsstaðurin er livandi, við upplivingum og avbjóðingum, men eisini við tryggleika og nærleika</s>
+                      </p>
+                    </item>
+                    <item n="3">
+                      <p>
+                        <s xml:id="upcdpuzq72">Vit vilja, at høvuðsstaðurin er virkin, við nýggjum og mennandi útbúgvingartilboðum og dygdargóðum altjóða granskingarumhvørvi.</s>
+                      </p>
+                    </item>
+                    <pb n="3"/>
+                    <item n="4">
+                      <p>
+                        <s xml:id="xc3ubwbdzb">Vit vilja, at høvuðsstaðurin er burðardyggur búskaparliga, sosialt og umhvørvisliga</s>
+                      </p>
+                    </item>
+                    <item n="5">
+                      <p>
+                        <s xml:id="rq7fmn7ill">Vit vilja, at høvuðsstaðurin gevur nýggjum og altjóða vinnum, og vinnum, sum hava djúpar røtur her, góð vakstrarlíkindi</s>
+                      </p>
+                    </item>
+                    <item n="6">
+                      <p>
+                        <s xml:id="dkvqnvmyyd">Vit vilja, at høvuðsstaðurin er effektivur og framtakshugaður, við skjótari og góðari tænastu til borgarar og vinnu</s>
+                      </p>
+                    </item>
+                    <item n="7">
+                      <p>
+                        <s xml:id="sklsioxwre">Vit vilja, at høvuðsstaðurin tænir øllum føroyingum í avgerandi leikluti sínum at ganga á odda í menningini</s>
+                      </p>
+                    </item>
+                    <item n="8">
+                      <p>
+                        <s xml:id="rdqe4jvbis">Vit vilja samstarva breitt innan- og uttanlands um at menna høvuðsstaðin</s>
+                      </p>
+                    </item>
+                  </list>
+                </div>
+                <div>
+                  <head rend="bold center">Okkara høvuðsstaður – virkin og vakin</head>
+                  <head rend="bold center">Framtíðarmyndin og fremstu fortreytirnar </head>
+                  <div>
+                    <head rend="bold">Okkara høvuðsstaður – miðdepilin í menningini</head>
+                    <p>
+                      <s xml:id="afxqch6j2c">Búskaparvøkstur og fólkavøkstur í Føroyum eru avgerandi.</s>
+                      <s xml:id="xkddy2g3z3">Eingin møguleiki er at standa í stað.</s>
+                      <s xml:id="igwhytckgl">Verður eingin fólkavøkstur, kann skjót minking gera av við livimøguleikarnar, tí fólk fer hagar, fólk longu er.</s>
+                    </p>
+                    <p>
+                      <s xml:id="fz7wisyhr4">Føroyar eru í harðari kapping við onnur samfeløg um alt tað tilfeingi, sum skal tryggja vøkstur og trivnað í framtíðini.</s>
+                      <s xml:id="xmincsnt5i">Hetta tilfeingið er fyrst og fremst útbúgvið og skapandi fólk.</s>
+                      <s xml:id="atvprlvbcj">Hesi fólk fara hagar, sum teirra líkar longu eru, og tí eru væl mentir metropolar væl fyri í kappingini.</s>
+                    </p>
+                    <p>
+                      <s xml:id="crhnshem2p">Tað merkir kortini ikki, at stóru metropolarnir eru einasti møguleikin.</s>
+                      <s xml:id="sge7jf3b4i">Føroyar kunnu verða ein heilt serligur blettur í heiminum, sum kann standa summum fremst í huga vegna sínar serligu dygdir.</s>
+                      <s xml:id="cirkz43p6x">Okkara fremsta aktiv er okkara egna fólk, men uttan millumtjóða samstarv og íkast frá fólki uttaneftir er framtíðin ikki bjørt.</s>
+                      <s xml:id="mezqk7jgbe">Tað besta vit kunnu gera, er at gera hetta pinkusamfelagið so attraktivt sum til ber fyri tey, sum búgva her, eins og fyri tey, sum kunnu hugsast at búseta seg her.</s>
+                    </p>
+                    <p>
+                      <s xml:id="eqqt2lnu4d">Vit eiga øll høvuðsstaðin.</s>
+                      <s xml:id="chy5l6y5ap">Hann eigur avgerandi leiklutin at ganga á odda í vinnuligu, búskaparligu, mentanarligu og sosialu menningini í Føroyum, og hann tænir øllum føroyingum.</s>
+                      <s xml:id="fig6finjej">Gott samskifti og ferðasamband tryggja, at høvuðsstaðurin ikki er fjarur frá nøkrum føroyingi, men heldur grannabýurin hjá øllum landsins borgarum, sum bjóðar øllum at lyfta uppgávurnar í felag.</s>
+                    </p>
+                  </div>
+                  <div>
+                    <head rend="bold">Fortreytir fyri menning</head>
+                    <pb n="4"/>
+                    <p>
+                      <s xml:id="mmrq3lrmnp"><hi rend="italic">Kunnleika, altjóða samstarv og trivnað</hi> meta vit saman við virkisfýsni at vera fremstu fortreytirnar fyri, at menningin av føroyska samfelagnum kann eydnast væl.</s>
+                      <s xml:id="gsd5uchsgq">Høvuðsstaðurin skal tryggja, at Føroyar kunnu kappast við metropolarnar í grannalondunum um hesar fortreytir – og soleiðis eisini um tey komandi ættarliðini.</s>
+                    </p>
+                    <p>
+                      <s xml:id="d43sm6xpyg">Kunnleiki og førleikar eru hópaðir í tí menniskjatilfeingi og teirri sosialu organisatión, sum gerst alsamt meira avgerandi grundarlagið undir lívførari virðisskapan.</s>
+                      <s xml:id="bxqmrdokxv">Samfeløg, sum meðvitað og við dirvi gera íløgur í kunnleika og førleikamenning fara at hava bestu úrslitini.</s>
+                      <s xml:id="nxufcjvipx">Altjóða integratión er sjálv farleiðin, sum skal flyta okkum hendur, hugskot, førleika og kapital uttaneftir, ið fara at hava avgerandi týdning fyri nýskapan og tillaging.</s>
+                      <s xml:id="m3utk7oc7g">Altjóða samstarv gerst beinleiðis integratión, tá regluverk, tøkni og kunnleiki her heima eru eins og tey eru í mest framkomna partinum av heiminum.</s>
+                      <s xml:id="u36sfqos5k">Trivnaðurin fevnir m.a. um tað blíða, forvitna og fevnandi tolsemið, sum setur ymisk fólk í samband við hvørt annað.</s>
+                      <s xml:id="s7kiyb46qw">Trivnaður er eisini alt tað natúrliga, arkitektoniska og sosiala rúmið, sum føroyingar skulu hava at virka í.</s>
+                    </p>
+                  </div>
+                  <div>
+                    <head rend="bold">Framtíðarmyndin</head>
+                    <p>
+                      <s xml:id="dsomzw4nyn">Vit ímynda okkum okkara høvuðsstað sum eina miðstøð fyri lærdómssetri og vinnumenning.</s>
+                      <s xml:id="gkzj5qxxsv">Á úrvaldum økjum skara lærustovnar okkara so framúr, at eisini lesandi, undirvísarar og granskarar uttaneftir leita sær hendaveg at taka lut í bæði skúlaskapi, gransking og vinnumenning.</s>
+                    </p>
+                    <p>
+                      <s xml:id="oubt23rtf2">Við støði í vitan, vinnuligum royndum, góðum førleikum og sterkari mentan blóma fyritøkur og arbeiðspláss innan nýggjar vinnugreinar kring skúlaumhvørvið og universitetið, sum seta sær stór mál og leggja dent á skapan, íverkseting og handilsskap.</s>
+                      <s xml:id="zjujv3bcnx">Í kjalavørrinum av tí blóma framkomnar stuðulstænastur og tænastur, sum fremja lív millum bæði íbúgvar og vitjandi.</s>
+                      <s xml:id="hqrzk72fmc">Í okkara høvuðsstaði eru gróðrarlíkindini tí góð hjá bæði nýggjum vinnum, fyritøkum uttaneftir og virkjum, sum hava djúpari røtur her.</s>
+                      <s xml:id="phmda7vsfw">Hesar vinnur røkka sjálvt teimum fjarastu marknaðunum kring knøttin.</s>
+                      <s xml:id="yuv2etgswr">Eitt sterkt vinnulív leggur soleiðis lunnar undir framburð og vælferð.</s>
+                    </p>
+                    <p>
+                      <s xml:id="uuciota573">Høvuðsstaðurin hevur ein bæði sterkan og tiltiknan mentanarpall, sum á mongum økjum kappast við umheimin í dygd, um enn ikki í vavi.</s>
+                      <s xml:id="r7z45vtd53">Tónlist, myndlist, leiklist og onnur list blóma á ein hátt, so bæði leikfólk og úrmælingar kunnu troyta sína skapanargleði og menna síni evni.</s>
+                      <s xml:id="wtvekzpmxi">Umstøðurnar at spæla leikir og hava konsertir skara framúr í dygd, sniði og originaliteti í góðum samsvari við allan høvuðsstaðin.</s>
+                      <s xml:id="ewnupwu3tu">Tær savna allar føroyingar og gera okkum ernar, og tær draga at sær bæði gitin listafólk og kræsið publikum uttan úr heimi.</s>
+                      <s xml:id="tcqj4qbbe2">Sama ger seg galdandi innan ítróttina.</s>
+                    </p>
+                    <p>
+                      <s xml:id="srq7kos3zj">Alt hetta kemst av, at í okkara høvuðsstaði búgva og virka lið um lið allir samfelagsbólkar, øll ættarlið og fólk úr nógvum ymiskum londum.</s>
+                      <s xml:id="qxppzmzgqw">Ungdómurin er <pb n="5"/> sjónligur í býarmyndini, og alskyns tungumál hoyrast á gøtuni.</s>
+                      <s xml:id="f5inn2vpom">Vit hava valt at búgva her, tí at her eru nakrir spennandi og øðrvísi møguleikar.</s>
+                      <s xml:id="vt5povpgc5">Í okkara høvuðsstaði trívast øll, sum - hvør við sínum gávum - ynskja at menna Føroyar, sama um tey altíð hava búð her, eru heimafturkomnir útisetar ella einaferð hava verið fremmandafólk.</s>
+                    </p>
+                    <p>
+                      <s xml:id="pbj3wuu6i7">Eitt fevnandi tolsemi og eitt opið forvitni knýtir bond millum okkum øll, sama hvussu ymisk, vit eru, og uttan mun til, hvussu vit velja at skipa okkara sosiala lív.</s>
+                      <s xml:id="z55jn6s6uv">Tað er hetta umhvørvið, sum styrkir og mennir tey mentanarligu virðini eins væl og tey vinnuligu.</s>
+                      <s xml:id="n6mq5rfrir">Øll kenna seg eins trygg, fræls og eggjað til skapan.</s>
+                      <s xml:id="ihchjd7sr2">Okkara høvuðsstaður skarar framúr, tá tað ræður um at hýsa ymiskleikunum.</s>
+                    </p>
+                    <p>
+                      <s xml:id="zv35egoeeg">Til tess at rúma hesum er okkara høvuðsstaður væl umhugsaður og skipaður í einum strembandi býarplani við samanspæli millum vakran og spennandi arkitektur, eina livandi miðbýarkjarnu, ein væl varðveittan gamlan býarpart og náttúruna.</s>
+                      <s xml:id="k5ftxwz26l">Við einum ósvikaligum og framtíðartryggjaðum undirstøðukervi er hann eisini væl knýttur at restini av landinum og umheiminum – bæði ferðsluliga og elektroniskt.</s>
+                      <s xml:id="tbqkrypshl">Afturat estetikkinum og miðvísa logistikkinum umboðar hann eisini burðardygd, bæði búskaparliga, sosialt og umhvørvisliga.</s>
+                      <s xml:id="iowelhly6a">Hetta skapar borgarunum trivnað, vinnuni gróðrarlíkindi og okkara høvuðsstaði og landinum øllum sóma og gott altjóða umdømi.</s>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <label rend="bold" place="margin">39/10</label>
+            <div type="case" id="tb-39-10">
+              <head rend="bold underline">2009-3026 <lb/> Ásetan av fundardøgum býráðsins fyri 2010</head>
+              <p>
+                <seg>Uppskot frá umsitingini til fundadagar:</seg>
+              </p>
+              <list rend="simple">
+                <item>28. januar</item>
+                <item>25. februar</item>
+                <item>18. mars</item>
+                <item>22. apríl</item>
+                <item>20. mai</item>
+                <item>24. juni</item>
+                <item>16. september</item>
+                <item>21. oktober</item>
+                <item>18. november</item>
+                <item>16. desember</item>
+              </list>
+              <p>
+                <label rend="bold">Býráðið 17. desember 2009:</label>
+                <s xml:id="okg5kdms2w">Einmælt samtykt.</s>
+              </p>
+              <p>
+                <label>- </label>
+                <s xml:id="zg7gjow65k">Fundurin 22. apríl og 18. november verður avlýstur.</s>
+                <s xml:id="xrozqzeqi3">Ístaðin verður eyka fundur 20. apríl og 25. november 2010.</s>
+              </p>
+              <p>
+                <label rend="bold">Býráðið 18. mars 2010:</label>
+                <s xml:id="kws2pewwze">Samtykt uttan atkvøðugreiðslu.</s>
+              </p>
+            </div>
+            <pb n="5"/>
+            <label rend="bold" place="margin">40/10</label>
+            <div type="case" id="tb-40-10">
+              <head rend="bold underline">2009-0718 <lb/> Bátapláss á Gomlurætt.</head>
+              <div>
+                <p>
+                  <s xml:id="fhsla2ziif">Havnin á Gomlurætt er ein landshavn, sum verður umsitin av Landsverk.</s>
+                </p>
+                <p>
+                  <s xml:id="fnhx557lho">Umleið 9 bátar, sum í høvuðsheitum eru heimahoyrandi í Kirkjubø/Velbastað, hava ligið fyri teym á Gomlurætt, sum teir sjálvir hava lagt út og uttan góðkenning frá Landsverk.</s>
+                </p>
+                <p>
+                  <s xml:id="felew7xtan">Landsverk hevur givið boð til bæði teir bátarnar sum standa á landi, og teir sum liggja fyri teym, um at teir skulu flyta burtur.</s>
+                </p>
+                <p>
+                  <s xml:id="pgidpdrkm6">Tað eru 20 bátar úr Kirkjubø/Velbastað/Norðadali, sum hava søkt um bátapláss, og sum standa á bíðilista.</s>
+                  <s xml:id="lgt3bwgodd">Av teimum 20 bátunum, eru tað 5 bátar, sum nú liggja á Gomlurætt.</s>
+                  <s xml:id="hobo2sffmd">4 bátar, sum antin liggja við teym ella standa á landi, hava onga umsókn um bátapláss.</s>
+                </p>
+                <p>
+                  <s xml:id="c6abo6u64l">Sum ein fylgja av at bátarnir eru vístir burtur, hevur samskifti verið við Landsverk, hvat ein møgulig loysn kundi verið.</s>
+                </p>
+                <p>
+                  <seg>Úrslitið av samráðingunum við Landsverk eru m.a. at:</seg>
+                </p>
+                <list rend="bulleted">
+                  <item>Tórshavnar kommuna kann leggja flótibrúgvar út, so pláss er fyri umleið 16 bátaplássum</item>
+                  <item>At 25 ára leigusáttmáli verður gjørdur</item>
+                  <item>At leigumálið eisini umfatar umleið 3.000 m2 á landi.</item>
+                  <item>At Tórshavnar kommuna ger allar neyðugar íløgur og viðlíkahald</item>
+                  <item>At árliga leiguupphæddin, íroknað bátabrúnna til ferðafólkabátar, sum áður er løgd út, verður kr. 60.000,-</item>
+                </list>
+                <p>
+                  <s xml:id="k5zsx4tnqo">Inntøkurnar fyri útleigu av 16 bátaplássum er mettur til kr.32.000,- árliga.</s>
+                </p>
+                <p>
+                  <s xml:id="mkcjih5vsw">Íløgan í bátaplássini er lutfalsliga lítil, tí vit kunnu leggja bátabrúgvar í eina verðandi havn, men koma útreiðslurnar so ístaðin sum leigukostnaður til Landsverk.</s>
+                </p>
+                <p>
+                  <s xml:id="pe3dm2pctl">Tað er stórur munur á flóð og fjøru á Gomlurætt, og tað ger tað kostnaðarmikið at gera ein fasta brúgv, og verður tað tí mett, at fragasta loysnin er at leggja flótibrúgvar út.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Íløgukostnaður:</head>
+                <!-- table omitted -->
+                <p>
+                  <s xml:id="w23uvpxf3v">Um økið á landið, sum liggur upp at bátaplássunum og er umleið 3.000 m2, skal brúkast til at seta bátar á, er neyðugt at planera, drena og asfaltera økið, og er tað tá mett at kosta kr.900.000,-.</s>
+                </p>
+                <p>
+                  <s xml:id="zr5zthx7ez">Tað er Tórshavnar kommuna, sum fíggjar íløgur í bátahavnir meðan tað sambært kommunustýrisskipanini er Tórshavnar havn, sum stendur fyri rakstrinum av bátahavnum, sum skal hvíla í sær sjálvum.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Tilmæli frá havnameistaranum:</head>
+                <p>
+                  <s xml:id="qr2jojrzmw">Mælt verður til at taka undir við uppskotinum til leigusáttmála við Landsverk, og at leiguútreiðslurnar verða goldnar sum ein partur av íløgukostnaðinum til bátahavnir.</s>
+                </p>
+                <p>
+                  <s xml:id="i3xzckp7ts">Eisini verður mælt til at játta kr. 660.000,- til íløgur í flótibrúgv við bummum, og at plássini verða, í fyrsta lagi, leiga til umsøkjarar úr Kirkjubø, Velbastað, Syðradali og Norðadali, eftir aldri á innkomnum umsóknum.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Havnarnevndin 15. mars 2009:</head>
+                <p>
+                  <s xml:id="yk4dhidzla">Samtykt at taka undir við tilmælinum.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Fíggjarnevndin 16. mars 2009:</head>
+                <p>
+                  <s xml:id="bdgwalyf74">Samtykt at mæla býráðnum til at taka undir við havnarnevndini at fíggja av konto 90.</s>
+                </p>
+              </div>
+              <div>
+                <head rend="bold">Býráðið 19. mars 2009:</head>
+                <p>
+                  <s xml:id="qn7xwk43p2">Einmælt samtykt.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title type="main">Kunngerð um parkering í Tórshavnar kommunu</title>
+        </titleStmt>
+        <sourceDesc>
+          <bibl>
+            <title level="a" type="main">Kunngerð um parkering í Tórshavnar kommunu</title>
+            <author>
+              <orgName>Føroya Landfúti</orgName>
+            </author>
+            <publisher>
+              <orgName>Dimmalætting</orgName>
+            </publisher>
+            <publisher>
+              <orgName>Føroya Landfúti</orgName>
+            </publisher>
+            <idno type="url">https://www.torshavn.fo/media/qj2puaof/kunnger%C3%B0-um-parkering-%C3%AD-t%C3%B3rshavnar-kommunu-2007.pdf</idno>
+            <ref type="source" target="https://www.torshavn.fo/media/qj2puaof/kunnger%C3%B0-um-parkering-%C3%AD-t%C3%B3rshavnar-kommunu-2007.pdf">Original URL</ref>
+            <date type="accessed" when="2025-11-11"/>
+            <date when="2007-01-24">24. januar 2007</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
     <text>
       <body>
         <div>
