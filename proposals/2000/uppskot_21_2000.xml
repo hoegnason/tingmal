@@ -1,212 +1,364 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
-    <TEI xmlns="http://www.tei-c.org/ns/1.0">
-        <teiHeader>
-            <fileDesc>
-                <titleStmt>
-                    <title>LM-021/2000: Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</title>
-                </titleStmt>
-                <publicationStmt>
-                    <publisher>Rani Høgnason Hansen</publisher>
-                    <idno type="url">https://github.com/hoegnason/tingmal</idno>
-                    <availability status="free">
-                        <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
-                        <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
-                        <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
-                    </availability>
-                    <date when="2025-11-18" />
-                </publicationStmt>
-                <notesStmt>
-                    <note />
-                </notesStmt>
-                <sourceDesc>
-                    <bibl type="parliamentary_document">
-                        <publisher>Føroya Løgting</publisher>
-                        <author>
-                            <persName>Finnbogi Ísakson</persName>
-                            <roleName>løgtingsformaður</roleName>
-                        </author>
-                        <ref target="https://www.logting.fo/documents/6387" />
-                        <note type="source_format">PDF document, machine-readable text</note>
-                        <date when="2000-12-01">1. desember 2000</date>
-                    </bibl>
-                </sourceDesc>
-            </fileDesc>
-            <encodingDesc>
-                <editorialDecl>
-                    <correction>
-                        <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
-                    </correction>
-                    <segmentation>
-                        <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
-                    </segmentation>
-                </editorialDecl>
-            </encodingDesc>
-        </teiHeader>
-        <text>
-            <body>
-                <pb n="1" />
-                <div>
-                    <ab rend="bold">
-                        <persName>Finnbogi Ísakson <lb /><roleName>løgtingsformaður</roleName></persName>
-                    </ab>
-                    <ab rend="bold">Løgtingið</ab>
-                    <space type="vertical" />
-                    <head rend="bold">Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</head>
-                    <space type="vertical" />
-                    <ab rend="bold center">Uppskot <lb /> til <lb /> samtyktar</ab>
-                    <p>
-                        <s>Løgtingið tekur til eftirtektar viðløgdu frágreiðing frá nevndini, sum sambært § 19 í stýrisskipanarlógini var sett at kanna møguligar óregluligar politiskar og umsitingarligar avgerðir frá 1980 og frameftir.</s>
-                    </p>
-                    <div>
-                        <head rend="bold">Viðmerkingar:</head>
-                        <p>
-                            <s>Í januar mánaði 1995 løgdu átta tingmenn, umboðandi allar flokkar á tingi, uppskot fram um kanning av møguligum óregluligum og umsitingarligum avgerðum frá 1980 og frameftir.</s>
-                        </p>
-                        <p>
-                            <s>17. februar sama ár hevði tingið 1.viðgerð av uppskotinum, og málið fór í rættarnevndina, sum legði fram álit 1. juni.</s>
-                        </p>
-                        <p>
-                            <s>Ein samd rættarnevnd tók undir við málinum og setti fram soljóðandi uppskot til samtyktar:</s>
-                        </p>
-                        <p>
-                            <s>Løgtingið samtykkir at seta eina tingnevnd av 3 løgtingsmonnum, samsvarandi løgtingslóg nr. 1 frá 13.05.1948 um stýrisskipan Føroya í sermálum, sum seinast broytt við løgtingslóg nr. 2 frá 02.01.1985 § 18 (eftir ólavsøkudag 1995 verður heimildin fyri kanningarnevndina løgtingslóg nr. 103 frá 26.07.1994 um stýrisskipan Føroya § 19).</s>
-                            <s>Tey trý umboðini í nevndini verða vald av tinginum samb. uppskot.</s>
-                            <s>Við støði í teim málum og hendingum, sum m.a. eru lýstar í løgtings- og landsgrannskoðarafrágreiðingunum frá 1980 og frameftir, skal nevndin geva eina frágreiðing, sum verður løgd fyri løgtingi til støðutakan.</s>
-                        </p>
-                        <p>
-                            <s>2. viðgerð var 1. juni 1995, og uppskotið varð samtykt við 18 atkvøðum, eingin ímóti, við teirri broyting, at 5 løgtingslimir vórðu valdir í nevndina.</s>
-                        </p>
-                        <p>
-                            <s>Nevndin hevði sín seinasta fund í apríl 1998, av tí at løgtingsval var útskrivað, og í september mánaði sama ár varð nýggj nevnd vald, hesaferð mannað við 6 limum umboðandi allar flokkar á tingi.</s>
-                        </p>
-                        <p>
-                            <s>Nevndin var liðug við frágreiðingina á sumri ár 2000, og í november mánaði var hon í prentaðum líki handað løgtingsformanninum sum umboð fyri Løgtingið.</s>
-                        </p>
-                        <p>
-                            <s>Nú hevur almenningurin eins og allir løgtingsmenn havt høvi til at lesa frágreiðingina, og er tíðin nú komin til, at Løgtingið umrøður frágreiðingini.</s>
-                        </p>
-                        <pb n="2" />
-                        <p>
-                            <s>Ógreiða hevur verið um, á hvønn hátt frágreiðingin skal leggjast fyri tingið til støðutakan, og hevur formansskapur tingsins tí gjørt av, at løgtingsformaðurin leggur fyri tingið uppskot til samtyktar.</s>
-                        </p>
-                    </div>
-                    <div type="signature">
-                        <closer>
-                            <dateline>
-                                <hi class="signature-date" rend="bold center">
-                                    <name type="place">Á Løgtingi</name>, tann <date when="2000-12-01">1. desember 2000</date></hi>
-                            </dateline>
-                            <signed rend="bold center">
-                                <persName>Finnbogi Ísakson <lb /><roleName>løgtingsformaður</roleName></persName>
-                            </signed>
-                        </closer>
-                    </div>
-                </div>
-                <ab rend="italic">1. viðgerð 12. desember 2000. Málið beint í rættarnevndina, sum tann 30. januar 2001 legði fram soljóðandi</ab>
-                <div>
-                    <!-- FROM: https://www.logting.fo/logtingsmal/logtingsmal00/vanlig%20tingmal/021.00%20um%20fragreiding%20fra%20grein%2019%20nevndini%20um%2080arini.htm#Upprunauppskot -->
-                    <head rend="bold center">Álit</head>
-                    <p>
-                        <s>Løgtingsformaðurin hevur lagt uppskotið fram tann 5. desember 2000, og eftir 1. viðgerð tann 12. desember 2000 er tað beint rættarnevndini.</s>
-                    </p>
-                    <p>
-                        <s>Nevndin hevur viðgjørt málið á fundum 4., 11., 16. og 25. januar 2001.</s>
-                    </p>
-                    <p>
-                        <seg>Undir nevndarviðgerðini hevur nevndin umrøtt spurningarnar, um</seg>
-                        <list rend="bulleted">
-                            <item>revsirættarlig stig skulu verða tikin ímóti einstaklingum og</item>
-                            <item>politisk stig skulu verða tikin ímóti persónum, sum sita í almennum álitisstørvum vegna atburð teirra í 80’unum</item>
-                        </list>
-                        <note>
-                            <s>Undir nevndarviðgerðini hevur nevndin umrøtt spurningarnar, um revsirættarlig stig skulu verða tikin ímóti einstaklingum og politisk stig skulu verða tikin ímóti persónum, sum sita í almennum álitisstørvum vegna atburð teirra í 80’unum.</s>
-                        </note>
-                    </p>
-                    <p>
-                        <s>Nevndin tekur undir við, at Løgtingið tekur til eftirtektar frágreiðingina frá nevndini, sum sambært § 19 í stýrisskipanarlógini var sett at kanna møguligar óregluligar politiskar og umsitingarligar avgerðir frá 1980 og frameftir.</s>
-                    </p>
-                    <p>
-                        <seg>Nevndin er samd um, at § 19 nevndin hevur fylgt tí málsetningi, sum henni varð settur í uppskotinum um kanning av 80unum:</seg>
-                        <quote>
-                            <list rend="numbered">
-                                <label>1)</label>
-                                <item>
-                                    <p>
-                                        <s>Løgtingið samtykkir at seta 3. manna tingnevnd samb.</s>
-                                        <s>grein 18 í stýrisskipannarlógini at ganga ígjøgnum og kanna møgulig óreglulig viðurskifti í politiskum og umsitingarligum avgerðum, og um staðfestast kann ein politisk/umsitingarlig ábyrgd í hesum sambandi.</s>
-                                    </p>
-                                </item>
-                                <label>2)</label>
-                                <item>
-                                    <p>
-                                        <s>Kanningin verður grundað á tær upplýsingar, sum komnar eru fram í frágreiðingunum frá landsgrannskoðaranum og løgtingsgrannskoðarunum.</s>
-                                    </p>
-                                </item>
-                                <label>3)</label>
-                                <item>
-                                    <p>
-                                        <s>Tá kanningin er gjørd, verður úrslitið lagt fyri løgtingið at taka støðu til.</s>
-                                    </p>
-                                </item>
-                                <label>4)</label>
-                                <item>
-                                    <p>
-                                        <s>Fíggjarligur stuðul verður veittur nevndini til tess at útvega neyðuga sakkøna hjálp til kanningararbeiðið.</s>
-                                    </p>
-                                </item>
-                            </list>
-                        </quote>
-                    </p>
-                    <p>
-                        <seg>(<s>Í originalálitinum er endurgivin arbeiðssetningurin hjá § 18-nevndini, sum varð sett sambært løgtingsmáli nr. 37/1994.</s></seg>
-                        <seg>Undir viðgerðini vísti rættarnevndarformaðurin á, at rættari hevði verið at endurgivið arbeiðssetningin í løgtingsmáli nr. 21/2000, sum er soljóðandi:</seg>
-                        <quote>
-                            <p>
-                                <s>Løgtingið samtykkir samsvarandi § 19 í stýrisskipanarlógini at seta tingnevnd við 6 løgtingsmonnum, einum úr hvørjum flokki á tingi.</s>
-                            </p>
-                            <p>
-                                <s>Við støði í teimum málum og hendingum, sum m.a. eru lýstar í løgtings- og landsgrannskoðarafrágreiðingum frá 1980 og frameftir, skal nevndin geva eina frágreiðing, sum verður løgd fyri løgtingið til støðutakan.</s>
-                                <seg>).</seg>
-                            </p>
-                        </quote>
-                    </p>
-                    <p>
-                        <s>Frágreiðingin um 80ini lýsir, hvat tað vóru fyri tættir, bæði fyrisitingarliga og politiskt, sum førdu til, at samfelagsskútan kollsigldi.</s>
-                    </p>
-                    <p>
-                        <s>Øll málini, sum viðgjørd eru í frágreiðingini, eru fyrnað, og tí er ikki grundarlag fyri at fara rættarliga vegin við nøkrum av teimum, og hevur nevndin tikið tað til eftirtektar.</s>
-                    </p>
-                    <p>
-                        <s>Tað, at fyrningarfreistin er farin, útilokar tí bæði at gera rættarliga ábyrgd galdandi og møguleikan hjá umrøddu persónunum at verja seg.</s>
-                    </p>
-                    <p>
-                        <seg>Tí er nevndin samd við niðurstøðuni í kanningini á síðu 32, har sagt verður:</seg>
-                        <quote>
-                            <seg>"Hildið verður, at neyvan er grundarlag fyri aðrari avleiðing vegna heimildarloysi enn, at tað harðliga verður funnist at veiku, tilvildarligu og ófullfíggjaðu politisku og umsitingarligu støðuni í 80-árunum. Stórt eftiransni eigur at verða víst á lóggávuøkinum hereftir."</seg>
-                        </quote>
-                        <note>
-                            <s>Tí er nevndin samd við niðurstøðuni í kanningini á síðu 32, har sagt verður: "Hildið verður, at neyvan er grundarlag fyri aðrari avleiðing vegna heimildarloysi enn, at tað harðliga verður funnist at veiku, tilvildarligu og ófullfíggjaðu politisku og umsitingarligu støðuni í 80-árunum. Stórt eftiransni eigur at verða víst á lóggávuøkinum hereftir."</s>
-                        </note>
-                    </p>
-                    <p>
-                        <s>Nevndin ásannar, at ávís stig eru tikin rætta vegin, hvat viðvíkjir lóggávu og ábyrgdarbýti í hesum samanhangi.</s>
-                    </p>
-                    <p>
-                        <s>Nevndin er samd um at heita á landsstýrið um at taka stig til, at øll lóggáva, sum kann føra til somu mistøk, verður endurskoðað við tí fyri eyga at binda um heilan fingur.</s>
-                    </p>
-                    <p>
-                        <s>Eisini er nevndin samd um, at fyrisitingarligar reglur eiga at vera, sum byggja uppundir sama málsetning.</s>
-                    </p>
-                    <p>
-                        <s>Nevndin heldur tað vera týdningarmikið, at skeivleikar og mistøk, ið eru gjørd, verða ikki gloymd, men verður lærdómur fyri eftirtíðina.</s>
-                        <s>Um so er, hevur § 19 frágreiðingin loyst eina týðandi uppgávu.</s>
-                    </p>
-                    <ab rend="italic">
-                        <seg>2. viðgerð 1. februar 2001. Uppskot til samtyktar samtykt 26-1-0.</seg>
-                        <s>Málið avgreitt.</s>
-                    </ab>
-                </div>
-            </body>
-        </text>
-    </TEI>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>LM-021/2000: Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+          </availability>
+          <date when="2025-11-18" />
+        </publicationStmt>
+        <notesStmt>
+          <note />
+        </notesStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName>Finnbogi Ísakson</persName>
+              <roleName>løgtingsformaður</roleName>
+            </author>
+            <ref target="https://www.logting.fo/documents/6387" />
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2000-12-01">1. desember 2000</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+          </correction>
+          <segmentation>
+            <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+          </segmentation>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1" />
+        <div>
+          <ab rend="bold">
+            <persName>Finnbogi Ísakson <lb /><roleName>løgtingsformaður</roleName></persName>
+          </ab>
+          <ab rend="bold">Løgtingið</ab>
+          <space type="vertical" />
+          <head rend="bold">Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</head>
+          <space type="vertical" />
+          <ab rend="bold center">Uppskot <lb /> til <lb /> samtyktar</ab>
+          <p>
+            <s>Løgtingið tekur til eftirtektar viðløgdu frágreiðing frá nevndini, sum sambært § 19 í stýrisskipanarlógini var sett at kanna møguligar óregluligar politiskar og umsitingarligar avgerðir frá 1980 og frameftir.</s>
+          </p>
+          <div>
+            <head rend="bold">Viðmerkingar:</head>
+            <p>
+              <s>Í januar mánaði 1995 løgdu átta tingmenn, umboðandi allar flokkar á tingi, uppskot fram um kanning av møguligum óregluligum og umsitingarligum avgerðum frá 1980 og frameftir.</s>
+            </p>
+            <p>
+              <s>17. februar sama ár hevði tingið 1.viðgerð av uppskotinum, og málið fór í rættarnevndina, sum legði fram álit 1. juni.</s>
+            </p>
+            <p>
+              <s>Ein samd rættarnevnd tók undir við málinum og setti fram soljóðandi uppskot til samtyktar:</s>
+            </p>
+            <p>
+              <s>Løgtingið samtykkir at seta eina tingnevnd av 3 løgtingsmonnum, samsvarandi løgtingslóg nr. 1 frá 13.05.1948 um stýrisskipan Føroya í sermálum, sum seinast broytt við løgtingslóg nr. 2 frá 02.01.1985 § 18 (eftir ólavsøkudag 1995 verður heimildin fyri kanningarnevndina løgtingslóg nr. 103 frá 26.07.1994 um stýrisskipan Føroya § 19).</s>
+              <s>Tey trý umboðini í nevndini verða vald av tinginum samb. uppskot.</s>
+              <s>Við støði í teim málum og hendingum, sum m.a. eru lýstar í løgtings- og landsgrannskoðarafrágreiðingunum frá 1980 og frameftir, skal nevndin geva eina frágreiðing, sum verður løgd fyri løgtingi til støðutakan.</s>
+            </p>
+            <p>
+              <s>2. viðgerð var 1. juni 1995, og uppskotið varð samtykt við 18 atkvøðum, eingin ímóti, við teirri broyting, at 5 løgtingslimir vórðu valdir í nevndina.</s>
+            </p>
+            <p>
+              <s>Nevndin hevði sín seinasta fund í apríl 1998, av tí at løgtingsval var útskrivað, og í september mánaði sama ár varð nýggj nevnd vald, hesaferð mannað við 6 limum umboðandi allar flokkar á tingi.</s>
+            </p>
+            <p>
+              <s>Nevndin var liðug við frágreiðingina á sumri ár 2000, og í november mánaði var hon í prentaðum líki handað løgtingsformanninum sum umboð fyri Løgtingið.</s>
+            </p>
+            <p>
+              <s>Nú hevur almenningurin eins og allir løgtingsmenn havt høvi til at lesa frágreiðingina, og er tíðin nú komin til, at Løgtingið umrøður frágreiðingini.</s>
+            </p>
+            <pb n="2" />
+            <p>
+              <s>Ógreiða hevur verið um, á hvønn hátt frágreiðingin skal leggjast fyri tingið til støðutakan, og hevur formansskapur tingsins tí gjørt av, at løgtingsformaðurin leggur fyri tingið uppskot til samtyktar.</s>
+            </p>
+          </div>
+          <div type="signature">
+            <closer>
+              <dateline>
+                <hi class="signature-date" rend="bold center">
+                  <name type="place">Á Løgtingi</name>, tann <date when="2000-12-01">1. desember 2000</date></hi>
+              </dateline>
+              <signed rend="bold center">
+                <persName>Finnbogi Ísakson <lb /><roleName>løgtingsformaður</roleName></persName>
+              </signed>
+            </closer>
+          </div>
+        </div>
+        <ab rend="italic">1. viðgerð 12. desember 2000. Málið beint í rættarnevndina, sum tann 30. januar 2001 legði fram soljóðandi</ab>
+        <div>
+          <!-- FROM: https://www.logting.fo/logtingsmal/logtingsmal00/vanlig%20tingmal/021.00%20um%20fragreiding%20fra%20grein%2019%20nevndini%20um%2080arini.htm#Upprunauppskot -->
+          <head rend="bold center">Álit</head>
+          <p>
+            <s>Løgtingsformaðurin hevur lagt uppskotið fram tann 5. desember 2000, og eftir 1. viðgerð tann 12. desember 2000 er tað beint rættarnevndini.</s>
+          </p>
+          <p>
+            <s>Nevndin hevur viðgjørt málið á fundum 4., 11., 16. og 25. januar 2001.</s>
+          </p>
+          <p>
+            <seg>Undir nevndarviðgerðini hevur nevndin umrøtt spurningarnar, um</seg>
+            <list rend="bulleted">
+              <item>revsirættarlig stig skulu verða tikin ímóti einstaklingum og</item>
+              <item>politisk stig skulu verða tikin ímóti persónum, sum sita í almennum álitisstørvum vegna atburð teirra í 80’unum</item>
+            </list>
+            <note>
+              <s>Undir nevndarviðgerðini hevur nevndin umrøtt spurningarnar, um revsirættarlig stig skulu verða tikin ímóti einstaklingum og politisk stig skulu verða tikin ímóti persónum, sum sita í almennum álitisstørvum vegna atburð teirra í 80’unum.</s>
+            </note>
+          </p>
+          <p>
+            <s>Nevndin tekur undir við, at Løgtingið tekur til eftirtektar frágreiðingina frá nevndini, sum sambært § 19 í stýrisskipanarlógini var sett at kanna møguligar óregluligar politiskar og umsitingarligar avgerðir frá 1980 og frameftir.</s>
+          </p>
+          <p>
+            <seg>Nevndin er samd um, at § 19 nevndin hevur fylgt tí málsetningi, sum henni varð settur í uppskotinum um kanning av 80unum:</seg>
+            <quote>
+              <list rend="numbered">
+                <label>1)</label>
+                <item>
+                  <p>
+                    <s>Løgtingið samtykkir at seta 3. manna tingnevnd samb.</s>
+                    <s>grein 18 í stýrisskipannarlógini at ganga ígjøgnum og kanna møgulig óreglulig viðurskifti í politiskum og umsitingarligum avgerðum, og um staðfestast kann ein politisk/umsitingarlig ábyrgd í hesum sambandi.</s>
+                  </p>
+                </item>
+                <label>2)</label>
+                <item>
+                  <p>
+                    <s>Kanningin verður grundað á tær upplýsingar, sum komnar eru fram í frágreiðingunum frá landsgrannskoðaranum og løgtingsgrannskoðarunum.</s>
+                  </p>
+                </item>
+                <label>3)</label>
+                <item>
+                  <p>
+                    <s>Tá kanningin er gjørd, verður úrslitið lagt fyri løgtingið at taka støðu til.</s>
+                  </p>
+                </item>
+                <label>4)</label>
+                <item>
+                  <p>
+                    <s>Fíggjarligur stuðul verður veittur nevndini til tess at útvega neyðuga sakkøna hjálp til kanningararbeiðið.</s>
+                  </p>
+                </item>
+              </list>
+            </quote>
+          </p>
+          <p>
+            <seg>(<s>Í originalálitinum er endurgivin arbeiðssetningurin hjá § 18-nevndini, sum varð sett sambært løgtingsmáli nr. 37/1994.</s></seg>
+            <seg>Undir viðgerðini vísti rættarnevndarformaðurin á, at rættari hevði verið at endurgivið arbeiðssetningin í løgtingsmáli nr. 21/2000, sum er soljóðandi:</seg>
+            <quote>
+              <p>
+                <s>Løgtingið samtykkir samsvarandi § 19 í stýrisskipanarlógini at seta tingnevnd við 6 løgtingsmonnum, einum úr hvørjum flokki á tingi.</s>
+              </p>
+              <p>
+                <s>Við støði í teimum málum og hendingum, sum m.a. eru lýstar í løgtings- og landsgrannskoðarafrágreiðingum frá 1980 og frameftir, skal nevndin geva eina frágreiðing, sum verður løgd fyri løgtingið til støðutakan.</s>
+                <seg>).</seg>
+              </p>
+            </quote>
+          </p>
+          <p>
+            <s>Frágreiðingin um 80ini lýsir, hvat tað vóru fyri tættir, bæði fyrisitingarliga og politiskt, sum førdu til, at samfelagsskútan kollsigldi.</s>
+          </p>
+          <p>
+            <s>Øll málini, sum viðgjørd eru í frágreiðingini, eru fyrnað, og tí er ikki grundarlag fyri at fara rættarliga vegin við nøkrum av teimum, og hevur nevndin tikið tað til eftirtektar.</s>
+          </p>
+          <p>
+            <s>Tað, at fyrningarfreistin er farin, útilokar tí bæði at gera rættarliga ábyrgd galdandi og møguleikan hjá umrøddu persónunum at verja seg.</s>
+          </p>
+          <p>
+            <seg>Tí er nevndin samd við niðurstøðuni í kanningini á síðu 32, har sagt verður:</seg>
+            <quote>
+              <seg>"Hildið verður, at neyvan er grundarlag fyri aðrari avleiðing vegna heimildarloysi enn, at tað harðliga verður funnist at veiku, tilvildarligu og ófullfíggjaðu politisku og umsitingarligu støðuni í 80-árunum. Stórt eftiransni eigur at verða víst á lóggávuøkinum hereftir."</seg>
+            </quote>
+            <note>
+              <s>Tí er nevndin samd við niðurstøðuni í kanningini á síðu 32, har sagt verður: "Hildið verður, at neyvan er grundarlag fyri aðrari avleiðing vegna heimildarloysi enn, at tað harðliga verður funnist at veiku, tilvildarligu og ófullfíggjaðu politisku og umsitingarligu støðuni í 80-árunum. Stórt eftiransni eigur at verða víst á lóggávuøkinum hereftir."</s>
+            </note>
+          </p>
+          <p>
+            <s>Nevndin ásannar, at ávís stig eru tikin rætta vegin, hvat viðvíkjir lóggávu og ábyrgdarbýti í hesum samanhangi.</s>
+          </p>
+          <p>
+            <s>Nevndin er samd um at heita á landsstýrið um at taka stig til, at øll lóggáva, sum kann føra til somu mistøk, verður endurskoðað við tí fyri eyga at binda um heilan fingur.</s>
+          </p>
+          <p>
+            <s>Eisini er nevndin samd um, at fyrisitingarligar reglur eiga at vera, sum byggja uppundir sama málsetning.</s>
+          </p>
+          <p>
+            <s>Nevndin heldur tað vera týdningarmikið, at skeivleikar og mistøk, ið eru gjørd, verða ikki gloymd, men verður lærdómur fyri eftirtíðina.</s>
+            <s>Um so er, hevur § 19 frágreiðingin loyst eina týðandi uppgávu.</s>
+          </p>
+          <ab rend="italic">
+            <seg>2. viðgerð 1. februar 2001. Uppskot til samtyktar samtykt 26-1-0.</seg>
+            <s>Málið avgreitt.</s>
+          </ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>LM-021/2000: Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">This work is licensed under a Creative Commons Attribution 4.0 International License</licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an unofficial publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents) and §27 (public debate) exceptions of the Faroese Copyright Act.</p>
+          </availability>
+          <date when="2025-11-18" />
+        </publicationStmt>
+        <notesStmt>
+          <note />
+        </notesStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName>Lisbeth L. Petersen</persName>
+              <roleName>formaður</roleName>
+            </author>
+            <author>
+              <persName>Heini O. Heinesen</persName>
+            </author>
+            <author>
+              <persName>Eyðun Viderø</persName>
+            </author>
+            <author>
+              <persName>Jóannes Eidesgaard</persName>
+            </author>
+            <author>
+              <persName>Jákup Sverri Kass</persName>
+            </author>
+            <author>
+              <persName>Jenis av Rana</persName>
+            </author>
+            <author>
+              <persName>Hans Petur Weihe</persName>
+              <roleName>kanningarráðgevi</roleName>
+            </author>
+            <ref target="http://tilfar.lms.fo/logir/alit/2000.08%20Fr%C3%A1grei%C3%B0ing%20um%2080-%C3%A1rini.pdf" />
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2000-12-01">1. desember 2000</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p statrt="medium">Manual correction of OCR/extraction errors identified during PDF text extraction.</p>
+          </correction>
+          <segmentation>
+            <p statrt="medium">Questions segmented according to the numbered structure in source document. Background text has been divided into paragraphs and sentences.</p>
+          </segmentation>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1" />
+        <div>
+          <ab rend="bold right">Føroya Løgting §19-nevndin</ab>
+          <space type="vertical" />
+          <head rend="bold right">Frágreiðing <lb /> um 80-árini</head>
+          <pb n="9" />
+          <div>
+            <head>Inngangur</head>
+            <div>
+              <head rend="bold">§19-nevndin</head>
+              <p>
+                <s>Í 1995 setti Løgtingið eina tingnevnd við 5 tinglimum við tí endamáli at útgreina og lýsa tey viðurskifti, tær fyritreytir og framferðir, politiskt og umsitingarliga, sum hava verið atvoldin til skeivleikar og mistøk í 80-árunum.</s>
+              </p>
+              <p>
+                <s>Í nevndina vórðu vald: Atli Hansen, Jørgen Niclasen, Sverri Midjord, Heini O. Heinesen og Helena Dam á Neystabø.</s>
+              </p>
+              <p>
+                <s>Á fyrsta fundi í nevndini 2. oktober 1995 varð Atli Hansen valdur til formann og Jørgen Niclasen til næstformann.</s>
+              </p>
+              <p>
+                <s>Í november 1996 kom Jóannes Eidesgaard í nevndina fyri Sverra Midjord.</s>
+              </p>
+              <p>
+                <s>Henda nevnd hevði seinasta fund sín 20. apríl 1998, og nevndin gjørdi av, at ongin fundur skuldi vera fyri løgtingsvalið, og at tann nevndin, sum varð vald eftir valið, skuldi áseta nýggjan fund.</s>
+              </p>
+              <p>
+                <s>Í nýggju nevndina vórðu hesir løgtingslimir valdir: Heini O. Heinesen, Jørgen Niclasen, Jóannes Eidesgaard, Lisbeth L. Petersen, Jákup Sverri Kass og Jenis av Rana.</s>
+              </p>
+              <p>
+                <s>Á fundi 22. september 1998 varð Jørgen Niclasen valdur til formann og Jóannes Eidesgaard til næstformann.</s>
+              </p>
+              <p>
+                <s>Tá ið Jørgen Niclasen gjørdist landsstýrismaður, varð Eyðun Viderø valdur í hansara stað, og 7. januar 1999 skipaði nevndin seg av nýggjum.</s>
+                <s>Lisbeth L. Petersen varð vald til formann og Jákup Sverri Kass varð valdur til næstformann.</s>
+              </p>
+              <p>
+                <s>Juli til oktober 1999 hevði Jákup Sverri Kass farloyvi.</s>
+                <s>Hesa tíðina var Ronald Poulsen limur í nevndini.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Uppgávan</head>
+              <p>
+                <s>Uppgávan, ið §19-nevndin skuldi loysa, tyktist at vera stór og óavmarkað.</s>
+                <s>Nevndin skuldi „kanna 80-árini“ og skriva eina frágreiðing, sum skuldi verða løgd fyri Løgtingið til støðutakan.</s>
+                <s>Hetta skuldi byggja á mál og tilburðir, sum m.a. vóru lýst í løgtings- og landsgrannskoðanarfrágreiðingunum frá 1980 og frameftir.</s>
+              </p>
+              <p>
+                <s>Hetta var ógvuliga stór uppgáva.</s>
+                <s>Slík uppgáva hevur ikki verið loyst í Føroyum, og í Danmark var í 20. øld bert 1 fyridømi, ið kortini gagnaði ikki nevndini.</s>
+              </p>
+              <p>
+                <s>Fyrsta tiltakið hjá nevndini var sostatt at royna at avmarka uppgávuna og royna at útgreina og lýsa tær fyritreytir og framferðir, ið vóru atvoldin til trupulleikarnar, m.a. í 80-árunum.</s>
+                <s>Herundir kom m.a. almenna stuðulsskipanin, dagføring viðvíkjandi lóggávuverkinum, politiski førleikin, fyrisitingarligi førleikin, peningastovnarnir, ráðgevar.</s>
+                <s>Í hesum sambandi slapst ikki undan at vísa landskassastuðlinum, t.e. studninginum, lángevingini og veðhaldi til fiskivinnuna, serligan áhuga.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Arbeiði nevndarinnar</head>
+              <p>
+                <s>Nevndin hevur havt tilsamans 55 fundir.</s>
+                <s>Tilfarið, nevndarlimirnir hava havt høvi at lesa, hevur verið rúgvusmikið.</s>
+                <s>Nevnast kann m.a. gerðabøkur hjá Landsstýrinum, Fíggjarnevndini og Búskaparráðnum, árligu frágreiðingarnar upp ígjøgnum 80-árini frá „Det rådgivende udvalg vedrørende Færøerne“, løgtings- og landsgrannskoðanarfrágreiðingarnar, skjøl viðvíkjandi einstøkum málum, lóggávuna viðvíkjandi landskassastuðuli, lóggávuna viðvíkjandi roknskaparviðurskiftunum í landsumsitingini og á privata økinum.</s>
+              </p>
+              <p>
+                <s>Nevndin hevur heitt á fólk og fingið skrivligar frágreiðingar frá teimum, sum nevndin helt kundu geva upplýsingar um 80-árini og greiða frá umstøðunum í 80-árunum.</s>
+              </p>
+              <p>
+                <s>Nevndin hevur eisini havt fund við týðandi politikarar og umsitarar í 80-árunum.</s>
+                <s>Eisini fólk í bankaheiminum hava fingið skrivligar fyrispurningar frá nevndini.</s>
+              </p>
+              <p>
+                <s>Heldur onkur, at nógv fleiri áttu at verið spurd skrivliga og munnliga, so er nevndin samd í hesum, men nevndin var noydd at seta mark fyri kanningararbeiðinum.</s>
+              </p>
+              <p>
+                <s>Arbeiðið hevur verið drúgt.</s>
+                <s>Hetta kemst ikki bara av, at uppgávan var stór, men eisini tí nevndarlimirnir, bæði í fyrru og seinnu nevndini, hava havt aðrar uppgávur og onnur størv at røkja.</s>
+                <s>Eisini lá arbeiðið stilt í meira enn 1/2 ár í 1998, tí at løgtingsval var, og tá ið nýggj nevnd varð vald, høvdu flestu nevndarlimirnir, ið vóru nývaldir, úr at gera at kunna seg um rúgvumikla tilfarið, ið lá eftir fyrru nevndina.</s>
+              </p>
+              <p>
+                <s>Hans Petur Weihe, advokatur, hevur verið kanningarráðgevi bæði hjá fyrru og seinnu nevndini, og hansara hjálp hevur verið avgerandi táttur í kanningararbeiðinum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
