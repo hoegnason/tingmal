@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Løgtingssøga Føroya</title>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>Rani Høgnason Hansen</publisher>
+      <idno type="url">https://github.com/hoegnason/tingmal</idno>
+      <availability status="free">
+        <licence target="http://creativecommons.org/licenses/by/4.0/">
+          Creative Commons Attribution 4.0 International (CC BY 4.0)
+        </licence>
+        <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+        <p>Original content is used here under §9 (public documents).</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+        <title level="a" type="main">Løgtingssøga Føroya</title>
+        <publisher>Føroya Løgting</publisher>
+        <author>
+          <persName>Jóannes Patursson</persName>
+        </author>
+        <author>
+          <persName>A.W. Brøgger</persName>
+        </author>
+        <date when="1937">1937</date>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <text>
+    <front>
+      <space type="vertical" dim="vertical"/>
+      <ab rend="center italic">A. W. Brøgger :</ab>
+      <space type="vertical" dim="vertical"/>
+      <ab rend="bold center">HVUSSU FØROYAR</ab>
+      <ab rend="bold center">VÓRU BYGDAR</ab>
+      <space type="vertical" dim="vertical"/>
+      <ab rend="center">INNGONGD</ab>
+      <ab rend="center" style="font-size: 9pt;">TIL</ab>
+      <ab rend="center">LØGTINGSSØGU FØROYA</ab>
+      <space type="vertical" dim="vertical"/>
+      <ab rend="center" style="font-size: 9pt;">FØROYSKAÐ HEVUR</ab>
+      <ab rend="center italic">JÓANNES PATURSSON</ab>
+      <space type="vertical" dim="vertical"/>
+      <ab rend="center">FØROYA LØGTING GAV ÚT Í 1937</ab>
+      <ab rend="center" style="font-size: 9pt;">Í VARÐVEITSLU HJÁ</ab>
+      <ab rend="center">H. N JACOBSENS BÓKHANDLI, TÓRSHAVN</ab>
+      <ab rend="center" style="font-size: 9pt;">PRENTSMIÐJA H. N. JACOBSENS BÓKAHANDILS</ab>
+      <space type="vertical" dim="vertical"/>
+      <div>
+        <pb n="I"/>
+        <space type="vertical" dim="vertical"/>
+        <ab rend="center italic">Jóannes Patursson</ab>
+        <ab rend="center italic">tilegnes</ab>
+        <ab rend="center italic">denne bok i takknemlighet.</ab>
+        <space type="vertical" dim="vertical"/>
+      </div>
+      <div>
+        <pb n="II"/>
+        <space type="vertical" dim="vertical"/>
+        <head>Forord</head>
+        <p>
+          <seg><hi rend="bold">M</hi>ANUSKRIPTET til dette arbeide blev avsluttet <lb/> og innsendt i juni 1935.</seg>
+          <seg>På grunn av forskjellige <lb/> omstendigheter fremkommer det først nu i trykken.</seg>
+          <lb/>
+          <seg>Litteraturlisten stanser derfor ved 1935.</seg>
+          <seg>Jeg nytter <lb/> leiligheten til å takke Lagtinget og Lagtingets historiekomité <lb/> for det ærefulle og interessante hverv det ga mig.</seg>
+        </p>
+        <ab style="font-size: 9pt;">Oslo i juni 1937.</ab>
+        <space type="vertical" dim="vertical"/>
+        <ab rend="italic">A. W. Brøgger</ab>
+        <space type="vertical" dim="vertical"/>
+      </div>
+      <div>
+        <pb n="III"/>
+        <space type="vertical" dim="vertical"/>
+        <p style="font-size: 9pt;">
+          <s xml:id="f673mkaitf">Dr. Chr. Matras, ið hevur kannað eftir umsetingini og Richard <lb/> Long, kennara, ið hevur umfarið rættlesturin, veiti eg mína bestu tøkk.</s>
+        </p>
+        <ab style="font-size: 9pt;">Jóannes Patursson.</ab>
+        <space type="vertical" dim="vertical"/>
+      </div>
+      <div>
+        <pb n="IV"/>
+        <head>Formæli</head>
+        <p>
+          <!-- TODO: Note Føroyingar spelled wrong! -->
+          <s xml:id="h2bpnj2lzo">Føroya fornsøga er í royndini gjølla kannað, ið hvussu er mátað við teim bókmentum, sum longu í 17. øld fóru at vera í boði, og sum føroyingar sjálvir mest hava lagt til.</s>
+          <s xml:id="vgsxdt7eq3">Søguhugurin á fornminnum oyggjanna tók nógv at mennast í 18. øld, og hann bar sjónskan ávøkstur í fornfrøðisligum starvi.</s>
+        </p>
+        <p>
+          <s xml:id="ypcqqzbjtr">Vitiligt varð tað tann merkiliga nøgd av føroyskum søgum og kvæðum, sum menn fyrst fóru at ansa eftir.</s>
+          <s xml:id="rrrpjfn7vy">Longu í 16. øld var kunnleikin um hesi kvæði komin millum manna; Ole Worm veit um fleiri føroysk kvæði.</s>
+          <s xml:id="wibi6hl5rz">Men tað var ikki fyrr enn í 18. øld, at farið varð at skriva tey upp.</s>
+          <s xml:id="nzdvrbz5fy">Tann fyrsti var Jens Christian Svabo, tann hendinga sellin, sum sat í Keypmannahavn og ætlaði nógv til um Føroyar og í unglinga fúsi sínum vildi væla um bæði landbúnaðin og aðrar vinnuvegir har norðuri.</s>
+          <s xml:id="mqnukjw45b">Leingi baldist hann við at fáa ætlanir sínar í lag, og endiliga í 1781 eydnaðist honum at gera ta stórtøku ferðina til móðurland sítt og at avrika ta viðfevndu frágreiðing, sum nú er til hølis á «statsarkivet» í Keypmannahavn.</s>
+          <s xml:id="mxtsejwd34">Tað er eitt á allan hátt merkiligt og týdningarmikið verk, sum gevur grein á starvið og vinnulívið í Føroyum á hansara døgum.</s>
+          <s xml:id="rqydvyz2u3">Eitt úrdrag av hesum verki <pb n="X"/> er útgivið av M. A. Jacobsen í 1924.</s>
+          <s xml:id="hlcn7glmbk">Á hesari ferð hevur hann eisini skrivað upp kvæði í trimum bindum.</s>
+        </p>
+      </div>
+    </front>
+    <body>
+      <div>
+        <!-- TODO: Continue! -->
+      </div>
+    </body>
+  </text>
+</TEI>
