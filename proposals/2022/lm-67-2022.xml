@@ -1288,7 +1288,8 @@
           <div type="subsection">
             <head rend="italic">Skaðavaldarin rindar</head>
             <p>
-              <s xml:lang="fo" cert="medium">Tann, sum varðar av virkseminum, eigur, um tað ikki, alt eftir virkseminum og skaðanum, er órímiligt, at rinda fyri at forða fyri ella avmarka skaða, sum virksemið veldur náttúrumargfeldinum,</s>
+              <!-- TODO: add annotation correction <s xml:lang="fo" cert="medium">Tann, sum varðar av virkseminum, eigur, um tað ikki, alt eftir virkseminum og skaðanum, er órímiligt, at rinda fyri at forða fyri ella avmarka skaða, sum virksemið veldur náttúrumargfeldinum,</s> -->
+              <s xml:lang="fo" cert="high">Tann, sum varðar av virkseminum, eigur, um tað ikki, alt eftir virkseminum og skaðanum, er órímiligt, at rinda fyri at forða fyri ella avmarka skaða, sum virksemið veldur náttúrumargfeldinum.</s>
             </p>
           </div>
           <div type="subsection">
@@ -1485,14 +1486,20 @@
             <s xml:lang="fo" cert="high">Endamálsásetingin fær ikki í sær sjálvari fíggjarligar ella umsitingarligar avleiðingar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 2 um gildisøki </hi>Ásetingin um gildisøkið hjá lógini hevur í sjálvari sær ongar sjálvstøðugar avleiðingar av umsitingarligum ella fíggjarligum slag.</s>
+            <label rend="italic">§ 2 um gildisøki</label>
+            <lb/>
+            <s xml:lang="fo" cert="high">Ásetingin um gildisøkið hjá lógini hevur í sjálvari sær ongar sjálvstøðugar avleiðingar av umsitingarligum ella fíggjarligum slag.</s>
             <s xml:lang="fo" cert="high">Slíkar avleiðingar koma ikki í, fyrr enn ymsar ásetingar í lógini verða brúktar á landi, í áum, vøtnum, ósum og løkum ella í føroyskum sjóumveldi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 3 um allýsingar </hi>Ásetingin hevur ongar umsitingarligar ella fíggjarligar avleiðingar í sjálvari sær.</s>
+            <label rend="italic">§ 3 um allýsingar</label>
+            <lb/>
+            <s xml:lang="fo" cert="high">Ásetingin hevur ongar umsitingarligar ella fíggjarligar avleiðingar í sjálvari sær.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 4 um almenna fyrilitsskyldu </hi>Fyrilitsskyldan í § 4 geldur fyri øll.</s>
+            <hi rend="italic">§ 4 um almenna fyrilitsskyldu </hi>
+            <lb/>
+            <s xml:lang="fo" cert="high">Fyrilitsskyldan í § 4 geldur fyri øll.</s>
             <s xml:lang="fo" cert="high">Tað er ein fyritreyt, at fyrilitið, sum krevst, liggur innan fyri karmarnar á tí, sum rímiliga kann væntast.</s>
             <s xml:lang="fo" cert="high">Ásetingin sigur eisini, at fyrilitsskyldan er at rokna sum lokin, tá ið virksemi verður útint sambært loyvi frá almennum myndugleika.</s>
             <s xml:lang="fo" cert="high">Í slíkum førum er tað sostatt loyvið frá tí almenna eftir øðrum ásetingum, fyrst og fremst við heimild í øðrum lógum, sum ásetur karmarnar fyri virkseminum, ikki fyrilitsskyldan.</s>
@@ -1511,12 +1518,14 @@
             <s xml:lang="fo" cert="high">Av tí at kravið eftir § 4 bara fevnir um at gera tað, sum rímiligt er, og meira ítøkilig fyrilitskrøv kunnu vera ásett í øðrum regluverki ella í loyvum, verða slíkir meirkostnaðirnir væntandi avmarkaðir.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 5 um dent á onnur týðandi samfelagsáhugamál </hi>Ásetingin ber í sær, at tiltøk eftir lógini skulu vigast upp ímóti øðrum týðandi samfelagsáhugamálum.</s>
+            <label rend="italic">§ 5 um dent á onnur týðandi samfelagsáhugamál</label>
+            <s xml:lang="fo" cert="high">Ásetingin ber í sær, at tiltøk eftir lógini skulu vigast upp ímóti øðrum týðandi samfelagsáhugamálum.</s>
           </p>
           <p>
             <s xml:lang="fo" cert="high"><hi rend="italic">Lógarkapittul 2 - Fyrisiting av dýrasløgum og plantusløgum (§§ 6-12) Umhvørvisligar avleiðingar </hi>Ásetingarnar í lógarkapitli 2 skulu tryggja, at lívførið hjá dýra- og plantusløgum verður varðveitt, og at tey vistfrøðiligu lívskorini hjá teimum ikki verða gjørd verri.</s>
             <s xml:lang="fo" cert="high">Reglurnar um tøku (§§ 6-9) verða gjørdar galdandi fyri øll sløg á landi.</s>
-            <s xml:lang="fo" cert="medium">Við hesum verða møguleikarnir at</s>
+            <s xml:lang="fo" cert="high">Við hesum verða møguleikarnir at skipa viðurskiftini kring stórar lívverubólkar betraðir.</s>
+            <s xml:lang="fo" cert="high">Tó verður gagnnýtsla og onnur tøka, sum er fevnd av løgtingslóg um sjófeingi, ikki fevnd av reglunum í §§ 6-9.</s>
           </p>
         </div>
       </div>
@@ -1530,14 +1539,20 @@
             <s xml:lang="fo" cert="high">Endamálsásetingin fær ikki í sær sjálvari fíggjarligar ella umsitingarligar avleiðingar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 2 um gildisøki </hi>Ásetingin um gildisøkið hjá lógini hevur í sjálvari sær ongar sjálvstøðugar avleiðingar av umsitingarligum ella fíggjarligum slag.</s>
+            <label rend="italic">§ 2 um gildisøki</label>
+            <lb/>
+            <s xml:lang="fo" cert="high">Ásetingin um gildisøkið hjá lógini hevur í sjálvari sær ongar sjálvstøðugar avleiðingar av umsitingarligum ella fíggjarligum slag.</s>
             <s xml:lang="fo" cert="high">Slíkar avleiðingar koma ikki í, fyrr enn ymsar ásetingar í lógini verða brúktar á landi, í áum, vøtnum, ósum og løkum ella í føroyskum sjóumveldi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 3 um allýsingar </hi>Ásetingin hevur ongar umsitingarligar ella fíggjarligar avleiðingar í sjálvari sær.</s>
+            <label rend="italic">§ 3 um allýsingar</label>
+            <lb/>
+            <s xml:lang="fo" cert="high">Ásetingin hevur ongar umsitingarligar ella fíggjarligar avleiðingar í sjálvari sær.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium"><hi rend="italic">§ 4 um almenna fyrilitsskyldu </hi>Fyrilitsskyldan í § 4 geldur fyri øll.</s>
+            <label rend="italic">§ 4 um almenna fyrilitsskyldu</label>
+            <lb/>
+            <s xml:lang="fo" cert="high">Fyrilitsskyldan í § 4 geldur fyri øll.</s>
             <s xml:lang="fo" cert="high">Tað er ein fyritreyt, at fyrilitið, sum krevst, liggur innan fyri karmarnar á tí, sum rímiliga kann væntast.</s>
             <s xml:lang="fo" cert="high">Ásetingin sigur eisini, at fyrilitsskyldan er at rokna sum lokin, tá ið virksemi verður útint sambært loyvi frá almennum myndugleika.</s>
             <s xml:lang="fo" cert="high">Í slíkum førum er tað sostatt loyvið frá tí almenna eftir øðrum ásetingum, fyrst og fremst við heimild í øðrum lógum, sum ásetur karmarnar fyri virkseminum, ikki fyrilitsskyldan.</s>
