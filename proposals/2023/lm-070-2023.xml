@@ -1446,7 +1446,12 @@
           </p>
           <p>
             <s xml:lang="fo" cert="high">Niðanfyri er stutt lýsing av trimum granskingarhættum í mun til, um loyvi krevst eftir vísindasiðsemilógini, áðrenn farið verður undir tær.</s>
-            <s xml:lang="fo" cert="high">Teir eru heilsuvísindalig gransking, heilsudátuvísindalig gransking6 og gransking í skráum (registaragransking).</s>
+            <!-- TODO: add note ref here <s xml:lang="fo" cert="high">Teir eru heilsuvísindalig gransking, heilsudátuvísindalig gransking6 og gransking í skráum (registaragransking).</s> -->
+            <s xml:lang="fo" cert="high">Teir eru heilsuvísindalig gransking, heilsudátuvísindalig gransking og gransking í skráum (registaragransking).</s>
+            <note>
+              <label>⁶</label>
+              <seg>https://www.nvk.dk/forsker/forskertjeklister/forskning-i-sensitive-bioinformatiske-sundhedsdata/nyhedsomtale-af-sdv</seg>
+            </note>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Tað er ikki altíð greitt, hvørt ein granskingarverkætlan er heilsuvísindalig gransking, gransking í skráum ella heilsudátuvísindalig gransking.</s>
@@ -1483,11 +1488,11 @@
             <s xml:lang="fo" cert="low">6 https://www.nvk.dk/forsker/forskertjeklister/forskning-i-sensitive-bioinformatiske-sundhedsdata/nyhedsomtale-af-sdv</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">Ein heilsudátuvísindalig granskingarverkætlan er:</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="low">”Et planlagt og veltilrettelagt projekt, som anvender sensitive bioinformatiske data og som har til formål systematisk at erhverve viden om sygdoms opståen eller behandling, diagnostik, forebyggelse, rehabilitering af mennesker samt menneskets biologiske, fysiologiske eller psykologiske processer og arveanlæg.”</s>
-            <s xml:lang="fo" cert="low">7</s>
+            <seg><seg>Ein heilsudátuvísindalig granskingarverkætlan er:</seg> <lb/><quote>”Et planlagt og veltilrettelagt projekt, som anvender sensitive bioinformatiske data og som har til formål systematisk at erhverve viden om sygdoms opståen eller behandling, diagnostik, forebyggelse, rehabilitering af mennesker samt menneskets biologiske, fysiologiske eller psykologiske processer og arveanlæg.”</quote></seg>
+            <note>
+              <label>⁷</label>
+              <seg>https://www.nvk.dk/forsker/naar-du-anmelder/hvilke-projekter-skal-jeg-anmelde</seg>
+            </note>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Eitt dømi frá donsku vísindasiðseminevndini er um hjartalækna, ið kannaði kálk í fólki.</s>
