@@ -1285,8 +1285,13 @@
             <s xml:lang="fo" cert="high">Hetta verður nú skipað í Heilsugranskingareindini innan Sjúkrahúsverkið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Løgtingið samtykti nýggja ílegulóg3 10. mai 2005, við gildiskomu 20. mai 2005.</s>
-            <s xml:lang="fo" cert="low">(LM-083/2004).</s>
+            <!-- TODO: fix foot notes etc... <seg><s xml:lang="fo" cert="high">Løgtingið samtykti nýggja ílegulóg3 10. mai 2005, við gildiskomu 20. mai 2005.</s> (LM-083/2004).</seg> -->
+            <seg><s xml:lang="fo" cert="high">Løgtingið samtykti nýggja ílegulóg3 10. mai 2005, við gildiskomu 20. mai 2005.</s> (LM-083/2004).</seg>
+            <note>
+              <!-- TODO: check for words ending in numbers this could be foot notes etc! -->
+              <label>³</label>
+              <seg>Løgtingslóg nr. 62 frá 17. mai 2005 um gransking í mannaílegum, sum seinast broytt við løgtingslóg nr. 168 frá 16. desember 2021 (ílegulógin)</seg>
+            </note>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Ílegusavnið varð formliga stovnsett tann 1. juni 2006.</s>
@@ -1304,9 +1309,6 @@
             <s xml:lang="fo" cert="high">Umrøtt varð, at ein arvastrongur inniheldur ófatiligar mongdir av informatión um hvørt einstakt menniskja, og at hetta kann seta okkum í etiskar tvístøður.</s>
             <s xml:lang="fo" cert="high">Slíkt granskingarvirksemi og infrastrukturur seta krøv til lóggávuna.</s>
             <s xml:lang="fo" cert="high">Táverandi landsstýrismaður metti tí, at neyðugt var at kanna, um lóggávan á økinum var nøktandi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="low">3 Løgtingslóg nr. 62 frá 17. mai 2005 um gransking í mannaílegum, sum seinast broytt við løgtingslóg nr. 168 frá 16. desember 2021 (ílegulógin)</s>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Í 2015 lat arbeiðsbólkurin frá sær álitið: Útgreinan av lóggávuni á humangenomøkinum í Føroyum.</s>
@@ -1398,7 +1400,10 @@
             <s xml:lang="fo" cert="high">Fleiri altjóða sáttmálar eru galdandi viðvíkjandi heilsugransking.</s>
             <s xml:lang="fo" cert="high">Í 1964 var <hi rend="italic">Helsinki-deklaratiónin</hi> samtykt í altjóða læknafelagsskapinum: World Medical Association (WMA).</s>
             <s xml:lang="fo" cert="high">Helsinki-deklaratiónin hevur ásetingar um tey mest týdningarmiklu etisku atlitini, ið skulu takast í sambandi við heilsugransking.</s>
-            <s xml:lang="fo" cert="low">4</s>
+            <note>
+              <label>⁴</label>
+              <seg>Helsinki-deklarationen, 1964, WMA</seg>
+            </note>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Harumframt skipar <hi rend="italic">Sáttmálin um lívsiðafrøði</hi> (<hi rend="italic">Bioetikkonventiónin</hi> ella <hi rend="italic">Oviedo konventiónin)</hi> eisini viðurskifti kring heilsugransking.</s>
@@ -1432,6 +1437,9 @@
           <p>
             <s xml:lang="fo" cert="medium">4 Helsinki-deklarationen, 1964, WMA Endamálið við heilsuvísindaligari gransking er, at hon skal leggja nýggja og gagnliga vitan til heilsuviðurskifti (fyribyrging, viðgerð og leking).</s>
             <s xml:lang="fo" cert="high">Í vísindasiðsemilógini (“komitelógini”)5 er ásett, at atlitið til hetta endamál tó skal víkja fyri rættindum og trygd hjá royndarpersónum, sum luttaka í granskingarverkætlanum.</s>
+            <note>
+              
+            </note>
             <s xml:lang="fo" cert="high">Granskingarverkætlanir, har vevnaður ella annað frá fólki er beinleiðis partur av granskingarverkætlanunum, skulu hava góðkenning frá vísindasiðseminevndini.</s>
             <s xml:lang="fo" cert="high">Eru tað hinvegin bara navnloyndar dátur, sum granskað verður í, nýtist møguliga ikki loyvi frá vísindasiðseminevndini.</s>
           </p>
