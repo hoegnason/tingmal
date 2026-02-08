@@ -5263,12 +5263,22 @@
               <s xml:lang="fo" cert="medium">Hesi eru:</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="low">1.</s>
-              <s xml:lang="fo" cert="high">Peningur, sum stavar frá endurgjaldi fyri varandi mein og ikki-fíggjarligum skaða.</s>
-              <s xml:lang="fo" cert="high">Við ikki-fíggjarligan skaða er at skilja skaðar, sum verða mettir út frá subjektivum eyðkennum so sum tort og sviða.</s>
-              <s xml:lang="fo" cert="high">T.v.s., at tað ikki ber til beinleiðis at áseta fíggjarliga virðið av skaðanum, 2.</s>
-              <s xml:lang="fo" cert="high">Tryggingarendurgjald upp til 150.000 kr. fyri hættisliga sjúku, 3.</s>
-              <s xml:lang="fo" cert="high">Ogn frá eftirgjaldi av almannaveitingum.</s>
+              <list>
+                <label>1.</label>
+                <item>
+                  <seg>Peningur, sum stavar frá endurgjaldi fyri varandi mein og ikki-fíggjarligum skaða.</seg>
+                  <s xml:lang="fo" cert="high">Við ikki-fíggjarligan skaða er at skilja skaðar, sum verða mettir út frá subjektivum eyðkennum so sum tort og sviða.</s>
+                  <seg>T.v.s., at tað ikki ber til beinleiðis at áseta fíggjarliga virðið av skaðanum,</seg>
+                </item>
+                <label>2.</label>
+                <item>
+                  <seg>Tryggingarendurgjald upp til 150.000 kr. fyri hættisliga sjúku,</seg>
+                </item>
+                <label>3.</label>
+                <item>
+                  <seg>Ogn frá eftirgjaldi av almannaveitingum.</seg>
+                </item>
+              </list>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Fyri at upphædd sambært § 20, stk. 4 kann verða undantikin sum ogn, skal vera møguligt at gera upp, hvussu stór upphæddin er, tá almannahendingin fer fram ella um umsóknarmundið.</s>
@@ -7101,16 +7111,23 @@
               <s xml:lang="fo" cert="high">Á henda hátt verður tryggjað, at einstøku bútilboðini verða meira málrættaði ávísum málbólkum umframt at størri fokus verður á tørvin og ynskini hjá einstaka búfólkinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="medium">Ein grundtænasta kann t.d. vera:</s>
+              <seg>Ein grundtænasta kann t.d. vera:</seg>
+              <lb />
+              <list rend="bulleted">
+                <item>Náttarvakt á staðnum</item>
+                <item>Starvsfólk alt samdøgrið</item>
+                <item>Slag av viðgerðarhætti ella metodu(m)</item>
+                <item>Felags átøk/tiltøk ætlað til allan búfólkabólkin</item>
+              </list>
             </p>
             <p>
-              <s xml:lang="fo" cert="low">Náttarvakt á staðnum Starvsfólk alt samdøgrið Slag av viðgerðarhætti ella metodu(m) Felags átøk/tiltøk ætlað til allan búfólkabólkin</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="medium">Einstaklingarættað tænasta kann t.d. vera: Stuðul til ávíst (enda)mál</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="low">Okkurt sum viðkomandi ynskir at menna/læra Stuðul at koma til tiltøk/aktivitet</s>
+              <seg>Einstaklingarættað tænasta kann t.d. vera:</seg>
+              <lb />
+              <list rend="bulleted">
+                <item>Stuðul til ávíst (enda)mál</item>
+                <item>Okkurt sum viðkomandi ynskir at menna/læra</item>
+                <item>Stuðul at koma til tiltøk/aktivitet</item>
+              </list>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Tað, sum eyðkennir einstaklingarættaða tænastu, er, at hvør einstakur hevur tørv á hesi tænastu afturat grundtænastuni.</s>
@@ -7241,7 +7258,7 @@
             </p>
             <p>
               <seg>Ein grundtænasta kann t.d. vera:</seg>
-              <lb/>
+              <lb />
               <list rend="bulleted">
                 <item>Náttarvakt á staðnum</item>
                 <item>Starvsfólk alt samdøgrið</item>
@@ -7251,7 +7268,7 @@
             </p>
             <p>
               <seg>Einstaklingarættaða tænastan kann so t.d. vera:</seg>
-              <lb/>
+              <lb />
               <list rend="bulleted">
                 <item>Stuðul til ávíst (enda)mál</item>
                 <item>Okkurt sum viðkomandi ynskir at menna/læra</item>
