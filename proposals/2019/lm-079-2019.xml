@@ -3613,12 +3613,14 @@
             <s xml:lang="fo" cert="high">Størsti parturin av samlaðu játtanini til Almannamál fer til lógarbundnar útreiðslur.</s>
             <s xml:lang="fo" cert="high">Rakstrarjáttanin telur umleið 412 mió. kr. av samlaðu játtanini, samsvarandi við 27%.</s>
           </p>
+          <!-- TODO: render table/graph correctly later...
           <p rend="bold">
             <s xml:lang="fo" cert="medium">Almannamál; 1.530.411; 30%</s>
           </p>
           <p rend="bold">
             <s xml:lang="fo" cert="medium">Onnur málsøki; 3.600.182; 70%</s>
           </p>
+           -->
         </div>
         <div type="section">
           <head rend="bold">Mynd 2 Almannamál játtan 2018 skift á játtanarslag (í tús. kr.)</head>
@@ -3631,30 +3633,37 @@
           <head rend="bold">Lógarbundnar útreiðslur</head>
           <p>
             <s xml:lang="fo" cert="high">Myndin niðanfyri vísir, at meginparturin av lógarbundnu útreiðslunum er til pensjónir.</s>
-            <s xml:lang="fo" cert="medium">10% av lógarbundnu útreiðslunum eru til sokallað <hi rend="italic">vanliga forsorg</hi>, sum eru útreiðslur, sum hoyra forsorgarlógini til.</s>
+            <s xml:lang="fo" cert="high">10% av lógarbundnu útreiðslunum eru til sokallað <hi rend="italic">vanliga forsorg</hi>, sum eru útreiðslur, sum hoyra forsorgarlógini til.</s>
           </p>
         </div>
         <div type="section">
           <head rend="bold">Mynd 3 Lógarbundnar útreiðslur 2018</head>
+          <!-- TODO: render graph correctly later....
           <p rend="bold">
             <s xml:lang="fo" cert="medium">Barnastuðul; 27.430; 3%</s>
           </p>
           <p rend="bold">
             <s xml:lang="fo" cert="medium">Sjúkradagpeningur; 65.956; 6%Vanlig forsorg ; 110.140; 10%Arbeiðsfremjandi tiltøk; 78.812; 7%Sosialar pensjónir; 805.391; 74%</s>
           </p>
+           -->
           <div type="subsection">
             <head rend="italic">Útreiðslur til forsorg - lógarbundið</head>
             <p>
               <s xml:lang="fo" cert="high">Høvuðsparturin av lógarbundnu útreiðslunum til forsorg er til uppihaldsveitingar.</s>
-              <s xml:lang="fo" cert="medium">Talvan niðanfyri vísir, at útreiðslurnar í 2018 vóru býttar millum nøkur høvuðsevni:</s>
+              <seg>Talvan niðanfyri vísir, at útreiðslurnar í 2018 vóru býttar millum nøkur høvuðsevni:</seg>
             </p>
+            <!-- TODO: render table correctly!!!
             <p>
               <s xml:lang="fo" cert="medium">Fyribils hjálp 35.047 Fyribils hjálp vegna arbeiðsloysi 15.444 Varandi veiting 228 Stakútreiðslur 1.614 Meirútreiðslur - børn, sum bera brek 14.281 Hjálparráð 28.223 Trygdarskipanir 6.643 Hoyritól 5.308 Serligur stuðul § 15a 3.351</s>
             </p>
+
+                    <div type="section">
+          <head rend="bold">Forsorg tilsamans</head>
+            -->
           </div>
         </div>
         <div type="section">
-          <head rend="bold">Forsorg tilsamans</head>
+          <!-- TODO: fix the sections layout!!! -->
           <div type="subsection">
             <head rend="italic">Fyribils hjálp</head>
             <p>
@@ -3707,10 +3716,13 @@
               <s xml:lang="fo" cert="high">Stuðul verður veittur til nógv ymisk hjálparráð – stór sum smá.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="medium">Talvan niðanfyri vísir útreiðslur í 2018 til nøkur útvald hjálparráð</s>
+              <!-- TODO: add correction annotation <s xml:lang="fo" cert="medium">Talvan niðanfyri vísir útreiðslur í 2018 til nøkur útvald hjálparráð</s> -->
+              <s xml:lang="fo" cert="high">Talvan niðanfyri vísir útreiðslur í 2018 til nøkur útvald hjálparráð.</s>
             </p>
           </div>
         </div>
+        <!--
+        TODO: render table correctly!!!
         <div type="section">
           <head rend="bold">Koyristólar</head>
         </div>
@@ -3732,34 +3744,35 @@
         <div type="section">
           <head rend="bold">Serseymaðir kompressiónssokkar</head>
         </div>
-        <div type="section">
+
+                <div type="section">
           <head rend="bold">Kostískoyti</head>
-          <div type="subsection">
-            <head rend="italic">Trygdarskipanir</head>
-            <p>
-              <s xml:lang="fo" cert="high">Talan er m.a. um útreiðslur til bútilboð til persónar, sum sambært dómi ella rættarúrskurði skulu setast í vardan bústað ella vera undir eftirliti.</s>
-              <s xml:lang="fo" cert="high">Í mun til aðrar fyriskipanir um bústaðartilboð, er her talan um eina lógarbundna játtan.</s>
-              <s xml:lang="fo" cert="high">Hetta er orsakað av, at Almannaverkið hevur skyldu at veita tilboðið, tá dómsvaldið hevur tikið avgerð.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high">Útreiðslurnar til trygdarskipanir eru øktar munandi seinnu árini, og er tað orsakað av, at fleiri persónar vegna dóm ella rættarúrskurð hava fingið tilboð, samstundis sum fyriskipanirnar eru vorðnar dýrari.</s>
-              <s xml:lang="fo" cert="high">Árini 2015 til 2017 øktust útreiðslurnar úr uml. 3 mió. kr. upp í knappliga 10 mió. kr., men minkaðu aftur í 2018, tá útreiðslurnar vóru 6,7 mió. kr.</s>
-              <s xml:lang="fo" cert="high">Talan er um sosialpedagogisk tilboð, psykiatriska viðgerð, skúlaundirvísing, búvenjing og meting av arbeiðsførleika.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="italic">Hoyritól</head>
-            <p>
-              <s xml:lang="fo" cert="high">Útreiðslur til hoyritól hava í fleiri ár ligið millum 3 og 4 mió. kr. um árið.</s>
-              <s xml:lang="fo" cert="high">Tó øktust útreiðslurnar í 2018 til 5,3mió. kr.</s>
-              <s xml:lang="fo" cert="high">Landssjúkrahúsið, sum hevur dagligu umsitingina av hoyritólum um hendi, væntar, at í sambandi við at talið av eldri økist, fara útreiðslurnar til hoyritól eisini at økjast.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Serligur stuðul sambært § 15a </hi>Stuðulin er til persónar, sum eru á stovni, men sum ikki eru pensjónistar.</s>
-              <s xml:lang="fo" cert="high">Útreiðslurnar fevna partvíst um egingjøld fyri stovnspláss og lummapening.</s>
-              <s xml:lang="fo" cert="high">Útreiðslurnar í 2018 vóru 3,4 mió. kr. og væntast at økjast samsvarandi við øktum tali av tilboðum til ung, sum ikki eru pensjónistar.</s>
-            </p>
-          </div>
+        -->
+        <div type="section">
+          <head rend="italic">Trygdarskipanir</head>
+          <p>
+            <s xml:lang="fo" cert="high">Talan er m.a. um útreiðslur til bútilboð til persónar, sum sambært dómi ella rættarúrskurði skulu setast í vardan bústað ella vera undir eftirliti.</s>
+            <s xml:lang="fo" cert="high">Í mun til aðrar fyriskipanir um bústaðartilboð, er her talan um eina lógarbundna játtan.</s>
+            <s xml:lang="fo" cert="high">Hetta er orsakað av, at Almannaverkið hevur skyldu at veita tilboðið, tá dómsvaldið hevur tikið avgerð.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Útreiðslurnar til trygdarskipanir eru øktar munandi seinnu árini, og er tað orsakað av, at fleiri persónar vegna dóm ella rættarúrskurð hava fingið tilboð, samstundis sum fyriskipanirnar eru vorðnar dýrari.</s>
+            <s xml:lang="fo" cert="high">Árini 2015 til 2017 øktust útreiðslurnar úr uml. 3 mió. kr. upp í knappliga 10 mió. kr., men minkaðu aftur í 2018, tá útreiðslurnar vóru 6,7 mió. kr.</s>
+            <s xml:lang="fo" cert="high">Talan er um sosialpedagogisk tilboð, psykiatriska viðgerð, skúlaundirvísing, búvenjing og meting av arbeiðsførleika.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Hoyritól</head>
+          <p>
+            <s xml:lang="fo" cert="high">Útreiðslur til hoyritól hava í fleiri ár ligið millum 3 og 4 mió. kr. um árið.</s>
+            <s xml:lang="fo" cert="high">Tó øktust útreiðslurnar í 2018 til 5,3mió. kr.</s>
+            <s xml:lang="fo" cert="high">Landssjúkrahúsið, sum hevur dagligu umsitingina av hoyritólum um hendi, væntar, at í sambandi við at talið av eldri økist, fara útreiðslurnar til hoyritól eisini at økjast.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="italic">Serligur stuðul sambært § 15a </hi>Stuðulin er til persónar, sum eru á stovni, men sum ikki eru pensjónistar.</s>
+            <s xml:lang="fo" cert="high">Útreiðslurnar fevna partvíst um egingjøld fyri stovnspláss og lummapening.</s>
+            <s xml:lang="fo" cert="high">Útreiðslurnar í 2018 vóru 3,4 mió. kr. og væntast at økjast samsvarandi við øktum tali av tilboðum til ung, sum ikki eru pensjónistar.</s>
+          </p>
         </div>
         <div type="section">
           <head rend="bold">Rakstrarúrtreiðslur</head>
@@ -3901,7 +3914,7 @@
               <s xml:lang="fo" cert="high">Tað ber ikki til at siga, í hvussu stóran mun heimildin verður brúkt.</s>
               <s xml:lang="fo" cert="high">Samstundis verður Serflutningsskipan landsins eftirmett.</s>
               <s xml:lang="fo" cert="high">Játtanin á fíggjarlógini fyri 2018 til Serflutningsskipan Landsins var 1,2 mió. kr.</s>
-              <s xml:lang="fo" cert="medium">Í 2019 er játtanin 700 tús. kr.</s>
+              <s xml:lang="fo" cert="high">Í 2019 er játtanin 700 tús. kr.</s>
             </p>
           </div>
           <div type="subsection">
@@ -4073,7 +4086,7 @@
           </p>
           <p>
             <seg>Harumframt er uppskotið sent hesum til ummælis:</seg>
-            <lb/>
+            <lb />
             <list rend="simple">
               <item>Kommunufelag Føroya</item>
               <item>Stjórnarráðum við áheitan um at senda til viðkomandi undirliggjandi stovnar</item>
