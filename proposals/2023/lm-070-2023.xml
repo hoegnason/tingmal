@@ -1691,7 +1691,9 @@
             </note>
           </p>
           <p>
-            <seg><label rend="italic">Gransking við støði í persónsupplýsingum.</label></seg>
+            <seg>
+              <label rend="italic">Gransking við støði í persónsupplýsingum.</label>
+            </seg>
             <s xml:lang="fo" cert="high">Yvirskipað er tvey sløg av gransking, sum kunnu verða fevnd av dátuverndarlógini.</s>
             <s xml:lang="fo" cert="high">Hesi eru gransking, sum er grundað á upplýsingar, ið verða fingnar til vegar beinleiðis frá skrásetta (samrøða, spurnarblað, blóðroynd el.tíl.), og gransking, sum er grundað á persónsupplýsingar í skráum.</s>
           </p>
@@ -1699,7 +1701,7 @@
             <s xml:lang="fo" cert="high">Heimildin fyri viðgerð av persónsupplýsingum til granskingarendamál er aloftast § 8, stk. 1, nr. 1, § 12, stk. 1, nr. 1 (samtykki) ella § 18 í dátuvendarlógini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">§ 18 í dátuverndarlógini er serliga ætlað sum viðgerðarheimild, tá ið viðgerð av viðkvomum persónsupplýsingum í skráum skal fara fram til søgulig, hagfrøðilig og vísindalig endamál, eisini kalla <hi rend="italic">registerforskning </hi>á donskum.</s>
+            <s xml:lang="fo" cert="high">§ 18 í dátuverndarlógini er serliga ætlað sum viðgerðarheimild, tá ið viðgerð av viðkvomum persónsupplýsingum í skráum skal fara fram til søgulig, hagfrøðilig og vísindalig endamál, eisini kalla <hi rend="italic">registerforskning</hi> á donskum.</s>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Í Føroyum eru fleiri skráir, sum hava upplýsingar um allar føroyingar ella allar føroyingar, ið hava verið í samband við t.d. heilsuverkið ella almannaverkið.</s>
@@ -1740,12 +1742,34 @@
             <s xml:lang="fo" cert="high">Skráir vera førdar yvir biobankar, og ásetingar eru um eftirlit.</s>
             <s xml:lang="fo" cert="high">Í høvuðsheitum snúgva ásetingarnar seg um at verja einstaklingin, og nýtsla og gransking av tilfari úr vevnaðarbankum fylgir etiskum reglum.</s>
           </p>
-          <list>
-            <item>Í Íslandi letur Heilsumálaráðið loyvi til at stovna biobankar. Dátueftirlitið hevur eftirlit við trygdini av persónligum dátum í biobankunum. Heilsumálaráðið hevur eftirlit við granskingarvevnaðarbankum (og viðgerðarvevnaðarbankum).</item>
-            <item>Í Danmark krevst ikki loyvi at stovna biobankar, men teir skulu fráboðast til Dátueftirlitið. Danmark hevur ikki serstaka lóg fyri biobankar, men virksemið verður regulerað eftir øðrum lógum, eitt nú dátuverndarlógini og vísindasiðsemilógini. Søkjast skal til Sundhedsdatastyrelsen um at upprætta kliniskan biobanka.</item>
-            <item>Í Finnlandi skulu allir biobankar hava eina vísindasiðsemigjøgnumgongd, sum Vísindasiðseminevndin fremur, áðrenn teir verða góðkendir. Heilsumálaráðið er eftirlitsmyndugleiki. Ein biobanki skal verða skrásettur hjá eftirlitsmyndugleikanum fyri heilsu og vælferð, fyri at kunna virka sambært lógini.</item>
-            <item>Í Noregi skal Heilsumálaráðið góðkenna granskingarbiobankan, eftir tilmæli frá eini vísindasiðseminevnd. Statens helsetilsyn hevur eftirlit við vevnaðarbankum.</item>
-            <item>Í Svøríki er loyvi ikki kravt, men fráboðan skal sendast til heilsueftirlitsmyndugleikan (Inspektionen för vård och omsorg)12. Heilsueftirlitsmyndugleikin hevur eitt yvirlit yvir allar biobankar og er eisini eftirlitsmyndugleiki á økinum.</item>
+          <list rend="bulleted">
+            <item>
+              <s xml:lang="fo" cert="high">Í Íslandi letur Heilsumálaráðið loyvi til at stovna biobankar.</s>
+              <s xml:lang="fo" cert="high">Dátueftirlitið hevur eftirlit við trygdini av persónligum dátum í biobankunum.</s>
+              <s xml:lang="fo" cert="high">Heilsumálaráðið hevur eftirlit við granskingarvevnaðarbankum (og viðgerðarvevnaðarbankum).</s>
+            </item>
+            <item>
+              <s xml:lang="fo" cert="high">Í Danmark krevst ikki loyvi at stovna biobankar, men teir skulu fráboðast til Dátueftirlitið.</s>
+              <s xml:lang="fo" cert="high">Danmark hevur ikki serstaka lóg fyri biobankar, men virksemið verður regulerað eftir øðrum lógum, eitt nú dátuverndarlógini og vísindasiðsemilógini.</s>
+              <s xml:lang="fo" cert="high">Søkjast skal til Sundhedsdatastyrelsen um at upprætta kliniskan biobanka.</s>
+            </item>
+            <item>
+              <s xml:lang="fo" cert="high">Í Finnlandi skulu allir biobankar hava eina vísindasiðsemigjøgnumgongd, sum Vísindasiðseminevndin fremur, áðrenn teir verða góðkendir.</s>
+              <s xml:lang="fo" cert="high">Heilsumálaráðið er eftirlitsmyndugleiki.</s>
+              <s xml:lang="fo" cert="high">Ein biobanki skal verða skrásettur hjá eftirlitsmyndugleikanum fyri heilsu og vælferð, fyri at kunna virka sambært lógini.</s>
+            </item>
+            <item>
+              <s xml:lang="fo" cert="high">Í Noregi skal Heilsumálaráðið góðkenna granskingarbiobankan, eftir tilmæli frá eini vísindasiðseminevnd.</s>
+              <s xml:lang="fo" cert="high">Statens helsetilsyn hevur eftirlit við vevnaðarbankum.</s>
+            </item>
+            <item>
+              <s xml:lang="fo" cert="high">Í Svøríki er loyvi ikki kravt, men fráboðan skal sendast til heilsueftirlitsmyndugleikan (Inspektionen för vård och omsorg).</s>
+              <note>
+                <label>¹²</label>
+                <seg>https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2002297-om-biobanker-i-halso--och_sfs-2002-297 §6</seg>
+              </note>
+              <s xml:lang="fo" cert="high">Heilsueftirlitsmyndugleikin hevur eitt yvirlit yvir allar biobankar og er eisini eftirlitsmyndugleiki á økinum.</s>
+            </item>
           </list>
           <p>
             <s xml:lang="fo" cert="high">Í Føroyum krevst góðkenning frá Vísindasiðseminevndini, áðrenn farast kann undir ílegugransking, har tilfar úr Fólkaheilsustýrinum verður nýtt.</s>
