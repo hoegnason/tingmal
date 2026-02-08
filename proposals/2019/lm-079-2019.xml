@@ -2806,20 +2806,35 @@
               <s xml:lang="fo" cert="high">Veitingarstøðið verður óbroytt, men aðrar broyttar treytir og ásetingar kunnu fáa týdning fyri nøkur.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="medium">Innihaldsliga eru hesar broytingar framdar:</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="low">1.</s>
-              <s xml:lang="fo" cert="high">Broyttar treytir viðvíkjandi ogn í sambandi við fyribils uppihaldsveiting 2.</s>
-              <s xml:lang="fo" cert="high">Lækking av veiting tekur hædd fyri ikki-skattskyldugum inntøkum 3.</s>
-              <s xml:lang="fo" cert="high">Broytt javning av uppihaldsveitingum 4.</s>
-              <s xml:lang="fo" cert="high">Áseting um stuðul til stakútreiðslur verður greiðari 5.</s>
-              <s xml:lang="fo" cert="high">Fíggjarligt ískoyti til húsaleigu 6.</s>
-              <s xml:lang="fo" cert="high">Veiting og stuðul til persón í búfyriskipan hjá tí almenna verður umskipað 7.</s>
-              <s xml:lang="fo" cert="high">Broyttar treytir viðvíkjandi inntøku hjá hjúnafelaga.</s>
-              <s xml:lang="fo" cert="low">8.</s>
-              <s xml:lang="fo" cert="high">Varandi veiting hækkar, og frádráttur í skatti strikaður 9.</s>
-              <s xml:lang="fo" cert="medium">Broyttar treytir til persónar, sum sita dóm</s>
+              <seg>Innihaldsliga eru hesar broytingar framdar:</seg>
+              <list>
+                <label>1.</label>
+                <item>Broyttar treytir viðvíkjandi ogn í sambandi við fyribils uppihaldsveiting</item>
+
+                <label>2.</label>
+                <item>Lækking av veiting tekur hædd fyri ikki-skattskyldugum inntøkum</item>
+
+                <label>3.</label>
+                <item>Broytt javning av uppihaldsveitingum</item>
+
+                <label>4.</label>
+                <item>Áseting um stuðul til stakútreiðslur verður greiðari</item>
+
+                <label>5.</label>
+                <item>Fíggjarligt ískoyti til húsaleigu</item>
+
+                <label>6.</label>
+                <item>Veiting og stuðul til persón í búfyriskipan hjá tí almenna verður umskipað</item>
+
+                <label>7.</label>
+                <item>Broyttar treytir viðvíkjandi inntøku hjá hjúnafelaga</item>
+
+                <label>8.</label>
+                <item>Varandi veiting hækkar, og frádráttur í skatti strikaður</item>
+
+                <label>9.</label>
+                <item>Broyttar treytir til persónar, sum sita dóm</item>
+              </list>
             </p>
             <p>
               <s xml:lang="fo" cert="high"><hi rend="italic">Til nr. 1: Broyttar treytir viðvíkjandi ogn í sambandi við fyribils uppihaldsveiting </hi>Fyri at fáa rætt til forsorgarhjálp er tað ein treyt, at tað ikki skal vera gjørligt at uppihalda sær við ogn.</s>
@@ -3768,8 +3783,11 @@
             <s xml:lang="fo" cert="high">Viðmerkjast skal, at talan kann vera um, at sami borgari fær tænastu frá fleiri stovnum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">Útreiðslur til tær einstøku tænasturnar, sum Almannaverkið veitti í 2018 vóru í høvuðsheitum hesar (tkr.)</s>
-            <s xml:lang="fo" cert="low">: Endurvenjing 3.854 Stuðulstænastur* 43.125 Virkistænastur og veristað 33.545 Bú- og viðgerðarstovnar 15.233 Búfelagsskapir 5.062 Sambýli, rakstur 130.260</s>
+            <seg>Útreiðslur til tær einstøku tænasturnar, sum Almannaverkið veitti í 2018 vóru í høvuðsheitum hesar (tkr.):</seg>
+            <!-- TODO: Fix table later..... -->
+            <seg>
+              Endurvenjing 3.854 Stuðulstænastur* 43.125 Virkistænastur og veristað 33.545 Bú- og viðgerðarstovnar 15.233 Búfelagsskapir 5.062 Sambýli, rakstur 130.260
+            </seg>
           </p>
           <div type="subsection">
             <head rend="italic">*íroknað Depil á Sandi og Mýrusóljan</head>
@@ -4082,13 +4100,13 @@
             <s xml:lang="fo" cert="high">Rakstrarjáttanin telur umleið 412 mió. kr. av samlaðu játtanini, samsvarandi við 27%.</s>
           </p>
           <p rend="bold">
-            <s xml:lang="fo" cert="medium">Almannamál; 1.530.411; 30%</s>
+            <seg>Almannamál; 1.530.411; 30%</seg>
           </p>
           <p rend="bold">
-            <s xml:lang="fo" cert="medium">Onnur málsøki; 3.600.182; 70%</s>
+            <seg>Onnur málsøki; 3.600.182; 70%</seg>
           </p>
           <p rend="bold">
-            <s xml:lang="fo" cert="low">Løgur; 14.692; 1%</s>
+            <seg>Løgur; 14.692; 1%</seg>
           </p>
           <div type="subsection" n="Til § 1">
             <head rend="bold italic">Til § 1</head>
@@ -4949,16 +4967,21 @@
           <div type="subsection">
             <p><label rend="bold">§ 3</label>. Kan Udgifterne til en Ægtefælles særlige Behov og Udgifterne ved de Hverv, som han efter Skik og Brug og Ægtefællernes Forhold har at varetage for Familiens Underhold, ikke dækkes af det Bidrag, han selv skal yde ifølge § 2, er den anden Ægtefælle pligtig at overlade ham de fornødne Pengemidler i passende Beløb ad Gangen. Dette gælder dog ikke, hvis en anden Ordning er paakrævet, fordi Ægtefællen har vist sig uskikket til at forvalte Penge, eller fordi andre særlige Grunde foreligger.”</p>
             <p>
-              <s xml:lang="fo" cert="medium">Í § 13 í lov om børns retstillinger ásett:</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="low">“<hi rend="bold">§ 13.</hi></s>
-              <s xml:lang="fo" cert="high">Forældrene er hver for sig forpligtet til at forsørge barnet.</s>
-              <s xml:lang="fo" cert="high">Barnet skal forsørges, opdrages og uddannes under hensyn til forældrenes livsvilkår og barnets tarv.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="medium">Stk. 2.</s>
-              <s xml:lang="fo" cert="medium">Opfylder en af forældrene ikke forsørgelsespligten over for barnet, kan overøvrigheden pålægge ham at udrede bidrag til barnets underhold.”</s>
+              <seg>Í § 13 í lov om børns retstillinger ásett:</seg>
+              <lb />
+              <quote>
+                <seg>“</seg>
+                <p>
+                  <label>§ 13.</label>
+                  <s xml:lang="da" cert="high">Forældrene er hver for sig forpligtet til at forsørge barnet.</s>
+                  <s xml:lang="da" cert="high">Barnet skal forsørges, opdrages og uddannes under hensyn til forældrenes livsvilkår og barnets tarv.</s>
+                </p>
+                <p>
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="da" cert="high">Opfylder en af forældrene ikke forsørgelsespligten over for barnet, kan overøvrigheden pålægge ham at udrede bidrag til barnets underhold.</s>
+                </p>
+                <seg>”</seg>
+              </quote>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Lógin broytir sostatt ikki ta støðu, at hjún hava uppihaldsskyldu mótvegis hvørjum øðrum.</s>
