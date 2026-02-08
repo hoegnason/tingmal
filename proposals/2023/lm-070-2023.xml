@@ -1436,7 +1436,7 @@
           <p>
             <s xml:lang="fo" cert="high">Endamálið við heilsuvísindaligari gransking er, at hon skal leggja nýggja og gagnliga vitan til heilsuviðurskifti (fyribyrging, viðgerð og leking).</s>
             <!-- TOOD: add fote note ref here! <s xml:lang="fo" cert="high">Í vísindasiðsemilógini (“komitelógini”)5 er ásett, at atlitið til hetta endamál tó skal víkja fyri rættindum og trygd hjá royndarpersónum, sum luttaka í granskingarverkætlanum.</s> -->
-             <s xml:lang="fo" cert="high">Í vísindasiðsemilógini (“komitelógini”) er ásett, at atlitið til hetta endamál tó skal víkja fyri rættindum og trygd hjá royndarpersónum, sum luttaka í granskingarverkætlanum.</s>
+            <s xml:lang="fo" cert="high">Í vísindasiðsemilógini (“komitelógini”) er ásett, at atlitið til hetta endamál tó skal víkja fyri rættindum og trygd hjá royndarpersónum, sum luttaka í granskingarverkætlanum.</s>
             <note>
               <label>⁵</label>
               <seg>Anordning nr. 961 af 15. juli 2013 om ikrafttræden for Færøerne af lov om videnskabsetisk behandling af sundhedsvidenskabelige forskningsprojekter, sum broytt við anordning 1442 frá 29. juni 2021</seg>
@@ -1488,7 +1488,11 @@
             <s xml:lang="fo" cert="low">6 https://www.nvk.dk/forsker/forskertjeklister/forskning-i-sensitive-bioinformatiske-sundhedsdata/nyhedsomtale-af-sdv</s>
           </p>
           <p>
-            <seg><seg>Ein heilsudátuvísindalig granskingarverkætlan er:</seg> <lb/><quote>”Et planlagt og veltilrettelagt projekt, som anvender sensitive bioinformatiske data og som har til formål systematisk at erhverve viden om sygdoms opståen eller behandling, diagnostik, forebyggelse, rehabilitering af mennesker samt menneskets biologiske, fysiologiske eller psykologiske processer og arveanlæg.”</quote></seg>
+            <seg>
+              <seg>Ein heilsudátuvísindalig granskingarverkætlan er:</seg>
+              <lb />
+              <quote>”Et planlagt og veltilrettelagt projekt, som anvender sensitive bioinformatiske data og som har til formål systematisk at erhverve viden om sygdoms opståen eller behandling, diagnostik, forebyggelse, rehabilitering af mennesker samt menneskets biologiske, fysiologiske eller psykologiske processer og arveanlæg.”</quote>
+            </seg>
             <note>
               <label>⁷</label>
               <seg>https://www.nvk.dk/forsker/naar-du-anmelder/hvilke-projekter-skal-jeg-anmelde</seg>
@@ -1520,31 +1524,39 @@
           </p>
           <p>
             <s xml:lang="fo" cert="high">Dáturnar eru tó vardar av ásetingum í dátuverndarlógini.</s>
-            <s xml:lang="fo" cert="medium">Dátueftirlitið skrivar soleiðis á heimasíðu síni:</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="medium">“§ 18 í dátuverndarlógini er ætlað sum viðgerðarheimild, tá viðgerð av viðkvomum persónsupplýsingum í skráum skal fara fram til søgulig, hagfrøðilig og vísindalig endamál, eisini kallað (á donskum) registerforskning.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Tá støða skal takast til, um gransking við støði í upplýsingum í skráum kann fara fram, skal dátuábyrgdarin gera eina ítøkiliga meting, har samfelagsligi týdningurin av viðgerðini verður vigaður upp ímóti báganum fyri tann einstaka.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Ítøkiliga metingin, sum dátuábyrgdarin skal gera í hvørjum einstøkum føri, vil í útgangsstøðinum hava við sær, at t.d. landsumfatandi vísindaligar kanningar, sum alment viðurkendir stovnar ella granskarar ynskja at seta í verk, og har nøktandi trygdartiltøk verða framd, t.d. við at dulnevna ella brongla persónsupplýsingarnar, kunnu fara fram.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">At samfelagsligi týdningurin skal vera munandi hevur hinvegin við sær, at ikki ein og hvør kann fáa atgongd til upplýsingarnar til eitt og hvørt endamál.</s>
-            <s xml:lang="fo" cert="medium">Tað krevst, at ætlanin</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="medium">7 https://www.nvk.dk/forsker/naar-du-anmelder/hvilke-projekter-skal-jeg-anmelde 8 https://www.nvk.dk/forsker/forskertjeklister/forskning-i-sensitive-bioinformatiske-sundhedsdata/eksempler-paa-undersoegelser-af-billeddiagnostiske-data hevur eitt ávíst vísindaligt støði, og at endamálini, sum verða fylgd, koma samfelagnum til góðar so ella so.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Tað er dátuábyrgdarin, sum ger av, um atgongd verður givin til upplýsingarnar í eini skrá.</s>
-            <s xml:lang="fo" cert="high">Dátuábyrgdarin hevur ikki skyldu at geva atgongd og skal tí nokta, um metingin er, at bágin fyri tann einstaka er størri enn samfelagsligi týdningurin.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="medium">Persónsupplýsingarnar, sum verða viðgjørdar til vísindalig endamál, sbrt. § 18, kunnu ikki viðgerast seinni til onnur endamál og kunnu í útgangsstøðinum ikki gevast víðari.”</s>
-            <s xml:lang="fo" cert="low">9</s>
+            <seg>Dátueftirlitið skrivar soleiðis á heimasíðu síni:</seg>
+            <lb />
+            <quote>
+              <p>
+                <seg>“</seg>
+                <s xml:lang="fo" cert="high">§ 18 í dátuverndarlógini er ætlað sum viðgerðarheimild, tá viðgerð av viðkvomum persónsupplýsingum í skráum skal fara fram til søgulig, hagfrøðilig og vísindalig endamál, eisini kallað (á donskum) registerforskning.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Tá støða skal takast til, um gransking við støði í upplýsingum í skráum kann fara fram, skal dátuábyrgdarin gera eina ítøkiliga meting, har samfelagsligi týdningurin av viðgerðini verður vigaður upp ímóti báganum fyri tann einstaka.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Ítøkiliga metingin, sum dátuábyrgdarin skal gera í hvørjum einstøkum føri, vil í útgangsstøðinum hava við sær, at t.d. landsumfatandi vísindaligar kanningar, sum alment viðurkendir stovnar ella granskarar ynskja at seta í verk, og har nøktandi trygdartiltøk verða framd, t.d. við at dulnevna ella brongla persónsupplýsingarnar, kunnu fara fram.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">At samfelagsligi týdningurin skal vera munandi hevur hinvegin við sær, at ikki ein og hvør kann fáa atgongd til upplýsingarnar til eitt og hvørt endamál.</s>
+                <s xml:lang="fo" cert="medium">Tað krevst, at ætlanin</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="medium">7 https://www.nvk.dk/forsker/naar-du-anmelder/hvilke-projekter-skal-jeg-anmelde 8 https://www.nvk.dk/forsker/forskertjeklister/forskning-i-sensitive-bioinformatiske-sundhedsdata/eksempler-paa-undersoegelser-af-billeddiagnostiske-data hevur eitt ávíst vísindaligt støði, og at endamálini, sum verða fylgd, koma samfelagnum til góðar so ella so.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Tað er dátuábyrgdarin, sum ger av, um atgongd verður givin til upplýsingarnar í eini skrá.</s>
+                <s xml:lang="fo" cert="high">Dátuábyrgdarin hevur ikki skyldu at geva atgongd og skal tí nokta, um metingin er, at bágin fyri tann einstaka er størri enn samfelagsligi týdningurin.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="medium">Persónsupplýsingarnar, sum verða viðgjørdar til vísindalig endamál, sbrt. § 18, kunnu ikki viðgerast seinni til onnur endamál og kunnu í útgangsstøðinum ikki gevast víðari.</s>
+                <seg>”</seg>
+              </p>
+            </quote>
+            <note>
+              <label>⁹</label>
+              <seg>https://www.dat.fo/fyritoekur-og-stovnar/gransking/gransking-grundad-a-skrair</seg>
+            </note>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Eitt dømi um registaragransking er ein føroysk granskingarverkætlan frá 2010, sum vísti, at tað er hægri tal í Føroyum, enn í Danmark, av lágum stofskifti (hypothyroidism) og at hetta kundi vera, av tí at vit eta meira jod.</s>
