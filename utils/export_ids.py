@@ -110,6 +110,8 @@ def parse_sentences(filepath) -> list[str]:
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
+    ## print("Processing file: " + str(filepath))
+
     # Parse the XML
     tree = etree.fromstring(content.encode('utf-8'), parser)
 
