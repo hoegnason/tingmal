@@ -12,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="2026-02-08"/>
+        <date when="2026-02-08" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -21,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
             <roleName>landsstýrismaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/509"/>
+          <ref target="https://www.logting.fo/documents/509" />
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2020-09-08">8. september 2020</date>
           <idno type="case-number">20/00462</idno>
@@ -56,23 +56,26 @@
           <cell rend="meta-cell">31.08.2020</cell>
         </row>
       </table>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <ab type="bill-title">
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <ab rend="bold center">Løgtingslóg</ab>
         <ab rend="bold center">um fyribyrgjandi tiltøk ímóti hvítvaski av vinningi og fígging av yvirgangi</ab>
         <ab rend="bold center">(Hvítvasklógin)</ab>
       </ab>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="chapter" n="0">
         <div n="Kapittul 1">
-          <head rend="bold center"><label>Kapittul 1</label> <lb/>Lógarøki og allýsingar o.a.</head>
+          <head rend="bold center"><label>Kapittul 1</label> <lb />Lógarøki og allýsingar o.a.</head>
           <div n="Lógarøkið">
             <head rend="italic">Lógarøkið</head>
             <div type="bill-section" n="§ 1.">
               <div n="§ 1. Stk. 1.">
-                <p rend="bill-text"><label rend="bold">§ 1.</label> Løgtingslógin fevnir um fylgjandi fyritøkur og persónar: <list>
+                <p rend="bill-text">
+                  <label rend="bold">§ 1.</label>
+                  <seg>Løgtingslógin fevnir um fylgjandi fyritøkur og persónar:</seg>
+                  <list>
                     <item>1) Realkredittstovnar.</item>
                     <item>2) Lívstryggingarfeløg og tvørgangandi eftirlønargrunnar.</item>
                     <item>3) Tryggingarmeklarar, tá hesir miðla lívstryggingar ella aðrar íløgurelateraðar tryggingar.</item>
@@ -82,7 +85,8 @@
                     <item>7) Fyritøkur og persónar, sum annars vinnuliga lata somu veitingar, sum teir í nr. 5-6 og í § 1, stk. 1, nr. 14 í anordning om ikrafttræden for Færøerne af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme nevndu persónsbólkar, undir hesum grannskoðarar, sum ikki eru góðkendir eftir grannskoðaralógini, skattaráðgevarar og eksternir bókhaldarar.</item>
                     <item>8) Útbjóðarar av tænastuveitingum til fyritøkur, sbr. § 2, nr. 12.</item>
                     <item>9) Útbjóðarar av spølum, sbr. tó stk. 3.</item>
-                  </list></p>
+                  </list>
+                </p>
               </div>
               <div n="§ 1. Stk. 2.">
                 <p rend="bill-text">
@@ -103,7 +107,10 @@
             <head rend="italic">Allýsingar</head>
             <div type="bill-section" n="§ 2.">
               <div n="§ 2. Stk. 1.">
-                <p rend="bill-text"><label rend="bold">§ 2.</label> Eftir hesi løgtingslóg galda hesar allýsingar: <list>
+                <p rend="bill-text">
+                  <label rend="bold">§ 2.</label>
+                  <seg>Eftir hesi løgtingslóg galda hesar allýsingar:</seg>
+                  <list>
                     <item>1) Daglig leiðsla: Persónar, sum hava ábyrgd av dagligu leiðsluni hjá einum løgfrøðiligum persóni, undir hesum av rakstri, umsetningi og øðrum úrslitum.</item>
                     <item>2) Fíggjarlig transaktión: Ein transaktión, sum viðvíkur gjaldføri ella aðrari fíggjarligari ogn.</item>
                     <item>3) Handilssamband: Eitt kundasamband, sum verður stovnað av fyritøkuni ella persóninum, fevndur av løgtingslógini, sum stovningarløtuna væntast at halda fram eina tíð, og sum kann fevna um stovnan av kundakonto, kundagoymslu, íverksetan av transaktiónunum og øðrum virksemi, undir hesum ráðgevingaruppgávur fyri kundan.</item>
@@ -116,16 +123,21 @@
                     <item>10) Transaktión: Ein ella fleiri gerðir, har ein ella fleiri ognir verða fluttar ella avhendaðar.</item>
                     <item>11) Tómt bankafelag: Ein fyritøka, sum rekur virksemi svarandi til virksemi hjá fyritøkum, fevndar av § 1, stk. 1, nr. 1-4, sum ikki er fysiskt til staðar í tí landinum, har hon hevur heimstað, ikki hevur leiðsluna ella umstingina í viðkomandi landi, og ikki er partur í eini reguleraðari fíggjarligari samtøku.</item>
                     <item>12) Útbjóðari av tænastuveitingum til fyritøkur: Ein og hvør, sum ikki er fevndur av § 1, stk. 1, nr. 5 og 6, ella av § 1, stk. 1, nr. 14 í anordning om ikrafttræden for Færøerne af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme, tá hesin vinnuliga útinnir fylgjandi virksemi: a) Stovnar vinnufeløg, fyritøkur ella aðrar løgfrøðiligar persónar. b) Virkar sum ella sær til, at ein annar persónur virkar sum leiðslulimur í einari fyritøku ella sum luttakari í einum íognarfelagi ella í einum líknandi starvi í fyritøkum annars. c) Letur heimstaðaradressu ella aðra adressu, ið á ein líknandi hátt er ætlað at vera kontaktadressa, og hartil knýttar tænastur, vera tøkar fyri eina fyritøku. d) Virkar fyri ella sær til, at ein annar umsitur ella stendur fyri einum grunni, trust ella aðrari líknandi løgfrøðiligari skipan. e) Virkar fyri ella sær til, at ein annar virkar sum nominee fyri triðjamann uttan so at hesin er ein fyritøka, hvørs eigarapartar o.a. verða seldir á einum skipaðum marknað, ella einum líknandi marknað, sum hevur upplýsingarskyldu sambært ES-rættinum ella samsvarandi altjóða standardum.</item>
-                  </list></p>
+                  </list>
+                </p>
               </div>
             </div>
             <div type="bill-section" n="§ 3.">
               <div n="§ 3. Stk. 1.">
-                <p rend="bill-text"><label rend="bold">§ 3.</label> Við hvítvask skilst í hesi løgtingslóg: <list>
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <seg>Við hvítvask skilst í hesi løgtingslóg:</seg>
+                  <list>
                     <item>1) Av órøttum at taka ímóti ella útvega sær ella øðrum part í fíggjarligum vinningi ella ognum, sum er fingin við revsiverdum lógarbroti.</item>
                     <item>2) Av órøttum at krógva, varðveita, flyta, hjálpa við avhending ella á annan hátt seinni at virka fyri at tryggja fíggjarliga vinningin ella ognirnar frá einum revsiverdum lógarbroti.</item>
                     <item>3) Roynd ella viðvirkan til slíkar gerðir.</item>
-                  </list></p>
+                  </list>
+                </p>
               </div>
               <div n="§ 3. Stk. 2.">
                 <p rend="bill-text">
@@ -235,7 +247,7 @@
           </div>
         </div>
         <div n="Kapittul 3">
-          <head rend="bold center"><label>Kapittul 3</label> <lb/>Kundakunnleikamannagongdir</head>
+          <head rend="bold center"><label>Kapittul 3</label> <lb />Kundakunnleikamannagongdir</head>
           <div n="Almenn krøv">
             <head rend="italic">Almenn krøv</head>
             <div type="bill-section" n="§ 9.">
@@ -831,7 +843,7 @@
           </div>
         </div>
         <div n="Kapittul 9">
-          <head rend="bold center"><label>Kapittul 9</label> <lb/>Eftirlit o.a.</head>
+          <head rend="bold center"><label>Kapittul 9</label> <lb />Eftirlit o.a.</head>
           <div n="Tryggingareftirlitið">
             <head rend="italic">Tryggingareftirlitið</head>
             <div type="bill-section" n="§ 37.">
@@ -1863,7 +1875,7 @@
             </p>
             <p>
               <!-- TODO: add correction annotation... <s xml:lang="fo" cert="medium">Lívstryggingarfeløg og tvørgangandi eftirlønargrunnar skulu eftir løgtinslógini um tryggingarvirksemi longu í dag hava ein compliance ábyrgdara og eina óhefta grannskoðararfunksjón, og tiltøkini eftir uppskotinum eru bert ætlað at áseta, at hesar funksjónir verða víðkaðar til eisini at fevna um krøv eftir hesum uppskotinum,</s> -->
-              <s xml:lang="fo" cert="medium" xml:id="cx7o2r6ae6">Lívstryggingarfeløg og tvørgangandi eftirlønargrunnar skulu eftir løgtinslógini um tryggingarvirksemi longu í dag hava ein compliance ábyrgdara og eina óhefta grannskoðararfunksjón, og tiltøkini eftir uppskotinum eru bert ætlað at áseta, at hesar funksjónir verða víðkaðar til eisini at fevna um krøv eftir hesum uppskotinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="cx7o2r6ae6">Lívstryggingarfeløg og tvørgangandi eftirlønargrunnar skulu eftir løgtinslógini um tryggingarvirksemi longu í dag hava ein compliance ábyrgdara og eina óhefta grannskoðararfunksjón, og tiltøkini eftir uppskotinum eru bert ætlað at áseta, at hesar funksjónir verða víðkaðar til eisini at fevna um krøv eftir hesum uppskotinum.</s>
             </p>
             <p>
               <s xml:lang="fo" cert="high" xml:id="dgwdjlol6q">Eisini verður skotið upp, at fyritøkur, har tað verður mett viðkomandi, skulu tilnevna ein lim í nevndini, sum skal hava ábyrgdina av, at fyritøkan heldur hetta lógaruppskotið og reglur settar í gildi sambært tí.</s>
@@ -2498,7 +2510,7 @@
           <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
           <table>
             <row role="label">
-              <cell/>
+              <cell />
               <cell>Fyri landið ella landsmyndug- leikar</cell>
               <cell>Fyri kommunalar myndugleikar</cell>
               <cell>Fyri pláss ella øki í landinum</cell>
@@ -2539,11 +2551,11 @@
             </row>
             <row>
               <cell>Sosialar avleiðingar</cell>
-              <cell/>
-              <cell/>
+              <cell />
+              <cell />
               <cell>Vel Ja ella Nei</cell>
               <cell>Vel Ja ella Nei</cell>
-              <cell/>
+              <cell />
             </row>
           </table>
         </div>
@@ -2950,14 +2962,14 @@
             </p>
             <p>
               <seg>Í viðmerkingunum til § 11, stk. 1, nr. 1, litra a í 2016/7 LSF 41 verður sagt:</seg>
-              <lb/>
+              <lb />
               <quote>
                 <seg>“</seg>
                 <s xml:lang="da" cert="high" xml:id="cw2n6drtih">Det er som udgangspunkt kunden, som skal levere identitetsoplysningerne, hvorfor det i mange tilfælde ikke er tilstrækkeligt, at kunden alene oplyser f.eks. et cpr-nr., og virksomheden herefter selv indhenter navn i Det Centrale Personregister.</s>
                 <s xml:lang="da" cert="high" xml:id="u55xrukvcb">I tilfælde forbundet med en meget begrænset risiko, f.eks. arbejdsgiverpensioner, kan det dog være tilstrækkeligt, at oplysninger om kunden indhentes fra arbejdsgiveren.</s>
                 <seg>”</seg>
               </quote>
-              <lb/>
+              <lb />
               <s xml:lang="fo" cert="high" xml:id="ocelifyf4z">Her skal leggjast afturat, at tílík føri kunnu t.d. eisini vera tvungnar pensjónssamansparingar, og har kann tað vera nøktandi, at samleikaupplýsingar verða fingnir frá TAKS.</s>
             </p>
           </div>
@@ -3810,14 +3822,14 @@
           </div>
         </div>
       </div>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="signature">
         <dateline><orgName>Umhvørvis- og vinnumálaráðið</orgName>, <date when="2020-09-08">8. september 2020</date></dateline>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <signed rend="center">
           <persName ref="https://tingdata.fo/person/zs6x6ggd">
             <hi rend="bold">Helgi Abrahamsen</hi>
-            <lb/>
+            <lb />
             <roleName>landsstýrismaður</roleName>
           </persName>
         </signed>
