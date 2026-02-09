@@ -12,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="2026-02-08"/>
+        <date when="2026-02-08" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -53,7 +53,7 @@
           <author>
             <persName ref="https://tingdata.fo/person/k6lnuhyz">Bjarni Hammer</persName>
           </author>
-          <ref target="https://www.logting.fo/documents/1900"/>
+          <ref target="https://www.logting.fo/documents/1900" />
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2019-11-04">2019-11-04</date>
           <!-- TODO: fix case id extraction! <idno type="case-number">LM-028/2019</idno> -->
@@ -72,14 +72,14 @@
     <body>
       <ab type="bill-title">
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <ab rend="bold center">Løgtingslóg um fyrisiting av margfeldinum í náttúruni</ab>
         <ab rend="bold center">(Náttúrumargfeldislógin)</ab>
       </ab>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="chapter" n="0">
         <div n="Kapittul 1">
-          <head rend="bold center"><label>Kapittul 1</label> <lb/>Endamál og gildisøki o.a.</head>
+          <head rend="bold center"><label>Kapittul 1</label> <lb />Endamál og gildisøki o.a.</head>
           <div n="Endamálið við løgtingslógini">
             <head rend="italic">Endamálið við løgtingslógini</head>
             <div type="bill-section" n="§ 1.">
@@ -106,7 +106,10 @@
             <head rend="italic">Allýsingar</head>
             <div type="bill-section" n="§ 3.">
               <div n="§ 3. Stk. 1.">
-                <p rend="bill-text"><label rend="bold">§ 3.</label> Í hesi løgtingslógini skulu hesi hugtøkini skiljast soleiðis: <list>
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <seg>Í hesi løgtingslógini skulu hesi hugtøkini skiljast soleiðis:</seg>
+                  <list>
                     <item>1) Fremmand lívvera: lívvera, sum ikki hoyrir til nakað slag ella nakran stovn, sum finst natúrliga á staðnum.</item>
                     <item>2) Heysting: at henta ella savna inn plantur ella plantupartar, eisini ber og fruktir, í útilívi og vinnu.</item>
                     <item>3) Innflutningur: at føra í land úr økjum uttan fyri gildisøkið hjá løgtingslógini.</item>
@@ -124,13 +127,14 @@
                     <item>15) Vistfrøðiligt funktiónsøki: øki, mørkini kunnu broytast við tíðini, sum hevur eina vistfrøðiliga funktión fyri eitt slag, til dømis sum gýtingarøki, vakstrarøki, øki, har ið fuglur søkir sær føði, ferðingarleið, hamskiftisøki, náttarhvíldarøki, makingarøki, yngliøki, vetrartilhaldsøki ella búøki.</item>
                     <item>16) Vistfrøðiligur standur: støða og gongd við atliti at funktiónum, bygnaði og framleidni, har ið eitt náttúruslag finst, í mun til ítøkiligar ávirkanartættir.</item>
                     <item>17) Vistskipan: ein meira ella minni greidliga avmarkað og einsháttað náttúruskipan, har ið plantusamfeløg, dýrasamfeløg og smáverusamfeløg virka í samspæli sínámillum og við umhvørvi, sum ikki er livandi.</item>
-                  </list></p>
+                  </list>
+                </p>
               </div>
             </div>
           </div>
         </div>
         <div n="Kapittul 2">
-          <head rend="bold center"><label>Kapittul 2</label> <lb/>Almennar ásetingar um burðardygt</head>
+          <head rend="bold center"><label>Kapittul 2</label> <lb />Almennar ásetingar um burðardygt</head>
           <div n="vistskipanir">
             <head rend="italic">vistskipanir</head>
             <div type="bill-section" n="§ 4.">
@@ -169,7 +173,6 @@
                   <label rend="bold">§ 6.</label>
                   <s xml:lang="fo" cert="high" xml:id="fqkgacegtn">Øll hava skyldu til at fara fram við fyriliti og gera tað, sum rímiligt er, til, at tað slepst undan, at náttúrumargfeldið verður fyri skaða ímóti fyrisitingarmiðunum í §§ 4 og 5.</s>
                   <s xml:lang="fo" cert="high" xml:id="jbbd2nvt7y">Verður virksemi útint sambært loyvi frá almennum myndugleika, er fyrilitsskyldan at rokna sum lokin, um fyritreytirnar fyri loyvinum framvegis eru til staðar.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="v7zipodcxh">Meginreglur fyri almennum avgerðum í §§</s>
                 </p>
               </div>
             </div>
@@ -280,7 +283,7 @@
           </div>
         </div>
         <div n="Kapittul 3">
-          <head rend="bold center"><label>Kapittul 3</label> <lb/>Fyrisiting av sløgum</head>
+          <head rend="bold center"><label>Kapittul 3</label> <lb />Fyrisiting av sløgum</head>
           <div n="Meginregla fyri fyrisiting">
             <head rend="italic">Meginregla fyri fyrisiting</head>
             <div type="bill-section" n="§ 15.">
@@ -536,7 +539,7 @@
           </div>
         </div>
         <div n="Kapittul 4">
-          <head rend="bold center"><label>Kapittul 4</label> <lb/>Fremmandar lívverur</head>
+          <head rend="bold center"><label>Kapittul 4</label> <lb />Fremmandar lívverur</head>
           <div n="Fyrilitskrav">
             <head rend="italic">Fyrilitskrav</head>
             <div type="bill-section" n="§ 25.">
@@ -679,7 +682,7 @@
           </div>
         </div>
         <div n="Kapittul 5">
-          <head rend="bold center"><label>Kapittul 5</label> <lb/>Økisvernd</head>
+          <head rend="bold center"><label>Kapittul 5</label> <lb />Økisvernd</head>
           <div n="Økisverndarmið">
             <head rend="italic">Økisverndarmið</head>
             <div type="bill-section" n="§ 30.">
@@ -1144,7 +1147,6 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 3.</label>
                   <s xml:lang="fo" cert="high" xml:id="afinv5anvw">Landsstýrismaðurin kann í kunngerð nágreina, hvat ið er at rokna sum brúk, sum er í gongd, fyri ávíst virksemi.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="ln7lelvt2c">Mannagongd fyri áseting av endurgjaldi</s>
                 </p>
               </div>
             </div>
@@ -1177,7 +1179,7 @@
           </div>
         </div>
         <div n="Kapittul 6">
-          <head rend="bold center"><label>Kapittul 6</label> <lb/>Ílegutilfar</head>
+          <head rend="bold center"><label>Kapittul 6</label> <lb />Ílegutilfar</head>
           <div n="Fyrisiting av ílegutilfari">
             <head rend="italic">Fyrisiting av ílegutilfari</head>
             <div type="bill-section" n="§ 48.">
@@ -1233,7 +1235,7 @@
           </div>
         </div>
         <div n="Kapittul 7">
-          <head rend="bold center"><label>Kapittul 7</label> <lb/>Myndugleiki eftir løgtingslógini, kæra,</head>
+          <head rend="bold center"><label>Kapittul 7</label> <lb />Myndugleiki eftir løgtingslógini, kæra,</head>
           <div n="Myndugleiki eftir løgtingslógini">
             <head rend="italic">Myndugleiki eftir løgtingslógini</head>
             <div type="bill-section" n="§ 50.">
@@ -1303,7 +1305,6 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <s xml:lang="fo" cert="high" xml:id="nqaruqwfdj">Eftirlitsmyndugleikin kann heita á løgregluna um at vera sær til hjálpar, tá ið heimildirnar eftir stk. 1 verða útintar.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="r4zyyvmrkd">Upplýsingarskylda og fráboðanarskylda</s>
                 </p>
               </div>
             </div>
@@ -1363,7 +1364,7 @@
           </div>
         </div>
         <div n="Kapittul 8">
-          <head rend="bold center"><label>Kapittul 8</label> <lb/>Handhevjan og tvingsilstiltøk</head>
+          <head rend="bold center"><label>Kapittul 8</label> <lb />Handhevjan og tvingsilstiltøk</head>
           <div n="Rætting og bøtandi tiltøk">
             <head rend="italic">Rætting og bøtandi tiltøk</head>
             <div type="bill-section" n="§ 57.">
@@ -1527,7 +1528,7 @@
           </div>
         </div>
         <div n="Kapittul 9">
-          <head rend="bold center"><label>Kapittul 9</label> <lb/>Gildiskoma o.a.</head>
+          <head rend="bold center"><label>Kapittul 9</label> <lb />Gildiskoma o.a.</head>
           <div n="Gildiskoma">
             <head rend="italic">Gildiskoma</head>
             <div type="bill-section" n="§ 63.">
@@ -1709,18 +1710,18 @@
             <list rend="bulleted">
               <item>
                 <seg>Strangar reglur:</seg>
-                <lb/>
+                <lb />
                 <seg>Økisvernd (kap. 5) og raðfest sløg (§§ 21 og 22)</seg>
               </item>
               <item>
                 <seg>Ítøkiligar reglur viðvíkjandi burðardyggum brúki:</seg>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="yyrmvt5n4c">Reglur um serligar hóttanir (kap. 4 um fremmandar lívverur) ella ávirkan, sum kann gerast ov víðfevnd, um ikki meginreglur verða ásettar fyri veiðu og heysting (kap. 3 um fyrisiting av sløgum).</s>
                 <s xml:lang="fo" cert="high" xml:id="ofs4hgkhgw">Dygdarkrøv til náttúrumargfeldi eftir § 13 kunnu snúgva seg um eina samanseting av hesum.</s>
               </item>
               <item>
                 <seg>Almennar reglur um burðardygt brúk:</seg>
-                <lb/>
+                <lb />
                 <seg>Fevna um alla náttúru.</seg>
                 <s xml:lang="fo" cert="high" xml:id="ae4pbnz5e2">Fyrisiting skal byggja á eina samanseting av reglum í geiralógum og náttúrumargfeldislógini (kap. 2 um almennar ásetingar um burðardygt brúk).</s>
               </item>
@@ -1728,7 +1729,7 @@
           </p>
           <p>
             <seg>Niðanfyri verður tikið saman um høvuðstættirnar í lógaruppskotinum og tær broytingar, sum uppskotið ber í sær sammett við galdandi lóggávu:</seg>
-            <lb/>
+            <lb />
             <list rend="bulleted">
               <item>Kapittul 1 – Endamál og gildisøki o.a. (§§ 1-3)</item>
               <item>Kapittul 2 – Almennar ásetingar um burðardygt brúk (§§ 4-14)</item>
@@ -1779,7 +1780,7 @@
             <p>
               <s xml:lang="fo" cert="high" xml:id="fb7kcb4oy3">Lógin ásetur nakrar týðandi meginreglur – vitanargrundarlagið og umhvørvisrættarligar meginreglur - sum havast skulu sum grundarlag, tá ið myndugleiki verður útintur eftir náttúrumargfeldislógini og øðrum lógum.</s>
               <seg>Meginreglurnar eru:</seg>
-              <lb/>
+              <lb />
               <list rend="bulleted">
                 <item>meginreglan um vitanargrundarlagið</item>
                 <item>meginreglan um fyrivarni</item>
@@ -1838,7 +1839,7 @@
             </p>
             <p>
               <seg>Fyri innflutning og útseting av fremmandum lívverum sum avleiðing av tilvitaðum gerðum hjá fólki verða soljóðandi reglur skotnar upp:</seg>
-              <lb/>
+              <lb />
               <list rend="bulleted">
                 <item>eitt fyrilitskrav til øll, sum seta lívverur út, ella sum hava ábyrgd av virksemi, sum kann hava við sær, at fremmandar lívverur spjaðast ella sleppa út</item>
                 <item>eitt krav um, at umsókn um útseting skal gera greiðu fyri árinunum, sum útsetingin kann hava á tað lívfrøðiliga margfeldið</item>
@@ -1972,7 +1973,7 @@
             <p>
               <s xml:lang="fo" cert="high" xml:id="a7uzq3i3o4">Í lógarkapitlunum 7 og 8 verða ásettar reglur fyri eftirliti, handhevjan og tvingsilstiltøkum.</s>
               <seg>Reglurnar snúgva seg serliga um:</seg>
-              <lb/>
+              <lb />
               <list rend="bulleted">
                 <item>eftirlit</item>
                 <item>kanningarvirksemi og upplýsingarskyldu</item>
@@ -2115,13 +2116,13 @@
             </p>
             <p>
               <label rend="italic">§ 2 um gildisøki</label>
-              <lb/>
+              <lb />
               <s xml:lang="fo" cert="high" xml:id="bsqs5vvlwd">Ásetingin um gildisøkið hjá lógini hevur í sjálvari sær ongar sjálvstøðugar avleiðingar av umsitingarligum ella fíggjarligum slag.</s>
               <s xml:lang="fo" cert="high" xml:id="mhpfy4zid6">Slíkar avleiðingar koma ikki í, fyrr enn ymsar ásetingar í lógini verða brúktar á landi, í áum, vøtnum, ósum og løkum ella í føroyskum sjóumveldi.</s>
             </p>
             <p>
               <label rend="italic">§ 3 um allýsingar</label>
-              <lb/>
+              <lb />
               <s xml:lang="fo" cert="high" xml:id="dzej7cjzm3">Ásetingin hevur ongar umsitingarligar ella fíggjarligar avleiðingar í sjálvari sær.</s>
             </p>
             <div type="sub-subsection">
@@ -2136,7 +2137,7 @@
               </p>
               <p>
                 <label rend="italic">§§ 4 og 5 um fyrisitingarmið fyri náttúrusløg, vistskipanir og dýra- og plantusløg</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="ah4756vopi">Miðásetingarnar eru í sínum lógarfesta líki nýggjar í mun til galdandi rætt.</s>
                 <s xml:lang="fo" cert="high" xml:id="ysd7pngdeh">Við lógarfestingini fáa miðini størri tyngd, soleiðis at fyrilitið fyri náttúrumargfeldinum verður styrkt í avgerðatilgongdunum.</s>
                 <s xml:lang="fo" cert="high" xml:id="qdjcshtxwd">Ásetingarnar hava ikki beinleiðis virknað í sjálvum sær, men verða brúktar í sambandi við meting eftir øðrum ásetingum í náttúrumargfeldislógini ella ásetingum í øðrum lógum.</s>
@@ -2152,7 +2153,7 @@
               </p>
               <p>
                 <label rend="italic">§ 6 um almenna fyrilitsskyldu</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="wdwrivbuon">Fyrilitsskyldan í § 6 geldur fyri øll.</s>
                 <s xml:lang="fo" cert="high" xml:id="iu3f3cc63h">Tað er ein fyritreyt, at fyrilitið, sum krevst, liggur innan fyri karmarnar á tí, sum rímiliga kann væntast.</s>
                 <s xml:lang="fo" cert="high" xml:id="cz5ujo7ybr">Ásetingin sigur eisini, at fyrilitsskyldan er at rokna sum lokin, tá ið virksemi verður útint sambært loyvi frá almennum myndugleika.</s>
@@ -2174,7 +2175,7 @@
               </p>
               <p>
                 <label rend="italic">§ 7 um meginreglur fyri almennum avgerðum </label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="b2k3poiuo5">Grein 7 snýr seg um rættarvirknaðin av ásetingunum í §§ 8-12.</s>
                 <s xml:lang="fo" cert="high" xml:id="yyyhzoewpj">Hetta eru ásetingarnar um vitanargrundarlagið og umhvørvisrættarligar meginreglur.</s>
                 <s xml:lang="fo" cert="high" xml:id="f4smkjfoq5">Ásetingarnar eru leiðreglur fyri almennum avgerðum.</s>
@@ -2183,7 +2184,7 @@
               </p>
               <p>
                 <label rend="italic">§ 8 um vitanargrundarlagið</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="bkyrc3jry5">Vitanin um margfeldið í tí føroysku náttúruni er als ikki nøktandi.</s>
                 <s xml:lang="fo" cert="high" xml:id="u5i6bn3yco">Henda sannroyndin ber í sær, at skyldan eftir § 8 at byggja á vísindaliga vitan um stovnsstøðuna hjá sløgum, útbreiðsluna og tann vistfrøðiliga standin hjá náttúrusløgum og virknaðin av árinum er avmarkað.</s>
                 <s xml:lang="fo" cert="high" xml:id="suiuj7xwof">Tað er tí ógvuliga umráðandi, at farið verður undir miðvíst arbeiði at skráseta og kortleggja ta føroysku náttúruna og gera vitanina atkomandi hjá myndugleikum og almenningi.</s>
@@ -2234,7 +2235,7 @@
               </p>
               <p>
                 <label rend="italic">§§ 9 til 12 um tær umhvørvisrættarligu meginreglurnar</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="mrzqgarcma">Lógarfestingin av meginreglunum um fyrivarni (§ 9), heildartrýstið á vistskipanina (§ 10), at tann, sum varðar av virksemi, sum er umhvørvinum at skaða, ber kostnaðin (§ 11), og umhvørvisgóða tøkni og rakstrarhættir (§ 12) er helst í ávísan mun ein lógarfesting av óskrivaðum meginreglum, sum longu í dag verða brúkar í sambandi við meting, men ikki skipað.</s>
                 <s xml:lang="fo" cert="high" xml:id="xhwq44mmzi">Lógarfestingin kann gera sítt til, at tað verður lættari at ætla um avgerðir frammanundan, og ber í sær, at strangari krøv verða sett viðvíkjandi grundgeving fyri avgerðum.</s>
                 <s xml:lang="fo" cert="high" xml:id="dylnl6txx7">Annars verða fáar fíggjarligar og umsitingarligar avleiðingar.</s>
@@ -2244,7 +2245,7 @@
               </p>
               <p>
                 <label rend="italic">§ 13 um dygarkrøv til náttúrumargfeldið</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="xwn3u7yz7t">§ 13 er orðað sum ein almenn heimild til at áseta leiðbeinandi dygdarkrøv til náttúrumargfeldið.</s>
                 <s xml:lang="fo" cert="high" xml:id="m5s5zgpkvd">Tað er í útgangsstøðinum ilt at siga, hvussu nógv henda ásetingin fer at verða brúkt.</s>
                 <s xml:lang="fo" cert="high" xml:id="vrhlcrrqv7">Tað veldst m.a. um, hvussu onnur amboð í lógini sum økisvernd og raðfest sløg fara at verða brúkt.</s>
@@ -2291,7 +2292,7 @@
               <head rend="italic">Fíggjarligar og umsitingarligar avleiðingar</head>
               <p>
                 <label rend="italic">§ 15 um fyrisitingarmeginreglu</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="e3tcxyyj3i">Greinin heimilar eina almenna fyrisitingarmeginreglu fyri sløg.</s>
                 <s xml:lang="fo" cert="high" xml:id="w2fszap4gz">Ásetingin hongur nær saman við treytunum fyri veiðu í § 16.</s>
                 <s xml:lang="fo" cert="high" xml:id="x5oeounfut">Samstundis verður staðfest, at veiða, heysting og onnur gagnnýtsla, sum er fevnd av løgtingslóg um fyrisiting av sjófeingi, ikki er fevnd av §§ 16, 18 og 19 í náttúrumargfeldislógini um veiðu og tøku.</s>
@@ -2303,7 +2304,7 @@
               </p>
               <p>
                 <label rend="italic">§ 16 um veiðu</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="seuujrdonp">§ 16 er framhald av fyrisitingarmeginregluni fyri vill dýr, sbr. § 15, stk. 1.</s>
                 <s xml:lang="fo" cert="high" xml:id="xnf6e42j2c">Ásetingin ber í sær, at tað krevur heimild í lóg ella avgerð við heimild í lóg at veiða vill súgdýr og fugl.</s>
               </p>
@@ -2318,14 +2319,14 @@
               </p>
               <p>
                 <label rend="italic">§ 17 um aðra tøku eftir meting hjá landsstýrismanninum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="q64bbqpepx">Ásetingin gevur landsstýrismanninum heimild at loyva ella tøku av villum súgdýrum og fugli til onnur endamál enn gagnnýtslu.</s>
                 <s xml:lang="fo" cert="high" xml:id="qbf7qylq3t">Landsstýrismaðurin kann eisini av sínum eintingum seta tøku í verk til somu endamál og áseta nærri reglur fyri slíkari tøku.</s>
                 <s xml:lang="fo" cert="high" xml:id="qil5p2bb3f">Ásetingin verður ikki mett at fáa stórvegis fíggjarligar ella umsitingarligar avleiðingar.</s>
               </p>
               <p>
                 <label rend="italic">§§ 18 og 19 um tøku av ávikavist ryggleysum dýrum og plantum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="fwi32ujhqe">Báðar ásetingarnar lata upp fyri, at landsstýrismaðurin kann seta í verk skaðabasandi tiltøk á ognini hjá øðrum, sbr. § 18, stk. 2, og § 19, stk. 2.</s>
                 <s xml:lang="fo" cert="high" xml:id="xu66uxjayi">Tað er ein fyritreyt, at tiltøkini ikki hava fíggjarligar avleiðingar fyri jarðareigaran.</s>
                 <s xml:lang="fo" cert="high" xml:id="pqckaertuq">Veldur myndugleikin við síni skaðabasing eigaranum av ognini fíggjarligan miss, sum ikki er knýttur at sjálvum skaðadýrinum, verður eitt møguligt endurgjaldskrav avgjørt eftir vanligum endurgjaldsrættarligum meginreglum.</s>
@@ -2338,13 +2339,13 @@
               </p>
               <p>
                 <label rend="italic">§ 20 um ferðslu uttangarðs</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="uddb6k6vyp">Ásetingin letur upp fyri, at reglur kunnu ásetast fyri ferðslu uttangarðs fyri at forða fyri, at plantur ella dýr verða fyri skaða ella ampa.</s>
                 <s xml:lang="fo" cert="high" xml:id="cftsvsvjqn">Ásetingin skal bara brúkast í serligum førum og skal ikki hava fíggjarligar avleiðingar fyri jarðareigaran.</s>
               </p>
               <p>
                 <label rend="italic">§§ 21 og 22 um raðfest sløg</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="vio32tjx4p">Eftir § 21, stk. 1, kann landsstýrismaðurin við kunngerð geva nærri tilskilaðum sløgum støðu sum raðfest, og myndugleikin hevur skyldu til at meta, um slík avgerð skal takast, tá ið eitt slag eftir vísindaligum metingarstøði verður mett at vera í eini støðu, sum er í ósamsvari við miðið í § 5, stk. 2.</s>
                 <s xml:lang="fo" cert="high" xml:id="zs6mgy2jug">Metingarskyldan ber ikki í sær eina skyldu at raðfesta sløg, og tí stendur tað í stóran mun til myndugleikan at gera av, hvussu nógv raðfestingarskipanin skal brúkast.</s>
               </p>
@@ -2374,12 +2375,12 @@
               </p>
               <p>
                 <label rend="italic">§ 23 um handil o.a.</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="c3osqqobv7">Ásetingin, sum gevur landsstýrismanninum heimild at áseta reglur fyri m.a. inn- og útflutningi av hóttum dýra- og plantusløgum, fær ikki í sær sjálvari fíggjarligar ella umsitingarligar avleiðingar.</s>
               </p>
               <p>
                 <label rend="italic">§ 24 um verndartiltøk uttan fyri búøkið</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="lcfonqbnwx">Ásetingin gevur landsstýrismanninum heimild at seta verndartiltøk í verk uttan fyri búøkið hjá villum sløgum.</s>
                 <s xml:lang="fo" cert="high" xml:id="fd3odszyli">Tað verður væntandi bara í heilt serligum førum, at slík sokallað ex situ-vernd kann verða viðkomandi, og tí verður ikki roknað við, at ásetingin fær fíggjarligar og umsitingarligar avleiðingar í fyrstu atløgu.</s>
                 <s xml:lang="fo" cert="high" xml:id="o5f3x6v5yl">Ásetingin fær ongar fíggjarligar avleiðingar fyri privat.</s>
@@ -2431,7 +2432,7 @@
               </p>
               <p>
                 <label rend="italic">§§ 26 til 28 um innflutning og útseting</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="cl6w75az2m">Ásetingarnar í §§ 26 til 28 eru í stóran mun nýggjar.</s>
                 <s xml:lang="fo" cert="high" xml:id="hmvj72dbl6">Tað fer tí at krevja nakað av umsitingarligari orku at sita fyri teimum.</s>
                 <s xml:lang="fo" cert="high" xml:id="zls3spgaqn">Tað ger tó umsitingarbyrðuna munandi minni, enn hon annars hevði verið, at dýr, sum eru fevnd av ásetingum í ella við heimild í løgtingslóg um innflutning og hald av vandamiklum dýrum o.ø., t.e. øll fremmand dýr, eru undantikin kravinum um innflutningsloyvi eftir náttúrumargfeldislógini, sbr. § 26, stk. 1, 2. pkt. Verða kunngerðarheimildirnar í §§ 26 til 28 brúktar, fer – í eina tíð – tørvur at vera á arbeiðsorku til at gera kunngerðir og til málsviðgerð.</s>
@@ -2469,12 +2470,12 @@
               <head rend="italic">Fíggjarligar og umsitingarligar avleiðingar</head>
               <p>
                 <label rend="italic">§ 30 um økisverndarmið</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="nqhtaxuqg3">Ásetingin fær ikki í sær sjálvari umsitingarligar ella fíggjarligar avleiðingar.</s>
               </p>
               <p>
                 <label rend="italic">§§ 31-36 um økisvernd o.a.</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="bknnkagmph">Tá ið verndarøkir verða skipað á landi og í ella á sjónum út á 12 fjórðingar, kann tað fáa avleiðingar fyri ymisk sløg av vinnuvirksemi.</s>
                 <s xml:lang="fo" cert="high" xml:id="mz73l5dbwm">Hvussu stórar avleiðingarnar verða, veldst um verndarásetingarnar, sum ásettar verða, í mun til verndarendamálið, verndarvirðini og virksemi í tí ítøkiliga økinum.</s>
               </p>
@@ -2487,7 +2488,7 @@
               </p>
               <p>
                 <label rend="italic">§§ 32, 33, 34, 35 og 43 um røkt o.a.</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="lz2mios5qf">Lógaruppskotið ber í sær reglur um røkt av skipaðum verndarøkjum.</s>
                 <s xml:lang="fo" cert="high" xml:id="q5zlaefruo">Umframt § 43, sum ásetur yvirskipaðar reglur fyri røkt av verndarøkjum, verða ymiskar ásetingar um umsitingar- og røktarætlanir skotnar upp fyri teir ymsu verndarflokkarnar.</s>
               </p>
@@ -2514,13 +2515,13 @@
               </p>
               <p>
                 <label rend="italic">§§ 37, 38 og 39 um málsviðgerð</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="mjhuktjbuh">Tær serligu málsviðgerðarreglurnar skulu serliga geva greiðar reglur fyri samstarvi við ávirkað vinnuáhugamál og umboð fyri fólkið á staðnum.</s>
                 <s xml:lang="fo" cert="high" xml:id="nbcdvkj5sm">Ásetingarnar bera nakað av umsitingarligum skyldum í sær.</s>
               </p>
               <p>
                 <label rend="italic">§ 40 um virksemi, tá ið málsgerðin er byrjað</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="hnezwply73">§ 40, stk. 2, gevur landsstýrismanninum heimild at áseta fráboðanarskyldu, tá ið stig eru tikin til vernd.</s>
                 <s xml:lang="fo" cert="high" xml:id="jn3bp23vh3">Tørvurin á fráboðanarskyldu, og hvussu víðfevnd hon skal vera, veldst m.a. um, hvørja planstøðu økið hevur eftir planlóggávuni, og um inntrivið, sum talan er um, krevur loyvi eftir øðrum regluverki, sbr. stk. 1.</s>
                 <s xml:lang="fo" cert="high" xml:id="z6s5qucbys">Verður fráboðanarskylda ásett, kann tað hava við sær, at myndugleikin verður varur við fleiri ætlað inntriv enn annars.</s>
@@ -2529,7 +2530,7 @@
               </p>
               <p>
                 <label rend="italic">§ 41 um bráðfeingisvernd</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="bdgozvyc6c">§ 41, stk. 1, gevur landsstýrismanninum heimild at seta í verk bráðfeingisvernd av ávísum økjum.</s>
                 <s xml:lang="fo" cert="high" xml:id="zi5ernvmdi">Bráðfeingisvernd er avmarkað til fýra ár, men kann leingjast í mesta lagi tvey ár.</s>
                 <s xml:lang="fo" cert="high" xml:id="kmzcxjnknl">Eftir stk. 2 kann landsstýrismaðurin eisini seta í verk bráðfeingisvernd av ávísum náttúrusløgum.</s>
@@ -2538,23 +2539,23 @@
               </p>
               <p>
                 <label rend="italic">§ 42 um almannakunngering av verndarkunngerðum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="ktl73diolc">Ásetingin verður í lítlan mun mett hava umsitingarligar og fíggjarligar avleiðingar.</s>
               </p>
               <p>
                 <label rend="italic">§ 44 um undantak frá verndarkunngerð</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="nyrshkdtfy">Verður avgerð tikin um at geva undantak við tí treyt, at eitt samsvarandi øki verður skipað ella ment aðrastaðni, skal tann, sum varðar av virkseminum, bera rímiligar kostnaðir í tí sambandi.</s>
               </p>
               <p>
                 <label rend="italic">§ 45 um virksemi uttanfyri, sum kann valda skaða inni í einum verndarøki</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="t5nb2kyggi">Ásetingin gevur heimild til at leggja dent á verndarvirðir í einum verndarøki í sambandi við virksemi o.a. uttan fyri verndarøkið.</s>
                 <s xml:lang="fo" cert="high" xml:id="knmtuer3xe">Ásetingin verður í lítlan mun mett at fáa umsitingarligar og fíggjarligar avleiðingar.</s>
               </p>
               <p>
                 <label rend="italic">§ 46 um endurgjald til eigarar og rættindahavarar í verndarøkjum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="xhp3r3dwip">Skotnar verða upp eins endurgjaldsreglur fyri tjóðgarðar, landslagsverndarøkir, náttúrufriðøkir og lívøkisverndarøkir.</s>
                 <s xml:lang="fo" cert="high" xml:id="kzf74zjviy">Uppskotið leggur sum heild betur upp fyri áhugamálunum hjá eigarum og rættindahavarum enn galdandi lóggáva.</s>
               </p>
@@ -2572,7 +2573,7 @@
               </p>
               <p>
                 <label rend="italic">§ 47 um mannagongdina fyri áseting av endurgjaldi</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="cy6xe5wn4b">Uppskotið miðar eftir at minka um útreiðslurnar hjá tí almenna í málum um endurgjald við at miða eftir at sleppa undan drúgvum rættarmálum.</s>
                 <s xml:lang="fo" cert="high" xml:id="ubqyttxd6y">Tí skal landið í fyrstu atløgu geva eigara ella rættindahavara, sum setur fram krav um hetta, tilboð um endurgjald.</s>
                 <s xml:lang="fo" cert="high" xml:id="hae4tiimz6">Eigari ella rættindahavari, sum ikki tekur av tilboðnum, kann seta fram krav fyri landsstýrismannin um at fáa landið at biðja um rættarliga meting.</s>
@@ -2597,13 +2598,13 @@
               <head rend="italic">Fíggjarligar og umhvørvisligar avleiðingar</head>
               <p>
                 <label rend="italic">§ 48 um fyrisiting av ílegutilfari</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="a2zdcr33z5">Ásetingin staðfestir, at ílegutilfar er eitt felags tilfeingi, sum er ogn hjá Føroya fólki og verður fyrisitið av landinum.</s>
                 <s xml:lang="fo" cert="high" xml:id="luyeulbbjw">Ásetingin fær ongar beinleiðis fíggjarligar ella umsitingarligar avleiðingar fyri fyrisitingarmyndugleikan ella fyri privat.</s>
               </p>
               <p>
                 <label rend="italic">§ 49 um tøku og gagnnýtslu av ílegutilfari úr náttúruni</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="oxvuiwvlxt">Um sæð verður burtur frá løgtingslóg um fyrisiting av sjófeingi eru ongar reglur fyri atgongd at ílegutilfari í føroyskari náttúru.</s>
                 <s xml:lang="fo" cert="high" xml:id="s3nqjcdgkr">Tað er ilt at meta, í hvønn mun heimildin eftir § 49, stk.1, at áseta eina loyvisskipan fyri tøku fer at verða brúkt.</s>
                 <s xml:lang="fo" cert="high" xml:id="hh4nekaifb">Tí ber illa til at geva eitt ítøkiligt boð upp á fíggjarligar og umsitingarligar avleiðingar.</s>
@@ -2676,14 +2677,14 @@
               <head rend="italic">§§ 52 til 55 um eftirlit o.a.</head>
               <p>
                 <label rend="italic">Umhvørvisligar avleiðingar</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="fq4svqgoas">Mett verður, at reglurnar í lógaruppskotinum um eftirlit o.a. fara at effektivisera eftirlitsarbeiðið og einfalda tvingsilstiltøk fyri minni álvarslig lógarbrot, sum væntandi fara at mynda meginpartin av øllum lógarbrotunum.</s>
                 <s xml:lang="fo" cert="high" xml:id="xgibxquzqd">Uppskotið ber í sær, at revsirættarskipanin sleppur undan minni álvarsligum málum, og at fáast kunnu í lag mannagongdir fyri skjótum tiltøkum, sum styðja upp undir lýdni mótvegis regluverkinum.</s>
                 <s xml:lang="fo" cert="high" xml:id="nqn24fib33">Tær umhvørvisligu avleiðingarnar av einum betraðum heimildargrundarlagi fyri eftirliti og einfaldaðum tvingsilstiltøkum fáa tilsamans positivan virknað á umhvørvið, serliga saman við tí at váðin fyri uppdaging verður størri.</s>
               </p>
               <p>
                 <label rend="italic">§ 52 um eftirlit </label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="rqirzdfv5s">Eftir § 52, stk. 1, 1. pkt., skal landsstýrismaðurin hava eftirlit við, at lógin verður hildin.</s>
                 <s xml:lang="fo" cert="high" xml:id="w4lmhf2nuy">Eftirlitsuppgávur kunnu serliga taka seg upp í sambandi við skipanirnar við raðfestum sløgum og fremmandum lívverum.</s>
                 <s xml:lang="fo" cert="high" xml:id="anzut2elu4">Myndugleikar, sum frammanundan ikki hava havt eftirlitsábyrgd, kunnu fáa slíka ábyrgd eftir náttúrumargfeldislógini.</s>
@@ -2692,12 +2693,12 @@
               </p>
               <p>
                 <label rend="italic">§ 53 um kanningarvirksemi, § 54 um upplýsingar- og fráboðanarskyldu og § 55 um innaneftirlit</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="nytbwmzols">Mett verður ikki, at ásetingarnar fáa umsitingarligar og fíggjarligar avleiðingar av týdningi.</s>
               </p>
               <p>
                 <label rend="italic">§ 56 um broyting og afturtøku av loyvum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="af56dm6j3u">Hvørjar umsitingarligar og fíggjarligar avleiðingar ið ásetingin fær, veldst um, í hvørjum førum og í hvønn mun hon verður brúkt.</s>
               </p>
               <p>
@@ -2721,7 +2722,7 @@
               <head rend="italic">Fíggjarligar og umsitingarligar avleiðingar</head>
               <p>
                 <label rend="italic">§ 57 um rætting og bøtandi tiltøk </label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="xjw3n4omj6">§ 57, stk. 2, staðfestir eina endurreisingarskyldu í sambandi við brot á lógina.</s>
                 <s xml:lang="fo" cert="high" xml:id="qh3lu25sx7">Tiltøk sum upptøka, rudding o.a. fáa í flestum førum bæði fíggjarligar og umsitingarligar avleiðingar fyri tann, sum skyldan er vend móti.</s>
                 <s xml:lang="fo" cert="high" xml:id="kd2frfyrnr">Endurreisingarskyldan er í samsvari við meginregluna um, at tann, sum varðar av virksemi, sum er umhvørvinum at skaða, ber kostnaðin, sbr. § 11.</s>
@@ -2737,7 +2738,7 @@
               </p>
               <p>
                 <label rend="italic">§ 58 um óvæntaðar umhvørvisavleiðingar av lógligum virksemi</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="bgbe57h6yj">Eftir § 58, stk. 1, hevur tann, sum hevur ábyrgdina av lógligum virksemi, sum vísir seg at hava munandi óvæntaðar avleiðingar við sær fyri náttúrumargfeldið, skyldu til at seta rímilig tiltøk í verk til at forða fyri ella avmarka skaða ella vansar.</s>
                 <s xml:lang="fo" cert="high" xml:id="dw6frjoysx">Metast má, hvat ið er rímiligt.</s>
                 <s xml:lang="fo" cert="high" xml:id="zuhy7lqeff">Tó kann skyldan í ávísan mun fáa fíggjarligar og umsitingarligar avleiðingar fyri tann vinnurekandi.</s>
@@ -2748,7 +2749,7 @@
               </p>
               <p>
                 <label rend="italic">§ 59 um beinleiðis fremjing</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="pyxftei27p">Eftir § 59 kann landsstýrismaðurin bera so í bandi, at neyðug tiltøk verða sett í verk, sama um tann, sum hevur ábyrgdina, samtykkir ella mótmælir.</s>
                 <s xml:lang="fo" cert="high" xml:id="t55acxkzhs">Slík beinleiðis fremjing hongur saman við einum endurgjaldskravi móti tí, sum hevur ábyrgdina av útreiðslunum, sum landsstýrismaðurin hevur havt av tí beinleiðis fremjingini, sbr. stk. 2.</s>
               </p>
@@ -2758,13 +2759,13 @@
               </p>
               <p>
                 <label rend="italic">§ 60 um brúk av ogn hjá øðrum</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="yuisevubkw">Í § 60, stk. 1, verður staðfest, at tiltøk eftir §§ 57, 58 ella 59 kunnu fremjast á ognini hjá tí, sum hevur ábyrgdina, ella á ognini hjá øðrum.</s>
                 <s xml:lang="fo" cert="high" xml:id="i43dop3c22">Eftir stk. 2 er tað ein fyritreyt, at slík fremjing ikki fær fíggjarligar avleiðingar fyri onnur enn tann, sum hevur ábyrgdina.</s>
               </p>
               <p>
                 <label rend="italic">§ 61 um tvingsilssektir</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="d32thww2iy">Tvingsilssektir kunnu eftir § 61 áleggjast tí, sum hevur ábyrgdina av, at ein skylda eftir lógini ella kunngerð ella álegging frá landsstýrismanninum ikki verður lokin.</s>
                 <s xml:lang="fo" cert="high" xml:id="rg5etlan5i">Tær fíggjarligu avleiðingarnar fyri tann, sum sektin verður áløgd, valdast, hvussu stór sektin er, og hvussu long tíð gongur, til áleggingin verður lýdd.</s>
                 <s xml:lang="fo" cert="high" xml:id="m37ety6ler">Stk. 4 letur upp fyri, at landsstýrismaðurin kann sleppa áløgdum tvingsilssektum.</s>
@@ -2779,9 +2780,9 @@
               </p>
               <p>
                 <label rend="bold">Lógarkapittul 9 Gildiskoma o.a. (§§ 63-65)</label>
-                <lb/>
+                <lb />
                 <label rend="italic">§§ 63 og 64 um gildiskomu og skiftisreglur</label>
-                <lb/>
+                <lb />
                 <s xml:lang="fo" cert="high" xml:id="jcp5vmdswj">Ásetingarnar fáa ikki umsitingarligar ella fíggjarligar avleiðingar.</s>
               </p>
             </div>
@@ -2862,7 +2863,7 @@
             <head rend="bold">Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
             <table>
               <row role="label">
-                <cell/>
+                <cell />
                 <cell>Fyri landið ella landsmyndug- leikar</cell>
                 <cell>Fyri kommunalar myndugleikar</cell>
                 <cell>Fyri pláss ella øki í landinum</cell>
@@ -2903,11 +2904,11 @@
               </row>
               <row>
                 <cell>Sosialar avleiðingar</cell>
-                <cell/>
-                <cell/>
+                <cell />
+                <cell />
                 <cell>Nei</cell>
                 <cell>Nei</cell>
-                <cell/>
+                <cell />
               </row>
             </table>
           </div>
@@ -6490,10 +6491,10 @@
           </div>
         </div>
       </div>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="signature">
         <dateline><placeName>Á Løgtingi</placeName>, <date when="2019-11-04">4. november 2019</date></dateline>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <signed>
           <persName ref="https://tingdata.fo/person/dq6ph3u7">Bjørt Samuelsen</persName>
         </signed>
