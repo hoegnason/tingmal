@@ -1934,20 +1934,34 @@
             <s xml:lang="fo" cert="high">Løgmansskrivstovan skipaði sostatt tríggjar bólkar við umboðum fyri tey, sum vóru mett at hava ein serligan áhuga í eini nýggjari persónupplýsingarlóg.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">Hesir bólkar vóru:</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high"><hi rend="bold">Bólkur 1:</hi> Umboð fyri almennar og kommunalar myndugleikar.</s>
-            <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri TAKS, Gjaldstovuna, Talgildu Føroyar, Landssjúkrahúsið, Almannaverkið og Kommunufelagið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high"><hi rend="bold">Bólkur 2:</hi> Umboð fyri bankar, tryggingar- og pensjónsfeløg.</s>
-            <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri Betri, BankNordik, Norðoya Sparikassa, Suðuroyar Sparikassa og LÍV.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high"><hi rend="bold">Bólkur 3:</hi> Umboð fyri KT-veitarar.</s>
-            <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri Føroya Tele, Hey, Elektron, Formula og KT-felagið.</s>
-            <s xml:lang="fo" cert="high">Og harumframt vóru eisini kt-grannskoðarar við.</s>
+            <seg>Hesir bólkar vóru:</seg>
+            <list rend="simple">
+              <item>
+                <div>
+                  <head><label rend="bold">Bólkur 1:</label> Umboð fyri almennar og kommunalar myndugleikar.</head>
+                  <p>
+                    <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri TAKS, Gjaldstovuna, Talgildu Føroyar, Landssjúkrahúsið, Almannaverkið og Kommunufelagið.</s>
+                  </p>
+                </div>
+              </item>
+              <item>
+                <div>
+                  <head><label rend="bold">Bólkur 2:</label> Umboð fyri bankar, tryggingar- og pensjónsfeløg.</head>
+                  <p>
+                    <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri Betri, BankNordik, Norðoya Sparikassa, Suðuroyar Sparikassa og LÍV.</s>
+                  </p>
+                </div>
+              </item>
+              <item>
+                <div>
+                  <head><label rend="bold">Bólkur 3:</label> Umboð fyri KT-veitarar.</head>
+                  <p>
+                    <s xml:lang="fo" cert="high">Í bólkinum vóru umboð fyri Føroya Tele, Hey, Elektron, Formula og KT-felagið.</s>
+                    <s xml:lang="fo" cert="high">Og harumframt vóru eisini kt-grannskoðarar við.</s>
+                  </p>
+                </div>
+              </item>
+            </list>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Harumframt hevur Løgmansskrivstovan hildið fundir við Dátueftirlitið, t.e. bæði við ráðið og avgreiðsluskrivstovuna.</s>
@@ -1973,15 +1987,24 @@
           </p>
           <p>
             <s xml:lang="fo" cert="high">Tríggjar kunngerðir eru givnar við heimild í persónsupplýsingarlógini.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="medium">1) Kunngerð nr. 28 frá 27. februar 2003 um trygd í sambandi við viðgerð av persónsupplýsingum, vanliga nevnd trygdarkunngerðin, sum kom í gildi 1. mars 2003.</s>
-            <s xml:lang="fo" cert="high">Kunngerðin er ongantíð broytt.</s>
-            <s xml:lang="fo" cert="medium">2) Kunngerð nr. 31 frá 21. mars 2019 um flutning av persónupplýsingum til útlond.</s>
-            <s xml:lang="fo" cert="high">Kunngerðin kom í staðin fyri kunngerð nr. 33 frá 11. apríl 2005 um at flyta persónsupplýsingar av landinum uttan loyvi frá Dátueftirlitinum.</s>
-            <s xml:lang="fo" cert="high">Kunngerðin ásetur, hvørji lond eru at meta sum trygg útlond og treytirnar fyri at flyta persónupplýsingar til hesi lond.</s>
-            <s xml:lang="fo" cert="medium">3) Kunngerð nr. 124 frá 19. september 2011 um fráboðanarskyldu og undantøk frá reglunum um viðgerðarloyvi, sum kom í gildi 22. september 2011.</s>
-            <s xml:lang="fo" cert="high">Kunngerðin er ongantíð broytt.</s>
+            <list>
+              <label>1)</label>
+              <item>
+                <s xml:lang="fo" cert="high">Kunngerð nr. 28 frá 27. februar 2003 um trygd í sambandi við viðgerð av persónsupplýsingum, vanliga nevnd trygdarkunngerðin, sum kom í gildi 1. mars 2003.</s>
+                <s xml:lang="fo" cert="high">Kunngerðin er ongantíð broytt.</s>
+              </item>
+              <label>2)</label>
+              <item>
+                <s xml:lang="fo" cert="high">Kunngerð nr. 31 frá 21. mars 2019 um flutning av persónupplýsingum til útlond.</s>
+                <s xml:lang="fo" cert="high">Kunngerðin kom í staðin fyri kunngerð nr. 33 frá 11. apríl 2005 um at flyta persónsupplýsingar av landinum uttan loyvi frá Dátueftirlitinum.</s>
+                <s xml:lang="fo" cert="high">Kunngerðin ásetur, hvørji lond eru at meta sum trygg útlond og treytirnar fyri at flyta persónupplýsingar til hesi lond.</s>
+              </item>
+              <label>3)</label>
+              <item>
+                <s xml:lang="fo" cert="high">Kunngerð nr. 124 frá 19. september 2011 um fráboðanarskyldu og undantøk frá reglunum um viðgerðarloyvi, sum kom í gildi 22. september 2011.</s>
+                <s xml:lang="fo" cert="high">Kunngerðin er ongantíð broytt.</s>
+              </item>
+            </list>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Niðanfyri verða reglurnar í persónsupplýsingarlógini lýstar í høvuðsheitum.</s>
