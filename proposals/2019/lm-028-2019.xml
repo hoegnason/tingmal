@@ -70,7 +70,7 @@
   </teiHeader>
   <text>
     <body>
-      <ab>
+      <ab type="bill-title">
         <ab rend="bold center">Uppskot til</ab>
         <space dim="vertical"/>
         <ab rend="bold center">Løgtingslóg um fyrisiting av margfeldinum í náttúruni</ab>
@@ -106,7 +106,10 @@
             <head rend="italic">Allýsingar</head>
             <div type="bill-section" n="§ 3.">
               <div n="§ 3. Stk. 1.">
-                <p rend="bill-text"><label rend="bold">§ 3.</label> Í hesi løgtingslógini skulu hesi hugtøkini skiljast soleiðis: <list>
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <seg>Í hesi løgtingslógini skulu hesi hugtøkini skiljast soleiðis:</seg>
+                  <list>
                     <item>1) Fremmand lívvera: lívvera, sum ikki hoyrir til nakað slag ella nakran stovn, sum finst natúrliga á staðnum.</item>
                     <item>2) Heysting: at henta ella savna inn plantur ella plantupartar, eisini ber og fruktir, í útilívi og vinnu.</item>
                     <item>3) Innflutningur: at føra í land úr økjum uttan fyri gildisøkið hjá løgtingslógini.</item>
@@ -124,7 +127,8 @@
                     <item>15) Vistfrøðiligt funktiónsøki: øki, mørkini kunnu broytast við tíðini, sum hevur eina vistfrøðiliga funktión fyri eitt slag, til dømis sum gýtingarøki, vakstrarøki, øki, har ið fuglur søkir sær føði, ferðingarleið, hamskiftisøki, náttarhvíldarøki, makingarøki, yngliøki, vetrartilhaldsøki ella búøki.</item>
                     <item>16) Vistfrøðiligur standur: støða og gongd við atliti at funktiónum, bygnaði og framleidni, har ið eitt náttúruslag finst, í mun til ítøkiligar ávirkanartættir.</item>
                     <item>17) Vistskipan: ein meira ella minni greidliga avmarkað og einsháttað náttúruskipan, har ið plantusamfeløg, dýrasamfeløg og smáverusamfeløg virka í samspæli sínámillum og við umhvørvi, sum ikki er livandi.</item>
-                  </list></p>
+                  </list>
+                </p>
               </div>
             </div>
           </div>
@@ -169,7 +173,6 @@
                   <label rend="bold">§ 6.</label>
                   <s xml:lang="fo" cert="high" xml:id="fqkgacegtn">Øll hava skyldu til at fara fram við fyriliti og gera tað, sum rímiligt er, til, at tað slepst undan, at náttúrumargfeldið verður fyri skaða ímóti fyrisitingarmiðunum í §§ 4 og 5.</s>
                   <s xml:lang="fo" cert="high" xml:id="jbbd2nvt7y">Verður virksemi útint sambært loyvi frá almennum myndugleika, er fyrilitsskyldan at rokna sum lokin, um fyritreytirnar fyri loyvinum framvegis eru til staðar.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="v7zipodcxh">Meginreglur fyri almennum avgerðum í §§</s>
                 </p>
               </div>
             </div>
@@ -1144,7 +1147,6 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 3.</label>
                   <s xml:lang="fo" cert="high" xml:id="afinv5anvw">Landsstýrismaðurin kann í kunngerð nágreina, hvat ið er at rokna sum brúk, sum er í gongd, fyri ávíst virksemi.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="ln7lelvt2c">Mannagongd fyri áseting av endurgjaldi</s>
                 </p>
               </div>
             </div>
@@ -1303,7 +1305,6 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <s xml:lang="fo" cert="high" xml:id="nqaruqwfdj">Eftirlitsmyndugleikin kann heita á løgregluna um at vera sær til hjálpar, tá ið heimildirnar eftir stk. 1 verða útintar.</s>
-                  <s xml:lang="fo" cert="medium" rend="italic" xml:id="r4zyyvmrkd">Upplýsingarskylda og fráboðanarskylda</s>
                 </p>
               </div>
             </div>
