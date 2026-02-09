@@ -3206,7 +3206,7 @@
             <p>
               <s xml:lang="fo" cert="high">Í <hi rend="italic">stk. 2</hi> verður landafrøðiliga virkisøkið broytt nakað í mun til galdandi løgtingslóg.</s>
               <!-- TODO: add correction annotation <s xml:lang="fo" cert="medium">Lagt verður upp til, at løgtingslógin – umframt virkisøkið í stk. 1 – eisini skal vera galdandi fyri viðgerð av persónupplýsingum um skrásett, sum eru í Føroyum, og verður gjørd av dátuábyrgdara ella dátuviðgera, sum <hi rend="italic">ikki</hi> er staðsettur í Føroyum,</s> -->
-               <s xml:lang="fo" cert="high">Lagt verður upp til, at løgtingslógin – umframt virkisøkið í stk. 1 – eisini skal vera galdandi fyri viðgerð av persónupplýsingum um skrásett, sum eru í Føroyum, og verður gjørd av dátuábyrgdara ella dátuviðgera, sum <hi rend="italic">ikki</hi> er staðsettur í Føroyum.</s>
+              <s xml:lang="fo" cert="high">Lagt verður upp til, at løgtingslógin – umframt virkisøkið í stk. 1 – eisini skal vera galdandi fyri viðgerð av persónupplýsingum um skrásett, sum eru í Føroyum, og verður gjørd av dátuábyrgdara ella dátuviðgera, sum <hi rend="italic">ikki</hi> er staðsettur í Føroyum.</s>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Ásetingin er ikki tengd at, at tann skrásetti er búsitandi í Føroyum, men einans, at skrásetti <hi rend="italic">er</hi> í Føroyum.</s>
@@ -3526,7 +3526,7 @@
               </p>
             </div>
             <div type="sub-subsection">
-              <head rend="bold">Kapittul 2 <lb/> Meginreglur og viðgerðarreglur</head>
+              <head rend="bold">Kapittul 2 <lb /> Meginreglur og viðgerðarreglur</head>
               <p>
                 <s xml:lang="fo" cert="high">Kapittul 2 um meginreglur og viðgerðarreglur svarar innihaldsliga til kapittul 2 í GDPR.</s>
               </p>
@@ -3549,7 +3549,7 @@
             <p>
               <s xml:lang="fo" cert="high">Í mun til galdandi løgtingslóg verður lagt upp til, at meginreglurnar í <hi rend="italic">stk. 1</hi> verða orðaðar meira ítøkiligt.</s>
               <seg>Í yvirskiftum verður lagt upp til hesar meginreglur:</seg>
-              <lb/>
+              <lb />
               <list>
                 <label>1)</label>
                 <item>Lógligheit, rímiligheit og gjøgnumskygni.</item>
@@ -3598,7 +3598,7 @@
                 <s xml:lang="fo" cert="high">Seinni viðgerð er viðgerð, sum kemur aftaná upprunaligu viðgerðina, sum persónupplýsingarnar vóru savnaðar til.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="medium">§ 8, stk. 1, nr. 2 í galdandi løgtingslóg ásetur, at seinni viðgerð av persónupplýsingum skal <hi rend="italic">samsvara</hi> upprunaliga endamálinum.</s>
+                <s xml:lang="fo" cert="high">§ 8, stk. 1, nr. 2 í galdandi løgtingslóg ásetur, at seinni viðgerð av persónupplýsingum skal <hi rend="italic">samsvara</hi> upprunaliga endamálinum.</s>
                 <s xml:lang="fo" cert="high">Henda orðingin er strangari enn áður galdandi danska reglan, sum ásetti, at seinni viðgerð ikki skuldi verða í <hi rend="italic">ósamsvari</hi> við upprunaligu endamálini (“<hi rend="italic">ikke [må] være uforenelig med disse formål”</hi>)<hi rend="italic">.</hi></s>
               </p>
               <p>
@@ -3624,10 +3624,15 @@
                 <s xml:lang="fo" cert="high">Ásetingin kann verða nýtt sum vegleiðing fyri tað meting, sum skal fara fram sbrt. § 7, stk. 1, nr. 2.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="medium">Sambært ásetingini skal dátuábyrgdarin, tá seinni viðgerð ikki er grundað á samtykki ella heimilað í lóg, m.a. taka fyrilit fyri:</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="medium"> einum og hvørjum sambandi ímillum tað endamál, sum persónupplýsingarnar eru savnaðar til, og endamálið við ætlaðu seinni viðgerðini,  tí samanhangi, persónupplýsingarnar eru savnaðar í, serliga við fyriliti fyri sambandinum ímillum tann skrásetta og dátuábyrgdaran,  slagið av persónupplýsingum, serliga um viðkvæmar persónupplýsingar verða viðgjørdar,  møguligum fylgjum fyri tey skrásettu av ætlaðu seinni viðgerðini,  at hóskandi trygdartiltøk eru tøk, sum kunnu fevna um bronglan ella dulnevning.</s>
+                <seg>Sambært ásetingini skal dátuábyrgdarin, tá seinni viðgerð ikki er grundað á samtykki ella heimilað í lóg, m.a. taka fyrilit fyri:</seg>
+                <lb />
+                <list rend="bulleted">
+                  <item>einum og hvørjum sambandi ímillum tað endamál, sum persónupplýsingarnar eru savnaðar til, og endamálið við ætlaðu seinni viðgerðini,</item>
+                  <item>tí samanhangi, persónupplýsingarnar eru savnaðar í, serliga við fyriliti fyri sambandinum ímillum tann skrásetta og dátuábyrgdaran,</item>
+                  <item>slagið av persónupplýsingum, serliga um viðkvæmar persónupplýsingar verða viðgjørdar,</item>
+                  <item>møguligum fylgjum fyri tey skrásettu av ætlaðu seinni viðgerðini,</item>
+                  <item>at hóskandi trygdartiltøk eru tøk, sum kunnu fevna um bronglan ella dulnevning.</item>
+                </list>
               </p>
               <p>
                 <s xml:lang="fo" cert="high">Seinni viðgerð skal sjálvandi – umframt at lúka meginreglurnar – lúka hinar treytirnar í løgtingslógini, undir hesum hava eitt viðgerðargrundarlag.</s>
@@ -3733,15 +3738,22 @@
               <s xml:lang="fo" cert="high">Fleiri heimildir kunnu verða fyri somu viðgerð.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="medium">Lagt verður upp til seks viðgerðarheimildir í § 8, stk. 1:</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="medium">1) Samtykki.</s>
-              <s xml:lang="fo" cert="medium">2) Avtala.</s>
-              <s xml:lang="fo" cert="medium">3) Rættarlig skylda.</s>
-              <s xml:lang="fo" cert="medium">4) Verja av altumráðandi áhugamálum hjá skrásetta ella øðrum persóni.</s>
-              <s xml:lang="fo" cert="medium">5) Samfelagsáhugamál og myndugleikaútinnan.</s>
-              <s xml:lang="fo" cert="medium">6) Heimilað áhugamál.</s>
+              <seg>Lagt verður upp til seks viðgerðarheimildir í § 8, stk. 1:</seg>
+              <lb/>
+              <list>
+                <label>1)</label>
+                <item>Samtykki.</item>
+                <label>2)</label>
+                <item>Avtala.</item>
+                <label>3)</label>
+                <item>Rættarlig skylda.</item>
+                <label>4)</label>
+                <item>Verja av altumráðandi áhugamálum hjá skrásetta ella øðrum persóni.</item>
+                <label>5)</label>
+                <item>Samfelagsáhugamál og myndugleikaútinnan.</item>
+                <label>6)</label>
+                <item>Heimilað áhugamál.</item>
+              </list>
             </p>
             <div type="sub-subsection">
               <head rend="italic">Nr. 1. Samtykki</head>
