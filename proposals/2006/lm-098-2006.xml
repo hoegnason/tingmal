@@ -62,7 +62,16 @@
           <head rend="bold center">Endamál og fyrisiting</head>
           <div type="bill-section" n="§ 1.">
             <div n="§ 1. Stk. 1.">
-              <p rend="bill-text"><label rend="bold">§ 1.</label> <s xml:lang="fo" cert="high">Lógin hevur til endamáls at tryggja, at 1) øll, ið § 3, stk. 1 fevnir um, hava eitt persónstal, 2) Landsfólkayvirlitið goymir grundleggjandi persónsupplýsingar um hvønn einstakan, ið hevur eitt persónstal, 3) hvør einstakur verður skrásettur á tí bústaði, har hann veruliga býr ella heldur til, og 4) upplýsingarnar í Landsfólkayvirlitinum á hóskandi hátt kunnu latast almennum myndugleikum ella privatum, ið hava heimilaðan áhuga í hesum.</s></p>
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <seg xml:lang="fo">Lógin hevur til endamáls at tryggja, at</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">øll, ið § 3, stk. 1 fevnir um, hava eitt persónstal,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">Landsfólkayvirlitið goymir grundleggjandi persónsupplýsingar um hvønn einstakan, ið hevur eitt persónstal,</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">hvør einstakur verður skrásettur á tí bústaði, har hann veruliga býr ella heldur til, og</seg></item>
+                  <item><label>4)</label> <seg xml:lang="fo">upplýsingarnar í Landsfólkayvirlitinum á hóskandi hátt kunnu latast almennum myndugleikum ella privatum, ið hava heimilaðan áhuga í hesum.</seg></item>
+                </list>
+              </p>
             </div>
           </div>
           <div type="bill-section" n="§ 2.">
@@ -82,13 +91,28 @@
           <div type="bill-section" n="§ 3.">
             <div n="§ 3. Stk. 1.">
               <!-- TODO: extract list -->
-              <p rend="bill-text"><label rend="bold">§ 3.</label> <s xml:lang="fo" cert="high">Øll skulu fáa hvør sítt persónstal, um so er, at tey 1) verða skrásett í Landsfólkayvirlitinum, tí tey eru fødd her í landinum ella eru flutt til Føroya, 2) sambært skattamyndugleikunum skulu hava eitt persónstal í sambandi við viðgerð av skattamáli í Føroyum.</s></p>
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <seg xml:lang="fo">Øll skulu fáa hvør sítt persónstal, um so er, at tey</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">verða skrásett í Landsfólkayvirlitinum, tí tey eru fødd her í landinum ella eru flutt til Føroya,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">sambært skattamyndugleikunum skulu hava eitt persónstal í sambandi við viðgerð av skattamáli í Føroyum.</seg></item>
+                </list>
+              </p>
             </div>
             <div n="§ 3. Stk. 2.">
               <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Innlendismálaráðið hevur ábyrgd av, at persónstølini verða givin, tá ið treytirnar fyri at fáa eitt tílíkt eru loknar.</s></p>
             </div>
             <div n="§ 3. Stk. 3.">
-              <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Innlendismálaráðið sendir viðkomandi fráboðan um givna persónstalið, tá ið 1) hann er føðingarskrásettur, 2) hann er skrásettur at vera fluttur til Føroya fyrstu ferð, og 3) persónstalið er broytt, sbr. stk. 5.</s></p>
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <seg xml:lang="fo">Innlendismálaráðið sendir viðkomandi fráboðan um givna persónstalið, tá ið</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">hann er føðingarskrásettur,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">hann er skrásettur at vera fluttur til Føroya fyrstu ferð, og</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">persónstalið er broytt, sbr. stk. 5.</seg></item>
+                </list>
+              </p>
             </div>
             <div n="§ 3. Stk. 4.">
               <p rend="bill-text"><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Øll hava rætt til at venda sær til kommununa at fáa skjalváttan um sítt persónstal.</s> <s xml:lang="fo" cert="high">Kostnaðurin er upp til 50 kr.</s> <s xml:lang="fo" cert="high">Kommunustýrið kann krevja, at peningurin skal rindast, áðrenn váttanin verður latin.</s></p>
@@ -479,7 +503,22 @@
               <p rend="bill-text"><label rend="bold">§ 35.</label> <s xml:lang="fo" cert="high">Partafeløg, smápartafeløg, grunnar, fyritøkur og aðrir løgfrøðiligir og likamligar persónar, ið reka vinnuvirksemi, hava eftir reglunum í hesi grein og í § 37 rætt til at fáa upplýsingar úr Landsfólkayvirlitinum frá Innlendismálaráðnum um størri, avmarkaðan skara av persónum, treytað av, at hvør persónur sær er eyðmerktur frammanundan, sbr. stk. 5.</s> <s xml:lang="fo" cert="high">Tá ið feløg biðja um upplýsingar, skulu tey harumframt hava eitt viðurkent endamál.</s></p>
             </div>
             <div n="§ 35. Stk. 2.">
-              <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Upplýsingarnar, ið Innlendismálaráðið kann lata víðari eftir stk. 1, eru 1) núverandi navn, uttan so, at hetta er vart, 2) núverandi bústaður, uttan so, at hann er vardur, og dagfesting fyri seinastu flytingina, 3) møguligt starv, 4) møguligt frámerki um, at viðkomandi vil sleppa undan áheitanum í sambandi við marknaðarføring, sbr. § 26, stk. 2, 5) hvørt persónurin er deyður, deyðadagur og seinasti bústaður hjá viðkomandi, uttan so, at bústaðurin er vardur, 6) hvørt persónurin er horvin og dagfesting hesum viðvíkjandi, 7) møgulig flyting av landinum og dagfesting, møguligi nýggi bústaðurin uttanlands, uttan so, at hann er vardur, og dagfesting hesum viðvíkjandi, 8) møguligur tilknýtisbústaður og dagfesting hesum viðvíkjandi, 9) møgulig upplýsing um, at persónurin hevur mist sjálvræðið, dagfesting hesum viðvíkjandi og navn og bústaður hjá verjanum, ella 10) broytingar í upplýsingunum, sum nevndar eru í nr. 1-9.</s></p>
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <seg xml:lang="fo">Upplýsingarnar, ið Innlendismálaráðið kann lata víðari eftir stk. 1, eru</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">núverandi navn, uttan so, at hetta er vart,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">núverandi bústaður, uttan so, at hann er vardur, og dagfesting fyri seinastu flytingina,</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">møguligt starv,</seg></item>
+                  <item><label>4)</label> <seg xml:lang="fo">møguligt frámerki um, at viðkomandi vil sleppa undan áheitanum í sambandi við marknaðarføring, sbr. § 26, stk. 2,</seg></item>
+                  <item><label>5)</label> <seg xml:lang="fo">hvørt persónurin er deyður, deyðadagur og seinasti bústaður hjá viðkomandi, uttan so, at bústaðurin er vardur,</seg></item>
+                  <item><label>6)</label> <seg xml:lang="fo">hvørt persónurin er horvin og dagfesting hesum viðvíkjandi,</seg></item>
+                  <item><label>7)</label> <seg xml:lang="fo">møgulig flyting av landinum og dagfesting, møguligi nýggi bústaðurin uttanlands, uttan so, at hann er vardur, og dagfesting hesum viðvíkjandi,</seg></item>
+                  <item><label>8)</label> <seg xml:lang="fo">møguligur tilknýtisbústaður og dagfesting hesum viðvíkjandi,</seg></item>
+                  <item><label>9)</label> <seg xml:lang="fo">møgulig upplýsing um, at persónurin hevur mist sjálvræðið, dagfesting hesum viðvíkjandi og navn og bústaður hjá verjanum, ella</seg></item>
+                  <item><label>10)</label> <seg xml:lang="fo">broytingar í upplýsingunum, sum nevndar eru í nr. 1-9.</seg></item>
+                </list>
+              </p>
             </div>
             <div n="§ 35. Stk. 3.">
               <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Tryggingarfeløg og eftirlønargrunnar, sum eru fevnd av lógini um tryggingarvirksemi, og peningastovnar, tá ið hesir fyrisita pensjónsuppsparingar sambært lógini um fíggjarligt virksemi, hava rætt til, umframt upplýsingarnar í stk. 2, at fáa upplýsingar um hjúnastøðu og dagfesting hesum viðvíkjandi, tó ikki um sundurlesing.</s></p>
@@ -488,7 +527,15 @@
               <p rend="bill-text"><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Møgulig skuldaraupplýsingarvirki, ið hava loyvi frá Dátueftirlitinum at reka skuldaraupplýsingarvirksemi, kunnu fáa upplýsingar úr Landsfólkayvirlitinum um navn og bústað, hóast hesar eru vardar eftir § 25.</s></p>
             </div>
             <div n="§ 35. Stk. 5.">
-              <p rend="bill-text"><label rend="italic">Stk. 5.</label> <s xml:lang="fo" cert="high">Eyðmerkingin av einstaka persóninum eftir stk. 1-4 skal verða gjørd við 1) persónstali, 2) navni (núverandi ella fyrrverandi) og føðingardegi, ella 3) navni (núverandi ella fyrrverandi) og bústaði (núverandi ella fyrrverandi).</s></p>
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <seg xml:lang="fo">Eyðmerkingin av einstaka persóninum eftir stk. 1-4 skal verða gjørd við</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">persónstali,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">navni (núverandi ella fyrrverandi) og føðingardegi, ella</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">navni (núverandi ella fyrrverandi) og bústaði (núverandi ella fyrrverandi).</seg></item>
+                </list>
+              </p>
             </div>
             <div n="§ 35. Stk. 6.">
               <p rend="bill-text"><label rend="italic">Stk. 6.</label> <s xml:lang="fo" cert="high">Ein treytin er, tá ið upplýsingar skulu latast eftir stk. 1-4, at tann, ið fær upplýsingarnar, kann viðgera hesar sambært lógini um viðgerð av persónsupplýsingum.</s></p>
@@ -526,7 +573,21 @@
               <p rend="bill-text"><label rend="bold">§ 39.</label> <s xml:lang="fo" cert="high">Øll kunnu við at venda sær til eitt kommunustýri fáa upplýsingar úr Landsfólkayvirlitinum um ávísan persón, sum viðkomandi frammanundan hevur sannað, hvør ið er, sbr. stk. 6.</s></p>
             </div>
             <div n="§ 39. Stk. 2.">
-              <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Upplýsingarnar, ið kunnu verða latnar víðari eftir stk. 1, eru 1) núverandi navn, uttan so, at hetta er vart, 2) núverandi bústaður, uttan so, at hann er vardur, og dagfesting fyri seinastu flytingina, 3) møguligt starv, 4) møguligt frámerki um, at viðkomandi vil sleppa undan áheitanum í sambandi við marknaðarføring, sbr. § 26, stk. 2, 5) hvørt persónurin er deyður, deyðadagur og seinasti bústaður hjá viðkomandi, uttan so, at bústaðurin er vardur, 6) hvørt persónurin er horvin og dagfesting hesum viðvíkjandi, 7) møgulig flyting av landinum og dagfesting, møguligi nýggi bústaðurin uttanlands, uttan so, at hann er vardur, og dagfesting hesum viðvíkjandi, 8) møguligur tilknýtisbústaður og dagfesting hesum viðvíkjandi, og 9) møgulig upplýsing um, at persónurin hevur mist sjálvræðið, dagfesting hesum viðvíkjandi og navn og bústaður hjá verjanum.</s></p>
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <seg xml:lang="fo">Upplýsingarnar, ið kunnu verða latnar víðari eftir stk. 1, eru</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">núverandi navn, uttan so, at hetta er vart,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">núverandi bústaður, uttan so, at hann er vardur, og dagfesting fyri seinastu flytingina,</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">møguligt starv,</seg></item>
+                  <item><label>4)</label> <seg xml:lang="fo">møguligt frámerki um, at viðkomandi vil sleppa undan áheitanum í sambandi við marknaðarføring, sbr. § 26, stk. 2,</seg></item>
+                  <item><label>5)</label> <seg xml:lang="fo">hvørt persónurin er deyður, deyðadagur og seinasti bústaður hjá viðkomandi, uttan so, at bústaðurin er vardur,</seg></item>
+                  <item><label>6)</label> <seg xml:lang="fo">hvørt persónurin er horvin og dagfesting hesum viðvíkjandi,</seg></item>
+                  <item><label>7)</label> <seg xml:lang="fo">møgulig flyting av landinum og dagfesting, møguligi nýggi bústaðurin uttanlands, uttan so, at hann er vardur, og dagfesting hesum viðvíkjandi,</seg></item>
+                  <item><label>8)</label> <seg xml:lang="fo">møguligur tilknýtisbústaður og dagfesting hesum viðvíkjandi, og</seg></item>
+                  <item><label>9)</label> <seg xml:lang="fo">møgulig upplýsing um, at persónurin hevur mist sjálvræðið, dagfesting hesum viðvíkjandi og navn og bústaður hjá verjanum.</seg></item>
+                </list>
+              </p>
             </div>
             <div n="§ 39. Stk. 3.">
               <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Tryggingarfeløg og eftirlønargrunnar, sum eru fevnd av lógini um tryggingarvirksemi, og peningastovnar, tá ið hesir fyrisita pensjónsuppsparingar sambært lógini um fíggjarligt virksemi, hava rætt til, umframt upplýsingarnar í stk. 2, at fáa upplýsingar um hjúnastøðu og dagfesting hesum viðvíkjandi, tó ikki um sundurlesing, og eisini upplýsingar um ættarviðurskifti, undir hesum navn og bústað á skyldfólki, hóast hesar eru vardar eftir § 25, um upplýsingarnar eru neyðugar til tess at útgjalda tryggingarupphædd til tann njótunartilskilaða<hi rend="italic">.</hi></s></p>
@@ -538,7 +599,15 @@
               <p rend="bill-text"><label rend="italic">Stk. 5.</label> <s xml:lang="fo" cert="high">Vardar navna- og bústaðarupplýsingar kunnu ikki vanliga haldast loyniligar fyri kravánarum, ið hava í hyggju at fara undir at krevja ella heinta inn falna skuld.</s> <s xml:lang="fo" cert="high">Er ivi um, hvørt fíggjarkravið er veruligt, skal kommunustýrið biðja um ummæli frá skuldaranum, sum tað snýr seg um, áðrenn upplýsingarnar verða latnar víðari.</s></p>
             </div>
             <div n="§ 39. Stk. 6.">
-              <p rend="bill-text"><label rend="italic">Stk. 6.</label> <s xml:lang="fo" cert="high">Eyðmerkingin av einstaka persóninum eftir stk. 1-4 skal verða gjørd við 1) navni (núverandi ella fyrrverandi) og føðingardegi, 2) navni (núverandi ella fyrrverandi) og bústaði (núverandi ella fyrrverandi) ella 3) navni (núverandi ella fyrrverandi) og persónstali.</s></p>
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <seg xml:lang="fo">Eyðmerkingin av einstaka persóninum eftir stk. 1-4 skal verða gjørd við</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">navni (núverandi ella fyrrverandi) og føðingardegi,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">navni (núverandi ella fyrrverandi) og bústaði (núverandi ella fyrrverandi) ella</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">navni (núverandi ella fyrrverandi) og persónstali.</seg></item>
+                </list>
+              </p>
             </div>
           </div>
           <div type="bill-section" n="§ 40.">
@@ -680,7 +749,17 @@
           </div>
           <div type="bill-section" n="§ 53.">
             <div n="§ 53. Stk. 1.">
-              <p rend="bill-text"><label rend="bold">§ 53.</label> <seg xml:lang="fo">Er ikki harðari revsing ásett í aðrari lóggávu, verður tann revsaður við bót, sum við vilja ella av grovum ósketni 1) ikki rættstundis boðar frá flyting, sbr. § 11, stk. 1, 1. pkt., § 12, stk. 1, § 14, stk. 2 og § 21, stk. 1, 2) ikki boðar frá, at hann settist aftur, aftaná at hava boðað frá flyting, sbr. § 11, stk. 6, 1. pkt., 3) gevur rangar upplýsingar um flytingina og tey viðurskifti, ið skrásetast skulu í hesum sambandi, sbr. § 11, stk. 2, § 14, stk. 4, § 17, stk. 1 og 2 og § 23, stk. 1, 4) brýtur § 37, stk. 2 og 3, § 41 og tær treytir, ásettar eru eftir § 29, stk. 2, § 32, 3. pkt., § 33, 3. pkt. og § 37, stk. 1 ella 5) letur vera við at geva upplýsingar eftir § 9, stk. 2 og 3, § 12, stk. 4 og § 51, stk. 4 ella gevur rangar upplýsingar, sbr. § 9, stk. 2, nr. 2.</seg></p>
+              <p rend="bill-text">
+                <label rend="bold">§ 53.</label>
+                <seg xml:lang="fo">Er ikki harðari revsing ásett í aðrari lóggávu, verður tann revsaður við bót, sum við vilja ella av grovum ósketni</seg>
+                <list>
+                  <item><label>1)</label> <seg xml:lang="fo">ikki rættstundis boðar frá flyting, sbr. § 11, stk. 1, 1. pkt., § 12, stk. 1, § 14, stk. 2 og § 21, stk. 1,</seg></item>
+                  <item><label>2)</label> <seg xml:lang="fo">ikki boðar frá, at hann settist aftur, aftaná at hava boðað frá flyting, sbr. § 11, stk. 6, 1. pkt.,</seg></item>
+                  <item><label>3)</label> <seg xml:lang="fo">gevur rangar upplýsingar um flytingina og tey viðurskifti, ið skrásetast skulu í hesum sambandi, sbr. § 11, stk. 2, § 14, stk. 4, § 17, stk. 1 og 2 og § 23, stk. 1,</seg></item>
+                  <item><label>4)</label> <seg xml:lang="fo">brýtur § 37, stk. 2 og 3, § 41 og tær treytir, ásettar eru eftir § 29, stk. 2, § 32, 3. pkt., § 33, 3. pkt. og § 37, stk. 1 ella</seg></item>
+                  <item><label>5)</label> <seg xml:lang="fo">letur vera við at geva upplýsingar eftir § 9, stk. 2 og 3, § 12, stk. 4 og § 51, stk. 4 ella gevur rangar upplýsingar, sbr. § 9, stk. 2, nr. 2.</seg></item>
+                </list> 
+              </p>
             </div>
             <div n="§ 53. Stk. 2.">
               <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Feløg v.m. (løgfrøðiligir persónar) koma undir revsiábyrgd eftir reglunum í kapittul 5 í revsilógini.</s></p>
