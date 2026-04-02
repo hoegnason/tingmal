@@ -335,7 +335,7 @@
                 <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Stovnar, myndugleikar og heilsustarvsfólk kunnu nokta at útflýggja upplýsingar, um hetta verður mett at vera barninum til bága.</s> <s xml:lang="fo" cert="high">Upplýsingar um tað av foreldrunum, sum hevur foreldramyndugleikan, umframt tess samband við barnið, skulu ikki útflýggjast.</s></p>
               </div>
               <div n="§ 26. Stk. 3.">
-                <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Familjufyrisitingin kann í serligum førum, og eftir umbøn frá tí, sum hevur foreldramyndugleika, ella einum av teimum í stk. 1 nevndu myndugleikum, stovnum ella heilsustarvsfólkum, nokta rætt til kunning eftir stk. 1 og 2.</s> <s xml:lang="fo" cert="high">Avgerðin hevur virknað frá tí, at myndugleikin fær fráboðan um avgerðina.</s> <s xml:lang="fo" cert="medium">Ásetingarnar í hesi løgtingslóg</s></p>
+                <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Familjufyrisitingin kann í serligum førum, og eftir umbøn frá tí, sum hevur foreldramyndugleika, ella einum av teimum í stk. 1 nevndu myndugleikum, stovnum ella heilsustarvsfólkum, nokta rætt til kunning eftir stk. 1 og 2.</s> <s xml:lang="fo" cert="high">Avgerðin hevur virknað frá tí, at myndugleikin fær fráboðan um avgerðina.</s></p>
               </div>
             </div>
           </div>
@@ -1449,7 +1449,7 @@
             <s xml:lang="fo" cert="high">Sambært § 5 er tað ein greið haldanaregla um, at tað er best fyri barnið, at ein av foreldrunum, sum er dømdur fyri grova og persónsvandamikla brotsgerð, ikki hevur foreldramyndugleikan ella lut í foreldramyndugleikanum, at barnið ikki býr hjá viðkomandi, og at foreldrið ikki hevur samveru ella annað samband við barnið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">Talan er um grova og persónsvandamikla brotsgerð, sum verður mett at hava týdning í mun til førleikan hjá foreldrunum at hava umsorgan fyri barninum</s>
+            <s xml:lang="fo" cert="high">Talan er um grova og persónsvandamikla brotsgerð, sum verður mett at hava týdning í mun til førleikan hjá foreldrunum at hava umsorgan fyri barninum.</s>
           </p>
           <p>
             <s xml:lang="fo" cert="high">Víst verður til viðmerkingarnar til § 5.</s>
@@ -1490,7 +1490,7 @@
             <s xml:lang="fo" cert="high">Ásetingin er nýggj í lógini, men talan er um longu galdandi rætt sambært bekendtgørelse nr. 229 af 15 marts 2007 for Færøerne om forældremyndighed og samvær m.v., sum broytt við kunngerð nr. 106 frá 23. juli 2018.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="medium">Hendan rættarstøðan samsvarar eisini við rættarstøðuna á ættleiðingarøkinum um forboð fyri at veita og móttaka gjald ella aðra mótveiting fyri at geva samtykki til ættleiðing</s>
+            <s xml:lang="fo" cert="high">Hendan rættarstøðan samsvarar eisini við rættarstøðuna á ættleiðingarøkinum um forboð fyri at veita og móttaka gjald ella aðra mótveiting fyri at geva samtykki til ættleiðing.</s>
           </p>
         </div>
         <div type="section">
@@ -1666,25 +1666,28 @@
             <seg xml:lang="fo">Tað eru 4 sløg av eftirliti:</seg>
             <lb/>
             <list>
-              <!-- TODO: continue -->
+              <item>
+                <div>
+                  <p><s xml:lang="fo" cert="high"><label rend="bold">Eygleidd samvera</label> verður vanliga sett í verk, tá ið tørvur er á fleiri upplýsingum um barnið og samveruforeldrið.</s> <s xml:lang="fo" cert="high">Til dømis sum liður í einari barnaserkønari kanning.</s> <s xml:lang="fo" cert="high">Í slíkum føri myndar eygleiðingin grundarlag undir einari meting av, hvussu samveran skal skipast frameftir.</s> <s xml:lang="fo" cert="high">Ein avgerð um eygleidda samveru er sostatt liður í at lýsa málið og er ikki ein avgerð um, hvørt samvera skal vera ella ikki skal vera frameftir.</s></p>
+                </div>
+              </item>
+              <item>
+                <div>
+                  <p><s xml:lang="fo" cert="high"><label rend="bold">Vard samvera</label> merkir, at samveran er undir støðugum eftirliti.</s> <s xml:lang="fo" cert="high">Hetta verður oftast sett í verk, um barnið ikki hevur havt samband við samveruforeldrið í langa tíð, ella um tað er óvist, um samveruforeldrið kann taka sær av barninum, t.d. um samveruforeldrið er misnýtari, ella illgruni er um misnýtslu.</s> <s xml:lang="fo" cert="high">Vard samvera verður eisini brúkt í førum, har illgruni er um ópassandi atburð, ella um bústaðarforeldrið ber fram ótta fyri burturflyting, og vandin fyri burturflyting ikki kann vísast aftur.</s> <s xml:lang="fo" cert="high">Vard samvera kann verða sett í verk, um Familjufyrisitingin metir, at eingir aðrir møguleikar eru fyri samveru.</s></p>
+                </div>
+              </item>
+              <item>
+                <div>
+                  <p><s xml:lang="fo" cert="high"><label rend="bold">Stuðlað samvera</label> verður oftast sett í verk, um samveruforeldrið er ungt, óbúgvið ella sera óvant at ansa eftir barninum, ella um barnið er heilt lítið ella ber brek.</s> <s xml:lang="fo" cert="high">Stuðlað samvera hevur til endamáls at tryggja eina stigvísa tilvenjing, og møguliga eisini at læra samveruforeldrið at vera saman við barninum.</s> <s xml:lang="fo" cert="high">Hendan samveran kann eisini verða sett í verk í førum, har ósemjustøðið er høgt millum foreldur og tørvur er á einum uttanveltaðum persóni, sum kann vera við til at heinta og handa barnið saman við samveruforeldrunum ella sum kann fara eftir og við barninum í sambandi við samveru.</s></p>
+                </div>
+              </item>
+              <item>
+                <div>
+                  <p><s xml:lang="fo" cert="high"><label rend="bold">Hjáverusamvera</label> verður oftast sett í verk, um tørvur “bert” er á at hava ein uttanveltaðan persón hjástaddan undir samveruni.</s> <s xml:lang="fo" cert="high">Til dømis í førum har ósemjustøðið er serliga høgt millum foreldur, og bústaðarforeldrið av hesi orsøk er ímóti samveruni.</s> <s xml:lang="fo" cert="high">Í slíkum førum kann tað vera ein hjálp, fyri at tryggja sambandið millum barnið og samveruforeldrið, og ein háttur at seta gongd á samveruna.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í støðum, har tørvur er á at fáa heintan og handan av barninum at rigga, og har samveruforeldrið heintar barnið á neutralum stað.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í førum, har tað verður mett best fyri barnið at hava samband við samveruforeldrið, men bert á kennskapsstøði.</s> <s xml:lang="fo" cert="high">Samband á kennskapsstøði verður oftast skipað sum samvera við lutfalsliga longum tíðarbili millum samverurnar og har samverurnar eru stuttar.</s> <s xml:lang="fo" cert="high">Hetta til dømis um samveruforeldrið situr í fongsli.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í støðum, har tørvur er á at fáa heintan og handan av barninum at rigga, og har samveruforeldrið heintar barnið á neutralum staði.</s></p>
+                </div>
+              </item>
             </list>
           </p>
-        </div>
-        <div type="section">
-          <head rend="bold">• Eygleidd samvera</head>
-          <p><s xml:lang="fo" cert="medium">barnið og samveruforeldrið.</s> <s xml:lang="fo" cert="high">Til dømis sum liður í einari barnaserkønari kanning.</s> <s xml:lang="fo" cert="high">Í slíkum føri myndar eygleiðingin grundarlag undir einari meting av, hvussu samveran skal skipast frameftir.</s> <s xml:lang="fo" cert="high">Ein avgerð um eygleidda samveru er sostatt liður í at lýsa málið og er ikki ein avgerð um, hvørt samvera skal vera ella ikki skal vera frameftir.</s></p>
-        </div>
-        <div type="section">
-          <head rend="bold">• Vard samvera</head>
-          <p><s xml:lang="fo" cert="medium">í verk, um barnið ikki hevur havt samband við samveruforeldrið í langa tíð, ella um tað er óvist, um samveruforeldrið kann taka sær av barninum, t.d. um samveruforeldrið er misnýtari, ella illgruni er um misnýtslu.</s> <s xml:lang="fo" cert="high">Vard samvera verður eisini brúkt í førum, har illgruni er um ópassandi atburð, ella um bústaðarforeldrið ber fram ótta fyri burturflyting, og vandin fyri burturflyting ikki kann vísast aftur.</s> <s xml:lang="fo" cert="medium">Vard samvera kann verða sett í verk, um Familjufyrisitingin metir, at eingir aðrir møguleikar eru fyri</s></p>
-        </div>
-        <div type="section">
-          <head rend="bold">• Stuðlað samvera</head>
-          <p><s xml:lang="fo" cert="medium">sera óvant at ansa eftir barninum, ella um barnið er heilt lítið ella ber brek.</s> <s xml:lang="fo" cert="high">Stuðlað samvera hevur til endamáls at tryggja eina stigvísa tilvenjing, og møguliga eisini at læra samveruforeldrið at vera saman við barninum.</s> <s xml:lang="fo" cert="high">Hendan samveran kann eisini verða sett í verk í førum, har ósemjustøðið er høgt millum foreldur og tørvur er á einum uttanveltaðum persóni, sum kann vera við til at heinta og handa barnið saman við samveruforeldrunum ella sum kann fara eftir og við barninum í sambandi við samveru.</s></p>
-        </div>
-        <div type="section">
-          <head rend="bold">• Hjáverusamvera</head>
-          <p><s xml:lang="fo" cert="medium">uttanveltaðan persón hjástaddan undir samveruni.</s> <s xml:lang="fo" cert="high">Til dømis í førum har ósemjustøðið er serliga høgt millum foreldur, og bústaðarforeldrið av hesi orsøk er ímóti samveruni.</s> <s xml:lang="fo" cert="high">Í slíkum førum kann tað vera ein hjálp, fyri at tryggja sambandið millum barnið og samveruforeldrið, og ein háttur at seta gongd á samveruna.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í støðum, har tørvur er á at fáa heintan og handan av barninum at rigga, og har samveruforeldrið heintar barnið á neutralum stað.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í førum, har tað verður mett best fyri barnið at hava samband við samveruforeldrið, men bert á kennskapsstøði.</s> <s xml:lang="fo" cert="high">Samband á kennskapsstøði verður oftast skipað sum samvera við lutfalsliga longum tíðarbili millum samverurnar og har samverurnar eru stuttar.</s> <s xml:lang="fo" cert="high">Hetta til dømis um samveruforeldrið situr í fongsli.</s> <s xml:lang="fo" cert="high">Hjáverusamvera kann eisini verða sett í verk í støðum, har tørvur er á at fáa heintan og handan av barninum at rigga, og har samveruforeldrið heintar barnið á neutralum staði.</s></p>
           <p><s xml:lang="fo" cert="high">Familjufyrisitingin kann áseta neyðugar treytir í sambandi við samveru.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin kann eitt nú taka avgerð um varðveitslu av passi, og at samveruforeldrið ikki skal vera ávirkað av alkoholi ella rúsandi evnum undir samveruni.</s></p>
           <p><s xml:lang="fo" cert="high">Ásetingin um varðveitslu av passi er treytað av, at tað er ein ítøkiligur og grundaður illgruni um, at samveruforeldrið fer av landinum við barninum.</s> <s xml:lang="fo" cert="high">Eru treytir settar um varðveitslu av passi, skal passið latast Familjufyrisitingini, áðrenn samveran byrjar.</s></p>
           <p><s xml:lang="fo" cert="high">Er annað av foreldrunum dømt fyri grovt brotsverk, sambært § 5, talar hetta harðliga ímóti, at avgerð verður tikin um, at foreldrið kann hava samveru við barnið.</s> <s xml:lang="fo" cert="high">Víkjast kann frá hesum, um hetta út frá einari væl grundaðari og ítøkiligari meting verður mett at vera best fyri barnið.</s></p>
@@ -1694,7 +1697,7 @@
           <p><s xml:lang="fo" cert="high">Foreldur skulu halda galdandi avtalu ella avgerð um samveru.</s> <s xml:lang="fo" cert="high">Hevur Familjufyrisitingin ásett samveru við tvingsilsfulnaði ávísa tíð, og foreldur, sum hevur barnið búgvandi, ikki vil lata barnið til samveru, kann samveruforeldur fáa hjálp í fútarættinum at fremja samveruna.</s> <s xml:lang="fo" cert="high">Somuleiðis kann bústaðarforeldrið fáa hjálp í fútarættinum, sum samveruforeldrið forðar fyri, at barnið kemur aftur til bústaðarforeldrið, tá ið samveran eftir avtalu ella avgerð eigur at enda.</s></p>
           <p><s xml:lang="fo" cert="high">Hetta er eisini galdandi, um foreldrini sjálvi hava avtalað samveru við tvingsilsfulnaði.</s> <s xml:lang="fo" cert="high">Víst verður til kapittul 57 í rættargangslógini.</s></p>
           <p><s xml:lang="fo" cert="high">Familjufyrisitingin kann taka fyribils avgerð um samveru, ímeðan eitt mál um foreldramyndugleika, bústaðin hjá barninum, samveru ella annað samband er til viðgerðar.</s> <s xml:lang="fo" cert="high">Ein fyribils avgerð er galdandi, til ein endalig avgerð um samveru er tikin.</s> <s xml:lang="fo" cert="high">Sí nærri áseting í § 35 í lógini.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin kann nokta at áseta samveru, um Familjufyrisitingin metir at hetta er best fyri barnið.</s></p>
+          <p><label>Stk. 2.</label> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin kann nokta at áseta samveru, um Familjufyrisitingin metir at hetta er best fyri barnið.</s></p>
           <p><s xml:lang="fo" cert="high">Hóast ásett veður, at barnið hevur rætt til samband við bæði foreldur, er tað í summum førum neyðugt at nokta samveru við atliti at barnsins besta.</s> <s xml:lang="fo" cert="high">Ásetingin gevur tí Familjufyrisitingini heimild til eftir umbøn at nokta samveru ella steðga samveru.</s> <s xml:lang="fo" cert="high">Ein avgerð í hesum sambandi skal altíð takast við atliti at, hvat er best fyri barnið.</s> <s xml:lang="fo" cert="high">Afturat tí skal Familjufyrisitingin tryggja, at ein avgerð um samveru er við til at tryggja barninum trivnað, og at barnið ikki verður fyri harðskapi, ella aðrari viðferð, ið útsetir barnið fyri skaða ella vanda.</s> <s xml:lang="fo" cert="high">Barnið skal heldur ikki vera vitni til harðskap, sambært § 2.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Verður samvera noktað, kann samveruforeldrið søkja um samveru av nýggjum, tá ið viðurskiftini, sum grundaðu, at samvera varð noktað, eru broytt.</s>
@@ -1704,14 +1707,15 @@
           </p>
           <p>
             <seg xml:lang="fo">Dømi um, nær Familjufyrisitingin kann nokta at áseta samveru ella seta samveru úr gildi, eru:</seg>
+            <lb/>
+            <list rend="bulleted">
+              <item>Langtíðarskilnaður millum barn og samveruforeldur.</item>
+              <item>Óstøðufesti hjá samveruforeldri.</item>
+              <item>Høgt ósemjustøði millum foreldur.</item>
+              <item>Tilburðir, har samveruforeldur hevur nýtt harðskap.</item>
+              <item>Um barnið ikki vil hava samveru</item>
+            </list>
           </p>
-          <list>
-            <item>Langtíðarskilnaður millum barn og samveruforeldur.</item>
-            <item>Óstøðufesti hjá samveruforeldri.</item>
-            <item>Høgt ósemjustøði millum foreldur.</item>
-            <item>Tilburðir, har samveruforeldur hevur nýtt harðskap.</item>
-            <item>Um barnið ikki vil hava samveru</item>
-          </list>
           <p>
             <s xml:lang="fo" cert="high">Listin er ikki lýstur út í æsir.</s>
           </p>
@@ -1719,7 +1723,7 @@
         <div type="section">
           <head rend="bold">Til § 22 – samvera við onnur enn foreldur</head>
           <p><s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi og ásetir meginregluna fyri samveru við onnur enn foreldrini.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin hevur bert havt møguleika at ásett samveru við foreldur – ikki onnur í familjuni.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásett verður, at tað nú verður gjørligt hjá øðrum enn foreldrum at søkja um samveru.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir um støður, har annað ella bæði foreldur eru deyð, ella annað av foreldrunum er ókent.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásett verður, at tað nú verður gjørligt hjá øðrum enn foreldrum at søkja um samveru.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir um støður, har annað ella bæði foreldur eru deyð, ella annað av foreldrunum er ókent.</s></p>
           <p><s xml:lang="fo" cert="high">Ásetingin er serliga ætlað teimum, sum barnið er í ætt við, t.d. ommum, abbum, systkjum, hálvsystkjum, systkjum hjá foreldrunum ella øðrum næstingum, sum barnið er knýtt at.</s> <s xml:lang="fo" cert="high">Tey, sum eru í ætt við tað av foreldrunum, sum er á lívi, kunnu sostatt sum meginregla ikki søkja um samveru.</s></p>
           <p><s xml:lang="fo" cert="high">Tað er týdningarmikið, at barnið er knýtt at umsøkjara.</s> <s xml:lang="fo" cert="high">Tað er tí ikki nokk at vera næsti fyri at søkja um samveru.</s> <s xml:lang="fo" cert="high">Tað skal kunna vísast á tilknýti millum barn og umsøkjaran, og avgerðin skal takast út frá, hvat fyri samband verður mett best fyri barnið at varðveita.</s></p>
           <p><s xml:lang="fo" cert="high">Talan kann eisini verða um onnur, ið ikki eru í ætt við barnið, men sum barnið er knýtt at.</s> <s xml:lang="fo" cert="high">Við í metingini av, um ein persónur kann metast at vera knýttur at barninum, er sosiala tilknýtið hjá barninum til persónin.</s> <s xml:lang="fo" cert="high">Um barnið til dømis hevur eitt tætt samband við fyrrverandi stjúkforeldur, stjúksystkin ella fosturforeldur, kunnu tey eisini søkja um samveru sambært § 22 í lógini.</s></p>
@@ -1727,7 +1731,7 @@
           <p>
             <s xml:lang="fo" cert="high">Ein umsókn um samveru eftir § 22 í lógini kann einans játtast, um barnið er yngri enn 18 ár.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at í teimum førum, har barnið hevur avmarkað samband við tað av foreldrunum, ið barnið ikki býr hjá, kann Familjufyrisitingin, eftir umbøn, áseta samveru við onnur enn foreldrini, ið barnið er knýtt at.</s> <s xml:lang="fo" cert="high">Her er serliga talan um børn, ið t.d. hava lítið og einki samband við tað av foreldrunum, sum barnið ikki býr hjá, men ommu og abba, næstingar, ella onnur, ið barnið er knýtt at, og sum eru áhugað í samveru við barnið.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at í teimum førum, har barnið hevur avmarkað samband við tað av foreldrunum, ið barnið ikki býr hjá, kann Familjufyrisitingin, eftir umbøn, áseta samveru við onnur enn foreldrini, ið barnið er knýtt at.</s> <s xml:lang="fo" cert="high">Her er serliga talan um børn, ið t.d. hava lítið og einki samband við tað av foreldrunum, sum barnið ikki býr hjá, men ommu og abba, næstingar, ella onnur, ið barnið er knýtt at, og sum eru áhugað í samveru við barnið.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Viðkomandi, ið vil hava samveru, kann venda sær til Familjufyrisitingina og biðja um at samvera verður ásett við viðkomandi.</s>
           </p>
@@ -1752,7 +1756,7 @@
         </div>
         <div type="section">
           <head rend="bold">Til § 24 - viðbótarsamvera</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at samveruforeldrið hevur rætt til sjálvvirkandi viðbótarsamveru fyri mista samveru, um bústaðarforeldur hevur forðað samveru uttan haldgóða orsøk.</s> <s xml:lang="fo" cert="high">Tað er ein treyt fyri at fáa viðbótarsamveru, at samveruforeldrið beinanvegin eftir, at samveran ikki verður hildin, gevur bústaðarforeldrinum boð um, at viðkomandi vil hava viðbótarsamveru.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at samveruforeldrið hevur rætt til sjálvvirkandi viðbótarsamveru fyri mista samveru, um bústaðarforeldur hevur forðað samveru uttan haldgóða orsøk.</s> <s xml:lang="fo" cert="high">Tað er ein treyt fyri at fáa viðbótarsamveru, at samveruforeldrið beinanvegin eftir, at samveran ikki verður hildin, gevur bústaðarforeldrinum boð um, at viðkomandi vil hava viðbótarsamveru.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Endamálið við ásetingin er at varðveita sambandið millum barnið og samveruforeldrið og at forða fyri, at bústaðarforeldrið avlýsir avtalaða samveru.</s>
           </p>
@@ -1762,16 +1766,16 @@
           <p><s xml:lang="fo" cert="high">Ásetingin um viðbótarsamveru er galdandi, tá ið foreldrini sjálvi hava gjørt avtalu um samveru, og tá ið Familjufyrisitingin hevur tikið avgerð um at áseta samveru.</s> <s xml:lang="fo" cert="high">Ásetingin hevur tó bara praktiskan týdning í støðum, tá ið foreldrini ikki sjálvi kunnu avtala broytingar í samveru.</s> <s xml:lang="fo" cert="high">Foreldrini kunnu sjálvi avtala broytingar um samveru eftir tørvi.</s></p>
           <p><s xml:lang="fo" cert="high">Um samveruforeldrið vil hava viðbótarsamveru, skal viðkomandi sjálvt boða bústaðarforeldrinum frá hesum beinanvegin eftir, at samveran ikki verður hildin.</s> <s xml:lang="fo" cert="high">Samveruforeldrið skal sostatt ikki søkja um viðbótarsamveru hjá Familjufyrisitingini.</s></p>
           <p><s xml:lang="fo" cert="high">Familjufyrisitingin kann ikki hjálpa við at fremja viðbótarsamveru.</s> <s xml:lang="fo" cert="high">Um viðbótarsamvera ikki verður hildin, og um samveruforeldrið vil hava viðbótarsamveru, skal samveruforeldrið venda sær til rættin.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2-3.</s> <s xml:lang="fo" cert="high">Ásett verður, at samveruforeldrið bara hevur rætt til viðbótarsamveru í sambandi við støðuga samveru og ikki í einstøkum samveruavtalum, so sum samveru í feriu og halgidøgum ella samveru undir eftirliti.</s></p>
+          <p><label rend="italic">Stk. 2-3.</label> <s xml:lang="fo" cert="high">Ásett verður, at samveruforeldrið bara hevur rætt til viðbótarsamveru í sambandi við støðuga samveru og ikki í einstøkum samveruavtalum, so sum samveru í feriu og halgidøgum ella samveru undir eftirliti.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Hetta merkir, at um viðbótarsamvera skuldi verið í feriu ella halgidøgum, har barnið sambært avtalu ella avgerð skuldi vera hjá bústaðarforeldrinum, dettur viðbótarsamvera burtur.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 4.</s> <s xml:lang="fo" cert="high">Ásett verður, at reglurnar um rættin til viðbótarsamveru eisini eru galdandi, um viðbótarsamveran ikki verður framd.</s> <s xml:lang="fo" cert="high">Tað við siga, at verður viðbótarsamvera ikki hildin, hevur samveruforeldrið rætt til nýggja viðbótarsamveru vikuna eftir.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 5.</s> <s xml:lang="fo" cert="high">Ásett verður, at avgerðir um samveru skulu hava eina áseting um viðbótarsamveru.</s> <s xml:lang="fo" cert="high">Talan er um avgerðir, sum verða tiknar á Familjufyrisitingini sambært hesi lóg.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin hevur skyldu at vegleiða foreldrum, sum gera avtalu um samveru, um rættin hjá samveruforeldrinum til viðbótarsamveru og treytirnar í hesum sambandi.</s></p>
+          <p><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Ásett verður, at reglurnar um rættin til viðbótarsamveru eisini eru galdandi, um viðbótarsamveran ikki verður framd.</s> <s xml:lang="fo" cert="high">Tað við siga, at verður viðbótarsamvera ikki hildin, hevur samveruforeldrið rætt til nýggja viðbótarsamveru vikuna eftir.</s></p>
+          <p><label rend="italic">Stk. 5.</label> <s xml:lang="fo" cert="high">Ásett verður, at avgerðir um samveru skulu hava eina áseting um viðbótarsamveru.</s> <s xml:lang="fo" cert="high">Talan er um avgerðir, sum verða tiknar á Familjufyrisitingini sambært hesi lóg.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin hevur skyldu at vegleiða foreldrum, sum gera avtalu um samveru, um rættin hjá samveruforeldrinum til viðbótarsamveru og treytirnar í hesum sambandi.</s></p>
         </div>
         <div type="section">
           <head rend="bold">Til § 25 – annað samband</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 17 í galdandi lóg um foreldramyndugleika og samveru, tó soleiðis, at ásetingin í uppskotinum verður nútímansgjørd.</s> <s xml:lang="fo" cert="high">Ásetingin gevur Familjufyrisitingini møguleika at áseta annað samband enn vanliga samveru.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 17 í galdandi lóg um foreldramyndugleika og samveru, tó soleiðis, at ásetingin í uppskotinum verður nútímansgjørd.</s> <s xml:lang="fo" cert="high">Ásetingin gevur Familjufyrisitingini møguleika at áseta annað samband enn vanliga samveru.</s></p>
           <p><s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í serligum førum kann taka avgerð um, at tað av foreldrunum, ið ikki hevur barnið búgvandi, kann hava samband við barnið umvegis telefon, bræv ella aðrar talgildar samskiftismiðlar, so sum Skype, Facetime og annað líknandi.</s> <s xml:lang="fo" cert="high">Ásetingin er ikki lýst út í æsir.</s></p>
           <p><s xml:lang="fo" cert="high">Ein serlig støða skal liggja til grund fyri, at Familjufyrisitingin tekur avgerð um annað samband.</s> <s xml:lang="fo" cert="high">Til dømis, um møguleiki ikki er fyri vanligari samveru, ella um samveran er serliga avmarkað, orsakað av t.d. arbeiðsstøðuni hjá samveruforeldri (t.d. sjófólk).</s></p>
           <p>
@@ -1781,8 +1785,8 @@
           <p>
             <s xml:lang="fo" cert="high">Sambært § 39 skal barnið eisini altíð takast við upp á ráð, so barnið og tess sjónarmið eisini verða tikin við í metingina.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásett verður, at umbøn um annað samband kann berast fram av tí av foreldrunum, sum ikki hevur barnið búgvandi, og barnsins næstum.</s> <s xml:lang="fo" cert="high">Treytirnar í § 22 um samveru við onnur enn foreldur og § 23 um samveru við uppruna skyldfólk skulu tó vera loknar.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásett verður, at umbøn um annað samband kann berast fram av tí av foreldrunum, sum ikki hevur barnið búgvandi, og barnsins næstum.</s> <s xml:lang="fo" cert="high">Treytirnar í § 22 um samveru við onnur enn foreldur og § 23 um samveru við uppruna skyldfólk skulu tó vera loknar.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í serligum føri eftir umbøn kann áseta, at bústaðarforeldrið hevur samband við barnið umvegis telefon, bræv ella aðrar samskiftismiðlar, meðan barnið er til samveru hjá samveruforeldrinum.</s>
           </p>
@@ -1827,9 +1831,9 @@
             <item>Almennar myndugleikar: hjálpartiltøk o.a.</item>
             <item>Heilsumyndugleikar: heilsustøðu, grundir til innleggjan, viðgerð o.a.</item>
           </list>
-          <p><s xml:lang="fo" cert="medium"><hi rend="italic">Stk. 2</hi>.</s> <s xml:lang="fo" cert="high">Ein myndugleiki ella ein stovnur fevndur av stk. 1 kann nokta at útflýggja upplýsingar, um hetta verður mett at vera barninum til bága.</s> <s xml:lang="fo" cert="high">Ásett verður, at upplýsingar um tað av foreldrunum, sum hevur foreldramyndugleikan, umframt tess samband við barnið, skulu ikki útflýggjast.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ein myndugleiki ella ein stovnur fevndur av stk. 1 kann nokta at útflýggja upplýsingar, um hetta verður mett at vera barninum til bága.</s> <s xml:lang="fo" cert="high">Ásett verður, at upplýsingar um tað av foreldrunum, sum hevur foreldramyndugleikan, umframt tess samband við barnið, skulu ikki útflýggjast.</s></p>
           <p><s xml:lang="fo" cert="high">Noktar ein stovnur ella ein myndugleiki at geva viðkomandi ítøkiligar upplýsingar, skal hetta gerast við avgerð – hendan avgerð kann kærast eftir galdandi reglum hjá avvarðandi myndugleika um rætt til kæru.</s> <s xml:lang="fo" cert="high">Eru ongar reglur um rætt til kæru yvir avgerðir hjá stovninum ella myndugleikanum, kann ein ikki kæra.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 18, stk. 2 í galdandi lóg um foreldramyndugleika og samveru.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í serligum førum og eftir umbøn kann nokta hinum av foreldrunum, sum ikki hevur foreldramyndugleikan ella lut í foreldramyndugleikanum, rætt til kunning eftir stk. 1 og 2.</s> <s xml:lang="fo" cert="high">Avgerðin hevur virknað frá tí, at myndugleikin fær fráboðan um avgerðina.</s> <s xml:lang="fo" cert="high">Avgerðin skal takast eftir umbøn frá tí, sum hevur foreldramyndugleika, ella einum av teimum í stk. 1 nevndu myndugleikum og stovnum.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 18, stk. 2 í galdandi lóg um foreldramyndugleika og samveru.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í serligum førum og eftir umbøn kann nokta hinum av foreldrunum, sum ikki hevur foreldramyndugleikan ella lut í foreldramyndugleikanum, rætt til kunning eftir stk. 1 og 2.</s> <s xml:lang="fo" cert="high">Avgerðin hevur virknað frá tí, at myndugleikin fær fráboðan um avgerðina.</s> <s xml:lang="fo" cert="high">Avgerðin skal takast eftir umbøn frá tí, sum hevur foreldramyndugleika, ella einum av teimum í stk. 1 nevndu myndugleikum og stovnum.</s></p>
         </div>
         <div type="section">
           <head rend="bold">Til § 27 – umsorganaryvirtikin børn</head>
@@ -1867,17 +1871,17 @@
         </div>
         <div type="section">
           <head rend="bold">Til § 29 – ferðing og ferðaútreiðslur í sambandi við samveru</head>
-          <p><s xml:lang="fo" cert="medium"><hi rend="italic">Stk. 1</hi>.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at foreldur sum meginregla skulu býta ferðaútreiðslurnar í sambandi við samveru í millum sín, tað veri seg bæði innanlands og uttanlands.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at foreldur sum meginregla skulu býta ferðaútreiðslurnar í sambandi við samveru í millum sín, tað veri seg bæði innanlands og uttanlands.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Avtala foreldur ikki, hvør teirra skal bera ferðaútreiðslur í sambandi við samveru, er tað vanliga samveruforeldrið, ið skal bera útreiðslur í sambandi við, at barnið skal til samveru, og bústaðarforeldrið, ið skal bera ferðaútreiðslur í sambandi við, at barnið skal aftur til bústaðarforeldrið, tá ið samveran endar.</s>
           </p>
           <p><s xml:lang="fo" cert="high">Sambært § 20 í uppskotinum hava foreldur eina felags ábyrgd av at tryggja, at barnið hevur samveru við tað av foreldrunum, ið barnið ikki býr hjá.</s> <s xml:lang="fo" cert="high">Víst verður til § 20 og viðmerkingarnar til § 20.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í heilt serligum førum kann taka avgerð um býti av ferðaútreiðslum í sambandi við samveru uttanlands, um foreldrini eru ósamd um hetta.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin í heilt serligum førum kann taka avgerð um býti av ferðaútreiðslum í sambandi við samveru uttanlands, um foreldrini eru ósamd um hetta.</s></p>
           <p><s xml:lang="fo" cert="high">Ein slík avgerð skal takast út frá einari ítøkiligari meting.</s> <s xml:lang="fo" cert="high">Talan kann t.d. vera um støður, har heilt serlig landafrøðilig ella onnur atlit til ferðing gera seg galdandi, og umstøðurnar í málinum annars tala fyri at víkja frá meginregluni um, at foreldrini deila útreiðslurnar.</s> <s xml:lang="fo" cert="high">Tað kann soleiðis út frá eini heildarmeting av ymiskum viðurskiftum vera mett eyðsæð órímiligt, at annað av foreldrunum skal halda ein part av ferðingini, áðrenn vikið kann verða frá meginregluni.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Um Familjufyrisitingin metir, at grundarlag er fyri at víkja frá meginregluni um felags ábyrgd, skal Familjufyrisitingin áseta, hvussu ferðingin skal skipast, og hvussu ferðaútreiðslurnar skulu býtast.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s></p>
           <p><s xml:lang="fo" cert="high">Sambært uppskotinum kann samvera verða ásett við onnur enn foreldur.</s> <s xml:lang="fo" cert="high">Verður samvera ásett við onnur enn foreldur, skulu tey, sum fáa samveru, bera ferðaútreiðslurnar í hesum sambandi.</s></p>
         </div>
         <div type="section">
@@ -1902,7 +1906,7 @@
         </div>
         <div type="section">
           <head rend="bold">Til § 32 – fyribils avgerðir</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1 og 2.</s> <s xml:lang="fo" cert="high">Talan er lutvíst um eina samanskriving av § 21 og § 23 í galdandi lóg um foreldramyndugleika og samveru.</s></p>
+          <p><label rend="italic">Stk. 1 og 2.</label> <s xml:lang="fo" cert="high">Talan er lutvíst um eina samanskriving av § 21 og § 23 í galdandi lóg um foreldramyndugleika og samveru.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Sambært galdandi lóg kann rætturin eftir umbøn taka fyribils avgerð um foreldramyndugleika, og Familjufyrisitingin kann taka fyribils avgerð um foreldramyndugleika í sambandi við andlát, forðing og vanda fyri burturflyting av barninum.</s>
           </p>
@@ -1924,15 +1928,15 @@
           </p>
           <p><s xml:lang="fo" cert="high">Við eini fyribils avgerð um bústaðin hjá barninum kann dentur m.a. leggjast á tilknýtið millum barnið og foreldrini, persónligu eginleikarnar hjá foreldrunum, og hvussu barnið fer at reagera, um tað møguliga skal flyta stovn ella skúla.</s> <s xml:lang="fo" cert="high">Tað kann sostatt hava týdning at varðveita verandi støðu fyri barnið, meðan málið verður viðgjørt.</s></p>
           <p><s xml:lang="fo" cert="high">Dentur skal verða lagdur á tilknýtið til foreldrini, persónligu førleikarnar hjá foreldrunum, og hvussu barnið møguliga ber ser at við at skifta skúla, stovn e.l. vegna flyting.</s> <s xml:lang="fo" cert="high">Tað er ein fyrimunur, um so lítið sum gjørligt verður broytt í tilveru barnsins.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásett verður, at ein avgerð sbrt. stk. 1 og 2 er galdandi, til ein endalig avtala ella avgerð, sum kann fullgerast, fyriliggur.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 4.</s> <s xml:lang="fo" cert="high">Ásett verður, at ein fyribils avgerð um foreldramyndugleika og bústaðin hjá barninum fellur burtur, um umbønin um, at ein avgerð verður tikin um foreldramyndugleika ella bústaðin hjá barninum, verður tikin aftur ella avvíst, ella um foreldrini taka upp aftur samlívið.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásett verður, at ein avgerð sbrt. stk. 1 og 2 er galdandi, til ein endalig avtala ella avgerð, sum kann fullgerast, fyriliggur.</s></p>
+          <p><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Ásett verður, at ein fyribils avgerð um foreldramyndugleika og bústaðin hjá barninum fellur burtur, um umbønin um, at ein avgerð verður tikin um foreldramyndugleika ella bústaðin hjá barninum, verður tikin aftur ella avvíst, ella um foreldrini taka upp aftur samlívið.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Mótsett § 12 fevnir hetta bæði um gift og ógift, sum taka upp aftur samlívið.</s>
           </p>
         </div>
         <div type="section">
           <head rend="bold">Til § 33 – vandi fyri burturflyting</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin samsvarar í stóran mun við § 22 í galdandi lóg um foreldramyndugleika og samveru.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin samsvarar í stóran mun við § 22 í galdandi lóg um foreldramyndugleika og samveru.</s></p>
           <p><s xml:lang="fo" cert="high">Landsstýrismaðurin, Familjufyrisitingin ella tann, sum fær heimild til tað, kann eftir umbøn fyribils lata einum av foreldrunum foreldramyndugleikan einsamalt, um foreldrini hava felags foreldramyndugleika, og tað er vandi fyri, at hitt foreldrið fer at taka barnið við sær av landinum ella verður afturhildið uttanlands undan einari avgerð um foreldramyndugleika.</s> <s xml:lang="fo" cert="high">Danmark og Grønland skulu í hesum sambandi metast sum útland.</s></p>
           <p><s xml:lang="fo" cert="high">Líknandi áseting er í donsku foreldraábyrgdarlógini.</s> <s xml:lang="fo" cert="high">Í Danmark er Koordinationsenheden for børnebortførelsen heimilað til at taka avgerð um foreldramyndugleika, tá ið vandi er fyri burturflyting.</s> <s xml:lang="fo" cert="high">Almannamálaráðið hevur vent sær til Social- og Indenrigsministeriet í Danmark við fyrispurningi um, hvørt ein avtala kann gerast um, at Koordinationsenheden for børnebortførelser kann viðgera føroysk mál.</s></p>
           <p><s xml:lang="fo" cert="high">Talan skal vera um mál, har fráferð hjá barninum er í næstum.</s> <s xml:lang="fo" cert="high">Avgerðin skal altíð vera grundað á eina ítøkiliga meting av, hvat er best fyri barnið.</s></p>
@@ -1946,9 +1950,9 @@
           <p>
             <s xml:lang="fo" cert="high">Almannamálaráðið hevur í umbúna at kanna, hvørt hesir sáttmálar kunnu verða settir í gildi fyri Føroyar, og hvussu hetta kann verða gjørt.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásett verður, at ein fyribils avgerð sbrt. stk. 1 er galdandi, til ein endalig avtala ella avgerð um foreldramyndugleika, sum kann fullgerast, fyriliggur sbrt. tó stk. 3.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásett verður, at ein fyribils avgerð sbrt. stk. 1 er galdandi, til ein endalig avtala ella avgerð um foreldramyndugleika, sum kann fullgerast, fyriliggur sbrt. tó stk. 3.</s></p>
           <p><s xml:lang="fo" cert="high">Er málið lagt fyri rættin, og rætturin hevur felt dóm um foreldramyndugleika, fellur ein fyribils avgerð um eina foreldramyndugleika sbrt. § 32, stk. 1 burtur, tá ið fullgerðarfreistin fyri dómin er farin, uttan so, at dómurin er skotin inn fyri hægri rætt áðrenn.</s> <s xml:lang="fo" cert="high">Fullgerðarfreistin er 14 dagar eftir, at dómur er sagdur, uttan so, at annað er ásett í dóminum sbrt. § 537, stk. 1 í rættargangslógini.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásett verður, nær ein fyribils avgerð, har annað av foreldrunum fær foreldramyndugleikan einsamalt, fellur burtur.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásett verður, nær ein fyribils avgerð, har annað av foreldrunum fær foreldramyndugleikan einsamalt, fellur burtur.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Um ein fyribils avgerð um einaforeldramyndugleika sbrt. § 32, stk. 1 fellur burtur sbrt. § 32, stk. 3, fáa foreldrini aftur felags foreldramyndugleika, um foreldrini høvdu tað, áðrenn fyribils avgerðin varð tikin.</s>
           </p>
@@ -1976,7 +1980,7 @@
         </div>
         <div type="section">
           <head rend="bold">Til § 35 – samvera</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin gevur Familjufyrisitingini heimild til, eftir umbøn, at gera av, hvussu samveran fyribils skal skipast, meðan eitt mál um foreldramyndugleika, bústaðin hjá barninum, samveru og annað samband er til viðgerðar.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin gevur Familjufyrisitingini heimild til, eftir umbøn, at gera av, hvussu samveran fyribils skal skipast, meðan eitt mál um foreldramyndugleika, bústaðin hjá barninum, samveru og annað samband er til viðgerðar.</s></p>
           <p><s xml:lang="fo" cert="high">Avgerðin skal altíð takast við atliti at barnsins besta og skal helst takast skjótast gjørligt.</s> <s xml:lang="fo" cert="high">Í sambandi við viðgerðina av málinum, skal Familjufyrisitingin leggja serligan dent á, at avgerðin skal tryggja trivnaðin hjá barninum, og tryggja barnið ímóti harðskapi ella øðrum, ið kann skaða barnið, sum t.d., at barnið er vitni til harðskap.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Er talan um viðgerð av einum máli um samveru, kann ein fyribils avgerð verða tikin um at strika ella avmarka samveru í skundmálum, um illgruni er um harðskap el.tíl. Ein slík avgerð kann um neyðugt verða tikin uttan partshoyring sambært § 18 í fyrisitingarlógini.</s>
@@ -1985,8 +1989,8 @@
             <s xml:lang="fo" cert="high">Er talan um viðgerð av einum máli um foreldramyndugleika og bústaðin hjá barninum, kann ein fyribils avgerð verða tikin um samveru fyri at tryggja, at barnið hevur samband við bæði foreldrini, meðan málið verður viðgjørt.</s>
           </p>
           <p><s xml:lang="fo" cert="high">Barnið skal til eina og hvørja tíð takast við upp á ráð, áðrenn ein avgerð verður tikin, og barnið skal hoyrast alt eftir, hvussu gamalt og hvussu búgvið tað er.</s> <s xml:lang="fo" cert="high">Er annað av foreldrunum dømt fyri grova og persónsvandamikla brotsgerð, er tað ein greið haldanaregla um, at tað er best fyri barnið, at barnið ikki hevur samveru við viðkomandi sbrt. § 5.</s> <s xml:lang="fo" cert="high">Víst verður í hesum sambandi til viðmerkingarnar til § 5.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin ásetir, at ein fyribils avgerð er galdandi, til ein endalig avgerð um samveru er tikin, ella ein avtala um annað samband fyriliggur.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásett verður, at ein avgerð sbrt. stk. 1 fellur burtur, um umbønin um, at tað skal takast ein avgerð um foreldramyndugleika, bústaðin hjá barninum, samveru ella annað samband, verður tikin aftur ella avvíst, ella um foreldrini taka upp aftur samlívið.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin ásetir, at ein fyribils avgerð er galdandi, til ein endalig avgerð um samveru er tikin, ella ein avtala um annað samband fyriliggur.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásett verður, at ein avgerð sbrt. stk. 1 fellur burtur, um umbønin um, at tað skal takast ein avgerð um foreldramyndugleika, bústaðin hjá barninum, samveru ella annað samband, verður tikin aftur ella avvíst, ella um foreldrini taka upp aftur samlívið.</s></p>
         </div>
         <div type="section">
           <head rend="bold">Til § 36 – broyting</head>
@@ -1997,7 +2001,7 @@
         </div>
         <div type="section">
           <head rend="bold">Til § 37 – ráðgeving og mekling</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 27 í galdandi lóg um foreldramyndugleika og samveru, tó soleiðis at ásett verður, at Familjufyrisitingin umframt barnaserkøna ráðgeving eisini hevur skyldu at bjóða mekling.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin hevur skyldu at bjóða foreldrum ráðgeving og mekling, og børnum ráðgeving, og sum nakað nýtt kann Familjufyrisitingin eisini bjóða øðrum, sum barnið er knýtt at, ráðgeving og mekling.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 27 í galdandi lóg um foreldramyndugleika og samveru, tó soleiðis at ásett verður, at Familjufyrisitingin umframt barnaserkøna ráðgeving eisini hevur skyldu at bjóða mekling.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin hevur skyldu at bjóða foreldrum ráðgeving og mekling, og børnum ráðgeving, og sum nakað nýtt kann Familjufyrisitingin eisini bjóða øðrum, sum barnið er knýtt at, ráðgeving og mekling.</s></p>
           <p><s xml:lang="fo" cert="high">Barnaserkøn ráðgeving og mekling hjá Familjufyrisitingini er fyri øll foreldur í Føroyum, ið ikki liva saman, og børn teirra.</s> <s xml:lang="fo" cert="high">Tað er ikki eitt krav, at foreldrini hava ella hava havt eitt mál í Familjufyrisitingini, ella at tey hava verið í sambandi við Familjufyrisitingina áður.</s></p>
           <p><s xml:lang="fo" cert="high">Harafturat kunnu persónar, ið barnið er tætt knýtt at, luttaka, um Familjufyrisitingin metir tað hóskandi.</s> <s xml:lang="fo" cert="high">Talan er um fólk, sum eru um barnið í gerandisdegnum.</s></p>
           <p><s xml:lang="fo" cert="high">Eftir umbøn um ráðgeving ella mekling er tað Familjufyrisitingin, sum metir um, hvørt tilboðið er hóskandi fyri foreldrini, barnið ella onnur, sum barnið er knýtt at.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin metir eisini um, hvør luttekur í ráðgevingini í senn, hvønn barnaserkøn ráðgeving er viðkomandi fyri, og hvussu ráðgevingin verður skipað í hvørjum einstøkum føri.</s></p>
@@ -2077,24 +2081,24 @@
           <p>
             <s xml:lang="fo" cert="high">Familjufyrisitingin skipar samrøðubólkarnar, foreldrasamstarvsskeiðini o.a. Eftir umbøn um at luttaka, metir Familjufyrisitingin um, hvørt tilboðið er hóskandi fyri ítøkiliga barnið, foreldrini ella onnur vaksin, ið barnið er knýtt at.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir um tær støður, har mál um foreldramyndugleika, bústaðin hjá barninum, samvera ella annað samband enn ikki er stovnað í Familjufyrisitingini, men har foreldur ella barnið vilja ráðgeving, mekling ella luttaka í samrøðubólki ella á foreldrasamstarvsskeiði.</s> <s xml:lang="fo" cert="high">Hvørt Familjufyrisitingin skal bjóða ráðgeving ella mekling í slíkum førum veldst um eina ítøkiliga meting.</s> <s xml:lang="fo" cert="high">Partarnir kunnu ikki krevja at fáa ráðgeving ella mekling.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Verður tað mett óskynsamt ella óneyðugt at bjóða ráðgeving ella mekling, kann Familjufyrisitingin lata vera við tí.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir t.d. um støður, har Familjufyrisitingin júst hevur bjóðað ráðgeving ella mekling, ella um umbønin um ráðgeving ella mekling snýr seg um smáspurningar í sambandi við útinnan av samveru o.tíl.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin fevnir um tær støður, har mál um foreldramyndugleika, bústaðin hjá barninum, samvera ella annað samband enn ikki er stovnað í Familjufyrisitingini, men har foreldur ella barnið vilja ráðgeving, mekling ella luttaka í samrøðubólki ella á foreldrasamstarvsskeiði.</s> <s xml:lang="fo" cert="high">Hvørt Familjufyrisitingin skal bjóða ráðgeving ella mekling í slíkum førum veldst um eina ítøkiliga meting.</s> <s xml:lang="fo" cert="high">Partarnir kunnu ikki krevja at fáa ráðgeving ella mekling.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Verður tað mett óskynsamt ella óneyðugt at bjóða ráðgeving ella mekling, kann Familjufyrisitingin lata vera við tí.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir t.d. um støður, har Familjufyrisitingin júst hevur bjóðað ráðgeving ella mekling, ella um umbønin um ráðgeving ella mekling snýr seg um smáspurningar í sambandi við útinnan av samveru o.tíl.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Ásetingin fevnir eisini um mál, har talan hevur verið um harðskap, kynsligan ágang o.tíl., og Familjufyrisitingin metir, at ráðgeving og mekling ikki er rætta amboðið.</s>
           </p>
         </div>
         <div type="section">
           <head rend="bold">Til § 38 – málsviðgerðarreglur</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at umbønir um avgerðir um foreldramyndugleika sambært § 15, um bústaðin hjá barninum sambært § 18, um samveru sambært §§ 20-23 og um annað samband sambært § 25 verða latnar Familjufyrisitingini, sum er rætti myndugleiki at taka avgerð í slíkum málum.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at umbønir um avgerðir um foreldramyndugleika sambært § 15, um bústaðin hjá barninum sambært § 18, um samveru sambært §§ 20-23 og um annað samband sambært § 25 verða latnar Familjufyrisitingini, sum er rætti myndugleiki at taka avgerð í slíkum málum.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Ásetingin staðfestir, at tað er Familjufyrisitingin, sum tekur avgerð á fyrsta stigi í hesum málum.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingini kann viðgera ymisk mál undir einum, um talan er um somu partar.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingini kann viðgera ymisk mál undir einum, um talan er um somu partar.</s></p>
           <p><s xml:lang="fo" cert="high">Tað kann koma fyri, at somu partar hava fleiri mál um ymisk viðurskifti til viðgerðar samstundis.</s> <s xml:lang="fo" cert="high">Fyri at lætta um og stytta um viðgerðartíðina, borgarunum at frama, kann Familjufyrisitingin viðgera málini undir einum.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin skal kalla foreldur á fund í sambandi við eina umbøn um avgerð.</s> <s xml:lang="fo" cert="high">Hetta er tó ikki galdandi fyri avgerðir um annað samband.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásett verður, at Familjufyrisitingin skal kalla foreldur á fund í sambandi við eina umbøn um avgerð.</s> <s xml:lang="fo" cert="high">Hetta er tó ikki galdandi fyri avgerðir um annað samband.</s></p>
           <p><s xml:lang="fo" cert="high">Endamálið við fundinum er at hjálpa foreldrunum at blíva samd.</s> <s xml:lang="fo" cert="high">Tí verða foreldrini sum meginregla kallaði á fund saman, uttan so, at serligar umstøður gera seg galdandi sbrt. stk. 3.</s></p>
           <p><s xml:lang="fo" cert="high">Verður tað mett óskynsamt ella óneyðugt at kalla foreldrini á fund, kann Familjufyrisitingin lata vera við tí.</s> <s xml:lang="fo" cert="high">Ásetingin fevnir t.d. um støður, har foreldrini júst hava verið á fundi, ein avgerð júst er tikin, uttan at talan er um munandi broyttar umstøður, ella um umbønin snýr seg um smáspurningar í sambandi við útinnan av samveru.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 4.</s> <s xml:lang="fo" cert="high">Ásett verður, at foreldrini hava skyldu at luttaka á fundi, uttan so, at serligar umstøður gera seg galdandi.</s></p>
+          <p><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Ásett verður, at foreldrini hava skyldu at luttaka á fundi, uttan so, at serligar umstøður gera seg galdandi.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Serligar umstøður fevna t.d. um álvarsliga sjúku, ella um annað av foreldrunum hevur framt harðskap móti hinum foreldrinum.</s>
           </p>
@@ -2108,7 +2112,7 @@
           <p><s xml:lang="fo" cert="high">Sjónarmið hjá barninum kunnu verða lýst við at hava eina samrøðu við barnið.</s> <s xml:lang="fo" cert="high">Áskoðanin hjá barninum kann eisini koma til sjóndar á annan hátt, eitt nú við einari barnaserkønari kanning, innheintan av upplýsingum frá skúla, stovni, almennum myndugleika, umvegis upplýsingar frá foreldrunum el.tíl.</s></p>
           <p><s xml:lang="fo" cert="high">Atlit skal í hesum sambandi takast at aldrinum á barninum.</s> <s xml:lang="fo" cert="high">Ein samrøða er t.d. ikki væl egnað til smærri børn.</s> <s xml:lang="fo" cert="high">Tá kann vera viðkomandi við einari barnaserkønari kanning, einum ummæli frá ansingarstovninum, skúla ella øðrum serkønum, sum kenna barnið.</s></p>
           <p><s xml:lang="fo" cert="high">Ásetingin er galdandi fyri Familjufyrisitingina og rættin.</s> <s xml:lang="fo" cert="high">Víst verður til § 479 í rættargangslógini um samrøðu o.a. við barnið undir einum rættarmáli um foreldramyndugleika og § 480 um samrøðu við barnið.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Skyldan til at taka barnið við í málsviðgerðina er ikki galdandi, um mett verður, at tað er barninum til bága, ella um mett verður, at tað ikki hevur týdning fyri málið.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Skyldan til at taka barnið við í málsviðgerðina er ikki galdandi, um mett verður, at tað er barninum til bága, ella um mett verður, at tað ikki hevur týdning fyri málið.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Hetta kann t.d. skjalprógvast við einum ummæli frá einum løggildum sálarfrøðingi, egnum lækna, ella gongdin í málinum higartil kann benda á hetta, t.d. um ósemjustøðið millum foreldrini er høgt.</s>
           </p>
@@ -2174,7 +2178,7 @@
           <p><s xml:lang="fo" cert="high">Avgerandi fyri broytingina er barnsins besta.</s> <s xml:lang="fo" cert="high">Atlit skal í hesum sambandi eisini takast at, um ein av foreldrunum hevur framt samverusjikanu.</s> <s xml:lang="fo" cert="high">Ásetingin í § 5 er eisini viðkomandi fyri avgerðir, tiknar sambært hesi ásetingini.</s></p>
           <p><s xml:lang="fo" cert="high">Foreldur kunnu til eina og hvørja tíð avtala at broyta áður avtalaða ella ásetta samveru.</s> <s xml:lang="fo" cert="high">Familjufyrisitingin kann tó seta nýggju samveruavtaluna í nýtt samveruskjal við tvingsilsfulnaði.</s></p>
           <p><s xml:lang="fo" cert="high">Viðv. samveru skal Familjufyrisitingin sum meginregla ikki taka avgerð um at broyta samveruna, um broytingin ikki snýr seg um yvirskipaðu karmarnar fyri samveru, men t.d. snýr seg um at leingja ella flyta eina samveru orsakað av einum føðingardegi ella øðrum einstøkum hendingum.</s> <s xml:lang="fo" cert="high">Slíkar broytingar mugu foreldur sjálvi avtala sínámillum.</s> <s xml:lang="fo" cert="high">Verða foreldur ikki samd, skal avtalan ella avgerðin um samveru fylgjast.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi og gevur Familjufyrisitingini heimild til at avvísa eina umbøn um at broyta bústaðin hjá barninum, samveru ella annað samband, um viðurskiftini ikki eru broytt munandi.</s> <s xml:lang="fo" cert="high">Heimildin fevnir harafturímóti ikki um at avvísa umbønum um at broyta eina avtalu um flytan av foreldramyndugleika sbrt. § 13, stk. 2, ella eina avgerð um foreldramyndugleika eftir andlát sbrt. § 15, stk. 4.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin er nýggj í føroyskum høpi og gevur Familjufyrisitingini heimild til at avvísa eina umbøn um at broyta bústaðin hjá barninum, samveru ella annað samband, um viðurskiftini ikki eru broytt munandi.</s> <s xml:lang="fo" cert="high">Heimildin fevnir harafturímóti ikki um at avvísa umbønum um at broyta eina avtalu um flytan av foreldramyndugleika sbrt. § 13, stk. 2, ella eina avgerð um foreldramyndugleika eftir andlát sbrt. § 15, stk. 4.</s></p>
           <p><s xml:lang="fo" cert="high">Tað er sum meginregla ein treyt fyri at viðgera eina umsókn um at broyta bústaðin hjá barninum, samveru ella annað samband, at talan er um munandi broytt viðurskifti.</s> <s xml:lang="fo" cert="high">Tað er sostatt ikki grundarlag fyri at halda, at tað er best fyri barnið at broyta bústaðin hjá barninum, samveru ella annað samband, um viðurskiftini ikki eru broytt munandi.</s> <s xml:lang="fo" cert="high">Tað er ein ítøkilig meting, um viðurskiftini eru broytt munandi.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Ein avgerð um at avvísa eina umsókn skal altíð vera til barnsins besta.</s>
@@ -2191,8 +2195,8 @@
         <div type="section">
           <head rend="bold">Til § 45 – rætt til ókeypis umboðan</head>
           <p><s xml:lang="fo" cert="high">Ásetingin er nýggj í føroysku høpi, og gevur foreldrum, ið eru partar í málum um bústaðin hjá barninum og samverumálum, rætt til ókeypis umboðan.</s> <s xml:lang="fo" cert="high">Hetta er fyri at økja um rættartrygd í sambandi við fyrisitingarligu avgerðina um bústaðin hjá barninum, og at bæði foreldur standa javnt í umboðanini í Familjufyrisitingini.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Advokaturin skal beinanvegin kunnast um skjøl frá Familjufyrisitingini, og fáa eina freist fyri skrivligari framløgu, umframt framløgu av skjølum.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Viðvíkjandi samsýning og endurgjaldi fyri útreiðslur til advokat, skulu foreldrini bert uppfylla markið í inntøku grundarlagnum ásett í ”bekendtgørelse nr. 2125 af 25. november 2021 af for Færøerne om fri proces” samanber kapittul 41 í ”lov for Færøerne om rettens pleje”.</s> <s xml:lang="fo" cert="high">Foreldrini søkja um ókeypis umboðan við at útfylla eitt oyðublað hjá Familjufyrisitingini, ið er góðkent av Almannamálaráðnum.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Advokaturin skal beinanvegin kunnast um skjøl frá Familjufyrisitingini, og fáa eina freist fyri skrivligari framløgu, umframt framløgu av skjølum.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Viðvíkjandi samsýning og endurgjaldi fyri útreiðslur til advokat, skulu foreldrini bert uppfylla markið í inntøku grundarlagnum ásett í ”bekendtgørelse nr. 2125 af 25. november 2021 af for Færøerne om fri proces” samanber kapittul 41 í ”lov for Færøerne om rettens pleje”.</s> <s xml:lang="fo" cert="high">Foreldrini søkja um ókeypis umboðan við at útfylla eitt oyðublað hjá Familjufyrisitingini, ið er góðkent av Almannamálaráðnum.</s></p>
           <p><s xml:lang="fo" cert="high">Útreiðslur sambært hesi grein verða hildnar av landskassanum.</s> <s xml:lang="fo" cert="high">Landsstýrismaðurin syrgir fyri, at neyðug játtan er til taks hjá Familjufyrisitingini til at veita borgarunum tær tænastur og átøk, sum landið hevur ábyrgd av at veita sambært hesi løgtingslóg.</s></p>
         </div>
         <div type="section">
@@ -2236,19 +2240,19 @@
           <p>
             <s xml:lang="fo" cert="high">Ásetingin er eisini broytt soleiðis, at bústaðurin hjá barninum og annað samband er skoytt upp í ásetingina.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 31, stk. 2 í galdandi lóg um foreldramyndugleika og samveru.</s> <s xml:lang="fo" cert="high">Ásetingin er tó broytt soleiðis, at landsstýrismaðurin kann áseta reglur um viðurskiftini millum føroyskar - heldur enn danskar – og aðrar norðurlendskar rættarreglur um foreldramyndugleika og samveru.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Ásetingin samsvarar við § 31, stk. 2 í galdandi lóg um foreldramyndugleika og samveru.</s> <s xml:lang="fo" cert="high">Ásetingin er tó broytt soleiðis, at landsstýrismaðurin kann áseta reglur um viðurskiftini millum føroyskar - heldur enn danskar – og aðrar norðurlendskar rættarreglur um foreldramyndugleika og samveru.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Ásetingin er eisini broytt soleiðis, at bústaðurin hjá barninum og annað samband er skoytt upp í ásetingina.</s>
           </p>
         </div>
         <div type="section">
           <head rend="bold">Til § 49 – gildiskoma, skiftisreglur o.a.</head>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 1.</s> <s xml:lang="fo" cert="high">Gildiskomuáseting.</s> <s xml:lang="fo" cert="high">Ásett verður, at løgtingslóg um foreldramyndugleika og samveru kemur í gildi 1. januar 2023, soleiðis at rúm tíð er hjá Familjufyrisitingini at skipa seg sambært løgtingslógini í uppskoti.</s></p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 2.</s> <s xml:lang="fo" cert="high">Skotið verður upp, at § 6, stk. 3 sum snýr seg um felags foreldramyndugleika, um foreldrini eru skild, men hava verið gift innan fyri seinastu 10 mánaðirnar, áðrenn barnið varð føtt, og § 7, stk. 2, um felags foreldramyndugleika, um foreldrini hava ella hava havt felags bústað sambært landsfólkayvirlitinum samanhangandi seinastu 10 mánaðirnar, áðrenn barnið varð føtt, bara er galdandi fyri børn, sum verða fødd samstundis sum, ella eftir, at lógin er sett í gildi.</s></p>
+          <p><label rend="italic">Stk. 1.</label> <s xml:lang="fo" cert="high">Gildiskomuáseting.</s> <s xml:lang="fo" cert="high">Ásett verður, at løgtingslóg um foreldramyndugleika og samveru kemur í gildi 1. januar 2023, soleiðis at rúm tíð er hjá Familjufyrisitingini at skipa seg sambært løgtingslógini í uppskoti.</s></p>
+          <p><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="high">Skotið verður upp, at § 6, stk. 3 sum snýr seg um felags foreldramyndugleika, um foreldrini eru skild, men hava verið gift innan fyri seinastu 10 mánaðirnar, áðrenn barnið varð føtt, og § 7, stk. 2, um felags foreldramyndugleika, um foreldrini hava ella hava havt felags bústað sambært landsfólkayvirlitinum samanhangandi seinastu 10 mánaðirnar, áðrenn barnið varð føtt, bara er galdandi fyri børn, sum verða fødd samstundis sum, ella eftir, at lógin er sett í gildi.</s></p>
           <p>
             <s xml:lang="fo" cert="high">Hendan skiftisreglan verður gjørd fyri at nágreina at gildiskoman fylgir føðingini hjá barninum og ikki teimum 10 mánaðunum, sum eru nevndar í § 6, stk. 3 og § 7, stk. 2.</s>
           </p>
-          <p><s xml:lang="fo" cert="medium" rend="italic">Stk. 3.</s> <s xml:lang="fo" cert="high">Skotið verður upp, at mál, ið eru byrjað áðrenn gildiskomu lógarinnar, verða viðgjørt sambært higartil galdandi reglum.</s></p>
+          <p><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Skotið verður upp, at mál, ið eru byrjað áðrenn gildiskomu lógarinnar, verða viðgjørt sambært higartil galdandi reglum.</s></p>
         </div>
       </div>
       <space dim="vertical"/>
