@@ -1,281 +1,349 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="http://creativecommons.org/licenses/by/4.0/">
-            Creative Commons Attribution 4.0 International (CC BY 4.0)
-          </licence>
-          <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
-          <p>Original content is used here under §9 (public documents).</p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>
-          <title level="a" type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
-          <author>Fjølmiðlanevndin</author>
-          <publisher>Føroya Kærustovnur</publisher>
-          <date when="2008-10-23">23-10-2009</date>
-          <idno type="url">https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc</idno>
-          <ref type="source" target="https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc">Original URL</ref>
-          <date type="accessed" when="2026-04-06"/>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div type="decision">
-        <head>Afturkallað byggiloyvi til uppsetan av altan</head>
-        <pb n="1"/>
-        <fw type="header" place="top">Fjølmiðlanevndin - avgerðir</fw>
-        <table rend="boxed">
-          <row>
-            <cell>
-              <hi rend="bold">Mál nr. :</hi>
-            </cell>
-            <cell>
-              <hi rend="bold">Lóg:</hi>
-            </cell>
-            <cell>
-              <hi rend="bold">Avgerð tikin:</hi>
-            </cell>
-          </row>
-          <row>
-            <cell>
-              <hi rend="bold">09-08-801-2</hi>
-            </cell>
-            <cell>
-              <hi rend="bold">Lóg um fjølmiðlaábyrgd</hi>
-            </cell>
-            <cell>
-              <hi rend="bold">23-10-2009</hi>
-            </cell>
-          </row>
-        </table>
-        <head rend="bold">Tíðindaflutningur í Sjónvarpinum í oktober 2008</head>
-        <div type="summary" rend="box bold">
-          <p>
-            <label>Samandráttur:</label>
-            <s xml:id="hv544mbfu2">Kært var um tíðindaflutning í Sjónvarpinum í oktober 2008.</s>
-          </p>
-          <p>
-            <s xml:id="hynnkm3ydt">Fjølmiðlanevndin gav kæraranum viðhald í, at Kringvarpið í sambandi við tíðindaflutningin í hesum máli ikki hevur fylgt reglunum um góðan fjølmiðlasið í sambandi við tíðindini 3. oktober 2008, har sagt varð, at landsstýrismaðurin hevði brotið lóggávuna.</s>
-          </p>
-          <p>
-            <s xml:id="jpe3yleqjc">Fjølmiðlanevndin heldur ikki, at tað var í tráð við góðan fjølmiðlasið at vísa landsstýrismannin í slowmotion í hesari sendingini.</s>
-          </p>
-          <p>
-            <s xml:id="rj5kgmpnoc">Hinvegin heldur nevndin ikki grundarlag vera fyri kæruni um, at Kringvarpið bar seg skeivt at, tá sagt varð, at landsstýrismaðurin ikki ynskti at gera viðmerkingar til málið.</s>
-          </p>
+<teiCorpus version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title level="a" type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
+            <author>Fjølmiðlanevndin</author>
+            <publisher>Føroya Kærustovnur</publisher>
+            <date when="2008-10-23">23-10-2009</date>
+            <idno type="url">https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc</idno>
+            <ref type="source" target="https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc">Original URL</ref>
+            <date type="accessed" when="2026-04-06" />
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="decision">
+          <pb n="1" />
+          <fw type="header" place="top">Fjølmiðlanevndin - avgerðir</fw>
+          <table rend="boxed">
+            <row>
+              <cell>
+                <hi rend="bold">Mál nr. :</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Lóg:</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Avgerð tikin:</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">09-08-801-2</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Lóg um fjølmiðlaábyrgd</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">23-10-2009</hi>
+              </cell>
+            </row>
+          </table>
+          <head rend="bold">Tíðindaflutningur í Sjónvarpinum í oktober 2008</head>
+          <div type="summary" rend="box bold">
+
+          </div>
         </div>
-        <p>
-          <seg>Kært er um tíðindaflutning í Sjónvarpinum í oktober 2008.</seg>
-        </p>
-        <p>
-          <seg>Í kæruni stendur m.a.:</seg>
-          <lb/>
-          <quote>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <title level="a" type="main">Tíðindaflutningur í Sjónvarpinum í oktober 2008</title>
+            <author>Fjølmiðlanevndin</author>
+            <publisher>Føroya Kærustovnur</publisher>
+            <date when="2008-10-23">23-10-2009</date>
+            <idno type="url">https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc</idno>
+            <ref type="source" target="https://kaerustovnur.cdn.fo/savn/xukbmni3/09-08-801-2.pdf?s=FahS-tTF-KFHzl4TmvS6qkzKvhc">Original URL</ref>
+            <date type="accessed" when="2026-04-06" />
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="decision">
+          <pb n="1" />
+          <fw type="header" place="top">Fjølmiðlanevndin - avgerðir</fw>
+          <table rend="boxed">
+            <row>
+              <cell>
+                <hi rend="bold">Mál nr. :</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Lóg:</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Avgerð tikin:</hi>
+              </cell>
+            </row>
+            <row>
+              <cell>
+                <hi rend="bold">09-08-801-2</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">Lóg um fjølmiðlaábyrgd</hi>
+              </cell>
+              <cell>
+                <hi rend="bold">23-10-2009</hi>
+              </cell>
+            </row>
+          </table>
+          <head rend="bold">Tíðindaflutningur í Sjónvarpinum í oktober 2008</head>
+          <div type="summary" rend="box bold">
             <p>
-              <s xml:id="pdqrycfjje">Undirritaði loyvir sær við hesum vegna A at kæra Kringvarp Føroya fyri tíðindaflutning í sjónvarpinum í døgunum 2., 3. og 6. oktober 2008.</s>
+              <label>Samandráttur:</label>
+              <s xml:id="hv544mbfu2">Kært var um tíðindaflutning í Sjónvarpinum í oktober 2008.</s>
             </p>
             <p>
-              <s xml:id="deqm6tsl6m">Um málið er at siga, at Kringvarpið í døgunum omanfyri bar tíðindi um, at Sp/f B hevði flutt innfryst slógv av landinum til ES uttan neyðuga góðkenning, og sostatt framt brot á lóggávuna og á viðurskifti Føroya við ES.</s>
-              <s xml:id="m5ottqqiso">Í sama innslagi bleiv eisini persónurin A nevndur sum ein av útflytarunum, sum hevði útflutt innfryst slógv frá B.</s>
+              <s xml:id="hynnkm3ydt">Fjølmiðlanevndin gav kæraranum viðhald í, at Kringvarpið í sambandi við tíðindaflutningin í hesum máli ikki hevur fylgt reglunum um góðan fjølmiðlasið í sambandi við tíðindini 3. oktober 2008, har sagt varð, at landsstýrismaðurin hevði brotið lóggávuna.</s>
             </p>
             <p>
-              <seg>Í sambandi við málið bar Kringvarpið eisini tíðindini um, at A, landsstýrismaður var partur av hesum og nevndi, at hann hevði brotið 1óggávuna, tí hann var stovnari og nevndarlimur í hesum felag.</seg>
+              <s xml:id="jpe3yleqjc">Fjølmiðlanevndin heldur ikki, at tað var í tráð við góðan fjølmiðlasið at vísa landsstýrismannin í slowmotion í hesari sendingini.</s>
             </p>
             <p>
-              <seg>Til tess at lýsa felagið so skal upplýsast, at felagið varð stovnað fyrr í ár, og at klientur mín er ein av partaeigarunum í Sp/f B við kr. 50.000,- av kr. 220.000,- og er hann eisini nevndarlimur í felagnum ...</seg>
+              <s xml:id="rj5kgmpnoc">Hinvegin heldur nevndin ikki grundarlag vera fyri kæruni um, at Kringvarpið bar seg skeivt at, tá sagt varð, at landsstýrismaðurin ikki ynskti at gera viðmerkingar til málið.</s>
             </p>
-            <p>
-              <seg>Sp/f B er Sp/f við nevnd og leiðslu og virkar sostatt sambært lóg um Sp/f § 19 ...</seg>
-              <s xml:id="autnaajjq3">Tað er sostatt stjórnin, sum einsamøll hevur alla dagligu leiðsluna av felagnum um hendi, meðan nevndin bert tekur avgerð í málum av óvanligum og stórum týdningi.</s>
-            </p>
-            <p>
-              <s xml:id="oomlpmtfgx">Síðani felagið varð stovnað, hevur eingin nevndarfundur verið í felagnum, og hevur nevndin ikki við samtyktum, boðum ella á annan hátt luttikið í rakstrinum av felagnum.</s>
-            </p>
-            <p>
-              <s xml:id="vv5sbrzj3d">Kringvarpið hevur í málinum - sum teir sjálvir føra fram - út frá tí, at A var stovnari, eigari og nevndarlimur, valt at leggja til grund, at A hevur brotið reglurnar í sambandi við útflutning til ES, og at leggja til grund, at landsstýrismaðurin við evstu ábyrgd av eini eftirlitsfunktión sjálvur hevur brotið 1óggávuna, sum hann sjálvur hevur eftirlit við.</s>
-            </p>
-            <p>
-              <seg>Hendan staðfesting av Kringvarpinum byggir hvørki á - vísandi til tað, sum greitt er frá omanfyri – faktuellar ella løgfrøðiligar rættar niðurstøður ...</seg>
-            </p>
-            <p>
-              <s xml:id="bechdcgme2">At klientur mín er partaeigari og nevndarlimur kann hava áhuga, men at nevna hann sum luttakara av møguligum ólógligum úttflutningi hjá einum smápartafelag er ikki rætt, tá ið hann einki hevur havt við hetta at gera.</s>
-              <s xml:id="qlv7d2xhdb">Kært verður eisini um, at omanfyri standandi skeiva niðurstøða hjá Kringvarpinum gevur Kringvarpinum høvi til at fara víðari, og við myndum formidlað persónin A á ein manipulerandi hátt, soleiðis at rørslurnar hjá honum fara fram nógv seinri enn vanligt - ivaleyst fyri at hyggjarin kann fáa ta fatan, at A hevur brotið lógina.</s>
-            </p>
-            <p>
-              <seg>…</seg>
-            </p>
-            <p>
-              <s xml:id="or6slonwzy">Ein journalistur hevði biðið klient mín koma í sjónvarpið fyri at gera viðmerkingar, men noktaði A fyri hesum, men upplýsti samstundis - eins og hann bað journalistin um at endurgeva seg fyri hetta - at hann einki visti um hetta mál, fyrr enn fjølmiðlarnir greiddu frá tí, og at hann, sum støðan nú var, einki kundi hava við hetta mál at gera, hvørki so ella so.</s>
-              <seg>Men hóast hetta bar Dagur &amp;amp; Vika tey tíðindi, at A ikki vildi gera viðmerkingar til málið ...</seg>
-            </p>
-          </quote>
-        </p>
-        <p>
-          <seg>Kæran frá A er send Kringvarpinum til ummælis, og hevur Kringvarpið latið Fjølmiðlanevndini hesar viðmerkingar:</seg>
-          <lb/>
-          <quote>
-            <p>
-              <s xml:id="t35mc2ulyh">A kærir í fyrstu atløgu um innslag í Degi &amp; Viku fríggjakvøldið 3. oktober 2008.</s>
-              <seg>Kringvarpið (KvF) hevur hesar viðmerkingar til málið:</seg>
-            </p>
-            <p>
-              <s xml:id="ii7sf4orbp">KvF kann skjalprógva, at Sp/f B hevur innfryst slógv uttan løggilding.</s>
-              <s xml:id="rdcujnaqoa">KvF kann skjalprógva, at slógv fra Sp/f B er endað á ES-marknaðinum.</s>
-              <s xml:id="qool7hwxaf">ES-loggáva, implementerað í føroyska lóggávu við kunngerð nr. 99 fra 2006, krevur, at bara virki við løggilding kunnu innfrysta slógv.</s>
-              <s xml:id="dwmdkcw7hl">A er ein av stovnarunum, eigarunum og nevndarlimunum í Sp/f B.</s>
-              <s xml:id="a7obw4754e">A sat í nevndini fyri Sp/f B til eftir, at hann gjørdist landsstýrismaður.</s>
-            </p>
-            <p>
-              <s xml:id="cnljrm5jkq">Út fra nevndu viðurskiftum loyvir KvF sær at gera ta niðurstøðu, at A sum stovnari, eigari og nevndarlimur í Sp/f B hevur brotið ES-loggávuna á økinum.</s>
-            </p>
-            <p>
-              <s xml:id="sze2nnbmt2">Harafturat má tað metast sum skerpandi umstøður, at A er landsstýrismaður í vinnumálum og umsitur harvið ES-lóggávuna á økinum, m.a. kunngerð nr. 99 frá 2006.</s>
-              <s xml:id="q6nr3iaqgj">Tað vil siga, at landsstýrismaðurin við evstu ábyrgd av eini eftirlitsfunktión hevur sjálvur brotið lóggávuna, ið hann hevur eftirlit við.</s>
-            </p>
-            <p>
-              <s xml:id="epktshrm6v">KvF tosaði í telefon við A seinnapartin fríggjadagin 3. oktober.</s>
-              <s xml:id="nmwmaxw2um">Hann hevði ikki hug at tosa um málið, segði seg einki vita um tað.</s>
-              <s xml:id="zsugstqcsm">Hetta kann tykjast undarligt av fleiri orsøkum: Millum annað tí at Dagur &amp; Vika hevði umrøtt slógvið í tíðindasendingunum fyrr í vikuni.</s>
-              <s xml:id="r2fn66swis">Og tí at B so seint sum 23. september fekk bræv fra Heilsufrøðiligu Starvsstovuni, sum hótti við at stongja virkið, um tey ikki fingu síni viðurskifti í rættlag, so virkið kundi fáa løggilding.</s>
-              <s xml:id="hxpao3xewd">Hetta eru grundleggjandi viðurskifti, sum ein eigari og nevndarlimur eigur at vera kunnaður um.</s>
-              <s xml:id="n6vhv6esu3">A varð fleiri ferðir biðin um eina viðmerking til D&amp;V fríggjakvøldið, varð enntá boðin í studio um kvøldið.</s>
-              <s xml:id="kie5wq5vgv">Men hann noktaði, og endaði telefonsamrøðuna við at bróta av og leggia hornið á.</s>
-            </p>
-            <p>
-              <s xml:id="xxdrmqro2i">Seinni partur av kæruni frá A snýr seg um, at hann varð vístur i slowmotion.</s>
-              <s xml:id="ph3hcbghqp">KvF metir, at hetta kemur undir okkara journalistiska frælsi at disponera yvir myndatilfarinum.</s>
-              <s xml:id="tcwcyymfsf">Hetta er ein máti at formidla tilfarið.</s>
-              <s xml:id="vtnu2xmeln">Tá vit longu høvdu valt at gera ta niðurstøðu, at A hevði brotið lógina, valdu vit at formidla tilfarið á henda hátt.</s>
-              <s xml:id="qzsinnxarr">Júst sum tá til dømis eitt blað brúkar tilgjørdar myndir ella fangar ein umrøddan persón í serligari støðu.</s>
-              <s xml:id="fb5faa3xz3">Eisini her má leggjast afturat, at A fekk tilboð um at koma í studio at svara fyri seg, men hann noktaði.</s>
-            </p>
-            <p>
-              <seg>…</seg>
-            </p>
-            <p>
-              <s xml:id="i2tuyo3uv2">KvF er sannført um, at vit hava handlað í tráð við góðan fjølmiðlasið.</s>
-              <s xml:id="z4xqysc6zt">Talan hevur verið um eitt mál, har trupult hevur verið at fáa til vega upplýsingar, og har sentralir persónar hava noktað at úttala seg.</s>
-              <s xml:id="tdjlweuv6f">Somuleiðis var somikið trupult at fáa til vega upplýsingar fra sentralum myndugleikum, at KvF noyddist at kæra manglandi innlit til Umboðsmannin.</s>
-              <s xml:id="kdb2r5jtck">Men hinvegin hevur KvF gjørt alt fyri at fáa sentralar persónar í talu, umframt at KvF í prosessini ongantíð hevur borið tíðindi, ið vit ikki hava prógv fyri.</s>
-            </p>
-          </quote>
-        </p>
-        <p>
-          <s xml:id="nnu7runihg">Í sambandi við, at nevndin fór undir viðgerðina av hesari kæruni, bað nevndin við skrivi, dagfest 30. mars 2009, Kringvarpið um at lata nevndini eitt eintak av teimum sendingum, sum kært var um.</s>
-          <s xml:id="w7owihaee5">Eisini varð Kringvarpið biðið um eina frágreiðing um, hvørt talan var um eitt eindømi, tá Sjónvarpið valdi at vísa A í slowmotion, ella um onnur dømi eru um, at hesin háttur er nýttur áður.</s>
-        </p>
-        <p>
-          <seg>Eftir tvær áminningar frá nevndini hevur tíðindaleiðarin í Kringvarpinum 12. juni 2009 svarað Fjølmiðlanevndini soleiðis viðvíkjandi spurninginum um slowmotion-myndirnar:</seg>
-          <lb/>
-          <quote>
-            <p>
-              <s xml:id="oxvzdlay77">Til hetta er at siga, at tað eru einstøk dømi um, at persónar eru vístir í slowmotion.</s>
-              <s xml:id="ynca2knut4">Okkara tilfar verður ikki skrásett so neyvt, at til ber at seta tal á, hvussu ofta slowmotion er nýtt í tíðindahøpi.</s>
-              <s xml:id="bfudfskq6x">Tí byggir mín meting einans á fría minnið hjá starvsfólki, sum hava arbeitt leingi við tíðindum í sjónvarpinum.</s>
-              <s xml:id="nu44bscw4d">Men nøkur dømi eru um hetta.</s>
-            </p>
-            <p>
-              <s xml:id="egi233ebmc">Generelt kann man siga, at viðgjørdar myndir - eisini slowmotion - kunnu ávirka áskoðanina hjá hyggjaranum.</s>
-              <s xml:id="hc7fg6gvcx">Tað vil siga, at viðgjørdar myndir sagtans kunnu brúkast og stundum verða brúktar til at skapa annaðhvørt positivt ella negativt fokus á ein person, stað, støðu o.s.fr. Tað er at samanbera við eina journalistiska kommentar, sum er púra legal, tá hon er brúkt rætt.</s>
-              <s xml:id="gggiiyu7iy">Aktuella innslagið var vinklað soleiðis, at vit settu stórt spurnartekin við leiklutin hjá A. Men í innslagnum staðfesta vit tó ikki beinleiðis, at maðurin er ''sekur" í nøkrum.</s>
-            </p>
-          </quote>
-        </p>
-        <div>
-          <head rend="bold underline">Fjølmiðlanevndin</head>
+          </div>
           <p>
-            <s xml:id="fwxbbcuflr">Nevndin staðfestir, at talan er um eitt sera viðkomandi evni at taka upp í fjølmiðlunum, serliga tá hugsað verður um, at A júst varð tilnevndur landsstýrismaður nakrar fáar dagar frammanundan, og at talan er um eitt virki, sum landsstýrismaðurin á økinum bæði er partaeigari og nevndarlimur í.</s>
+            <seg>Kært er um tíðindaflutning í Sjónvarpinum í oktober 2008.</seg>
           </p>
           <p>
-            <s xml:id="ywqco2xrej">Nevndin hevur tí ongar viðmerkingar til tíðindasendingarnar 30. sept., 2. okt. og 6. okt. 2008.</s>
-            <seg>Hinvegin heldur nevndin ikki, at Kringvarp Føroya, Sjónvarpið hevði grundarlag fyri at nýta yvirskriftina og byrjanina í tíðindasendingini 3. oktober, at:</seg>
-            <lb/>
-            <ab rend="bold">Landsstýrismaður brýtur ES-lóggávu</ab>
-            <lb/>
+            <seg>Í kæruni stendur m.a.:</seg>
+            <lb />
             <quote>
               <p>
-                <s xml:id="brcgauxpgn">Landsstýrismaðurin í vinnumálum brýtur lóggávuna, hann sjálvur umsitur.</s>
-                <s xml:id="h3su2hx7js">A hevur útflutt úti við 1.000 tons av slógvi inn á ES-marknaðin uttan neyðug loyvi og løggilding.</s>
-              </p>
-            </quote>
-          </p>
-          <p>
-            <seg>Fjølmiðlanevndin heldur ikki, at hesin tíðindaflutningur er í tráð við leiðreglurnar um góðan fjølmiðlasið, ið eru soljóðandi:</seg>
-            <lb/>
-            <quote>
-              <p>
-                <label>4.1</label>
-                <s xml:id="ctfad57gr4">Tað er góður fjølmiðlasiður, at innihald og framløga eru saklig og umhugsað.</s>
+                <s xml:id="pdqrycfjje">Undirritaði loyvir sær við hesum vegna A at kæra Kringvarp Føroya fyri tíðindaflutning í sjónvarpinum í døgunum 2., 3. og 6. oktober 2008.</s>
               </p>
               <p>
-                <label>4.2</label>
-                <s xml:id="wzafhxujrk">Eingin ivi skal vera um, hvat eru ítøkiligar upplýsingar, og hvat eru viðmerkingar.</s>
+                <s xml:id="deqm6tsl6m">Um málið er at siga, at Kringvarpið í døgunum omanfyri bar tíðindi um, at Sp/f B hevði flutt innfryst slógv av landinum til ES uttan neyðuga góðkenning, og sostatt framt brot á lóggávuna og á viðurskifti Føroya við ES.</s>
+                <s xml:id="m5ottqqiso">Í sama innslagi bleiv eisini persónurin A nevndur sum ein av útflytarunum, sum hevði útflutt innfryst slógv frá B.</s>
+              </p>
+              <p>
+                <seg>Í sambandi við málið bar Kringvarpið eisini tíðindini um, at A, landsstýrismaður var partur av hesum og nevndi, at hann hevði brotið 1óggávuna, tí hann var stovnari og nevndarlimur í hesum felag.</seg>
+              </p>
+              <p>
+                <seg>Til tess at lýsa felagið so skal upplýsast, at felagið varð stovnað fyrr í ár, og at klientur mín er ein av partaeigarunum í Sp/f B við kr. 50.000,- av kr. 220.000,- og er hann eisini nevndarlimur í felagnum ...</seg>
+              </p>
+              <p>
+                <seg>Sp/f B er Sp/f við nevnd og leiðslu og virkar sostatt sambært lóg um Sp/f § 19 ...</seg>
+                <s xml:id="autnaajjq3">Tað er sostatt stjórnin, sum einsamøll hevur alla dagligu leiðsluna av felagnum um hendi, meðan nevndin bert tekur avgerð í málum av óvanligum og stórum týdningi.</s>
+              </p>
+              <p>
+                <s xml:id="oomlpmtfgx">Síðani felagið varð stovnað, hevur eingin nevndarfundur verið í felagnum, og hevur nevndin ikki við samtyktum, boðum ella á annan hátt luttikið í rakstrinum av felagnum.</s>
+              </p>
+              <p>
+                <s xml:id="vv5sbrzj3d">Kringvarpið hevur í málinum - sum teir sjálvir føra fram - út frá tí, at A var stovnari, eigari og nevndarlimur, valt at leggja til grund, at A hevur brotið reglurnar í sambandi við útflutning til ES, og at leggja til grund, at landsstýrismaðurin við evstu ábyrgd av eini eftirlitsfunktión sjálvur hevur brotið 1óggávuna, sum hann sjálvur hevur eftirlit við.</s>
+              </p>
+              <p>
+                <seg>Hendan staðfesting av Kringvarpinum byggir hvørki á - vísandi til tað, sum greitt er frá omanfyri – faktuellar ella løgfrøðiligar rættar niðurstøður ...</seg>
+              </p>
+              <p>
+                <s xml:id="bechdcgme2">At klientur mín er partaeigari og nevndarlimur kann hava áhuga, men at nevna hann sum luttakara av møguligum ólógligum úttflutningi hjá einum smápartafelag er ikki rætt, tá ið hann einki hevur havt við hetta at gera.</s>
+                <s xml:id="qlv7d2xhdb">Kært verður eisini um, at omanfyri standandi skeiva niðurstøða hjá Kringvarpinum gevur Kringvarpinum høvi til at fara víðari, og við myndum formidlað persónin A á ein manipulerandi hátt, soleiðis at rørslurnar hjá honum fara fram nógv seinri enn vanligt - ivaleyst fyri at hyggjarin kann fáa ta fatan, at A hevur brotið lógina.</s>
               </p>
               <p>
                 <seg>…</seg>
               </p>
               <p>
-                <label>4.4</label>
-                <seg>Yvirskriftir og ávísingar skulu samsvara við innihaldið í tilfarinum ...</seg>
-              </p>
-              <p>
-                <label>4.5</label>
-                <s xml:id="bsenvwoahe">Eingin er sekur, fyrrenn hann er dømdur.</s>
+                <s xml:id="or6slonwzy">Ein journalistur hevði biðið klient mín koma í sjónvarpið fyri at gera viðmerkingar, men noktaði A fyri hesum, men upplýsti samstundis - eins og hann bað journalistin um at endurgeva seg fyri hetta - at hann einki visti um hetta mál, fyrr enn fjølmiðlarnir greiddu frá tí, og at hann, sum støðan nú var, einki kundi hava við hetta mál at gera, hvørki so ella so.</s>
+                <seg>Men hóast hetta bar Dagur &amp;amp; Vika tey tíðindi, at A ikki vildi gera viðmerkingar til málið ...</seg>
               </p>
             </quote>
           </p>
           <p>
-            <s xml:id="y7tssu7rrs">A kærir eisini um, at myndir av honum verða vístar í slowmotion fyri at formidla hann á ein manipulerandi hátt og at geva hyggjaranum eina fatan av, at hann hevur brotið 1ógina.</s>
-            <s xml:id="gwrctimn6y">Kringvarpið sigur harafturímóti, at hetta kemur undir journalistiska frælsi, og kann samanberast við støðuna, tá eitt blað nýtir tilgjørdar myndir.</s>
-          </p>
-          <p>
-            <seg>Fjølmiðlanevndin skal í hesum sambandi vísa a leiðreglurnar um góðan fjølmiðlasið, har tað stendur soleiðis um myndanýtslu:</seg>
-            <lb/>
+            <seg>Kæran frá A er send Kringvarpinum til ummælis, og hevur Kringvarpið latið Fjølmiðlanevndini hesar viðmerkingar:</seg>
+            <lb />
             <quote>
               <p>
-                <label>4.11</label>
-                <s xml:id="c3rzg5vq7k">Myndir, ið verða nýttar sum skjalprógv, mugu ikki broytast soleiðis, at tær geva eina skeiva fatan.</s>
-                <s xml:id="tg7kpi7ll4">Tilgjørdar myndir kunnu bert góðtakast sum myndprýði, um tað er tilskilað, at myndirnar eru tilgjørdar.</s>
+                <s xml:id="t35mc2ulyh">A kærir í fyrstu atløgu um innslag í Degi &amp; Viku fríggjakvøldið 3. oktober 2008.</s>
+                <seg>Kringvarpið (KvF) hevur hesar viðmerkingar til málið:</seg>
+              </p>
+              <p>
+                <s xml:id="ii7sf4orbp">KvF kann skjalprógva, at Sp/f B hevur innfryst slógv uttan løggilding.</s>
+                <s xml:id="rdcujnaqoa">KvF kann skjalprógva, at slógv fra Sp/f B er endað á ES-marknaðinum.</s>
+                <s xml:id="qool7hwxaf">ES-loggáva, implementerað í føroyska lóggávu við kunngerð nr. 99 fra 2006, krevur, at bara virki við løggilding kunnu innfrysta slógv.</s>
+                <s xml:id="dwmdkcw7hl">A er ein av stovnarunum, eigarunum og nevndarlimunum í Sp/f B.</s>
+                <s xml:id="a7obw4754e">A sat í nevndini fyri Sp/f B til eftir, at hann gjørdist landsstýrismaður.</s>
+              </p>
+              <p>
+                <s xml:id="cnljrm5jkq">Út fra nevndu viðurskiftum loyvir KvF sær at gera ta niðurstøðu, at A sum stovnari, eigari og nevndarlimur í Sp/f B hevur brotið ES-loggávuna á økinum.</s>
+              </p>
+              <p>
+                <s xml:id="sze2nnbmt2">Harafturat má tað metast sum skerpandi umstøður, at A er landsstýrismaður í vinnumálum og umsitur harvið ES-lóggávuna á økinum, m.a. kunngerð nr. 99 frá 2006.</s>
+                <s xml:id="q6nr3iaqgj">Tað vil siga, at landsstýrismaðurin við evstu ábyrgd av eini eftirlitsfunktión hevur sjálvur brotið lóggávuna, ið hann hevur eftirlit við.</s>
+              </p>
+              <p>
+                <s xml:id="epktshrm6v">KvF tosaði í telefon við A seinnapartin fríggjadagin 3. oktober.</s>
+                <s xml:id="nmwmaxw2um">Hann hevði ikki hug at tosa um málið, segði seg einki vita um tað.</s>
+                <s xml:id="zsugstqcsm">Hetta kann tykjast undarligt av fleiri orsøkum: Millum annað tí at Dagur &amp; Vika hevði umrøtt slógvið í tíðindasendingunum fyrr í vikuni.</s>
+                <s xml:id="r2fn66swis">Og tí at B so seint sum 23. september fekk bræv fra Heilsufrøðiligu Starvsstovuni, sum hótti við at stongja virkið, um tey ikki fingu síni viðurskifti í rættlag, so virkið kundi fáa løggilding.</s>
+                <s xml:id="hxpao3xewd">Hetta eru grundleggjandi viðurskifti, sum ein eigari og nevndarlimur eigur at vera kunnaður um.</s>
+                <s xml:id="n6vhv6esu3">A varð fleiri ferðir biðin um eina viðmerking til D&amp;V fríggjakvøldið, varð enntá boðin í studio um kvøldið.</s>
+                <s xml:id="kie5wq5vgv">Men hann noktaði, og endaði telefonsamrøðuna við at bróta av og leggia hornið á.</s>
+              </p>
+              <p>
+                <s xml:id="xxdrmqro2i">Seinni partur av kæruni frá A snýr seg um, at hann varð vístur i slowmotion.</s>
+                <s xml:id="ph3hcbghqp">KvF metir, at hetta kemur undir okkara journalistiska frælsi at disponera yvir myndatilfarinum.</s>
+                <s xml:id="tcwcyymfsf">Hetta er ein máti at formidla tilfarið.</s>
+                <s xml:id="vtnu2xmeln">Tá vit longu høvdu valt at gera ta niðurstøðu, at A hevði brotið lógina, valdu vit at formidla tilfarið á henda hátt.</s>
+                <s xml:id="qzsinnxarr">Júst sum tá til dømis eitt blað brúkar tilgjørdar myndir ella fangar ein umrøddan persón í serligari støðu.</s>
+                <s xml:id="fb5faa3xz3">Eisini her má leggjast afturat, at A fekk tilboð um at koma í studio at svara fyri seg, men hann noktaði.</s>
+              </p>
+              <p>
+                <seg>…</seg>
+              </p>
+              <p>
+                <s xml:id="i2tuyo3uv2">KvF er sannført um, at vit hava handlað í tráð við góðan fjølmiðlasið.</s>
+                <s xml:id="z4xqysc6zt">Talan hevur verið um eitt mál, har trupult hevur verið at fáa til vega upplýsingar, og har sentralir persónar hava noktað at úttala seg.</s>
+                <s xml:id="tdjlweuv6f">Somuleiðis var somikið trupult at fáa til vega upplýsingar fra sentralum myndugleikum, at KvF noyddist at kæra manglandi innlit til Umboðsmannin.</s>
+                <s xml:id="kdb2r5jtck">Men hinvegin hevur KvF gjørt alt fyri at fáa sentralar persónar í talu, umframt at KvF í prosessini ongantíð hevur borið tíðindi, ið vit ikki hava prógv fyri.</s>
               </p>
             </quote>
           </p>
           <p>
-            <s xml:id="a3toeajyri">Fjølmiðlanevndin heldur ikki, at tað í sjálvum sær er í stríð við góðan fjølmiðlasið at nýta myndir í slowmotion.</s>
-            <s xml:id="gy6mc4sxum">Men tá tað eins og í hesum føri verður gjørt í sambandi við eitt innslag um, at viðkomandi hevur brotið lógina, og tá hald annars ikki er í hesum, heldur nevndin, at Sjónvarpið er farið út um mark, hvat góðum fjølmiðlasiði viðvíkur.</s>
+            <s xml:id="nnu7runihg">Í sambandi við, at nevndin fór undir viðgerðina av hesari kæruni, bað nevndin við skrivi, dagfest 30. mars 2009, Kringvarpið um at lata nevndini eitt eintak av teimum sendingum, sum kært var um.</s>
+            <s xml:id="w7owihaee5">Eisini varð Kringvarpið biðið um eina frágreiðing um, hvørt talan var um eitt eindømi, tá Sjónvarpið valdi at vísa A í slowmotion, ella um onnur dømi eru um, at hesin háttur er nýttur áður.</s>
           </p>
           <p>
-            <s xml:id="yoxwnbpzy7">A kærir eisini um, at Sjónvarpið í tíðindasendingini segði, at A ikki ynskti at gera viðmerkingar til málið.</s>
-            <s xml:id="pfuzaxwepp">Til hetta er at siga, at Sjónvarpið í sendingini 3. okt. segði, at A ikki ynskti at gera viðmerkingar til málið, og at hann ikki kendi til hetta.</s>
-            <s xml:id="fxgczvev3f">Fjølmiðlanevndin hevur tí ongar viðmerkingar til hendan partin av málinum.</s>
+            <seg>Eftir tvær áminningar frá nevndini hevur tíðindaleiðarin í Kringvarpinum 12. juni 2009 svarað Fjølmiðlanevndini soleiðis viðvíkjandi spurninginum um slowmotion-myndirnar:</seg>
+            <lb />
+            <quote>
+              <p>
+                <s xml:id="oxvzdlay77">Til hetta er at siga, at tað eru einstøk dømi um, at persónar eru vístir í slowmotion.</s>
+                <s xml:id="ynca2knut4">Okkara tilfar verður ikki skrásett so neyvt, at til ber at seta tal á, hvussu ofta slowmotion er nýtt í tíðindahøpi.</s>
+                <s xml:id="bfudfskq6x">Tí byggir mín meting einans á fría minnið hjá starvsfólki, sum hava arbeitt leingi við tíðindum í sjónvarpinum.</s>
+                <s xml:id="nu44bscw4d">Men nøkur dømi eru um hetta.</s>
+              </p>
+              <p>
+                <s xml:id="egi233ebmc">Generelt kann man siga, at viðgjørdar myndir - eisini slowmotion - kunnu ávirka áskoðanina hjá hyggjaranum.</s>
+                <s xml:id="hc7fg6gvcx">Tað vil siga, at viðgjørdar myndir sagtans kunnu brúkast og stundum verða brúktar til at skapa annaðhvørt positivt ella negativt fokus á ein person, stað, støðu o.s.fr. Tað er at samanbera við eina journalistiska kommentar, sum er púra legal, tá hon er brúkt rætt.</s>
+                <s xml:id="gggiiyu7iy">Aktuella innslagið var vinklað soleiðis, at vit settu stórt spurnartekin við leiklutin hjá A. Men í innslagnum staðfesta vit tó ikki beinleiðis, at maðurin er ''sekur" í nøkrum.</s>
+              </p>
+            </quote>
           </p>
+          <div>
+            <head rend="bold underline">Fjølmiðlanevndin</head>
+            <p>
+              <s xml:id="fwxbbcuflr">Nevndin staðfestir, at talan er um eitt sera viðkomandi evni at taka upp í fjølmiðlunum, serliga tá hugsað verður um, at A júst varð tilnevndur landsstýrismaður nakrar fáar dagar frammanundan, og at talan er um eitt virki, sum landsstýrismaðurin á økinum bæði er partaeigari og nevndarlimur í.</s>
+            </p>
+            <p>
+              <s xml:id="ywqco2xrej">Nevndin hevur tí ongar viðmerkingar til tíðindasendingarnar 30. sept., 2. okt. og 6. okt. 2008.</s>
+              <seg>Hinvegin heldur nevndin ikki, at Kringvarp Føroya, Sjónvarpið hevði grundarlag fyri at nýta yvirskriftina og byrjanina í tíðindasendingini 3. oktober, at:</seg>
+              <lb />
+              <ab rend="bold">Landsstýrismaður brýtur ES-lóggávu</ab>
+              <lb />
+              <quote>
+                <p>
+                  <s xml:id="brcgauxpgn">Landsstýrismaðurin í vinnumálum brýtur lóggávuna, hann sjálvur umsitur.</s>
+                  <s xml:id="h3su2hx7js">A hevur útflutt úti við 1.000 tons av slógvi inn á ES-marknaðin uttan neyðug loyvi og løggilding.</s>
+                </p>
+              </quote>
+            </p>
+            <p>
+              <seg>Fjølmiðlanevndin heldur ikki, at hesin tíðindaflutningur er í tráð við leiðreglurnar um góðan fjølmiðlasið, ið eru soljóðandi:</seg>
+              <lb />
+              <quote>
+                <p>
+                  <label>4.1</label>
+                  <s xml:id="ctfad57gr4">Tað er góður fjølmiðlasiður, at innihald og framløga eru saklig og umhugsað.</s>
+                </p>
+                <p>
+                  <label>4.2</label>
+                  <s xml:id="wzafhxujrk">Eingin ivi skal vera um, hvat eru ítøkiligar upplýsingar, og hvat eru viðmerkingar.</s>
+                </p>
+                <p>
+                  <seg>…</seg>
+                </p>
+                <p>
+                  <label>4.4</label>
+                  <seg>Yvirskriftir og ávísingar skulu samsvara við innihaldið í tilfarinum ...</seg>
+                </p>
+                <p>
+                  <label>4.5</label>
+                  <s xml:id="bsenvwoahe">Eingin er sekur, fyrrenn hann er dømdur.</s>
+                </p>
+              </quote>
+            </p>
+            <p>
+              <s xml:id="y7tssu7rrs">A kærir eisini um, at myndir av honum verða vístar í slowmotion fyri at formidla hann á ein manipulerandi hátt og at geva hyggjaranum eina fatan av, at hann hevur brotið 1ógina.</s>
+              <s xml:id="gwrctimn6y">Kringvarpið sigur harafturímóti, at hetta kemur undir journalistiska frælsi, og kann samanberast við støðuna, tá eitt blað nýtir tilgjørdar myndir.</s>
+            </p>
+            <p>
+              <seg>Fjølmiðlanevndin skal í hesum sambandi vísa a leiðreglurnar um góðan fjølmiðlasið, har tað stendur soleiðis um myndanýtslu:</seg>
+              <lb />
+              <quote>
+                <p>
+                  <label>4.11</label>
+                  <s xml:id="c3rzg5vq7k">Myndir, ið verða nýttar sum skjalprógv, mugu ikki broytast soleiðis, at tær geva eina skeiva fatan.</s>
+                  <s xml:id="tg7kpi7ll4">Tilgjørdar myndir kunnu bert góðtakast sum myndprýði, um tað er tilskilað, at myndirnar eru tilgjørdar.</s>
+                </p>
+              </quote>
+            </p>
+            <p>
+              <s xml:id="a3toeajyri">Fjølmiðlanevndin heldur ikki, at tað í sjálvum sær er í stríð við góðan fjølmiðlasið at nýta myndir í slowmotion.</s>
+              <s xml:id="gy6mc4sxum">Men tá tað eins og í hesum føri verður gjørt í sambandi við eitt innslag um, at viðkomandi hevur brotið lógina, og tá hald annars ikki er í hesum, heldur nevndin, at Sjónvarpið er farið út um mark, hvat góðum fjølmiðlasiði viðvíkur.</s>
+            </p>
+            <p>
+              <s xml:id="yoxwnbpzy7">A kærir eisini um, at Sjónvarpið í tíðindasendingini segði, at A ikki ynskti at gera viðmerkingar til málið.</s>
+              <s xml:id="pfuzaxwepp">Til hetta er at siga, at Sjónvarpið í sendingini 3. okt. segði, at A ikki ynskti at gera viðmerkingar til málið, og at hann ikki kendi til hetta.</s>
+              <s xml:id="fxgczvev3f">Fjølmiðlanevndin hevur tí ongar viðmerkingar til hendan partin av málinum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Niðurstøða</head>
+            <p>
+              <s xml:id="tc5bnr4din">Fjølmiðlanevndin gevur kæraranum viðhald í, at Kringvarpið í sambandi við tíðindaflutningin í hesum máli ikki hevur fylgt reglunum um góðan fjølmiðlasið í sambandi við tíðindini 3. oktober 2008, har sagt varð, at landsstýrismaðurin hevði brotið lóggávuna.</s>
+            </p>
+            <p>
+              <s xml:id="yn7epztloz">Fjølmiðlanevndin heldur ikki, at tað var i tráð við góðan fjølmiðlasið at vísa landsstýrismannin í slowmotion í hesari sendingini.</s>
+            </p>
+            <p>
+              <s xml:id="zfhp35d54l">Hinvegin heldur nevndin ikki grundarlag vera fyri kæruni um, at Kringvarpið bar seg skeivt at, tá sagt varð, at landsstýrismaðurin ikki ynskti at gera viðmerkingar til málið.</s>
+            </p>
+            <p>
+              <s xml:id="wryxktml7w">Fjølmiðlanevndin fekk ikki tíðindasendingarnar frá Kringvarpinum fyrr enn aftaná, at formaðurin hevði ringt til Kringvarpsstjóran tann 16. september, og er hetta orsøkin til, at hetta málið hevur tikið so drúgva tíð.</s>
+              <s xml:id="lzwk3cy4b2">Fjølmiðlanevndin heldur tað als ikki vera nøktandi, at nevndin skal bíða nærum ½ ár eftir einari sending, sum Kringvarpið sambært § 45, stk. 2 í fjølmiðlaábyrgdarlógini hevur skyldu at lata nevndini.</s>
+            </p>
+          </div>
         </div>
-        <div>
-          <head rend="bold">Niðurstøða</head>
-          <p>
-            <s xml:id="tc5bnr4din">Fjølmiðlanevndin gevur kæraranum viðhald í, at Kringvarpið í sambandi við tíðindaflutningin í hesum máli ikki hevur fylgt reglunum um góðan fjølmiðlasið í sambandi við tíðindini 3. oktober 2008, har sagt varð, at landsstýrismaðurin hevði brotið lóggávuna.</s>
-          </p>
-          <p>
-            <s xml:id="yn7epztloz">Fjølmiðlanevndin heldur ikki, at tað var i tráð við góðan fjølmiðlasið at vísa landsstýrismannin í slowmotion í hesari sendingini.</s>
-          </p>
-          <p>
-            <s xml:id="zfhp35d54l">Hinvegin heldur nevndin ikki grundarlag vera fyri kæruni um, at Kringvarpið bar seg skeivt at, tá sagt varð, at landsstýrismaðurin ikki ynskti at gera viðmerkingar til málið.</s>
-          </p>
-          <p>
-            <s xml:id="wryxktml7w">Fjølmiðlanevndin fekk ikki tíðindasendingarnar frá Kringvarpinum fyrr enn aftaná, at formaðurin hevði ringt til Kringvarpsstjóran tann 16. september, og er hetta orsøkin til, at hetta málið hevur tikið so drúgva tíð.</s>
-            <s xml:id="lzwk3cy4b2">Fjølmiðlanevndin heldur tað als ikki vera nøktandi, at nevndin skal bíða nærum ½ ár eftir einari sending, sum Kringvarpið sambært § 45, stk. 2 í fjølmiðlaábyrgdarlógini hevur skyldu at lata nevndini.</s>
-          </p>
-        </div>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
