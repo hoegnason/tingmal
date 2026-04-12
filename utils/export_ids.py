@@ -71,11 +71,19 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]
 
     # Find elements and add xml:id
     ## for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
-    for element in tree.xpath('//tei:s[@xml:id]', namespaces=namespaces):
+    for element in tree.xpath('//tei:s[@xml:id] | //tei:seg[@type="sentence"][@xml:id]', namespaces=namespaces):
 
         found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
 
+        cert = element.get('cert')
+
         xml_lang = element.get('{http://www.w3.org/XML/1998/namespace}lang')
+
+        if cert is not None:
+            cert_lower = cert.lower()
+            
+            if 'low' == cert_lower:
+                continue 
 
         if found_id is not None and len(found_id) == 10:
 
@@ -164,11 +172,12 @@ def add_ids_to_file(filepath: str, used_ids: set) -> list[str]:
 
     # Define namespace map
     namespaces = {
-        'xml': 'http://www.w3.org/XML/1998/namespace'
+        'xml': 'http://www.w3.org/XML/1998/namespace',
+        'tei': 'http://www.tei-c.org/ns/1.0'
     }
 
     # Find elements and add xml:id
-    for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
+    for element in tree.xpath('//tei:s | //tei:seg[@type="sentence"]', namespaces=namespaces):
 
         found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
 
@@ -275,6 +284,7 @@ def process_files(relevant_files_path):
 
 if __name__ == "__main__":
     process_files("/home/rani/Repositories/tingmal/coalition-agreements")
+    process_files("/home/rani/Repositories/tingmal/debates")
     process_files("/home/rani/Repositories/tingmal/decisions")
     process_files("/home/rani/Repositories/tingmal/legislation")
     process_files("/home/rani/Repositories/tingmal/misc")
