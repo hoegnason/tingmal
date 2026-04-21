@@ -1,408 +1,689 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Uppskot til løgtingslóg um umskipan av Føroya Lívstrygging</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
-          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
-        </availability>
-        <date when="2026-04-19" />
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="parliamentary_document">
-          <publisher>Føroya Løgting</publisher>
-          <ref target="https://www.logting.fo/documents/4882" />
-          <note type="source_format">PDF document, machine-readable text</note>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <table rend="left align-right">
-          <row>
-            <cell rend="meta-cell">Lms. j. nr.:</cell>
-            <cell rend="meta-cell">691-2/98</cell>
-          </row>
-          <row>
-            <cell rend="meta-cell">Vms. j. nr.:</cell>
-            <cell rend="meta-cell">617-28/94</cell>
-          </row>
-          <row>
-            <cell rend="meta-cell">Viðgjørt:</cell>
-            <cell rend="meta-cell">GHJ/pm</cell>
-          </row>
-        </table>
-        <space dim="vertical" />
-        <ab>
-          <ab rend="bold center">Uppskot</ab>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Uppskot til løgtingslóg um umskipan av Føroya Lívstrygging</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-19" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/4882" />
+            <note type="source_format">PDF document, machine-readable text</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div>
+          <table rend="left align-right">
+            <row>
+              <cell rend="meta-cell">Lms. j. nr.:</cell>
+              <cell rend="meta-cell">691-2/98</cell>
+            </row>
+            <row>
+              <cell rend="meta-cell">Vms. j. nr.:</cell>
+              <cell rend="meta-cell">617-28/94</cell>
+            </row>
+            <row>
+              <cell rend="meta-cell">Viðgjørt:</cell>
+              <cell rend="meta-cell">GHJ/pm</cell>
+            </row>
+          </table>
           <space dim="vertical" />
-          <ab rend="bold center">til</ab>
+          <ab>
+            <ab rend="bold center">Uppskot</ab>
+            <space dim="vertical" />
+            <ab rend="bold center">til</ab>
+            <space dim="vertical" />
+            <ab rend="bold center">løgtingslóg um umskipan av Føroya Lívstrygging</ab>
+          </ab>
           <space dim="vertical" />
-          <ab rend="bold center">løgtingslóg um umskipan av Føroya Lívstrygging</ab>
-        </ab>
-        <space dim="vertical" />
-        <div type="chapter" n="0">
-          <div type="bill-section" n="§ 1.">
-            <div n="§ 1. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 1.</label>
-                <s xml:lang="fo" cert="high" xml:id="ongue7m27f">Landsstýrismaðurin stovnar eitt lívs-tryggingarpartafelag við partapeningi, sum verður teknaður av landsstýrinum.</s>
-                <s xml:lang="fo" cert="high" xml:id="zpclnsjyeu">Navnið á partafelagnum verður P/f Føroya Lívstrygging.</s>
-              </p>
+          <div type="chapter" n="0">
+            <div type="bill-section" n="§ 1.">
+              <div n="§ 1. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 1.</label>
+                  <s xml:lang="fo" cert="high" xml:id="ongue7m27f">Landsstýrismaðurin stovnar eitt lívs-tryggingarpartafelag við partapeningi, sum verður teknaður av landsstýrinum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="zpclnsjyeu">Navnið á partafelagnum verður P/f Føroya Lívstrygging.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="lmdyprjaid">Eftirlitið kann loyva, at vikið verður frá ásetingunum um stovnan av lívstryggingarfeløgum í løgtingslóg um tryggingarvirksemi, kapittul 3, 15, 16 og 17 í tann mun, fyrilit mótvegis tryggingartakarunum ikki tala ímóti.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 1. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="lmdyprjaid">Eftirlitið kann loyva, at vikið verður frá ásetingunum um stovnan av lívstryggingarfeløgum í løgtingslóg um tryggingarvirksemi, kapittul 3, 15, 16 og 17 í tann mun, fyrilit mótvegis tryggingartakarunum ikki tala ímóti.</s>
-              </p>
+            <div type="bill-section" n="§ 2.">
+              <div n="§ 2. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="uvgtzxme4u">Tað í § 1 nevnda lívstryggingar-partafelag yvirtekur øll rættindi og allar skyldur frá Føroya Lívstrygging, og kemur í somu skattligu støðu sum Føroya Lívstrygging.</s>
+                  <s xml:lang="fo" cert="high" xml:id="gflxagqjaf">Byrjunarfíggjarstøða og metingarfrágreiðing pr. 1. januar 2000 verða óbroyttar at leggja til grund í skattleggingini av tí í § 1 nevnda lívstryggingar partafelagi.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="dddynqtilm">Umskipanin av Føroya Lívstrygging í eitt partafelag kemur ikki undir skattskyldu av nøkrum slag.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="d5eyjjzj7c">Fyri tað í stk. 1 nevndu yvirtøku galda ásetingarnar í løgtingslóg um tryggingarvirksemi um avhending av eini tryggingarmongd ikki.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="kxx2rbr3eq">Rættindini yvir virðisbrøv, ið eru skrásett í Værdipapircentralen í navninum hjá Føroya Lívstrygging, og sum lívstryggingarpartafelagið eftir stk. 1 yvirtekur, verða mett at vera skrásett í hesum.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high" xml:id="wh7z6zc2om">Tinglýsing av rættindum hjá lívstryggingarpartafelagnum smb. stk. 1 kann fara fram við støði í hesi lóg.</s>
+                </p>
+              </div>
             </div>
-          </div>
-          <div type="bill-section" n="§ 2.">
-            <div n="§ 2. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="uvgtzxme4u">Tað í § 1 nevnda lívstryggingar-partafelag yvirtekur øll rættindi og allar skyldur frá Føroya Lívstrygging, og kemur í somu skattligu støðu sum Føroya Lívstrygging.</s>
-                <s xml:lang="fo" cert="high" xml:id="gflxagqjaf">Byrjunarfíggjarstøða og metingarfrágreiðing pr. 1. januar 2000 verða óbroyttar at leggja til grund í skattleggingini av tí í § 1 nevnda lívstryggingar partafelagi.</s>
-              </p>
+            <div type="bill-section" n="§ 3.">
+              <div n="§ 3. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="vxthu2zdek">Tann í løgtingslóg um lívstryggingarvirksemi nevnda landskassa-ábyrgd er framvegis galdandi fyri tær tryggingaravtalur, sum Føroya Lívstrygging hevur tann 31. desember 1999.</s>
+                  <s xml:lang="fo" cert="high" xml:id="harc7sl4an">Sama er galdandi fyri aðrar skyldur, ið verða yvirtiknar frá Føroya Lívstrygging eftir hesi lóg.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 2. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="dddynqtilm">Umskipanin av Føroya Lívstrygging í eitt partafelag kemur ikki undir skattskyldu av nøkrum slag.</s>
-              </p>
-            </div>
-            <div n="§ 2. Stk. 3.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="d5eyjjzj7c">Fyri tað í stk. 1 nevndu yvirtøku galda ásetingarnar í løgtingslóg um tryggingarvirksemi um avhending av eini tryggingarmongd ikki.</s>
-              </p>
-            </div>
-            <div n="§ 2. Stk. 4.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="kxx2rbr3eq">Rættindini yvir virðisbrøv, ið eru skrásett í Værdipapircentralen í navninum hjá Føroya Lívstrygging, og sum lívstryggingarpartafelagið eftir stk. 1 yvirtekur, verða mett at vera skrásett í hesum.</s>
-              </p>
-            </div>
-            <div n="§ 2. Stk. 5.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 5.</label>
-                <s xml:lang="fo" cert="high" xml:id="wh7z6zc2om">Tinglýsing av rættindum hjá lívstryggingarpartafelagnum smb. stk. 1 kann fara fram við støði í hesi lóg.</s>
-              </p>
-            </div>
-          </div>
-          <div type="bill-section" n="§ 3.">
-            <div n="§ 3. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="vxthu2zdek">Tann í løgtingslóg um lívstryggingarvirksemi nevnda landskassa-ábyrgd er framvegis galdandi fyri tær tryggingaravtalur, sum Føroya Lívstrygging hevur tann 31. desember 1999.</s>
-                <s xml:lang="fo" cert="high" xml:id="harc7sl4an">Sama er galdandi fyri aðrar skyldur, ið verða yvirtiknar frá Føroya Lívstrygging eftir hesi lóg.</s>
-              </p>
-            </div>
-          </div>
-          <div type="bill-section" n="§ 4.">
-            <div n="§ 4. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="hbwikntzcu">Henda løgtingslóg kemur í gildi 1. januar 2000.</s>
-                <s xml:lang="fo" cert="high" xml:id="e3u43nuf4p">Tó kemur § 1 í gildi dagin eftir at lógin er kunngjørd.</s>
-              </p>
-            </div>
-            <div n="§ 4. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s cert="high" xml:id="yz3gwtxijq">Samstundis fer úr gildi løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirksemi við seinni broytingum, og løgtingslóg nr. 77 frá 23. mai 1997 fyri Føroya Lívstrygging við seinni broytingum.</s>
-              </p>
+            <div type="bill-section" n="§ 4.">
+              <div n="§ 4. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="hbwikntzcu">Henda løgtingslóg kemur í gildi 1. januar 2000.</s>
+                  <s xml:lang="fo" cert="high" xml:id="e3u43nuf4p">Tó kemur § 1 í gildi dagin eftir at lógin er kunngjørd.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s cert="high" xml:id="yz3gwtxijq">Samstundis fer úr gildi løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirksemi við seinni broytingum, og løgtingslóg nr. 77 frá 23. mai 1997 fyri Føroya Lívstrygging við seinni broytingum.</s>
+                </p>
+              </div>
             </div>
           </div>
-        </div>
-        <pb n="2" />
-        <div type="chapter" n="1">
-          <head rend="bold italic">Almennar viðmerkingar</head>
-          <p>
-            <s xml:id="dipbj222to">Føroya Lívstrygging er sett á stovn við løgtingslóg nr. 64 frá 10. oktober 1966 um lívtryggingarvirki sum ein sjálvstøðugur lívstryggingarstovnur við einkarrætti at reka lívstryggingarvirksemi í Føroyum.</s>
-            <s xml:id="mgpweh5ngn">Fyrimyndin fyri stovnsetanini av Føroya Lívstrygging var Statsanstalten for Livsforsikring, og røkir Føroya Lívstrygging sítt virki við landskassaveðhaldi.</s>
-            <s xml:id="fmlpgjrpy6">Føroya Lívstrygging hevur verið umsitin av Tryggingarsambandinum Føroyar, hvørs nevnd eisini var nevnd fyri Føroya Lívstrygging.</s>
-            <s xml:id="eqyklch5yw">Somuleiðis var stjórin í tryggingarsambandinum eisini stjóri í Føroya Lívstrygging fram til 1998, tá hetta varð broytt, soleiðis at Føroya Lívstrygging fekk egnan stjóra og nevnd, vald av landstýrismanninum.</s>
-          </p>
-          <ab>-</ab>
-          <p>
-            <s xml:id="myawnq7rev">Við hesum uppskoti verður lagt upp til, at galdandi lóg um lívstryggingarvirki verður tikin av, og Føroya Lívstrygging umskipað í eitt partafelag, sum skal virka eftir løgtingslóg nr. 3 frá 13. februar 1996 um tryggingarvirksemi.</s>
-            <s xml:id="wkgu4aozlh">Uppskotið er seinasta stig í nútímansgerðingini av tryggingarøkinum í Føroyum, sum byrjaði tann 18. juni 1986, tá ið landsstýrið setti ein arbeiðsbólk<ref target="fn01" />, sum skuldi kanna tryggingarlóggávuna og tryggingarviðurskiftini.</s>
-            <s xml:id="r4y4fqn4uv">Henda nevnd bleiv sett aftaná at Sambandsflokkurin hevði sett fram uppskot á Føroya Løgtingi<ref target="fn02" />” Nýggj lóggáva og nýggjar reglur um trygging í Føroyum”, sum miðaði ímóti at gera nýggjar reglur fyri trygging í Føroyum umframt at avtaka einkarrættin.</s>
-          </p>
-          <p>
-            <s xml:id="mm3sv4pgja">Í álitinum frá Ídnaðarnevnd løgtingsins – har málið varð beint eftir 1. viðgerð í tinginum – sigur nevndin, at tryggingarlóggávan eigur at endurskoðast, tí hon er ósamsvarandi nútíðarviðurskiftunum.</s>
-          </p>
-          <p>
-            <s xml:id="oewjqbcv23">Arbeiðsbólkurin sendi tann 16. oktober 1989 landsstýrinum eitt álit, har víst varð á nakrar møguleikar viðvíkjandi broytingum á tryggingarøkinum.</s>
-            <s xml:id="vqnipxwqkg">Í brævi dagfest 9. juli 1990 mælti arbeiðsbólkurin landsstýrinum til at arbeiða fyri at avtaka einkarrættin og loyva fríari kapping millum føroyskt skrásett feløg við føroyskum kapitali.</s>
-          </p>
-          <p>
-            <s xml:id="ow4rlvztb6">Tann 9. mars 1993 boðaði landsstýrið frá, at tað tók undir við tilmælinum frá arbeiðsbólkinum frá 9. juli 1990, og heitti samstundis á arbeiðsbólkin um at halda fram við arbeiðinum, og koma við uppskotum um eina nútímansgerð av lóggávuni um tryggingarviðurskifti.</s>
-            <s xml:id="kwza2yjsqe">Somuleiðis varð fráboðað, at við avtaluni millum ríkisstýrið og landsstýrið frá 1. februar 1993 hevði landsstýrið bundið seg til at fáa tílíka lóggávu framda.</s>
-          </p>
-          <p>
-            <s xml:id="nsckdkjjry">12. oktober 1993 gjørdi landsstýrið avtalu við ríkisstjórnina, um at landsstýrið bant seg til at broyta lógina um Føroya Lívstrygging soleiðis, at landsstýrið ikki frameftir veitti ábyrgd fyri nýggjum tryggingum.</s>
-          </p>
-          <p>
-            <s xml:id="iv74xdblhn">Arbeiðsbólkurin lat tann 10. desember 1993 landsstýrinum eitt uppskot til løgtingslóg um tryggingarvirksemi, sum varð lagt fyri løgtingið við ársenda 1993.</s>
-            <s xml:id="hvdrqn4kwa">Orsakað av nývalinum 7. juli 1994 fall tað burtur.</s>
-            <s xml:id="jrevf5bczg">Tann 26. september 1994 heitti landsstýrið av nýggjum á arbeiðsbólkin um at halda áfram við arbeiðinum og dagføra uppskotið til nýggja framløgu í løgtinginum.</s>
-          </p>
-          <p>
-            <s xml:id="ctynzglebq">Tann 22. september 1995 legði landsstýrið uppskotið fyri løgtingið, sum hevði til endamáls at skipa tíðarhóskandi karmar fyri føroyskt tryggingarvirksemi.</s>
-            <s xml:id="hjh4awsfyk">Einkarrætturin skuldi avtakast og <pb n="3" />loyvast skuldi frí kapping millum føroyskt skrásett feløg við føroyskum kapitali.</s>
-            <s xml:id="lxgpq63nra">Lógin um tryggingarvirksemi kom í gildi 1. januar 1997.</s>
-          </p>
-          <p>
-            <s xml:id="q3bjxruscx">Lógin er generel, og fevnir tí um alt tryggingarvirksemi t.v.s. bæði skaðatryggingarvirksemi og lívstryggingarvirksemi - men hóast hetta bleiv løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirki, ið er rættarliga grundarlagið undir Føroya Lívstrygging, ikki sett úr gildi samstundis.</s>
-            <s xml:id="xjh7igco36">Orsøkin til hetta var skipanin við landskassaveðhaldi fyri Føroya Lívstrygging, sum gjørdi, at mett varð neyðugt at seta úr gildi 1966-lógina við serligari lóg.</s>
-          </p>
-          <p>
-            <s xml:id="dhclz7kca2">Arbeiðsbólkurin gjørdi tí eisini eitt uppskot til løgtingslóg um umskipan av Føroya Lívstrygging, sum eina avleiðing av nevndu avtalum við ríkisstjórnina.</s>
-            <s xml:id="polkqzrbu4">Uppskotið varð gjørt eftir sama leisti sum brúktur varð í Danmark, tá ið Statsanstalten for Livsforsikring bleiv umlagt í partafelag.</s>
-            <s xml:id="mysn5v2ciu">Hetta uppskot bleiv av Føroya Landsstýri 17. mars 1994 lagt fyri løgtingið sum løgtingsmál nr. 149/1993, men fall eisini hetta málið burtur orsakað av nývalinum í juli 1994.</s>
-          </p>
-          <p>
-            <s xml:id="niebyr6oqa">Eftir at arbeiðsbólkurin sendi landsstýrinum uppskotið um umskipan av Føroya Lívstrygging til partafelag, komu fram ávísir ivaspurningar í sambandi við umskipanina av Statsanstalten for Livsforsikring.</s>
-            <s xml:id="wv5m7yhwfx">Tí gjørdi nevndin eitt nýtt uppskot, sum hevði sum høvuðsendamál, at Føroya Lívstrygging gavst at tekna nýggjar tryggingaravtalur við landskassaábyrgd.</s>
-            <s xml:id="wmwu6zgk47">Nevndin mælti eisini til ikki at umskipa Føroya Lívstrygging til eitt partafelag, men ístaðin at lata tær tryggingaravtalur, sum vóru í Føroya Lívstrygging halda fram við landskassaábyrgd, og at stovnurin skuldi halda fram at virka, so leingi sum virknar tryggingaravtalur vóru eftir í stovninum.</s>
-          </p>
-          <p>
-            <s xml:id="jepeulolam">Hetta uppskot varð lagt fyri løgtingið og samtykt sum løgtingslóg nr. 77 frá 23. mai 1997 fyri Føroya Lívstrygging.</s>
-            <s xml:id="qvcckudlvi">Lógin skuldi koma í gildi 1. januar 1998.</s>
-            <s xml:id="sh65c7amvh">Lógin ásetir, at aftaná gildiskomuna heldur landskassaábyrgdin uppat, tó ikki fyri galdandi tryggingaravtalur, og at nýggjar tryggingar ikki kunnu teknast í Føroya Lívstrygging.</s>
-            <s xml:id="bxiimp4aan">Lógin heimilar landsstýrinum at gera avtalur við onnur lívstryggingarfeløg um leiðslu av Føroya Lívstrygging.</s>
-            <s xml:id="rdab2mtb4t">Eisini kann landsstýrið selja ella avhenda tryggingarmongdina í Føroya Lívstrygging til annað felag ella stovna lívstryggingarpartafelag.</s>
-            <s xml:id="qjziyuw7un">Samstundis sum lógin kemur í gildi, verður 1966-lógin um lívstryggingarvirki sett úr gildi.</s>
-          </p>
-          <p>
-            <s>Orsakað av ivamáli um rættarligu støðuna hjá Føroya Lívstrygging – t.v.s. um stovnurin er partur av almennu umsitingini sum eitt serligur fyrisitingarligur stovnur<ref target="fn03" />, og tískil ogn landsins, ella um stovnurin er ein sjálvsognarstovnur - bleiv gildiskomudagurin av 1997-lógini við løgtingslóg nr. 157 frá 19. desember 1997 útsettur til 1. januar 1998.</s>
-            <s>Undir viðgerðini av uppskotinum í vinnunevndini heitti nevndin á landsstýrið um at fáa spurningin loystan sum skjótast.</s>
-            <s>Gildiskomudagurin bleiv tó seinni útsettur enn einaferð, soleiðis at lógin nú ikki kemur í gildi fyrr enn 1. januar 2000.</s>
-          </p>
-          <p>
-            <s>Gjørdar eru nú nágreiniligar løgfrøðiligar kanningar av, hvør rættarliga støða stovnsins er, bæði av Vinnumálastýrinum og Føroya Lívstrygging, og er niðurstøðan greið: Føroya Lívstrygging er ein partur av almennu fyrisitingini, sum ein serligur fyrisitingarligur stovnur<ref target="fn04" />, og eigur <pb n="4" />landskassin eginognina í stovninum.</s>
-            <s>Tó skulu grundaðar vónir hjá tryggingartakarum um bonusveitingar<ref target="fn05" /> uppfyllast.</s>
-          </p>
-          <p>
-            <s>Heldur enn at gera brúk av heimildini í § 4 í løgtingslóg nr. 77 frá 23. mai 1997 og selja ella avhenda tryggingarmongdina til eitt nýtt felag, verður mett, at tá grundarlagið undir Føroya Lívstryging er ein løgtingslóg, er eisini rættast at umskipa stovnin beinleiðis við løgtingslóg, soleiðis at verandi stovnur verður umskipaður í eitt partafelag.</s>
-            <s>Við grundarlagi í uppskotinum, sum landsstýrið legði fyri løgtingið, er tí gjørt eitt nýtt uppskot til umskipanarlóg.</s>
-            <s>Tær kanningar, ið seinni eru gjørdar, vísa, at løgfrøðiliga er onki til hindurs fyri hesum.</s>
-          </p>
-          <p>
-            <s>Eftir hesi loysn kann fyrisitingin av tryggingum við landskassaábyrgd og nýteknaðum tryggingum uttan landskassaveðhald fara fram í sama felag.</s>
-          </p>
-          <p>
-            <s>Uppskotið er, sum áður nevnt, gjørt eftir sama leisti, sum brúktur var í Danmark í sambandi við umskipanina av Statsanstalten for Livsforsikring, og hava vit tí teirra royndir at stuðla okkum til.</s>
-            <s>Lógaruppskotið leggur upp til, at landskassaábyrgdin fyri nýggjum tryggingaravtalum og virkseminum annars fellur burtur.</s>
-            <s>Føroya Lívstrygging verður umskipað til eitt partafelag, og nýggja felagið fer at virkað eftir løgtingslóg um tryggingarvirksemi.</s>
-            <s>Samstundis verður løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirki sett úr gildi.</s>
-          </p>
-          <p>
-            <s>Ikki fyrr enn hesar broytingar eru gjørdar, verður frí kapping á lívstryggingarøkinum møgulig.</s>
-            <s>Hetta tí at einkarrætturin sambært 1966-lógini fellur burtur, og Føroya Lívstrygging kemur at virka á privatrættarligum grundarlagi og eftir somu treytum sum møguligir kappingarneytar.</s>
-            <s>Hetta er í tráð við tað sum løgtingslóg nr. 3 frá 13. februar 1996 um tryggingarvirksemi legði upp til, og verður bygnaðurin í Føroya Lívstrygging og lívstryggingaøkið hereftir á sama støði, sum í grannalondum okkara.</s>
-          </p>
-          <p>
-            <s>Í sambandi við umskipanina er serligur dentur lagdur á, at grundaðar vónir hjá tryggingartakarum um bonusveitingar verða gingnar á møti á sama hátt sum áður.</s>
-          </p>
-          <p>
-            <seg>Í viðtøkunum fyri nýggja felagið fer tí m.a. at verða ásett, at góðkenning krevst frá tí av landsstýrismanninum sambært § 36 í løgtingslóg um tryggingarvirksemi tilnevnda limi til fylgjandi avgerðir:</seg>
-          </p>
-          <p rend="italic">
-            <s>Avtøka ella broyting av eini sertreyt um vinningsbýti ella útbýting, avhending av tryggingarmongdini ella einum parti av hesi, avhending ella annað skifti av partabrøvum í felagnum og samanlegging ella likvidatión av felagnum.</s>
-          </p>
-          <p>
-            <s>Hetta verður gjørt við tí fyri eyga at tryggja, at ognirnar hjá Føroya Lívstrygging eisini frameftir koma teim gomlu tryggingartakarunum tilgóðar.</s>
-          </p>
-          <note xml:id="fn01" place="foot" n="1">
-            <seg>
-              <s>”Nevndin at kanna tryggingarlóggávur”.</s>
-              <s>Í nevndini sótu Jalgrim Hilduberg, Jens Peter Arge, Bjartur Dalsgarð og Bjarni Olsen.</s>
-            </seg>
-          </note>
-          <note xml:id="fn02" place="foot" n="2">
-            <seg>Løgtingsmál nr. 67/1985:</seg>
-          </note>
-          <note xml:id="fn03" place="foot" n="3">
+          <pb n="2" />
+          <div type="chapter" n="1">
+            <head rend="bold italic">Almennar viðmerkingar</head>
             <p>
-              <s>Eisini nevnt serligt fyrisitingarsubjekt.</s>
-              <s>Hetta merkir at Føroya Lívstrygging er uttanfyri vanligu fyrisitingarligu skipanina, soleiðis at skilja, at landsstýrismaðurin mótvegis Føroya Lívstrygging ikki hevur tær instruktiónsheimildirnar, sum hann vanliga hevur mótvegis stovnum sum eru beinleiðis undir landsstýrismanninum.</s>
-              <s>Slíkir stovnar eru vanliga heldur ikki við á fíggjarlógini.</s>
+              <s xml:id="dipbj222to">Føroya Lívstrygging er sett á stovn við løgtingslóg nr. 64 frá 10. oktober 1966 um lívtryggingarvirki sum ein sjálvstøðugur lívstryggingarstovnur við einkarrætti at reka lívstryggingarvirksemi í Føroyum.</s>
+              <s xml:id="mgpweh5ngn">Fyrimyndin fyri stovnsetanini av Føroya Lívstrygging var Statsanstalten for Livsforsikring, og røkir Føroya Lívstrygging sítt virki við landskassaveðhaldi.</s>
+              <s xml:id="fmlpgjrpy6">Føroya Lívstrygging hevur verið umsitin av Tryggingarsambandinum Føroyar, hvørs nevnd eisini var nevnd fyri Føroya Lívstrygging.</s>
+              <s xml:id="eqyklch5yw">Somuleiðis var stjórin í tryggingarsambandinum eisini stjóri í Føroya Lívstrygging fram til 1998, tá hetta varð broytt, soleiðis at Føroya Lívstrygging fekk egnan stjóra og nevnd, vald av landstýrismanninum.</s>
             </p>
-          </note>
-          <note xml:id="fn04" place="foot" n="4">
+            <ab>-</ab>
             <p>
-              <s>Hetta var eisini áskoðanin hjá arbeiðsbólkinum, ið kannaði tryggingarlóggávuna.</s>
-              <seg>Sí viðmerkingarnar til 1994-uppskotið til løgtingslóg um umskipan av Føroya Lívstrygging (løgtingsmál 149/1993).</seg>
-            </p>
-          </note>
-          <div>
-            <head rend="bold">Fíggjarligur kostnaður</head>
-            <p>
-              <s>Miðað verður ímóti, at partafelagið verður stovnað við einum kontantum innskoti upp á kr. 500.000.</s>
-            </p>
-          </div>
-          <div>
-            <head rend="italic">Hoyring</head>
-            <p>
-              <s>Uppskotið hevur verið til ummælis hjá: Føroya Lívstrygging, tryggingareftirlitinum, Tryggingarfelagnum Føroyar og Toll- og Skattstovu Føroya.</s>
-            </p>
-            <pb n="6" />
-            <p>
-              <s>Tryggingarfelagið Føroyar hevur áður umsitið Føroya Lívstrygging, og fekk felagið tí høvi til at gera viðmerkingar til uppskotið, men hevur felagið ikki havt nakrar viðmerkingar.</s>
-              <s>Toll- og Skattstova Føroya hevði heldur onki at viðmerkja.</s>
-              <s>Føroya Lívstrygging og tryggingareftirlitið høvdu viðmerkingar av lógartekniskum slag, og er hædd tikin fyri teirra viðmerkingum í uppskotinum.</s>
+              <s xml:id="myawnq7rev">Við hesum uppskoti verður lagt upp til, at galdandi lóg um lívstryggingarvirki verður tikin av, og Føroya Lívstrygging umskipað í eitt partafelag, sum skal virka eftir løgtingslóg nr. 3 frá 13. februar 1996 um tryggingarvirksemi.</s>
+              <s xml:id="wkgu4aozlh">Uppskotið er seinasta stig í nútímansgerðingini av tryggingarøkinum í Føroyum, sum byrjaði tann 18. juni 1986, tá ið landsstýrið setti ein arbeiðsbólk<ref target="fn01" />, sum skuldi kanna tryggingarlóggávuna og tryggingarviðurskiftini.</s>
+              <s xml:id="r4y4fqn4uv">Henda nevnd bleiv sett aftaná at Sambandsflokkurin hevði sett fram uppskot á Føroya Løgtingi<ref target="fn02" />” Nýggj lóggáva og nýggjar reglur um trygging í Føroyum”, sum miðaði ímóti at gera nýggjar reglur fyri trygging í Føroyum umframt at avtaka einkarrættin.</s>
             </p>
             <p>
-              <s>Viðmerkjast skal, at broytingar eru gjørdar í uppskotinum, aftaná at tað hevur verið til ummælis.</s>
+              <s xml:id="mm3sv4pgja">Í álitinum frá Ídnaðarnevnd løgtingsins – har málið varð beint eftir 1. viðgerð í tinginum – sigur nevndin, at tryggingarlóggávan eigur at endurskoðast, tí hon er ósamsvarandi nútíðarviðurskiftunum.</s>
             </p>
-            <note xml:id="fn05" place="foot" n="5">
+            <p>
+              <s xml:id="oewjqbcv23">Arbeiðsbólkurin sendi tann 16. oktober 1989 landsstýrinum eitt álit, har víst varð á nakrar møguleikar viðvíkjandi broytingum á tryggingarøkinum.</s>
+              <s xml:id="vqnipxwqkg">Í brævi dagfest 9. juli 1990 mælti arbeiðsbólkurin landsstýrinum til at arbeiða fyri at avtaka einkarrættin og loyva fríari kapping millum føroyskt skrásett feløg við føroyskum kapitali.</s>
+            </p>
+            <p>
+              <s xml:id="ow4rlvztb6">Tann 9. mars 1993 boðaði landsstýrið frá, at tað tók undir við tilmælinum frá arbeiðsbólkinum frá 9. juli 1990, og heitti samstundis á arbeiðsbólkin um at halda fram við arbeiðinum, og koma við uppskotum um eina nútímansgerð av lóggávuni um tryggingarviðurskifti.</s>
+              <s xml:id="kwza2yjsqe">Somuleiðis varð fráboðað, at við avtaluni millum ríkisstýrið og landsstýrið frá 1. februar 1993 hevði landsstýrið bundið seg til at fáa tílíka lóggávu framda.</s>
+            </p>
+            <p>
+              <s xml:id="nsckdkjjry">12. oktober 1993 gjørdi landsstýrið avtalu við ríkisstjórnina, um at landsstýrið bant seg til at broyta lógina um Føroya Lívstrygging soleiðis, at landsstýrið ikki frameftir veitti ábyrgd fyri nýggjum tryggingum.</s>
+            </p>
+            <p>
+              <s xml:id="iv74xdblhn">Arbeiðsbólkurin lat tann 10. desember 1993 landsstýrinum eitt uppskot til løgtingslóg um tryggingarvirksemi, sum varð lagt fyri løgtingið við ársenda 1993.</s>
+              <s xml:id="hvdrqn4kwa">Orsakað av nývalinum 7. juli 1994 fall tað burtur.</s>
+              <s xml:id="jrevf5bczg">Tann 26. september 1994 heitti landsstýrið av nýggjum á arbeiðsbólkin um at halda áfram við arbeiðinum og dagføra uppskotið til nýggja framløgu í løgtinginum.</s>
+            </p>
+            <p>
+              <s xml:id="ctynzglebq">Tann 22. september 1995 legði landsstýrið uppskotið fyri løgtingið, sum hevði til endamáls at skipa tíðarhóskandi karmar fyri føroyskt tryggingarvirksemi.</s>
+              <s xml:id="hjh4awsfyk">Einkarrætturin skuldi avtakast og <pb n="3" />loyvast skuldi frí kapping millum føroyskt skrásett feløg við føroyskum kapitali.</s>
+              <s xml:id="lxgpq63nra">Lógin um tryggingarvirksemi kom í gildi 1. januar 1997.</s>
+            </p>
+            <p>
+              <s xml:id="q3bjxruscx">Lógin er generel, og fevnir tí um alt tryggingarvirksemi t.v.s. bæði skaðatryggingarvirksemi og lívstryggingarvirksemi - men hóast hetta bleiv løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirki, ið er rættarliga grundarlagið undir Føroya Lívstrygging, ikki sett úr gildi samstundis.</s>
+              <s xml:id="xjh7igco36">Orsøkin til hetta var skipanin við landskassaveðhaldi fyri Føroya Lívstrygging, sum gjørdi, at mett varð neyðugt at seta úr gildi 1966-lógina við serligari lóg.</s>
+            </p>
+            <p>
+              <s xml:id="dhclz7kca2">Arbeiðsbólkurin gjørdi tí eisini eitt uppskot til løgtingslóg um umskipan av Føroya Lívstrygging, sum eina avleiðing av nevndu avtalum við ríkisstjórnina.</s>
+              <s xml:id="polkqzrbu4">Uppskotið varð gjørt eftir sama leisti sum brúktur varð í Danmark, tá ið Statsanstalten for Livsforsikring bleiv umlagt í partafelag.</s>
+              <s xml:id="mysn5v2ciu">Hetta uppskot bleiv av Føroya Landsstýri 17. mars 1994 lagt fyri løgtingið sum løgtingsmál nr. 149/1993, men fall eisini hetta málið burtur orsakað av nývalinum í juli 1994.</s>
+            </p>
+            <p>
+              <s xml:id="niebyr6oqa">Eftir at arbeiðsbólkurin sendi landsstýrinum uppskotið um umskipan av Føroya Lívstrygging til partafelag, komu fram ávísir ivaspurningar í sambandi við umskipanina av Statsanstalten for Livsforsikring.</s>
+              <s xml:id="wv5m7yhwfx">Tí gjørdi nevndin eitt nýtt uppskot, sum hevði sum høvuðsendamál, at Føroya Lívstrygging gavst at tekna nýggjar tryggingaravtalur við landskassaábyrgd.</s>
+              <s xml:id="wmwu6zgk47">Nevndin mælti eisini til ikki at umskipa Føroya Lívstrygging til eitt partafelag, men ístaðin at lata tær tryggingaravtalur, sum vóru í Føroya Lívstrygging halda fram við landskassaábyrgd, og at stovnurin skuldi halda fram at virka, so leingi sum virknar tryggingaravtalur vóru eftir í stovninum.</s>
+            </p>
+            <p>
+              <s xml:id="jepeulolam">Hetta uppskot varð lagt fyri løgtingið og samtykt sum løgtingslóg nr. 77 frá 23. mai 1997 fyri Føroya Lívstrygging.</s>
+              <s xml:id="qvcckudlvi">Lógin skuldi koma í gildi 1. januar 1998.</s>
+              <s xml:id="sh65c7amvh">Lógin ásetir, at aftaná gildiskomuna heldur landskassaábyrgdin uppat, tó ikki fyri galdandi tryggingaravtalur, og at nýggjar tryggingar ikki kunnu teknast í Føroya Lívstrygging.</s>
+              <s xml:id="bxiimp4aan">Lógin heimilar landsstýrinum at gera avtalur við onnur lívstryggingarfeløg um leiðslu av Føroya Lívstrygging.</s>
+              <s xml:id="rdab2mtb4t">Eisini kann landsstýrið selja ella avhenda tryggingarmongdina í Føroya Lívstrygging til annað felag ella stovna lívstryggingarpartafelag.</s>
+              <s xml:id="qjziyuw7un">Samstundis sum lógin kemur í gildi, verður 1966-lógin um lívstryggingarvirki sett úr gildi.</s>
+            </p>
+            <p>
+              <s xml:id="zuvs3lh6ne">Orsakað av ivamáli um rættarligu støðuna hjá Føroya Lívstrygging – t.v.s. um stovnurin er partur av almennu umsitingini sum eitt serligur fyrisitingarligur stovnur<ref target="fn03" />, og tískil ogn landsins, ella um stovnurin er ein sjálvsognarstovnur - bleiv gildiskomudagurin av 1997-lógini við løgtingslóg nr. 157 frá 19. desember 1997 útsettur til 1. januar 1998.</s>
+              <s xml:id="xnugeubrjj">Undir viðgerðini av uppskotinum í vinnunevndini heitti nevndin á landsstýrið um at fáa spurningin loystan sum skjótast.</s>
+              <s xml:id="ir7jvnzvzv">Gildiskomudagurin bleiv tó seinni útsettur enn einaferð, soleiðis at lógin nú ikki kemur í gildi fyrr enn 1. januar 2000.</s>
+            </p>
+            <p>
+              <s xml:id="hcqiw4eam2">Gjørdar eru nú nágreiniligar løgfrøðiligar kanningar av, hvør rættarliga støða stovnsins er, bæði av Vinnumálastýrinum og Føroya Lívstrygging, og er niðurstøðan greið: Føroya Lívstrygging er ein partur av almennu fyrisitingini, sum ein serligur fyrisitingarligur stovnur<ref target="fn04" />, og eigur <pb n="4" />landskassin eginognina í stovninum.</s>
+              <s xml:id="js22evkttn">Tó skulu grundaðar vónir hjá tryggingartakarum um bonusveitingar<ref target="fn05" /> uppfyllast.</s>
+            </p>
+            <p>
+              <s xml:id="kx22nuk2qk">Heldur enn at gera brúk av heimildini í § 4 í løgtingslóg nr. 77 frá 23. mai 1997 og selja ella avhenda tryggingarmongdina til eitt nýtt felag, verður mett, at tá grundarlagið undir Føroya Lívstryging er ein løgtingslóg, er eisini rættast at umskipa stovnin beinleiðis við løgtingslóg, soleiðis at verandi stovnur verður umskipaður í eitt partafelag.</s>
+              <s xml:id="o3vkw7lxiv">Við grundarlagi í uppskotinum, sum landsstýrið legði fyri løgtingið, er tí gjørt eitt nýtt uppskot til umskipanarlóg.</s>
+              <s xml:id="el7nl5vcs2">Tær kanningar, ið seinni eru gjørdar, vísa, at løgfrøðiliga er onki til hindurs fyri hesum.</s>
+            </p>
+            <p>
+              <s xml:id="f2y3x3byeh">Eftir hesi loysn kann fyrisitingin av tryggingum við landskassaábyrgd og nýteknaðum tryggingum uttan landskassaveðhald fara fram í sama felag.</s>
+            </p>
+            <p>
+              <s xml:id="x22aqsolcp">Uppskotið er, sum áður nevnt, gjørt eftir sama leisti, sum brúktur var í Danmark í sambandi við umskipanina av Statsanstalten for Livsforsikring, og hava vit tí teirra royndir at stuðla okkum til.</s>
+              <s xml:id="qvanohhw5k">Lógaruppskotið leggur upp til, at landskassaábyrgdin fyri nýggjum tryggingaravtalum og virkseminum annars fellur burtur.</s>
+              <s xml:id="hylibcim4x">Føroya Lívstrygging verður umskipað til eitt partafelag, og nýggja felagið fer at virkað eftir løgtingslóg um tryggingarvirksemi.</s>
+              <s xml:id="xzjivsmnoe">Samstundis verður løgtingslóg nr. 64 frá 10. oktober 1966 um lívstryggingarvirki sett úr gildi.</s>
+            </p>
+            <p>
+              <s xml:id="dpqxyojtpy">Ikki fyrr enn hesar broytingar eru gjørdar, verður frí kapping á lívstryggingarøkinum møgulig.</s>
+              <s xml:id="cx6ayycjmi">Hetta tí at einkarrætturin sambært 1966-lógini fellur burtur, og Føroya Lívstrygging kemur at virka á privatrættarligum grundarlagi og eftir somu treytum sum møguligir kappingarneytar.</s>
+              <s xml:id="osnj4emx5n">Hetta er í tráð við tað sum løgtingslóg nr. 3 frá 13. februar 1996 um tryggingarvirksemi legði upp til, og verður bygnaðurin í Føroya Lívstrygging og lívstryggingaøkið hereftir á sama støði, sum í grannalondum okkara.</s>
+            </p>
+            <p>
+              <s xml:id="fvp2xdcpre">Í sambandi við umskipanina er serligur dentur lagdur á, at grundaðar vónir hjá tryggingartakarum um bonusveitingar verða gingnar á møti á sama hátt sum áður.</s>
+            </p>
+            <p>
+              <seg>Í viðtøkunum fyri nýggja felagið fer tí m.a. at verða ásett, at góðkenning krevst frá tí av landsstýrismanninum sambært § 36 í løgtingslóg um tryggingarvirksemi tilnevnda limi til fylgjandi avgerðir:</seg>
+            </p>
+            <p rend="italic">
+              <s xml:id="g2enors3ar">Avtøka ella broyting av eini sertreyt um vinningsbýti ella útbýting, avhending av tryggingarmongdini ella einum parti av hesi, avhending ella annað skifti av partabrøvum í felagnum og samanlegging ella likvidatión av felagnum.</s>
+            </p>
+            <p>
+              <s xml:id="cwfv4iomhm">Hetta verður gjørt við tí fyri eyga at tryggja, at ognirnar hjá Føroya Lívstrygging eisini frameftir koma teim gomlu tryggingartakarunum tilgóðar.</s>
+            </p>
+            <note xml:id="fn01" place="foot" n="1">
+              <seg>
+                <s xml:id="nqqlaun3tt">”Nevndin at kanna tryggingarlóggávur”.</s>
+                <s xml:id="o3yseblm4k">Í nevndini sótu Jalgrim Hilduberg, Jens Peter Arge, Bjartur Dalsgarð og Bjarni Olsen.</s>
+              </seg>
+            </note>
+            <note xml:id="fn02" place="foot" n="2">
+              <seg>Løgtingsmál nr. 67/1985:</seg>
+            </note>
+            <note xml:id="fn03" place="foot" n="3">
               <p>
-                <s>Tryggingartakararnir hava eftir tryggingaravtalunum, og lógini um lívstryggingarvirki krav uppá, at ein partur av yvirskotinum verður lutaður út sum bonus til tryggingartakararnar.</s>
+                <s xml:id="wk3gp75vn3">Eisini nevnt serligt fyrisitingarsubjekt.</s>
+                <s xml:id="ixzqzfezpu">Hetta merkir at Føroya Lívstrygging er uttanfyri vanligu fyrisitingarligu skipanina, soleiðis at skilja, at landsstýrismaðurin mótvegis Føroya Lívstrygging ikki hevur tær instruktiónsheimildirnar, sum hann vanliga hevur mótvegis stovnum sum eru beinleiðis undir landsstýrismanninum.</s>
+                <s xml:id="gqywl7m6op">Slíkir stovnar eru vanliga heldur ikki við á fíggjarlógini.</s>
               </p>
             </note>
+            <note xml:id="fn04" place="foot" n="4">
+              <p>
+                <s xml:id="gliq6ryzmj">Hetta var eisini áskoðanin hjá arbeiðsbólkinum, ið kannaði tryggingarlóggávuna.</s>
+                <seg>Sí viðmerkingarnar til 1994-uppskotið til løgtingslóg um umskipan av Føroya Lívstrygging (løgtingsmál 149/1993).</seg>
+              </p>
+            </note>
+            <div>
+              <head rend="bold">Fíggjarligur kostnaður</head>
+              <p>
+                <s xml:id="l65rr3hf3s">Miðað verður ímóti, at partafelagið verður stovnað við einum kontantum innskoti upp á kr. 500.000.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="italic">Hoyring</head>
+              <p>
+                <s xml:id="f2cpomwutq">Uppskotið hevur verið til ummælis hjá: Føroya Lívstrygging, tryggingareftirlitinum, Tryggingarfelagnum Føroyar og Toll- og Skattstovu Føroya.</s>
+              </p>
+              <pb n="6" />
+              <p>
+                <s xml:id="ffvegcbror">Tryggingarfelagið Føroyar hevur áður umsitið Føroya Lívstrygging, og fekk felagið tí høvi til at gera viðmerkingar til uppskotið, men hevur felagið ikki havt nakrar viðmerkingar.</s>
+                <s xml:id="oszvfix7uw">Toll- og Skattstova Føroya hevði heldur onki at viðmerkja.</s>
+                <s xml:id="wkharadrev">Føroya Lívstrygging og tryggingareftirlitið høvdu viðmerkingar av lógartekniskum slag, og er hædd tikin fyri teirra viðmerkingum í uppskotinum.</s>
+              </p>
+              <p>
+                <s xml:id="qnovlqqbez">Viðmerkjast skal, at broytingar eru gjørdar í uppskotinum, aftaná at tað hevur verið til ummælis.</s>
+              </p>
+              <note xml:id="fn05" place="foot" n="5">
+                <p>
+                  <s xml:id="eqwiumzvgs">Tryggingartakararnir hava eftir tryggingaravtalunum, og lógini um lívstryggingarvirki krav uppá, at ein partur av yvirskotinum verður lutaður út sum bonus til tryggingartakararnar.</s>
+                </p>
+              </note>
+            </div>
           </div>
+          <!-- TODO: fix layout! -->
+          <div type="chapter" n="2">
+            <head rend="bold">Viðmerkingar til tær einstøku greinarnar</head>
+            <div>
+              <head>Ad § 1, stk. 1.</head>
+              <p>
+                <s xml:id="bdnkhluchu">Lívstryggingarpartafelagið verður stovnað sambært reglunum í partafelagslógini og løgtingslógini um tryggingarvirksemi.</s>
+              </p>
+              <p>
+                <s xml:id="fl2nxzckpj">Ætlanin er, at felagið skal hava eina 5 mannanevnd.</s>
+              </p>
+              <p>
+                <s xml:id="bxqxloe7vo">Partafelagið verður stovnað soleiðis, at tað kann vera klárt at fara undir virksemi sítt 1. januar ár 2000.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 1, stk. 2.</head>
+              <p>
+                <s xml:id="mwe64fqnfe">Grundgevingin fyri uppskotinum um undantaksreglur er, at gera møguliga eina skjóta og umsitingarliga einkla stovnan av tí nýggja partafelagnum.</s>
+                <s xml:id="dcod5ryuhl">Ætlanin er tó ikki í størri mun at víkja frá stovningarreglunum í lógini um tryggingarvirksemi.</s>
+                <s xml:id="neqk5z6x6d">Í reglunum er tilskilað, at tryggingareftirlitið bert kann veita undantaksloyvi, tá ið viðurskiftini hjá tryggingartakaranum ikki tala ímóti hesum.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 2, stk. 1.</head>
+              <p>
+                <s xml:id="tpeeoiv5oi">Eftir hesari áseting verður alt virksemi hjá Føroya Lívstrygging, herundir tryggingarmongdin, beinleiðis við lóg flutt til nýstovnaða partafelagið.</s>
+              </p>
+              <p>
+                <s xml:id="dbo2no7rfm">Tryggingartakararnir í Føroya Lívstrygging verða hereftir tryggingartakarar í lívstryggingarpartafelagnum, og av tí at rættarstøða teirra ikki á nakran hátt verður verri av hesum, kunnu teir ikki av hesi orsøk siga teirra tryggingar upp.</s>
+              </p>
+              <p>
+                <s xml:id="ndxmwzj5ub">Eftir uppskotinum kemur partafelagið í somu skattligu støðu, sum Føroya Lívstrygging hevur í dag, tó avmarkað av pkt. 2.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 2, stk. 2.</head>
+              <p>
+                <s xml:id="lytluxaokr">Ætlanin við ásetingini er at tryggja, at Føroya Lívstrygging og P/F Føroya Lívstrygging sleppa undan øllum skattskyldum í sambandi við yvirtøkuna hjá partafelagnum av rættindum og skyldum frá Føroya Lívstrygging.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad § 2, stk. 3.</head>
+              <p>
+                <s xml:id="hsu5icixb4">Við tað at rættarstøðan hjá tryggingartakarunum er tryggjað, koma reglurnar í løgtingslóg um tryggingarvirksemi um avhending av eini tryggingarmongd ikki í nýtslu.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad § 2, stk. 4 og 5.</head>
+              <p>
+                <s xml:id="ruzmpvb3uu">Ognirnar hjá Føroya Lívstrygging kunnu tinglýsast og skrásetast sum ogn hjá P/f Føroya Lívstrygging beinleiðis við støði í hesi lóg.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 3.</head>
+              <p>
+                <s xml:id="vrcr3lvueo">Ábyrgd landskassans fevnir um øll krøv, ið kunnu gera seg galdandi eftir eini tryggingaravtalu, sum er teknað í Føroya Lívstrygging, áðrenn umskipanina til partafelag, herundir inngjøld framyvir og bonus.</s>
+                <s xml:id="td2wgid76c">Eisini krøv frá øðrum kreditorum eru fevnd av landskassa ábyrgdini.</s>
+                <s xml:id="lkrelvnulu">Broytingar í tryggingaravtalum, teknaðar áðrenn 1. januar 2000, sum hava hækkingar við sær av tryggingarupphæddunum, eru eisini fevndar av landskassaábyrgdini, um tryggingartakarin eftir avtaluni hevur havt rætt til at krevja slíkar broytingar, uttan so, at broytingin er so víðtøkin at sigast kann, at talan er um eina heilt nýggja tryggingaravtalu.</s>
+              </p>
+              <p>
+                <s xml:id="b44fjpkezo">Hetta merkir, at tað er innihaldið í tí ávísu tryggingaravtaluni, sum er avgerandi fyri, um ein hækking av tryggingarupphæddini í framtíðini er fevnd av landskassaábyrgdini.</s>
+                <s xml:id="zhgvt4tvgl">Tað vil tí ikki vera gjørligt, uttan at allar tryggingaravtalur verða gjøgnumgingnar, at avgera í hvønn mun hækkingar í framtíðini eru fevndar av § 3 í lógini.</s>
+              </p>
+              <p>
+                <seg>Tað er tó gjørligt at vísa á nøkur dømi um tryggingaravtalur, hvørs innihald hevur við sær, at hækkingar í framtíðini eru fevndar av landskassaábyrgdini:</seg>
+              </p>
+              <list rend="bulleted">
+                <item>
+                  <p>
+                    <s xml:id="do7dygqtzk">Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) hevur rætt til at gjalda eitt prosentvíst gjald av einari løn, vil hækkingin av tryggingarupphæddini vegna hækking av løn v.m. verða fevnd av landskassaábyrgdini.</s>
+                  </p>
+                </item>
+                <item>
+                  <p>
+                    <s xml:id="q7yciimsj5">Um so er, at tryggingaravtalan hevur við sær, at bonus verður nýtt til hækking av tryggingarupphæddum, vilja hesar hækkingar verða fevndar av landskassaábyrgdini.</s>
+                  </p>
+                </item>
+                <item>
+                  <p>
+                    <s xml:id="hg7iv4dd3v">Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) í avtalaða tryggingartíðarskeiðinum hevur rætt til at broyta tryggingina við tí avleiðing, at ein ella fleiri tryggingarupphæddir verða hækkaðar, vilja hesar hækkingar verða fevndar av landskassaábyrgdini.</s>
+                  </p>
+                </item>
+                <item>
+                  <p>
+                    <s xml:id="bqrm4hquu4">Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) í avtalaða tryggingartíðarskeiðinum hevur heimild til at gjalda eyka innskot, vilja hesar hækkingar av tryggingarupphæddunum verða fevndar av landskassaábyrgdini.</s>
+                  </p>
+                </item>
+              </list>
+              <p>
+                <s xml:id="uluodlcijx">Viðmerkjast skal, at hetta ikki er ein fullfíggjaður listi, men einans eru dømir.</s>
+              </p>
+              <p>
+                <s xml:id="drmjvtuc7z">Ivi kann stinga seg upp um, hvussu langt § 3 fevnir, men nevnast kunnu onkur dømi frá tí tryggingarfelagnum, sum keypti Statsanstalten for Livsforsikring.</s>
+                <s xml:id="t5qlp3qile">Har góðkendi nevndarumboð statsins, at broyting í tryggingargjaldinum fyri eina trygging til rindan av muninum millum arbeiðsførleikatap og eftirlønaruppsparing ikki var ein broyting, ið gjørdi, at ábyrgdin fall burtur, eins og ein útsett útgjalding av eini tryggingarupphædd heldur ikki var ein tílík broyting.</s>
+              </p>
+              <p>
+                <s xml:id="rnebm4iiqa">Í einstøku málunum hevur áherðsla verið løgd á, hvat ein tryggingartakari við góðari grund hevur rætt til at vóna, og hvørjar broytingar kunnu gerast í tryggingaravtalum, uttan at til ber at siga, at talan er um eina heilt nýggja tryggingaravtalu.</s>
+              </p>
+              <p>
+                <s xml:id="xwsdhwtr4c">Landskassaábyrgdin forðar ikki fyri, at lívstryggingarpartafelagið eftir §§ 86 og 87 í løgtingslógini um tryggingarvirksemi, avhendir alla ella ein part av sínari tryggingarmongd til eitt dótturfelag ella eitt annað felag.</s>
+                <s xml:id="mj3ugokdai">Hetta tí at landskassaábyrgdin framvegis vil vera galdandi fyri tær tryggingaravtalur, sum teknaðar eru við landskassaábyrgd.</s>
+                <s xml:id="tnc5uus3yf">Sum víst er á omanfyri, fevnir landskassaábyrgdin ikki um tær skyldur, sum lívstryggingarpartafelagið átekur sær aftaná stovnanina.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 4.</head>
+              <pb n="7" />
+              <p>
+                <label>Gildiskomuáseting.</label>
+                <s xml:id="bi2smja5qo">Lógin kemur í síni heild í gildi 1. januar 2000, men § 1 kemur í gildi dagin eftir, at lógin er kunngjørd, soleiðis at møguleiki verður fyri at stovna partafelagið áðrenn skeringsdagin.</s>
+              </p>
+            </div>
+            <div>
+              <head>Ad. § 4, stk. 2:</head>
+              <p>
+                <s xml:id="ubdcst6m6i">Rættarliga grundarlagið hjá Føroya Lívstrygging higartil - løgtingslógin um lívstryggingarvirki - verður sett úr gildi, og skal P/F Føroya Lívstrygging virka eftir løgtingslóg um tryggingarvirksemi, umframt eftir hesi lóg.</s>
+                <s xml:id="qowv3yka5f">Samstundis verður sett úr gildi løgtingslóg nr. 64 frá 1997 um Føroya Lívstrygging, sum annars hevði komið í gildi sama dag.</s>
+              </p>
+            </div>
+          </div>
+          <!-- TODO: insert table of contents later! -->
         </div>
-        <!-- TODO: fix layout! -->
-        <div type="chapter" n="2">
-          <head rend="bold">Viðmerkingar til tær einstøku greinarnar</head>
-          <div>
-            <head>Ad § 1, stk. 1.</head>
-            <p>
-              <s>Lívstryggingarpartafelagið verður stovnað sambært reglunum í partafelagslógini og løgtingslógini um tryggingarvirksemi.</s>
-            </p>
-            <p>
-              <s>Ætlanin er, at felagið skal hava eina 5 mannanevnd.</s>
-            </p>
-            <p>
-              <s>Partafelagið verður stovnað soleiðis, at tað kann vera klárt at fara undir virksemi sítt 1. januar ár 2000.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 1, stk. 2.</head>
-            <p>
-              <s>Grundgevingin fyri uppskotinum um undantaksreglur er, at gera møguliga eina skjóta og umsitingarliga einkla stovnan av tí nýggja partafelagnum.</s>
-              <s>Ætlanin er tó ikki í størri mun at víkja frá stovningarreglunum í lógini um tryggingarvirksemi.</s>
-              <s>Í reglunum er tilskilað, at tryggingareftirlitið bert kann veita undantaksloyvi, tá ið viðurskiftini hjá tryggingartakaranum ikki tala ímóti hesum.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 2, stk. 1.</head>
-            <p>
-              <s>Eftir hesari áseting verður alt virksemi hjá Føroya Lívstrygging, herundir tryggingarmongdin, beinleiðis við lóg flutt til nýstovnaða partafelagið.</s>
-            </p>
-            <p>
-              <s>Tryggingartakararnir í Føroya Lívstrygging verða hereftir tryggingartakarar í lívstryggingarpartafelagnum, og av tí at rættarstøða teirra ikki á nakran hátt verður verri av hesum, kunnu teir ikki av hesi orsøk siga teirra tryggingar upp.</s>
-            </p>
-            <p>
-              <s>Eftir uppskotinum kemur partafelagið í somu skattligu støðu, sum Føroya Lívstrygging hevur í dag, tó avmarkað av pkt. 2.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 2, stk. 2.</head>
-            <p>
-              <s>Ætlanin við ásetingini er at tryggja, at Føroya Lívstrygging og P/F Føroya Lívstrygging sleppa undan øllum skattskyldum í sambandi við yvirtøkuna hjá partafelagnum av rættindum og skyldum frá Føroya Lívstrygging.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad § 2, stk. 3.</head>
-            <p>
-              <s>Við tað at rættarstøðan hjá tryggingartakarunum er tryggjað, koma reglurnar í løgtingslóg um tryggingarvirksemi um avhending av eini tryggingarmongd ikki í nýtslu.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad § 2, stk. 4 og 5.</head>
-            <p>
-              <s>Ognirnar hjá Føroya Lívstrygging kunnu tinglýsast og skrásetast sum ogn hjá P/f Føroya Lívstrygging beinleiðis við støði í hesi lóg.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 3.</head>
-            <p>
-              <s>Ábyrgd landskassans fevnir um øll krøv, ið kunnu gera seg galdandi eftir eini tryggingaravtalu, sum er teknað í Føroya Lívstrygging, áðrenn umskipanina til partafelag, herundir inngjøld framyvir og bonus.</s>
-              <s>Eisini krøv frá øðrum kreditorum eru fevnd av landskassa ábyrgdini.</s>
-              <s>Broytingar í tryggingaravtalum, teknaðar áðrenn 1. januar 2000, sum hava hækkingar við sær av tryggingarupphæddunum, eru eisini fevndar av landskassaábyrgdini, um tryggingartakarin eftir avtaluni hevur havt rætt til at krevja slíkar broytingar, uttan so, at broytingin er so víðtøkin at sigast kann, at talan er um eina heilt nýggja tryggingaravtalu.</s>
-            </p>
-            <p>
-              <s>Hetta merkir, at tað er innihaldið í tí ávísu tryggingaravtaluni, sum er avgerandi fyri, um ein hækking av tryggingarupphæddini í framtíðini er fevnd av landskassaábyrgdini.</s>
-              <s>Tað vil tí ikki vera gjørligt, uttan at allar tryggingaravtalur verða gjøgnumgingnar, at avgera í hvønn mun hækkingar í framtíðini eru fevndar av § 3 í lógini.</s>
-            </p>
-            <p>
-              <seg>Tað er tó gjørligt at vísa á nøkur dømi um tryggingaravtalur, hvørs innihald hevur við sær, at hækkingar í framtíðini eru fevndar av landskassaábyrgdini:</seg>
-            </p>
-            <list rend="bulleted">
-              <item>
-                <p>
-                  <s>Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) hevur rætt til at gjalda eitt prosentvíst gjald av einari løn, vil hækkingin av tryggingarupphæddini vegna hækking av løn v.m. verða fevnd av landskassaábyrgdini.</s>
-                </p>
-              </item>
-              <item>
-                <p>
-                  <s>Um so er, at tryggingaravtalan hevur við sær, at bonus verður nýtt til hækking av tryggingarupphæddum, vilja hesar hækkingar verða fevndar av landskassaábyrgdini.</s>
-                </p>
-              </item>
-              <item>
-                <p>
-                  <s>Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) í avtalaða tryggingartíðarskeiðinum hevur rætt til at broyta tryggingina við tí avleiðing, at ein ella fleiri tryggingarupphæddir verða hækkaðar, vilja hesar hækkingar verða fevndar av landskassaábyrgdini.</s>
-                </p>
-              </item>
-              <item>
-                <p>
-                  <s>Um so er, at tryggingaravtalan hevur við sær, at tryggingartakarin (møguliga tann tryggjaði) í avtalaða tryggingartíðarskeiðinum hevur heimild til at gjalda eyka innskot, vilja hesar hækkingar av tryggingarupphæddunum verða fevndar av landskassaábyrgdini.</s>
-                </p>
-              </item>
-            </list>
-            <p>
-              <s>Viðmerkjast skal, at hetta ikki er ein fullfíggjaður listi, men einans eru dømir.</s>
-            </p>
-            <p>
-              <s>Ivi kann stinga seg upp um, hvussu langt § 3 fevnir, men nevnast kunnu onkur dømi frá tí tryggingarfelagnum, sum keypti Statsanstalten for Livsforsikring.</s>
-              <s>Har góðkendi nevndarumboð statsins, at broyting í tryggingargjaldinum fyri eina trygging til rindan av muninum millum arbeiðsførleikatap og eftirlønaruppsparing ikki var ein broyting, ið gjørdi, at ábyrgdin fall burtur, eins og ein útsett útgjalding av eini tryggingarupphædd heldur ikki var ein tílík broyting.</s>
-            </p>
-            <p>
-              <s>Í einstøku málunum hevur áherðsla verið løgd á, hvat ein tryggingartakari við góðari grund hevur rætt til at vóna, og hvørjar broytingar kunnu gerast í tryggingaravtalum, uttan at til ber at siga, at talan er um eina heilt nýggja tryggingaravtalu.</s>
-            </p>
-            <p>
-              <s>Landskassaábyrgdin forðar ikki fyri, at lívstryggingarpartafelagið eftir §§ 86 og 87 í løgtingslógini um tryggingarvirksemi, avhendir alla ella ein part av sínari tryggingarmongd til eitt dótturfelag ella eitt annað felag.</s>
-              <s>Hetta tí at landskassaábyrgdin framvegis vil vera galdandi fyri tær tryggingaravtalur, sum teknaðar eru við landskassaábyrgd.</s>
-              <s>Sum víst er á omanfyri, fevnir landskassaábyrgdin ikki um tær skyldur, sum lívstryggingarpartafelagið átekur sær aftaná stovnanina.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 4.</head>
-            <pb n="7" />
-            <p>
-              <label>Gildiskomuáseting.</label>
-              <s>Lógin kemur í síni heild í gildi 1. januar 2000, men § 1 kemur í gildi dagin eftir, at lógin er kunngjørd, soleiðis at møguleiki verður fyri at stovna partafelagið áðrenn skeringsdagin.</s>
-            </p>
-          </div>
-          <div>
-            <head>Ad. § 4, stk. 2:</head>
-            <p>
-              <s>Rættarliga grundarlagið hjá Føroya Lívstrygging higartil - løgtingslógin um lívstryggingarvirki - verður sett úr gildi, og skal P/F Føroya Lívstrygging virka eftir løgtingslóg um tryggingarvirksemi, umframt eftir hesi lóg.</s>
-              <s>Samstundis verður sett úr gildi løgtingslóg nr. 64 frá 1997 um Føroya Lívstrygging, sum annars hevði komið í gildi sama dag.</s>
-            </p>
-          </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Nevndarskjal G</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-21" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/4906" />
+            <note type="source_format">PDF document, machine-readable text</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="email">
+          <ab>Kristina Samuelsen,</ab>
+          <p>
+            <s>Føroya Lívstrygging hevur verið undir fullari skattskyldug eftir reglunum fyri partafeløg síðani 1. januar 1996.</s>
+            <s>Umskipanin broytur sostatt ikki skattligu støðuna hjá Føroya Lívstrygging.</s>
+          </p>
+          <p>
+            <s>Pf. Føroya Lívstrygging kemur eftir skattavaldsins meting ikki at hava nakrar skattligar fyrimunir fram um onnur møguliga komandi lívstryggingarpartafeløg.</s>
+          </p>
+          <p>
+            <s>Við hesum hava vit ikki tikið støðu til sjálva umskipanina og tann mátan hon verður framd eftir sambært lógaruppskotið.</s>
+          </p>
+          <lb />
+          <ab>Toll-og Skattstova Føroya, Stýrið</ab>
+          <lb />
+          <ab>Eyðfinnur Jacobsen</ab>
+          <ab>deildarstjóri</ab>
         </div>
-        <!-- TODO: insert table of contents later! -->
-      </div>
-    </body>
-  </text>
-</TEI>
+        <div type="email">
+          <ab>Eyðfinnur Jacobsen</ab>
+          <lb />
+          <p>
+            <s>Vegna Vinnunevnd Løgtingsins vil eg seta fram fyrispurning, um tit kunnu gera eina meting av, um P/f Føroya Lívstrygging fær nakran fyrimun fram um onnur møgulig lívstryggingarpartafeløg við ásetingini í § 2, stk. 1, í uppskotinum, har ásett verður, at partafelagið kemur í somu skattligu støðu sum Føroya Lívstrygging.</s>
+          </p>
+          <lb />
+          <ab>Vinarliga</ab>
+          <lb />
+          <ab>Kristina Samuelsen</ab>
+          <ab>nevndarskrivari</ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Nevndarskjal D</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-21" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/4903" />
+            <note type="source_format">PDF document, machine-readable text</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head rend="bold">Nevndarskjal D <lb />í <lb />løgtingsmáli nr. 023/1999: Uppskot til løgtingslóg um umskipan av Føroya Lívstrygging</head>
+        <div type="email">
+          <p>
+            <s>Til kunningar.</s>
+          </p>
+          <ab>GHJ</ab>
+        </div>
+        <div type="email">
+          <ab>Gunnar,</ab>
+          <lb />
+          <p>
+            <s>Toll-og Skattstovan hevur ongar viðmerkingar til nýggju orðingina av § 2, eins og ongar viðmerkingar eru til byrjunarfíggjarstøðuna og metingarfrágreiðing pr. 1. januar 2000.</s>
+          </p>
+          <ab>Vinarliga</ab>
+          <ab>Toll-og Skattstova Føroya</ab>
+          <ab>Stýrið</ab>
+          <ab>Eyðfinnur Jacobsen</ab>
+          <ab>stjóri fyri lógardeildina</ab>
+        </div>
+        <div type="email">
+          <p>
+            <s>Halló Eyðfinnur.</s>
+          </p>
+          <p>
+            <s>Tit fingu í heyst uppskot til umskipan av Føroya Lívstrygging til ummælis, og høvdu tit tá onki at viðmerkja.</s>
+            <s>Uppskotið bleiv aftaná broytt nakað - eisini viðv. skattligum viðurskiftum.</s>
+            <s>Vit hava tíðanverri ikki biðið um tykkara viðmerkingar til tað broytta uppskotið, og er tað sera óheppið, tí tað er upplýst í viðmerkingunum at tað hevur verið til ummælis hjá tykkum, men at tit onki høvdu at <pb n="2" />viðmerkja.</s>
+          </p>
+          <p>
+            <s>Kanst tú gera okkum tann beina at eftirkanna viðkomandi grein, og lata okkum frætta aftur sum skjótast, um tit hava viðmerkingar.</s>
+            <s>Uppskotið fer niðan í Løgtingið ímorgin (týsdag 7. des.)</s>
+          </p>
+          <lb />
+          <ab>Vinaliga</ab>
+          <ab>Gunnar</ab>
+          <lb />
+          <p>
+            <s>Niðanfyri er viðkomandi grein endurgivin.</s>
+          </p>
+          <p>
+            <seg>Her er upprunaliga uppskotið til § 2:</seg>
+          </p>
+          <quote>
+            <p>
+              <label>§ 2.</label>
+              <s>Tað í § 1 nevnda lívstryggingarpartafelag yvirtekur øll rættindi og allar skyldur frá Føroya Lívstrygging, og kemur í somu skattligu støðu sum Føroya Lívstrygging.</s>
+            </p>
+          </quote>
+          <p>
+            <seg>Hetta bleiv broytt til:</seg>
+          </p>
+          <quote>
+            <p>
+              <label>§ 2.</label>
+              <s>Tað í § 1 nevnda lívstryggingarpartafelag yvirtekur øll rættindi og allar skyldur frá Føroya Lívstrygging, og kemur í somu skattligu støðu sum Føroya Lívstrygging.</s>
+              <s>Byrjunarfíggjarstøða og metingarfrágreiðing pr. 1. januar 2000 verða óbroyttar at leggja til grund í skattleggingini av tí í § 1 nevnda lívstryggingar partafelagi.</s>
+            </p>
+            <p>
+              <label>Stk. 2.</label>
+              <s>Umskipanin av Føroya Lívstrygging í eitt partafelag kemur ikki undir skattskyldu av nøkrum slag.</s>
+            </p>
+          </quote>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Nevndarskjal C</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-21" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/4902" />
+            <note type="source_format">PDF document, machine-readable text</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head rend="bold">Nevndarskjal C <lb />í <lb />løgtingsmáli nr. 023/1999: Uppskot til løgtingslóg um umskipan av Føroya Lívstrygging</head>
+        <div type="email">
+          <p>
+            <s>Tað er føst siðvenja, at kunngerðir eru orðaðar á føroyskum.</s>
+            <s>Í teimum førum, har lýstar eru danskar kunngerðir, hevur úttrykkilig heimild verið fyri tí.</s>
+          </p>
+          <lb />
+          <ab>Gunnar</ab>
+        </div>
+        <div type="email">
+          <p>
+            <s>Tilvísingina til galdandi lóg um &quot;værdipapircentral&quot; kann vinnunevndin seta inn við einum broytingaruppskoti, um hon ynskir tað.</s>
+          </p>
+          <p>
+            <s>Grundgevingarnar fyri at krevja heimild til at lýsa kunngerðir á donskum eru ikki í samsvari við heimastýrislógina § 11.</s>
+          </p>
+          <p>
+            <s>Tað sær tó ikki út til, at hetta vil viðføra, at málið verður burturvíst.</s>
+          </p>
+          <p>
+            <s>E-brøvini, sum fyriliggja í málinum, verða latin vinnunevndini í sambandi við viðgerðina har, og verða tá eisini løgd út á internetið sum onnur nevndarskjøl.</s>
+          </p>
+          <lb />
+          <ab>Kristina</ab>
+        </div>
+        <div type="email">
+          <p>
+            <s>Tað eydnaðist mær tíðanverri ikki at finna navn og nr. á galdandi lóg um værdipapircentral, og tí er hetta ikki komið við.</s>
+          </p>
+          <p>
+            <s>Viðv. broytingaruppskotinum til tryggingarvirksemislógina, so heldur lógardeildin fast uppá, at neyðugt er við heimild um ein LM skal lýsa eina kunngerð á donskum.</s>
+            <s>Tey siga, at tað er ein forútsetningur, at ein kunngerð er á føroyskum, og at líknandi ásetingar eru í øðrum lógum.</s>
+            <s>Tískil verður ásetingin standandi - tó nakað præsiserað.</s>
+          </p>
+          <lb />
+          <ab>Heilsan</ab>
+          <ab>Gunnar</ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Nevndarskjal B</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-21" />
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/4901" />
+            <note type="source_format">PDF document, machine-readable text</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <head rend="bold">Nevndarskjal B <lb />í <lb />løgtingsmáli nr. 023/1999: Uppskot til løgtingslóg um umskipan av Føroya Lívstrygging</head>
+        <div type="email">
+          <p>
+            <s>Eg eri heilt ósamd í, at landsstýrismaðurin ikki skal hava fíggjarliga heimild til at ráða yvir frívirðum hjá landinum í Føroya Lívstrygging, sjálvt um Føroya Lívstrygging sbr. lóg skuldi halda &quot;formúgu&quot; sína fyri seg sjálvan og ikki blanda hana við landskassans.</s>
+            <s>Skal landsstýrismaðurin ráða yvir virðum hjá landskassanum, skal hann hava eina materiella heimild og eina fíggjarliga heimild, líkamikið um tað t.d. snýr seg um stovnar, sum ikki eru á fíggjarlógini.</s>
+          </p>
+          <p>
+            <s>Tað sær tó ikki út til, at hetta vil viðføra, at málið verður burturvíst.</s>
+          </p>
+          <p>
+            <s>E-brøvini, sum fyriliggja í málinum, verða latin vinnunevndini í sambandi við viðgerðina har, og verða tá eisini løgd út á internetið sum onnur nevndarskjøl.</s>
+          </p>
+          <lb />
+          <ab>Kristina</ab>
+        </div>
+        <div type="email">
+          <p>
+            <s>Viðv. fíggjarligari heimild, so gekk eg sum sagt út frá, at man fór at biðja um fíggjarliga heimild til at flyta frívirði í FL yvir í partafelagið.</s>
+          </p>
+          <p>
+            <s>Eg fái nú at vita frá okkara fíggjarkønu, at tað fer man ikki.</s>
+            <s>Sambært galdandi lóg um Føroya Lívstrygging, so skal stovnurin hava sína formúgu fyri seg sjálvan, og hon má ikki blandast við landskassans.</s>
+            <s>Tískil er ikki neyðugt við serstakari fíggjarligari heimild fyri øðrum enn tí kontanta innskotinum.</s>
+            <s>Hetta er eisini áskoðanin hjá Fíggjarmálastýrinum, og gerið eg tí ikki meira við viðmerkingarnar hesum viðvíkjandi.</s>
+          </p>
+          <lb/>
+          <ab>Gunnar</ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
