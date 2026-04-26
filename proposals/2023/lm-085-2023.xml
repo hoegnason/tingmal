@@ -2008,4 +2008,122 @@
       </body>
     </text>
   </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Fylgiskjal 10: Viðmerkingar frá Umhvørvismálaráðnum</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-26"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Umhvørvismálaráðið</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/61052"/>
+            <!-- TODO: add note about OCR! -->
+            <note type="source_format">PDF document with machine-readable text based on OCR scan</note>
+            <date when="2023-10-31">31. oktobur 2023</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <div type="email">
+          <head>SV: Uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál til hoyringar - Hoyringarfreist 31. oktober 2023</head>
+          <p>
+            <s xml:id="ofhvnhtx32">Umhvørvismálaráðið hevur fingið til ummælis uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál.</s>
+            <seg>Umhvørvismálaráðið hevur hesa viðmerking:</seg>
+          </p>
+          <p>
+            <seg>Á síðu 5 í lógaruppskotinum stendur soleiðis:</seg>
+            <lb/>
+            <seg>“<s xml:id="hpzveqvgcl">Í øllum Føroyum er tað ein avbjóðing hjá tilflytarum at fáa arbeiðslív, útbúgving og familjulív at hanga saman.</s> <s xml:id="mgkmdwj5f2">Tað er ein sannroynd, at 40 tíma arbeiðsvika darvar møguleikanum hjá einum næmingi at gjøgnumføra drúgvari málskeiði á upp til 20 tímar um vikuna.</s>”</seg>
+          </p>
+          <p>
+            <s xml:id="uria5nvmmq">Umhvørvismálaráðið arbeiðir við eini stytting av arbeiðsvikuni til 37 tímar.</s>
+            <s xml:id="jpavec2k4v">Hóast arbeiðsvikan verður stytt til 37 tímar, verður tað helst ikki tann stóra broytingin í mun til at fáa arbeiðslív, útbúgving og familjulív at hanga saman hjá tilflytarum, sum skulu gjøgnumføra málskeið á upp til 20 tímar um vikuna.</s>
+            <s xml:id="jh6yf3zo3a">Helst skulu onnur tiltøk til fyri at bøta um hendan trupulleikan.</s>
+          </p>
+          <space dim="vertical"/>
+          <ab>
+            <ab>Vinarliga / Kind regards</ab>
+            <lb/>
+            <ab rend="bold">Astrid Reinert Øregaard</ab>
+            <ab>Fulltrúi /Advisor</ab>
+            <space dim="vertical"/>
+            <ab rend="bold">Umhvørvismálaráðið</ab>
+            <ab>Ministry of Environment</ab>
+          </ab>
+        </div>
+        <div type="email">
+          <head>Uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál til hoyringar - Hoyringarfreist 31. oktober 2023</head>
+          <p>
+            <seg>Góðu tit</seg>
+          </p>
+          <p>
+            <s xml:id="nchgklztf3">Viðfest er uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál.</s>
+          </p>
+          <p>
+            <s xml:id="jfdc3gods3">Orsøkin til, at lógaruppskotið verður lagt fram, er, at tørvur er á at skipa ein fakligan, námsfrøðiligan og løgfrøðiligan karm fyri undirvísing í føroyskum máli, mentan og samfelagsviðurskiftum fyri borgarum í Føroyum, sum hava annað mál enn føroyskt sum sítt fyrsta mál.</s>
+          </p>
+          <p>
+            <s xml:id="prpexgbg2k">Umráðandi er, at hetta lógarverk tryggjar samstarv við kommunurnar, og at samstarvið byggir á tað samstarv, sum hevur verið millum partarnar innan karmarnar á lóg um frítíðarundirvísing.</s>
+            <s xml:id="ueqr23x5fu">Ein lógarkarmur, sum er fleksibul og skjótt kann laga undirvísingartilboðini til tørvin hjá borgarum og til ta til eina og hvørja tíð galdandi námsætlan, eins og til tann staðbundna tørvin.</s>
+          </p>
+          <p>
+            <s xml:id="sfihlhqq2d">Hoyringarfreistin er <hi rend="bold">31. oktober 2023</hi>.</s>
+          </p>
+          <p>
+            <s xml:id="whmx7aaoa7">Barna- og útbúgvingarmálaráðið skipar fyri kunnandi fundi um uppskotið miðskeiðis í hoyringartíðini, nærri kunning um hetta verður send út seinni.</s>
+          </p>
+          <p>
+            <!-- <s>Eru spurningar, ber til at venda sær til Elsu Østergaard á tlf. 555004 ella Helenu Dam á Neystabø, tlf. 555022.</s> -->
+            <s resp="#rani" xml:id="qi2y4lsske">Eru spurningar, ber til at venda sær til Elsu Østergaard ella Helenu Dam á Neystabø.</s>
+          </p>
+          <p>
+            <seg>Hoyringarpartar / FSA:</seg>
+          </p>
+          <list rend="bulleted">
+            <item>Kvøldskúlar, sum undirvísa í Føroyskum sum annaðmál</item>
+            <item>Øll aðalráð</item>
+            <item>Útlendingastovan</item>
+            <item>Vinnuhúsinum</item>
+            <item>Samtak</item>
+            <item>Starvsfelagið</item>
+            <item>Føroya Lærarafelag</item>
+            <item>Pedagogfelagnum</item>
+            <item>UVS</item>
+            <item>NÁM</item>
+            <item>Fróðskaparsetri</item>
+            <item>Føroya Kommunufelag</item>
+            <item>Reyði Krossur</item>
+          </list>
+          <p>
+            <label rend="bold">NB!</label>
+            <s xml:id="pwkfzagf7m">Heitt verður vinarliga á Kommunufelagið um at víðarisenda henda teldupost til viðkomandi kvøldskúlar, sum undirvísa í føroyskum sum annaðmál.</s>
+          </p>
+          <ab>
+            <ab>Vinarliga / Kind regards</ab>
+            <lb/>
+            <ab>Hanna D. Andreassen</ab>
+            <ab>Stjórnarskrivari / Personal Secretary</ab>
+            <lb/>
+            <ab>Løgfrøðingar til Barna- og útbúgvingarmálaráðið</ab>
+          </ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
