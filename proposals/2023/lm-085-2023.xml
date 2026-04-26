@@ -2215,6 +2215,68 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
+          <title>Fylgiskjal 12: Viðmerkingar frá Heilsumálaráðnum</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-04-26"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Heilsumálaráðið</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/61054"/>
+            <!-- TODO: add note about OCR! -->
+            <note type="source_format">PDF document with machine-readable text based on OCR scan</note>
+            <date when="2023-10-13"/>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <ab rend="bold uppercase center">Heilsumálaráðið</ab>
+        <space dim="vertical"/>
+        <ab>
+          <ab>Barna- og útbúgvingarmálaráðið</ab>
+          <ab>Postbox 3279, Tinghúsvegur 7</ab>
+          <ab>110 Tórshavn</ab>
+        </ab>
+        <space dim="vertical"/>
+        <div>
+          <head rend="bold">Hoyringarsvar til uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál</head>
+          <p>
+            <s xml:id="ymh2ftxjyb">Heilsumálaráðið hevur móttikið uppskot til løgtingslóg um uppskot til løgtingslóg um málskúla fyri føroyskt sum annaðmál, til hoyringar.</s>
+          </p>
+          <p>
+            <s xml:id="v6oimnoxzn">Heilsumálaráðið hevur lisið lógaruppskotið og mett um, hvørt lógaruppskotið hevur avleiðingar fyri heilsuøkið.</s>
+          </p>
+          <p>
+            <s xml:id="cyt4djpvn6">Heilsumálaráðið metir ikki, at lógaruppskotið hevur serligar avleiðingar fyri heilsuøkið og hevur ikki aðrar viðmerkingar.</s>
+          </p>
+          <space dim="vertical"/>
+          <ab>
+            <ab>Vinaliga</ab>
+            <lb/>
+            <ab>Aud í Soylu</ab>
+            <ab>samskipari</ab>
+          </ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
           <title>Fylgiskjal 13: Viðmerkingar frá Uttanríkis- og vinnumálaráðnum</title>
         </titleStmt>
         <publicationStmt>
