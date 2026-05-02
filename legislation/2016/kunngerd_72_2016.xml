@@ -62,6 +62,16 @@
 
     <!-- from page 52 -->
     <seg type="sentence" resp="#rani" xml:id="clsmabykrv">Í bygningum har gólvið í ovastu hædd er meiri enn 22 m oman fyri lægsta jørðildið, skulu, í samband við dimensjónering av berandi konstruktiónum, takast serlig atlit at: bráðflutningstíðini, átakstíðini, atkomumøguleikum hjá sløkkiliðnum til hæddirnar, brunaávirkanini o.tíl.</seg>
+
+    <!-- from page 52 -->
+    <seg type="sentence" resp="#rani" xml:id="dcnvl5yd2c">Við brunatøkniligar innleggingar skilst m.a. sjálvvirkandi eldávaringarskipan (ABA), sum varnast eld í byrjanarstøðinum og sendir fráboðan til sløkkiliðið umvegis vaktarstøð.</seg>
+    <seg type="sentence" resp="#rani" xml:id="sahodexjop">Við brunatøkniligar innleggingar skilst m.a. sjálvvirkandi sprinklaraskipan (AVS), sum við vatni sløkkir eld í byrjanarstøðinum ella kann temja eldin, til onnur sløkkitiltøk verða sett í gongd.</seg>
+    <seg type="sentence" resp="#rani" xml:id="z7s6pkurmq">Við brunatøkniligar innleggingar skilst m.a. aðrar sjálvvirkandi sløkki- og ávaringarskipanir (AGA og ARS), sum sløkkja og ávara.</seg>
+    <seg type="sentence" resp="#rani" xml:id="d4vtyz3sd4">Við brunatøkniligar innleggingar skilst m.a. ávaringarútbúnaður við innanhýsis handvirkandi skipan, sum gevur fólki í bygninginum boð um, at eldur er í bygninginum.</seg>
+    <seg type="sentence" resp="#rani" xml:id="ipqbrcpi33">Við brunatøkniligar innleggingar skilst m.a. innanhýsis sjálvvirkandi roykvarnari ella skipan av samanbundnum roykvarnarum eigur at vera íbundin elveitingini umframt at hava battarí. </seg>
+    <seg type="sentence" resp="#rani" xml:id="xyl54i3rrj">Við brunatøkniligar innleggingar skilst m.a. útgonguljós, ið eru lýsandi og gjøgnumlýst útgonguskelti yvir útgonguhurðum í rýmingarleiðum.</seg>
+    <seg type="sentence" resp="#rani" xml:id="ttwelxmvg6">Við brunatøkniligar innleggingar skilst m.a. neyðljós, ið eru fyri at sleppa undan ræðslu og fyri at geva fólki ljós at finna leiðina út.</seg>
+    <seg type="sentence" resp="#rani" xml:id="ub73sr2owh">Við brunatøkniligar innleggingar skilst m.a. slanguskáp, sum vatn altíð stendur til, ið hava til endamáls at geva fólkum, sum ikki hava serliga vitan um sløkkiarbeiði, møguleika fyri at basa eldi á byrjanarstøði.</seg>
   </standOff>
   <text>
     <body>
@@ -4551,6 +4561,141 @@
                   <ab>(5.4, stk. 1-2)</ab>
                   <p>
                     <seg>Við brunatøkniligar innleggingar skilst m.a.:</seg>
+                  </p>
+                  <list>
+                    <item>
+                      <label>1.</label>
+                      <p>
+                        <seg>Sjálvvirkandi eldávaringarskipan (ABA), sum varnast eld í byrjanarstøðinum og sendir fráboðan til sløkkiliðið umvegis vaktarstøð.</seg>
+                        <s xml:id="jfoor6uaxh">Skipanin kann somuleiðis seta aðrar brunatøkniligar innleggingar í gongd.</s>
+                        <!-- <s>Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 232 - Automatiske brandalarmanlæg”</s> -->
+                        <s resp="#rani" xml:id="urc3n7y2uk">Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 232 - Automatiske brandalarmanlæg”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>2.</label>
+                      <p>
+                        <seg>Sjálvvirkandi sprinklaraskipan (AVS), sum við vatni sløkkir eld í byrjanarstøðinum ella kann temja eldin, til onnur sløkkitiltøk verða sett í gongd.</seg>
+                        <s xml:id="h2frjqzxyj">Skipanin sendir fráboðan til sløkkiliðið umvegis vaktarstøð, og kann somuleiðis seta aðrar brunatøkniligar innleggingar í gongd.</s>
+                        <!-- <s>Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 251 - Automatiske sprinkleranlæg”</s> -->
+                        <s resp="#rani" xml:id="bdpjti277n">Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 251 - Automatiske sprinkleranlæg”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>3.</label>
+                      <p>
+                        <seg>Aðrar sjálvvirkandi sløkki- og ávaringarskipanir (AGA og ARS), sum sløkkja og ávara.</seg>
+                        <s xml:id="akw4qde56a">Tílíkar skipanir senda fráboðan til sløkkiliðið umvegis vaktarstøð og kunnu somuleiðis seta aðrar brunatøkniligar innleggingar í gongd.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>4.</label>
+                      <p>
+                        <seg>Ávaringarútbúnaður við innanhýsis handvirkandi skipan, sum gevur fólki í bygninginum boð um, at eldur er í bygninginum.</seg>
+                        <s xml:id="uyfdwz3a73">Skipanin sendir ikki fráboðan til sløkkiliðið.</s>
+                        <s xml:id="hqss7pahvd">Fráboðan við talandi boðum eigur at verða nýtt í bygningum við bygningspørtum í nýtsluflokki 3.</s>
+                        <s xml:id="tj2u25y4fb">Um so er, at fráboðan við talandi boðum ikki er hóskandi, orsakað av nýtsluni av bygningspartinum, kann t.d. ýlitóni ella ávaringarljós nýtast í staðin fyri talandi fráboðan.</s>
+                        <!-- <s>Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 24 Varslingsanlæg”</s> -->
+                        <s resp="#rani" xml:id="rekng3a2c5">Skipanin eigur at vera gjørd, kannað og hildin sbrt. “DBI Retningslinie 24 Varslingsanlæg”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>5.</label>
+                      <p>
+                        <seg>Innanhýsis sjálvvirkandi roykvarnari ella skipan av samanbundnum roykvarnarum eigur at vera íbundin elveitingini umframt at hava battarí.</seg>
+                        <s xml:id="aq6ihnn6vu">Skipanin við roykvarnarum í einum bygningsparti eigur bara at senda ávaring út í tann ávísa bygningspartin, t.d. íbúðina, annan partin av tvíhúsinum, ella einbýlishúsið, har roykurin varnast.</s>
+                        <s xml:id="n3sl4mi7mv">Roykvarnarar senda ikki fráboðan til sløkkiliðið.</s>
+                        <s xml:id="wrlodyyxgz">Dømi um uppseting av roykvarnarum kann síggjast í vegleiðing frá ”DBI Røgalarmanlæg i boligen”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>6.</label>
+                      <p>
+                        <seg>Útgonguljós, ið eru lýsandi og gjøgnumlýst útgonguskelti yvir útgonguhurðum í rýmingarleiðum.</seg>
+                        <s xml:id="a5qpa6lgm2">Útgonguljós og leiðbeinandi útgonguljós, sum vísa til útgongd, skulu síggjast allastaðni í rýmingarleiðum.</s>
+                        <s xml:id="j7rfmxvlib">Útgonguljós skulu síggjast skilliga í mun til innrætting og aðra skelting, reklamur o.tíl. Vísast kann til “DBI vejledning 34 Sikkerhedsbelysning”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>7.</label>
+                      <p>
+                        <seg>Neyðljós, ið eru fyri at sleppa undan ræðslu og fyri at geva fólki ljós at finna leiðina út.</seg>
+                        <s xml:id="qrg45eucts">Neyðljós skulu lýsa á gólvið í hølum og í tilhoyrandi rýmingarleiðum, og um neyðugt eisini í tílíkum økjum uttandura.</s>
+                        <s xml:id="y442g3vxlo">Vísast kann til “DBI vejledning 34 Sikkerhedsbelysning”.</s>
+                      </p>
+                    </item>
+                    <item>
+                      <label>8.</label>
+                      <p>
+                        <seg>Slanguskáp, sum vatn altíð stendur til, ið hava til endamáls at geva fólkum, sum ikki hava serliga vitan um sløkkiarbeiði, møguleika fyri at basa eldi á byrjanarstøði.</seg>
+                        <!-- <s>Vísast kann til “DBI vejledning 15 Vandfyldte slangevinder”</s> -->
+                        <s resp="#rani" xml:id="dgpca4sk4f">Vísast kann til “DBI vejledning 15 Vandfyldte slangevinder”.</s>
+                      </p>
+                    </item>
+                  </list>
+                  <p>
+                    <s xml:id="qwab3fpq54">Aðrar brunatøkniligar innleggingar, so sum innbygt rør at veita sløkkivatn (stigrør), sjálvvirkandi brunaluftskiftisskipan (ABV) og roykop eru somuleiðis fevndar av stk. 1 og 2.</s>
+                  </p>
+                  <p>
+                    <s xml:id="l7xqyprort">Vaktarstøðir at íbinda sjálvvirkandi ávaringar- og sløkkiskipanir verða góðkendar av VØRN.</s>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell type="asetningar">
+                  <ab>Stk. 2</ab>
+                  <p>
+                    <s xml:id="jdvpycdkxp">Brunatøkniligar innleggingar skulu gerast, sýnast og haldast við líka, soleiðis at tær eru virknar, álítandi og kunnu verða hildnar við líka, so leingi bygningurin stendur.</s>
+                  </p>
+                </cell>
+                <cell type="vegleiding">
+                  <ab>(5.4, stk. 2)</ab>
+                  <p>
+                    <s xml:id="krdlwbj4h3">VØRN góðkennir brunatøkniligar innleggingar, innleggjarar og óhefta eftirlitið av innleggingunum.</s>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell type="asetningar">
+                  <ab>Stk. 3</ab>
+                  <p>
+                    <s xml:id="nozp4utktu">Hondsløkkiútgerð skal haldast við líka og virka á fullgóðan hátt, so leingi bygningurin stendur.</s>
+                  </p>
+                </cell>
+                <cell type="vegleiding">
+                  <ab>(5.4, stk. 3)</ab>
+                  <p>
+                    <s xml:id="dqdw4w6pfq">Við hondsløkkiútgerð skilst m.a. brandteppi og pulvursløkkjarar.</s>
+                  </p>
+                  <p>
+                    <s xml:id="haxkkbcuw4">Vísast kann til rakstrarreglurnar hjá VØRN.</s>
+                  </p>
+                  <p>
+                    <s xml:id="dffjx6324e">Hondsløkkiútgerð verður kannað og hildin við líka sbrt. vegleiðingum frá DBI.</s>
+                  </p>
+                </cell>
+              </row>
+              <row>
+                <cell type="asetningar">
+                  <ab>Stk. 4</ab>
+                  <p>
+                    <s xml:id="obalukr4wa">Tá ið ásetingarnar í stk. 8, nr. 2, stk. 10-12 og stk. 15- 16 verða nýttar, skulu tveir ella fleiri bygningspartar í sama nýtsluflokki, sum eru knýttir saman við felags rýmingarleið, metast sum ein eind.</s>
+                  </p>
+                </cell>
+                <cell type="vegleiding">
+                  <ab>(5.4, stk. 4)</ab>
+                  <p>
+                    <s xml:id="qazxprjosl">Í sambandi við bráðflyting av fólki er oftani neyðugt at meta um tørvin á brunatøkniligu innleggingunum við atliti at tali av fólki, sum skal nýta rýmingarleiðina.</s>
+                  </p>
+                  <pb n="54"/>
+                  <p>
+                    <s xml:id="px54fm3uwe">Tí eigur at verða hugsað um samlaða talið av fólki frá øllum bygningspørtum ella nýtslueindum, sum eru knýttir at somu rýmingarleið, tá ásetingarnar verða nýttar.</s>
+                  </p>
+                  <p>
+                    <s xml:id="ac7xfcrmof">Sama er ikki galdandi, tá ið mett verður um møguleikan at basa eldinum í tí einstaka brunatøkniliga bygningspartinum ella nýtslueindini, sum t.d., tá ið mett verður um tørvin á sjálvvirkandi brunaluftskiftisskipan (ABV) og sjálvvirkandi sprinklaraskipan (AVS).</s>
+                  </p>
+                  <p>
+                    <s xml:id="b6afwcgkuq">Tá ið talan er um fleiri nýtsluflokkar í sama bygningsparti, verður víst til kap. 5.5.2, stk. 2.</s>
                   </p>
                 </cell>
               </row>
