@@ -1,669 +1,807 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Uppskot til Løgtingslóg um samsýning og eftirløn til løgtingsfólk</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
-          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
-        </availability>
-        <date when="2026-05-10"/>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="parliamentary_document">
-          <publisher>Føroya Løgting</publisher>
-          <author>
-            <persName ref="">Bjørt Samuelsen</persName>
-          </author>
-          <author>
-            <persName ref="">Jóhannis Joensen</persName>
-          </author>
-          <author>
-            <persName ref="">Johan Dahl</persName>
-          </author>
-          <ref target="https://www.logting.fo/documents/61306"/>
-          <note type="source_format">PDF document, machine-readable text</note>
-          <date when="2023-03-07">7. mars 2023</date>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <standOff>
-    <seg type="sentence" resp="#rani" xml:id="l7jqqik2bo">Endamálið við arbeiðinum hjá arbeiðsbólkinum var at tryggja formansskapinum í Løgtinginum eitt dygt og væl grundað tilmæli um samsýningar og eftirløn til løgtingsfólk, har atlit verða tikin til: lønarlagið í landinum yvirhøvur, ta tign og ábyrgd, sum liggur í tingsessinum, hvussu tingfólk í grannalondunum verða lønt, og hvørjar sømdir tey annars hava, og onnur viðkomandi viðurskifti.</seg>
-  </standOff>
-  <text>
-    <body>
-      <ab>
-        <ab rend="bold">Bjørt Samuelsen</ab>
-        <ab rend="bold">Jóhannis Joensen</ab>
-        <ab rend="bold">Johan Dahl</ab>
-        <ab rend="bold">vegna Formansskapin</ab>
-      </ab>
-      <space dim="vertical"/>
-      <ab>Løgtingið</ab>
-      <space dim="vertical"/>
-      <ab type="title">
-        <ab rend="bold center">Uppskot til</ab>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Uppskot til Løgtingslóg um samsýning og eftirløn til løgtingsfólk</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-10"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Bjørt Samuelsen</persName>
+            </author>
+            <author>
+              <persName ref="">Jóhannis Joensen</persName>
+            </author>
+            <author>
+              <persName ref="">Johan Dahl</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/61306"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2023-03-07">7. mars 2023</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="l7jqqik2bo">Endamálið við arbeiðinum hjá arbeiðsbólkinum var at tryggja formansskapinum í Løgtinginum eitt dygt og væl grundað tilmæli um samsýningar og eftirløn til løgtingsfólk, har atlit verða tikin til: lønarlagið í landinum yvirhøvur, ta tign og ábyrgd, sum liggur í tingsessinum, hvussu tingfólk í grannalondunum verða lønt, og hvørjar sømdir tey annars hava, og onnur viðkomandi viðurskifti.</seg>
+    </standOff>
+    <text>
+      <body>
+        <ab>
+          <ab rend="bold">Bjørt Samuelsen</ab>
+          <ab rend="bold">Jóhannis Joensen</ab>
+          <ab rend="bold">Johan Dahl</ab>
+          <ab rend="bold">vegna Formansskapin</ab>
+        </ab>
         <space dim="vertical"/>
-        <ab rend="bold center">Løgtingslóg</ab>
-        <ab rend="bold center">um</ab>
-        <ab rend="bold center">samsýning og eftirløn til løgtingsfólk</ab>
-      </ab>
-      <space dim="vertical"/>
-      <div type="chapter" n="0">
-        <div n="Samsýning og kostnaðarendurgjald">
-          <head rend="italic">Samsýning og kostnaðarendurgjald</head>
-          <div type="bill-section" n="§ 1.">
-            <div n="§ 1. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 1.</label>
-                <s xml:lang="fo" cert="high" xml:id="wusyl27fwz">Løgtingsfólk verða samsýnt samsvarandi 34. lønarflokki í tænastumannalógini.</s>
-              </p>
+        <ab>Løgtingið</ab>
+        <space dim="vertical"/>
+        <ab type="title">
+          <ab rend="bold center">Uppskot til</ab>
+          <space dim="vertical"/>
+          <ab rend="bold center">Løgtingslóg</ab>
+          <ab rend="bold center">um</ab>
+          <ab rend="bold center">samsýning og eftirløn til løgtingsfólk</ab>
+        </ab>
+        <space dim="vertical"/>
+        <div type="chapter" n="0">
+          <div n="Samsýning og kostnaðarendurgjald">
+            <head rend="italic">Samsýning og kostnaðarendurgjald</head>
+            <div type="bill-section" n="§ 1.">
+              <div n="§ 1. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 1.</label>
+                  <s xml:lang="fo" cert="high" xml:id="wusyl27fwz">Løgtingsfólk verða samsýnt samsvarandi 34. lønarflokki í tænastumannalógini.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <seg xml:lang="fo">Afturat samsýningini eftir stk. 1 verður veitt tingfólkum árligt kostnaðarendurgjald, grundað á reglurnar um endurgjald til tænastu- og starvsmenn, soleiðis:</seg>
+                  <list>
+                    <item>
+                      <label>1)</label>
+                      <seg xml:lang="fo">Flutningskostnaður við egnum bili við Strandfaraskipum Landsins 100 ferðir aftur og fram árliga.</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg xml:lang="fo">Koyripeningur og tunnilsgjald millum heimstað og Tórshavn 100 ferðir aftur og fram árliga, roknað eftir stytstu farleið og við bíligasta tunnilsgjaldi.</seg>
+                    </item>
+                    <item>
+                      <label>3)</label>
+                      <seg xml:lang="fo">Tímapeningur fyri 10 tímar dagliga í 100 dagar, tó fyri tingfólk búsitandi í Suðuroy fullur dagpeningur í 100 dagar.</seg>
+                    </item>
+                    <item>
+                      <label>4)</label>
+                      <seg xml:lang="fo">Tingfólk búsitandi í Tórshavn, Hoyvík, á Argjum og Hvítanesi fáa ikki kostnaðarendurgjald.</seg>
+                    </item>
+                  </list>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="m7sn7ht7v4">Tingfólk, sum í landsfólkayvirlitinum er skrásett at hava bústað uttanfyri Suðurstreymoy, men kann haldast at hava fast tilhald í Tórshavnar kommunu, fær sum endurgjald fyri eykaútreiðslur í hesum sambandi samsýning sbrt. stk. 2, nr. 1, 2 og 3 50 ferðir árliga, roknað eftir stytstu farleið millum Tórshavn og skrásetta bústaðin.</s>
+                  <s xml:lang="fo" cert="high" xml:id="eh3yind3ic">Løgtingsins formansskapur tekur avgerð í ivamálum.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="ptttr6emck">Sum endurgjald fyri útreiðslur, ið standast av arbeiðinum sum løgtingsfólk, verður veitt hvørjum tingfólki eitt kostnaðarískoyti uppá 2.000 kr. um mánaðin.</s>
+                  <s xml:lang="fo" cert="high" xml:id="vlow45kk3q">Gjøldini sambært stk. 2-4 eru skattafrí.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high" xml:id="z43666eukh">Næstformonnum tingsins og nevndarformonnum sambært §§ 24 og 25 í tingskipanini verður veitt samsýning, sum er 30.000 kr. árliga.</s>
+                  <s xml:lang="fo" cert="high" xml:id="wakda2p56r">Um tingfólk røkir fleiri størv eftir 1. pkt., fær tað bert eina samsýning.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 6.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 6.</label>
+                  <s xml:lang="fo" cert="high" xml:id="xoabxg7wk4">Í sambandi við ferðing uttanlands í løgtingsørindum verður veitt ferðaendurgjald og dag- og tímapeningur eftir somu reglum, sum eru galdandi fyri tænastumenn landsins.</s>
+                </p>
+              </div>
+              <div n="§ 1. Stk. 7.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 7.</label>
+                  <s xml:lang="fo" cert="high" xml:id="ahnrt7xh26">Fyri hvønn tingdag, tingfólk ikki møtir á løgtingsfundi, verður gjørdur frádráttur í kostnaðarendurgjaldinum, sum er 1/100 av endurgjaldinum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="wtzykihc4f">Løgtingsumsitingin ger frádráttin upp á hvørjum ári í juni mánaði.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 1. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <seg xml:lang="fo">Afturat samsýningini eftir stk. 1 verður veitt tingfólkum árligt kostnaðarendurgjald, grundað á reglurnar um endurgjald til tænastu- og starvsmenn, soleiðis:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg xml:lang="fo">Flutningskostnaður við egnum bili við Strandfaraskipum Landsins 100 ferðir aftur og fram árliga.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg xml:lang="fo">Koyripeningur og tunnilsgjald millum heimstað og Tórshavn 100 ferðir aftur og fram árliga, roknað eftir stytstu farleið og við bíligasta tunnilsgjaldi.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg xml:lang="fo">Tímapeningur fyri 10 tímar dagliga í 100 dagar, tó fyri tingfólk búsitandi í Suðuroy fullur dagpeningur í 100 dagar.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg xml:lang="fo">Tingfólk búsitandi í Tórshavn, Hoyvík, á Argjum og Hvítanesi fáa ikki kostnaðarendurgjald.</seg>
-                  </item>
-                </list>
-              </p>
-            </div>
-            <div n="§ 1. Stk. 3.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="m7sn7ht7v4">Tingfólk, sum í landsfólkayvirlitinum er skrásett at hava bústað uttanfyri Suðurstreymoy, men kann haldast at hava fast tilhald í Tórshavnar kommunu, fær sum endurgjald fyri eykaútreiðslur í hesum sambandi samsýning sbrt. stk. 2, nr. 1, 2 og 3 50 ferðir árliga, roknað eftir stytstu farleið millum Tórshavn og skrásetta bústaðin.</s>
-                <s xml:lang="fo" cert="high" xml:id="eh3yind3ic">Løgtingsins formansskapur tekur avgerð í ivamálum.</s>
-              </p>
-            </div>
-            <div n="§ 1. Stk. 4.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="ptttr6emck">Sum endurgjald fyri útreiðslur, ið standast av arbeiðinum sum løgtingsfólk, verður veitt hvørjum tingfólki eitt kostnaðarískoyti uppá 2.000 kr. um mánaðin.</s>
-                <s xml:lang="fo" cert="high" xml:id="vlow45kk3q">Gjøldini sambært stk. 2-4 eru skattafrí.</s>
-              </p>
-            </div>
-            <div n="§ 1. Stk. 5.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 5.</label>
-                <s xml:lang="fo" cert="high" xml:id="z43666eukh">Næstformonnum tingsins og nevndarformonnum sambært §§ 24 og 25 í tingskipanini verður veitt samsýning, sum er 30.000 kr. árliga.</s>
-                <s xml:lang="fo" cert="high" xml:id="wakda2p56r">Um tingfólk røkir fleiri størv eftir 1. pkt., fær tað bert eina samsýning.</s>
-              </p>
-            </div>
-            <div n="§ 1. Stk. 6.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 6.</label>
-                <s xml:lang="fo" cert="high" xml:id="xoabxg7wk4">Í sambandi við ferðing uttanlands í løgtingsørindum verður veitt ferðaendurgjald og dag- og tímapeningur eftir somu reglum, sum eru galdandi fyri tænastumenn landsins.</s>
-              </p>
-            </div>
-            <div n="§ 1. Stk. 7.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 7.</label>
-                <s xml:lang="fo" cert="high" xml:id="ahnrt7xh26">Fyri hvønn tingdag, tingfólk ikki møtir á løgtingsfundi, verður gjørdur frádráttur í kostnaðarendurgjaldinum, sum er 1/100 av endurgjaldinum.</s>
-                <s xml:lang="fo" cert="high" xml:id="wtzykihc4f">Løgtingsumsitingin ger frádráttin upp á hvørjum ári í juni mánaði.</s>
-              </p>
+            <div type="bill-section" n="§ 2.">
+              <div n="§ 2. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="v7tupojvrz">Samsýningarnar og kostnaðarendur-gjaldið eftir § 1 verða goldnar við 1/12 mánaðarliga afturút frá tí, at Løgtingið hevur góðkent valbrævið hjá viðkomandi løgtingsfólki, og til endan á tí mánaði, løgtingsfólk leggur tingsessin frá sær.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="inglnt5xu7">Verður løgtingsfólk ikki afturvalt ella má leggja tingsessin frá sær vegna sjúku, fær tað samsýning sambært § 1, stk. 1 í ein mánað fyri hvørt árið, tað hevur havt sess á tingi, tó í minsta lagi 3 mánaðir og í mesta lagi 6 mánaðir.</s>
+                  <s xml:lang="fo" cert="high" xml:id="kbtnerjtg2">Hevur løgtingsfólkið aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað í fráfaringarsamsýningini.</s>
+                  <s xml:lang="fo" cert="high" xml:id="lzszite2ka">Doyr løgtingsfólk, fáa hjúnafelagi ella børn undir 18 ár samsýning eftir § 1, stk. 1 í 6 mánaðir.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="yy7umlxtef">Løgtingsfólk, sum fær farloyvi úr tinginum vegna sjúku, ella tí tað hevur fingið farloyvi at fara uttanlands í løgtingsørindum, varðveitir rættin til samsýning.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="nxaow4zw32">Løgtingsfólk hava rætt til farloyvi uttan frádrátt í samsýning eftir § 1, stk. 1 í sambandi við barnsburð og ættleiðing eftir reglunum, sum eru galdandi fyri tænastumenn.</s>
+                </p>
+              </div>
+              <div n="§ 2. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high" xml:id="lc4cff6o2u">Løgtingsfólk, sum fáa farloyvi í sambandi við, at tey gerast landsstýrisfólk ella av øðrum orsøkum enn teimum, sum eru nevndar í stk. 3-4, missa rættin til samsýning frá tí degi, tey fáa farloyvi úr tinginum, til tann dagin, tey taka við aftur løgtingssessinum.</s>
+                </p>
+              </div>
             </div>
           </div>
-          <div type="bill-section" n="§ 2.">
-            <div n="§ 2. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="v7tupojvrz">Samsýningarnar og kostnaðarendur-gjaldið eftir § 1 verða goldnar við 1/12 mánaðarliga afturút frá tí, at Løgtingið hevur góðkent valbrævið hjá viðkomandi løgtingsfólki, og til endan á tí mánaði, løgtingsfólk leggur tingsessin frá sær.</s>
-              </p>
+          <div n="Serreglur viðvíkjandi varafólkum">
+            <head rend="italic">Serreglur viðvíkjandi varafólkum</head>
+            <div type="bill-section" n="§ 3.">
+              <div n="§ 3. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="tzg6flxhka">Varafólk fyri løgtingsfólk fær samsýning frá tí degi, tað hevur fingið tingsins góðkenning, ella um tað tekur við seinni, so frá hesum degi, til tað fer frá.</s>
+                  <s xml:lang="fo" cert="high" xml:id="nxb4gngn7f">Fyri tíðarskeið, sum eru minni enn 30 dagar, verður samsýningin roknað sum 1/30 av samsýningini fyri hvønn dagin, tað hevur sæti á tingi.</s>
+                  <s xml:lang="fo" cert="high" xml:id="bppk6pn5rs">Varafólk, sum hevur tikið sæti á tingi av aðrari orsøk enn fyri løgtingsfólk, sum er vorðið landsstýrisfólk, og sum fær farloyvi úr tinginum, hevur ikki rætt til samsýning í farloyvistíðarskeiðnum.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="d53fn3tuyv">Varafólk, sum hevur havt sæti á tingi í meira enn 6 mánaðir samanlagt í einum valskeiði, og sum framvegis situr á tingi 2 mánaðir áðrenn løgtingsval, men sum ikki verður valt, fær samsýning eftir § 1, stk. 1 svarandi til 1 dag fyri hvørjar 8 dagar, viðkomandi hevur havt sæti á tingi, tó í minsta lagi í 1 mánað og í mesta lagi í 6 mánaðir.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high" xml:id="xjaqu5quhb">Varafólk, sum hevur havt sæti á tingi í eitt ár ella meira í einum valskeiði, fáa, um tey missa sessin í valskeiðnum, fráfaringarsamsýning í 1 dag fyri hvørjar 8 dagar, viðkomandi hevur havt sæti á tingi, tó í mesta lagi í 6 mánaðir.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="icj4aeckjd">Hevur varafólk aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað í fráfaringarsamsýningini.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 2. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="inglnt5xu7">Verður løgtingsfólk ikki afturvalt ella má leggja tingsessin frá sær vegna sjúku, fær tað samsýning sambært § 1, stk. 1 í ein mánað fyri hvørt árið, tað hevur havt sess á tingi, tó í minsta lagi 3 mánaðir og í mesta lagi 6 mánaðir.</s>
-                <s xml:lang="fo" cert="high" xml:id="kbtnerjtg2">Hevur løgtingsfólkið aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað í fráfaringarsamsýningini.</s>
-                <s xml:lang="fo" cert="high" xml:id="lzszite2ka">Doyr løgtingsfólk, fáa hjúnafelagi ella børn undir 18 ár samsýning eftir § 1, stk. 1 í 6 mánaðir.</s>
-              </p>
+          </div>
+          <div n="Farloyvi og hjástørv">
+            <head rend="italic">Farloyvi og hjástørv</head>
+            <div type="bill-section" n="§ 4.">
+              <div n="§ 4. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="qm34hbna7l">Løgtingsfólk, sum er í starvi hjá landinum, eini kommunu, kommunalum felagsskapi, landsfyritøku ella hjá einum konsessioneraðum felag, hevur rætt til farloyvi úr starvi sínum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="rwxah4r3qk">Løgtingsfólk, sum hevur starv hjá einum stovni eftir 1. pkt. ella hjá ríkinum, kann í mesta lagi starvast 50% av tíðini í hesum starvi, meðan tað er løgtingsfólk ella varafólk fyri løgtingsfólk.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 2. Stk. 3.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="yy7umlxtef">Løgtingsfólk, sum fær farloyvi úr tinginum vegna sjúku, ella tí tað hevur fingið farloyvi at fara uttanlands í løgtingsørindum, varðveitir rættin til samsýning.</s>
-              </p>
+          </div>
+          <div n="Eftirløn">
+            <head rend="italic">Eftirløn</head>
+            <div type="bill-section" n="§ 5.">
+              <div n="§ 5. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 5.</label>
+                  <s xml:lang="fo" cert="high" xml:id="wmsffa2xdl">Løgtingið rindar tingfólkum upp í 15% av samsýningini, sbrt. § 1, stk. 1 afturat í eftirløn í eina eftirlønarskipan, góðkend av landsstýrinum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="dtgbm6gsxp">Eftirlønarprosentið verður ásett sambært skjali 1 í mun til, hvussu leingi tingfólkið ávikavist hevur sitið á tingi og hevur verið landsstýrisfólk eftir gomlu eftirlønarskipanunum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="gdibmg52yy">§ 2, stk. 1 í eftirlønarlógini er ikki galdandi fyri løgtinsfólk, við atliti at løgtingssamsýning.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 2. Stk. 4.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="nxaow4zw32">Løgtingsfólk hava rætt til farloyvi uttan frádrátt í samsýning eftir § 1, stk. 1 í sambandi við barnsburð og ættleiðing eftir reglunum, sum eru galdandi fyri tænastumenn.</s>
-              </p>
+          </div>
+          <div n="Løgtingsformaðurin">
+            <head rend="italic">Løgtingsformaðurin</head>
+            <div type="bill-section" n="§ 6.">
+              <div n="§ 6. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 6.</label>
+                  <s xml:lang="fo" cert="high" xml:id="stslhfwlyg">Løgtingsformaðurin fær eina samsýning, sum er 130% av 40. lønarflokki í tænastumannalógini.</s>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="wwkd2kira4">Hevur løgtingsformaðurin fastan bústað uttanfyri høvuðsstaðarøkið, kann hann flyta til høvuðsstaðin í ein bústað, sum Løgtingið rindar.</s>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <seg xml:lang="fo">Løgtingsformaðurin fær afturat samsýningini í stk. 1 árligt kostnaðarendurgjald, grundað á reglurnar um endurgjald til tænastu- og starvsmenn, soleiðis:</seg>
+                  <list>
+                    <item>
+                      <label>1)</label>
+                      <seg xml:lang="fo">Flutningskostnaður við egnum bili við Strandfaraskipum Landsins 200 ferðir aftur og fram árliga.</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg xml:lang="fo">Koyripeningur og tunnilsgjald millum heimstað og Tórshavn 200 ferðir aftur og fram árliga, roknað eftir stytstu farleið og við bíligasta tunnilsgjaldi.</seg>
+                    </item>
+                    <item>
+                      <label>3)</label>
+                      <seg xml:lang="fo">Løgtingsformenn úr Tórshavn, Hoyvík, á Argjum og Hvítanesi fáa ikki kostnaðarendurgjald.</seg>
+                    </item>
+                  </list>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high" xml:id="gmrdmmvgbw">Løgtingið útvegar og rindar fyri allar neyðugar samskiftisútreiðslur.</s>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high" xml:id="jpvlq2lf7a">Formansskapurin í Løgtinginum ásetir nærri reglur um ferðing í embætisørindum og um samskiftisútreiðslur sbrt. stk. 3 og 4.</s>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 6.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 6.</label>
+                  <s xml:lang="fo" cert="high" xml:id="sljwidnpef">Løgtingið rindar upp í 15% av lønarsamsýningini, sambært stk. 1, afturat í eftirløn í eina eftirlønarskipan, góðkend av landsstýrinum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="elgfzmgus7">Eftirlønarprosentið verður ásett sambært skjali 1 í mun til, hvussu leingi løgtingsformaðurin ávikavist hevur sitið á tingi og hevur verið landsstýrisfólk eftir gomlu eftirlønarskipanunum.</s>
+                  <s xml:lang="fo" cert="high" xml:id="n2o6vayegg">§ 2, stk. 1 í eftirlønarlógini er ikki galdandi fyri løgtinsformannin við atliti at løgtingsformanssamsýning.</s>
+                </p>
+              </div>
             </div>
-            <div n="§ 2. Stk. 5.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 5.</label>
-                <s xml:lang="fo" cert="high" xml:id="lc4cff6o2u">Løgtingsfólk, sum fáa farloyvi í sambandi við, at tey gerast landsstýrisfólk ella av øðrum orsøkum enn teimum, sum eru nevndar í stk. 3-4, missa rættin til samsýning frá tí degi, tey fáa farloyvi úr tinginum, til tann dagin, tey taka við aftur løgtingssessinum.</s>
-              </p>
+            <div type="bill-section" n="§ 7.">
+              <div n="§ 7. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 7.</label>
+                  <s xml:lang="fo" cert="high" xml:id="utckl573qf">Tá løgtingsformaður fer frá, fær hann løgtingsformanssamsýning í 6 mánaðir, um hann hevur verið tingformaður longri enn eitt ár.</s>
+                  <s xml:lang="fo" cert="high" xml:id="pwaemsbaci">Hevur hann verið tingformaður í styttri skeið, fær hann samsýning í 3 mánaðir.</s>
+                </p>
+              </div>
             </div>
+            <div type="bill-section" n="§ 8.">
+              <div n="§ 8. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 8.</label>
+                  <s xml:lang="fo" cert="high" xml:id="qz3b45axqt">Hevur løgtingsformaðurin, tá hann tekur við, størv í almennari tænastu ella privatum virkjum, samtøkum ella stovnum, skal hann vanliga siga tey frá sær.</s>
+                  <s xml:lang="fo" cert="high" xml:id="h5xvoixtu5">Tó kann hann í hendinga førum við samtykki frá floksforfólkunum á tingi halda tílíkum størvum, um formaðurin ikki heldur, at tey kunnu hava við sær trupulleikar í røkjanini av embætisskyldu hansara.</s>
+                  <s xml:lang="fo" cert="high" xml:id="fuy5x67b2t">Floksforfólkini á tingi skulu í seinasta lagi 14 dagar eftir, at tey hava fingið umsókn formansins, svara honum, og boðar formaðurin síðani tinginum frá, hvørji størv hann hevur fingið loyvi at hava.</s>
+                </p>
+              </div>
+              <div n="§ 8. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="w25jjcqsu7">Løgtingsformaðurin má ikki taka móti nøkrum av teim í stk. 1 nevndu størvum, meðan hann situr sum løgtingsformaður.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Gildiskoma">
+            <head rend="italic">Gildiskoma</head>
+            <div type="bill-section" n="§ 9.">
+              <div n="§ 9. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 9.</label>
+                  <s xml:lang="fo" cert="high" xml:id="g5wjtzask4">Henda løgtingslóg kemur í gildi, tá ið nýtt løgting verður sett sambært § 9, stk. 2 í stýrisskipanarlógini eftir fyrst komandi løgtingsval.</s>
+                  <s xml:lang="fo" cert="high" xml:id="dsfd42qjd2">Samstundis fer úr gildi løgtingslóg nr. 12 frá 18. februar 1999 um samsýning og eftirløn løgtingsmanna.</s>
+                </p>
+              </div>
+              <div n="§ 9. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high" xml:id="h6tc633kvb">Løgtingslóg nr. 12 frá 18. februar 1999 um samsýning og eftirløn løgtingsmanna hevur tó framvegis gildi fyri løgtingsmenn, og hjúnafelaga ella børn, sum sita, ella hava sitið á tingi úrgildissetanardagin.</s>
+                  <s xml:lang="fo" cert="high" xml:id="j5zsm54w62">Eftirlønaraldurin hækkar tó ikki eftir nevnda dag.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div>
+            <head rend="bold right">Skjal 1</head>
+            <ab rend="bold center">Eftirlønargjaldsprosent</ab>
+            <p>
+              <seg>Ár í Løgtinginum við tænastumannalíknandi eftirløn niðureftir og ár í Landsstýrinum við tænastumannalíknandi eftirløn tvørturum:</seg>
+            </p>
+            <!-- TODO: insert table later! -->
           </div>
         </div>
-        <div n="Serreglur viðvíkjandi varafólkum">
-          <head rend="italic">Serreglur viðvíkjandi varafólkum</head>
-          <div type="bill-section" n="§ 3.">
-            <div n="§ 3. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="tzg6flxhka">Varafólk fyri løgtingsfólk fær samsýning frá tí degi, tað hevur fingið tingsins góðkenning, ella um tað tekur við seinni, so frá hesum degi, til tað fer frá.</s>
-                <s xml:lang="fo" cert="high" xml:id="nxb4gngn7f">Fyri tíðarskeið, sum eru minni enn 30 dagar, verður samsýningin roknað sum 1/30 av samsýningini fyri hvønn dagin, tað hevur sæti á tingi.</s>
-                <s xml:lang="fo" cert="high" xml:id="bppk6pn5rs">Varafólk, sum hevur tikið sæti á tingi av aðrari orsøk enn fyri løgtingsfólk, sum er vorðið landsstýrisfólk, og sum fær farloyvi úr tinginum, hevur ikki rætt til samsýning í farloyvistíðarskeiðnum.</s>
-              </p>
-            </div>
-            <div n="§ 3. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="d53fn3tuyv">Varafólk, sum hevur havt sæti á tingi í meira enn 6 mánaðir samanlagt í einum valskeiði, og sum framvegis situr á tingi 2 mánaðir áðrenn løgtingsval, men sum ikki verður valt, fær samsýning eftir § 1, stk. 1 svarandi til 1 dag fyri hvørjar 8 dagar, viðkomandi hevur havt sæti á tingi, tó í minsta lagi í 1 mánað og í mesta lagi í 6 mánaðir.</s>
-              </p>
-            </div>
-            <div n="§ 3. Stk. 3.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 3.</label>
-                <s xml:lang="fo" cert="high" xml:id="xjaqu5quhb">Varafólk, sum hevur havt sæti á tingi í eitt ár ella meira í einum valskeiði, fáa, um tey missa sessin í valskeiðnum, fráfaringarsamsýning í 1 dag fyri hvørjar 8 dagar, viðkomandi hevur havt sæti á tingi, tó í mesta lagi í 6 mánaðir.</s>
-              </p>
-            </div>
-            <div n="§ 3. Stk. 4.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="icj4aeckjd">Hevur varafólk aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað í fráfaringarsamsýningini.</s>
-              </p>
-            </div>
+        <div type="chapter">
+          <head rend="bold">Almennar viðmerkingar</head>
+          <div type="section" n="0">
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="g6x5kap5xg">Løgtingsforkvinnan hevur tikið stig til at seta eina uttanhýsis lønarnevnd at endurskoða løgtingslóg um samsýning og eftirløn løgtingsmanna.</s>
+              <s xml:lang="fo" cert="high" xml:id="g67oqxru36">Hetta er sami arbeiðsbólkur, sum handaði løgtingsformanninum eitt tilmæli í 2018, og er mannaður við Jógvan Amonsson, statsaut. revisori, Gunn Ellefsen, advokati og Mariu á Dul, HR-leiðara.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Endamálið við arbeiðinum hjá arbeiðsbólkinum var at tryggja formansskapinum í Løgtinginum eitt dygt og væl grundað tilmæli um samsýningar og eftirløn til løgtingsfólk, har atlit verða tikin til:</seg>
+            </p>
+            <list>
+              <item>lønarlagið í landinum yvirhøvur</item>
+              <item>ta tign og ábyrgd, sum liggur í tingsessinum</item>
+              <item>hvussu tingfólk í grannalondunum verða lønt, og hvørjar sømdir tey annars hava</item>
+              <item>onnur viðkomandi viðurskifti.</item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="xq6venxffk">Tað er ein avbjóðing í verandi skipan, at munandi broytingar eru gjørdar í landsstýrisfólkalønum og -eftirlønum, uttan at nakað er gjørt við viðurskiftini hjá løgtingsfólkum.</s>
+              <s xml:lang="fo" cert="high" xml:id="skft7ra3sb">Í løtuni er talan um tvær sera ymiskar skipanir, serliga tá um eftirløn ræður.</s>
+              <s xml:lang="fo" cert="high" xml:id="fq6s5mibff">Tað er ein sannroynd, at fólk javnan flyta seg úr Løgtinginum í landsstýrið og øvugt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nnj4bjiqmu">Hin 16. februar 2024 handaði lønarnevndin løgtingsforkvinnuni álit um, hvussu tey meta, at ein skipan um samsýningar og eftirløn til løgtingsfólk eigur at síggja út.</s>
+              <s xml:lang="fo" cert="high" xml:id="fj55pj7use">Lønarnevndin mælti til at seta broytingarnar í verk samlað.</s>
+              <s xml:lang="fo" cert="high" xml:id="cvzjknrnue">Hetta lógaruppskotið byggir á tilmælið, tó er tilmælið um lønarhækking ikki tikið við.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sm7v7dgad2">Álitið frá lønarnevndini er viðlagt hesum uppskoti sum fylgiskjal nr. 1.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mmbc2a75tq">Uppskotið hevur somu lógarásetingar, sum í galdandi lóg, men fleiri greinar eru tillagaðar samsvarandi teimum tilmælum frá lønarnevndini, sum eru tikin við í hetta uppskotið.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Broytingarnar, sum lógaruppskotið mælir til eru:</seg>
+            </p>
+            <list>
+              <item>
+                <p>
+                  <s xml:id="nlki4qahh7">Farið verður frá einari tænastumannalíknandi eftirlønarskipan til eina skipan, har landið rindar upp til 15% av lønarsamsýningini hjá tingfólkum í eina góðkenda pensjónsskipan.</s>
+                  <s xml:id="qfz5c3bw2n">Ein skiftisskipan verður nýtt fyri tingfólk, sum hava eftirløn eftir verandi skipan.</s>
+                  <s xml:id="wo57mc26tx">Eftirlønin verður millum 0% og 15% alt eftir starvstíðini eftir galdandi pensjónsskipan (sí talvu við eftirlønargjaldsprosenti – Skjal 1).</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="jpl4xeainn">Fráfaringarsamsýningartíðarskeiðið hjá løgtingsfólki verður broytt frá at vera í minsta lagi 4 mðr. og í mesta lagi 6 mðr., til at vera í minsta lagi 3 mðr. og í mesta lagi 6 mðr.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="x3obn26vtc">Varafólk, sum hava sætið á tingi í meira enn seks mánaðir samanlagt í einum valskeiði, og framvegis sita á tingi tveir mánaðir áðrenn nýval, fáa fráfaringarsamsýning svarandi til 1 dag fyri hvørjar 8 dagar, viðkomandi hevur tikið sætið á tingi, tó í minsta lagi 1 mánað og í mesta lagi 6 mánaðir.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="av7ww4vvjb">Varafólk, sum hava havt sætið á tingi samanhangandi í eitt ár ella meiri í einum valskeiði, fáa, um tey missa sætið, fráfaringarsamsýning í 1 dag fyri hvørjar 8 dagar viðkomandi hevur tikið sætið á tingi, tó í mesta lagi 6 mánaðir.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="jwowh6ggjb">Farið verður frá einari skipan við ongari mótrokning í fráfaringarsamsýningini, til at mótroknað verður í teimum førum, har tingfólk og varafólk hava aðra lønarinntøku í fráfaringartíðarskeiðinum.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="dnpuwzmc2o">Lønar- og fráfaringarsamsýningar fara frá at verða goldnar forút til at verða goldnar afturút.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="hiabkzpq57">Løgtingsformaðurin verður í øllum lutum javnsettur við løgmann, og fer frá verandi tænastumannaeftirløn, har full eftirløn kann vinnast uppá 8 ár, til eftirløn uppá millum 0% og 15% alt eftir starvstíðini eftir galdandi pensjónsskipan (sí talvu við eftirlønargjaldsprosenti – Skjal 1).</s>
+                  <s xml:id="puktzdrn5w">Fráfaringarsamsýningin fer frá at vera 6 mánaðir, til at vera í minsta lagi 3 mðr. og í mesta lagi 6 mðr.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="utzqcwhccw">Lógin frá 2003 um nevnd at geva løgmannni tilmæli um samsýning og eftirløn landsstýrismanna v.m. verður víðkað til eisini at umfata at geva løgtingsformanninum tilmæli um samsýning og eftirløn til løgtingsfólk.</s>
+                  <s xml:id="kclmwj44vp">Sí fylgilógaruppskot.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="cmnwa2txv3">Eftirlønaraldurin hjá løgtingsfólkum verður tann sami, sum er galdandi sambært lóg um almannapensjónir o.a.</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="vzcnolpxly">Koyripengar verða latnir eftir somu skipan sum í dag, tó bert fyri stytstu og bíligastu farleið.</s>
+                </p>
+              </item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sq23t3f57v">Viðvíkjandi teimum broytingum, lønarnevndin mælir til, verður víst til bls. 4-5 í fylgiskjali 1.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gheptk7h2n">Hetta lógaruppskotið hevur ikki verið sent til ummælis, men álitið við tilmæli um samsýning og eftirløn til løgtingsfólk er umrøtt við flokkarnar á tingi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tyozc5ur6f">Undirtøka var ikki frá øllum flokkum fyri at leggja samlaða tilmælið frá lønarnevndini fram.</s>
+              <s xml:lang="fo" cert="high" xml:id="b6styjy62l">Rímiliga breið undirtøka tykist tó vera fyri at fara frá núverandi skipan, har tingfólk fáa tænastumannaeftirløn við serligum treytum, til eina eftirlønarskipan, har ávísur % partur av lønini verður goldin í góðkenda eftirlønarskipan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bicfprpqmx">Í tilmælinum frá lønarbólkinum verður mælt til, at mánaðarlønin hjá tingfólki hækkar tveir lønarflokkar, samstundis sum skattafría kostnaðarískoytið verður tikið av. Uppskotssetararnir meta tað vera rættast í verandi støðu, ikki at mæla til nakra broyting í mánaðarlønini hjá tingfólki.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yu2bzepyr5">Ongin broyting er gjørd í samsýningunum til næstformenn og nevndarformenn.</s>
+              <s xml:lang="fo" cert="high" xml:id="mxuisq7hg5">Hendan er 2.500 kr. um mánaðin, og er óbroytt síðan 1999.</s>
+              <s xml:lang="fo" cert="high" xml:id="cl4vbecvob">Álitið frá lønarbólkinum sigur einki um hesar samsýningar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="dxiyaqygy4">Ein § 25 nevnd, við umboðum frá øllum flokkum, eigur at verða sett at viðgera alt uppskotið, og kemur nevndin sostatt gjølla at viðgera bæði lønar- og eftirlønarspurningin, umframt álitið frá lønarnevndini.</s>
+            </p>
           </div>
         </div>
-        <div n="Farloyvi og hjástørv">
-          <head rend="italic">Farloyvi og hjástørv</head>
-          <div type="bill-section" n="§ 4.">
-            <div n="§ 4. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="qm34hbna7l">Løgtingsfólk, sum er í starvi hjá landinum, eini kommunu, kommunalum felagsskapi, landsfyritøku ella hjá einum konsessioneraðum felag, hevur rætt til farloyvi úr starvi sínum.</s>
-                <s xml:lang="fo" cert="high" xml:id="rwxah4r3qk">Løgtingsfólk, sum hevur starv hjá einum stovni eftir 1. pkt. ella hjá ríkinum, kann í mesta lagi starvast 50% av tíðini í hesum starvi, meðan tað er løgtingsfólk ella varafólk fyri løgtingsfólk.</s>
-              </p>
-            </div>
+        <div type="chapter">
+          <head rend="bold">Avleiðingarnar av uppskotinum</head>
+          <div type="section" n="0">
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="etzb6ildrc">Uppskotið kemur at hava fíggjarligar avleiðingar fyri landið á tann hátt, at eftirlønarskipanin hjá tingfólkum verður broytt soleiðis, at farið verður frá verandi skipan við tænastumannapensjón til eina skipan, har landið rindar upp til 15% av lønarsamsýningini í eina góðkenda eftirlønarskipan, eins og galdandi er fyri flestu starvsfólk hjá landinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="cd72tb4ovo">Mótrokning fer frameftir at verða gjørd í bíðilønini (fráfaringarlønini), sum tingfólk fáa, um tey ikki verða afturvald á ting.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="f3ebw3tznd">Ilt er at siga neyvt, hvørjar fíggjarligu avleiðingarnar av uppskotinum koma at vera samlað fyri landið.</s>
+              <s xml:lang="fo" cert="high" xml:id="d4ofh767yl">Landið kemur at rinda millum 0 og 15 % omaná lønina í eftirønargjaldi til hvørt tingfólk.</s>
+              <s xml:lang="fo" cert="high" xml:id="geq7c25gjv">Samlaði kostnaðurin av hesum veldst um, hvørji tingfólk koma at sita á tingi eftir eitt komandi val, tí eftirlønargjald á 15 % verður bert goldið til teirra, sum ikki hava vunnið sær eftirløn eftir verandi skipan ella eftir gomlu landsstýrismannaskipanini, sum fór úr gildi í septembur 2015.</s>
+              <s xml:lang="fo" cert="high" xml:id="s7cvlrqf3v">Um eitt tingfólk hevur vunnið fullan eftirlønarrætt eftir teimum skipanunum, fær tað 0 % í eftirløn eftir hesari skipanini, og annars lutfalsliga lækkandi eftirløn í mun til starvsaldur og eftirlønarrættindi eftir gomlu skipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="q4q2k7g55x">Víst verður til Skjal 1: Eftirlønargjaldsprosent, sum vísir samspælið millum árini í landsstýrinum og Løgtinginum við tænastumannalíknandi eftirløn og ta eftirlønarprosent, sum viðkomandi so fær eftir hesi nýggju skipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="kuq3zbsntn">Ein leyslig meting av hesum kann vera, at lønarútreiðslurnar til eftirlønir koma at hækka uml. 10% at byrja við, tvs. uml. 2 mió. kr. um árið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gjf4fnrblq">Fyrimunurin fyri landið við at fara yvir til eina nýggja eftirlønarskipan er, at upphæddirnar til eftirløn verða goldnar beinanveg á verandi fíggjarlóg fyri einstaka árið, og ikki sum nú, at einki verður goldið beinanveg, men at ein alsamt vaksandi eftirlønarskylda liggur og bíðar, sum kemur til útgjaldingar einaferð í framtíðini.</s>
+              <s xml:lang="fo" cert="high" xml:id="xqipist2cf">Ilt er at siga neyvt, hvussu nógv landið sparir við at leggja um til nýggju eftirlønarskipanina fyri tingfólk.</s>
+              <s xml:lang="fo" cert="high" xml:id="zkqp6jhfn4">Hetta veldst m.a. eisini um, hvussu skjótt hetta verður gjørt, men sambært tølum úr landsroknskapinum, sum eisini eru endurgivin í álitinum frá lønarbólkinum á bls. 6, sæst eftirlønarbyrðan fyri landið við árslok 2012, 2016 og 2019 av ávikavist ting- og landsstýrisfólkum.</s>
+              <s xml:lang="fo" cert="high" xml:id="gci3jqxg5k">Fyri landsstýrisfólkini, sum eru lutfalsliga fá í tali í mun til tingfólk, vaks byrðan eksplosivt úr 106 mió í 2012, til 161,5 mió í 2016, tá eftirlønarskipanin fyri landsstýrisfólk bleiv broytt.</s>
+              <s xml:lang="fo" cert="high" xml:id="etptni77of">Vøksturin frá 2012 til 2016 áljóðandi uml. 55 mió kr. minkaði til uml. 15 mió kr frá 2016 til 2019.</s>
+              <s xml:lang="fo" cert="high" xml:id="qhirjuwcli">Fyri tingfólk, har eingin broyting er gjørd í skipanini, heldur vøksturin fram á sama eksplosiva hátt úr 188 mió kr. í 2012, til 276 mió kr. í 2016 og 363 mió kr. í 2019.</s>
+              <s xml:lang="fo" cert="high" xml:id="t3hizpslry">Tað er tí átrokandi neyðugt at fáa umlagt hesa eftirlønarskipanina, so vøksturin í eftirlønarskyldum landskassans til tingfólk eisini kann tálmast, eins og gjørt er fyri landsstýrisfólk í 2015, tí annars veksur hetta talið støðugt í mong ár afturat.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="oiq3r3ztuk">Í hesum talinum liggur, hvussu nógv tað vildi kostað landinum at keypt seg leyst frá teimum eftirlønarskyldunum, sum landið hevur mótvegis tingfólkum í dag.</s>
+              <s xml:lang="fo" cert="high" xml:id="d5nlzd4u62">Havast skal í huga, at eftirløn yvirhøvur til tingfólk ikki kom í gildi fyrr enn í 1993, at verandi skipan er frá 1998, og tí er kostnaðurin framvegis vaksandi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nj4vgaszg4">Í fylgiskjali 2 er ein útrokning og frágreiðing frá Poul Christoffur Thomassen, aktuari av muninum millum galdandi tænastumannalíknandi eftirlønarskipan og ta skipan, sum lógaruppskotið mælir til grundað á eitt % gjald av samsýningini.</s>
+              <s xml:lang="fo" cert="high" xml:id="vlepg6n2pe">Sambært hesari frágreiðing kann væntast, at eftirlønarbyrðan hjá landinum av tingfólkaeftirlønum kann koma at vaksa upp til 500 mió kr., um einki verður gjørt fyri at broyta hesa.</s>
+              <s xml:lang="fo" cert="high" xml:id="jagcspdmpy">Hóast eina umlegging nú, verður mett, at tað kemur at taka eini 50 ár, áðrenn hendan eftirlønarbyrðan er burtur.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="y5dsygaboi">Uppskotið hevur tær umsitingarligu avleiðingarnar við sær, at tingfólk frameftir fara at fáa sína løn goldnað afturút heldur enn forút, sum tað er nú.</s>
+              <s xml:lang="fo" cert="high" xml:id="v7aszwvs6h">Hetta fer at gera umsitingina av lønunum lættari fyri umsitingina eins og betur fyri einstaka tingfólkið.</s>
+              <s xml:lang="fo" cert="high" xml:id="kr2nayghjr">Orsøkin er, at um eitt tingfólk sigur sessin frá sær ella fer í farloyvi í longri tíð, so hevur viðkomandi oftast fingið lønina fyri tann mánaðin og møguliga eisini fyri næsta mánaðin útgoldnað, og skal so afturrinda hesa.</s>
+              <s xml:lang="fo" cert="high" xml:id="bod5bdznyx">Tað sama ger seg galdandi fyri t.d. eitt varafólk fyri eitt landsstýrisfólk, sum brádliga fer úr tinginum, tí hin tekur sætið aftur.</s>
+              <s xml:lang="fo" cert="high" xml:id="f7cpjyuczi">Lønirnar eru vanliga farnar gjøgnum lønarskipanina uml. 25. í mánaðinum, og eitt tingfólk, sum fer úr tinginum hendan dagin, hevur tá longu fingið útgoldið løn fyri næsta mánaðin umframt teir 5 dagarnar, sum eftir eru av verandi mánaði.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Yvirlit yvir avleiðingarnar av uppskotinum</head>
+            <table>
+              <row role="label">
+                <cell/>
+                <cell>Fyri landið ella landsmyndugleikar</cell>
+                <cell>Fyri kommunalar myndugleikar</cell>
+                <cell>Fyri pláss ella øki í landinum</cell>
+                <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+                <cell>Fyri vinnuna</cell>
+              </row>
+              <row>
+                <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Umsitingarligar avleiðingar</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Umhvørvisligar avleiðingar</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Sosialar avleiðingar</cell>
+                <cell/>
+                <cell/>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell/>
+              </row>
+            </table>
           </div>
         </div>
-        <div n="Eftirløn">
-          <head rend="italic">Eftirløn</head>
-          <div type="bill-section" n="§ 5.">
-            <div n="§ 5. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 5.</label>
-                <s xml:lang="fo" cert="high" xml:id="wmsffa2xdl">Løgtingið rindar tingfólkum upp í 15% av samsýningini, sbrt. § 1, stk. 1 afturat í eftirløn í eina eftirlønarskipan, góðkend av landsstýrinum.</s>
-                <s xml:lang="fo" cert="high" xml:id="dtgbm6gsxp">Eftirlønarprosentið verður ásett sambært skjali 1 í mun til, hvussu leingi tingfólkið ávikavist hevur sitið á tingi og hevur verið landsstýrisfólk eftir gomlu eftirlønarskipanunum.</s>
-                <s xml:lang="fo" cert="high" xml:id="gdibmg52yy">§ 2, stk. 1 í eftirlønarlógini er ikki galdandi fyri løgtinsfólk, við atliti at løgtingssamsýning.</s>
-              </p>
-            </div>
+        <div type="chapter">
+          <head rend="bold">Serligar viðmerkingar</head>
+          <div type="section">
+            <head rend="bold">Til § 1</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="dlkzdnn3ak">Tingfólk fáa í dag eina samsýning, sum er 46.373,69 kr. mánaðarliga, svarandi til 34. lønarflokk hjá tænastumonnunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="iiw3lsreuy">Hendan verður óbroytt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="os6cjqaaok">Ongar broytingar verða gjørdar í kostnaðarendurgjaldinum samsvarandi tilmælinum frá arbeiðsbólkinum, tó so at koyripengar vera latnir eftir stytstu farleið og á bíligasta hátt.</s>
+              <s xml:lang="fo" cert="high" xml:id="shiife6fkg">Stk. 3 er tó broytt málsliga samsvarandi tilmælinum, tí gamla ásetingin tók hædd fyri, at tingfólk vóru vald í ymsum valdømum.</s>
+              <s xml:lang="fo" cert="high" xml:id="c7h7ulnwek">Eingin innihaldslig broyting er annars í hesum, heldur ikki í skipanini við frádrátti fyri teir dagar, sum tingfólk ikki møtir á fundi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="b4finixzn5">Kostnaðarískoyti á 2.000 kr. um mánaðin verður varðveitt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="phu7abn5vg">Ongin broyting er gjørd í samsýningunum til næstformenn og nevndarformenn.</s>
+              <s xml:lang="fo" cert="high" xml:id="ssup6at3ae">Hendan er 2.500 kr. um mánaðin, og er óbroytt síðan 1999.</s>
+              <s xml:lang="fo" cert="high" xml:id="pioplptevo">Álitið frá lønarbólkinum sigur einki um hesar samsýningar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tae5zlebsv">Ongin broyting er gjørd í sambandi við ferðing uttanlands.</s>
+              <s xml:lang="fo" cert="high" xml:id="z6yonzpt5h">Hildið verður fast í verandi skipan, eins og arbeiðsbólkurin mælir til.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 2</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="l57pnqfbwi">Samsýningar v.m. verða goldnar mánaðarliga afturút frá tí degi, at valið av tingfólki hevur gildi, tvs.</s>
+              <s xml:lang="fo" cert="medium" xml:id="nupkovftp7">frá tí degi, at nýggja tingið er sett, ella tingfólk hevur tikið sætið á tingi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yjfbz6ayl6">Hetta er ein broyting í mun til verandi lóg, har samsýning verður goldin frammanundan frá 1. í mánaðinum eftir, at Løgtingið hevur góðkent valbrævið hjá viðkomandi løgtingsfólki.</s>
+              <s xml:lang="fo" cert="high" xml:id="c6riaiuntw">Hetta merkir, at fyri eitt tingfólk, sum fer frá verandi lønarskipan til nýggju skipanina, hevur tað fingið løn frammanundan fyri ein ávísan mánað, samstundis sum tað skal hava løn afturút fyri næsta mánaðin.</s>
+              <s xml:lang="fo" cert="high" xml:id="arrknz5pts">Hetta hevur onga avbjóðing við sær fyri nývald tingfólk, men merkir, at eitt tingfólk, sum situr á tingi, tá skiftið hendir, fær løn forút fyri ein ávísan mánað, og fær so ikki løn aftur fyrr enn tveir mánaðir seinni, tá tað fær løn afturút fyri næsta mánaðin.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="t6i4oz3hjt">Skipanin við fráfaringarsamsýning (bíðiløn) er óbroytt, tó soleiðis, at tingfólk fáa úr 3 upp til 6 mánaðir, og ikki úr 4 upp til 6 mðr. eins og í dag.</s>
+              <s xml:lang="fo" cert="high" xml:id="t2in3k2dbv">Hetta merkir, at tingfólk sum ikki verður afturvalt, ella letur vera at stilla uppaftur, fær fráfaringarsamsýning eins og í dag.</s>
+              <s xml:lang="fo" cert="high" xml:id="yshdvj2meh">Samsvarandi tilmælinum frá arbeiðsbólkinum er tó gjørd tann broyting, at fyri tingfólk, sum hava aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað fult út.</s>
+              <s xml:lang="fo" cert="high" xml:id="wsuha7t4xl">Hetta verður gjørt á tann hátt, at tingfólkið fær boð um, at møgulig mótrokning skal gerast, og at viðkomandi verður biðin um at boða frá møguligari inntøku í fráfaringartíðarskeiðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="m2jlp76ejf">Ov nógv útgoldin fráfaringarsamsýning verður kravd inn aftur.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ndkgzffoto">Orðingin í stk. 3 er broytt soleiðis, at tað ikki longur fer at bera til at fáa farloyvi úr Løgtinginum við løn fyri at røkja fólkatingsarbeiðið.</s>
+              <s xml:lang="fo" cert="high" xml:id="xaush3qdob">Hendan ásetingin at fara uttanlands í arbeiðsørindum hevur í mong ár einans verið nýtt, tá tingfólk fáa farloyvi í sambandi við ST-aðalfund, so tað harvið gerst møguligt at fáa eitt varafólk inn á ting.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 3</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gyz36hwx7m">Stk. 1 er óbroytt í mun galdandi lóg.</s>
+              <s xml:lang="fo" cert="high" xml:id="du6pjsmu4l">Í stk. 2 eru ásettar nýggjar reglur um fráfaringarsamsýning til varafólk, sum hava sitið á tingi í minsta lagi 6 mánaðir í valskeiðnum, og sum framvegis sita á tingi tveir mánaðir undan løgtingsvali, og sum ikki verða vald á komandi valinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="xo3dwlzow6">Í stk. 3 er nýggj áseting um varafólk, sum hava havt sætið á tingi í minsta lagi eitt ár í einum valskeiði, men sum missa sessin, uttan at val verður útskrivað.</s>
+              <s xml:lang="fo" cert="high" xml:id="bcfjxr7uzv">Hesi fáa fráfaringarsamsýning í ein dag fyri hvørjar átta dagar á tingi, tó í mesta lagi í seks mánaðir.</s>
+              <s xml:lang="fo" cert="high" xml:id="zijohifda4">Við ásetingunum í stk. 2 og 3 kann talan sostatt eisini gerast um fráfringarsamsýningar undan valinum (stk. 2) ella mitt í einum valskeiði (stk. 3) og ikki bara aftaná eitt løgtingsval, eins og nú.</s>
+              <s xml:lang="fo" cert="high" xml:id="hllgjxobdc">Mótroknað verður eisini í fráfaringarsamsýningini fyri varafólk á sama hátt sum fyri vald tingfólk.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 4</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ciusiqjyrd">Hendan greinin er óbroytt í mun til galdandi lóg.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 5</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wjg5ff6rvt">Løgtingsfólk fara við hesari ásetingini frá tænastumannalíknandi eftirlønarskipanini til eina prosentgjaldsskipan, har Løgtingið rindar eftirlønargjald sambært skjali 1 áljóðandi upp til 15% av samsýningini sambært § 1, stk. 1.</s>
+              <s xml:lang="fo" cert="high" xml:id="h75j36vtsw">Løgtingssamsýningin er ikki fevnd av lógini um tvungið inngjald til eftirløn, sum ásett í løgtingslóg nr. 49 frá 14. mai 2013 um eftirløn við seinni broytingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="athhuy4dmn">Eftirlønin kemur til útgjald, tá løgtingsfólk røkka fólkapensjónsaldri.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 6</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rccnpfqkor">Hendan lógargreinin javnsetir løgtingsformannin við løgmann í øllum viðurskiftum, tá ræður um løn, eftirløn, ferðing, útbúnað og bústaðarviðurskifti.</s>
+              <s xml:lang="fo" cert="high" xml:id="n2ejhikldg">Orðingin er løgd neyvt uppat orðingini, sum er galdandi fyri løgmann í lógini um samsýning og eftirløn til landsstýrisfólk.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 7</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yfibudx36o">Hendan lógargreinin javnsetir løgtingsformannin við løgmann, tá ræður um fráfaringarsamsýning.</s>
+              <s xml:lang="fo" cert="high" xml:id="xde2zmb6nr">Orðingin er løgd neyvt uppat orðingini, sum er galdandi fyri løgmann í lógini um samsýning og eftirløn til landsstýrisfólk.</s>
+              <s xml:lang="fo" cert="high" xml:id="xqpukjrrjf">Í verandi skipan varðveitir løgtingsformaðurin samsýning sína í 6 mánaðir aftaná, at hann er farin frá.</s>
+              <s xml:lang="fo" cert="high" xml:id="iwgqzanp2z">Við nýggju skipanini fær hann samsýning sína í 3 ella 6 mánaðir, alt eftir um hann hevur sitið í embætinum upp til eitt ár ella longri enn eitt ár.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 8</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="s3msy75awq">Hetta er ein endurtøka av galdandi lóg, har ásett er, at løgtingsformaðurin sum meginregla ikki eigur at hava onnur størv, meðan viðkomandi røkir formansembætið.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 9</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zfzl5ryktm">Gildiskomuregla, sum ásetir, at hendan lógin kemur at galda fyri øll tingfólk, sum verða vald eftir komandi val.</s>
+              <s xml:lang="fo" cert="high" xml:id="trgqbxud66">Galdandi lóg verður sett úr gildi, men hevur kortini gildi fyri tingfólk, sum eru fevnd av lógini í dag, og fyri tey rættindi og tær skyldur, sum hesi og undanfarin tingfólk hava eftir galdandi lóg.</s>
+              <s xml:lang="fo" cert="high" xml:id="fbbnp7nnwf">Hetta merkir ítøkiliga m.a., at verandi tingfólk í dag hava rætt til bíðiløn (fráfaringarløn) eftir 1998-lógini aftaná komandi val, eins og at tey varðveita tey eftirlønarrættindi, sum eru innvunnin fram til henda nýggja lógin kemur í gildi.</s>
+              <s xml:lang="fo" cert="high" xml:id="mcltaxcntu">Gamla lógin kemur sostatt eisini at galda fyri útgjald av tænastumannalíknandi eftirlønunum frameftir, og fyri tey rættindi, sum hjúnafelagi og børn kunnu hava aftaná tingmannin/-kvinnuna.</s>
+              <s xml:lang="fo" cert="high" xml:id="ksh2a2qjzx">Uppgerðin av, hvussu og nær tænastumannaeftirlønin eftir gomlu lógini verður útgoldin, verður ikki ávirkað av broytingini av eftirlønini, tá hendan lóg kemur í gildi.</s>
+              <s xml:lang="fo" cert="high" xml:id="m2uxvahme3">Rætturin til møguligt útgjald verður framhaldandi gjørdur upp eftir 95-ára regluni í § 4, stk. 2 í gomlu lógini, og øll árini í landsstýrinum og í Løgtinginum telja við í hesi uppgerð, eisini tey árini viðkomandi situr í landsstýrinum ella Løgtinginum aftaná, at eftirlønarskipanin er broytt.</s>
+              <s xml:lang="fo" cert="high" xml:id="lq5ag32fvz">Hetta kann koma at merkja, at tingfólk, sum hevur rætt til eftirløn eftir báðum skipanunum, kann hava rætt at fáa gomlu tænastumannaeftirlønina útgoldnað frá 60 ára aldri, men eftirlønin eftir nýggju skipanini verður ikki útgoldin, fyrr enn viðkomandi røkkur galdandi fólkapensjónsaldri.</s>
+            </p>
           </div>
         </div>
-        <div n="Løgtingsformaðurin">
-          <head rend="italic">Løgtingsformaðurin</head>
-          <div type="bill-section" n="§ 6.">
-            <div n="§ 6. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 6.</label>
-                <s xml:lang="fo" cert="high" xml:id="stslhfwlyg">Løgtingsformaðurin fær eina samsýning, sum er 130% av 40. lønarflokki í tænastumannalógini.</s>
-              </p>
-            </div>
-            <div n="§ 6. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="wwkd2kira4">Hevur løgtingsformaðurin fastan bústað uttanfyri høvuðsstaðarøkið, kann hann flyta til høvuðsstaðin í ein bústað, sum Løgtingið rindar.</s>
-              </p>
-            </div>
-            <div n="§ 6. Stk. 3.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 3.</label>
-                <seg xml:lang="fo">Løgtingsformaðurin fær afturat samsýningini í stk. 1 árligt kostnaðarendurgjald, grundað á reglurnar um endurgjald til tænastu- og starvsmenn, soleiðis:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg xml:lang="fo">Flutningskostnaður við egnum bili við Strandfaraskipum Landsins 200 ferðir aftur og fram árliga.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg xml:lang="fo">Koyripeningur og tunnilsgjald millum heimstað og Tórshavn 200 ferðir aftur og fram árliga, roknað eftir stytstu farleið og við bíligasta tunnilsgjaldi.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg xml:lang="fo">Løgtingsformenn úr Tórshavn, Hoyvík, á Argjum og Hvítanesi fáa ikki kostnaðarendurgjald.</seg>
-                  </item>
-                </list>
-              </p>
-            </div>
-            <div n="§ 6. Stk. 4.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 4.</label>
-                <s xml:lang="fo" cert="high" xml:id="gmrdmmvgbw">Løgtingið útvegar og rindar fyri allar neyðugar samskiftisútreiðslur.</s>
-              </p>
-            </div>
-            <div n="§ 6. Stk. 5.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 5.</label>
-                <s xml:lang="fo" cert="high" xml:id="jpvlq2lf7a">Formansskapurin í Løgtinginum ásetir nærri reglur um ferðing í embætisørindum og um samskiftisútreiðslur sbrt. stk. 3 og 4.</s>
-              </p>
-            </div>
-            <div n="§ 6. Stk. 6.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 6.</label>
-                <s xml:lang="fo" cert="high" xml:id="sljwidnpef">Løgtingið rindar upp í 15% av lønarsamsýningini, sambært stk. 1, afturat í eftirløn í eina eftirlønarskipan, góðkend av landsstýrinum.</s>
-                <s xml:lang="fo" cert="high" xml:id="elgfzmgus7">Eftirlønarprosentið verður ásett sambært skjali 1 í mun til, hvussu leingi løgtingsformaðurin ávikavist hevur sitið á tingi og hevur verið landsstýrisfólk eftir gomlu eftirlønarskipanunum.</s>
-                <s xml:lang="fo" cert="high" xml:id="n2o6vayegg">§ 2, stk. 1 í eftirlønarlógini er ikki galdandi fyri løgtinsformannin við atliti at løgtingsformanssamsýning.</s>
-              </p>
-            </div>
-          </div>
-          <div type="bill-section" n="§ 7.">
-            <div n="§ 7. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 7.</label>
-                <s xml:lang="fo" cert="high" xml:id="utckl573qf">Tá løgtingsformaður fer frá, fær hann løgtingsformanssamsýning í 6 mánaðir, um hann hevur verið tingformaður longri enn eitt ár.</s>
-                <s xml:lang="fo" cert="high" xml:id="pwaemsbaci">Hevur hann verið tingformaður í styttri skeið, fær hann samsýning í 3 mánaðir.</s>
-              </p>
-            </div>
-          </div>
-          <div type="bill-section" n="§ 8.">
-            <div n="§ 8. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 8.</label>
-                <s xml:lang="fo" cert="high" xml:id="qz3b45axqt">Hevur løgtingsformaðurin, tá hann tekur við, størv í almennari tænastu ella privatum virkjum, samtøkum ella stovnum, skal hann vanliga siga tey frá sær.</s>
-                <s xml:lang="fo" cert="high" xml:id="h5xvoixtu5">Tó kann hann í hendinga førum við samtykki frá floksforfólkunum á tingi halda tílíkum størvum, um formaðurin ikki heldur, at tey kunnu hava við sær trupulleikar í røkjanini av embætisskyldu hansara.</s>
-                <s xml:lang="fo" cert="high" xml:id="fuy5x67b2t">Floksforfólkini á tingi skulu í seinasta lagi 14 dagar eftir, at tey hava fingið umsókn formansins, svara honum, og boðar formaðurin síðani tinginum frá, hvørji størv hann hevur fingið loyvi at hava.</s>
-              </p>
-            </div>
-            <div n="§ 8. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="w25jjcqsu7">Løgtingsformaðurin má ikki taka móti nøkrum av teim í stk. 1 nevndu størvum, meðan hann situr sum løgtingsformaður.</s>
-              </p>
-            </div>
-          </div>
+        <space dim="vertical"/>
+        <div type="signature">
+          <dateline><placeName>Á Løgtingi</placeName>, <date when="2023-03-07">7. mars 2023</date></dateline>
+          <space dim="vertical"/>
+          <signed>
+            <persName>Bjørt Samuelsen</persName>
+          </signed>
+          <signed>
+            <persName>Jóhannis Joensen</persName>
+          </signed>
+          <signed>
+            <persName>Johan Dahl</persName>
+          </signed>
         </div>
-        <div n="Gildiskoma">
-          <head rend="italic">Gildiskoma</head>
-          <div type="bill-section" n="§ 9.">
-            <div n="§ 9. Stk. 1.">
-              <p rend="bill-text">
-                <label rend="bold">§ 9.</label>
-                <s xml:lang="fo" cert="high" xml:id="g5wjtzask4">Henda løgtingslóg kemur í gildi, tá ið nýtt løgting verður sett sambært § 9, stk. 2 í stýrisskipanarlógini eftir fyrst komandi løgtingsval.</s>
-                <s xml:lang="fo" cert="high" xml:id="dsfd42qjd2">Samstundis fer úr gildi løgtingslóg nr. 12 frá 18. februar 1999 um samsýning og eftirløn løgtingsmanna.</s>
-              </p>
-            </div>
-            <div n="§ 9. Stk. 2.">
-              <p rend="bill-text">
-                <label rend="italic">Stk. 2.</label>
-                <s xml:lang="fo" cert="high" xml:id="h6tc633kvb">Løgtingslóg nr. 12 frá 18. februar 1999 um samsýning og eftirløn løgtingsmanna hevur tó framvegis gildi fyri løgtingsmenn, og hjúnafelaga ella børn, sum sita, ella hava sitið á tingi úrgildissetanardagin.</s>
-                <s xml:lang="fo" cert="high" xml:id="j5zsm54w62">Eftirlønaraldurin hækkar tó ikki eftir nevnda dag.</s>
-              </p>
-            </div>
-          </div>
-        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Fylgiskjal 1: Álit við tilmæli um samsýning og eftirløn til løgtingsfólk</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-10"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/61304"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2023-03-07">7. mars 2023</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" xml:id="hgzp3ilbfm">Nevndin skal í sínum tilmæli taka atlit at lønarlagnum í landinum yvirhøvur.</seg>
+      <seg type="sentence" xml:id="ifouyb7pho">Nevndin skal í sínum tilmæli taka atlit at tí tign og ábyrgd, sum liggur í tingsessinum.</seg>
+      <seg type="sentence" xml:id="sz5xgrvaii">Nevndin skal í sínum tilmæli taka atlit at hvussu tingfólk í grannalondum okkara verða lønt, og hvørjar sømdir tey annars hava.</seg>
+      <seg type="sentence" xml:id="vwoked6l3s">Nevndin skal í sínum tilmæli taka atlit at onnur viðkomandi viðurskifti.</seg>
+    </standOff>
+    <text>
+      <body>
         <div>
-          <head rend="bold right">Skjal 1</head>
-          <ab rend="bold center">Eftirlønargjaldsprosent</ab>
-          <p>
-            <seg>Ár í Løgtinginum við tænastumannalíknandi eftirløn niðureftir og ár í Landsstýrinum við tænastumannalíknandi eftirløn tvørturum:</seg>
-          </p>
-          <!-- TODO: insert table later! -->
-        </div>
-      </div>
-      <div type="chapter">
-        <head rend="bold">Almennar viðmerkingar</head>
-        <div type="section" n="0">
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="g6x5kap5xg">Løgtingsforkvinnan hevur tikið stig til at seta eina uttanhýsis lønarnevnd at endurskoða løgtingslóg um samsýning og eftirløn løgtingsmanna.</s>
-            <s xml:lang="fo" cert="high" xml:id="g67oqxru36">Hetta er sami arbeiðsbólkur, sum handaði løgtingsformanninum eitt tilmæli í 2018, og er mannaður við Jógvan Amonsson, statsaut. revisori, Gunn Ellefsen, advokati og Mariu á Dul, HR-leiðara.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Endamálið við arbeiðinum hjá arbeiðsbólkinum var at tryggja formansskapinum í Løgtinginum eitt dygt og væl grundað tilmæli um samsýningar og eftirløn til løgtingsfólk, har atlit verða tikin til:</seg>
-          </p>
-          <list>
-            <item>lønarlagið í landinum yvirhøvur</item>
-            <item>ta tign og ábyrgd, sum liggur í tingsessinum</item>
-            <item>hvussu tingfólk í grannalondunum verða lønt, og hvørjar sømdir tey annars hava</item>
-            <item>onnur viðkomandi viðurskifti.</item>
-          </list>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="xq6venxffk">Tað er ein avbjóðing í verandi skipan, at munandi broytingar eru gjørdar í landsstýrisfólkalønum og -eftirlønum, uttan at nakað er gjørt við viðurskiftini hjá løgtingsfólkum.</s>
-            <s xml:lang="fo" cert="high" xml:id="skft7ra3sb">Í løtuni er talan um tvær sera ymiskar skipanir, serliga tá um eftirløn ræður.</s>
-            <s xml:lang="fo" cert="high" xml:id="fq6s5mibff">Tað er ein sannroynd, at fólk javnan flyta seg úr Løgtinginum í landsstýrið og øvugt.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="nnj4bjiqmu">Hin 16. februar 2024 handaði lønarnevndin løgtingsforkvinnuni álit um, hvussu tey meta, at ein skipan um samsýningar og eftirløn til løgtingsfólk eigur at síggja út.</s>
-            <s xml:lang="fo" cert="high" xml:id="fj55pj7use">Lønarnevndin mælti til at seta broytingarnar í verk samlað.</s>
-            <s xml:lang="fo" cert="high" xml:id="cvzjknrnue">Hetta lógaruppskotið byggir á tilmælið, tó er tilmælið um lønarhækking ikki tikið við.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="sm7v7dgad2">Álitið frá lønarnevndini er viðlagt hesum uppskoti sum fylgiskjal nr. 1.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="mmbc2a75tq">Uppskotið hevur somu lógarásetingar, sum í galdandi lóg, men fleiri greinar eru tillagaðar samsvarandi teimum tilmælum frá lønarnevndini, sum eru tikin við í hetta uppskotið.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Broytingarnar, sum lógaruppskotið mælir til eru:</seg>
-          </p>
-          <list>
-            <item>
+          <pb n="I"/>
+          <head>Álit við tilmæli um samsýning og eftirløn til løgtingsfólk</head>
+          <spcae dim="vertical"/>
+          <ab rend="bold">Februar 2024</ab>
+          <pb n="1"/>
+          <div>
+            <head rend="bold">Innihaldsyvirlit</head>
+          </div>
+          <pb n="2"/>
+          <div n="1">
+            <head rend="bold">Inngangur</head>
+            <p>
+              <s xml:id="juig2gpo7o">Løgtingsforkvinnan hevur í skrivi, dagfest 24. oktober 2023, tilnevnt Jógvan Amonsson, Gunn Ellefsen, advokat, og Mariu á Dul at manna nevnd at endurskoða løgtingslóg um samsýning og eftirløn løgtingsmanna.</s>
+              <s xml:id="bsl34k7tr7">Tað eru somu persónar, sum gjørdu tilmælið um samsýning og eftirløn løgtingsmanna frá 8. juni 2018.</s>
+            </p>
+            <p>
+              <s xml:id="x3sih7w2cv">Nevndin skipaði seg á fyrsta fundi við Jógvani Amonsson sum formanni.</s>
+            </p>
+            <div n="1.1">
+              <head rend="bold">Arbeiðssetningur</head>
               <p>
-                <s xml:id="nlki4qahh7">Farið verður frá einari tænastumannalíknandi eftirlønarskipan til eina skipan, har landið rindar upp til 15% av lønarsamsýningini hjá tingfólkum í eina góðkenda pensjónsskipan.</s>
-                <s xml:id="qfz5c3bw2n">Ein skiftisskipan verður nýtt fyri tingfólk, sum hava eftirløn eftir verandi skipan.</s>
-                <s xml:id="wo57mc26tx">Eftirlønin verður millum 0% og 15% alt eftir starvstíðini eftir galdandi pensjónsskipan (sí talvu við eftirlønargjaldsprosenti – Skjal 1).</s>
+                <s xml:id="fq4pwbqtay">Endamálið við arbeiðnum er at tryggja formansskapinum í Løgtinginum eitt dygt og væl grundað tilmæli um samsýningar og eftirløn til tingfólk, og skal nevndin sambært arbeiðssetninginum í sínum tilmæli taka atlit at:</s>
               </p>
-            </item>
-            <item>
+              <list>
+                <item>Lønarlagnum í landinum yvirhøvur.</item>
+                <item>Tí tign og ábyrgd, sum liggur í tingsessinum.</item>
+                <item>Hvussu tingfólk í grannalondum okkara verða lønt, og hvørjar sømdir tey annars hava.</item>
+                <item>Onnur viðkomandi viðurskifti.</item>
+              </list>
+            </div>
+            <div n="1.2">
+              <head rend="bold">Innsavning av upplýsingum og allýsingar</head>
               <p>
-                <s xml:id="jpl4xeainn">Fráfaringarsamsýningartíðarskeiðið hjá løgtingsfólki verður broytt frá at vera í minsta lagi 4 mðr. og í mesta lagi 6 mðr., til at vera í minsta lagi 3 mðr. og í mesta lagi 6 mðr.</s>
+                <s xml:id="uezsqjpk6z">Vit hava valt at brúka sama leist, sum varð brúktur til álitið frá 8. juni 2018, ið eisini er tann leisturin, sum tær nevndir, sum hava viðgjørt samsýningar og eftirlønir hjá landsstýrisfólkum v.m., hava brúkt.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="x3obn26vtc">Varafólk, sum hava sætið á tingi í meira enn seks mánaðir samanlagt í einum valskeiði, og framvegis sita á tingi tveir mánaðir áðrenn nýval, fáa fráfaringarsamsýning svarandi til 1 dag fyri hvørjar 8 dagar, viðkomandi hevur tikið sætið á tingi, tó í minsta lagi 1 mánað og í mesta lagi 6 mánaðir.</s>
+                <s xml:id="y6ko2jxxn3">Vit hava savnað upplýsingar frá teim norðurlondum, sum sammetingar fyrr hava verið gjørdar við, tá viðurskifti hjá m.ø. landsstýrisfólkum v.m. hava verið viðgjørd.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="av7ww4vvjb">Varafólk, sum hava havt sætið á tingi samanhangandi í eitt ár ella meiri í einum valskeiði, fáa, um tey missa sætið, fráfaringarsamsýning í 1 dag fyri hvørjar 8 dagar viðkomandi hevur tikið sætið á tingi, tó í mesta lagi 6 mánaðir.</s>
+                <s xml:id="goqbceqiuo">Viðurskiftini hjá løgtingsfólkum eru lýst og verða samanlíknað við viðurskiftini í teim norðurlondum, sum vit hava valt at fáa upplýsingar frá, og harumframt eru upplýsingar fingnar til vega um lønarlagið í landinum yvirhøvur.</s>
+                <s xml:id="d3gngnwf4q">Lønartøl eru, alt tað ber til, lýst í 2023 tølum, hóast vit í Føroyum kenna tølini fyri 2024.</s>
+                <s xml:id="nsu6fbdio6">Hetta fyri at tølini kunnu vera so samanberilig sum til ber.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="jwowh6ggjb">Farið verður frá einari skipan við ongari mótrokning í fráfaringarsamsýningini, til at mótroknað verður í teimum førum, har tingfólk og varafólk hava aðra lønarinntøku í fráfaringartíðarskeiðinum.</s>
+                <s xml:id="t25tgbjavk">Í innsavningini er komið fram, at hugtakið eftirløn, sum vanliga verður brúkt í Føroyum um uppsparing til ellisár, í teimum londunum vit samanlíkna okkum við, verður kallað pensjón, og at eftirlønarhugtakið, har tað finst, er ein styttri varandi veiting.</s>
+                <s xml:id="v4cm7ijeu4">Havandi í huga, at pensjónsnýskipanin nýtir hugtakið “pensjón” og ikki “eftirløn”, hava vit valt at brúka orðið “pensjón” allastaðni, har talan er um uppsparing ella innvinning til ellisár, eisini um tey føroysku viðurskiftini, har lógin um samsýning og eftirløn ikki beinleiðis er endurgivin.</s>
               </p>
-            </item>
-            <item>
+            </div>
+            <div n="1.3">
+              <head rend="bold">Bygnaðurin í álitinum</head>
               <p>
-                <s xml:id="dnpuwzmc2o">Lønar- og fráfaringarsamsýningar fara frá at verða goldnar forút til at verða goldnar afturút.</s>
+                <s xml:id="ecuixewynv">Í parti 2 verða nevnd tey høvuðsatlit, sum vit hava lagt dent á í okkara arbeiði, og síðani verður tikið samanum tilmælini.</s>
               </p>
-            </item>
-            <item>
+              <pb n="3"/>
               <p>
-                <s xml:id="hiabkzpq57">Løgtingsformaðurin verður í øllum lutum javnsettur við løgmann, og fer frá verandi tænastumannaeftirløn, har full eftirløn kann vinnast uppá 8 ár, til eftirløn uppá millum 0% og 15% alt eftir starvstíðini eftir galdandi pensjónsskipan (sí talvu við eftirlønargjaldsprosenti – Skjal 1).</s>
-                <s xml:id="puktzdrn5w">Fráfaringarsamsýningin fer frá at vera 6 mánaðir, til at vera í minsta lagi 3 mðr. og í mesta lagi 6 mðr.</s>
+                <s xml:id="sp3nnmxgiu">Í parti 3 lýsa vit verandi samsýningarskipan v.m. fyri løgtingsfólk og varafólk sundurgreinað í lønarsamsýning, kostnaðarískoyti og kostnaðarendurgjald, ferðaútreiðslur, samskiftisútreiðslur, fráfaringarsamsýning (bíðiløn), pensjónsviðurskifti og viðurskifti við deyða og aðrar starvsreglur.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="utzqcwhccw">Lógin frá 2003 um nevnd at geva løgmannni tilmæli um samsýning og eftirløn landsstýrismanna v.m. verður víðkað til eisini at umfata at geva løgtingsformanninum tilmæli um samsýning og eftirløn til løgtingsfólk.</s>
-                <s xml:id="kclmwj44vp">Sí fylgilógaruppskot.</s>
+                <s xml:id="g22a6pr4xu">Í parti 4 lýsa vit skipanir í grannalondunum Grønlandi, Íslandi, Danmark og Noregi.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="cmnwa2txv3">Eftirlønaraldurin hjá løgtingsfólkum verður tann sami, sum er galdandi sambært lóg um almannapensjónir o.a.</s>
+                <s xml:id="nqpbp4fhli">Í parti 5 lýsa vit lønarlagið í Føroyum fyri størv, sum frægast kunnu samanberast í tign og ábyrgd.</s>
               </p>
-            </item>
-            <item>
               <p>
-                <s xml:id="vzcnolpxly">Koyripengar verða latnir eftir somu skipan sum í dag, tó bert fyri stytstu og bíligastu farleið.</s>
+                <s xml:id="exsldasbqb">Í parti 6 verða tær einstøku ásetingarnar í verandi samsýningarskipan viðgjørdar.</s>
+                <s xml:id="vcwsvl2woa">Fyrst verður tikið samanum, hvussu skipanin er í dag, síðani verða fyrimunir og vansar viðgjørdir og samanbornir við aðrar samanberiligar skipanir bæði í Føroyum og í grannalondunum, sum vit hava valt at samanbera við, við tí endamáli at koma við tilmælum um, hvussu samsýningarskipanin eftir okkara tykki í framtíðini eigur at verða sett saman.</s>
               </p>
-            </item>
-          </list>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="sq23t3f57v">Viðvíkjandi teimum broytingum, lønarnevndin mælir til, verður víst til bls. 4-5 í fylgiskjali 1.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gheptk7h2n">Hetta lógaruppskotið hevur ikki verið sent til ummælis, men álitið við tilmæli um samsýning og eftirløn til løgtingsfólk er umrøtt við flokkarnar á tingi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="tyozc5ur6f">Undirtøka var ikki frá øllum flokkum fyri at leggja samlaða tilmælið frá lønarnevndini fram.</s>
-            <s xml:lang="fo" cert="high" xml:id="b6styjy62l">Rímiliga breið undirtøka tykist tó vera fyri at fara frá núverandi skipan, har tingfólk fáa tænastumannaeftirløn við serligum treytum, til eina eftirlønarskipan, har ávísur % partur av lønini verður goldin í góðkenda eftirlønarskipan.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="bicfprpqmx">Í tilmælinum frá lønarbólkinum verður mælt til, at mánaðarlønin hjá tingfólki hækkar tveir lønarflokkar, samstundis sum skattafría kostnaðarískoytið verður tikið av. Uppskotssetararnir meta tað vera rættast í verandi støðu, ikki at mæla til nakra broyting í mánaðarlønini hjá tingfólki.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="yu2bzepyr5">Ongin broyting er gjørd í samsýningunum til næstformenn og nevndarformenn.</s>
-            <s xml:lang="fo" cert="high" xml:id="mxuisq7hg5">Hendan er 2.500 kr. um mánaðin, og er óbroytt síðan 1999.</s>
-            <s xml:lang="fo" cert="high" xml:id="cl4vbecvob">Álitið frá lønarbólkinum sigur einki um hesar samsýningar.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="dxiyaqygy4">Ein § 25 nevnd, við umboðum frá øllum flokkum, eigur at verða sett at viðgera alt uppskotið, og kemur nevndin sostatt gjølla at viðgera bæði lønar- og eftirlønarspurningin, umframt álitið frá lønarnevndini.</s>
-          </p>
+              <space dim="vertical"/>
+              <ab>
+                <ab>Tórshavn, tann 16. februar 2024</ab>
+                <ab>Jógvan Amonsson</ab>
+                <ab>Maria á Dul</ab>
+                <ab>Gunn Ellefsen</ab>
+              </ab>
+            </div>
+          </div>
+          <pb n="4"/>
+          <div n="2">
+            <head rend="bold">Samandráttur</head>
+            <div n="2.1">
+              <head rend="bold">Høvuðsatlit</head>
+              <p>
+                <s xml:id="wbdiyxbxzy">Nevndin hevur í arbeiði sínum lagt dent á at koma við einum áliti, har tað gjøgnumgangandi er tilráðing um meira gjøgnumskygni í skipanini, ið er berandi og afturvendandi atlitið.</s>
+                <s xml:id="fpogz6bmgw">Við støði í teimum skipanum, ið eru galdandi í samfelagnum annars og í grannalondum okkara, mælir nevndin til, at skipanin við samsýning og eftirløn/pensjón til løgtingsfólk verður tillagað nútíðarsamfelagnum.</s>
+              </p>
+              <p>
+                <s xml:id="zw6wt4zj6q">Miðað er eftir at fáa eina einfalda samsýningarskipan, sum í bygnaði og støði kann samanberast við líknandi setanarviðurskifti hjá øðrum viðkomandi fakbólkum.</s>
+                <s xml:id="tjn7p2owo3">Hendan skal eisini, so vítt gjørligt, vera í tráð við gongdina í hinum Norðurlondunum, ið nevndin hevur samanborið seg við, hvat viðvíkur samsýningum til tingfólk.</s>
+              </p>
+            </div>
+            <div n="2.2">
+              <head rend="bold">Tilmæli</head>
+              <p>
+                <seg>Í høvuðsheitum mælir nevndin til, at hesar broytingar verða gjørdar viðvíkjandi samsýningini og pensjónini hjá løgtingsfólkum:</seg>
+              </p>
+            </div>
+          </div>
         </div>
-      </div>
-      <div type="chapter">
-        <head rend="bold">Avleiðingarnar av uppskotinum</head>
-        <div type="section" n="0">
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="etzb6ildrc">Uppskotið kemur at hava fíggjarligar avleiðingar fyri landið á tann hátt, at eftirlønarskipanin hjá tingfólkum verður broytt soleiðis, at farið verður frá verandi skipan við tænastumannapensjón til eina skipan, har landið rindar upp til 15% av lønarsamsýningini í eina góðkenda eftirlønarskipan, eins og galdandi er fyri flestu starvsfólk hjá landinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="cd72tb4ovo">Mótrokning fer frameftir at verða gjørd í bíðilønini (fráfaringarlønini), sum tingfólk fáa, um tey ikki verða afturvald á ting.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="f3ebw3tznd">Ilt er at siga neyvt, hvørjar fíggjarligu avleiðingarnar av uppskotinum koma at vera samlað fyri landið.</s>
-            <s xml:lang="fo" cert="high" xml:id="d4ofh767yl">Landið kemur at rinda millum 0 og 15 % omaná lønina í eftirønargjaldi til hvørt tingfólk.</s>
-            <s xml:lang="fo" cert="high" xml:id="geq7c25gjv">Samlaði kostnaðurin av hesum veldst um, hvørji tingfólk koma at sita á tingi eftir eitt komandi val, tí eftirlønargjald á 15 % verður bert goldið til teirra, sum ikki hava vunnið sær eftirløn eftir verandi skipan ella eftir gomlu landsstýrismannaskipanini, sum fór úr gildi í septembur 2015.</s>
-            <s xml:lang="fo" cert="high" xml:id="s7cvlrqf3v">Um eitt tingfólk hevur vunnið fullan eftirlønarrætt eftir teimum skipanunum, fær tað 0 % í eftirløn eftir hesari skipanini, og annars lutfalsliga lækkandi eftirløn í mun til starvsaldur og eftirlønarrættindi eftir gomlu skipanini.</s>
-            <s xml:lang="fo" cert="high" xml:id="q4q2k7g55x">Víst verður til Skjal 1: Eftirlønargjaldsprosent, sum vísir samspælið millum árini í landsstýrinum og Løgtinginum við tænastumannalíknandi eftirløn og ta eftirlønarprosent, sum viðkomandi so fær eftir hesi nýggju skipanini.</s>
-            <s xml:lang="fo" cert="high" xml:id="kuq3zbsntn">Ein leyslig meting av hesum kann vera, at lønarútreiðslurnar til eftirlønir koma at hækka uml. 10% at byrja við, tvs. uml. 2 mió. kr. um árið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gjf4fnrblq">Fyrimunurin fyri landið við at fara yvir til eina nýggja eftirlønarskipan er, at upphæddirnar til eftirløn verða goldnar beinanveg á verandi fíggjarlóg fyri einstaka árið, og ikki sum nú, at einki verður goldið beinanveg, men at ein alsamt vaksandi eftirlønarskylda liggur og bíðar, sum kemur til útgjaldingar einaferð í framtíðini.</s>
-            <s xml:lang="fo" cert="high" xml:id="xqipist2cf">Ilt er at siga neyvt, hvussu nógv landið sparir við at leggja um til nýggju eftirlønarskipanina fyri tingfólk.</s>
-            <s xml:lang="fo" cert="high" xml:id="zkqp6jhfn4">Hetta veldst m.a. eisini um, hvussu skjótt hetta verður gjørt, men sambært tølum úr landsroknskapinum, sum eisini eru endurgivin í álitinum frá lønarbólkinum á bls. 6, sæst eftirlønarbyrðan fyri landið við árslok 2012, 2016 og 2019 av ávikavist ting- og landsstýrisfólkum.</s>
-            <s xml:lang="fo" cert="high" xml:id="gci3jqxg5k">Fyri landsstýrisfólkini, sum eru lutfalsliga fá í tali í mun til tingfólk, vaks byrðan eksplosivt úr 106 mió í 2012, til 161,5 mió í 2016, tá eftirlønarskipanin fyri landsstýrisfólk bleiv broytt.</s>
-            <s xml:lang="fo" cert="high" xml:id="etptni77of">Vøksturin frá 2012 til 2016 áljóðandi uml. 55 mió kr. minkaði til uml. 15 mió kr frá 2016 til 2019.</s>
-            <s xml:lang="fo" cert="high" xml:id="qhirjuwcli">Fyri tingfólk, har eingin broyting er gjørd í skipanini, heldur vøksturin fram á sama eksplosiva hátt úr 188 mió kr. í 2012, til 276 mió kr. í 2016 og 363 mió kr. í 2019.</s>
-            <s xml:lang="fo" cert="high" xml:id="t3hizpslry">Tað er tí átrokandi neyðugt at fáa umlagt hesa eftirlønarskipanina, so vøksturin í eftirlønarskyldum landskassans til tingfólk eisini kann tálmast, eins og gjørt er fyri landsstýrisfólk í 2015, tí annars veksur hetta talið støðugt í mong ár afturat.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="oiq3r3ztuk">Í hesum talinum liggur, hvussu nógv tað vildi kostað landinum at keypt seg leyst frá teimum eftirlønarskyldunum, sum landið hevur mótvegis tingfólkum í dag.</s>
-            <s xml:lang="fo" cert="high" xml:id="d5nlzd4u62">Havast skal í huga, at eftirløn yvirhøvur til tingfólk ikki kom í gildi fyrr enn í 1993, at verandi skipan er frá 1998, og tí er kostnaðurin framvegis vaksandi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="nj4vgaszg4">Í fylgiskjali 2 er ein útrokning og frágreiðing frá Poul Christoffur Thomassen, aktuari av muninum millum galdandi tænastumannalíknandi eftirlønarskipan og ta skipan, sum lógaruppskotið mælir til grundað á eitt % gjald av samsýningini.</s>
-            <s xml:lang="fo" cert="high" xml:id="vlepg6n2pe">Sambært hesari frágreiðing kann væntast, at eftirlønarbyrðan hjá landinum av tingfólkaeftirlønum kann koma at vaksa upp til 500 mió kr., um einki verður gjørt fyri at broyta hesa.</s>
-            <s xml:lang="fo" cert="high" xml:id="jagcspdmpy">Hóast eina umlegging nú, verður mett, at tað kemur at taka eini 50 ár, áðrenn hendan eftirlønarbyrðan er burtur.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="y5dsygaboi">Uppskotið hevur tær umsitingarligu avleiðingarnar við sær, at tingfólk frameftir fara at fáa sína løn goldnað afturút heldur enn forút, sum tað er nú.</s>
-            <s xml:lang="fo" cert="high" xml:id="v7aszwvs6h">Hetta fer at gera umsitingina av lønunum lættari fyri umsitingina eins og betur fyri einstaka tingfólkið.</s>
-            <s xml:lang="fo" cert="high" xml:id="kr2nayghjr">Orsøkin er, at um eitt tingfólk sigur sessin frá sær ella fer í farloyvi í longri tíð, so hevur viðkomandi oftast fingið lønina fyri tann mánaðin og møguliga eisini fyri næsta mánaðin útgoldnað, og skal so afturrinda hesa.</s>
-            <s xml:lang="fo" cert="high" xml:id="bod5bdznyx">Tað sama ger seg galdandi fyri t.d. eitt varafólk fyri eitt landsstýrisfólk, sum brádliga fer úr tinginum, tí hin tekur sætið aftur.</s>
-            <s xml:lang="fo" cert="high" xml:id="f7cpjyuczi">Lønirnar eru vanliga farnar gjøgnum lønarskipanina uml. 25. í mánaðinum, og eitt tingfólk, sum fer úr tinginum hendan dagin, hevur tá longu fingið útgoldið løn fyri næsta mánaðin umframt teir 5 dagarnar, sum eftir eru av verandi mánaði.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Yvirlit yvir avleiðingarnar av uppskotinum</head>
-          <table>
-            <row role="label">
-              <cell/>
-              <cell>Fyri landið ella landsmyndugleikar</cell>
-              <cell>Fyri kommunalar myndugleikar</cell>
-              <cell>Fyri pláss ella øki í landinum</cell>
-              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
-              <cell>Fyri vinnuna</cell>
-            </row>
-            <row>
-              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Umsitingarligar avleiðingar</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Umhvørvisligar avleiðingar</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Sosialar avleiðingar</cell>
-              <cell/>
-              <cell/>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell/>
-            </row>
-          </table>
-        </div>
-      </div>
-      <div type="chapter">
-        <head rend="bold">Serligar viðmerkingar</head>
-        <div type="section">
-          <head rend="bold">Til § 1</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="dlkzdnn3ak">Tingfólk fáa í dag eina samsýning, sum er 46.373,69 kr. mánaðarliga, svarandi til 34. lønarflokk hjá tænastumonnunum.</s>
-            <s xml:lang="fo" cert="high" xml:id="iiw3lsreuy">Hendan verður óbroytt.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="os6cjqaaok">Ongar broytingar verða gjørdar í kostnaðarendurgjaldinum samsvarandi tilmælinum frá arbeiðsbólkinum, tó so at koyripengar vera latnir eftir stytstu farleið og á bíligasta hátt.</s>
-            <s xml:lang="fo" cert="high" xml:id="shiife6fkg">Stk. 3 er tó broytt málsliga samsvarandi tilmælinum, tí gamla ásetingin tók hædd fyri, at tingfólk vóru vald í ymsum valdømum.</s>
-            <s xml:lang="fo" cert="high" xml:id="c7h7ulnwek">Eingin innihaldslig broyting er annars í hesum, heldur ikki í skipanini við frádrátti fyri teir dagar, sum tingfólk ikki møtir á fundi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="b4finixzn5">Kostnaðarískoyti á 2.000 kr. um mánaðin verður varðveitt.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="phu7abn5vg">Ongin broyting er gjørd í samsýningunum til næstformenn og nevndarformenn.</s>
-            <s xml:lang="fo" cert="high" xml:id="ssup6at3ae">Hendan er 2.500 kr. um mánaðin, og er óbroytt síðan 1999.</s>
-            <s xml:lang="fo" cert="high" xml:id="pioplptevo">Álitið frá lønarbólkinum sigur einki um hesar samsýningar.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="tae5zlebsv">Ongin broyting er gjørd í sambandi við ferðing uttanlands.</s>
-            <s xml:lang="fo" cert="high" xml:id="z6yonzpt5h">Hildið verður fast í verandi skipan, eins og arbeiðsbólkurin mælir til.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 2</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="l57pnqfbwi">Samsýningar v.m. verða goldnar mánaðarliga afturút frá tí degi, at valið av tingfólki hevur gildi, tvs.</s>
-            <s xml:lang="fo" cert="medium" xml:id="nupkovftp7">frá tí degi, at nýggja tingið er sett, ella tingfólk hevur tikið sætið á tingi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="yjfbz6ayl6">Hetta er ein broyting í mun til verandi lóg, har samsýning verður goldin frammanundan frá 1. í mánaðinum eftir, at Løgtingið hevur góðkent valbrævið hjá viðkomandi løgtingsfólki.</s>
-            <s xml:lang="fo" cert="high" xml:id="c6riaiuntw">Hetta merkir, at fyri eitt tingfólk, sum fer frá verandi lønarskipan til nýggju skipanina, hevur tað fingið løn frammanundan fyri ein ávísan mánað, samstundis sum tað skal hava løn afturút fyri næsta mánaðin.</s>
-            <s xml:lang="fo" cert="high" xml:id="arrknz5pts">Hetta hevur onga avbjóðing við sær fyri nývald tingfólk, men merkir, at eitt tingfólk, sum situr á tingi, tá skiftið hendir, fær løn forút fyri ein ávísan mánað, og fær so ikki løn aftur fyrr enn tveir mánaðir seinni, tá tað fær løn afturút fyri næsta mánaðin.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="t6i4oz3hjt">Skipanin við fráfaringarsamsýning (bíðiløn) er óbroytt, tó soleiðis, at tingfólk fáa úr 3 upp til 6 mánaðir, og ikki úr 4 upp til 6 mðr. eins og í dag.</s>
-            <s xml:lang="fo" cert="high" xml:id="t2in3k2dbv">Hetta merkir, at tingfólk sum ikki verður afturvalt, ella letur vera at stilla uppaftur, fær fráfaringarsamsýning eins og í dag.</s>
-            <s xml:lang="fo" cert="high" xml:id="yshdvj2meh">Samsvarandi tilmælinum frá arbeiðsbólkinum er tó gjørd tann broyting, at fyri tingfólk, sum hava aðra lønarinntøku í fráfaringartíðarskeiðinum, verður hendan mótroknað fult út.</s>
-            <s xml:lang="fo" cert="high" xml:id="wsuha7t4xl">Hetta verður gjørt á tann hátt, at tingfólkið fær boð um, at møgulig mótrokning skal gerast, og at viðkomandi verður biðin um at boða frá møguligari inntøku í fráfaringartíðarskeiðinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="m2jlp76ejf">Ov nógv útgoldin fráfaringarsamsýning verður kravd inn aftur.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ndkgzffoto">Orðingin í stk. 3 er broytt soleiðis, at tað ikki longur fer at bera til at fáa farloyvi úr Løgtinginum við løn fyri at røkja fólkatingsarbeiðið.</s>
-            <s xml:lang="fo" cert="high" xml:id="xaush3qdob">Hendan ásetingin at fara uttanlands í arbeiðsørindum hevur í mong ár einans verið nýtt, tá tingfólk fáa farloyvi í sambandi við ST-aðalfund, so tað harvið gerst møguligt at fáa eitt varafólk inn á ting.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 3</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gyz36hwx7m">Stk. 1 er óbroytt í mun galdandi lóg.</s>
-            <s xml:lang="fo" cert="high" xml:id="du6pjsmu4l">Í stk. 2 eru ásettar nýggjar reglur um fráfaringarsamsýning til varafólk, sum hava sitið á tingi í minsta lagi 6 mánaðir í valskeiðnum, og sum framvegis sita á tingi tveir mánaðir undan løgtingsvali, og sum ikki verða vald á komandi valinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="xo3dwlzow6">Í stk. 3 er nýggj áseting um varafólk, sum hava havt sætið á tingi í minsta lagi eitt ár í einum valskeiði, men sum missa sessin, uttan at val verður útskrivað.</s>
-            <s xml:lang="fo" cert="high" xml:id="bcfjxr7uzv">Hesi fáa fráfaringarsamsýning í ein dag fyri hvørjar átta dagar á tingi, tó í mesta lagi í seks mánaðir.</s>
-            <s xml:lang="fo" cert="high" xml:id="zijohifda4">Við ásetingunum í stk. 2 og 3 kann talan sostatt eisini gerast um fráfringarsamsýningar undan valinum (stk. 2) ella mitt í einum valskeiði (stk. 3) og ikki bara aftaná eitt løgtingsval, eins og nú.</s>
-            <s xml:lang="fo" cert="high" xml:id="hllgjxobdc">Mótroknað verður eisini í fráfaringarsamsýningini fyri varafólk á sama hátt sum fyri vald tingfólk.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 4</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ciusiqjyrd">Hendan greinin er óbroytt í mun til galdandi lóg.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 5</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="wjg5ff6rvt">Løgtingsfólk fara við hesari ásetingini frá tænastumannalíknandi eftirlønarskipanini til eina prosentgjaldsskipan, har Løgtingið rindar eftirlønargjald sambært skjali 1 áljóðandi upp til 15% av samsýningini sambært § 1, stk. 1.</s>
-            <s xml:lang="fo" cert="high" xml:id="h75j36vtsw">Løgtingssamsýningin er ikki fevnd av lógini um tvungið inngjald til eftirløn, sum ásett í løgtingslóg nr. 49 frá 14. mai 2013 um eftirløn við seinni broytingum.</s>
-            <s xml:lang="fo" cert="high" xml:id="athhuy4dmn">Eftirlønin kemur til útgjald, tá løgtingsfólk røkka fólkapensjónsaldri.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 6</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="rccnpfqkor">Hendan lógargreinin javnsetir løgtingsformannin við løgmann í øllum viðurskiftum, tá ræður um løn, eftirløn, ferðing, útbúnað og bústaðarviðurskifti.</s>
-            <s xml:lang="fo" cert="high" xml:id="n2ejhikldg">Orðingin er løgd neyvt uppat orðingini, sum er galdandi fyri løgmann í lógini um samsýning og eftirløn til landsstýrisfólk.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 7</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="yfibudx36o">Hendan lógargreinin javnsetir løgtingsformannin við løgmann, tá ræður um fráfaringarsamsýning.</s>
-            <s xml:lang="fo" cert="high" xml:id="xde2zmb6nr">Orðingin er løgd neyvt uppat orðingini, sum er galdandi fyri løgmann í lógini um samsýning og eftirløn til landsstýrisfólk.</s>
-            <s xml:lang="fo" cert="high" xml:id="xqpukjrrjf">Í verandi skipan varðveitir løgtingsformaðurin samsýning sína í 6 mánaðir aftaná, at hann er farin frá.</s>
-            <s xml:lang="fo" cert="high" xml:id="iwgqzanp2z">Við nýggju skipanini fær hann samsýning sína í 3 ella 6 mánaðir, alt eftir um hann hevur sitið í embætinum upp til eitt ár ella longri enn eitt ár.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 8</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="s3msy75awq">Hetta er ein endurtøka av galdandi lóg, har ásett er, at løgtingsformaðurin sum meginregla ikki eigur at hava onnur størv, meðan viðkomandi røkir formansembætið.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 9</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="zfzl5ryktm">Gildiskomuregla, sum ásetir, at hendan lógin kemur at galda fyri øll tingfólk, sum verða vald eftir komandi val.</s>
-            <s xml:lang="fo" cert="high" xml:id="trgqbxud66">Galdandi lóg verður sett úr gildi, men hevur kortini gildi fyri tingfólk, sum eru fevnd av lógini í dag, og fyri tey rættindi og tær skyldur, sum hesi og undanfarin tingfólk hava eftir galdandi lóg.</s>
-            <s xml:lang="fo" cert="high" xml:id="fbbnp7nnwf">Hetta merkir ítøkiliga m.a., at verandi tingfólk í dag hava rætt til bíðiløn (fráfaringarløn) eftir 1998-lógini aftaná komandi val, eins og at tey varðveita tey eftirlønarrættindi, sum eru innvunnin fram til henda nýggja lógin kemur í gildi.</s>
-            <s xml:lang="fo" cert="high" xml:id="mcltaxcntu">Gamla lógin kemur sostatt eisini at galda fyri útgjald av tænastumannalíknandi eftirlønunum frameftir, og fyri tey rættindi, sum hjúnafelagi og børn kunnu hava aftaná tingmannin/-kvinnuna.</s>
-            <s xml:lang="fo" cert="high" xml:id="ksh2a2qjzx">Uppgerðin av, hvussu og nær tænastumannaeftirlønin eftir gomlu lógini verður útgoldin, verður ikki ávirkað av broytingini av eftirlønini, tá hendan lóg kemur í gildi.</s>
-            <s xml:lang="fo" cert="high" xml:id="m2uxvahme3">Rætturin til møguligt útgjald verður framhaldandi gjørdur upp eftir 95-ára regluni í § 4, stk. 2 í gomlu lógini, og øll árini í landsstýrinum og í Løgtinginum telja við í hesi uppgerð, eisini tey árini viðkomandi situr í landsstýrinum ella Løgtinginum aftaná, at eftirlønarskipanin er broytt.</s>
-            <s xml:lang="fo" cert="high" xml:id="lq5ag32fvz">Hetta kann koma at merkja, at tingfólk, sum hevur rætt til eftirløn eftir báðum skipanunum, kann hava rætt at fáa gomlu tænastumannaeftirlønina útgoldnað frá 60 ára aldri, men eftirlønin eftir nýggju skipanini verður ikki útgoldin, fyrr enn viðkomandi røkkur galdandi fólkapensjónsaldri.</s>
-          </p>
-        </div>
-      </div>
-      <space dim="vertical"/>
-      <div type="signature">
-        <dateline><placeName>Á Løgtingi</placeName>, <date when="2023-03-07">7. mars 2023</date></dateline>
-        <space dim="vertical"/>
-        <signed>
-          <persName>Bjørt Samuelsen</persName>
-        </signed>
-        <signed>
-          <persName>Jóhannis Joensen</persName>
-        </signed>
-        <signed>
-          <persName>Johan Dahl</persName>
-        </signed>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
