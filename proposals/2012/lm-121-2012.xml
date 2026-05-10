@@ -13,7 +13,7 @@
             <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
             <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
           </availability>
-          <date when="2026-05-10" />
+          <date when="2026-05-10"/>
         </publicationStmt>
         <sourceDesc>
           <bibl type="parliamentary_document">
@@ -22,7 +22,7 @@
               <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
               <roleName>landsstýrismaður</roleName>
             </author>
-            <ref target="https://www.logting.fo/documents/30191" />
+            <ref target="https://www.logting.fo/documents/30191"/>
             <note type="source_format">PDF document, machine-readable text</note>
             <date when="2013-02-28">tann 28. februar 2013</date>
           </bibl>
@@ -48,16 +48,16 @@
             <cell rend="meta-cell">HKV</cell>
           </row>
         </table>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <ab>
           <ab rend="bold center">Uppskot</ab>
-          <space dim="vertical" />
+          <space dim="vertical"/>
           <ab rend="bold center">til</ab>
-          <space dim="vertical" />
+          <space dim="vertical"/>
           <ab rend="bold center">løgtingslóg um eftirlønarsamansparing og skatt av eftirløn og rentutryggingum</ab>
           <ab rend="bold center">(Eftirlønarlógin)</ab>
         </ab>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <div type="chapter" n="0">
           <div n="Kapittul 1">
             <head rend="bold center">Kapittul 1</head>
@@ -1085,7 +1085,7 @@
             <head rend="bold underline">Útgjald sum pensjónistur í 2013-krónum</head>
             <table>
               <row role="label">
-                <cell />
+                <cell/>
                 <cell>Býtið útgjald</cell>
                 <cell>Ár 1</cell>
                 <cell>Ár 2-10</cell>
@@ -1103,7 +1103,7 @@
                 <cell>524.814</cell>
                 <cell>52.481</cell>
                 <cell>52.481</cell>
-                <cell />
+                <cell/>
               </row>
               <row>
                 <cell>Kapitalpensjón (15%)</cell>
@@ -1121,8 +1121,8 @@
               </row>
               <row>
                 <cell>Tilsamans pr. mð</cell>
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
                 <cell>8.310</cell>
                 <cell>3.936</cell>
               </row>
@@ -1164,7 +1164,7 @@
             </p>
             <table>
               <row role="label">
-                <cell />
+                <cell/>
                 <cell>Býtið útgjald</cell>
                 <cell>Ár 1</cell>
                 <cell>Ár 2-10</cell>
@@ -1182,14 +1182,14 @@
                 <cell>0%</cell>
                 <cell>0%</cell>
                 <cell>0%</cell>
-                <cell />
+                <cell/>
               </row>
               <row>
                 <cell>Kapitalpensjón (0%)</cell>
                 <cell>0%</cell>
                 <cell>0%</cell>
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
               </row>
               <row>
                 <cell>Tilsamans pr. ár</cell>
@@ -1217,7 +1217,7 @@
             </p>
             <table>
               <row role="label">
-                <cell />
+                <cell/>
                 <cell>Býtið útgjald</cell>
                 <cell>Ár 1</cell>
                 <cell>Ár 2-10</cell>
@@ -1235,14 +1235,14 @@
                 <cell>189%</cell>
                 <cell>19%</cell>
                 <cell>19%</cell>
-                <cell />
+                <cell/>
               </row>
               <row>
                 <cell>Kapitalpensjón (0%)</cell>
                 <cell>71%</cell>
                 <cell>71%</cell>
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
               </row>
               <row>
                 <cell>Tilsamans pr. ár</cell>
@@ -1332,7 +1332,7 @@
             </p>
             <table>
               <row role="label">
-                <cell />
+                <cell/>
                 <cell>Fyri landið/ landsmyndug- leikar</cell>
                 <cell>Fyri kommunalar myndugleikar</cell>
                 <cell>Fyri pláss/øki í landinum</cell>
@@ -1373,11 +1373,11 @@
               </row>
               <row>
                 <cell>Sosialar avleiðingar</cell>
-                <cell />
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
+                <cell/>
                 <cell>Ja</cell>
-                <cell />
+                <cell/>
               </row>
             </table>
           </div>
@@ -2400,19 +2400,170 @@
             <item><label rend="bold">Skjal 27:</label> Yvirlit yvir broytingar í mun til uppskotið, ið fór til hoyringar 18. januar 2013</item>
           </list>
         </div>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <div type="signature">
           <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2013-02-28">tann 28. februar 2013</date></dateline>
-          <space dim="vertical" />
+          <space dim="vertical"/>
           <signed rend="center">
             <persName>
               <hi rend="bold">Jørgen Niclasen</hi>
-              <lb />
+              <lb/>
               <roleName>landsstýrismaður</roleName>
             </persName>
           </signed>
           <signed rend="right"> / <persName>Bjarni Askham Bjarnason</persName></signed>
         </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Skjal 24: Tryggingareftirlitið</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-10"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Tryggingareftirlitið</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/30215"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2013-02-28">tann 28. februar 2013</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <ab>
+          <ab>Fíggjarmálaráðið</ab>
+          <ab>Postboks 2039</ab>
+          <ab>165 Argir</ab>
+          <ab>Føroyar</ab>
+        </ab>
+        <dateline rend="bold">Tórshavn <date when="2013-02-18">18. februar 2013</date></dateline>
+        <div>
+          <head rend="bold">Hoyringssvar til uppskot til løgtingslóg um eftirlønarsamansparing og skatt av eftirløn (Eftirlønarlógin)</head>
+          <p>
+            <s xml:id="otrkf4xg5x">Tryggingareftirlitið hevur tann 18. januar 2013 fingið sendandi til hoyringar: <hi rend="italic">Uppskot til løgtingslóg um eftirlønarsamansparing og skatt av eftirløn (Eftirlønarlógin)</hi>.</s>
+          </p>
+          <p>
+            <seg>Tryggingareftirlitið hevur hesar viðmerkingar til uppskotið:</seg>
+          </p>
+          <div>
+            <head rend="underline">Til § 5, stk. 1</head>
+            <p>
+              <s xml:id="l523bff4t4">Sambært § 5, stk. 1, góðkennir TAKS eftirlønarveitara, ið er skrásettur og hevur heimstað í Føroyum.</s>
+              <s xml:id="oz2vcwivzq">Sambært serligu viðmerkingini til hesa grein merkir hetta, at feløg sum til dømis eru dóttirfeløg av úlendskum veitara kunnu góðkennast.</s>
+            </p>
+            <p>
+              <s xml:id="wkcyxlts5f">Umframt hetta krav, skal eftirlønarsamansparingin stovnast í lívstryggingarfelagi, eftirlønargrunni ella peningastovni, sbr. § 5, stk. 2.</s>
+            </p>
+            <p>
+              <s xml:id="nczt6gex7c">Í galdandi tryggingarlóg, løgtingslóg nr. 55 frá 9. juni 2008 um tryggingarvirksemi, sum seinast broytt við løgtingslóg nr. 137 frá 20. desember 2012, verður skilt ímillum ES-lond, ella lond, sum ES hevur avtalu við, og lond uttanfyri ES.</s>
+              <s xml:id="ffpvzbdnlx">Harumframt er § 9, stk. 4 í gomlu tryggingarlógini, <hi rend="italic">løgtingslóg nr. 13 frá 3. februar 1996 um tryggingarvirksemi</hi>, framvegis í gildi fyri lívstryggingarvirksemi, soleiðis at tryggingarbærur váði í Føroyum, knýttur at føroyskum áhugamálum, herundir lívstryggingar, einans kunnu verða teknaður í tryggingarfeløgum, hvørs stovnarar kunnu skjalprógva, at parta- ella ábyrgdarpeningurin er føroyskur ella íslendskur, sbr. § 218, stk. 3 í galdandi tryggingarlóg.</s>
+            </p>
+            <p>
+              <s xml:id="tijz6gptlw">Fyri at tryggja, at reglurnar í § 5, stk. 1 og 2 ikki koma í stríð við hvørja aðru, verður mælt til, at strika orðingina í serligu viðmerkingini til § 5, stk. 1: “<hi rend="italic">Hetta merkir, at feløg sum til dømis eru dótturfeløg av útlendskum veitara kunnu góðkennast.</hi>”, soleiðis at tað vera galdandi reglur fyri lívstryggingarfeløg, eftirlønargrunnar og peningastovnar umframt reglurnar um skráseting av feløgum, sum gera av, hvussu § 5, stk. 1 og 2 skulu skiljast.</s>
+            </p>
+            <p>
+              <s xml:id="navdhp3n4d">Sambært § 218, stk. 3 í galdandi tryggingarlóg hevur Løgtingið samtykt, at § 9, stk. 4 í gomlu tryggingarlógini framhaldandi verður galdandi fyri lívstryggingarvirksemi og tvørgangandi eftirlønargrunnar, til landsstýrismaðurin hevur sett í gildi ta kunngerð, sum er nevnd í § 217, stk. 2, 2. pkt. Tryggingareftirlitið hevur ikki viðgjørt, hvørja ávirkan henda áseting kann fáa á møguleikan fyri at fáa felags tryggingarmarknað á lívstryggingarøkinum, sbr. viðmerkingarnar til: “Til avleiðingarnar av uppskotinum”.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Til § 5, stk. 2</head>
+            <p>
+              <s xml:id="xraqubc4r7">Mælt verður til at strika seinna partin av hesi áseting, t.e.: “ið váttar at fylgja ásetingum sambært hesi løgtingslóg.”</s>
+            </p>
+            <p>
+              <s xml:id="c6c5t3t7v6">Nevndu feløg hava skyldu til at fylgja lógarásettum reglum, sum regulera virksemi teirra.</s>
+              <s xml:id="xjzrwa4p46">Er tað so, at TAKS ynskir at nágreina hetta krav, kann tað t.d. gerast við at seta treytir til felagið í sambandi við, at felagið verður góðkent sum eftirlønarveitari, sbrt. stk. 1.</s>
+            </p>
+            <pb n="2"/>
+            <p>
+              <s xml:id="pyvj6r4cmw">Serligu viðmerkingarnar tykjast ógreiðar, av tí at hesar í stóran mun greiða frá galdandi reglum og mannagongdum á økjum, ið longu eru reguleraði í aðrari lóggávu.</s>
+              <s xml:id="vhxv7wp76b">Mælt verður til at stytta lýsingina av lívstryggingarfeløgum, soleiðis at hendan bara fevnir um tað, sum verður mett neyðugt fyri at greiða frá innihaldinum og ætlanini við greinini, t.d. samsvarandi lýsingini av peningastovnum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Til § 8, stk. 3</head>
+            <p>
+              <s xml:id="il57nkpclb">Sambært § 8, stk. 3 kann landsstýrismaðurin í kunngerð áseta íløgureglur fyri eftirlønargrunnar og tryggingar undir lívstryggingarflokki III og aðrar tryggingar sambært hesi lóg.</s>
+            </p>
+            <p>
+              <s xml:id="gmxf3uefze">Mælt verður til at strika orðingina “og aðrar tryggingar” vísandi til, at í kapittul 11 í tryggingarlógini um peningaíløgur og gjaldføri eru galdandi íløgureglur fyri aðrar enn tær í lívstryggingarflokki III nevndu tryggingar.</s>
+            </p>
+            <p>
+              <s xml:id="dh3z4vmszg">Ásetingarnar í § 95, stk. 2 og §§ 99-101 í tryggingarlógini eru ikki galdandi fyri tryggingarligar burturleggingar í tryggingarflokki III, har tryggingarfelagið ella eftirlønargrunnurin ikki hava átikið sær nakran íløguváða, sbrt. § 102, stk. 1 í tryggingarlógini.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Til kapittul 4 (§§ 9-11)</head>
+            <p>
+              <s xml:id="dxohliqaon">Tað tykist ikki heilt greitt í lógaruppskotinum, hvussu skipanin við lívslangari veiting skal virka.</s>
+              <s xml:id="eschoce4ko">Sambært § 9, stk. 2 skal í minsta lagi 45% av eftirlønarsamansparingini gjaldast út sum lívslong veiting (lívrenta).</s>
+            </p>
+            <p>
+              <s xml:id="k326wbywfo">Sambært § 5, stk. 2 skal eftirlønarsamansparingin stovnast í ávikavist lívstryggingarfelagi, eftirlønargrunni ella peningastovni.</s>
+              <s xml:id="qax55onh32">Sambært § 9, stk. 2 skal eftirlønarsamansparari umvegis eftirlønarveitara boða TAKS frá útgjaldi.</s>
+              <s xml:id="wgxfqaon3u">Tað tykist ikki vera greitt í lógaruppskotinum hvussu mannagongdin annars er í sambandi við útgjald, um eftirlønarsamanspararin hevur valt at nýta ein peningastovn til eftirlønarsamansparing, t.d. hvat hendir við tí partinum av útgjaldinum, sum skal nýtast til lívslanga veiting?</s>
+            </p>
+            <p>
+              <s xml:id="i2fzhntqy4">Mælt verður til, at greitt verður nærri frá undir <hi rend="italic">Kap. 2. Avleiðingar av uppskotinum</hi>, hvørjar búskaparligar avleiðingar kunnu væntast av einari tílíkari skipan við lívrentu, har eftirlønarsamansparing til lívrentu er ymisk frá teirri, sum higartil hevur verið galdandi fyri tryggingarfeløg, ið hava havt loyvi at bjóða produktir við garanteraðari veiting.</s>
+              <s xml:id="z6ctewvsuy">Eitt nú kundi verið greitt frá, á hvønn hátt lívrentan í uppskotinum er øðrvísi enn t.d. lutaeftirløn.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Til § 11, stk. 2</head>
+            <p>
+              <s xml:id="kdwyndwdfe">Í viðmerkingunum stendur at talan kann verða um bæði útgjald og flyting til nærmasta avvarðandi ella njótunartilskilaða.</s>
+              <s xml:id="u33fq47rus">Lógartekstinum nevnir bara “flyting” av eftirlønarsamansparing.</s>
+            </p>
+            <p>
+              <s xml:id="tmzt2hsyf7">Tað eigur at verða samsvar millum lógartekstin og viðmerkingarnar her.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Til avleiðingar av uppskotinum</head>
+            <p>
+              <s xml:id="xcvcjdwzc6">Í almennu viðmerkingunum <hi rend="italic">Kap. 2. Avleiðingar av uppskotinum</hi> verður upplýst, at mett verður, at lógaruppskotið ongar beinleiðis avleiðingar hevur fyri altjóða avtalur og reglur.</s>
+            </p>
+            <p>
+              <s xml:id="ernju7qzdk">Sum fylgja av Hoyvíkssáttmálanum varð sínámillum avtala gjørd millum Ísland og Føroyar 1. september 2008 um felags tryggingarmarknað.</s>
+              <s xml:id="fgy2xskwhw">Avtalan fevnir í fyrsta umfari bara um skaðatryggingarvirksemi, og ikki um lívstryggingarvirksemi orsakað av avmarkingunum í § 217, stk. 2, og § 218, stk. 3, í tryggingarlógini.</s>
+            </p>
+            <p>
+              <s xml:id="rfnkbeewxw">Sambært avtaluni millum Ísland og Føroyar skal Tryggingareftirlitið skrivliga boða íslendska fíggjareftirlitinum frá, tá ið landsstýrismaðurin í vinnumálum hevur sett í gildi ta kunngerð, sum er nevnd í § 217, stk. 2, soleiðis at felags tryggingarmarknaðurin millum Ísland og Føroyar eisini kemur at fevna <pb n="3"/>um lívstryggingarvirksemi.</s>
+              <s xml:id="el3337y43n">Landsstýrismaðurin hevur ikki sett nevndu kunngerðina í gildi, av tí skattligu viðurskiftini á lívstryggingarøkinum ikki hava gjørt hetta møguligt.</s>
+            </p>
+            <p>
+              <s xml:id="jlbonqzed3">Sínámillum avtala er eisini gjørd millum Føroyar og Danmark um felags tryggingarmarknað, sum í fyrstu atløgu bara fevnir um skaðatryggingarvirksemi, sbrt. verandi avmarkingum í tryggingarlógini.</s>
+            </p>
+            <p>
+              <s xml:id="w53k7njoau">Mælt verður til, at tað í viðmerkingunum verður greitt nærri frá spurninginum um møguligar avleiðingar í mun til altjóða avtalur og reglur, undir hesum við Ísland og Danmark.</s>
+            </p>
+          </div>
+        </div>
+        <space dim="vertical"/>
+        <ab>
+          <ab>Vinarliga</ab>
+          <lb/>
+          <ab>Jógvan Thomsen</ab>
+          <ab>Stjóri</ab>
+        </ab>
       </body>
     </text>
   </TEI>
