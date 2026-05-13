@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Aktivering av forsorgarlógini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998027Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Finnur Helmsdal</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4470"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-29">29.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998027A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helena Dam á Neystabø</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4471"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998027Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 29. januar, boðaði formaðurin frá omanfyrinevnda fyrispurningi frá Finni Helmsdal, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <p>
+              <seg>Spurningar mínir til landsstýrismannin eru hesir:</seg>
+            </p>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s xml:id="gabiv7dtcz">Er tað rætt, sum ein frættir, at aktiveringsætlanirnar verða av ongum 1999, tí Almanna- og heilsumálastýrið hevur gloymt at umkontera játtanir, og fær slík gloymska nakrar avleiðingar.</s>
+                <s ana="#interrogative" xml:id="jjf65uoaj6">Ella er orsøkin onkur onnur?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="gvpq6dv4p7">Hevur landsstýrið og Almanna- og heilsumálastýrið nakrar hugsanir um tað neyðuga ella óneyðuga í at aktivera forsorgarlógina?</s>
+                <s xml:id="jtdogcvp4v">Valdar tann hugsanin í Tinganesi, at tað er óneyðugt at hugsa um aktivering, tí meira peningur aftur er millum fólk.</s>
+                <s ana="#interrogative" xml:id="ijwwsgzcum">Verður ikki hugsað um at arbeiða fyribyrgjandi og fáa royndir á økinum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="m3nxovgeuw">Hevur landsstýrismaðurin ítøkiligar ætlanir um at gera nakað fyri, at aktiveringin kann fara ígongd sum skjótast?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s xml:id="uu6vhzwmfk">Hvat skal fólkið, sum Almannastovan setti sum aktiveringsleiðara, nú gera.</s>
+                <s ana="#interrogative" xml:id="purjwdh4vo">Skal tað bara verða skrásett sum arbeiðsleyst?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="bsqthgykcf">Í 1992 vórðu fyrstu stigini tikin til at skipa fyri tiltøkum, ið skuldu aktivera arbeiðsleysar ungdómar kring landið.</s>
+                <s xml:id="rzxjd2dtpn">Síðan 1993 hevur verið skipað fyri arbeiðsfremjandi tiltøkum kring landið, og hava kommunurnar umsitið hesi tiltøk og tann pening, løgtingið hevur játtað til endamálið.</s>
+                <s xml:id="cmo6jfkjh2">Alt undir felagsheitinum: Ung í Arbeiði.</s>
+                <s xml:id="llg7iyai2t">Virksemið hevur verið størst í teimum størstu kommununum, og hava tær eisini borið rættiliga fitt av útreiðslum sjálvar í sambandi við nevndu tiltøk.</s>
+              </p>
+              <p>
+                <s xml:id="z5ox7hdpb2">Skipanin: Ung í Arbeiðið bleiv tó endurskoðað í 1995 av táverandi landsstýrismanni í almannamálum.</s>
+                <s xml:id="l4op67gvha">Hetta tí landsstýrið ásannaði, at skipanin ikki tænti upprunaliga endamálinum í verki, og metti, at ávísar broytingar vóru neyðugar.</s>
+                <seg>Landsstýrið metti skipanina óhepna, m.a. tí:</seg>
+              </p>
+              <list>
+                <item>
+                  <seg>játtanin virkaði sum ein eykajáttan til viðlíkahald hjá fleiri kommunum, heldur enn sum aktivering av arbeiðsleysum</seg>
+                </item>
+                <item>
+                  <seg>tað vóru mangan tey mest initiativríku, sum játtanin bleiv nýtt til, og ikki til teirra, sum játtanin veruliga var ætlað til.</seg>
+                </item>
+              </list>
+              <p>
+                <s xml:id="jh3ruan5vc">Hóast allar kommunur ikki vóru eins fegnar um tað, so gjørdi landsstýrið av, at kommunurnar nú skuldu søkja um pening til lýstar verkætlanir, hvørs endamál skuldi vera at útvega arbeiðsleysum ungum arbeiði.</s>
+                <s xml:id="qwshsyunng">Hetta fyri at hava betri eftirlit við, hvat peningurin bleiv nýttur til.</s>
+                <s xml:id="tmxifde3r4">Umframt setti landsstýrið ein arbeiðsbólk at koma við uppskoti um aktivering av forsorgarlógini.</s>
+                <seg>Arbeiðssetningur bólksins var:</seg>
+              </p>
+              <list>
+                <item>
+                  <seg>at tilevna uppskot til eina kunngerð til gr. 10 í forsorgarlógini</seg>
+                </item>
+                <item>
+                  <seg>at tilevna uppskot um eina aktiveringsskipan, og hvussu hendan kundi umsitast</seg>
+                </item>
+              </list>
+              <p>
+                <s xml:id="cvtrew7tri">Bólkurin fór til verka 1. september 1995, og úrslitið av arbeiði hansara kunnu áhugað lesa um í álitinum, sum varð handað landsstýrismanninum 13. februar 1996.</s>
+              </p>
+              <p>
+                <s xml:id="maq2kww5le">Í tráð við meginreglurnar í nevnda áliti fór Almannastovan undir at seta í verk aktivering av gr. 10 í forsorgarlógini eftir ávísari skipan.</s>
+                <s xml:id="dgh4sde3i6">Aktiveringsleiðari varð settur 1. februar 1998.</s>
+                <s xml:id="rtn65pdfsd">Og skuldi hesin nýta restina av árinum til at fyrireika aktiveringina, sum skuldi byrja av álvara 1. januar 1999 sum ein avloysari fyri Ung í Arbeiði ella Tiltøk fyri Ung, sum skipanin verður rópt í dag.</s>
+                <s xml:id="j67lwuphou">Málið var í fyrstu syftu at aktivera 600 fólk.</s>
+                <s xml:id="eomasgddql">Avtalað varð gjørd við húsaeigara í høvuðsstaðnum um leigumál og innrætting.</s>
+                <s xml:id="l77k6cskgs">Og aktiveringsleiðarin skuldi fáa tvey fólk afturat sær til hesa krevjandi uppgávu</s>
+              </p>
+              <p>
+                <s xml:id="vfqbjky3js">Men nú løgtingið hevur atkvøtt fyri fíggjarlógini 1999 kemur fyri ein dag, at Almanna- og heilsumálastýrið "hevur gloymt" at gera fyrireikandi arbeiði til aktiveringina, og at tað tískil ikki eru pengar tøkir til at seta hesa í verk.</s>
+                <s xml:id="gzzavfxvm2">Skipanin Tiltøk fyri Ung heldur tí fram, meðan aktiveringsætlanirnar eru lagdar til viks, húsaeigarin sleptur upp á fjall, aktiveringsleiðarin er arbeiðsleysur.</s>
+                <s xml:id="zs3xembweq">Og alt fyrireikandi arbeiði tykist vera gjørt til fánýtis.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="yspc2snyzq">Á tingfundi 2. februar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998027A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 3. mars 1999 svaraði Helena Dam á Neystabø, landsstýrismaður, fyrispurninginum soleiðis</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold">Svar</head>
+            <list>
+              <label>1.</label>
+              <item>
+                <p>
+                  <s xml:id="hsgcgouory">Tað er rætt, at ein aktiveringsleiðari varð settur 1. februar 1998, og at hesin skuldi arbeiða restina av árinum við at fyrireika eina aktivering, sum skuldi byrja av álvara 1. januar 1999.</s>
+                </p>
+                <p>
+                  <s xml:id="blt6ddexn4">Upplýsast kann, at yvir 1000 fólk fáa forsorgarhjálp við teirri grundgeving, at tey eru arbeiðsleys.</s>
+                </p>
+                <p>
+                  <s xml:id="bpcjhjz4la">Tá ið spyrjarin sigur seg hava frætt, at orsøkin til, at ætlaða aktiveringsætlanin ikki bleiv av nøkrum, er, at Almanna- og heilsumálastýrið hevur gloymt at umkontera, so skal upplýsast, at hesi leysatíðindi, sum eru komin spyrjaranum fyri oyra, ikki eru eftirfarandi.</s>
+                  <s xml:id="oblq2pshcj">Orsøkin er ein onnur, og hetta átti spyrjarin, sum inntil fyri stuttum hevði tætt tilknýti til Almannastovuna, at havt betri møguleikar at innheinta sær nærri upplýsingar um, enn bert at bera fram leysatíðindi.</s>
+                </p>
+                <p>
+                  <s xml:id="s6rhksfovs">Tá ið fyrsta fíggjarlógaruppskotið varð latið Fíggjarmálastýrinum frá Almanna- og heilsumálastýrinum ultimo august 1998, var aktiveringsætlanin ikki endaliga liðug, og tískil vórðu avsettar 5 mill. kr. til "Tiltøk fyri ung", ið pláss var til innan tær rammur, sum avsettar vóru.</s>
+                </p>
+                <p>
+                  <s xml:id="wpmo3mdvb6">Um miðjan september var aktiveringsætlanin liðug.</s>
+                  <s xml:id="yulawxvwfh">Eitt broytingaruppskot til fíggjarlógina varð gjørt um miðjan november, har vórðu m.a. 2 mill. kr. fluttar frá "Tiltøk fyri ung" til umsitingina hjá Almannastovuni, tí mett varð, at aktiveringsætlanin samlað kom at kosta hetta.</s>
+                </p>
+                <p>
+                  <s xml:id="bu77y3ilrc">Grundgevingin, ið nýtt var fyri at flyta av játtanini "Tiltøk fyri ung", er júst tann sama, sum spyrjarin nevnir í sínum viðmerkingum.</s>
+                  <s xml:id="ltr7lvznzx">Verandi skipan stuðlar í stóran mun teimum mest initiativríku og ikki teimum, sum hava størsta tørvin fyri neyðini.</s>
+                  <s xml:id="yqnorwuiv7">Tað var tí ætlanin at fáa eina serliga skipan, har byggjast skuldi upp neyvt samstarv millum almannaverkið og arbeiðsgevaran fyri at hjálpa teimum ungu, sum ringast eru fyri.</s>
+                  <s xml:id="x6d7itpwri">Annars skal verða mint á, at skipanin við "Tiltøk fyri ung" varð stovnað í eini tíð, har støðan á arbeiðsmarknaðinum var munandi øðrvísi, enn støðan er í dag.</s>
+                </p>
+                <p>
+                  <s xml:id="tvfzp33poz">Hóast ætlanin var at nýta ein part av peninginum, sum var avsettur til "Tiltøk fyri ung", til at seta aktiveringsætlanina í verk, hevði skipanin "Ung í arbeiði" ikki dottið burtur.</s>
+                  <s xml:id="yxdcoau3bj">Peningurin hevði framvegis verið tøkur til hesa skipan, og kundu teir til dømis við fyrimuni verið nýttir til tey ungu undir 18 ár, sum ikki hava møguleika fyri at fáa eitt arbeiðs- ella aktiveringstilboð gjøgnum forsorgarlógina.</s>
+                  <s xml:id="n3ks3achun">Og skipanin "Ung í arbeiði" hevði framvegis verið ábyrgdarøkið hjá aktiveringsleiðaranum, sum er settur av Almannastovuni.</s>
+                </p>
+                <p>
+                  <s xml:id="hvs4outsnp">Uppskotinum frá Almanna- og heilsumálastýrinum viðvíkjandi aktiveringsætlanini hevur fíggjarnevndin ikki tikið undir við.</s>
+                  <s xml:id="nmdtcuzkqo">Fíggjarnevndin hevur ikki grundgivið fyri landsstýrismanninum, hví hon hevur tikið hesa støðu.</s>
+                </p>
+                <p>
+                  <s xml:id="vgg66p4n5r">Um miðjan desember varð gjørd ein nýggj roynd, men tað eydnaðist ikki landsstýrismanninum í almanna- og heilsumálum at fáa neyðuga undirtøku í fíggjarnevndini til at gera nýtt broytingaruppskot, tí fall henda royndin burtur eisini.</s>
+                </p>
+              </item>
+              <label>2.</label>
+              <item>
+                <p>
+                  <s xml:id="kxiupftydt">Aktiveringsætlanin, sum arbeitt hevur verið við á Almannastovuni, hevur fulla undirtøku frá Almanna- og heilsumálastýrinum.</s>
+                  <s xml:id="j7yaif4mrc">Ætlanin var, at 4 sosialráðgevarar tilsamans skuldu brúkast í hesi aktiveringsætlan, og ætlanin var, at hesir skuldu lønast av verandi útreiðslum, ið brúktar vóru til aktivering.</s>
+                </p>
+                <p>
+                  <s xml:id="cbk6mlknkn">Í tí sambandinum hevur Almanna- og heilsumálastýrið gjørt sær greitt, at um so er, at nøkur vón skal vera fyri at fáa teir yvir 1000 forsorgarklientarnar vegna arbeiðsloysi at minka, so er neyðugt at seta pening av til at umsita hetta økið.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="hghhk33u7w">Tá ið tingið ikki ynskir at seta neyðugan pening av til at gera aktivering, so ber illa til hjá landssstýrismanninum at gera nakað.</s>
+                  <s xml:id="hvpvmauws3">Tað, ið sett er av á rakstrarkontoini hjá Almannastovuni, røkkur neyvan til at áleggja Almannastovuni nýggjar uppgávur.</s>
+                  <s xml:id="ypzalxoolc">Men fer landsstýrismaðurin framhaldandi at royna at útvega neyðugar møguleikar.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="r3wugdogbl">Fólkið, sum Almannastovan setti sum aktiveringsleiðara, verður lønt undir kontoini "Tiltøk fyri ung".</s>
+                  <s xml:id="hfwpi5fh6a">Hesin persónur skal framhaldandi umsita hesa konto.</s>
+                </p>
+              </item>
+            </list>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Privatisering av Føroya Banka</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998066Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jóannes Eidesgaard</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4542"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-19">19.03.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998066A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Karsten Hansen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4543"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998066Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999,19. mars, boðaði formaðurin frá soljóðandi fyrispurningi frá Jóannes Eidesgaard, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="kx3ksxgfaw">Eru politisk boð givin frá Føroya Lansstýri til Fíggingargrunnin frá 1992 um eina partvísa privatisering av Føroya Banka, nú nevndin á komandi ársaðalfundi skal ogna sær 10 pst. av partapeninginum?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="xiqofzheia">Hvørjar víðari ætlanir hevur nevnd bankans við teimum 10 pst. av partapeninginum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="whrhiso7ws">Hvørja støðu hevur landsstýrismaðurin og samgongan til eina framhaldandi privatisering av bankanum, nú hetta fyrsta stigið verður tikið?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="kt2sbadut3">Á tingfundi 25. mars 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998066A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

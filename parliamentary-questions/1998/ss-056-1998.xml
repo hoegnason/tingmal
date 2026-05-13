@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bygging av nýggjum studentaskúla</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998056Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jákup Sverri Kass</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4530"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-18">18.03.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998056A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Signar á Brúnni</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4531"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998056Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 18. mars, boðaði formaðurin frá soljóðandi fyrispurningi frá Jákupi Sverra Kass, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="n4htorthao">Nær og hví er tað gjørt av, at tað ikki skal byggjast studentaskúli, men ein skúlamiðdepil, har studentaskúlin bert er ein partur av einum samlaðum skúlamiðdepli?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="apbgljdj4k">Hví fylgir landstýrismaðurin ikki kunngerðini um lærararáð á Studentaskúlanum og HF-skeiðinum og gevur lærararáðnum í Hoydølum eitt umboð í bygginevndina til bygging av nýggjum studentaskúla?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="oj2baqadjs">Hvørjar ætlanir hevur landstýrismaðurin við bygningunum, sum Føroya Studentaskúli og HF-skeið dagliga húsast í uppi í Hoydølum?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="httceccur5">Hví vil landstýrismaðurin ikki heldur umvæla og byggja uppí verandi studentaskúlan uppi í Hoydølum og lata skúlarnar verða atskildar, soleiðis sum tann fyrsta arkitektakappingin um bygging av nýggjum studentaskúla gekk út uppá?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="tnr2kerzse">Kann landstýrismaðurin vísa á, at betri úrslit standast av at leggja skúlar saman, ella er tað ein máti velja ta bíligaru loysnina framum ta skynsamu loysnina?</s>
+              </item>
+              <label>6.</label>
+              <item>
+                <s ana="#interrogative" xml:id="dc3tgdobkk">Kann landstýrismaðurin vísa á, at undirtøka er í landsstýrinum og í samgonguni fyri at flyta studentaskúlan út í Marknagil?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="njb52lz6kg">Á tingfundi 19. mars 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998056A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nýtt Suðuroyarskip</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998026Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Hergeir Nielsen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4458"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-22">22.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998026A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Finnboga Arge</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4459"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998026Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 22. januar, boðaði formaðurin frá omanfyrinevnda fyrispurningi frá Hergeir Nielsen, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="dqmkgekkb5">Landsstýrismaðurin verður spurdur um, hvørjar hugsanir hann hevur gjørt sær um gongdina í teirri politisku viðgerðini av komandi Suðuroyarskipinum?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="w5prwdt6jl">Verður málið lagt til tingsins viðgerð?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="qclfiwq5fh">Verða lokal áhugamál, ferða- og farmavinna, ítróttar-, frítíðar- og mentanaráhugamál og onnur lokal áhugamál tikin upp á ráð?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ywipz74vbu">Verður vinnulívið, fiski-, íðnaðar- o.o. vinnuáhugamál tikin upp á ráð?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="yisttvvwct">Verður ein komandi oljuvinna, havnaviðurskifti, herundir ferjulega, tikin við í metingunum?</s>
+              </item>
+              <label>6.</label>
+              <item>
+                <s ana="#interrogative" xml:id="vva5irf6te">Verður Meginfelag teirra brekaðu og heilsutænastan annars tikin upp á ráð?</s>
+              </item>
+              <label>7.</label>
+              <item>
+                <s ana="#interrogative" xml:id="a2dafhegm6">Kann landsstýrismaðurin tryggja løgtinginum, at tað ikki verður farið undir fyrireikingar til projektering og útbjóðing, fyrr enn frammanfyri nevndu politisku-, lokalu-, mentanarligu- og heilsuáhugamálini eru tikin upp á ráð?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="rgwhcngjmo">Samgongan hevur avtalað at dagføra sambandið um Suðuroyarfjørð og hevur í hesum sambandi m.a. sett á løgujáttanina, 6.38.2.02 Strandfaraskip Landsins, undir útreiðslum, bygging og løguframleiðslu, 1 mió. kr. í játtan fyri 1999, 60 mió.kr. í ætlan fyri 2000, 60 mió.kr. fyri 2001 og 70 mió.kr. fyri 2002.</s>
+              </p>
+              <p>
+                <s xml:id="fzjwjmpdsv">Talan er um størstu almennu ætlan av sínum slagi, og sjálvsagt er ein røð av viðurskiftum, ið havast skal í huga, tá ið avgerðir skulu takast íløguni viðvíkjandi.</s>
+              </p>
+              <p>
+                <s xml:id="wii4bhnsi7">Kravspesifikatión til skipið frá tí, tað er bygt, og næstu tríati árini, skal gerast, og er tá neyðugt at lýsa verandi flutningsviðurskifti og greina tey sundur við atliti at fólka- og farmaflutningi.</s>
+              </p>
+              <p>
+                <s xml:id="q5rr5lpsjy">Tænastustøðið skal lýsast við atliti at oyggja-, bygda- og farmaleiðum.</s>
+              </p>
+              <p>
+                <s xml:id="pv5q444gqn">Smyrli viðvíkjandi skulu teknisku spesifikatiónirnar, galdandi trygdarkrøv, rakstur - íroknað umvælingar og viðlíkahald - lýsast.</s>
+              </p>
+              <p>
+                <s xml:id="jjdx5hmvwi">Verandi atløgumøguleikar, bryggja og landgongd, skulu lýsast, og metast skal um nyttustigið, skipastødd, slag og ferð.</s>
+              </p>
+              <p>
+                <s xml:id="ho53pkwxzf">Einum nýggjum Suðuroyarskipi viðvíkjandi skulu avgerðir takast viðvíkjandi tekniskum kravfestingum, byggisniði, høvuðsinnrætting og rakstri.</s>
+              </p>
+              <p>
+                <s xml:id="cwgo6zdsj7">Eisini skulu framtíðar trygdarkrøv, skipaeftirlit og klassi, tænastustigið fyri røsk og brekað, útbúgvingar- og mentamál, oyggja-, bygda- og farmaleiðir havast í huga.</s>
+              </p>
+              <p>
+                <s xml:id="dwu7qhets2">Eftir at verandi og komandi flutningskrøv eru lýst so neyvt sum til ber, kemur sjálv verksetanarætlanin, ið fevnir um byggi- og kostnaðarætlan, játtan á fíggjarlógini, projektering og útbjóðing.</s>
+              </p>
+              <p>
+                <s xml:id="q7rjdltbi7">Frammanfyri nevndu skilgreiningar eru sjálvandi neyðugar fyri teirri politisku viðgerðini.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="q53rzw4gmo">Á tingfundi tann 26. januar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998026A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

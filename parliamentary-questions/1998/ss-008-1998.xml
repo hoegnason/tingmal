@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kunningardiskurin á flogvøllinum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998008Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Heðin Mortensen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4426"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-11-04">04.11.1998</date>
+          </bibl>
+          <bibl xml:id="SS1998008A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Finnbogi Arge</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4427"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-12-03">3. december 1998</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998008Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1998, 4. november, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Heðin Mortensen, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ixntscg2kr">Hvussu ber tað til, at Vinnumálastýrið kann góðtaka, at Kunningardiskurin á Flogvøllinum verður lagdur til Strandferðsluna, og síðani privatiseraður?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="f7kzqbpg6d">Hvat væntar Vinnumálastýrið at fáa burturúr at broyta Kunningardiskin?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="z2qzsvrlsy">Er tað ikki ein almenn uppgáva at hava ein vælvirkandi Kunningardisk á Flogvøllinum?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="w2lpo5757a">Tað kom eitt sindur dátt við, tá tað frættist at Kunningardiskurin á Flogvøllinum skal broytast.</s>
+                <s xml:id="wkz5kjvute">Hann hevur verið har í fleiri ár, og hann hevur virkað framúr væl.</s>
+                <s xml:id="paup62qtlb">Kanska nakað av tí sum hevur virkað allarbest, tá talan er um ferðavinnu í Føroyum, og upplýsingar annars.</s>
+              </p>
+              <p>
+                <s xml:id="ztyet7rf3i">Vit vita øll, at yvir 100.000 fólk koma ella fara um flogvøllin í Vágum um árið.</s>
+                <s xml:id="kd6neb2exu">Tí er tað ein sjálvfylgja, at ein Kunningardiskur skal vera teimum ferðandi til hjálpar.</s>
+              </p>
+              <p>
+                <s xml:id="j47kuht7pk">Eg havi spurt meg fyri, og fingið at vita, at Kunningardiskurin hevur yvir 50.000 avgreiðslur um árið av ymsum slag.</s>
+              </p>
+              <p>
+                <s xml:id="kjwxia7ugy">Sjálvur havi eg góðar royndir av Kunningardiskinum og havi ongan hitt, sum ikki sigur tað sama.</s>
+              </p>
+              <p>
+                <s xml:id="kbcxljz6kt">Eingin er heldur í iva um, at tað eru fólkini, sum starvast við Kunningardiskin, sum veita ta góðu tænastu, sum verður givin.</s>
+              </p>
+              <p>
+                <s xml:id="tpdn2g7t5f">Tí tykist tað løgið at broyta Kunningardiskin, og leggja hann undir Strandferðsluna, sum ætlar at privatisera hann.</s>
+              </p>
+              <p>
+                <s xml:id="gu4ip5icqq">Tá er eingin trygd fyri, at Kunningardiskurin fer at virka eins væl, og hann hevur gjørt higartil.</s>
+              </p>
+              <p>
+                <s xml:id="n46hi4kg34">Ferðaráðið, sum higartil hevur umsitið Kunningardiskin, hevur júst til uppgávu at veita teimum ferðandi eina góða tænastu.</s>
+                <s xml:id="reafek4vii">Ferðaráðið fær 7,5 mió. kr. um árið.</s>
+              </p>
+              <p>
+                <s xml:id="trpgovsqjw">Í viðmerkingunum í fíggjarlógini stendur m.a., at Ferðaráðið skal hjálpa og vegleiða ferðafólki, sum koma til landið.</s>
+              </p>
+              <p>
+                <s xml:id="uozup2dqeu">Hvat Kunningardiskurin kostar at reka, veit eg ikki, men hann verður í stóran mun goldin av teimum, sum brúka hann.</s>
+              </p>
+              <p>
+                <s xml:id="fzpanvnhay">Høvdu vit vitað, at talan verður um eina betri tænastu á privatum hondum, so var tað í lagi at gjørt hesa broytingina.</s>
+                <s xml:id="ms456qidu4">Men tað vita vit ikki, og tí kunnu vit missa meir, enn vit fáa, við at broyta skipanina fyri Kunningardiskin á Flogvøllinum.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="b7y5q7pmxj">Á tingfundi 6. november 1998 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998008A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 3. december 1998 svaraði Finnbogi Arge, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <div>
+              <head rend="bold">Til spurning 1.</head>
+              <p>
+                <s xml:id="vv65j6djp5">Kunningardiskurin, sum kom í lag í 1987, er í dag eitt samstarv millum átta stovnar og fyritøkur.</s>
+                <s xml:id="xpsfrgoq3s">Endamálið er at veita ferðafólki best møguliga hjálp og upplýsing um Føroyar: Hvussu lagaligast og skjótast slepst frá flogvøllinum til onnur pláss, gisting, matstovur, o.t.</s>
+              </p>
+              <p>
+                <s xml:id="exdwiyvm7h">Ferðaráðið metir, at kunningardiskurin hevur virkað sum ein sjálvstøðug eind í fleiri ár við Ferðaráðnum, sum proforma arbeiðsgevara, og at virksemið er broytt so mikið nógv, at Ferðaráðið ikki longur kann sigast at verða sjálvsagdur arbeiðsgevari.</s>
+                <s xml:id="f22ov3wqbh">Ferðaráðið vil tískil sleppa undan ábyrgdini fyri kunningardiskinum.</s>
+              </p>
+              <p>
+                <s xml:id="ymygxofxld">Strandfaraskip Landsins, sum er annar av størstu veitarunum og eftir teirra metum fær størstu nyttuna av samstarvinum, ynskir at yvirtaka ábyrgdina av kunningardiskinum, treytað av, at rakstraruppgávurnar verða bjóðaðar út til ein privatan at røkja.</s>
+                <s xml:id="bjg5n25wd3">Strandferðslan fyriskipar útbjóðingina og ásetir nærri reglur fyri virkseminum.</s>
+                <s xml:id="di6z7il7qd">Hetta er ein góð loysn, sum undirritaðið tekur undir við.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Til spurning 2.</head>
+              <p>
+                <s xml:id="gwn7bx2xkh">Endamálið við at bjóða rakstraruppgávurnar út, er at fyriskipa Kunningardiskin einfalt og effektivt, soleiðis at tænastustøðið verður enn betri, til gagns fyri tey ferðandi til og frá Føroyum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Til spurning 3.</head>
+              <p>
+                <s xml:id="ykrxw5boph">Sjálvt um rakstraruppgávurnar verða bjóðaðar út til ein privatan at røkja, verður tað framhaldandi tað almenna, - Strandfaraskip Landsins, sum hevur ábyrgdina fyri, at vit fara at hava ein vælvirkandi Kunningardisk á Flogvøllinum.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

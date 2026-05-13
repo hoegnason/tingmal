@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Umsiting av íslandskvotuni</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998001Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="https://tingdata.fo/person/nra3236u">Henrik Old</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4416"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-08-04">04.08.1998</date>
+          </bibl>
+          <bibl xml:id="SS1998001A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">John Petersen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4417"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-10-06">6. oktober 1998</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998001Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1998, týsdagin 4. august, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Henrik Old, løgtingsmanni, sum var soljóðandi</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="vndxhjfbrw">Hvørjar eru orsøkirnar til, at landsstýrismaðurin í fiskivinnumálum framhaldandi býtir summum línubátum hálva íslandskvotu, tá hesir hava eins nógvar fiskidagar á Føroyaleiðini?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s xml:id="tz5t6vun7u">Tá yvir 1.000 tons av íslandskvotuni í 1997 vóru ófiskað, tykist tað løgið, at nakrir bátar noyðast at keypa munadi kvotu frá øðrum fyri at kunna royna undir Íslandi, ikki minst tykist hetta órímiligt, tá hugsað verður um, at Føroya land í mong ár hevur fingið kvotu úr Íslandi uttan at lata nakað ístaðin fyri.</s>
+                <s ana="#interrogative" xml:id="iqp454yzlx">Kann landstýrismaðurin vátta yvir fyri tinginum, at skip hava fingið íslandskvotu í 1998, sjálvt um hesi ikki tey seinastu fýra-fimm árini hava roynt undir Íslandi?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="uqur2qtnzo">Fyri at sleppa undan, at 1.000 tons av íslandskvotuni aftur í ár verða ófiskað, kann landsstýrismaðurin í fiskivinnumálum bera so í bandi, at skip, sum hava hug at fiska undir Íslandi, fáa íslandskvotu, uttan at noyðast at keypa frá teimum, ið hava fingið tillutað íslandsakvotu, men ikki hava hug at fiska undir Íslandi?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="mhzx67svlp">Tá fiskidagaskipanin í 1996 varð samtykt í løgtinginum, varð samstundis víst á í álitinum til løgtingið frá vinnunevndini, at tá skip í somu bólkum fingu ásettar eins nógvar fiskidagar, so var eisini rættast, at íslandskvotan varð býtt eins millum bátarnar í hesum bólkum.</s>
+                <s xml:id="bg4hehbrf6">Men framhaldandi eru tað línubátar, sum bert fáa hálva íslandskvotu.</s>
+                <s ana="#formulaic" xml:id="cisyrxsru3">Tí verður hesin fyrispurningur settur landsstýrismanninum.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="qius7r5adw">Á løgtingsfundi 7. august 1998 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998001A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á løgtingsfundi 6. oktober 1998 svaraði John Petersen, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center" ana="#formulaic">Svar</head>
+            <p>
+              <s xml:id="xgxzfoxput">Løgtingsmaðurin Henrik Old hevur sett landsstýrismanninum í fiskivinnumálum fyrispurning viðvíkjandi, hvussu føroyska kvotan av botnfiski undir Íslandi verður lutað skipum og teirra møguleikum at gagnnýta tillutað rættindi.</s>
+              <s xml:id="jsyseysfmm">Grundað á, at tað í fyrispurninginum verður víst til býtið og fiskiskapin í 1997, verður fyrst stutt greitt frá um býtið av kvotunum hetta árið.</s>
+            </p>
+            <p>
+              <s xml:id="wnajvim5e2">Skjal 1 vísir býtið av føroysku botnfiskakvotuni undir Íslandi 1997 millum teir tríggjar høvuðsbólkarnar, og hvussu mikið varð fiskað hetta árið.</s>
+              <s xml:id="ueobvcrhfz">Høvuðsbólkarnir eru stállínuskip, snelluskip og kalvaskip.</s>
+              <s xml:id="gtbjo7lhsa">Eins og gjørt var í 1996, var ein partur av teimum avmarkaðu kvotunum av toski og brosmu hildin aftur, fyri ikki at koma í ta støðu, at ov nógv veiða hjá onkrum einstøkum skipi skuldi forða fyri framhaldandi fiskiskapi hjá hinum.</s>
+              <s xml:id="pmmvlxnvp7">Í 1998 er einki hildið aftur.</s>
+            </p>
+            <p>
+              <s xml:id="jgnty6noy7">Eftir av kvotuni, tá árið var úti, vórðu tilsamans 1.047 tons, harav 72 tons vóru toskur.</s>
+              <s xml:id="g22sneogs6">Orsøkin til, at so mikið var eftir, var, at línuskipini bert fiskaðu um 940 tons av brosmu, og at snelluskipini bert fiskaðu um 1.100 tons av øðrum enn toski (les upsa).</s>
+              <s xml:id="zgfdn7ynld">Kvotan hjá stállínuskipunum av brosmu var 1.624 tons og tann hjá snelluskipunum av øðrum enn toski 1.482 tons.</s>
+            </p>
+            <p>
+              <s xml:id="wofar6lpir">Fyri línuskipini og snelluskipini hevur tillutaða kvotan av toski stóran týdning fyri, hvussu møguleikarnir eru fyri at gagnnýta teirra samlaðu botnfiskakvotu.</s>
+              <s xml:id="jcrhcevtyb">Um íblandingin av toski er ov stór, verður toskakvotan ov skjótt liðug.</s>
+              <s xml:id="fq3bnarftw">Hóast brosmukvotan hjá línuskipunum ikki varð fiskað, fiskaðu tey 19 tons ov nógv av toski.</s>
+              <s xml:id="v7nslvr2jb">Snelluskipini haraftur ímóti áttu 29 tons eftir.</s>
+            </p>
+            <p>
+              <s xml:id="o7wm7qa3na">Verandi býtið (1997 og 1998) av íslandskvotuni er tað sama, sum hevur verið framt seinastu árini.</s>
+              <s xml:id="treyqkeho3">Býtið í 1997 var grundað á býtið í 1996 - bæði millum teir tríggjar høvuðsbólkarnar og millum skipini í hvørjum av bólkunum.</s>
+              <s xml:id="w6hf7dnnbx">Tó varð býtið millum kalvaskipini broytt nakað bæði í 1997 og í 1998.</s>
+              <s xml:id="ionprsbe7y">Hetta var mest grundað á, at kalvakvotan ikki varð fiskað, og at tað var ójavnt, hvussu tey einstøku skipini gjørdu nýtslu av fiskimøguleikunum.</s>
+            </p>
+            <p>
+              <s xml:id="uswq3bszju">Tó var ein grundleggjandi broyting gjørd við býtinum millum stállínuskipini og snelluskipini í 1997.</s>
+              <s xml:id="arresijwjh">Tá varð kvotan hjá hvørjum skipi, sum í 1996 hevði fiskað meir, enn tí varð tillutað, minkað við somu nøgd.</s>
+              <s xml:id="owzrju2gdu">Henda nøgdin varð ístaðin býtt javnt millum tey skipini í hvørjum bólki sær, sum høvdu hildið seg innan fyri ásetta kvotu.</s>
+              <s xml:id="b44krlbuw7">Henda meginregla varð eisini fylgd, tá býtið fyri 1998 varð gjørt.</s>
+            </p>
+            <p>
+              <s xml:id="tnnth7msnu">Tey skip, sum í 1996 og í 1997 høvdu fiskað munandi meir, enn teimum var tillutað, fingu á tann hátt minni kvotu ávikavist í 1997 og í 1998.</s>
+              <s xml:id="o5mkj2nrgp">Hjá einstøkum av serliga snelluskipunum fekk hetta ávirkan á teirra møguleikar at fiska teirra kvotu av øðrum enn toskur (les upsi), tí hjáveiðumøguleikarnir gjørdust verri.</s>
+            </p>
+            <p>
+              <s xml:id="b56roezmsf">Fiskimálastýrið metti tað verða neyðugt at taka hetta stig, tí einstøk skip í 1996 høvdu fiskað munandi meir enn teimum varð tillutað.</s>
+            </p>
+            <div>
+              <head rend="bold">ad. sp. 1).</head>
+              <p>
+                <s xml:id="gzzb5tkmei">Býtið av kvotuni hjá stállínuskipunum er, at 14 fáa fulla kvotu, 3 fáa 70% kvotu, 1 fær 60% kvotu og 1 fær kvotu svarandi til 30 % av fullari kvotu.</s>
+                <s xml:id="pblytp2ntx">Tilsamans verður kvotan sostatt býtt í 16,9 partar millum 19 skip.</s>
+                <s xml:id="iqutnyv2ev">Líknandi býti er eisini í bólkinum fyri snelluskip.</s>
+                <s xml:id="ffniyxapmy">Har fáa 5 fulla kvotu, 1 fær 80 % kvotu, 4 fáa 69 % kvotu, 10 fáa 60 % og 5 fáa 49 % kvotu.</s>
+                <s xml:id="j53gl65n5a">Henda kvotan verður býtt í 17 partar millum tilsamans 25 skip.</s>
+              </p>
+              <p>
+                <s xml:id="dt7v7gvknn">Orsøkin til tað ójavna býtið millum stállínuskipini er, at landsstýri undan hesum hava latið skipunum ymisk rættindi til fiskiskap undir Íslandi.</s>
+                <s xml:id="tfahvzrccm">Eins og nú vóru treytirnar fyri fiskiskapi undir Føroyum tá tær somu fyri øll stállínuskipini, samstundis sum treytirnar vóru ymiskar undir Íslandi.</s>
+              </p>
+              <p>
+                <s xml:id="sl2epqnsdg">Sostatt er eingin broyting farin fram í tí lutfallsliga býtinum av fiskirættindunum hjá stállínuskipunum fyri fiskiskapi undir Føroyum og Íslandi seinastu árini.</s>
+              </p>
+              <p>
+                <s xml:id="ueyboiygr3">Í viðmerkingunum til fyrispurningin verður víst til brot í álitinum frá vinnunevndini í løgtingsmáli nr. 96/1995, har vinnunevndin metir, at tað er rímiligt, at stállínuskipini verða eins stillað við serloyvum.</s>
+                <s xml:id="kh46ivhko5">Til hesa viðmerking er at siga, at býtið av kvotum er ein fyrisitingarlig avgerð - ikki politisk, og sambært stýrisskipanarlógini er alt fyrisitingarvald latið landsstýrinum.</s>
+                <s xml:id="qnc2xelxq5">Um vinnunevndin veruliga ynskti at hava javnt býti av íslandskvotuni millum stállínuskipini, átti hetta at verið gjørt sum ein lógarbroyting.</s>
+              </p>
+              <p>
+                <s xml:id="ubwcgahr26">Lagt kann verða afturat, at býtið av botnfiskakvotuni í Barentshavinum og býtið av makrel- og sildakvotunum er ymist millum skipini, sum eru við í teimum býtunum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">ad. sp. 2).</head>
+              <p>
+                <s xml:id="odbl2bwkue">Føroyska botnfiskakvotan undir Íslandi verður latin stállínuskipum og snelluskipum sum egnar kvotur.</s>
+                <s xml:id="p2o3w3syhh">Býtið av kvotunum hevur verið grundað á, at tey skipini, sum hava havt kvotu tillutað árini framman undan, hava havt rætt til at fingið kvotu aftur.</s>
+              </p>
+              <p>
+                <s xml:id="l7mslqlqio">Kvoturnar hava verið lætnar sum egnar kvotur, sum sambært § 15 í lógini um vinnuligan fiskiskap kunnu umsetast til onnur skip at fiska ávíst áramál.</s>
+                <s xml:id="fy45nyjiie">Grundað á tann lógarfesta rættin at kunna umseta egnar kvotur, hevur Fiskimálastýrið ikki lagt til grund fyri býtunum, um skipini sjálvi hava fiskað kvotuna árið framman undan, ella um tey hava latið øðrum skipum rættin.</s>
+              </p>
+              <p>
+                <s xml:id="hgfq3g4xon">Við støði í hesi fyrisitingarligu meginreglu hava skip fingið íslandskvotu í 1998, sjálvt um hesi tey seinastu fimm árini ikki hava fiskað undir Íslandi.</s>
+                <s xml:id="grbbcztmqt">Talan er um eitt línuskip og tvey snelluskip.</s>
+                <!-- <s>Upplýsast kann eisini, at í 5 ára tíðarskeiðnum er eigaraskiftið og navnabroyting farin fram viðvíkjandi línuskipinum og øðrum snelluskipinum</s> -->
+                <s resp="#rani" xml:id="w4svnli2x6">Upplýsast kann eisini, at í 5 ára tíðarskeiðnum er eigaraskiftið og navnabroyting farin fram viðvíkjandi línuskipinum og øðrum snelluskipinum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">ad. sp. 3).</head>
+              <p>
+                <s xml:id="zypqquzpkr">Sum greitt frá undir svarinum til 2. spurning, verða botnfiskakvotur undir Íslandi tillutaðar stállínuskipum og snelluskipum sum egnar kvotur.</s>
+                <s xml:id="f7znw5yunv">Fiskiloyvini til hesar kvotur vórðu skrivað og send skipunum í vár, og Fiskimálastýrið hevur ikki heimild at krevja egnu kvotuna aftur frá skipunum.</s>
+              </p>
+              <p>
+                <s xml:id="ny3uctpmek">Skip og bátar, ið ikki hava fingið tillutað íslandskvotu, verða tí noydd at keypa sær henda rætt, fyri at kunna fáa fiskiloyvi í íslendskum sjógvi í ár.</s>
+                <s xml:id="svvxt7l3hi">Hetta kunnu tey gera, tí egnar kvotur sambært lóg kunnu umsetast.</s>
+              </p>
+              <p>
+                <s xml:id="fxvils3lvu">Lagt kann verða afturat, at Fiskimálastýrið miðar fram ímóti, at sum mest av fiskirættindunum verða latin sum egnar kvotur ella egnir fiskidagar, har umstøðurnar tala fyri tí.</s>
+                <s xml:id="eg7o7eplja">Ein týðandi fortreyt fyri tí er, at tilfeingið (kvoturnar ella fiskidagarnir) er avmarkandi fyri fiskiskapin.</s>
+                <s xml:id="i6r2ttegzq">Henda fortreyt er í størsta mun galdandi serliga fyri toskakvotuna í íslendskum sjógvi.</s>
+              </p>
+              <p>
+                <s xml:id="nvviv6yyu3">Spurningurin um at lata kvoturnar sum egnar kvotur hevur tilknýti til, hvønn tryggleika tey einstøku skipini hava fyri teirra vinnu- og inntøkugrundarlagi og teirra møguleikum fyri at leggja raksturin av skipinum best møguligt til rættis.</s>
+                <s xml:id="byms3svecv">Har kvotur, sum ikki eru nóg stórar at veita øllum skipunum trygd fyri, at teirra "tørvur" verður nøktaður, verða lætnar sum felagskvotur, ræður um hjá skipunum sum skjótast at fáa so nógv sum møguligt burtur úr samlaðu kvotuni.</s>
+                <s xml:id="xeavfrwe32">Fiskimálastýrið er sannført um, at ein tílík veiðustrategi ikki er til gagns fyri fiskiflotan.</s>
+                <s xml:id="m7j34i6jap">Grundað á hesa fatan, verður miðað ímóti at lata kvotur sum egnar kvotur, har møguleikarnir fyri at leggja ætlanir eru munandi betri.</s>
+              </p>
+              <p>
+                <s xml:id="awwg6wot2k">Fiskiloyvini hjá línuskipunum og snelluskipunum til fiskiskap undir Íslandi eru latin grundað á hesa meginreglu.</s>
+                <s xml:id="z4y222nhls">Um Fiskimálastýrið nú skuldi farið og tikið fiskiloyvini, sum eru latin hesum skipunum, aftur, hevði tað verið tað sama sum at ganga frá givnum lyfti um fiskimøguleikar í 1998.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <gap>SKJAL 1 - Kvotabýtið og fiskiskapurin av botnfiski undir Íslandi 1997</gap>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

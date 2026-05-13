@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Samskatting av hjúnum og dupultan botnfrádrátt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998035Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Bjarni Djurholm</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4480"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-12">12.02.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998035A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Karsten Hansen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4481"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-04-20">20. apríl 1998</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998035Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi tann 12. februar 1999 boðaði formaðurin frá fyrispurningi frá Bjarna Djurholm, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="pblvrznl2n">Nær ætlar landsstýrismaðurin at leggja lógaruppskot fyri tingið, sum skattliga javnstillar hjún soleiðis, at hjún við einari inntøku fáa dupultan botnfrádrátt ájavnt við hjún, har bæði hava inntøku?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="fin6sudlyp">Ætlar landsstýrismaðurin at laga skattalógina soleiðis, at hjún verða skattað við helvtarbýti av báðum skattskyldugu inntøkunum sum grundarlagi?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="fsd5tg5mf3">Ætlar landsstýrismaðurin undir komandi lønarsamráðingum at virka fyri, at partíðarstørv verða vanlig á almenna arbeiðsmarknaðinum?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="ushxnvja7y">Familjan er kjarnin í samfelagnum.</s>
+                <s xml:id="t5jj4wawqo">Vit atliti at hesum veruleika má eitt nú skattalógin verða tillagað samsvarandi.</s>
+              </p>
+              <p>
+                <s xml:id="adaky6pjbh">Undanfarna landsstýrið broytti skattaskipanina til bruttolíknandi skattaskipan, og hevur henda samgongan sett sær sum mál at halda fram við hesum slóðbrótandi arbeiði.</s>
+                <s xml:id="skkbes3vmu">M.a. er semja um at hækka skattafríu grundupphæddina og at lækka skattatrýstið.</s>
+              </p>
+              <p>
+                <s xml:id="bwb23pym6h">Eisini er samgongan samd um at virkað verður fyri, at partíðarstarv verður vanligari á arbeiðs-marknaðinum.</s>
+                <s xml:id="idjm53esps">Her er talan um ein sáttmálaspurning, har landsstýrið kann ávirka undir lønarsam-ráðingunum.</s>
+              </p>
+              <p>
+                <s xml:id="nuzyvzpnj3">Við atliti at stóra tekniska framburðinum á mest sum øllum samfelagsøkjum, er tað sjálvsagt, at arbeiðsumstøðurnar broytast samsvarandi.</s>
+                <s xml:id="pakya77vsd">Hesum eigur politiski myndugleikin at vera varugur við og alsamt laga lóggávuverkið soleiðis, at tað ikki verður ein forðan fyri einum liðiligari arbeiðs-marknaði.</s>
+              </p>
+              <p>
+                <s xml:id="lrwntk7a4m">Størsta beinleiðis ávirkanin frá myndugleikunum til borgarar landsins er gjøgnum skattalógina.</s>
+                <s xml:id="uuggyatale">Tí eru eisini her bestu møguleikarnir at gera broytingar, sum hava positiv árin á trivnaðin millum manna.</s>
+                <s xml:id="rquad7cidf">Broytingar, sum geva borgarunum fleiri valmøguleikar.</s>
+              </p>
+              <p>
+                <s xml:id="qblheqgywi">Fyri at víðka um valmøguleikarnar eigur landsstýrið m.a. at broyta skattalógina soleiðis, at skatting av hjúnum verður við helvtarbýti av báðum skattskyldugu inntøkunum sum grundarlagi, t.v.s. sam-skatting av hjúnum.</s>
+              </p>
+              <p>
+                <s xml:id="kallxkgya6">Ein slík broyting hevði javnstillað konu og mann mótvegis skattamyndugleikunum, samstundis sum broytingin hevði givið familjuni størri valfrælsi á arbeiðsmarknaðinum.</s>
+              </p>
+              <p>
+                <s xml:id="ab74ghinfb">Í fyrstu syftu hevði tillagingin givið landskassanum færri beinleiðis inntøkur, men sum frálíður vil ein slík broyting óivað breiðka inntøkugrundarlagið og harvið eisini skattagrundarlag landskassans.</s>
+              </p>
+              <p>
+                <s xml:id="hmhfmpak4m">Harumframt eiga hjún við einari inntøku at fáa dupultan botnfrádrátt ájavnt við familjur við tveimum inntøkum.</s>
+                <s xml:id="flyng5kg5y">Samgonguskjalið ásetir eisini, "<hi rend="italic">At hjún, har annað hevur alla inntøkuna, verða at javnstilla við hjún, har bæði hava inntøku</hi>".</s>
+              </p>
+              <p>
+                <s xml:id="t6vgi3d4c2">Við øktum valfrælsi verða fíggjarligu viðurskiftini hjá familjunum rúmsáttari.</s>
+                <s xml:id="jyimctetlj">Familjan fær fleiri valmøguleikar – í spurninginum um barnaansing, um luttøku á arbeiðsmarknaðinum og annars í øllum teimum mongu spurningunum í gerandisdegnum, har verandi skattaskipan ofta er ein forðan fyri størri valfrælsi og harvið trivnaði í familjuni.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="gtnvge2dqy">Á tingfundi 16. februar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998035A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 20. apríl 1998 svaraði Karsten Hansen, landsstýrismaður, fyrispurninginum soleiðis</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <div>
+              <head rend="italic">Ad fyryispurningi 1 og 2:</head>
+              <p>
+                <s xml:id="wlxu2ksmm7">Bjarni Djurholm, løgtingsmaður, nevnir at byrja við í viðmerkingunum til fyrispurning sín, at familjan er kjarnin í samfelagnum.</s>
+                <s xml:id="a4km2jwkch">Eg skilji tí spyrjaran soleiðis, at hann ynskir at veita familjuni trygg og góð kor.</s>
+                <s xml:id="p6n6xhi7vp">Hesum taki eg undir við.</s>
+                <s xml:id="zsi6hamtor">Eg eri somuleiðis samdur í, at skattalógin skal lagast, so at hon gevur borgaranum fleiri møguleikar til gagns fyri borgaran sjálvan, fyri arbeiðsmarknaðin og fyri samfelagið sum heild.</s>
+              </p>
+              <p>
+                <s xml:id="x6uqps5mph">Hinvegin eigur skattalógin ikki at verða nýtt til at loysa aðrar málsetningar enn skattapolitiskar, serliga um so er, at ein við aðrari lóggávu lættari og betri kann røkka teim málsetningunum, ein hevur sett sær.</s>
+              </p>
+              <p>
+                <s xml:id="fmjg5lzgf2">Skattalógin hevur áður verið nýtt til at reka td. fiskivinnupolitikk (telefonfrádrátturin), íbúðarpolitikk (rentufrádrátturin), almannapolitikk (barnafrádrátturin).</s>
+                <s xml:id="vmaa65omug">Um skattalógin verður nýtt til at loysa ymisk onnur endamál enn skattapolitisk, verður lógin skjótt so torskild, at hon ikki verður at skilja fyri skattaborgaran og munandi tyngri at umsita fyri skattamyndugleikarnar.</s>
+                <s xml:id="xp2hh2d4f2">Hetta verður til vansa bæði fyri borgaran og fyirisitingina.</s>
+              </p>
+              <p>
+                <s xml:id="nw57o2yuaa">Landsstýrið hevur tí arbeitt fyri at einfaldgera skattalógina seinastu árini.</s>
+                <s xml:id="boywvmogbj">Nærum allir frádráttir eru avtiknir, tó vóru nakrir frádráttir gjørdir um til útgjaldsskipanir, t.d. Rentustudningur í staðin fyri rentufrádrátt, Ferðastudningur í staðin fyri ferðafrádrátt, Telefonstudningur í staðin fyri telefonfrádrátt.</s>
+              </p>
+              <p>
+                <s xml:id="j3jzj3atzu">Frádrátturin fyri inngjøld til pensiónsskipanir og barnafrádrátturin eru einastu av vanligu frádráttunum, sum eru eftir.</s>
+              </p>
+              <p>
+                <s xml:id="pv4xrirrmv">Henda umskipan gjørdi tað óneyðugt hjá 70 prosentum av skattaborgarunum at senda inn sjálvuppgávu.</s>
+              </p>
+              <p>
+                <s xml:id="m7j3pdmrlh">Umskipanin førdi til umsitingarligar sparingar og førdi somuleiðis til, at skattafyrisitingin hevur kunnað røkt verandi uppgávur munandi betri.</s>
+              </p>
+              <p>
+                <s xml:id="ksvrkkd3l3">Landsstýrismaðurin í fíggjarmálum heldur tað ikki verða rætt nú aftur at byrja nú at nýta skattalógina til onnur endamál enn at krevja skatt inn.</s>
+              </p>
+              <p>
+                <s xml:id="nhhk2ob7aq">Ein partur av einfaldgeringini av skattaumsitingini kemst av, at allir skattaborgarar nú verða skattaðir hvør sær.</s>
+                <s xml:id="wabu7v4wml">Meðan tað fyrr var soleiðis, at húskið var skattasubjekt (maður og kona vóru skattað saman), so er føroyska skattalóggávan og skattaskipanin nú tillagað tí meginreglu, at einstaki borgarin er skattasubjekt.</s>
+              </p>
+              <p>
+                <s xml:id="mqnc4azhmh">Um skattalóggávan verður broytt soleiðis, at inntøkan hjá hjúnarfeløgum verður løgd saman og síðan býtt í tvey, áðrenn hon verður skattað, so er hetta eitt stórt stig á vegnum aftur til gomlu skattaskipanina, har húskið var skattasubjekt (húskisinntøkan var skattað).</s>
+              </p>
+              <p>
+                <s xml:id="atgwrxfl6c">Í fyrsta lagi hevði ein tílík broyting ført til stóra ógreiðu um hugtakið skattskyldug inntøka.</s>
+                <s xml:id="qwm7qvkzsf">Ógreitt hevði verið, hvussu stór skattskylduga inntøkan var hjá einstaka borgaranum.</s>
+                <s xml:id="p2cxht7lmv">Skattskylduga inntøkan verður nýtt í ymsum samanhangum, t.d. útrokning av almannaveitingum og arbeiðsmarknaðargjøldum.</s>
+                <s xml:id="erof4yzidt">Sostatt er talan um eina stóra prinsipiella broyting, ið ikki eigur at verða tikin lættliga.</s>
+              </p>
+              <p>
+                <s xml:id="lb4fzqq556">Í øðrum lagi hevði ein tílík broyting ført við sær krav um, at skattaskipanin bæði skuldi kunna skatta einstaklingar og hjún.</s>
+                <s xml:id="ljtpbl5ped">Hetta hevði ført til eina dýrari skattafyrisiting.</s>
+              </p>
+              <p>
+                <s xml:id="simp7ho2gb">Í triðja lagi kann ein viðmerkja, at um endamál spyrjarans er bøta korini hjá barnafamiljunum, so er uppskotið ikki serliga miðvíst.</s>
+                <s xml:id="qtsk3kl44p">Eftir uppskoti spyrjarans fáa øll húski við einari inntøku minni skatt at gjalda, uttan mun til um børn eru í húskinum ella ikki.</s>
+              </p>
+              <p>
+                <s xml:id="yhg4ucqhxb">Landsstýrismaðurin heldur tí, at betur hevði verið at gjørt uppskot, ið beinleiðis stuðlar barnafamiljum.</s>
+              </p>
+              <p>
+                <s xml:id="q2phr7avi7">Um skattalógin verður broytt soleiðis, at inntøkan hjá hjúnarfeløgum verður løgd saman og síðan býtt í tvey, áðrenn hon verður skattað, so minka landsskatta- og kommunuskattainntøkurnar við umleið 30 mió. kr., um inntøkurnar í 1996 og skattaprosentini fyri 1998 verða nýtt sum grundarlag.</s>
+              </p>
+              <p>
+                <s xml:id="iwinxv4jcf">Henda upphædd hevði væntandi vaksið munandi tey næstu árini.</s>
+                <s xml:id="bdcxjs5zoo">Tað er tó sera ilt at meta um, hvussu nógv hjún høvdu valt at latið annan hjúnafelagan verið heima, og tískil er sera ilt at meta um, hvussu nógv skattainntøkurnar høvdu minkað tilsamans.</s>
+              </p>
+              <p>
+                <s xml:id="tle53jrub6">Um skattalógin verður broytt, soleiðis at persónsfrádrátturin varð fluttur frá hjúnarfelaga við ongari inntøku til hin hjúnarfelagan, so minka landsskatta- og kommunuskattainntøkurnar við umleið 3 mió. kr.</s>
+                <s xml:id="d7r67jmrx6">Henda upphædd hevði vaksið munandi næstu árini.</s>
+                <s xml:id="rh7d2gt6lx">Trupulleikin við hesum uppskoti er, at ein bert fær staðfest hvussu stóra inntøku tann heimaarbeiðandi hjúnafelagin hevur havt, tá árið er umliðið.</s>
+                <s xml:id="ic7hulknbv">Um ein ynskir at seta eina tílíka skipan í verk verður sostatt neyðugt, at báðir hjúnafelagarnir í teim húskjum, ið ynskja at nýta hesa flyting av frádrátti, lata inn sjálvuppgávu.</s>
+                <s xml:id="yva3yicc3f">Uppskotið økir sostatt um fyrisitingarkostnaðin og stríðir ímóti málsetningi landsstýrisins um at einfaldgera skattafyrisitingina.</s>
+              </p>
+            </div>
+            <div>
+              <head>ad fyrispurningi 3:</head>
+              <p>
+                <s xml:id="qum4lpecgi">Onki er í verandi lønarsáttmálum, ið forðar fyri parttíðararbeiði.</s>
+                <s xml:id="nf5khirvwy">Í nógvum sáttmálum er beinleiðis staðfest at til ber at vera parttíðarsettur.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gamlar teldur til fólkaskúlan</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998040Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Katrin Dahl Jakobsen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4490"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-25">25.02.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998040A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Signar á Brúnni</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4491"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-26">26. mars 1999</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998040Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 25. februar, boðaði formaðurin frá soljóðandi fyrispurningi frá Katrin Dahl Jakobsen, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="xes3wkec4v">Hvønn málsetning hevur landsstýrismaðurin viðvíkjandi kunningartøkni í fólkaskúlanum?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="jmlgkgwso5">Sær landsstýrismaðurin ongan vanda í at gera fólkaskúlan út við gomlum teldum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="rlj6yinwag">Væntar landsstýrismaðurin, at kommunurnar verða grammar at keypa nýggja telduútgerð, tá ið skúlarnir hava fingið tær gomlu?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ufnvh7txcb">Hvønn hugburð hevur landsstýrismaðurin, tá ið tað ræður um kunningartøkni í undirvísing, í mun til tørvin hjá landsins stovnum?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="vbrs27qlpy">Ber ikki landsins stovnum betur til at brúka dagførdu teldurnar heldur enn skúlunum?</s>
+              </item>
+              <label>6.</label>
+              <item>
+                <s ana="#interrogative" xml:id="wcxtgvhuyt">Er hetta ein liður í almennu sparingunum?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="jb3mmonl7b">Í kunningarblaðnum "Nýrit" frá miðfyrisitingini skrivar Vinnumálastýrið 2. februar, at Vinnumálastýrið/Aðalskrivstovan hevur skotið upp at savna burturlagdar teldur <hi rend="bold">frá øllum stovnum landsins</hi> at lata fólkaskúlanum.</s>
+                <s xml:id="hnevwrwhjl">"Her er hugsað um teldur, sum ikki longur verða brúktar, tá skift verður út", stendur at lesa.</s>
+              </p>
+              <p>
+                <s xml:id="e7xpzvglhh">Víðari siga tey, at "uppskotið var væl móttikið av hinum stýrunum, og aðalstjórarnir hava <hi rend="bold">samtykt</hi> at fylgja ráðum Vinnumálastýrisins".</s>
+              </p>
+              <p>
+                <s xml:id="ptu4x76k6y">Ætlanin er, at KT-forum skal gera teldurnar <hi rend="bold">nýtiligar</hi> og gera eina innsavningarskipan.</s>
+              </p>
+              <p>
+                <s xml:id="tekuacexaw">Hetta er greiður boðskapur.</s>
+                <s xml:id="dvupf2etfm">Tað, sum fyri landsins stovnar er ónýtiligt, kann fólkaskúlin sleppa at arva.</s>
+                <s xml:id="lp6gk2tkw4">Málið er at hava landsins stovnar á so høgum tøkniligum støði, sum til ber.</s>
+                <s xml:id="j4cj4sir25">Men fyri at hetta skal kunna bera til, er neyðugt at finna onkran, sum kann taka við tí burturlagda.</s>
+              </p>
+              <p>
+                <s xml:id="nf73mi47w5">Dag og dagliga hoyra vit – verða bart út mint á – at vit liva í KT-øldini.</s>
+                <s xml:id="sodbapaq25">So nógv ávirkar hetta okkum, at vit hava tað í huganum, bæði tá ið tað ræður um arbeiði, men ikki minst í undirvísing.</s>
+                <s xml:id="opab3q5zaq">Hetta sæst at vit hava tað í huganum, nbæði tá ið tað ræður um arbeiði, men ikki minst í undirvísing.</s>
+                <s xml:id="vbqodjxagf">Hetta sæst eisini aftur í flestu undirvísingarætlanum.</s>
+                <s xml:id="tv2o6lc3us">Vit vilja ikki vera eftirbátar, verður ofta tikið til.</s>
+              </p>
+              <p>
+                <s xml:id="iohp5nqa7t">Nú tað vísir seg, at Vinnumálastýrið og aðalstjórarnir í umsitingini eru teir, sum stinga út í kortið, á hvørjum tøkniligum støði fólkaskúlin kann/skal vera, hevði verið forvitninsligt at fingið málið lýst.</s>
+                <s xml:id="t2rs2q6mmy">Ivaleyst hava aðalstjórarnir í bestu sannføring samtykt at fylgja ráðum Vinnumálastýrisins.</s>
+                <s xml:id="zog3tykz4r">Men ikki er víst, at fólkaskúlin er hin rætti móttakarin.</s>
+                <s ana="#interrogative" xml:id="ndsigk5y4s">Kanska var tað øvugta rættari?</s>
+                <s ana="#interrogative" xml:id="hfwm5uuasl">Ella, um ætlanin er at styrkja fólkaskúlan, hevði tað so ikki borið til at latið lærarum teldurnar?</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="zqoahq7epg">Á tingfundi 26. februar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998040A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 26. mars 1999 svaraði Signar á Brúnni, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold">Svar</head>
+            <div>
+              <head>Til 1. spurning ("Hvønn málssetning hevur landsstýrismaðurin viðvíkjandi kunningartøkni í fólkaskúlanum?"):</head>
+              <p>
+                <s xml:id="mh7diuketk">Ein KT-nevnd fólkaskúlans varð í august 1997 sett av táverandi landsstýrismanni í skúlamálum at gera eina tilráðing um KT í fólkaskúlanum.</s>
+                <s xml:id="vsdmlkvbgx">Eg havi valt at fylgt tilráðingini, ið KT-nevnd fólkaskúlans hevur gjørt (Frágreiðing og tilmæli frá mars 1998).</s>
+                <s xml:id="lfiv6gkvtw">Nevndin, ið gjørdi álitið, varð mannað við umboðum fyri Føroya Lærarafelag, Føroya Læraraskúla, Undirvísingar- og Mentamálastýrið (lærugreinaráðgevin í teld), Føroya Kommunufelag og Fróðskaparsetur Føroya (Netumsitingin).</s>
+                <s xml:id="jl6lz2c6hg">Undirvísingarleiðarin í Fólkaskúladeildini í Undirvísingar- og Mentamálastýrinum var skrivari í nevndini.</s>
+                <s xml:id="wdsoft2t4a">Í hesum áliti kemur greitt fram, hvat ætlanin er at gera tey næstu 5 árini á hesum øki.</s>
+                <s xml:id="mibbtcehcc">Hetta álit er sent øllum fólkaskúlum, skúlanevndum, kommunum og øðrum áhugabólkum, í alt eini 600 eintøk.</s>
+                <s xml:id="xusr4mvdgj">Álitið er eisini býtt út til allar tingmen í smb. við henda fyrispurning.</s>
+              </p>
+              <p>
+                <s xml:id="qod52bh6ta">Tá ið spurt verður, hvønn málsetning landsstýrismaðurin hevur, sæst hetta m.a. á síðu 21 ("Tilmæli nevndarinnar") í álitinum.</s>
+                <s xml:id="p326qdypqp">Høvuðsmálið er, at "KT skal vera ein sjálvsagdur liður í undirvísingarheildini í fólkaskúlanum".</s>
+                <s xml:id="f5bjabrpja">Hetta høvuðsmál er síðani býtt sundur í 11 lutmál.</s>
+                <s xml:id="vmswaaqhzw">Hesi lutmál eru nærri lýst í álitinum frá síðu 22 til síðu 28.</s>
+                <s xml:id="co44n4i4lb">Landsstýrismaðurin heldur, at henda tilráðing er so ítøkilig og skilagóð, at eg havi valt at fylgt henni.</s>
+                <s xml:id="kgeymmwa2f">Skjøtil er longu settur á fleiri av hesum lutmálum.</s>
+                <s xml:id="h3ewuz5ype">Á síðu 28 sæst eitt uppskot til virkisætlan.</s>
+                <s xml:id="a3hfly7j4d">Ætlanin er at fylga hesi í størst møguligan mun.</s>
+              </p>
+            </div>
+            <div>
+              <head>Til 2. spurning ("Sær landsstýrismaðurin ongan vanda í at gera fólkaskúlan út við gomlum teldum?):</head>
+              <p>
+                <s xml:id="ac2vkqts7j">Landsstýrismaðurin sær onga vanda í, at fólkaskúlin fær nakrar teldur, ið annars høvdu verið settar til viks ella koyrdar burtur.</s>
+                <s xml:id="lfouhywxx3">Ein innsavningarskipan er, sum eitt royndartiltak, sett í verk, ið Vinnumálastýrið hevur tikið stig til.</s>
+                <s xml:id="kt4dugiuhh">Royndartiltakið fevnir í stuttum um, at tær teldur sum verða skiftar út, verða latnar KT-forum, ið er eitt ráðgevandi forum undir Vinnumálastýrinum, sum er mannað við fólkum úr øllum aðalstýrunum, ið hava serligan kunnleika til KT. KT-forum hevur m.a. til uppgávu at verða ráðgevandi í KT málum hjá stýrunum.</s>
+                <s xml:id="h4xrqa5ojk">KT-forum metir síðani um innkomnu teldurnar og sendir tær teldur, sum mettar verða at kunna gerast væl nýtligar, til eina teldufyritøku fyri at verða hugdar eftir og verða tær teldur, sum henda fyritøka metir kunna nýtast aftur, uppstignar ("uppgraderaðar") soleiðis, at tær eru egnaðar til undirvísingarbrúk.</s>
+                <s xml:id="teu54ro25b">Mett verður, at henda skipan tryggjar dygdina á teimum gomlu teldunum so væl sum nú einaferð ber til.</s>
+                <s xml:id="kax6b44ru3">Væntast kann ikki, at talan verður um nógvar av hesum slag framyvir, um so er at royndartiltakið eyndnast, kanska einar 20 til 30 teldur í meðal um árið, ið koma undir hesa skipan.</s>
+              </p>
+            </div>
+            <div>
+              <head>Til 3. spurning ("Væntar landsstýrismaðurin, at kommunurnar verða grammar at keypa nýggja telduútgerð, tá ið skúlarnir hava fingið tær gomlu?"):</head>
+              <p>
+                <s xml:id="vqju3lc2uc">Landsstýrismaðurin væntar ikki, at henda skipan – um hon verður sett í verk – fær nakra ávirkan á íløguhugin hjá kommunum orsakað av, at hesar teldur ikki eru ætlaðar at koma í staðin fyri tær teldur, sum Undirvísingar- og Mentamálastýrið veitir stuðul til.</s>
+                <s xml:id="ukeokidpwn">Hesar teldur koma ikki at telja við í talinum av teldum, ið tann einstaki skúlin fær stuðul til.</s>
+                <s xml:id="hbjlzu5up7">Talan verður bert um, at fólkaskúlarnir fáa fleiri teldur, enn teir annars vildu havt fingið.</s>
+              </p>
+              <p>
+                <s xml:id="xgmdhg7bzi">Sum er, er ein skipan sett í verk – í 1998, 1999 og 2000 – sum skal stuðla undir soleiðis, at fólkaskúlarnir fáa einar 1.200 til 1.400 teldur til gott 7.000 næmingar.</s>
+                <s xml:id="z2tpcnslhz">Gongur henda ætlan út, verða føroysku fólkaskúlarnir fult á hædd við okkara grannalond og í fleiri førum væl frammanfyri.</s>
+              </p>
+            </div>
+            <div>
+              <head>Til 4. spurning ("Hvønn hugburð hevur landsstýrismaðurin, tá ið tað ræður um kunningartøkni í undirvísing, í mun til tørvin hjá landsins stovnum?"):</head>
+              <p>
+                <s xml:id="krwldnwkxt">Nýtslutørvurin í undirvísingini og á landsins stovnum er hvør sín.</s>
+                <s xml:id="ztehkrglrp">Í undirvísingini er tørvurin sera ymiskur, serliga við atliti til um talan er um 1. flokk ella 9./10. flokk og um hvørja lærugrein teldan verður nýtt í.</s>
+                <s xml:id="xb7dzvmllt">Tær teldur, sum koma at verða endurnýttar, kunnu væntandi nøkta ein stóran part av tørvinum í fólkaskúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="q4e2qi4hv4">Á landsins stovnum setir nýtslan í mongum førum stór krøv til telduna.</s>
+                <s xml:id="vu5v2khaxi">Hesi krøv eru alsamt vaksandi og verður teldan hjá tí einstaka nýtt ein stóran part av arbeiðsdegnum.</s>
+                <s xml:id="wryhkbydxv">Nýtslustigið er vorðið so mikið høgt í dag, við øllum teimum kravmiklu telduskráum, sum tann einstaki brúkarin nýtir hvørt um aðra og oftani samstundis (t.d. tekstviðger, rokniark, samskiftisskrá, avtalu- og fundarstýring, elektroniska journalskipan).</s>
+                <s xml:id="rh5ordqt4n">Hetta eru skráir, sum krevja nógv meira av telduni enn tað, sum verður kravt í eini undirvísing.</s>
+              </p>
+              <p>
+                <s xml:id="zi73ccfwel">Mín hugburður á hesum øki er, at kunnu tær teldur, sum ikki longur nøkta tørvin á almennu stovnunum verða eftirskoðaðar, og um neyðugt umvældar og verða uppstigaðar soleiðis, at tær eru væl nýtiligar í undirvísingini nøkur ár fram, haldi eg at hetta er eitt gott tiltak, ið ber í sær at uppaftur fleiri teldur kunnu koma inn á skúlarnar, og at tann einstaki næmingurin kann fáa fleiri tímar í telduundirvísing.</s>
+                <s xml:id="flm4dmpbvl">Hetta er gagnligt fyri allar partar.</s>
+              </p>
+            </div>
+            <div>
+              <head>Til 5. spurning ("Ber ikki landsins stovnum betur til at brúka dagførdu teldurnar heldur enn skúlunum?"):</head>
+              <p>
+                <s xml:id="qw6rm5suk6">Í viðmerkingunum til fyrispurningin kemur fram, at kanska hevði tað rætta verið at givið stovnunum dagførdu teldurnar og givið skúlunum nýggjar teldur.</s>
+                <s xml:id="koht5enve6">Sum víst á undir svari til spurning 4, er hetta ikki í tráð við tey krøv, sum stovnarnir seta til telduna.</s>
+                <s xml:id="prpccovmyv">Mett verður, at krøvini til orkuna hjá telduni vanliga eru munandi størri á stovnunum enn í flestu førum í undirvísingini.</s>
+                <s xml:id="na43777n42">Tí vildi tað ikki verið skilagott, at skúlarnir og stovnarnir skiftu um.</s>
+                <s xml:id="ymwnuge6d7">Eg kenni ikki til, at gjørt verður soleiðis aðrastaðni, men heldur sum henda verkætlan leggur upp til.</s>
+              </p>
+            </div>
+            <div>
+              <head>Til 6. Spurning ("Er hetta ein liður í almennu sparingunum?"): </head>
+              <p>
+                <s xml:id="cq3jnpr2kh">Nei, tvørturímóti.</s>
+                <s xml:id="sesaayynkm">Undirvísingar- og Mentamálastýrið hevur ætlanir at nýtta knappar 5 mió. kr. til at stuðla kommununum í at keypa uml. 1.200 til 1.400 teldur tey næstu 2 árini.</s>
+                <s xml:id="z4az5k22wd">Henda upphædd verður ikki ávirkað av ætlanum um, at lata fólkaskúlarnar fáa dagførdu teldurnar frá almennu stovnunum.</s>
+              </p>
+              <p>
+                <s xml:id="jbi5qafcqg">At dagføra tær gomlu teldurnar kostar eisini pening.</s>
+                <s xml:id="mqmhai2wv7">Hetta verður fíggjað av eini serligari KT-verkætlanarkonto, ið Vinnumálastýrið hevur tikið stig til.</s>
+              </p>
+              <p>
+                <s xml:id="uv5aki6pbb">Tað, sum væntandi verður útslitið av hesum tiltaki, er, at samfelagið fær størri nyttuvirði av teirri orsøk, at 1) fólkaskúlin fær fleiri teldur enn hann annars hevði viljað fingið, 2) teldur, sum annars høvdu verið beindar burtur, verða dagførdar fyri eina lutfalsligari lítlari upphædd og koma at tæna nøkur ár afturat.</s>
+              </p>
+              <p>
+                <s xml:id="vlxao7xnpc">Annars kann upplýsast, at nakrar dagførdar teldur verða royndar á einum skúla í løtuni.</s>
+                <s xml:id="d2lv2bb4hs">Tá, ið henda royndarætlan er av, verður støða tikin til, um skipanin við at endurnýta hesar teldur eigur at halda fram ella ikki.</s>
+              </p>
+              <p>
+                <s xml:id="jg4f625zlu">Alt í alt haldi eg, at hetta er eitt skilagott tiltak, sum øll áttu at fegnast um.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

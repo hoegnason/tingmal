@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Eldrarøkt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998055Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Heðin Mortensen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4532"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-18">18.03.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998055A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helena Dam á Neystabø</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4533"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-04-22">22. apríl 1999</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998055Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 18. mars, boðaði formaðurin frá soljóðandi fyrispurningi frá Heðini Mortensen, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="y6gl23yhj5">Hvørjar ætlanir hevur landsstýrismaðurin í almanna- og heilsumálum at nøkta tørvin á ellis- og røktarheimsplássum?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ctmhwtgd5l">Hevur landsstýrismaðurin ætlanir um at seta pening av á komandi fíggjarlóg til nýtt ellis- og røktarheim í Suðurstreymoyar økinum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="lan6ai3j6n">Hevur landsstýrismaðurin ætlanir um at fáa døgnrøktarskipan setta í verk?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="fb6babumzb">Hevur landsstýrismaðurin ætlanir um at broyta uppgávu- og ábyrgdarøkið millum land og kommunu viðvíkjandi eldrarøkt?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s xml:id="ziia7k6ozj">Er svarið ja.</s>
+                <s ana="#interrogative" xml:id="mf64rdo5bj">Hvussu ætlar landsstýrismaðurin at fremja tað í verki?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="nsdpp3nvyl">Sum kunnugt er tørvurin á ellis- og røktarheimsplássum als ikki nøktaður.</s>
+                <s xml:id="chrvksia5e">Bíðilistarnir til Ellisheimið og Røktarheimið Lágargarð eru støðugt vaksandi.</s>
+                <s xml:id="fyfzmnx6f5">Sum er, standa 175 persónar á bíðilista til Ellisheimið og 145 á bíðilista til Lágargarð.</s>
+                <s xml:id="iovqq3nmk2">Herav umleið 25 á akutlista, sum øll hava átrokandi tørv á røktarheimsplássi.</s>
+              </p>
+              <p>
+                <s xml:id="y3iqmagq77">Sambært upplýsingum frá Heimarøktini er Suðurstreymoyar økið í mun til fólkatalið nógv ringast fyri, tá talan er um røktarheimspláss.</s>
+              </p>
+              <p>
+                <s xml:id="eumofxrqi2">Í samgonguskjalinum undir pkt. 9.</s>
+                <s xml:id="wk4a6p3r4m">Almanna- og heilsumál verður sagt, at heimarøktarskipanin verður skipað sum døgnrøktartænasta.</s>
+                <s xml:id="dgztal2zbu">Eisini verður sagt, at trupulleikarnir á barnagarðs- og røktarheimsøkinum skulu loysast í samstarvi millum land og kommunu.</s>
+              </p>
+              <p>
+                <s xml:id="r4urajhiqi">Hvussu langt er komið við hesum ætlanum, og eru kommunurnar við í hesum arbeiði?</s>
+              </p>
+              <p>
+                <s xml:id="uoy2lrdv3r">Í verandi lóggávu er ikki ásett, hvør hevur ábyrgdina av, at t.d. røktarheimstørvurin er nøktaður.</s>
+                <s xml:id="wyhug5gbpn">Heldur ikki er lóggivið um, hvussu íløgurnar skulu fíggjast, um kommunur hava ætlanir at byggja nýggj røktar- ella ellisheim.</s>
+                <s xml:id="gdl72qxpvy">Um ein kommuna ásannar, at átrokandi tørvur er at útvega fleiri røktarheimspláss, hvat skal tá til fyri at fáa sett ætlanina í verk.</s>
+              </p>
+              <p>
+                <s xml:id="qx7zlu5veo">Vónandi kann landsstýrismaðurin í almanna- og heilsumálum greiða tinginum frá ítøkiligum ætlanum hesum viðvíkjandi.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="rndu5elpgd">Á tingfundi 19. mars 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998055A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 22. apríl 1999 svaraði Helena Dam á Neystabø, landsstýrismaður, fyrispurninginum soleiðis</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <list>
+              <label>1.</label>
+              <item>
+                <p>
+                  <s xml:id="ojaln7i25e">Landsstýrismaðurin í almanna- og heilsumálum hevur sett í verk eina landsumfatandi tørvskanning av ellis- og røktarheimsplássum og sambýlisplássum í Føroyum.</s>
+                  <s xml:id="zttb4dakxj">Við støði í hesi tørvskanningini verður síðani støða tikin til útbygging á økinum, og hvussu framhaldandi játtanir á løgtingsfíggjarlógini skulu leggjast til rættis til tess at nøkta tørvin yvir eitt áramál.</s>
+                  <s xml:id="c3tfvxjm4w">Landsstýrismaðurin er greiður yvir, at tørvurin á økinum er rættiliga stórur, og verður tí eisini kannað, í hvønn mun tað ber til at loysa bráfeingistrupulleikarnar á annan hátt t.d. við umlættingarplássum og dagrøktarskipanum.</s>
+                </p>
+              </item>
+              <label>2.</label>
+              <item>
+                <p>
+                  <s xml:id="tqu5zz6eld">Til henda spurningin kann svarast, at á løgtingsfíggjarlógini fyri 1999 eru 7 mió. kr. settar av til sambýlir og ellis- og røktarheim í øllum landinum.</s>
+                  <s xml:id="n4tta4ibt2">Hesin peningur skal nýtast til íløgustuðul til tey sambýlir, sum kommunur taka stig til at stovnseta, umframt til at seta skjøtil á at byggja eitt nýtt ellis- og røktarheim í Føroyum.</s>
+                  <s xml:id="diin7e73gb">Endalig støða er ikki tikin til, hvar hetta nýggja ellis- og røktarheimið skal vera, tað verður grundað á omanfyri nevndu tørvskanning, sum verður gjørd í løtuni, og sum væntandi verður liðug innan stutta tíð.</s>
+                  <s xml:id="kv3x5ev7vq">Spyrjarin spyr, í hvønn mun ætlanin er at byggja nýtt ellis- og røktarheim í Suðurstreymoyar økinum.</s>
+                  <s xml:id="fp64t6fvxi">Sum nevnt er støða ikki tikin til, hvar tað nýggja ellis- og røktarheimið skal byggjast, men verður hugsað um Suðurstreymoyar økið, so ber væl til innan fyri karmarnar at seta á stovn nýggj sambýlir.</s>
+                  <s xml:id="vd2utgu2rq">Tað er soleiðis, at mett verður, at eitt sambýli við 8-10 fólkum nøktar tørvin, har fólkagrundarlagið er umleið 1600 borgarar, tað merkir, at í Suðurstreymoyar økinum kundu umleið 10 sambýlir verðið bygd og rikin og hevði tað sjálvsagt minkað munandi um tað stóra trýst, sum er á ellis- og røktarheimini í Suðurstreymoyar økinum.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="oachj6hyst">Í sambandi við at fyrireikingarnar til fíggjarløgtingslóg fyri ár 2000 eru farnar í gongd, hevur landsstýrismaðurin ætlanir um at skipa soleiðis fyri, at døgnrøktarskipan kann setast á stovn í sambandi við heimarøktina.</s>
+                  <s xml:id="w4acjjtsze">Í hesum sambandi hevði tað verið ein fyrimunur, um vit fingu í lag samstarv millum ellis- og røktarheimini, sambýlini og heimarøktina í teimum ymisku økjunum í landinum.</s>
+                  <s xml:id="gbb3vcdbrp">Eitt tílíkt samstarv hevði givið størri fleksibilitet og eisini størri møguleikar fyri at veita døgnrøkt í teimum førum, har tørvur er á tí.</s>
+                </p>
+              </item>
+              <label>4.</label>
+              <item>
+                <p>
+                  <s xml:id="dh6rodvyr2">Tað fyriliggja í løtuni ikki ítøkiligar ætlanir um at broyta uppgávu- og ábyrgdarøkið millum land og kommunu viðvíkjandi eldrarøktini, tó stendur tað í frágreiðingini víðvíkjandi nýggjum kommunubygnaði, at hetta er eitt av teimum økjum, har mælt verður til, at kommunurnar fáa fulla ábyrgd.</s>
+                  <s xml:id="yue4jbn6n5">Tað, sum landsstýrismaðurin hevur sett í verk, er at kanna, í hvønn mun tað ber til at leggja barnaansingina út til kommunurnar at hava fulla ábyrgd av, og tá ið støða er tikin til tess, verður spurningurin viðvíkjandi eldrarøktini eisini tikin upp, tí sum nevnt undir spurningi nr. 3, so er einki at ivast í, at fyrimunir standast av at hava samrakstur millum ellis- og røktarheim, sambýlir og heimarøktina – tær tríggjar skipanirnar.</s>
+                </p>
+              </item>
+              <label>5.</label>
+              <item>
+                <p>
+                  <s xml:id="fw6fu5hjsr">Tað ber tí ikki til enn at siga, hvussu eitt tílíkt broytt uppgávu- og ábyrgdarbýti skal fremjast í verki, men vísandi til frágreiðing frá løgmanni um kommunumál verður sagt frá, at verða uppgávur lagdar út til kommunurnar at hava fulla ábyrgd av, so er endamálið, at tað eisini fylgir við full fíggjarlig ábyrgd fyri økinum.</s>
+                  <s xml:id="xghuvfdzee">Í eini skiftistíð verður mælt til, at blokkstuðul verður latin til kommunurnar í sambandi við tey málsøkir, sum kommunurnar yvirtaka, tvs.</s>
+                  <s xml:id="mwbu37catj">at málini verða latin kommununi at umsita saman við teimum pengum, sum tað kostar í dag.</s>
+                </p>
+              </item>
+            </list>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

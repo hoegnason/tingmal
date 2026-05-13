@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sjúklingaviðgerð uttanlands</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998016Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Kristian Magnussen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4444"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-07">07.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998016A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helenu Dam á Neystabø</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4445"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-12">12. februar 1999</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998016Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 7. januar, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Kristian Magnussen, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <p>
+              <s ana="#interrogative" xml:id="atingefqc4">Hvørja mannagongd nýtir landsstýrið, tá mett verður um kostnaðin og um dygdina av sjúklingaviðgerð í ymsum londum.</s>
+              <s ana="#interrogative" xml:id="idrztt2px3">Og hvør mannagongd verður nýtt, tá metast skal um tørvin á hjálpar- og røktarstarvsfólki uttan fyri viðgerðarstaðið, tá talan er um ambulanta sjúklingaviðgerð?</s>
+            </p>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ptu46niuld">Metir landsstýrið føroyska sjómansheimið í Reykjavík at vera nøktandi karm, tá talan er um sjúklingahotel við neyðugum røktar- og hjálparstarvsfólki?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="tfwvq4oygu">Hava samráðingarnar um at økja og betra um bústaðarumstøðurnar hjá sjúklingum á Hotel Tórshavn givið nakað úrslit, og hvussu gongst við ætlanini um at finna annað betur egnað stað til sjúklingahotel í Keypmannahavn?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="mzhehpvag6">Hevur landsstýrið gjørt sær nakrar tankar um, at danska stjórnin møguliga fer at mótrokna ávísa upphædd í ríkisstuðlinum, um landsstýrið av álvara fer at senda sjúklingar í onnur lond at fáa heilsubót?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="dlgpt7bxap">Um landsstýrið velur at ganga aðrar leiðir at leita sær ráðgeving og sjúklingaviðgerð, hevur landsstýrið so gjørt sær tankar um, at danskar stjórnir frameftir møguliga ikki ynskja at veita eina fyri okkum so ómaksleysa og vælvirkandi tænastu sum hana, ið eitt nú danska heilsustýrið veitir okkum ókeypis í dag?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar</head>
+              <p>
+                <s xml:id="lq6w5muxhm">Tað, sum fær meg at seta henda fyrispurning, er tann mótsigandi, ógreiði og ørkymlandi boðskapurin, ið landsstýrið seinasta hálva árið er komið við, tá talan er um sjúklingaviðgerð uttanlands.</s>
+                <s xml:id="spwbxfxgai">Í hesum máli er trupult at síggja ta fráboðaðu "skipaðu ætlanina" hjá samgonguni um, hvussu fullveldið Føroyar skal skipast.</s>
+              </p>
+              <p>
+                <s xml:id="kdaa2hk7qg">Sagt hevur verið, at aftaná at øll viðurskifti eru kannað væl og virðiliga, at alt er útgreinað her heima hjá okkum sjálvum, og greiðar ætlanir eru gjørdar, tá fyrstani verður farið út um landoddarnar at samráðast</s>
+              </p>
+              <p>
+                <s xml:id="wync4l25x7">Niðanfyri kann vísast á nøkur dømi um ørkymlandi boðskap landsstýrisins.</s>
+              </p>
+              <p>
+                <s xml:id="qjxkjnp4ou">Vit hava hoyrt landsstýrismannin í heilsumálum greitt frá, at føroyingar fáa betri viðgerð fyri ávísar krabbameinssjúkur í Danmark, enn danir fáa sjálvir.</s>
+                <s xml:id="df3seuqqwr">Seinni vísti tað seg tó, at landsstýrismaðurin hevði mistikið seg.</s>
+              </p>
+              <p>
+                <s xml:id="m3yv6phejz">Í heyst var landsstýrismaðurin í heilsumálum í Degi og Viku og greiddi føroyingum frá um samráðingar, hon hevði havt við danska heilsumálaráðharran Carsten Koch.</s>
+                <s xml:id="z6lzh4aw7d">Samráðingarnar snúðu seg sambært landsstýrismanninum um at tryggja støðið á sjúklingaviðgerð av føroyingum í Føroyum og Danmark undir fullveldinum.</s>
+              </p>
+              <p>
+                <s xml:id="uriu4kvgry">Eisini greiddi landsstýrismaðurin frá samráðingum við Søren Pind, borgarstjóra í íbúðarmálum í Keypmannahavnar Kommunu.</s>
+                <s xml:id="vywic3obmd">Samráðingarnar snúðu seg um at fáa eina hædd afturat í bygninginum, har sjúklingahotellið Hotel Tórshavn heldur til fyri at gera tað meiri rúmsátt hjá sjúklingum og avvarðandi.</s>
+              </p>
+              <p>
+                <s xml:id="hv6eo7r2np">Seinni hevur landsstýrismaðurin greitt frá, at talan ikki er um at leiga eina nýggja hædd, men bert at fáa góðkent eina av verandi hæddunum á Hotel Tórshavn, sum í dag ikki er góðkend til at hýsa sjúklingum.</s>
+                <s xml:id="frnkagkokg">Eisini varð greitt frá ætlanini hjá landsstýrinum at finna nýggj høli til sjúklingahotel í Keypmannahavn.</s>
+              </p>
+              <p>
+                <s xml:id="hgit36xlcl">Beint fyri jól frættist í fjølmiðlunum frá landsstýrismanninum í heilsumálum, at landsstýrið arbeiðir við ætlanum at senda føroyskar sjúklingar til viðgerðar í øðrum londum enn Danmark, tí viðgerðin kann fáast betri og bíligari aðrastaðni.</s>
+              </p>
+              <p>
+                <s xml:id="ggfpfokwsx">Ísland varð nevnt sum eitt stað við betri viðgerðarmøguleikum, enn vit kunnu fáa í Danmark.</s>
+                <s xml:id="tw7wgfbx5f">Sjómannsheimið Ørkin í Reykjavík var sambært landsstýrismanninum væl egnað sum sjúklingahotel, sjálvt um einki heilsustarvsfólk er knýtt at Ørkini.</s>
+              </p>
+              <p>
+                <s xml:id="ebv2xfjmmd">Sum eina av grundgevingunum fyri møguliga at flyta viðgerðina til onnur lond enn til Danmarkar hevur landsstýrismaðurin tikið tjóðveldisretorikkin til sín.</s>
+                <s xml:id="wejnz4vswr">At vit sjálvi rinda fyri viðgerðina, og tí skulu senda sjúklingar har, ið vit fáa mest fyri peningin.</s>
+                <s xml:id="zykoietgzm">Í hesi royndini at sannføra fólk um, at føroyingar sjálvir rinda fyri sjúklingaviðgerð uttanlands, gloymir landsstýrið at greiða frá, at kostnaðurin av sjúklingaviðgerð uttanlands upprunaliga varð lagdur í heildarveitingina úr Danmark.</s>
+                <s xml:id="jr7gabj26f">Henda verður javnað uppeftir á hvørjum ári, eisini í avtaluni, ið núverandi samgonga hevur gjørt við donsku stjórnina.</s>
+              </p>
+              <p>
+                <s xml:id="r6ycyu6n3z">Hesar mótstríðandi og ógreiðu ætlanir landsstýrisins hava longu ført til stúran og ótryggleika millum fólk, men vónandi kann svarið uppá henda fyrispurning geva okkum eina greiðari mynd av pørtum av heilsupolitikki samgongunnar.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="avc465zjyy">Á tingfundi seinni sama dag varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998016A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 12. februar 1999 svaraði Helena Dam á Neystabø, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <list>
+              <label>1.</label>
+              <item>
+                <p>
+                  <s xml:id="as4bdb4bts">Sambært løgtingslóg um Sjúkrahúsverk Føroya hava yvirlæknar á sjúkrahúsunum "rætt til at senda sjúklingar til viðgerðar í Danmark, og í serligum førum kann ein yvirlækni við loyvi frá leiðsluni fyri sjúkrahúsverkið senda sjúklingar til viðgerðar í øðrum londum".</s>
+                  <s xml:id="y4vgd7paif">Tað eru sostatt yvirlæknar innan føroyska sjúkrahúsverkið, ið hava heimild til at senda sjúklingar til viðgerðar uttanlands.</s>
+                  <s xml:id="iffquabb7e">Tað eru sostatt teir, ið gera metingar av, hvar teir halda, at best er at senda sjúklingin.</s>
+                </p>
+                <p>
+                  <s xml:id="u272nqtv4w">Almanna- og heilsumálastýrið hevur ikki gjørt nakra serstaka kanning av kostnaðinum og dygdini av sjúklingaviðgerð í ymsum londum.</s>
+                </p>
+              </item>
+              <label>2.</label>
+              <item>
+                <p>
+                  <s xml:id="dujqfxh5s2">Um føroyska sjómansheimið í Reykjavík er nøktandi karmur, tá talan er um sjúklingahotel, er ógjørligt at meta um, fyrr enn vitan er um, hvørjar sjúklingar talan er um.</s>
+                  <s xml:id="v3vpx6tvbe">Í dag verða sera fáir føroyskir sjúklingar viðgjørdir í Íslandi.</s>
+                </p>
+                <p>
+                  <s xml:id="nl4h4ak5tt">Um hetta mynstrið verður broytt, so kann møguleikin ikki útihýsast, um so er, at sjómansheimið skal brúkast til sjúklingahotel, at tað noyðist at verða útbygt við neyðugum røktar- og hjálparstarvsfólki.</s>
+                  <s xml:id="d5rfhn4jjl">Hetta velst tó um, hvat slag av sjúklingum talan er um, og hvussu vánaligir hesir sjúklingar eru.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="wsmfsemrp3">Samráðingarnar við Keypmannahavnar Kommunu hava enn ikki givið nøktandi úrslit.</s>
+                  <s xml:id="b3nfnwrnqv">Keypamannahavnar Kommuna er av teirri fatan, at miðbýurin í Keypmannahavn eigur at verða nýttur til íbúðir og ikki til vinnuendamál so sum sjúklingahotel.</s>
+                </p>
+                <p>
+                  <s xml:id="xwo2n23hgi">Arbeiðið við at finna eitt nýtt Hotel Tórshavn er farið í gongd.</s>
+                </p>
+              </item>
+              <label>4.</label>
+              <item>
+                <p>
+                  <s xml:id="cmz36u7sim">Almanna- og heilsumálastýrið er av teirri fatan, at blokkurin skal metast sum ein heild.</s>
+                  <s xml:id="udvit4f5qs">Tað er rætt, at blokkurin upprunaliga varð útroknaður eftir, hvat danski staturin læt í refusión til føroyska samfelagið.</s>
+                  <s xml:id="pnigkj4pt7">Men tað er ikki longur nakar samanhangur herímillum.</s>
+                </p>
+              </item>
+              <label>5.</label>
+              <item>
+                <p>
+                  <s xml:id="fa7us3utq4">Almanna- og heilsumálastýrið metir ikki, at fyri tí um danska heilsustýrið hevur eftirlit við føroyska heilsuverkinum, at Almanna- og heilsumálastýrið er avskorið frá at leita sær ráð og vegleiðing aðrastaðni enn frá danska heilsustýrinum.</s>
+                </p>
+              </item>
+            </list>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

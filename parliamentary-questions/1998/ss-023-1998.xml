@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Innflutnings- og fiskiloyvi til Frøyanes</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998023Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Bjarni Djurholm</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4462"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-22">22.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998023A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jørgen Niclasen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4463"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998023Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 22. januar, boðaði formaðurin frá omanfyrinevnda fyrispurningi frá Bjarna Djurholm, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="v2gsvtbwxw">Er tað í samsvari við lógina um vinnuligan fiskiskap, at nýmótans línuskip ogna sær fiskiloyvi í bólki 4 B?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="g6xdx45pis">Hevur skipanarnevndin viðmælt, at føroyingar eru slopnir at flyta inn Frøyanes, og at báturin fær fiskiloyvi í bólki 4 B?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="euymw3c64v">Fær Frøyanes loyvi at royna á grunnum vatni, har onnur fiskiskip í somu stødd ikki sleppa at royna?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="o7goupbbh4">Víkir landsstýrið í hesum máli frá meginreglunum um vinnuligan fiskiskap í spurninginum um atgongd til føroysk veiðiloyvi og kvotur?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="nkjobwmiat">Hvussu tryggjar landsstýrið sær, at reglurnar um ognarviðurskiftini í fiskiflotanum verða hildnar sambært § 7 í lógini um vinnuligan fiskiskap?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head>Viðmerkingar:</head>
+              <p>
+                <s xml:id="vdwuro6na2">Fyri stuttum kom undan kavi, at eitt føroyskt felag hevur keypt 2/3 av norska frystilínubátinum Frøyanes, og at norðmenn framhaldandi eiga seinasta triðingin.</s>
+                <s xml:id="e52d4iaksf">Sambært landsstýrinum er hesin línubátur skrásettur í bólki 4 B, saman við útróðrarbátum yvir 40 tons.</s>
+                <s xml:id="cc6rra54jq">Fyri at náa hesi skráseting, hava føroysku eigararnir keypt trý skip úr flotanum, og eftir umrokningum fær nýggi línubáturin 156 fiskidagar umframt íslandsloyvi.</s>
+              </p>
+              <p>
+                <s xml:id="sto3r2umhd">Henda mannagongd hevur vakt ans.</s>
+                <s xml:id="ib3aztl4lc">M.a. er Frøyanes skrásettur í bólkinum fyri útróðrarbátar yvir 40 tons og ikki fyri línuskip yvir 110 tons.</s>
+                <s xml:id="ikmhea3mwh">Harafturat skilst, at landsstýrið hevur játtað at leggja veiðiloyvir saman millum bólkarnar, og fylgja fiskidagarnir tí við.</s>
+              </p>
+              <p>
+                <s xml:id="oj4rz3bbnm">Hóast norðmenn bert eiga triðingin í línubátinum, er spurningurin, um landsstýrið nú opnar fyri møguleikanum, at útlendingar, sum frá líður, kunnu ogna sær føroysk fiskiloyvi og kvotur.</s>
+              </p>
+              <p>
+                <s xml:id="ilrkpstfkt">Vit kunnu longu staðfesta, at stórur útlendskur áhugi er í nótaflota okkara, og at alivinnan lutvíst eisini er undir útlendskari leiðslu og ognarrætti.</s>
+                <s xml:id="sm2g4xado2">Hetta kann verða ein óheppin gongd, tí sum frá líður kann høvuðsvinnan gerast útlendsk og fer tí ikki at virka við føroyskum áhugamálum fyri eyga.</s>
+              </p>
+              <p>
+                <s xml:id="rdobakg2wp">Politiski boðsetningur landstýrisins hevur verið, at veiðitrýstið ikki skal økjast.</s>
+                <s xml:id="u7djziqxjg">M.a. varð dagatalið hjá línuskipunum lækkað í fjør.</s>
+              </p>
+              <p>
+                <s xml:id="msvug4coaf">Ein týðandi táttur í fiskivinnupolitikkinum hevur eisini verið, at skip og bátar eru bólkaði eftir stødd og reiðskapi.</s>
+                <s xml:id="hdptxqrpub">Fiskiskapurin undir Føroyum er sera fjølbroyttur, og hóast sjálvsagt ynski um størri umsetiligheit í skipanini, so hevur tað týdning, at býtið millum stór og smærri skip/bátar verður soleiðis, at trolarar og størri før ikki fiska við síðuna av úróðrarbátum o.s.fr. Hetta er ein partur av sjálvari stovnsrøktini.</s>
+              </p>
+              <p>
+                <s xml:id="p7luiduh5v">Sum skilst hevur Frøyanes fingið fiskiloyvi millum smáu skipabólkarnar, og gitingar eru tí um, at hann fer at royna við allari veiðiorku síni á grunnum vatni, har størru føroysku skipini ikki sleppa framat.</s>
+                <s xml:id="sfirjcrhpe">Um so er, er hetta nýggj mannagongd í býtinum millum skipabólkarnar, og eigur lands-stýrismaðurin tí at greiða tinginum frá samanhanginum í mannagongdini í málinum higartil.</s>
+              </p>
+              <p>
+                <s xml:id="k4odysg2xa">Nýggi línubáturin fer at frysta fiskin umborð, og tað er nógv, ið bendir á, at ætlanin er at avreiða í Noregi.</s>
+                <s xml:id="mj6dylkkms">Um veiðan ikki verður avreidd og virðisøkt í Føroyum, er tað ein spurningur, um tað er í samsvari við førda fiskivinnupolitikkin.</s>
+              </p>
+              <p>
+                <s xml:id="nbjhg7fyn5">Tað er sera umráðandi, at føroyingar sjálvir hava fulla stýring á fiskivinnuni, og at vit ikki fráskriva okkum ognarættin til tilfeingi okkara.</s>
+                <s xml:id="tddx4iw2an">Tað kann gerast ein vandaleið, enda føroysk fiskiloyvi/kvotur sum veðhald hjá eitt nú norskum kreditorum.</s>
+              </p>
+              <p>
+                <s xml:id="fieawdrpps">Samanumtikið hava fleri spurningar og gitingar stungið seg upp í málinum um Frøyanes.</s>
+                <s xml:id="gjhpirfh3c">Tí verður hesin fyrispurningur settur landsstýrismanninum í fiskivinnumálum.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="lqymywaepu">Á tingfundi tann 26. januar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998023A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

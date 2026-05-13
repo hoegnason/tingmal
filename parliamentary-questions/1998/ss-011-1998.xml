@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Orðabókaútgáva úr og í fremmand mál</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998011Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Bjarni Djurholm</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4432"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-11-18">18.11.1998</date>
+          </bibl>
+          <bibl xml:id="SS1998011A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Signar á Brúnni</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4433"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-12-17">17. december 1998</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998011Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1998, 18. november, boðaði formaðurin frá soljóðandi fyrispurningi frá Bjarna Djurholm, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="vakqnxnx4x">Ætlar landsstýrið at fyrireika løgtingslógarheimild til føroyska orðabókaútgávu úr og í fremmand mál?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="hurknpsi6d">Hvussu langt er landsstýrið komið í møguligum fyrireikingum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="jm77uo3xzp">Verður peningur settur av til endamálið á komandi fíggjarlóg?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="dlb7uxpmiq">Allastaðni, har brúk er fyri at bera føroyingum boð, veri tað seg úr umheimi ella innanhýsis, er tørvurin á orðabókum sjónligur í gerandisdegnum.</s>
+              </p>
+              <p>
+                <s xml:id="z3ranwfuse">Vit verða alsamt meira altjóðað, og í tí samanhangi nítur óvissan um okkara egna mál sárt, og við so veikum málsligum festi sum okkara, eru vit løtt at taka av fótum, lætt er at kveikja í málsligar ivar, og lætt er at gerast líkasæl.</s>
+              </p>
+              <p>
+                <s xml:id="qldf5nyed7">Vit hava livað so leingi í hesum tørvi, at vit liva við honum, sum um hann eigur at vera her, sum um hann ikki kann verða nøktaður.</s>
+              </p>
+              <p>
+                <s xml:id="j7ufx5fdfc">Størsta forðingin fyri at fáa undirvísingarkervið føroyskt og at menna føroyingar málsliga er vantandi orðabøkur.</s>
+                <s xml:id="exxl6wf7r7">Í kjalarvørrinum á orðabókunum hevði ligið tað tilfar, sum hevði skapt nýggjan hugburð til móðurmálið og nýggja sjálvsagda virðing fyri tí.</s>
+              </p>
+              <p>
+                <s xml:id="y4ieqah5uc">Næmingar, lærarar, skrivstovu-, fjølmiðla- eins og vinnulívsfólk eiga at sleppa úr fremmandum málum inn í sítt egna so væl sum til ber.</s>
+                <s xml:id="pgzalwm5kr">Men tey sleppa mangan ikki - ikki tí at málið ikki er tókt, ella tí tey ikki leggja lag í at brúka tað, men tí tørvur er á grundleggjandi amboðum til arbeiðið.</s>
+              </p>
+              <p>
+                <s xml:id="csmkolql4r">Til fyri kortum sluppu vit ikki úr enskum inn í føroyskt, vit sleppa framvegis ikki úr týskum og fronskum ella øðrum málum inn í føroyskt.</s>
+              </p>
+              <p>
+                <s xml:id="fcwvnj3ara">Tá ið tað snýr seg um at fara úr føroyskum og inn í onnur mál, er ein avgerandi fortreyt tíbetur lokin, nú Føroyska Orðabókin (móðurmálsorðabókin) kom út undan ólavsøku í ár.</s>
+              </p>
+              <p>
+                <s xml:id="qnh7cd2ec2">Tá ið nýggja enska-føroyska orðabókin kom á marknaðin var greitt, at til ber at gera slíkt valaverk í minni enn 2 ár fyri uml. 1,5 mió. krónur.</s>
+                <s xml:id="n73lzew7zn">Ein upphædd, sum forlagið fekk innaftur, so hvørt orðabókin varð seld.</s>
+              </p>
+              <p>
+                <s xml:id="cp4qpxfplq">Við hesum úrsliti kundu vit vænta, at fólk við ábyrgd fyri skúla, mentan og vinnulívi her sóu møguleikar og samskipaðu arbeiðið soleiðis, at stig vórðu tikin til at fáa til vega allar neyðugar orðabøkur.</s>
+                <s xml:id="hleimveiwa">Varð farið til verka tá, høvdu vit í dag havt fleiri orðabøkur úr fremmandum málum.</s>
+              </p>
+              <p>
+                <s xml:id="hz6a7nzwg2">Fyri at fáa glið á málið, legði undirritaði 15. februar 1997 uppskot fyri løgtingið við áheitan um, at løgtingið samtykti lógarheimild fyri orðabókaútgávu úr og í fremmand mál.</s>
+              </p>
+              <p>
+                <s xml:id="dm5lvbx6zz">Málið varð viðgjørt í mentanarnevndini, og 30. apríl 1997 samtykti løgtingið soljóðandi uppskot til samtyktar: <lb/><hi rend="bold">"Heitt verður á landsstýrið um at fara undir at fyrireika føroyska orðabókaútgávu úr og í fremmand mál og at seta neyðugan pening av til endamálið á fíggjarlógini"</hi>.</s>
+              </p>
+              <p>
+                <s xml:id="qkgtkbdjyr">Mentanarnevndin var samd um, at neyðugt er at samskipa føroyska orðabókaútgávu úr og í fremmand mál, og at í arbeiðinum til altjóðingina eiga teir stovnar, grunnar og forløg, sum arbeiða við orðabókagerð og -útgávu, at vera við til at leggja til rættis teir karmar, sum verða støði undir lóggávu á økinum.</s>
+              </p>
+              <p>
+                <s xml:id="podsq3flaq">Meirilutini í nevndini ásannaði, at árliga verða brúktar munandi upphæddir at keypa danskar orðabøkur úr og í fremmand mál.</s>
+                <s xml:id="myahzt5qmh">Umfarmt tann málsliga umvegin, nýtslan av hesum orðabókum fremur, so gagna hesi orðabókakeyp fyrst og fremst útlendsku forløgunum.</s>
+                <s xml:id="wvpudcxom5">Við atliti til hesa sannroynd er tað tí sannlíkt, at meginparturin av teirri upphædd, sum møgulig føroysk orðabókagerð kostar, kemur innaftur, so hvørt orðabøkurnar verða seldar.</s>
+              </p>
+              <p>
+                <s xml:id="lklohli4kp">Fyri stuttum frættist, at Norðurlandaráðið hevði samtykt at seta pening av til tey "smáu" málini í norðurlondum.</s>
+                <s xml:id="egwq437kus">Hetta vóru góð tíðindi, og spurningurin er tí, í hvønn mun vit kunnu fáa gagn av hesi játtan.</s>
+              </p>
+              <p>
+                <s xml:id="gfu7wporzj">Tó at undanfarna landsstýrið hevði nevndu løgtingssamtykt at halda seg til, kom ikki stórvegis burturúr.</s>
+              </p>
+              <p>
+                <s xml:id="tn3kczkdhr">Tað er ivasamt, um løgtingssamtyktir eru galdandi tvørtur um løgtingsval.</s>
+                <s xml:id="xhwgjcu3m5">Hóast tað, so verður landstýrismaðurin í skúlamálum biðin um at greiða frá støðu landsstýrisins í málinum um útgávu av orðabókum úr og í fremmand mál.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="h7ovghi3ms">Á tingfundi 19. november 1998 var samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998011A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 17. december 1998 svaraði Signar á Brúnni, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold">Svar</head>
+            <p>
+              <s xml:id="lnpcdjyxv5">Eg loyvi mær at svara fyrispurninginum undir einum og við atliti at uppskoti til samtyktar, sum Bjarni Djurholm, løgtingsmaður, legði fyri løgtingið 9. februar 1997 (løgtingsmál nr. 45/96).</s>
+              <s xml:id="dzua7re65i">Í viðmerkingunum til uppskotið reisti Bjarni Djurholm fleiri týðandi og áhugaverdar spurningar í sambandi við føroyska orðabókaútgávu.</s>
+              <s xml:id="q6l6vk2r6s">Eisini nam hann við nakrar av teimum fortreytum, ið eru neyðugar til tess at fá gongd á orðabókaarbeiðið.</s>
+              <s xml:id="u32rsvhljt">Bjarni Djurholm nam eitt nú við tvær meginfortreytir fyri orðabókaútgávu úr og í fremmand mál, nevniliga útgávu av móðurmálsorðabókini, ið tá enn ikki var komin út og við fíggingarspurningin.</s>
+              <s xml:id="glyfo2wqd4">Bjarni Djurholm nevndi eisini hetta, at eingin fyriskipaður orðabókapolitikkur er, og at orðabókaarbeiðið tí var eyðkent av tilvild og av tiltøkum, sum einstaklingar gera av sínum eintingum.</s>
+            </p>
+            <p>
+              <s xml:id="yos3xtqnkc">Sum tingmonnum kunnugt endaði viðgerðin av hesum tingmáli við, at løgtingið tann 30. apríl 1997 samtykti at heita á landsstýrið um at fara undir at fyrireika føroyska orðabókaútgávu úr og í fremmand mál og at seta neyðugan pening av til endamálið á fíggjarlógini.</s>
+            </p>
+            <p>
+              <s xml:id="zfvnueamid">Síðan henda samtykt varð gjørd, er tað gleðiliga hent, at tvær nýggjar orðabøkur eru komnar út.</s>
+              <s xml:id="vzzayepgqo">Fyrr í ár kom <hi rend="bold">Føroysk orðabók</hi> – vanliga nevnd móðurmálsorðabókin, sum er evnað til á Føroyamálsdeildini og givin út av Føroya Fróðskaparfelag, og nú um dagarnar kom <hi rend="bold">Donsk-føroysk</hi> orðabók hjá forlagnum Stiðin.</s>
+              <s xml:id="tjk3nlkopt">Aftan fyri báðar bøkur liggur stórt og dygdargott granskingarbeiði.</s>
+              <s xml:id="yvxrwf4nhl">Báðar bøkur eru vælaverk og útgávurnar eru stór framstig á hesum øki – so stór framstig, at týdningurin av hesum verkum valla kann yvirmetast.</s>
+            </p>
+            <p>
+              <s xml:id="tgikclc2i6">Landskassin hevur stuðlað útgávuni av báðum bókum.</s>
+              <s xml:id="z62jagzi4m">Móðurmálsorðabókin er í høvuðsheitinum fíggjað av <hi rend="bold">"Orðabókagrunninum", "Landskassagrunninum til útgávu av orðabókum og "Carlsberggrunninum"</hi>.</s>
+              <hi rend="bold">
+                <s xml:id="vuh4uhrf2h">Orðabókagrunnurin kann sambært reglugerð frá 1964 bert fíggja handritagerð, meðan "Landskassagrunnurin" bert var ætlaður at fíggja sjálva útgávuna.</s>
+                <s xml:id="roxo3vgvlw">Nú "Landskassagrunnurin til útgávu av orðabókum" er niðurlagdur við løgtingslóg nr. 94 frá 6. juni 1997, er tørvur á skipaðari fígging av sjálvum útgávuvirkseminum t.v.s. útreiðslum til prenting o.a. Hetta kann verða gjørt við at broyta reglugerðina fyri Orðabókagrunnin, soleiðis at grunnurin umframt handritagerð eisini kann fíggja útgávu.</s>
+                <s xml:id="pfhoznqksh">Í øðrum lagi kann hetta gerast við at økja játtanina til orðabókagerð á fíggjarløgtingslógini.</s>
+                <s xml:id="inbwt42gie">Orðabókagrunnurin fær allar inntøkur av søluni av øllum orðabókum, sum Fróðskaparfelagið gevur út, eitt nú av móðurmálsorðabókini og føroysk-donsku orðabókni.</s>
+                <s xml:id="j46yi5xm56">Móðurmálsorðabókin er goldin og stendur í dag ein millión kr. í Orðabókagrunnninum. "</s>
+              </hi>
+            </p>
+            <p>
+              <s xml:id="dfonmhamjz">Tað kann verða nevnt, at tað í løtuni verður arbeitt við orðabókum á øðrum økjum.</s>
+              <s xml:id="dnwhbgbdml">Orðabókagrunnurin fer í næstum at geva út teldutøku móðurmálsorðabókina.</s>
+              <s xml:id="eore3asdoz">Ein samheitaorðabók í gerð og ein íslensk-føroysk orðabók er um at verða liðug í Íslandi.</s>
+              <s xml:id="qlxtzoopmc">Undirvísingar- og Mentamálastýrið hevur í ár stuðlað báðar verkætlanir fíggjarliga av játtanini til orðabókagerð á fíggjarlógini fyri 1998.</s>
+            </p>
+            <p>
+              <s xml:id="ryj36uwfqu">Umframt hesar nevndu orðabøkur verður á Føroyamálsdeildini arbeitt við einari tøkniligari orðabók.</s>
+              <s xml:id="fxsrneya4t">Hetta arbeiðið hevur higartil verið fíggjað av einum oljufelagi, men tørvur verður komandi ár á landskassastuðli til hetta týdningarmikla arbeiði.</s>
+              <s xml:id="hirg66eknc">Føroya Fróðskaparfelag hevur ætlanir um at geva føroysk-donsku orðabókina út av nýggjum.</s>
+              <s xml:id="hy5v7yixlt">Bókin verður endurskoðað og víðkað.</s>
+            </p>
+            <p>
+              <s xml:id="c6kqrezzbv">Á verandi fíggjarlóg eru settar av kr. 250.000 til at stuðla orðabókagerð og eru higartil í ár eftir umsókn goldnar út kr. 80.000.</s>
+              <s xml:id="kgapcxsovb">Eftir eru sostatt kr. 170.000, til endamálið og Undirvísingar- og Mentamálastýrið roknar við, at henda upphædd verður nýtt í verandi fíggjarári, hóast langt er útliðið.</s>
+            </p>
+            <p>
+              <s xml:id="xxotez6gul">Ein kann ikki annað enn at geva spyrjaranum rætt í, at stórur tørvur er á orðabókum úr og í fremmand mál.</s>
+              <s xml:id="ec2kgvfxle">Hetta merkir, at tørvur er á skipaðum orðabókaarbeiði og á fígging.</s>
+              <s xml:id="fzd3cwad7a">Orðabókaarbeiði og orðabókaútgáva eru kostnaðarmikil.</s>
+            </p>
+            <p>
+              <s xml:id="a6rnpjvyg3">Hinvegin ivist eg í, hvørt tað er rætt at skipa orðabókaarbeiði við løgtingslóg.</s>
+              <s xml:id="xzsioa65uc">Tað rætta má vera, at løgting og landsstýri seta málini við oðrabókapolitikkinum og tryggja fíggjarliga støðið fyri neyðturviligum orðabókavirksemi.</s>
+              <s xml:id="i7fte4wzkg">Sjálvt orðabókaarbeiðið og orðabókaútgávan eiga at verða fyriskipað av teimum fakligu stovnum, ið hava til uppgávu at røkja móðurmálið, ella av privatum við stuðli frá tí almenna.</s>
+              <s xml:id="igg3vyollz">Best hevði tó verið, um allir partar við áhuga fyri orðabókaarbeiði samstarvaðu.</s>
+              <s xml:id="yanotf7yrr">Undirvísingar- og Mentamálastýrið kann ikki noyða partarnar at samstarva.</s>
+              <s xml:id="xyivjpmspt">Hinvegin ber til at seta pørtunum treytir í samband við játtan av peningi til orðabókaarbeiði- og útgávu.</s>
+              <s xml:id="so7edfnkpp">Eisini kann Undirvísingar- og Mentamálastýrið skipa fyri samráðingum millum allar áhugaðar partar við tí endamáli at fáa partarnar at samstarvast, tí land okkara er ov lítið til, at vit í longdini hava ráð til at lata hetta týdningarmikla arbeiði verða avrikað av fleiri ymiskum pørtum.</s>
+              <s xml:id="pbn7w3rsum">Tað ræður um at troyta fíggjarliga og menniskjaliga tilfeingið sum best.</s>
+              <s xml:id="nrndnwnqdc">Hetta kann verða gjørt í sambandi við, at eg ætli mær at leggja til rættis ein orðabókapolitikk, har sett verða nøkur mál fyri orðabókaarbeiðinum tey komandi árini.</s>
+              <s xml:id="gaztj4scnl">Hetta eigur at verða gjørt í samráði við allar áhugaðar partar, og eigur at kunna verða gjørt uttan at nerva tað vísindaliga frælsi, ið vit annars meta sum støðið undir hollari gransking.</s>
+            </p>
+            <p>
+              <s xml:id="edg4ihxzyj">Vit eiga fólk við høgum fakligum førleika, og eiga vit at tryggja teimum so góðar arbeiðsumstøður sum møguligt.</s>
+              <s xml:id="e7m2j4ykei">Vit hava í høvuðsheitunum tvey forløg, ið geva út orðabøkur.</s>
+              <s xml:id="mlbluzq3bh">Bæði forløg gera eitt stórt og gott arbeiði.</s>
+              <s xml:id="ooahwujflr">Vit eiga at stuðla fakfólki og forløgum, og royna at fáa tey at samstarvast alt við tí aðalendamáli at tryggja skúlaungdómi og fólki sum heild, sum mest og best av orðabókum - hesum týdningarmiklu amboðum, sum eingin kann vera fyri uttan í einum framkomnum samfelagi.</s>
+            </p>
+            <p>
+              <s xml:id="ztshx6zvjm">Undirvísingar- og Mentamálastýrið hevur hækkað játtanina til orðabókagerð á uppskoti løgtingsfíggjarlóg 1999 – úr kr. 250.000,- til kr. 400.000,-.</s>
+              <s xml:id="oehjh35anu">Vónandi verður hetta uppskot samtykt, og síðan fáa vit at síggja, hvussu stórur áhugin er fyri játtanini.</s>
+              <s xml:id="ysdhw233gq">Vísir tað seg, at tørvurin er størri enn mett, ber til at økja játtanina í komandi fíggjarárum, um vilji er til tess á løgtingi.</s>
+            </p>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

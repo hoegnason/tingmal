@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viðurskiftir Føroya til evruna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998033Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jenis av Rana</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4478"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-09">09.02.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998033A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Anfinn Kallsberg</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4479"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998033Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi tann 9. februar 1999 boðaði formaðurin frá omanfyrinevnda fyrispurningi frá Jenis av Rana, løgtingsmanni, sum var soljóðandi</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ggsvgyfxec">Hvørjar ætlanir hevur Føroya landsstýri viðvíkjandi viðurskiftum Føroya til nýggja gjaldoyra - evruna?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="uktfkjxm5o">Er nøkur politisk avgerð tikin um, hvussu farast skal fram, um Danmark tekur avgerð um at skifta krónuna um við evruna (egið føroyskt gjaldoyra ella framhald við donsku krónuni)?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="r2e4vmmde3">Hevur samband verið millum donsku stjórnina ella danska forsætisráðharran og Føroya landsstýri um omanfyrinevndu viðurskifti?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s xml:id="p4xmxmzgsy">Hevur Føroya landsstýri tikið avgerð um støðu føroyinga undir evt.</s>
+                <s ana="#interrogative" xml:id="enchubm63e">fólkaatkvøðu í Danmark um tilknýti til evruna?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s xml:id="renxjpoqjc">Hvussu metir landsstýri, at ein evt.</s>
+                <s ana="#interrogative" xml:id="c34cvwkryk">avgerð í Danmark um at nýta evruna kemur at ávirka ætlanir landsstýrisins um fullveldi?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="fwc5se2jtu">Á tingfundi tann 12. februar varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998033A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

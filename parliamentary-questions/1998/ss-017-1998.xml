@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Arbeiðstilboð til rørslubrekað</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998017Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Finnur Helmsdal</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4448"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-07">07.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998017A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helena Dam á Neystabø</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4449"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-17">17. februar</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998017Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 7. januar, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Finni Helmsdal, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ujeocgbsf4">Hví var einki virksemi á ALV verkstaðnum 1998?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="vitt5cbrnc">Hví varð partur av teimum pengunum, sum vórðu játtaðir til ALV verkstaðin, ikki nýttir sum íløga í verkætlanina um arbeiðstilboð til rørslutarnað?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="jatbjmtudl">Hevur landsstýrið ætlanir um at stuðla nevndu verkætlan?</s>
+                <s ana="#interrogative" xml:id="n7v2izfy5f">Hvussu og nær?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="eeuy2mvefs">Um ikki, hvørjar ítøkiligar ætlanir hevur landsstýrið so um at veita rørslutarnaðum viðkomandi arbeiðstilboð í nærmastu framtíð?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar</head>
+              <p>
+                <s xml:id="dn3pkcldj7">Virksemið á Verkstaðnum hjá ALV hevur ligið stilt í meira enn eitt ár, og av teimum pengunum, sum vórðu játtaðir til ALV verkstaðin 1998, varð einki nýtt til endamálið.</s>
+                <s xml:id="tbax2fnb57">Hetta hóast landsstýrið varð biðið um at stuðla fíggjarliga forvitnisligari verkætlan um arbeiðstilboð til rørslutarnað.</s>
+                <s xml:id="e7exe6l57k">Ein verkætlan, ætlað til rørslutarnað, sum annars eru arbeiðsfør.</s>
+                <s xml:id="su5g25fb5n">Hesin bólkur er vaksandi, og hann stendur í dag so at siga uttan arbeiðstilboð.</s>
+              </p>
+              <p>
+                <s xml:id="vafku5kb24">Verkætlanin varð fyrst løgd fyri Óla Jacobsen, tá hann var landsstýrismaður í almannamálum, og gav hann henni stóran ans.</s>
+                <s xml:id="mlcl2bgce3">Síðan hevur Helena Dam á Neystabø, landsstýrismaður, verið kunnað um verkætlanina.</s>
+              </p>
+              <p>
+                <s xml:id="g5soiowisf">Tó hevur landsstýrið einki ítøkiligt gjørt fyri at seta nevndu verkætlan um arbeiðstilboð til rørslutarnað ígongd, hetta hóast játtaður peningur stóð ónýttur til verkstaðar virksemi hjá ALV.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="gl6dnh465j">Á tingfundi seinni sama dag varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998017A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 17. februar svaraði Helena Dam á Neystabø, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <p>
+              <s xml:id="jjbm6ip7ty">Eitt stýri er fyri ALV.</s>
+              <s xml:id="agbrjd5cxh">Hetta stýrið verður valt av Vanlukkutryggingarráðnum.</s>
+              <s xml:id="uysrpwrk7r">Sambært viðtøkunum fyri stýrið, sum Vanlukkutryggingarráðið hevur gjørt, hevur Føroya Landsstýri bara eitt umboð í stýrinum.</s>
+            </p>
+            <p>
+              <s xml:id="vh25s3yhqv">Føroya Landsstýri hevur veitt stuðul til virksemið hjá ALV, tey seinastu árini við 340.000 kr., men í 1998 varð stuðulin hækkaður til 900.000 kr.</s>
+              <s xml:id="h6hzrzelwr">Ætlanin var í 1998 at góðkenna verkstaðið hjá ALV, t.v.s. góðkenna verðstaðið eftir § 32 í forsorgarlógini.</s>
+              <s xml:id="ji5cuqnece">Hetta varð av ongum, og er tað orsøkin til, at játtanin til ALV uppá 900.000 kr. ikki varð nýtt.</s>
+            </p>
+            <p>
+              <s xml:id="cpg5kjiviz">Almanna- og heilsumálastýrið er kunnað um, at virksemið á ALV verkstaðnum hevur ligið stilt meginpartin av 1998, tí tað starvsfólkið, sum samskipaði virksemið, fór úr starvi.</s>
+            </p>
+            <p>
+              <s xml:id="ye6oyuhhgr">Vanlukkutryggingarráðið hevur síðst í 1998 gjørt nýggjar viðtøkur fyri stýrið.</s>
+              <s xml:id="nmslttagdh">Sambært hesum viðtøkum skal heimildin, sum fyrr lá hjá Vanlukkutryggingarráðnum, flytast til landsstýrismannin í almanna- og heilsumálum.</s>
+              <s xml:id="jqjrgbolph">Landsstýrismaðurin fær heimild at velja stýrið fyri ALV og skal eisini hava eftirlit.</s>
+              <s xml:id="gubqayuqrt">Fyrr hevur Føroya Landsstýri bara veitt ein stuðul til virksemið hjá ALV, men hevur ikki havt nakra heimild til at seta ávist virksemi í gongd.</s>
+            </p>
+            <p>
+              <s xml:id="xkx2cc3f7h">Um landsstýrismaðurin yvirtekur virksemið hjá ALV, verður fyrst farið í gongd við at kanna sjálvt virksemið hjá ALV, og hareftir verða neyðugar broytingar gjørdar.</s>
+            </p>
+            <p>
+              <s xml:id="orwf24g3mb">Landsstýrismaðurin er væl vitandi um, at ein umsókn liggur í Almanna- og heilsumálastýrinum til at seta í gongd eitt verkstað til 6 rørslutarnað.</s>
+              <s xml:id="ken4bqctz6">Tá viðurskiftini hava verið so ógreið hjá ALV í 1998, hevur Almanna- og heilsumálastýrið valt at latið umsóknina liggja fyribils.</s>
+              <s xml:id="lrcsb4rrsy">Støða verður tikin til hesa umsókn, tá viðurskiftini við ALV eru fingin uppá pláss.</s>
+            </p>
+            <p>
+              <s xml:id="mlplh5qscv">Uppá spurningin um, hvørjar ítøkiligar ætlanir landsstýrið hevur at veita rørslutarnaðum arbeiðstilboð í nærmastu framtíð, skal verða sagt fra, at ætlanin er at seta eitt verkstað í gongd til m.a. rørðslutarnað í Sørvági í 1999.</s>
+              <s xml:id="c5ifalw2ok">Peningur er settur av til endamálið, og landsstýrismaðurin vónar, at tað í framtíðini fer at bera til at økja um hetta virksemið.</s>
+            </p>
+            <p>
+              <s xml:id="vmmfxmmooc">Landsstýrismaðurin er væl vitandi um, at rørslutarnað, sum onnur við ymiskum breki, hava tørv á verkstøðum og mennandi arbeiðstilboðum.</s>
+            </p>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

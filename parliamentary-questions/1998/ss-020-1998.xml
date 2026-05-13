@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fyribyrging av bróstkrabba</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998020Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Katrin Dahl Jakobsen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4438"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-07">07.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998020A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helena Dam á Neystabø</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4439"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-18">18. februar</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998020Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 7. januar, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Katrin Dahl Jakobsen, løgtingsmanni, sum var soljóðandi</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="hle7ibguom">Hevur landsstýrið ætlanir um at virka fyri, at reglulig røntgenkanning av bróstum - mammografi screening - sum tað eisini verður rópt, verður sett í verk?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="chfavd2rfb">Er tað so, at útgerð og fakligur førleiki til slíkar kanningar er á Landssjúkrahúsinum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="ffa7n7lvst">Um so er, heldur landsstýrismaðurin, at tað hevði verið skilagott?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar</head>
+              <p>
+                <s xml:id="phj4g25v6m">Tað frættist, at tilburðirnir av krabbameini hava verið vaksandi seinastu árini.</s>
+                <s xml:id="tuzbc57bp2">Bróstkrabbi er mest vanliga krabbasjúka, konufólk hava at dragast við, umframt at vera tann krabbasjúkan, sum kemur oftast fyri, tá ið saman um kemur.</s>
+              </p>
+              <p>
+                <s xml:id="bfju6acya7">Til tess at forða fyri, at bróstkrabbi gerst deyðilig sjúka, verður reglulig mammografi screening brúkt í fyribyrgjandi arbeiðinum.</s>
+                <s xml:id="eitjzjvbeh">Hetta er vanligt í norðanlondum.</s>
+                <s xml:id="m2jbv343d2">Talan er um 50-69 ára gamlar konur, sum verða kannaðar á øðrum ella triðja hvørjum ári.</s>
+                <s xml:id="p4odpbmhqk">Í so máta sigst Svøríki vera undangonguland.</s>
+                <s xml:id="yfhcmgympf">Í løtuni er eingin ivi um nyttuna av hesum kanningum.</s>
+                <s xml:id="ihszp4zwfa">Heldur kjakast tey um, hvørt málbólkurin átti at verið víðkaður til 40-69 ár.</s>
+              </p>
+              <p>
+                <s xml:id="vmsejzja3w">Í Danmark hava einstøk amt tikið hetta til sín.</s>
+                <s xml:id="i2ngxwtg3c">Men heilsumyndugleikarnir mæla til, at skipanin fer at fevna um landið alt, og at kannað verður á øðrum hvørjum ári.</s>
+                <s xml:id="aor2dfqvox">Tí, sum teir siga - jú fyrr sjúkan verður staðfest, størri nytta er í møguligari viðgerð, og færri eru tær, sum slíta ikki aldur.</s>
+              </p>
+              <p>
+                <s xml:id="ria77ibr3w">Til samanberingar er hóskiligt at vísa á, at bert krabbi í lívmóðurhálsinum er minkaður í tali - hetta eftir at screeningar hava staðið kvinnum í boði.</s>
+                <s xml:id="ntcnvbhlfq">Donsku tølini siga eina helvt.</s>
+              </p>
+              <p>
+                <s xml:id="xkqqwwk4wp">Í Føroyum fór hetta, eftir tógvið stríð, at virka í jan. 1995 eini 20 ár eftir, at farið varð undir tað í grannalondunum.</s>
+                <s xml:id="dzmjm2kgqh">Størsta forðingin tá mundi helst vera ein spurningur um skipan.</s>
+                <s xml:id="ayzowo7xvk">Men gleðiligt var, at tað, sum í 60`unum var ein vanlig deyðsorsøk, nú verður roknað fyri lítið og lætt.</s>
+              </p>
+              <p>
+                <s xml:id="mzeltov4fb">Eisini eiga vit at bera so í bandi, at møgulig orka og vitan, sum er í okkara hondum verður gagnnýtt og fjálgað.</s>
+                <s xml:id="sinl4xwboe">At vit miðað ímóti at líta á egnu megi, syrgja fyri at fólk kenna seg trygg, og at vit seta mannalagnuna í hásæti.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="wyhiaz2i23">Á tingfundi seinni sama dag varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998020A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi tann 18. februar svaraði Helena Dam á Neystabø, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar:</head>
+            <list>
+              <label>1.</label>
+              <item>
+                <p>
+                  <s xml:id="h5ifc353a7">Eftirlitsmyndugleikin hjá føroyska heilsuverkinum, danska Sundhedsstyrelsen, hevur mælt til, at mammografi screening verður gjørd av kvinnum í aldursbólkinum 40-59 ár, landsstýrismaðurin kannar í løtuni, um hetta eisini skal setast í verk í Føroyum og undir hvørjum formi.</s>
+                </p>
+              </item>
+              <label>2.</label>
+              <item>
+                <p>
+                  <s xml:id="na5ywyws4v">Mett verður, at útgerð og fakligur førleiki er tilstaðar á Landssjúkrahúsinum.</s>
+                  <s xml:id="sdc52z7hjs">Tað er tó givið, at verður almenn mammografi screening sett í verk í Føroyum, so er neyðugt við ávísum umprioriteringum, ella at fleiri ressoursir verða tilførdar sjúkrahúsinum.</s>
+                  <s xml:id="oc3dt53lla">Tað er tó altavgerðandi undir hvørjum formi, ein møgulig mammografi screening verður gjørd.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="r4m5tt25lg">Landsstýrismaðurin er av teirri fatan, at tá ið eftirlitsmyndugleiki okkara mælir til, at slík kanning verður gjørd, so eiga vit at seta slíkar kanningar í verk.</s>
+                  <s xml:id="gphiepctfj">Tað skal tó ásannast, at ávís fyrireiking skal gerast, áðrenn slíkar kanningar kunnu setast í verk, og støða eigur eisini at verða tikin til undir hvørjum formi, hesar kanningar skulu gerast.</s>
+                  <s xml:id="xpclfq2ewq">Hetta verður í løtuni arbeitt við innan heilsuverkið.</s>
+                </p>
+              </item>
+            </list>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

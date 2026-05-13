@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Garnaveiða</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998018Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Dan Petersen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4446"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-01-07">07.01.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998018A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jørgen Niclasen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4447"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-18">18. februar</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998018Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 7. januar, boðaði formaðurin frá omanfyri nevnda fyrispurningi frá Dan Petersen, løgtingsmanni, sum var soljóðandi</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="chchpf3g5k">Hvussu mong havtasku- og svartkalvagørn eru loyvd at hava undir?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="nbtjlajwwd">Hvussu mong gørn eru hóskandi fyri stovnsrøkt og veiði?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="nrllvkdzuw">Hvussu leingi hava gørn loyvi at standa í sjónum?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="wsxk7ltdjm">Hvussu leingi standa gørnini í meðal?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="u62rqffywc">Hvussu leingi livir fiskurin í gørnunum?</s>
+              </item>
+              <label>6.</label>
+              <item>
+                <s ana="#interrogative" xml:id="qtslexnsa5">Hvat er hjáveiðiprosentið upp á 5 sett eftir, tá partur av hesum fiski ikki er kvoteraður annars?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar</head>
+              <p>
+                <s xml:id="nboo3ax2dk">Í 1991 var eitt útlendskt garnaskip tikið fyri ólógliga veiði undir Føroyum.</s>
+                <s xml:id="ayua7v6yhv">Veiðan var havtaska og krabbi.</s>
+              </p>
+              <p>
+                <s xml:id="b2juhrykv7">Hetta gav monnum hug at royna hesa veiði, og eru nú 7 garnaloyvir givin.</s>
+                <s xml:id="a4bi6gxuhq">Teir flestu fiska havtasku um veturin og svartkalva summarhálvárið.</s>
+              </p>
+              <p>
+                <s xml:id="f5qn5k7p3x">Kapping er altíð millum veiðihættir, og er hetta við til at skapa illgruna og misskiljingar.</s>
+              </p>
+              <p>
+                <s xml:id="pvszyn6hxa">Kunnu hesir spurningar rudda misskiljingar burtur, samstundis sum tryggjað verður, at fiskiskapurin er forsvarligur, so er endamálið við teimum rokkið.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="w6a3bpk5ae">Á tingfundi seinni sama dag varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998018A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi tann 18. februar svaraði Jørgen Niclasen, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <p>
+              <s xml:id="qqlvhunzc4">Reglurnar fyri garnaveiði á føroysku landleiðunum eru ásettar í kunngerð nr. 105 frá 20. oktober 1995 um fiskiskap eftir havtasku og svartkalva við gørnum á ytru landleiðini við seinni broytingum (broytt við kunngerð nr. 155 frá 28. november 1995).</s>
+              <s xml:id="uu4oc5n66h">Afturat hesum eru ásetingar um garnaveiði í kunngerð nr. 97 frá 10. juni 1996 um fiskiskapin á landleiðunum við fiskiførum, sum eru skrásett í Føroyum við seinni broytingum (broytt við kunngerð nr.129 frá 27.11.96, kunngerð nr. 23 frá 14.03.97, kunngerð nr. 130 frá 10.07.97 og kunngerð nr. 135 frá 20.08.97).</s>
+            </p>
+            <p>
+              <s xml:id="erzo5khu6z">Sambært kunngerð nr. 105 frá 20.oktober 1995 við seinni broytingum er loyvt í mesta lagi fýra skipum at reka beinleiðis veiði eftir havtasku og svartkalva.</s>
+              <s xml:id="vzjq7wcwq6">Eisini er loyvt trimum skipum at reka beinleiðis veiði eftir svartkalva við gørnum og einum skipi at reka beinleiðis veiði eftir havtasku.</s>
+            </p>
+            <p>
+              <s xml:id="xwaxu7ro63">Øll 8 garnaloyvini, sum heimild er at lata sambært kunngerðini, eru latin.</s>
+            </p>
+            <p>
+              <s xml:id="dbot7keyu7">Sambært kunngerðini er loyvt at royna eftir havtasku alt árið, har dýpið er meira enn 380 m, uttan fyri 12 fjórðingar úr grundlinjunum vestanfyri 07° 45’0 V og sunnanfyri og vestanfyri eina linju millum knøttstøðurnar: 61° 45’0 N 07° 45’0 V og 60° 30’0 N, 07° 00’0 V og 60° 00’0 N, 06° 00’0 V.</s>
+              <s xml:id="z43bhkxmtd">Harafturat er loyvi at royna eftir havtasku alt árið í einum kassa eystanfyri.</s>
+            </p>
+            <p>
+              <s xml:id="dxby72tbvg">Loyvt er at veiða svartkalva alt árið, har dýpið er meira enn 500 m.</s>
+            </p>
+            <p>
+              <s xml:id="vsztapzmao">Loyvt er ikki at veiða havtasku og svartkalva á Føroya Banka og á leiðum, har botnfiskaveiða er bannað eftir reglum um veiðibann eftir botnfiskasløgum.</s>
+            </p>
+            <p>
+              <seg>Niðanfyri verða spurningarnir frá Dan R. Petersen, løgtingsmanni, svaraðir í somu raðfylgju, teir eru settir:</seg>
+            </p>
+            <div>
+              <head rend="underline">Ad sp. 1:</head>
+              <p>
+                <s xml:id="n6vtublnlg">Samsvarandi § 3 stk. 1 í kunngerð nr. 150 frá 20. oktober 1995 er garnaskipum á havtasku- og svartkalvaveiði ikki loyvt at seta ella hava standandi í sjónum fleiri enn 1400 gørn, sum eru 27,5 m til longdar, ella um onnur garnalongd verður nýtt, so má samlaða garnastrekkið ikki fara upp um samsvarandi longd.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Ad sp. 2:</head>
+              <p>
+                <s xml:id="wisxyl5kap">Tað er ógvuliga ringt at siga, hvussu mong gørn eru hóskandi fyri stovnsrøkt og veiði av havtasku og svartkalva á ytru føroysku landleiðini.</s>
+                <s xml:id="n6gf5huhcw">Hetta kemst m.a. av, at talan er um nýggja vinnu, og at tíðarskeiðið, roynt hevur verið, er stutt.</s>
+                <s xml:id="idi7w3fnz5">Harafturat er veiðiøkið hjá garnaskipunum støðugt víðkað.</s>
+              </p>
+              <p>
+                <s xml:id="nka56c52eh">Havast má eisini í huga, at undir Føroyum verður svartkalvi og havtaska eisini fiskað av øðrum skipabólkum.</s>
+                <s xml:id="sovi4o6is2">Fiskiskapurin hjá hesum eigur eisini at takast við, tá ið mett verður um stovnsrøkt og veiði.</s>
+              </p>
+              <p>
+                <s xml:id="mk2fcwovxg">Afturat hesum kemur, at í stovnsmetingum og tilráðingum sínum roknar Altjóða Havrannsóknarráðið, ICES, svartkalvan við Føroyar, Ísland og Eysturgrønland sum ein og sama stovn.</s>
+                <s xml:id="tnr7axiqmq">Hetta ger sítt til, at torført er, at koma við metingum um hóskandi veiðitrýst og veiði fyri svartkalva undir Føroyum, tí tað er ikki bert fiskiskapurin í føroyskum sjógvi, sum ávirkar stovnin.</s>
+              </p>
+              <p>
+                <s xml:id="uawgdx3cgo">Nevnast kann, at undir viðgerðini av lógini um vinnuligan fiskiskap í 1998 varð mælt til, at svartkalvaveiðan skuldi minka við 20 prosentum.</s>
+                <s xml:id="siga3od47s">Hetta var grundað á eina 3-landa semju millum Føroyar, Ísland og Grønland um umsiting av felags svartkalvastovninum og kongafiskastovninum.</s>
+              </p>
+              <p>
+                <s xml:id="sjlg2t4hwc">Landsstýrið hevur ikki í hyggju at økja um talið av loyvum at fiska svartkalva.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Ad sp. 3:</head>
+              <p>
+                <s xml:id="ts4luwd237">Í verandi lóggávu eru ongar reglur um, hvussu leingi havtasku- og svartkalvagørn hava loyvi at standa í sjónum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Ad sp. 4:</head>
+              <p>
+                <s xml:id="hxgvcijdke">Sambært skiparum á garnaskipum, Fiskimálastýrið hevur tosað við, er ymist frá skipi til skip, hvussu leingi gørnini standa.</s>
+                <s xml:id="k2mypnb7gk">Í royndarfiskiskapinum eftir havtasku á innaru leiðini vísti tað seg, at frægast fekst burturúr, um gørnini stóðu einar 2-3 dagar.</s>
+                <s xml:id="hrj6j2ibvv">Hjá garnaskipum á svartkalvaveiði ganga vanliga 3-4 dagar ímillum, at drigið verður.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Ad sp. 5:</head>
+              <p>
+                <s xml:id="w7cka5crtb">Fiskirannsóknarstovan upplýsir, at hvørki her á landi ella aðrastaðni eru gjørdar ítøkiligar kanningar av, hvussu leingi fiskur, sum kemur í svartkalva- og havtaskugørn, livir.</s>
+                <s xml:id="zwukpm3syt">Við støði í garnaveiðini eftir svartkalva og havtasku við Føroyar í 1990-árunum er heldur ikki gjørligt at siga nakað ítøkiligt um, hvussu leingi fiskur livir, m.a. tí at gørnini standa so leingi í sjónum.</s>
+                <s xml:id="pa6gy4cp4c">Yvirhøvur kann tó sigast, at nógv viðurskifti hava týdning fyri, hvussu leingi fiskur livir, eftir at hann er komin í gørn.</s>
+                <s xml:id="jrztwu43fr">Tað veldst m.a. um fiskaslag, dýpi og hita í sjónum, hvussu fiskurin kemur í ella stendur í gørnunum.</s>
+                <s xml:id="oxm3lvsl5f">Hetta hevur týdning fyri, nær hann gerst strongdur og doyr.</s>
+                <s xml:id="d47tzjgtsa">Botnurin á leiðini, roynt verður á, hevur eisini týdning fyri, hvussu leingi fiskurin livir.</s>
+                <s xml:id="ffnmqxt2zt">Verður t.d. roynt á gággu- ella állabotni, eru størri líkindi fyri, at fiskur er gággu- ella állasogin, tá drigið verður.</s>
+                <s xml:id="mjnfqosdd5">Samanumtikið er mest sannlíkt, at fiskur livir rættiliga stutt eftir, at hann er komin í gørn – kanska bara nakrar fáar tímar.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Ad sp. 6:</head>
+              <p>
+                <s xml:id="lpvz22snsq">Garnaveiða eftir svartkalva og havtasku var upprunaliga ikki ætlað at umfata fiskasløgini undir táverandi kvotuskipan á føroysku landleiðunum.</s>
+                <s xml:id="zffgx34tr6">Tí varð í kunngerð nr 150 frá 20. oktober 1995 ásett, at hjáveiðan av toski, hýsu, upsa, kongafiski ikki má fara upp um egnu kvotu hjá hvørjum skipi sær, og at hjáveiðan av øðrum fiskasløgum í mesta lagi má vera 5 prosent av vektini av veiðinøgdini fyri hvønn túr.</s>
+                <s xml:id="wqzsztkbx2">Hjáveiðireglurnar eru ikki broyttar, síðani farið varð frá kvotuskipan til fiskidagaskipan á føroysku landleiðunum.</s>
+                <s xml:id="qpoj627wsv">Nevnast kann, at í Fiskimálastýrinum verður í løtuni arbeitt við at endurskoða reglurnar fyri garnaveiði á føroysku landleiðunum, herundir hjáveiðireglurnar.</s>
+                <s xml:id="zqqsxvfwr4">Til tess at fáa garnaskipini undir eina fiskidagaskipan hevur Fiskimálastýrið biðið Skipanarnevndina viðgera málið.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fólkanøvn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998057Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jógvani á Lakjuni</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4528"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-18">18.03.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998057A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Høgni Hoydal</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4529"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-04-20">20. apríl 1999</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998057Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 18. mars, boðaði formaðurin frá soljóðandi fyrispurningi frá Jógvani á Lakjuni, løgtingsmanni:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="qfuaqy2cxv">Nær fer landsstýrismaðurin at leggja fram uppskot til broyting í løgtingslóg um fólkanøvn?</s>
+              </item>
+              <label>2.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="bnebditzsp">Hvørjar broytingar er ætlanin at gera í lógini?</s>
+              </item>
+              <label>3.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="dcoqzyfvyn">Er ætlanin á nakran hátt at avmarka tær stóru heimildir, sum navnanevndin hevur?</s>
+              </item>
+              <label>4.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="ufeis353i5">Hvussu nógv hava søkt um at fáa loyvi at nýta eitt navn, sum ikki hevur verið á navnalistanum?</s>
+              </item>
+              <label>5.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="dz4f64in6x">Hvussu nógv hava fingið noktandi svar?</s>
+              </item>
+              <label>6.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="g2w5dl2jrz">Hvussu nógv hava kært avgerðir hjá navnanevndini til landsstýrið?</s>
+              </item>
+              <label>7.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="ojsbp6x6zt">Hevur landsstýrið nakrantíð ógildað avgerðir hjá navnanevndini?</s>
+              </item>
+              <label>8.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="bezeqrkrtf">Hvussu ofta munnu foreldur hava verið uttanlands fyri at geva barni sínum navn, síðan navnalógin kom í gildi í 1992?</s>
+              </item>
+              <label>9.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="s7mzd2qz5x">Hvussu ofta er listin við viðurkendum nøvnum endurskoðaður, síðan lógin kom í gildi, og nær kom tann síðsti ískoytislistin?</s>
+              </item>
+              <label>10.</label>
+              <item rend="bold">
+                <s ana="#interrogative" xml:id="vfql2gjj2c">Verða øll fornøvn, sum foreldur hava fingið loyvi til at geva sínum børnum, sett á navnalistan?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="fqoxphqksz">Løgtingslógin um fólkanøvn varð samtykt á Føroya løgtingi í juni 1992 og sett í gildi seinni sama ár.</s>
+                <s xml:id="c25rrvr4lx">Lógin hevur sostatt verið í gildi nú í hálvsjeynda ár.</s>
+              </p>
+              <p>
+                <s xml:id="c6xucmkhy3">Tað hevur ikki verið óvanligt, at lógir, sum hava havt so stórar broytingar við sær sum navnalógin, hava verið endurskoðaðar eftir fáum árum, og eingin ivi er um, at tørvur er á at endurskoða lógina á fleiri økjum.</s>
+              </p>
+              <p>
+                <s xml:id="gbc4tiue4g">Løgmaður boðaði eisini á ólavsøku frá, at broyting í løgtingslóg um fólkanøvn fór at verða løgd fyri løgtingið í hesari tingsetuni, men av tí at einki uppskot er komið enn, fer undirritaði at loyva sær at koma við nøkrum fyrispurningum til landsstýrismannin, sum umsitur hetta mál.</s>
+              </p>
+              <p>
+                <s xml:id="roeg3bgswj">Sum sagt, hevði tann nýggja navnalógin rættiliga stórar broytingar við sær bæði á fornavna- og eftirnavnaøkinum.</s>
+                <s xml:id="vbj4uxq3bd">Meðan lógin í sambandi við eftirnøvn er ógvuliga liberal og gevur fólki nærum óavmarkaðar møguleikar - eisini til at broyta eftirnavn - so er hon sera restriktiv á fornavnaøkinum - ella í hvussu er tulkingin av henni - og foreldur hava í mongum førum kent hana ómetaliga fjøtrandi og hava staðið spyrjandi, tá ið tey t.d. hava fingið boð um, at tey ikki sleppa at kalla síni foreldur upp.</s>
+                <s xml:id="o24ednps56">Ja, í fleiri førum eru foreldur farin uttanlands, fyri at barnið skuldi fáa tað navnið, sum tey ynsktu at geva tí.</s>
+              </p>
+              <p>
+                <s xml:id="rpjmmbaf2y">Sambært lógini verður vald ein navnanevnd við trimum limum og trimum varalimum eftir tilmæli frá Føroyamálsdeildini á Fróðskaparsetri Føroya, Prestafelag Føroya og mentanardeildini á landsskrivstovuni.</s>
+                <s xml:id="rmym5fn3ci">Henda navnanevndin hevur ómetaliga víðar heimildir, tí hon ger listan við teimum viðurkendu nøvnunum og endurskoðar hann, hon gevur ráð um fólkanøvn, stavseting, bending o.a., hon ger eisini av, um eitt navn kann koma á listan.</s>
+                <s xml:id="ns7bnk4iqz">Og til seinast sleppur hon einsamøll at tulka §1, stk. 3 í lógini, har tað stendur, at "navnið skal vera í samljóði við føroyskar málreglur".</s>
+              </p>
+              <p>
+                <s xml:id="oascyo47eb">Hetta, at navnið skal vera í samljóði við føroyskar málreglur, verður altíð ein tulkingarspurningur, tí tað eru sjálvandi ymiskar meiningar um, hvat tað merkir.</s>
+                <s xml:id="mj3w7t3vzc">Men eftir spyrjarans tykki hevur hetta verið tulkað ómetaliga trongt, og her eigur á ein ella annan hátt broyting at koma í.</s>
+              </p>
+              <p>
+                <s xml:id="nd6hdtjh2t">Mong foreldur hava kent seg ómetaliga hjálparleys, tá ið tey hava fingið noktandi svar frá navnanevndini, og tað hevur verið torført at sæð eina linju í arbeiðinum hjá nevndini - og serliga at fingið haldgóðar grundgevingar fyri, hví eitt navn ikki verður góðtikið.</s>
+                <s xml:id="lzbo3ktn26">Og sum skilst, hevur arbeiðið hjá nevndini eisini til tíðir ligið stilt, og tað hevur verið trupult at fingið svar í navnaspurningum.</s>
+              </p>
+              <p>
+                <s xml:id="j4j4qwlngs">Skil skal sjálvandi vera í navnagávu, men tað, at sleppa at geva børnum sínum tað navn, ein vil, má metast sum ein mannarættur, um nakað er tað!</s>
+                <s xml:id="mfz2qarpw5">Eisini er gamal siður og ómetaliga kensluborið at sleppa at kalla sínar forfedrar upp, og hetta má ganga fram um eina undarliga og tronga tulking av, hvat eitt føroyskt navn er.</s>
+                <s xml:id="srbbde5lij">Tað ber heldur ikki til fullkomiliga at fortreingja tann veruleika, at Føroyar í fleiri hundrað ár hava verið undir útlendskari ávirkan, eisini á hesum økinum!</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="cr7djflhjv">Á tingfundi 19. mars 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998057A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 20. apríl 1999 svaraði Høgni Hoydal, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <p>
+              <s xml:id="epcuwvr7jq">Alment skal viðmerkast, at eg eri samdur við Jógvani á Lakjuni, løgtingsmanni, í tí, at lógin um fólkanøvn hevði stórar broytingar við sær á navnaøkinum, og nú lógin hevur virkað í nøkur ár, er tørvur á at endurskoða hana.</s>
+              <s xml:id="j5rlwo2c7d">Tíverri eydnaðist ikki, sum annars varð fráboðað í ólavsøkurøðu løgmans 1998, at leggja uppskot fyri tingið í hesi tingsetuni um broytingar í lógini, men ætlanin um at endurskoða lógina er ikki slept.</s>
+            </p>
+            <p>
+              <seg>Spurningar og svar eru hesi:</seg>
+            </p>
+            <div>
+              <head>1. Nær fer landsstýrismaðurin at leggja fram uppskot til broyting í løgtingslóg um fólkanøvn?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="ylsbxswzi3">Ætlanin er at leggja uppskot fyri løgtingið í komandi tingsetu, og verður skjótast gjørligt sett nevnd at fyrireika uppskotið.</s>
+                <s xml:id="pt7ei2x6pu">Landsstýrismaðurin hevur havt fund við nýggju navnanevndina, sum varð sett í fjør summar, um ætlanirnar at endurskoða lógina.</s>
+              </p>
+            </div>
+            <div>
+              <head>2. Hvørjar broytingar er ætlanin at gera í lógini?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="wf3tyv4h3g">Lógin skal eftirhyggjast tekniskt og málsliga, og við atliti at teimum royndum, ið gjørdar eru síðani lógin kom í gildi, skal nevndin koma við uppskoti um, hvørjar broytingar eiga at verða gjørdar í lógini.</s>
+                <s xml:id="bpdeahpyxp">Nevndin skal m.a. umhugsa, um reglurnar í lógini um fornøvn eiga at verða broyttar soleiðis, at avgerð um góðkenning av fornøvnum í størri mun enn eftir galdandi lóg kann grundast á siðvenjur, sum hava vunnið hevd yvir fleiri ættarlið.</s>
+              </p>
+            </div>
+            <div>
+              <head>3. Er ætlanin á nakran hátt at avmarka tær stóru heimildir, sum navnanenevndin hevur?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="hrrucrce5x">Ætlanin er, at navnanevndin framvegis skal ráðgeva og taka avgerðir á navnaøkinum, men nevndin, sum sett verður at fyrireika lógaruppskotið, skal sum nevnt omanfyri umhugsa, um navnanevndin, tá hon tekur avgerð í navnamálum, eisini skal nýta onnur eyðkenni enn málfrøðilig.</s>
+              </p>
+            </div>
+            <div>
+              <head>4. Hvussu nógv hava søkt um at fáa loyvi at nýta eitt navn, sum ikki hevur verið á navnalistanum?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="jtrme27ed2">Navnanevndin hevur viðgjørt 296 skrivligar navnaumsóknir um nøvn, ið ikki standa á tí góðkenda fólkanavnalistanum.</s>
+              </p>
+            </div>
+            <div>
+              <head>5. Hvussu nógv hava fingið noktandi svar?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="xrkavqefd5">113 hava fingið noktandi svar.</s>
+              </p>
+            </div>
+            <div>
+              <head>6. Hvussu nógv hava kært avgerðir hjá navnanevndini til landsstýrið?</head>
+              <p>
+                <label>Svar.</label>
+                <s xml:id="pupnoudth3">Síðani navnalógin kom í gildi, hevur landsstýrið móttikið 11 kærur um avgerðir hjá navnanevndini.</s>
+              </p>
+            </div>
+            <div>
+              <head>7. Hevur landsstýrið nakrantíð ógildað avgerðir hjá navnanevndini?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="ywwp5rxtyt">Landsstýrið hevur higartil ikki ógildað avgerðir hjá navnanevndini.</s>
+              </p>
+              <p>
+                <s xml:id="pnnekrfqtc">Sum kærumyndugleiki eftir § 15, stk. 4 í navnalógini kann landsstýrið taka støðu til, um avgerðin hjá navnanevndini í einum ávísum máli er løgfrøðliga skeiv, formliga ella innihaldsliga.</s>
+                <s xml:id="wlzvu7qmoi">Í teimum kærumálum, sum hava verið, hevur spurningurin í øllum førum verið, um navnið er í samljóði við føroyskar málreglur.</s>
+                <s xml:id="xbwj2tpseh">Umframt at vera ein løgfrøðiligur spurningur, er tað ein málfrøðiligur metingarspurningur, hvørjar reglur eiga at verða nýttar sum føroyskar málreglur í tí einstaka førinum til tess at avgera, um navnið er í samljóði við føroyskar málreglur.</s>
+                <s xml:id="vojkp6dmox">Landsstýrið hevur verið sera afturhaldandi við at fara inn í hesa metingina, men hevur hildið seg til tann løgfrøðiliga partin av avgerðini hjá navnanevndini.</s>
+              </p>
+            </div>
+            <div>
+              <head>8. Hvussu ofta munnu foreldur hava verið uttanlands fyri at geva barni sínum navn, síðani navnalógin kom í gildi í 1992?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="swiqrkjzrf">Av tí at landsfólkayvirlitið ikki fær fráboðanir frá útlendskum myndugleikum, sum í nevndu førum hava givið børnum navn, ber ikki til uttan kanningar í kirkjubókum at gera eina meting av, hvussu ofta foreldur búsitandi í Føroyum hava verið uttanlands at geva børnum sínum navn.</s>
+                <s xml:id="rqdqegjdhe">Tílíkar kanningar hava ikki verið stundir til at gera innan svarfreistina.</s>
+              </p>
+            </div>
+            <div>
+              <head>9. Hvussu ofta er listin við viðurkendum nøvnum endurskoðaður, síðani lógin kom í gildi, og nær kom síðsti ískoytislistin?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="qt5o64kgyb">Navnanevndin hevur endurskoðað navnalistan 9 ferðir, síðani navnalógin kom í gildi, síðstu ferð í oktober 1997.</s>
+              </p>
+            </div>
+            <div>
+              <head>10. Verða øll fornøvn, sum foreldur hava fingið loyvi at geva sínum børnum, sett á navnalistan?</head>
+              <p>
+                <label>Svar:</label>
+                <s xml:id="qkbbq7kulh">Øll givin nøvn verða ikki sett á listan – men er eitt navn eina ferð veitt, verður tað ikki noktað øðrum, sum søkja um sama navn.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

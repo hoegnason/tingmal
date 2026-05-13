@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ætlanin at leggja saman Strandfaraskip Landsins og Landsverkfrøðingsstovnin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998013Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Jóannes Eidesgaard</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4442"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-12-29">29.12.1998</date>
+          </bibl>
+          <bibl xml:id="SS1998013A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref=" ">Finnbogi Arge</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4443"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-02-05">5. februar 1999</date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998013Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1998, 29. december, boðaði formaðurin frá omanfyrinevnda fyrispurningi frá Jóannes Eidesgaard, løgtingsmanni, sum var soljóðandi</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="raspufr4ge">Hví er Føroya Løgting ikki kunnað um ætlanina, t.d. í samband við viðgerðina av fíggjarløgtingslógini fyri 1999?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="iwaqfivnt5">Hvørji felags starvsøki hava hesir stovnar á tí fakliga, tænastuliga og tí fíggjarliga økinum?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="e7id4ap473">Hvussu vil ein samanlegging bøta um raðfestingina av rakstrinum og av íløgunum?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="dp6ejmr3h4">Hví verður ein "analysa" av møguligum fyrimuni ikki gjørd, áðrenn hetta stig verður tikið?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="a2cqe4gmao">Hvørjir ítøkiligir fyrimunir væntast at fara at standast av hesi samanlegging?</s>
+              </item>
+              <label>6.</label>
+              <item>
+                <s ana="#interrogative" xml:id="fbpcclnrar">Hvussu verður fakliga vitanin og fakligi førleikin á LV tryggjaður?</s>
+              </item>
+              <label>7.</label>
+              <item>
+                <s ana="#interrogative" xml:id="zszdqgno3d">Hvussu kann nýggi stjórin taka fakliga avgerðir, sum landsverkfrøðingurin áður hevur tikið?</s>
+              </item>
+              <label>8.</label>
+              <item>
+                <s ana="#interrogative" xml:id="v5oy7dt3rg">Er hetta ein liður hjá samgonguni í eini privatiseringsætlan av hesum stovnum?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="n622ti4b2m">Í tíðindaskrivi dagfest í dag 28.des. 1998 boðar landsstýrismaðurin Finnbogi Arge frá, at stjórin fyri SL verður stjóri fyri samanskipaða stovnin, sum er SL og LV, og at stjórin fyri LV er uppsagdur.</s>
+                <s xml:id="pz2frnthew">Hetta er liður í eini ætlan til at leggja hesar báðar stovnar saman.</s>
+              </p>
+              <p>
+                <s xml:id="w5a6ywjas6">18. des. 1998 varð fíggjarløgtingslógin fyri 1999 samtykt við triðju viðgerð.</s>
+                <s xml:id="ctiwjrqncb">Í hesi lóg fær SL eina játtan, og LV fær eina játtan.</s>
+                <s xml:id="fo5zsxveuy">Føroya Løgting hevur samtykt fíggjarlógina við tí fortreyt, at talan verður um tveir sjálvstøðugar stovnar.</s>
+                <s xml:id="fh4hge2w5r">Tíggju dagar seinni boðar landsstýrið frá, at hesir stovnar verða nú samanlagdir.</s>
+                <s xml:id="usgq6e46kq">Landsstýrismaðurin sigur víðari, at arbeitt hevur verið við ætlanini í meira enn eitt hálvt ár.</s>
+              </p>
+              <p>
+                <s xml:id="xntvrhssmj">Hetta fær okkum løgtingsmenn at undrast, og fyrsti spurningur, sum stingur seg upp, er um, hví Føroya Løgting ongantíð varð kunnað um ætlanina, men samtykti fíggjarlógina undir "skeivum" fortreytum.</s>
+              </p>
+              <p>
+                <s xml:id="jmzfemjey7">Tað hevði nú ikki verið annað enn rímiligt, at áðrenn slíkar stórar avgerðir verða tiknar um almenna bygnaðin, at løgtingið varð kunnað beinleiðis heldur enn gjøgnum fjølmiðlarnar, og at eitt orðaskifti fór fram á tingi um málið, áðrenn avgerðin fall.</s>
+                <s xml:id="vjprnqcke5">Sum skilst eru starvsfólkini á hesum báðum stovnum heldur ikki kunnað.</s>
+              </p>
+              <p>
+                <s xml:id="yggjdvzquj">Ein samanlegging er ikki eitt mál í sær sjálvum, uttan so at ítøkiligir fyrimunir kunnu standast av samanleggingini.</s>
+                <s xml:id="jqsda2jzef">Fyrimunir sum t.d. betri tænastuveiting og bíligari rakstur.</s>
+              </p>
+              <p>
+                <s xml:id="fwg7lw7ckv">Vanliga verða stovnar, sum hava felags starvsøki lagdir saman.</s>
+                <s xml:id="sf7tzz2f2t">Hetta er ringt at fáa eygað á, tá tað snýr seg um SL og LV.</s>
+                <s xml:id="y2amwo6lat">Annar er ein tænastustovnur, og hin er ein tekniskur stovnur.</s>
+                <s xml:id="vwk7g2htnh">Var tað Postverkið og SL, ella var tað Matrikkulstovan og LV, so hevði hóast alt verið talan um felags starvsøki.</s>
+              </p>
+              <p>
+                <s xml:id="ryf7nrw4m4">Annað er, hvussu landsstýrið vil tryggja, at fakliga vitanin og fakligi førleikin, sum í dag er hjá LV, verður varðveittur, um stovnurin bert verður ein deild av SL.</s>
+                <s xml:id="h5pxjkjrl7">Tað er í dag stórur eftirspurningur eftir verkfrøðingum í londunum rundan um okkum, og tí er vandi fyri, at um arbeiðsumstøðurnar á LV broytast munandi, vil ein partur av starvfólkunum siga upp.</s>
+              </p>
+              <p>
+                <s xml:id="zir2hiqraf">Nýggi stjórin er ikki útbúgvin verkfrøðingur.</s>
+                <s xml:id="hbl7jv64k5">Við allari virðing fyri hesum stjóra, so kunnu dagliga stinga seg upp spurningar av fakligum slag innan økið hjá LV, har stjórin ikki hevur førleikan til støðutakan, men má dúva uppá tað, sum ráðgevingin sigur.</s>
+              </p>
+              <p>
+                <s xml:id="tj6vxhicwd">Nú nevnir ráðgevandi nevndin hjá forsætismálaráðharranum í seinastu frágreiðingini, at møguleikarnir fyri at selja aktivir hjá SL, útlicitering av ferjusambondum og útlicitering av bussrutum eiga at verða kannaðir.</s>
+                <s xml:id="xx3hdoyo3y">Á leið somu orðingar síggja vit í samgonguskjalinum hjá sitandi samgongu.</s>
+                <s ana="#interrogative" xml:id="tgu5yw4hul">Tí er tað eisini ein viðkomandi spurningur, um henda ætlan er ein liður í borgarliggeringini av føroyska samfelagnum?</s>
+              </p>
+              <p>
+                <s xml:id="tnt2bdszeb">Við hesum viðmerkingum verður hesin fyrispurningur settur.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="ehof3mlnze">Á tingfundi tann 7. januar 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skuldi svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998013A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á tingfundi 5. februar 1999 svaraði Finnbogi Arge, landsstýrismaður, fyrispurninginum soleiðis:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold">Svar</head>
+            <div>
+              <head rend="bold">Ad 1:</head>
+              <p>
+                <s xml:id="z4yraceyvs">Jóannes Eidesgaard spyr, hví Løgtingið ikki varð kunnað um ætlanina at leggja Strandfaraskip Landsins og Landsverkfrøðingin saman.</s>
+              </p>
+              <p>
+                <s xml:id="llgcbn7glq">"Ætlanin", sum Jóannes Ejdesgaard sipar til, snúði seg í fyrstu syftu ikki um <hi rend="bold">samanlegging</hi>.</s>
+              </p>
+              <p>
+                <s xml:id="pnzi5inb4b">Sum nevnt varð í tíðindaskrivinum tann 28. desember 1998, var talan um at seta ein felags stjóra fyri báðar stovnarnar, aftaná at starvið sum landsverkfrøðingur var niðurlagt.</s>
+              </p>
+              <p>
+                <s xml:id="lioebfm45c">Uppgávan hjá stjóranum var at kanna rationaliseringsmøguleikarnar og at lýsa fyrimunir og vansar av einari <hi rend="bold">samskipan</hi> við SL.</s>
+              </p>
+              <p>
+                <s xml:id="xhi6bcpsqw">Tað ber ikki til at upplýsa løgtinginum um eina endaliga "ætlan", fyrr enn støða er tikin til tey kanningarúrslit, sum skulu vera partar av grundarlagnum fyri somu "ætlan".</s>
+              </p>
+              <p>
+                <s xml:id="el6mbcsprx">Annars hevur Jóannes Eidesgaard havt ávísar møguleikar at kunna seg um, at arbeitt verður við broytingum.</s>
+                <s xml:id="klyany6sdx">Undir grein 6.11.1.25 á fíggjarlógini (samferðslu- og samskiftisætlanir) verður upplýst fyri løgtinginum (og seinni samtykt av løgtinginum), at "somuleiðis verður verkætlanin eitt amboð til at lýsa tørvin á broytingum bæði av sjálvum samferðslukervinum <hi rend="bold">og á teimum stovnum, sum vara av kervinum</hi>".</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 2:</head>
+              <p>
+                <s xml:id="id53hkvvzr">Vanliga uppfata vit LV og SL sum tveir rættiliga ymiskar almennar stovnar, bæði á tøkni- og tænastuøkinum.</s>
+                <s xml:id="plypbhhzkg">Men grundleggjandi virkisøkini hjá Landsverkfrøðingsstovninum og Strandfaraskipum Landsins hanga saman:</s>
+              </p>
+              <p>
+                <s xml:id="qj2ujd2374">LV útbyggir og viðlíkaheldur partar av sjálvum kervinum, meðan SL veitir flutningstænastur á kervinum, umframt at umsita ferjurnar, sum eisini kunnu metast sum partar av sjálvum kervinum.</s>
+              </p>
+              <p>
+                <s xml:id="bt2vzuspv3">Nógv fakøki kundu verið felags fyri báðar stovnarnar.</s>
+                <s xml:id="zjtzobx6i4">Vit kundu nevnt leiðslu, kunningartøkni, maskin- og verkstaðarøkið, umsiting, logistik, skrivstovuhald, fígging o.s.fr.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 3:</head>
+              <p>
+                <s xml:id="xl7lixj7by">Ein samskipan av virkseminum hjá teimum báðum almennu stovnunum, sum vara av samferðslukervinum, hevði gjørt, at meira vitan um samferðslukervið varð savnað á einum staði.</s>
+              </p>
+              <p>
+                <s xml:id="kj5vpb3xq3">Tess meira vitan um kervið og ferðsluna, tess betri eru møguleikarnir fyri optimalari raðfesting av íløgunum.</s>
+                <s xml:id="azivygduep">Frágreiðingin um framtíðar samferðslukervið í Føroyum er bert eitt dømi um, hvat kann koma burturúr øktum samstarvi millum partarnar.</s>
+              </p>
+              <p>
+                <s xml:id="et6mvh5ymr">Tá íløga t.d. verður gjørd í ferjulegu, er týdningarmikið, at bæði LV og SL eru við til at leggja ætlanina til rættis.</s>
+                <s xml:id="s33gbeohml">Vantandi kommunikatión og samskipan millum partarnar kann ávirka eina tílíka íløgu negativt við meirkostnaði sum úrslit.</s>
+              </p>
+              <p>
+                <s xml:id="imacvhhlec">Annars er ringt at skilja, hvat Jóannes Eidesgaard meinar við, tá hann spyr um "raðfesting av rakstrinum".</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 4:</head>
+              <p>
+                <seg>Sí svar Ad 1</seg>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 5:</head>
+              <p>
+                <s xml:id="zgvbh6iekk">Sum longu nevnt skuldi felags stjórin m.a. lýsa fyrimunirnar av samskipan.</s>
+                <s xml:id="puqzkuyz5u">Nevnt kundi verið felags stjóri, felags umsiting og bókhald, felags EDV, felags starvsfólkadeild, felags teknisk/maskindeild, felags verkstaðareindir, felags logistikdeild o.s.f.r.</s>
+              </p>
+              <p>
+                <s xml:id="gsmmbffw7u">Víst verður annars til svar Ad 1, Ad 2 og Ad 3.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 6:</head>
+              <p>
+                <s xml:id="lp3und2miu">Tað hevur ongantíð verið ætlanin at niðurleggja LV við tí vitan, sum stovnurin hevur, men bert at samskipa stovnarnar.</s>
+                <s xml:id="hf3duq2444">Førleikin verður tryggjaður við at hava fólk í starvi við hollari útbúgving og praktiskum royndum og einum umhvørvi, sum tryggjar ájourføring av nýggjari vitan.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 7:</head>
+              <p>
+                <s xml:id="aqvoxny5j4">Nú er hesin spurningur ikki aktuellur í løtuni, men sjálvsagt hevði ein nýggjur stovnsleiðari, sum ikki var verkfrøðingur, havt somu møguleikar sum undanfarnir landsverkfrøðingar at tikið avgerðir.</s>
+              </p>
+              <p>
+                <s xml:id="udi32mhanl">Tá tað snýr seg um at reka almennan stovn av slíkum slagi sum LV, kunnu aðrar kvalifikatiónir vera eins viðkomandi og verkfrøði fyri stovnsleiðaran.</s>
+              </p>
+              <p>
+                <s xml:id="dwfiwcicbc">Tað er bert ein spurningur um at seta saman tann rætta leiðslubólkin við neyðuga fakliga førleikanum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bod">Ad 8:</head>
+              <p>
+                <s xml:id="j6juikooc3">Tað er ikki liður í eini privatiseringsætlan, men í eini rationaliseringsætlan.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

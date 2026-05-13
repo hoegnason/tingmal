@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stuðul til ferðaútreiðslur</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998043Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Marjus Dam</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4498"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1999-03-02">02.03.1999</date>
+          </bibl>
+          <bibl xml:id="SS1998043A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Karsten Hansen</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4499"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998043Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1999, 2. mars, boðaði formaðurin frá soljóðandi fyrispurningi frá Marjus Dam, løgtingsmanni</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="bold center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="xubo72ygvh">Hvussu nógv verður goldið í ferðastuðli um árið?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="nmxv76asge">Hvussu nógv hevði verið goldið í ferðastuðli um árið, um takstirnir fyri ferðing hjá tænastufólki vóru galdandi?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="klb6ueck7z">Er ferðastuðulin í dag rímiligur í mun til útreiðslurnar av at ferðast aftur og fram til arbeiðis?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="mpjfbv6znv">Um so er, at nakar munur er á reellu útreiðslunum og ferðagjaldinum, hevur samgongan so nakrar ætlanir um at økja um ferðagjaldið, soleiðis at útjaðarin ikki verður fyri vanbýti orsakað av, at almenn arbeiðspláss eru í miðøkinum?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head rend="bold">Viðmerkingar:</head>
+              <p>
+                <s xml:id="p73jm2gydm">Tað er ein góðtikin veruleiki, at útjaðaraøkini á mangan hátt hava tað trupult í dag.</s>
+                <s xml:id="ra2pqgesax">Tað vísir seg millum annað við, at trivnaður og menning á fleiri økjum ikki er eins stór á útjaðaraøkjum sum á miðøkinum.</s>
+                <s xml:id="aoojlbyps7">Eisini eru fleiri útjaðaraøkir beinleiðis hótt.</s>
+              </p>
+              <p>
+                <s xml:id="gr2ra23jxx">Seinastu mongu árini er hend ein miðsavning millum annað av almennum arbeiðsplássum og øðrum.</s>
+                <s xml:id="e2cktkoi4b">Fólk kring landið verða tíðum noydd antin at flyta ella ferðast til arbeiðis.</s>
+                <s xml:id="mn3gwgun7d">Sama er galdandi hjá lesandi og útbúgvingarsøkjandi, ið búgva heima.</s>
+              </p>
+              <p>
+                <s xml:id="mrxgr7hvib">Umframt at nýta tíð til ferðing hava tey, ið ferðast til arbeiðis, beinleiðis inntøkumiss av hesi ferðing.</s>
+                <s xml:id="zm7g3icnbe">Tað merkir sostatt, at tann, ið býr nærindis arbeiðsplássinum, hevur ein inntøkufyrimun av hesum, í mun til tann, ið skal ferðast til arbeiðis.</s>
+              </p>
+              <p>
+                <s xml:id="ml54zht3ro">Ætlanin við fyrispurninginum er at fáa lýst hesi viðurskiftir – við atlitið til at fáa bøtt um møguligan skeivleika.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="i7ss2ekaxc">Á tingfundi 3. mars 1999 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998043A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </front>
+        <body>
+          <div type="response"> </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic"> </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>

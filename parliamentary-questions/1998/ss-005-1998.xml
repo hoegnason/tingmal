@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Skálafjarðaleiðin</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 and §27 of the Faroese Copyright Act (Upphavsrættarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="2026-05-13"/>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <bibl xml:id="SS1998005Q" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Sámal P. í Grund</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4422"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when="1998-10-08">08.10.1998</date>
+          </bibl>
+          <bibl xml:id="SS1998005A" type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Finnbogi Arge</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/4423"/>
+            <note type="source_format">HTML document, machine-readable text</note>
+            <date when=" "> </date>
+          </bibl>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text type="case">
+    <group>
+      <text source="#SS1998005Q">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Ár 1998, 8. oktober, boðaði formaðurin frá omanfyrinevnda fyrispurningi til Finnboga Arge, landsstýrismann, frá Sámal P. í Grund, løgtingsmanni, sum var soljóðandi:</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="parliamentary-question" subtype="written-question">
+            <head rend="center">Fyrispurningur</head>
+            <list type="questions">
+              <label>1.</label>
+              <item>
+                <s ana="#interrogative" xml:id="m4xluqxhzt">Er tað í tráð við samgonguskjalið at niðurleggja farleiðir heldur enn at rationalisera tær?</s>
+              </item>
+              <label>2.</label>
+              <item>
+                <s ana="#interrogative" xml:id="b6ue4hwu3z">Hvat hevur Skálafjarðasiglingin givið í halli árini 1994 til 1998 hvørt árið sær?</s>
+              </item>
+              <label>3.</label>
+              <item>
+                <s ana="#interrogative" xml:id="xftcviznmi">Hvussu nógv verður spart í 1998 við at niðurleggja Skálafjarðarsiglingina?</s>
+              </item>
+              <label>4.</label>
+              <item>
+                <s ana="#interrogative" xml:id="mp5x7b7fm5">Er tað ætlan landsstýrismansins, at allur almennur flutningur skal yvir veganetið, hóast hetta kann gerast skjótari sjóvegis?</s>
+              </item>
+              <label>5.</label>
+              <item>
+                <s ana="#interrogative" xml:id="tsfjhmqfmr">Tá kostnaðarmunurin millum landvegis og sjóvegis samband verður gjørdur upp, er tá roknað við íløgunum og slitið upp á veganetið?</s>
+              </item>
+            </list>
+            <div type="remarks">
+              <head>Viðmerkingar:</head>
+              <p>
+                <s xml:id="agatawefyz">Ætlanin var, at fyrispurningurin skuldi vera frá øllum Eysturoyartingmonnum, men við tað at tingskipanin ikki loyvir hesum, verður fyrispurningurin settur av einum tingmanni í Eysturoynni.</s>
+              </p>
+              <p>
+                <s xml:id="pqwy7fue2u">Heilt aftur til 1908 hevur skipaður flutningur av farmi og ferðafólki millum høvuðsstaðin og Skálafjørðin verið sjóvegis.</s>
+              </p>
+              <p>
+                <s xml:id="aqqrfldqm7">Hetta av teim heilt natúrligu orsøkum, at styttsta farleið millum hesi øki er sjóvegis.</s>
+              </p>
+              <p>
+                <s xml:id="qn2ikr6rnp">Henda flutningsleiðin varð heilt nógv nýtt, við tað at Norðoyggjar eisini styttu sær um farleiðina til Havnar við at nýta hesa leiðina.</s>
+              </p>
+              <p>
+                <s xml:id="rdyodd4sbz">Tá Eysturoyggin og Streymoyggin blivu knýttar saman í 1973 við brúgv um Sundalagið, og tunnil í 1976 bleiv gjørdur millum fjarða, gjørdist ein møguleiki afturat, hóast hetta fyri størsta partin av ferðsluni bleiv eitt sindur meiri tíðarkrevjandi.</s>
+              </p>
+              <p>
+                <s xml:id="xwpzsrkwmr">Tað, at nýggja farleiðin fyri størsta partin av ferðsluni kravdi meiri tíð, var helst orsøkin til, at gamla farleiðin ikki bleiv niðurløgd, men framvegis útbygd.</s>
+              </p>
+              <p>
+                <s xml:id="pgigcbupmp">Politikarar úr øðrum økjum í landinum sóu helst ikki týdningin av gomlu farleiðini, og bleiv hon tí niðurløgd eitt stutt skifti.</s>
+              </p>
+              <p>
+                <s xml:id="dzhsf6bnnn">Farleiðin bleiv tó uppafturtikin, men í skerdum líki, Ternan 1 bleiv sett at røkja farleiðina.</s>
+              </p>
+              <p>
+                <s xml:id="dhk52cpdq7">Tíðarbilið við ongum skipi og tað, at minni skip bleiv sett á farleiðina, gjørdi sítt til, at raksturin á hesi farleið bleiv alt ov kostnaðarmikil í mun til ta fólkamongd, sum brúkti farleiðina.</s>
+              </p>
+              <p>
+                <s xml:id="azebacyoy5">Harafturat bleiv minkað um fráferðirnar, og bussamband var bert til einstakar fráferðir.</s>
+              </p>
+              <p>
+                <s xml:id="ifbpavipz2">Vit, sum í dag eru løgtingsumboð fyri Eysturoynna, eru ikki ósamd við landsstýrismannin um, at eitthvørt mátti gerast við viðurskiftini á farleiðini, men høvdu væntað, at tað bleiv eitt framstig og ikki eitt afturstig.</s>
+              </p>
+              <p>
+                <s xml:id="rrzlerskvm">Hetta, við atliti til, at íbúgvarnir við Skálafjørðin longu í 1908 kundu koma til høvuðsstaðin uppá minni enn 1 tíma við skipaðari Skálafjarðarsigling.</s>
+              </p>
+              <p>
+                <s xml:id="zruzwbk7sg">Í samgonguskjalinum, sum sitandi samgonga arbeiðir eftir, verður sagt, at kannað verður, um rationaliseringar kunnu gerast á ávísum farleiðum.</s>
+                <s xml:id="c3axaogl4d">Í samgonguskjalinum stendur einki um niðurleggingar av farleiðum.</s>
+              </p>
+              <p>
+                <s xml:id="iqcyose443">Landsstýrismaðurin hevur alment sagt, at niðurlegging av farleiðini millum Skálafjørðin og høvuðsstaðin førir við sær eitt lækkað tænastustig fyri økið kring Skálafjørðin.</s>
+              </p>
+              <p>
+                <s xml:id="wit5jdk474">Eisini hevur landsstýrismaðurin sagt, at hetta verður framt fyri at spara.</s>
+              </p>
+              <p>
+                <s xml:id="rl6woxawmw">Løgtingsmenninir fyri Eysturoynna ivast í, hvussu stór sparingin er í krónum, tá skipið ikki er selt, mannskapið hevur uppsagnartíð, og bussar eru settir inn í staðin.</s>
+              </p>
+              <p>
+                <s xml:id="wcguj73z4u">Tað sær út sum um, at talan bert er um eina flyting av kostnaðinum til onnur øki í landinum.</s>
+              </p>
+              <p>
+                <s xml:id="clstiqc6oo">Eisini eru ter sannførdir um, at sjóvegis flutningur er av alstórum týdningi fyri menningina í økinum kring Skálafjørðin, og fyri Eysturoynna sum heild.</s>
+              </p>
+              <p>
+                <s xml:id="nt5g7zv4n6">Verður kostnaðurin av farleiðini yvir land gjørdur upp í síni heild, so er peningurin til sjóvegis farleiðina helst betur farin.</s>
+              </p>
+              <p>
+                <s xml:id="hmceetzksp">Slitið uppá landsvegirnar verður økt, tá ferðslan økist, og her er ikki bert talan um bussarnar, men eisini um øktu bilferðsluna, sum stendst av hesi tænastulækking.</s>
+              </p>
+              <p>
+                <s xml:id="mncjmq3rxz">Eisini er vert at taka við, at trygdin er størri sjóvegis, enn eftir veganetinum.</s>
+              </p>
+              <p>
+                <s xml:id="d4z3qlhoqs">Tí loyvi eg mær at seta landsstýrismanninum fylgjandi spurningar.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <s ana="#paratext #formulaic" xml:id="u4aaba7tpj">Á løgtingsfundi 9. oktober 1998 varð samtykt uttan atkvøðugreiðslu, at fyrispurningurin skal svarast.</s>
+          </ab>
+        </back>
+      </text>
+      <text source="#SS1998005A">
+        <front>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Á løgtingsfundi 4. november 1998 svaraði Finnbogi Arge, landsstýrismaður, fyrispurninginum soleiðis</seg>
+          </ab>
+        </front>
+        <body>
+          <div type="response">
+            <head rend="bold center">Svar</head>
+            <div>
+              <head rend="bold">Ad 1.</head>
+              <p>
+                <s xml:id="ayjqoi6fdy">Í samgonguskjalinum millum Fólkaflokkin, Tjóðveldisflokkin og Sjálvstýrisflokkin stendur, at kannast skal um rationaliseringar kunnu gerast í samferðslukervinum.</s>
+                <s xml:id="orzjgf6hfb">Av tí at vegasamband frammanundan er millum Havnina og Skálafjørðin, er ein niðurlegging av siglingarleiðini at meta sum ein rationalisering av sambandinum og sostatt ikki í andsøgn við samgonguskjalið.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Ad 2.</head>
+              <p>
+                <s xml:id="uz2rrz2ff6">Strandferðslan upplýsir, at restina av fíggjarárinum 1998 verður sparingin á Skálafjarðarleiðini umleið 2-300.000 netto.</s>
+                <s xml:id="twhwln6fja">Effektin av sparingini slær ígjøgnum í 1999, tá sparingin verður 2.8 -3.0 mió kr.</s>
+                <s xml:id="so5uflabiz">Verður lagt skip ikki selt, skulu vit rokna við, at sparingin í 1999 verður millum 2.3 og 2.5. mió kr.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Ad 3.</head>
+              <p>
+                <seg ana="#paratext #formulaic">Av Strandferðsluni verður upplýst, at hallið á Skálafjarðarleiðini er:</seg>
+              </p>
+              <table>
+                <row>
+                  <cell>1994</cell>
+                  <cell>1.596.000,-</cell>
+                </row>
+                <row>
+                  <cell>1995</cell>
+                  <cell>2.975.000,-</cell>
+                </row>
+                <row>
+                  <cell>1996</cell>
+                  <cell>1.886.000,-</cell>
+                </row>
+                <row>
+                  <cell>1997</cell>
+                  <cell>2.869.000,-</cell>
+                </row>
+                <row>
+                  <cell>1998</cell>
+                  <cell>1.468.000,- ( fyrra hálvár)</cell>
+                </row>
+              </table>
+              <p>
+                <s xml:id="fvv542zimv">Viðmerkjast skal, at í 1994, 1995 og 1996 er inntøkur frá Vestmannasundi taldar við.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Ad 4.</head>
+              <p>
+                <s xml:id="raabdb6yi6">Skjótleikin er bert ein av fleiri faktorum, sum hava týdning, tá ið støða skal takast til hvat samband skal veljast til almenna flutningin.</s>
+                <s xml:id="d2j37jtt7w">Fíggjarorka, ferðafólkatal, slag av farmi og alternativar farleiðir(vegasamband) eru dømi um faktorar, ið eisini skulu takast við inn í myndina.</s>
+                <s xml:id="wywlcaz34g">Hóast tað kann vera skjótari sjóvegis frá einum staði til annað, kann tað vera, at tað samanlagt er skilabetri at nýta veganetið, tá ið leiðin gongur gjøgnum fleiri bygdir og aðrir faktorar eisini verða tiknir við inn í myndina.</s>
+                <s xml:id="izwncp3baa">Tann loysnin, sum gevur øllum samfelagnum mestu nyttuna fyri kostnaðin, eigur at verða vald.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Ad 5.</head>
+              <p>
+                <s xml:id="n3iknw2rav">Tá landvegis og sjóvegis samband inn á Skálafjørðin verður samanborið, er grundarlagið fyri samanberingini kostnaðaðarmunurin á rakstrinum hjá Strandferðsluni.</s>
+                <s xml:id="jevdcrf4aw">Íløgur eru ikki tiknar við, men roknast má við, at íløgur til skip er munandi dýrari enn íløgur til bussar.</s>
+                <s xml:id="q25s7oeux7">Tað er torført at svara nágreiniliga uppá, hvussu nógv bussleiðin slítir vegirnar, men ein leyslig meting liggur millum kr. 25.000,- og 50.000,- árliga fyri hesa bussleið.</s>
+              </p>
+            </div>
+          </div>
+        </body>
+        <back>
+          <ab rend="italic" ana="#paratext #formulaic">
+            <seg ana="#paratext #formulaic">Málið avgreitt.</seg>
+          </ab>
+        </back>
+      </text>
+    </group>
+  </text>
+</TEI>
