@@ -451,7 +451,6 @@
             <ref target="https://www.logting.fo/documents/70227"/>
             <note type="source_format">PDF document, machine-readable text</note>
             <date when="2026-02-19">19.02.2026</date>
-            <idno type="case-number">25/20844-33</idno>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -636,6 +635,83 @@
               <persName>Steffan Klein Poulsen</persName>
             </signed>
           </ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>C: Svarskriv</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Almanna- og heilsumálaráðið</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/69516"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2026-01-07">07.01.2026</date>
+            <idno type="case-number">25/20844-45</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <div>
+          <!-- TODO: add case number and headers etc! -->
+          <head rend="bold">LM-057/2025: Uppskot til løgtingslóg um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</head>
+          <p>
+            <s xml:id="o74aocyrva">Landsstýriskvinnan í almanna- og heilsumálum var á fundi við Løgtingsins fíggjarnevnd tann 11. desember 2025, saman við Landsverki.</s>
+          </p>
+          <p>
+            <s xml:id="qo4ygdph5n">Á fundinum var kunnað um verkætlanina, og svaraði landsstýriskvinnan og Landsverk spurningum frá nevndini.</s>
+          </p>
+          <p>
+            <s xml:id="kob2zo2kdf">Landsstýriskvinnan kunnaði nevndina um møguliga áhugaósemju (interessukonflikt) í sambandi við ráðgeving í sambandi við arbeiðið at tetta lekar.</s>
+            <s xml:id="cufprjqk4q">Hetta er nýggj vitan, ið ikki er viðgjørd.</s>
+            <s xml:id="uhxim6taml">Avtalað varð, at landsstýriskvinnan í almanna- og heilsumálum skuldi svara nevndini aftur, tá ið málið er viðgjørt.</s>
+          </p>
+          <p>
+            <s xml:id="buqu4dg75u">Landsverk hevur viðgjørt málið og hevur greitt landsstýriskvinnuni í heilsumálum frá, at hóast ráðgevingin ikki sjálv metti, at talan er um áhugaósemju, so er tað týdningarmikið, at eingin ivi kann vera um óhefta ráðgeving í sambandi við umvælingarnar í H-bygninginum.</s>
+          </p>
+          <p>
+            <s xml:id="ek3swd66ph">Við støði í hesi meting, hevur Landsverk avgjørt at velja annan ráðgeva til víðari arbeiðið.</s>
+            <s xml:id="t6b4zli5jo">Avgerðin er tikin fyri at tryggja óhefta ráðgeving og fyri at forða fyri, at møgulig áhugaósemja - verulig ella uppfatað - kann seta arbeiðið ella avgerðir í iva.</s>
+          </p>
+          <p>
+            <s xml:id="us7emkofq4">Landsverk metir, at henda tilgongd er tann mest hóskandi við atliti at áliti, sakligheit og góðari fyrisiting.</s>
+          </p>
+          <p>
+            <s xml:id="f6ff2kmlid">Almanna- og heilsumálaráðið er samt við Landsverki í hesum.</s>
+          </p>
+          <p>
+            <s xml:id="zle6jvdlqq">Við grundarlagi í, at málið nú er viðgjørt og grundarlagið er broytt, heitir landsstýriskvinnan í almanna- og heilsumálum á Løgtingsins fíggjarnevnd um at halda fram við viðgerðini av málinum.</s>
+          </p>
+          <closer rend="center">
+            <ab rend="center">Vinaliga</ab>
+            <signed>
+              <persName>Margit Stórá <lb/><roleName>landsstýriskvinna</roleName></persName>
+            </signed>
+            <ab>/</ab>
+            <signed>
+              <persName>Bjørgfríð Ludvig <lb/><roleName>aðalstjóri</roleName></persName>
+            </signed>
+          </closer>
         </div>
       </body>
     </text>
