@@ -1,306 +1,516 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Uppskot til Løgtingslóg um stavrað</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
-          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
-        </availability>
-        <date when="2026-05-16"/>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="parliamentary_document">
-          <publisher>Føroya Løgting</publisher>
-          <author>
-            <persName ref="">Helgi Abrahamsen</persName>
-          </author>
-          <author>
-            <persName ref="">Magnus Rasmussen</persName>
-          </author>
-          <author>
-            <persName ref="">Erhard Joensen</persName>
-          </author>
-          <author>
-            <persName ref="">Johan Dahl</persName>
-          </author>
-          <author>
-            <persName ref="">Eyðdis Hartmann Niclasen</persName>
-          </author>
-          <author>
-            <persName ref="">Jaspur Langgaard</persName>
-          </author>
-          <ref target="https://www.logting.fo/documents/67626"/>
-          <note type="source_format">PDF document, machine-readable text</note>
-          <date when="2025-09-09">9. september 2025</date>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <ab>
-        <ab rend="bold center">Uppskot til</ab>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Uppskot til Løgtingslóg um stavrað</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="">Helgi Abrahamsen</persName>
+            </author>
+            <author>
+              <persName ref="">Magnus Rasmussen</persName>
+            </author>
+            <author>
+              <persName ref="">Erhard Joensen</persName>
+            </author>
+            <author>
+              <persName ref="">Johan Dahl</persName>
+            </author>
+            <author>
+              <persName ref="">Eyðdis Hartmann Niclasen</persName>
+            </author>
+            <author>
+              <persName ref="">Jaspur Langgaard</persName>
+            </author>
+            <ref target="https://www.logting.fo/documents/67626"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2025-09-09">9. september 2025</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <ab>
+          <ab rend="bold center">Uppskot til</ab>
+          <space dim="vertical"/>
+          <ab rend="bold center">Løgtingslóg</ab>
+          <ab rend="bold center">um</ab>
+          <ab rend="bold center">stavrað</ab>
+        </ab>
         <space dim="vertical"/>
-        <ab rend="bold center">Løgtingslóg</ab>
-        <ab rend="bold center">um</ab>
-        <ab rend="bold center">stavrað</ab>
-      </ab>
-      <space dim="vertical"/>
-      <div type="chapter" n="0">
-        <div type="bill-section" n="§ 1.">
-          <div n="§ 1. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 1.</label>
-              <s xml:lang="fo" cert="high" xml:id="dpquay3xwb">Føroyska stavraðið er skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
+        <div type="chapter" n="0">
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <s xml:lang="fo" cert="high" xml:id="dpquay3xwb">Føroyska stavraðið er skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="rzqw5e3wec">Føroyska stavraðið er bindandi fyri almennar myndugleikar, m.a. skúlar og stovnar, og er einasta galdandi stavrað.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 3.">
+            <div n="§ 3. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="dgwob6qnjp">Landsstýrisfólkið kann áseta nærri reglur fyri nýtslu av stavraðnum í skúlum og málsligari leiðbeining.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 4.">
+            <div n="§ 4. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="rmms7ww3yb">Henda løgtingslóg kemur í gildi 1. januar 2026.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div type="chapter" n="1">
+          <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+          <div type="section" n="1.1.">
+            <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wx62dnlj3k">Lógaruppskotið byggir á tilmælini frá Løgtingsins Mentanarnevnd í løgtingsmáli 16/2009.</s>
+              <s xml:lang="fo" cert="high" xml:id="sfgchkdbzp">Ein samd nevnd legði fram álit, har heitt varð á landsstýrið um at fyrireika eitt málráð, sum skuldi avloysa Málnevndina.</s>
+              <s xml:lang="fo" cert="high" xml:id="x2kgvtw7bd">Nevndin legði dent á, at ráðið skuldi vera so breitt samansett, at fleiri fatanir komu til orðanna í ráðnum, umframt at spurningurin um stavraðið átti at verða viðgjørdur í hesum ráði.</s>
+              <s xml:lang="fo" cert="high" xml:id="uzjqgmvct2">Nevndin vísti í tí sambandi á, at spurningurin um stavraðið ikki bara er málfrøðiligur, men eisini politiskur, og at Løgtingið bæði kann og eigur at geva sína hugsan til kennar um hetta mentanarpolitiska mál.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Niðurstøðan hjá Løgtingsins Mentanarnevnd viðvíkjandi spurninginum um stavraðið var:</seg>
+            </p>
+            <list>
+              <item><label>1)</label> at Føroyar bara eiga at hava eitt stavrað,</item>
+              <item><label>2)</label> at hetta stavrað skal vera løggilt (autoriserað), og</item>
+              <item><label>3)</label> at tað skal hýsa stavunum C, W, Q, Z og X, eins og stavrøðini í nærum øllum teimum málum, føroyskt er skylt við.</item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="m4zqs5j6ez">Hetta stavraðið, við 34 stavum (tað latínska stavraðið við 26 stavum umframt 8 serstavir), vanliga nevnt móðurmálsstavraðið, samsvarar við nútímans føroyska málbrúkið, eins og tað samsvarar við stavrøðini í nærum øllum teimum málum, føroyskt er skylt við, sum t.d. stavrøðini í tí enska, danska, norska, svenska, týska, franska og spanska málinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cag6622bm5">Føroyska málið verður í dag ikki bara myndað av arvorðum, men eisini tøkuorðum og fremmandaorðum.</s>
+              <s xml:lang="fo" cert="high" xml:id="jdbz3uin3f">Stavirnir C, W, Q, Z og X eru partur av málsliga veruleikanum, bæði í heitum, náttúrufrøði, læknafrøði, tøkni, tølum, nøvnum o.ø. At hesir stavirnir formliga eru úti úr stavraðnum, hevur elvt til stórar praktiskar trupulleikar í skúlum og á málsøkinum yvirhøvur.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gyxdurziwz">Ein kanning hjá Lóðri á vári 2014 vísir, at umleið 70% av Føroya fólki taka undir við móðurmálsstavraðnum, meðan bara umleið 30% stuðla tí skerda stavraðnum (kanningin endurgivin í greinini “Fólkið sigur ja til CQWX og Z” í Sosialinum 7. mai 2014).</s>
+              <s xml:lang="fo" cert="high" xml:id="p3y7ilhmb2">Móðurmálsstavraðið hevur eisini dygga fakliga undirtøku frá føroyskum málfrøðingum og -granskarum, umframt táverandi minnilutanum í Málráðnum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mtg6oqylba">Í spurninginum um móðurmálsstavraðið tók fráfarandi Málnevndin eisini einmælt undir við tilmælinum frá Løgtingsins Mentanarnevnd.</s>
+            </p>
+          </div>
+          <div type="section" n="1.2.">
+            <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lmv76h5qha">Í tí fyrsta Málráðnum frá januar 2013 valdi meirilutin at skerja móðurmálsstavraðið við stavunum C, W, Q, Z og X, og hetta skerda stavraðið við bara 29 stavum varð sett í gildi av einum meiriluta, ið ikki ynskti alment kjak um stavraðið.</s>
+              <s xml:lang="fo" cert="high" xml:id="juxrbwatcc">Minnilutin slapp ikki framat við sínum sjónarmiði, eins og avgerðin var beinleiðis í andsøgn við tilmælini frá Løgtingsins Mentanarnevnd um, at Málráðið skuldi vera so breitt samansett, at fleiri fatanir komu til orðanna í ráðnum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="odqdi3yelm">Í veruleikanum hava vit tí nú tvey stavrøð: tað skerda stavraðið við 29 stavum, og eitt stavrað við 34 stavum (tað latínska stavraðið við 26 stavum umframt 8 serstavir).</s>
+              <s xml:lang="fo" cert="high" xml:id="r3ojhgkudc">Hetta er eisini beinleiðis í andsøgn við tilmælið frá Løgtingsins Mentanarnevnd um, at Føroyar bara eiga at hava eitt stavrað.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="t4jajyq4oa">Sambært løgtingslógini um Málráðið frá 2013 (§ 10, stk. 3) skuldi ein eftirmeting av Málráðnum leggjast fyri Løgtingið eftir trimum árum, fyri at kanna um lógin virkaði eftir ætlan.</s>
+              <s xml:lang="fo" cert="high" xml:id="hmkhuir3jx">Hetta varð ikki gjørt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gv7rlneahq">Eftirmetingin av Málráðnum, sum Lóður gjørdi 18. november 2016, telur 16 A4 síður, og inniheldur álvarsamar atfinningar av arbeiðsgongdini í ráðnum, eins og hon vísir á samstarvstrupulleikar í ráðnum.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Ein stuttur samandráttur av eftirmetingini hjá Lóðri frá 2016:</seg>
+            </p>
+            <list>
+              <item>
+                <label>1.</label>
+                <p>
+                  <s xml:id="k2slctldtb">Málráðið umboðar ikki málfatanina hjá Føroya fólki, og fólk kenna seg ikki heima í málinum.</s>
+                </p>
+              </item>
+              <item>
+                <label>2.</label>
+                <p>
+                  <s xml:id="ddkjqvwoqo">Lurtað verður ikki eftir, hvat meirilutin av føroyingum heldur ella ynskir, t.d. viðvíkjandi stavraði, stavseting o.tíl.</s>
+                </p>
+              </item>
+              <item>
+                <label>3.</label>
+                <p>
+                  <s xml:id="osh3ifbuts">Puristiski meirilutin í Málráðnum ynskir ikki alment kjak um stavraðið, og loyvir ikki minnilutanum framat við sínum sjónarmiðum.</s>
+                </p>
+              </item>
+              <item>
+                <label>4.</label>
+                <p>
+                  <s xml:id="qz2xhdc5b6">Ráðið hevur ikki nóg stóra virðing fyri yrkislærdum fólki, hóast tað stendur í lógini fyri Málráðið, at ráðið skal samstarva við yrkisbólkar.</s>
+                </p>
+              </item>
+              <item>
+                <label>5.</label>
+                <p>
+                  <s xml:id="xhh3swmyhw">Puristiski meirilutin velur bert sínar egnu í starvsnevndina og ignorerar minnilutan, loyvir ikki kjaki og hevur eina atferð, sum førir til valdsmisnýtslu.</s>
+                </p>
+              </item>
+              <item>
+                <label>6.</label>
+                <p>
+                  <s xml:id="l6tuu7e3hh">Formaðurin í ráðnum virðir ikki sáttmálan hjá UNGEGN (United Nations Group of Experts on Geographical Names) í Sameindu Tjóðum, hóast umboð fyri sama var partur av minnilutanum.</s>
+                </p>
+              </item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="o3764r527b">Hendan eftirmetingin varð ongantíð løgd fyri Løgtingið, hóast fleiri áminningar.</s>
+            </p>
+          </div>
+          <div type="section" n="1.3.">
+            <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ieseulv55c">Hetta lógaruppskotið skal bøta um ta ósakligu og ódemokratisku viðgerðina, har føroyska stavraðið varð skert, hóast ein samd Mentanarnevnd í Løgtinginum mælti frá hesum, eins og viðgerðin manglaði breiða undirtøku og var í ósamsvari við mentanarlig, málfrøðilig og pedagogisk sjónarmið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mxhlitjf2e">Sambært táverandi minnilutanum í Málráðnum og serfrøðingunum í føroyskum máli, er eitt stavrað ikki nøkur natúrlóg, men ein praktiskur listi við teimum bókstøvum, sum eru í brúki í einum máli.</s>
+              <s xml:lang="fo" cert="high" xml:id="u55w4bcbbt">Hesi mæla til, at móðurmálsstavraðið verður viðurkent og løggilt.</s>
+              <s xml:lang="fo" cert="high" xml:id="mvjfmtl6xb">Eisini er hetta eitt stavrað, sum allir føroyingar kenna seg aftur í, og hetta hevur als ongar negativar fylgjur fyri føroyskt sum mál, tí tað er longu praktiserað í orðabókum, tekstum og málinum yvirhøvur (sí “Skjal C: viðmerkingar til uppskotið” í LM-075/2013).</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="clxhu6delh">Málið um stavraðið er ikki bara ein málfrøðiligur spurningur, men eisini ein mentanar-politiskur spurningur, sum Løgtingið sambært tilmælunum frá Mentanarnevndini í 2009 eigur at taka støðu til.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v4hxrcftw4">Endamálið við lógaruppskotinum er at seta í gildi aftur og formliga staðfesta móðurmálsstavraðið sum tað einasta almenna føroyska stavraðið.</s>
+            </p>
+          </div>
+          <div type="section" n="1.4.">
+            <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gkckehkvm5">Frá 1. januar 2026 verður føroyska stavraðið skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wdetczsubp">Føroyska stavraðið verður bindandi fyri allar almennar myndugleikar, stovnar og skúlar, og skal nýtast sum stavrað í orðabókum og málsligari vegleiðing.</s>
+              <s xml:lang="fo" cert="high" xml:id="re26btax3i">Landsstýrið kann áseta nærri reglur um, hvussu stavraðið verður brúkt í undirvísing og málsligari leiðbeining.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ckumqpnowq">Endamálið er at fáa eitt sameint og løggilt stavrað, sum eisini inniheldur stavirnar C, W, Q, Z og X, eins og stavrøðini í flestu málum, ið føroyskt er skylt við.</s>
+              <s xml:lang="fo" cert="high" xml:id="twgcrbc7rs">Hetta byggir eisini á tilmælini frá Løgtingsins Mentanarnevnd, sum í 2009 metti, at spurningurin um stavraðið ikki bara er málfrøðiligur, men eisini eitt mentanarpolitiskt mál, sum Løgtingið eigur at taka støðu til.</s>
             </p>
           </div>
         </div>
-        <div type="bill-section" n="§ 2.">
-          <div n="§ 2. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="rzqw5e3wec">Føroyska stavraðið er bindandi fyri almennar myndugleikar, m.a. skúlar og stovnar, og er einasta galdandi stavrað.</s>
+        <div type="chapter" n="2">
+          <head rend="bold"><label>Kapittul 2.</label> Avleiðingar av uppskotinum</head>
+          <div type="section" n="0">
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="a27rqrnkbv">Lógaruppskotið hevur ongar umsitingarligar avleiðingar fyri land og kommunur sum so.</s>
+              <s xml:lang="fo" cert="high" xml:id="t5ozw576ju">Tó skal viðmerkjast, at orðabøkur og onnur málslig amboð, sum Málráðið ritstjórnar, skulu gerast í samsvari við stavraðið í hesi lóg, umframt at stavraðið verður bindandi fyri almennar myndugleikar, skúlar og stovnar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="znkuw25l6x">Uppskotið gevur landsstýrisfólkinum heimild at áseta nærri reglur fyri nýtslu av stavraðnum í skúlum og málsligari leiðbeining.</s>
             </p>
           </div>
         </div>
-        <div type="bill-section" n="§ 3.">
-          <div n="§ 3. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 3.</label>
-              <s xml:lang="fo" cert="high" xml:id="dgwob6qnjp">Landsstýrisfólkið kann áseta nærri reglur fyri nýtslu av stavraðnum í skúlum og málsligari leiðbeining.</s>
+        <div type="chapter" n="3">
+          <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+          <div type="section">
+            <head rend="bold">Til § 1</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tb6j3hbbi6">Við hesi áseting verður lógarfest, at føroyska stavraðið er skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zaafa2mzbz">Talan er um tað vanliga latínska grundstavraðið (26 stavir) við teimum átta serstavunum, ið hava verið fastur partur av føroyska málinum í fleiri ættarlið.</s>
+              <s xml:lang="fo" cert="high" xml:id="el3cbyqrwx">Við broytingini verða stavirnir C, W, Q, Z og X aftur tiknir inn sum lógarbundin partur av stavraðnum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="aj5a32pwqz">Hetta samsvarar við stavraðið í teimum málum, sum føroyskt er skylt við, t.d. enskt, danskt, norskt og svenskt, og ger tað lættari at handfara útlendsk nøvn, lániorð og fakorð.</s>
+              <s xml:lang="fo" cert="high" xml:id="gcqtmffd3m">Ásetingin hevur eisini týdning fyri móðurmálsorðabøkur, tí stavraðið er beinleiðis grundarlagið fyri, hvussu orð verða skrivað og skipað.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bgpqxj3umq">Ásetingin tryggjar, at eingin ivi er um, hvørjir stavir hoyra til føroyska stavraðið.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 2</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="skny4q3qh2">Greinin ásetir, at føroyska stavraðið, nevnt í § 1, er bindandi fyri allar almennar myndugleikar, skúlar og stovnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="name4ffzr5">Hetta ber við sær, at alt alment skrivligt tilfar, t.d. frágreiðingar, reglur, heimasíður, undirvísingartilfar o.s.fr., skal gerast í samsvari við hetta stavraðið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uft54y554k">Greinin tryggjar, at orðabøkur og aðrar álítandi málsligar keldur verða skipaðar eftir stavraðnum.</s>
+              <s xml:lang="fo" cert="high" xml:id="r4wwveq2mb">Hetta forðar fyri, at óneyðugar tvístøður og málsligt ósamsvar stinga seg upp orsakað av, at almennir myndugleikar og stovnar nýta ymisk stavrøð.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wuintqmtii">Ásetingin tryggjar eisini, at føroyska skriftmálið verður samanhangandi og sameint, og hetta bæði lættir um undirvísing og styrkir málsliga samleikan.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 3</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rt7xr7wf6h">Greinin gevur landsstýrisfólkinum heimild at áseta nærri reglur um, hvussu stavraðið skal nýtast í skúlum og í málsligari leiðbeining.</s>
+            </p>
+          </div>
+          <div type="section">
+            <head rend="bold">Til § 4</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v7u5dvqcxj">Áseting um gildiskomu.</s>
             </p>
           </div>
         </div>
-        <div type="bill-section" n="§ 4.">
-          <div n="§ 4. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 4.</label>
-              <s xml:lang="fo" cert="high" xml:id="rmms7ww3yb">Henda løgtingslóg kemur í gildi 1. januar 2026.</s>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div type="chapter" n="1">
-        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
-        <div type="section" n="1.1.">
-          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="wx62dnlj3k">Lógaruppskotið byggir á tilmælini frá Løgtingsins Mentanarnevnd í løgtingsmáli 16/2009.</s>
-            <s xml:lang="fo" cert="high" xml:id="sfgchkdbzp">Ein samd nevnd legði fram álit, har heitt varð á landsstýrið um at fyrireika eitt málráð, sum skuldi avloysa Málnevndina.</s>
-            <s xml:lang="fo" cert="high" xml:id="x2kgvtw7bd">Nevndin legði dent á, at ráðið skuldi vera so breitt samansett, at fleiri fatanir komu til orðanna í ráðnum, umframt at spurningurin um stavraðið átti at verða viðgjørdur í hesum ráði.</s>
-            <s xml:lang="fo" cert="high" xml:id="uzjqgmvct2">Nevndin vísti í tí sambandi á, at spurningurin um stavraðið ikki bara er málfrøðiligur, men eisini politiskur, og at Løgtingið bæði kann og eigur at geva sína hugsan til kennar um hetta mentanarpolitiska mál.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Niðurstøðan hjá Løgtingsins Mentanarnevnd viðvíkjandi spurninginum um stavraðið var:</seg>
-          </p>
-          <list>
-            <item><label>1)</label> at Føroyar bara eiga at hava eitt stavrað,</item>
-            <item><label>2)</label> at hetta stavrað skal vera løggilt (autoriserað), og</item>
-            <item><label>3)</label> at tað skal hýsa stavunum C, W, Q, Z og X, eins og stavrøðini í nærum øllum teimum málum, føroyskt er skylt við.</item>
-          </list>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="m4zqs5j6ez">Hetta stavraðið, við 34 stavum (tað latínska stavraðið við 26 stavum umframt 8 serstavir), vanliga nevnt móðurmálsstavraðið, samsvarar við nútímans føroyska málbrúkið, eins og tað samsvarar við stavrøðini í nærum øllum teimum málum, føroyskt er skylt við, sum t.d. stavrøðini í tí enska, danska, norska, svenska, týska, franska og spanska málinum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="cag6622bm5">Føroyska málið verður í dag ikki bara myndað av arvorðum, men eisini tøkuorðum og fremmandaorðum.</s>
-            <s xml:lang="fo" cert="high" xml:id="jdbz3uin3f">Stavirnir C, W, Q, Z og X eru partur av málsliga veruleikanum, bæði í heitum, náttúrufrøði, læknafrøði, tøkni, tølum, nøvnum o.ø. At hesir stavirnir formliga eru úti úr stavraðnum, hevur elvt til stórar praktiskar trupulleikar í skúlum og á málsøkinum yvirhøvur.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gyxdurziwz">Ein kanning hjá Lóðri á vári 2014 vísir, at umleið 70% av Føroya fólki taka undir við móðurmálsstavraðnum, meðan bara umleið 30% stuðla tí skerda stavraðnum (kanningin endurgivin í greinini “Fólkið sigur ja til CQWX og Z” í Sosialinum 7. mai 2014).</s>
-            <s xml:lang="fo" cert="high" xml:id="p3y7ilhmb2">Móðurmálsstavraðið hevur eisini dygga fakliga undirtøku frá føroyskum málfrøðingum og -granskarum, umframt táverandi minnilutanum í Málráðnum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="mtg6oqylba">Í spurninginum um móðurmálsstavraðið tók fráfarandi Málnevndin eisini einmælt undir við tilmælinum frá Løgtingsins Mentanarnevnd.</s>
-          </p>
-        </div>
-        <div type="section" n="1.2.">
-          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="lmv76h5qha">Í tí fyrsta Málráðnum frá januar 2013 valdi meirilutin at skerja móðurmálsstavraðið við stavunum C, W, Q, Z og X, og hetta skerda stavraðið við bara 29 stavum varð sett í gildi av einum meiriluta, ið ikki ynskti alment kjak um stavraðið.</s>
-            <s xml:lang="fo" cert="high" xml:id="juxrbwatcc">Minnilutin slapp ikki framat við sínum sjónarmiði, eins og avgerðin var beinleiðis í andsøgn við tilmælini frá Løgtingsins Mentanarnevnd um, at Málráðið skuldi vera so breitt samansett, at fleiri fatanir komu til orðanna í ráðnum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="odqdi3yelm">Í veruleikanum hava vit tí nú tvey stavrøð: tað skerda stavraðið við 29 stavum, og eitt stavrað við 34 stavum (tað latínska stavraðið við 26 stavum umframt 8 serstavir).</s>
-            <s xml:lang="fo" cert="high" xml:id="r3ojhgkudc">Hetta er eisini beinleiðis í andsøgn við tilmælið frá Løgtingsins Mentanarnevnd um, at Føroyar bara eiga at hava eitt stavrað.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="t4jajyq4oa">Sambært løgtingslógini um Málráðið frá 2013 (§ 10, stk. 3) skuldi ein eftirmeting av Málráðnum leggjast fyri Løgtingið eftir trimum árum, fyri at kanna um lógin virkaði eftir ætlan.</s>
-            <s xml:lang="fo" cert="high" xml:id="hmkhuir3jx">Hetta varð ikki gjørt.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gv7rlneahq">Eftirmetingin av Málráðnum, sum Lóður gjørdi 18. november 2016, telur 16 A4 síður, og inniheldur álvarsamar atfinningar av arbeiðsgongdini í ráðnum, eins og hon vísir á samstarvstrupulleikar í ráðnum.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Ein stuttur samandráttur av eftirmetingini hjá Lóðri frá 2016:</seg>
-          </p>
-          <list>
-            <item>
-              <label>1.</label>
-              <p>
-                <s xml:id="k2slctldtb">Málráðið umboðar ikki málfatanina hjá Føroya fólki, og fólk kenna seg ikki heima í málinum.</s>
-              </p>
-            </item>
-            <item>
-              <label>2.</label>
-              <p>
-                <s xml:id="ddkjqvwoqo">Lurtað verður ikki eftir, hvat meirilutin av føroyingum heldur ella ynskir, t.d. viðvíkjandi stavraði, stavseting o.tíl.</s>
-              </p>
-            </item>
-            <item>
-              <label>3.</label>
-              <p>
-                <s xml:id="osh3ifbuts">Puristiski meirilutin í Málráðnum ynskir ikki alment kjak um stavraðið, og loyvir ikki minnilutanum framat við sínum sjónarmiðum.</s>
-              </p>
-            </item>
-            <item>
-              <label>4.</label>
-              <p>
-                <s xml:id="qz2xhdc5b6">Ráðið hevur ikki nóg stóra virðing fyri yrkislærdum fólki, hóast tað stendur í lógini fyri Málráðið, at ráðið skal samstarva við yrkisbólkar.</s>
-              </p>
-            </item>
-            <item>
-              <label>5.</label>
-              <p>
-                <s xml:id="xhh3swmyhw">Puristiski meirilutin velur bert sínar egnu í starvsnevndina og ignorerar minnilutan, loyvir ikki kjaki og hevur eina atferð, sum førir til valdsmisnýtslu.</s>
-              </p>
-            </item>
-            <item>
-              <label>6.</label>
-              <p>
-                <s xml:id="l6tuu7e3hh">Formaðurin í ráðnum virðir ikki sáttmálan hjá UNGEGN (United Nations Group of Experts on Geographical Names) í Sameindu Tjóðum, hóast umboð fyri sama var partur av minnilutanum.</s>
-              </p>
-            </item>
-          </list>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="o3764r527b">Hendan eftirmetingin varð ongantíð løgd fyri Løgtingið, hóast fleiri áminningar.</s>
-          </p>
-        </div>
-        <div type="section" n="1.3.">
-          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ieseulv55c">Hetta lógaruppskotið skal bøta um ta ósakligu og ódemokratisku viðgerðina, har føroyska stavraðið varð skert, hóast ein samd Mentanarnevnd í Løgtinginum mælti frá hesum, eins og viðgerðin manglaði breiða undirtøku og var í ósamsvari við mentanarlig, málfrøðilig og pedagogisk sjónarmið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="mxhlitjf2e">Sambært táverandi minnilutanum í Málráðnum og serfrøðingunum í føroyskum máli, er eitt stavrað ikki nøkur natúrlóg, men ein praktiskur listi við teimum bókstøvum, sum eru í brúki í einum máli.</s>
-            <s xml:lang="fo" cert="high" xml:id="u55w4bcbbt">Hesi mæla til, at móðurmálsstavraðið verður viðurkent og løggilt.</s>
-            <s xml:lang="fo" cert="high" xml:id="mvjfmtl6xb">Eisini er hetta eitt stavrað, sum allir føroyingar kenna seg aftur í, og hetta hevur als ongar negativar fylgjur fyri føroyskt sum mál, tí tað er longu praktiserað í orðabókum, tekstum og málinum yvirhøvur (sí “Skjal C: viðmerkingar til uppskotið” í LM-075/2013).</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="clxhu6delh">Málið um stavraðið er ikki bara ein málfrøðiligur spurningur, men eisini ein mentanar-politiskur spurningur, sum Løgtingið sambært tilmælunum frá Mentanarnevndini í 2009 eigur at taka støðu til.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="v4hxrcftw4">Endamálið við lógaruppskotinum er at seta í gildi aftur og formliga staðfesta móðurmálsstavraðið sum tað einasta almenna føroyska stavraðið.</s>
-          </p>
-        </div>
-        <div type="section" n="1.4.">
-          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gkckehkvm5">Frá 1. januar 2026 verður føroyska stavraðið skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="wdetczsubp">Føroyska stavraðið verður bindandi fyri allar almennar myndugleikar, stovnar og skúlar, og skal nýtast sum stavrað í orðabókum og málsligari vegleiðing.</s>
-            <s xml:lang="fo" cert="high" xml:id="re26btax3i">Landsstýrið kann áseta nærri reglur um, hvussu stavraðið verður brúkt í undirvísing og málsligari leiðbeining.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ckumqpnowq">Endamálið er at fáa eitt sameint og løggilt stavrað, sum eisini inniheldur stavirnar C, W, Q, Z og X, eins og stavrøðini í flestu málum, ið føroyskt er skylt við.</s>
-            <s xml:lang="fo" cert="high" xml:id="twgcrbc7rs">Hetta byggir eisini á tilmælini frá Løgtingsins Mentanarnevnd, sum í 2009 metti, at spurningurin um stavraðið ikki bara er málfrøðiligur, men eisini eitt mentanarpolitiskt mál, sum Løgtingið eigur at taka støðu til.</s>
-          </p>
-        </div>
-      </div>
-      <div type="chapter" n="2">
-        <head rend="bold"><label>Kapittul 2.</label> Avleiðingar av uppskotinum</head>
-        <div type="section" n="0">
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="a27rqrnkbv">Lógaruppskotið hevur ongar umsitingarligar avleiðingar fyri land og kommunur sum so.</s>
-            <s xml:lang="fo" cert="high" xml:id="t5ozw576ju">Tó skal viðmerkjast, at orðabøkur og onnur málslig amboð, sum Málráðið ritstjórnar, skulu gerast í samsvari við stavraðið í hesi lóg, umframt at stavraðið verður bindandi fyri almennar myndugleikar, skúlar og stovnar.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="znkuw25l6x">Uppskotið gevur landsstýrisfólkinum heimild at áseta nærri reglur fyri nýtslu av stavraðnum í skúlum og málsligari leiðbeining.</s>
-          </p>
-        </div>
-      </div>
-      <div type="chapter" n="3">
-        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
-        <div type="section">
-          <head rend="bold">Til § 1</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="tb6j3hbbi6">Við hesi áseting verður lógarfest, at føroyska stavraðið er skipað í hesar bókstavir: A, Á, B, C, D, Ð, E, F, G, H, I, Í, J, K, L, M, N, O, Ó, P, Q, R, S, T, U, Ú, V, W, X, Y, Ý, Z, Æ, Ø.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="zaafa2mzbz">Talan er um tað vanliga latínska grundstavraðið (26 stavir) við teimum átta serstavunum, ið hava verið fastur partur av føroyska málinum í fleiri ættarlið.</s>
-            <s xml:lang="fo" cert="high" xml:id="el3cbyqrwx">Við broytingini verða stavirnir C, W, Q, Z og X aftur tiknir inn sum lógarbundin partur av stavraðnum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="aj5a32pwqz">Hetta samsvarar við stavraðið í teimum málum, sum føroyskt er skylt við, t.d. enskt, danskt, norskt og svenskt, og ger tað lættari at handfara útlendsk nøvn, lániorð og fakorð.</s>
-            <s xml:lang="fo" cert="high" xml:id="gcqtmffd3m">Ásetingin hevur eisini týdning fyri móðurmálsorðabøkur, tí stavraðið er beinleiðis grundarlagið fyri, hvussu orð verða skrivað og skipað.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="bgpqxj3umq">Ásetingin tryggjar, at eingin ivi er um, hvørjir stavir hoyra til føroyska stavraðið.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 2</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="skny4q3qh2">Greinin ásetir, at føroyska stavraðið, nevnt í § 1, er bindandi fyri allar almennar myndugleikar, skúlar og stovnar.</s>
-            <s xml:lang="fo" cert="high" xml:id="name4ffzr5">Hetta ber við sær, at alt alment skrivligt tilfar, t.d. frágreiðingar, reglur, heimasíður, undirvísingartilfar o.s.fr., skal gerast í samsvari við hetta stavraðið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="uft54y554k">Greinin tryggjar, at orðabøkur og aðrar álítandi málsligar keldur verða skipaðar eftir stavraðnum.</s>
-            <s xml:lang="fo" cert="high" xml:id="r4wwveq2mb">Hetta forðar fyri, at óneyðugar tvístøður og málsligt ósamsvar stinga seg upp orsakað av, at almennir myndugleikar og stovnar nýta ymisk stavrøð.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="wuintqmtii">Ásetingin tryggjar eisini, at føroyska skriftmálið verður samanhangandi og sameint, og hetta bæði lættir um undirvísing og styrkir málsliga samleikan.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 3</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="rt7xr7wf6h">Greinin gevur landsstýrisfólkinum heimild at áseta nærri reglur um, hvussu stavraðið skal nýtast í skúlum og í málsligari leiðbeining.</s>
-          </p>
-        </div>
-        <div type="section">
-          <head rend="bold">Til § 4</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="v7u5dvqcxj">Áseting um gildiskomu.</s>
-          </p>
-        </div>
-      </div>
-      <space dim="vertical"/>
-      <div type="signature">
-        <dateline><placeName>Á Løgtingi</placeName>, <date when="2025-09-09">9. september 2025</date></dateline>
         <space dim="vertical"/>
-        <signed>
-          <persName>Helgi Abrahamsen</persName>
-        </signed>
-        <signed>
-          <persName>Magnus Rasmussen</persName>
-        </signed>
-        <signed>
-          <persName>Erhard Joensen</persName>
-        </signed>
-        <signed>
-          <persName>Johan Dahl</persName>
-        </signed>
-        <signed>
-          <persName>Eyðdis Hartmann Niclasen</persName>
-        </signed>
-        <signed>
-          <persName>Jaspur Langgaard</persName>
-        </signed>
-      </div>
-    </body>
-  </text>
-</TEI>
+        <div type="signature">
+          <dateline><placeName>Á Løgtingi</placeName>, <date when="2025-09-09">9. september 2025</date></dateline>
+          <space dim="vertical"/>
+          <signed>
+            <persName>Helgi Abrahamsen</persName>
+          </signed>
+          <signed>
+            <persName>Magnus Rasmussen</persName>
+          </signed>
+          <signed>
+            <persName>Erhard Joensen</persName>
+          </signed>
+          <signed>
+            <persName>Johan Dahl</persName>
+          </signed>
+          <signed>
+            <persName>Eyðdis Hartmann Niclasen</persName>
+          </signed>
+          <signed>
+            <persName>Jaspur Langgaard</persName>
+          </signed>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Álit</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Mentanarnevndin</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/68448"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2025-09-09">9. september 2025</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <div>
+          <head rend="bold center">Álit <lb/>í <lb/>løgtingsmáli nr. 25/2025: Uppskot til løgtingslóg um stavrað</head>
+          <p>
+            <s xml:id="sgsjg72b62">Bárður á Steig Nielsen, Helgi Abrahamsen, Magnus Rasmussen, Erhard Joensen, Johan Dahl, Eyðdis Hartmann Niclasen og Jaspur Langgaard, tingfólk, hava vegna Sambandsflokkin lagt málið fram 30. september 2025, og eftir 1. viðgerð 23. oktober 2025 er tað beint Mentanarnevndini.</s>
+            <s xml:id="ngqarzmh6x">Nevndin hevur viðgjørt málið á fundi 29. oktober og 4. november 2025.</s>
+          </p>
+          <p>
+            <s xml:id="uignezpw6j">Undir viðgerðini hevur nevndin havt fund við Regin Eikhólm, Føroya Lærarafelag, Málráðið, Fróðskaparsetrið, Randi Meitil, landsstýrismannin í barna- og útbúgvingarmálum, Djóna Nolsøe Joensen, saman við ávikavist Undirvísingarstýrinum og Námi og landsstýrismannin í almanna- og mentamálum, Eirik í Jákupsstovu.</s>
+          </p>
+          <p>
+            <s xml:id="rghbiqi5lc">Undir viðgerðini hevur nevndin býtt seg í ein meiriluta og ein minniluta.</s>
+          </p>
+          <div>
+            <p>
+              <s xml:id="nd2pqf35ef"><hi rend="bold">Meirilutin</hi> (Karlot Hergeirsson, Jóhannis Joensen, Uni Holm Johannesen, Hervør Pálsdóttir, Liljan Weihe og Bárður á Lakjuni) tekur ikki undir við málinum og hevur hesar viðmerkingar:</s>
+            </p>
+            <p>
+              <s xml:id="djtgbest52">Tað politiska stríðið um stavraðið kom afturi í 2009, tá uppskot til samtyktar kom á Løgting um politiskt at áseta føroyska stavraðið.</s>
+              <s xml:id="kbb5xt7vuu">Viðgerðin av málinum tá endaði við, at man bleiv samdur um at gera eina lóg og seta eitt málráð.</s>
+            </p>
+            <p>
+              <seg>Lógin um Málráð varð samtykt við stórum meiriluta, 29 fyri og 1 ímóti, tann 2. mai 2012, og endamálsásetingin í lógini sigur, at Málráðið eigur:</seg>
+            </p>
+            <list>
+              <item>
+                <label>1)</label>
+                <seg>at røkja, menna og verja føroyska málið,</seg>
+              </item>
+              <item>
+                <label>2)</label>
+                <seg>at vegleiða, ráðgeva og gera niðurstøður í málspurningum,</seg>
+              </item>
+              <item>
+                <label>3)</label>
+                <seg>at áseta føroyska stavseting.</seg>
+              </item>
+            </list>
+            <p>
+              <s xml:id="k52dsk2iuq">Málráðið fór til verka við teirri raðfesting fyrst at áseta føroyska stavseting, t.e. lata úr hondum eina stavsetingarorðabók, sum leingi hevði verið bíðað eftir.</s>
+            </p>
+            <p>
+              <s xml:id="p5ixqgfqjw">Grundarlagið undir og fyritreytin fyri hesum var tó at áseta hitt føroyska stavraðið og tí mátti hetta fáast frá hondini sum tað fyrsta.</s>
+              <s xml:id="v6qwsaby4s">Meirilutin í Málráðnum kom við sínari niðurstøðu um stavraðið á heysti 2013, og harvið átti tað málið at enda.</s>
+            </p>
+            <pb n="2"/>
+            <p>
+              <s xml:id="faseque7nd">Tað er stórt spell, at tað ikki var samt Málráð, ið stóð aftanfyri niðurstøðuna í 2013.</s>
+              <s xml:id="tdtpttnr3c">Hinvegin var tað ein sannførandi meiriluti aftan fyri niðurstøðuna.</s>
+            </p>
+            <p>
+              <s xml:id="yb7ji3xvql">Løgtingið eigur tí, uttan mun til úrslitið, at virða niðurstøðurnar hjá meirilutanum í júst tí stovni, sum eitt nærum samt Løgting hevur samtykt skal gera slíkar niðurstøður.</s>
+              <s xml:id="mg3zmcmyh6">Longri átti hetta mál ikki at verið.</s>
+            </p>
+            <p>
+              <s xml:id="oscxl34fr5">Tá Málráðið kom við niðurstøðuni um stavrað fyri 12 árum síðan, kundi tað tykjast, sum sjógvarnir gingu eitt sindur høgt, bæði millum politikarar og millum málkøn fólk.</s>
+            </p>
+            <p>
+              <s xml:id="fjhaepbx62">Men hoyringarnar, sum Mentanarnevndin hevur havt í hesum umfari, hava víst, at tað ikki er soleiðis longur, um yvirhøvur.</s>
+            </p>
+            <p>
+              <s xml:id="n5owaxyvfc">Eiheldur tykist tað at hava elvt til stórar praktiskar trupulleikar í skúlum og á málsøkinum yvirhøvur, at almenna føroyska stavraðið er uttan stavirnar C, W, Q, Z og X.</s>
+            </p>
+            <p>
+              <s xml:id="pxznk53igb">Nógv teir flestu hoyringarpartarnir eru eisini samdir um og gera vart við, at eitt stavrað ikki eigur at verða ásett politiskt.</s>
+            </p>
+            <p>
+              <s xml:id="wb3xs52ro2">Við hesum viðmerkingum tekur meirilutin ikki undir við málinum og mælir Løgtinginum frá at samtykkja uppskotið.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <seg><hi rend="bold">Minnilutin</hi> (Magnus Rasmussen) hevur hesar viðmerkingar:</seg>
+            </p>
+            <p>
+              <s xml:id="iaojcoe4hg">Stavraðið er eitt reint praktiskt amboð, og stavraðið skal fyrst og fremst vísa raðfylgjuna av stavunum í málinum t.e., hvar vit finna ein ávísan bókstav í raðnum.</s>
+              <s xml:id="cm6sws37ja">Skal t.d. leitast í einum skjalasavni, so er neyðugt at kenna raðfylgjuna í tí latínska stavraðnum og tað eru nógv onnur dømi um hetta.</s>
+            </p>
+            <p>
+              <seg>Í løgtingsmáli nr. 16/2009 stendur at lesa í áliti frá samdari Mentanarnevnd, at:</seg>
+            </p>
+            <list rend="bulleted">
+              <item>
+                <seg>Føroyar eiga bara at hava eitt stavrað</seg>
+              </item>
+              <item>
+                <seg>Stavraðið skal vera autoriserað</seg>
+              </item>
+              <item>
+                <seg>Stavraðið skal hýsa stavunum C, W, Q, Z og X</seg>
+              </item>
+            </list>
+            <p>
+              <s xml:id="mtziqq2pz5">Hetta vísir væl, hvar politiska skipanin stóð í hesum máli um, hvørjir bókstavir skulu og eiga at vera í stavraðnum.</s>
+            </p>
+            <p>
+              <s xml:id="tcsrhfhvks">Ein breið semja var eisini millum okkara førandi málfrøðingar í 2013, at stavraðið er ein praktiskur listi av bókstavum skipaðir í eina ávísa raðfylgju – vit kunnu siga eitt pedagogiskt amboð at brúka í tí dagliga og ikki ein málfrøðiligur spurningur, sum bara málfrøðingar skulu taka støðu til.</s>
+            </p>
+            <p>
+              <s xml:id="noyhqaobmn">Søguliga er eisini staðfest, at hesir vrakaðu bókstavirnir eru at finna í okkara elstu skriftum, Seyðabrævið frá 1298 hevur nakrar og eisini í teimum seks Húsavíkarbrøvunum frá 1402-07 eru nakrir fyri at nevna tvey dømi.</s>
+            </p>
+            <p>
+              <s xml:id="y6h4sfkrxm">Vit kenna slagorðini: “Øll skulu kenna seg aftur í málinum” og “Øll eiga málið”.</s>
+            </p>
+            <pb n="3"/>
+            <p>
+              <s xml:id="cg6z2lhxmn">Avbjóðingin í Føroyum er, at vit finna ikki allar bókstavirnar, sum vit nýta í føroyska málinum, í føroyska stavraðnum.</s>
+              <s xml:id="k4l3farzuf">Tað er sjálvandi bæði løgið og ólogiskt.</s>
+            </p>
+            <p>
+              <s xml:id="ayf4heyssx">Úrslitið av stríðnum um stavraðið, sum var í 2013, endaði við, at stavraðið varð skorið við fimm stavum: c, q, z, w og x.</s>
+              <s xml:id="nnqcexyvl2">Hesa avgerð helt Føroya fólk ikki nógv um, og ein kanning tá vísti, at 70% av fólkinum ynskti hesar vrakaðu bókstavirnar inn aftur í stavraðið.</s>
+            </p>
+            <p>
+              <s xml:id="b3yix6luww">Føroyska málið tekur ikki skaða av, at vit hava c, q, z, w og x í stavraðnum, heldur tvørturímóti.</s>
+              <s xml:id="w7fniszjps">Vit brúka hesar vrakaðu bókstavir hvønn tann einasta dag.</s>
+              <s xml:id="nbrislum4t">Vit hava fólkanøvn við stavunum, og vit hava eftirnøvn við stavunum.</s>
+              <s xml:id="ahjpn5zjcd">Í Føroyum eru túsundtals føroyingar, sum antin hava fornavn ella eftirnavn stavað við vrakaðu bókstavunum.</s>
+              <s xml:id="bfjin4odm2">Tað er alt annað enn fevnandi at hava ein bókstav antin í fornavni og/ella í eftirnavni og ikki finna hann í stavraðnum.</s>
+              <s xml:id="o2yb6vf563">Vit nýta eisini stavirnar í støddfrøði, alisfrøði, evnafrøði og lívfrøði, vit nýta stavirnar í tónleiki, vit hava altjóða átak, sum á føroyskum er umsett “ABC fyri sálarheilsu”.</s>
+              <s xml:id="p6nvqlbm6w">Dømini eru mong, og her vórðu bert nøkur nevnd.</s>
+            </p>
+            <p>
+              <s xml:id="edc6bdp6nu">Vandi er heldur ikki fyri tí sonevndu glíðibreytini, um vit taka teir útihýstu bókstavirnar inn aftur í stavraðið.</s>
+              <s xml:id="u52cl5wjw7">Orsøkin er, at tað er ikki stavraðið, sum ásetir, hvussu orð skulu stavast.</s>
+              <s xml:id="uwaw5eio5l">Nei, tað ger Málráðið, sum m.a. hevur til uppgávu at áseta føroyska stavseting, sum vit síggja aftur í Stavsetingarorðabókini.</s>
+            </p>
+            <p>
+              <s xml:id="rmfctakki7">Tí er einki logiskt samband millum stavseting og stavrað.</s>
+            </p>
+            <p>
+              <s xml:id="tiii4d2p4e">Vit tosa heldur ikki um at broyta stavsetingina ella skriftmálið ella seta eitt annað skriftmál inn.</s>
+              <s xml:id="oac2e5bi7o">Sum nevnt omanfyri, so er tað í Stavsetingarorðabókini, at vit finna nær, vit skulu brúka c, q, w, z og x.</s>
+              <s xml:id="ffrhgzosbo">Meiningin er ikki, at vit skulu skriva t.d. Klaksvík við x, nei, tí í Stavsetingarorðabókini stendur Klaksvík við k og ikki við x.</s>
+            </p>
+            <p>
+              <s xml:id="zmfs7ii64i">Og tá tað snýr seg um nýggj orð, so er tað Málráðið umvegis Stavsetingarorðabókina sum sigur, hvussu hesi skulu stavast.</s>
+            </p>
+            <p>
+              <s xml:id="cbacycj6h4">So óttin fyri at stavsetingin fer av kós er tí ógrundaður, tí tað er ikki stavraðið sum ásetir stavsetingina, men Málráðið umvegis Stavsetingarorðabókina.</s>
+            </p>
+            <p>
+              <s xml:id="wkwjrbq7gd">Niðurstøðan er tí, at her eru nógvar góðar grundgevingar fyri at fáa c, q, w, z og x aftur í okkara stavrað og einki annað enn natúrligt, at so verður.</s>
+            </p>
+            <p>
+              <s xml:id="r5h5oqtray">Við hesum viðmerkingum tekur minnilutin undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
+            </p>
+          </div>
+          <pb n="4"/>
+          <ab>
+            <ab rend="bold">Mentanarnevndin, 11. november 2025</ab>
+            <signed>
+              <persName>Karlot Hergeirsson <lb/><roleName>formaður</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Jóhannis Joensen <lb/><roleName>næstformaður</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Uni Holm Johannesen</persName>
+            </signed>
+            <signed>
+              <persName>Hervør Pálsdóttir</persName>
+            </signed>
+            <signed>
+              <persName>Liljan Weihe</persName>
+            </signed>
+            <signed>
+              <persName>Magnus Rasmussen</persName>
+            </signed>
+            <signed>
+              <persName>Bárður á Lakjuni</persName>
+            </signed>
+          </ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>

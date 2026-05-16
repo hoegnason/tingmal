@@ -1,427 +1,643 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Uppskot til Løgtingslóg um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
-          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
-        </availability>
-        <date when="2026-05-16"/>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="parliamentary_document">
-          <publisher>Føroya Løgting</publisher>
-          <author>
-            <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá</persName>
-            <roleName>landsstýriskvinna</roleName>
-          </author>
-          <ref target="https://www.logting.fo/documents/69014"/>
-          <note type="source_format">PDF document, machine-readable text</note>
-          <date when="2025-12-02">02.12.2025</date>
-          <idno type="case-number">25/20844-33</idno>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <table rend="left align-right">
-        <row>
-          <cell rend="meta-cell">Dagfesting:</cell>
-          <cell rend="meta-cell">02.12.2025</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Mál nr.:</cell>
-          <cell rend="meta-cell">25/20844-33</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Ummælistíð:</cell>
-          <cell rend="meta-cell">NA</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Eftirkannað:</cell>
-          <cell rend="meta-cell">02. desember</cell>
-        </row>
-      </table>
-      <space dim="vertical"/>
-      <ab>
-        <ab rend="bold center">Uppskot til</ab>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Uppskot til Løgtingslóg um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá</persName>
+              <roleName>landsstýriskvinna</roleName>
+            </author>
+            <ref target="https://www.logting.fo/documents/69014"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2025-12-02">02.12.2025</date>
+            <idno type="case-number">25/20844-33</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <table rend="left align-right">
+          <row>
+            <cell rend="meta-cell">Dagfesting:</cell>
+            <cell rend="meta-cell">02.12.2025</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Mál nr.:</cell>
+            <cell rend="meta-cell">25/20844-33</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Ummælistíð:</cell>
+            <cell rend="meta-cell">NA</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Eftirkannað:</cell>
+            <cell rend="meta-cell">02. desember</cell>
+          </row>
+        </table>
         <space dim="vertical"/>
-        <ab rend="bold center">Løgtingslóg</ab>
-        <ab rend="bold center">um</ab>
-        <ab rend="bold center">at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</ab>
-      </ab>
-      <space dim="vertical"/>
-      <div type="chapter" n="0">
-        <div type="bill-section" n="§ 1.">
-          <div n="§ 1. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 1.</label>
-              <s xml:lang="fo" cert="high" xml:id="pffxdads3d">Landsstýrisfólkinum verður heimilað at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum og til gerðarrættarmál.</s>
+        <ab>
+          <ab rend="bold center">Uppskot til</ab>
+          <space dim="vertical"/>
+          <ab rend="bold center">Løgtingslóg</ab>
+          <ab rend="bold center">um</ab>
+          <ab rend="bold center">at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</ab>
+        </ab>
+        <space dim="vertical"/>
+        <div type="chapter" n="0">
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <s xml:lang="fo" cert="high" xml:id="pffxdads3d">Landsstýrisfólkinum verður heimilað at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum og til gerðarrættarmál.</s>
+              </p>
+            </div>
+            <div n="§ 1. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="i4hliprq7s">Útreiðslurnar sambært stk. 1 kunnu í mesta lagi verða 33,8 mió. kr. harav 1 mió. kr. til gerðarrættarmál.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="nak6hgbh64">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd og fer úr gildi 1. januar 2029.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div type="chapter" n="1">
+          <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+          <div type="section" n="0">
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nhalrbaivi">Nýggi bygningurin til Landssjúkrahúsið nevndur H-bygningurin er nærum liðugur.</s>
+              <s xml:lang="fo" cert="high" xml:id="q6f4yyd4az">Talan er um nýggjan meginbygning til psykiatri, medisinska seingjadeild, føðideild, barnadeild, høvuðskøk og endurvenjing.</s>
+              <s xml:lang="fo" cert="high" xml:id="lghyr52t55">H-bygningurin á Landssjúkrahúsinum er umleið 15.000 fermetrar og rúmini fleiri enn 500 í tali.</s>
+              <s xml:lang="fo" cert="high" xml:id="gy4vtwnpx3">Bygningurin er í høvuðsheitum liðugur, og umleið 60 prosent av H-bygninginum er tikin í nýtslu.</s>
+              <s xml:lang="fo" cert="high" xml:id="q2mnng6oer">Tað eru staðfestir lekar í H-bygninginum, og er tað ein av høvuðsorsøkunum til, at alt virksemið ikki er flutt inn.</s>
+              <s xml:lang="fo" cert="high" xml:id="w7o52lc44u">Vavið av lekum er stórt og eftir, at Landsverk hevur latið eina sýnsfrágreiðing gera, er greitt, at tað verður neyðugt at umvæla ella skifta vindeygu, skifta út hurðar umframt annað arbeiði fyri, at bygningurin gerst tættur, og verður egnaður til endamálið.</s>
+              <s xml:lang="fo" cert="high" xml:id="gdylkhl4m5">Harumframt er talan um nakrar avleiddar skaðar, ið eisini skulu umvælast.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uiiu7r2gxk">Tað hevur skund at fáa H-bygningin lidnan.</s>
+              <s xml:lang="fo" cert="high" xml:id="hwsvgcvewj">Tí verður nýggj verklagslóg gjørd at fáa heimild til at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum.</s>
+              <s xml:lang="fo" cert="high" xml:id="mwhhonzw2y">Samlaði kostnaðurin av ábótum, umvælingum og gerðarrættarmáli er mettur at vera tilsamans 33,8 mió. kr.</s>
             </p>
           </div>
-          <div n="§ 1. Stk. 2.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="i4hliprq7s">Útreiðslurnar sambært stk. 1 kunnu í mesta lagi verða 33,8 mió. kr. harav 1 mió. kr. til gerðarrættarmál.</s>
+          <div type="section">
+            <head rend="bold">Málslýsing</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qbzyaon36t">Óheft metingarfólk gjørdi sýn og meting av H-bygninginum í apríl 2025.</s>
+              <s xml:lang="fo" cert="high" xml:id="bcuqjj5ylw">Sýnsfrágreiðingin varð latin Landsverki í juni 2025.</s>
+              <s xml:lang="fo" cert="high" xml:id="s5ybb7ohpi">Orsøkin til trupulleikarnar við lekum er samansett og stavar sambært sýnsfrágreiðingini frá vantandi dygd í handverkinum, ónøktandi tilfarsvali, vantandi eftirliti og prosjekteringsfeilum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ccanwsr5gt">Tað vil siga, at tað snýr seg bæði um ábyrgd hjá stórarbeiðstakaranum fyri fasaduna og hjá høvuðsráðgevanum, serliga í sambandi við fakeftirlit.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v5qm77aqcb">Farið er undir at fremja nakrar ábøtur og er ætlanin annars, at arbeiðini verða gjørd so skjótt sum gjørligt.</s>
+              <s xml:lang="fo" cert="high" xml:id="hj7paey47q">Enn ber ikki til at siga, hvussu leingi tíðarskeiðið fer at vara, men tað verður helst stóran part av árinum 2026.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="p6bptiwx2k">Landsverk hevur við støði í sýnsfrágreiðingini sett seg í samband við partarnar í málinum fyri at frætta, hvørja støðu teir hava til sýn- og metingfrágreiðingina, og um partarnir hava í hyggju at umvæla og bøta aftur feilirnar og manglarnar, sum eru staðfestir í sýnsfrágreiðingini.</s>
+              <s xml:lang="fo" cert="high" xml:id="ixdzdslqfc">Eingin ábending er higartil komin um, at teir vilja umvæla og bøta aftur feilirnar og manglarnar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="awa5hio3xz">Við støði í sýnsfrágreiðingini og kanningum, sum Landsverk saman við Landssjúkrahúsinum hava sett í verk, hevur ráðgevi gjørt kanningar og er komin við dagførdari kostnaðarmeting av at bøta og umvæla lekarnar á klimaskerminum og umvæla fylgiskaðar.</s>
+              <s xml:lang="fo" cert="high" xml:id="r75ejzuwck">Sambært tíðarætlanini hjá ráðgevanum verður mett, at alt arbeiðið verður liðugt á heysti í 2026.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="y6rpaxchbw">Landsverk ætlar at leggja gerðarrættarmál ímóti stórarbeiðstakaranum og høvuðsráðgevanum, tí partarnir ikki hava tikið stig til at umvæla og bøta aftur feilirnar og manglarnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="cupwiruoxo">Í hesum sambandi eru arbeiðstøku- og ráðgevaratryggingarnar, ið eru teknaðar í verkætlanini, eisini viðkomandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="yanz2n776f">Endalig støða um ábyrgd og endurgjaldskrøv verður tikin í sambandi við gerðarrættarúrskurðin.</s>
+              <s xml:lang="fo" cert="high" xml:id="ke6waljb6x">Hetta er eisini galdandi fyri viðgerðina í mun til teknaðu tryggingarnar og tilgongdina annars við verkætlanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="flkum5gdu7">Nær ein væntandi gerðarrættarsak verður liðug, er torført at meta um, men tað kann helst gerast talan um ár, um tað ikki eydnast at gera semju.</s>
+            </p>
+          </div>
+          <div type="section" n="1.1.">
+            <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zmajmqy2bl">Uppskotið er gjørt fyri at kunna gera avtalur um neyðugar ábøtur og umvælingar, so restin av H-bygninginum á Landssjúkrahúsinum kann verða tikin í nýtslu.</s>
+              <s xml:lang="fo" cert="high" xml:id="q2ggrljom5">Harumframt játtan til gerðarrættarmál.</s>
+            </p>
+          </div>
+          <div type="section" n="1.2.">
+            <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="hlf6iom357">H-bygningurin er knýttur at fleiri galdandi og áður galdandi verklagslógum.</s>
+              <seg xml:lang="fo">Tær eru hesar:</seg>
+            </p>
+            <list rend="simple">
+              <item>Løgtingslóg nr. 129 frá 22. desember 2008 um at høvuðsumvæla, útbyggja og nútíðargera Landssjúkrahúsið, við seinni broytingum. (Fer úr gildi 1. januar 2027)</item>
+              <item>Løgtingslóg nr. 64 frá 5. mai 2021 um at binda H- og B-bygningarnar á Landssjúkrahúsinum saman og um at keypa neyðgenerator, tól og útgerð. (Fór úr gildi 31. desember 2024)</item>
+              <item>Løgtingslóg nr. 82 frá 16. mai 2022 um at innrætta víðkaða partin av kjallaranum í Hbygninginum á Landssjúkrahúsinum til parkering, goymslu og reingerð, umframt til goymslutorn og vegleiðing í H-bygninginum. (Fer úr gildi 1. januar 2027)</item>
+              <item>Løgtingslóg nr. 134 frá 8. desember 2023 um at byggja H-bygningin á Landssjúkrahúsinum lidnan. (Fer úr gildi 1. januar 2027)</item>
+            </list>
+          </div>
+          <div type="section" n="1.3.">
+            <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zwe6eiexha">Endamálið við lógaruppskotinum er at fáa heimild at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum, umframt játtan til gerðarrættarmál.</s>
+              <s xml:lang="fo" cert="high" xml:id="ev5epen2oo">Talan er um at fáa restina av bygninginum tiknan í nýtslu sum skjótast.</s>
+            </p>
+          </div>
+          <div type="section" n="1.4.">
+            <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fnec3dpqpb">Lógaruppskotið hevur við sær, at avtalur verður gjørdar um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum, soleiðis at bygningurin kann verða tikin í nýtslu.</s>
+            </p>
+          </div>
+          <div type="section" n="1.5.">
+            <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="x3r3lewo4t">Lógaruppskotið er gjørt í samstarvi við Landssjúkrahúsið, Landsverk og Fíggjarmálaráðið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="r5jvtzpa32">Lógaruppskotið er ikki lagt fram til almenna hoyring.</s>
             </p>
           </div>
         </div>
-        <div type="bill-section" n="§ 2.">
-          <div n="§ 2. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="nak6hgbh64">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd og fer úr gildi 1. januar 2029.</s>
+        <div type="chapter" n="2">
+          <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+          <div type="section" n="2.1.">
+            <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vewje3cogc">Eftir at lekar vóru staðfesetir í H-bygninginum varð ein kanning gjørd av óheftum sýnsmanni, ið metti, at kostnaðurin var 14,5 mió. kr. at umvæla manglarnar, tó so at eyka umfar av spurningum er ávegis í mun til sýnsfrágreiðingina.</s>
+              <s xml:lang="fo" cert="high" xml:id="zphamuiee6">Síðani er nýggj meting gjørd, og er kostnaðurin nú mettur at verða 32,8 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="j6esmqygge">Tá eru 2,5 mió. kr. íroknaðar, ið svara til tað arbeiðið, ið er og verður gjørt fyri at avmarka skaðar, ímeðan hetta mál er í viðgerð.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="w7efo4dzvo">Í uppskotinum til løgtingslóg fyri fíggjarárið 2026 (LM 15/2025) verður biðið um 15 mió. kr. til at umvæla klimaskerm v.m. í H-bygninginum og til gerðarrættarmál.</s>
+              <s xml:lang="fo" cert="high" xml:id="oem6m7zv22">Síðani er ein kostnaðarmeting gjørd fyri at gera ábøtur á og at skifta vindeygu í H-bygninginum, umframt at skifta úthurðar, sum vísir ein kostnað á 32,8 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="fnusmcaerk">Harumframt verður roknað við 1 mió. kr. í sambandi við gerðarrættarmál.</s>
+              <s xml:lang="fo" cert="high" xml:id="dqv535zm7i">Tí er í broytingaruppskoti til fíggjarlógina fyri 2026 biðið um 18,8 mió. kr. afturat teimum 15 mió. kr., sum vóru í tí upprunaliga fíggjarlógaruppskotinum fyri 2026.</s>
+              <s xml:lang="fo" cert="high" xml:id="fqbqe5ybtt">Tilsamans 33,8 mió. kr.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Fíggjarligu avleiðingarnar eru:</seg>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high" xml:id="mxyctnctyk">Tølini eru í tús. kr.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="g6llwombu3">Ætlanin er, at útreiðslur til allar ábøtur og umvælingar verða hildnar í 2026.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qrks6rdebz">Tað eru aðrar verklagslógir, ið fevna um verkætlanir knýttar at H-bygninginum á Landssjúkrahúsinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="dzkamo5hmp">Við hesum lógaruppskoti verður biðið um at fáa heimild at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum, so allur bygningurin kann verða tikin í nýtslu.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="h7ffw7vxqo">Niðanfyri er fíggjarprofilur fyri allar verkætlanirnar, undantikið kostnaðurin til gerðarrættarmálið.</s>
             </p>
           </div>
+          <div type="section" n="2.2.">
+            <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v5r4jvzan3">Lógaruppskotið hevur ikki umsitingarligar avleiðingar fyri land og kommunur.</s>
+            </p>
+          </div>
+          <div type="section" n="2.3.">
+            <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yncjsbwfjz">Lógaruppskotið hevur ongar avleiðingar við sær fyri vinnuna.</s>
+            </p>
+          </div>
+          <div type="section" n="2.4.">
+            <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="dew3ijimmf">Lógaruppskotið hevur ongar avleiðingar við sær fyri umhvørvið.</s>
+            </p>
+          </div>
+          <div type="section" n="2.5.">
+            <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="k25t4lhc3l">Lógaruppskotið hevur ikki avleiðingar fyri serstøk øki í landinum.</s>
+            </p>
+          </div>
+          <div type="section" n="2.6.">
+            <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zv6kqhipjc">Lógaruppskotið hevur ikki avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+            </p>
+          </div>
+          <div type="section" n="2.7.">
+            <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vqey5spxy7">Eingir millumtjóðasáttmálar eru á økinum.</s>
+            </p>
+          </div>
+          <div type="section" n="2.8.">
+            <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uhgphem6ak">Lógaruppskotið hevur ongar avleiðingar fyri tvørgangandi sáttmálar.</s>
+            </p>
+            <div type="subsection">
+              <head rend="bold"><label>1)</label> Hoyvíkssáttmálin</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="ahiwsdzkw7">Tað er einki í lógaruppskotinum, sum ikki sampakkar við Løgtingslóg nr. 66 frá 18. mai 2006 um at seta í gildi Hoyvíkssáttmálan, Sáttmáli millum stjórn Íslands, øðrumegin, og stjórn Danmarkar og Føroya landsstýri, hinumegin.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold"><label>2)</label> Evropeiski mannarættindasáttmálin, EMRS</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="gwt2d7xa6s">Tað er einki í lógaruppskotinum, sum ikki sampakkar við Anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneske-rettighedskonvention.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold"><label>3)</label> Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="nbae6c5nj4">Tað er einki í lógaruppskotinum, sum ikki sampakkar við sáttmálan um rættindi hjá einstaklingum, ið bera brek.</s>
+              </p>
+            </div>
+          </div>
+          <div type="section" n="2.9.">
+            <head rend="bold"><label>2.9.</label> Markaforðingar og flytføri</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fnnwjmx2gy">Eingin markaforðing er á økinum.</s>
+            </p>
+          </div>
+          <div type="section" n="2.10.">
+            <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, tvingsilssektir, pantiheimildir ella onnur størri inntriv</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qx2zwwuat3">Uppskotið hevur ikki ásetingar um revsing, fyrisitingarligar sektir ella pantiheimildir, ella ger onnur størri inntriv í rættindi hjá fólki.</s>
+            </p>
+          </div>
+          <div type="section" n="2.11.">
+            <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lqxvvldju4">Uppskotið hevur ikki ásetingar um skattir og avgjøld.</s>
+            </p>
+          </div>
+          <div type="section" n="2.12.">
+            <head rend="bold"><label>2.12.</label> Gjøld</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qrjydz3wbw">Uppskotið hevur ikki ásetingar um gjøld.</s>
+            </p>
+          </div>
+          <div type="section" n="2.13.">
+            <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rwqhwagg6t">Uppskotið áleggur ikki likamligum ella løgfrøðiligum persónum skyldur.</s>
+            </p>
+          </div>
+          <div type="section" n="2.14.">
+            <head rend="bold"><label>2.14.</label> Leggur uppskotið heimildir til landsstýrisfólkið, ein stovn undir landsstýrinum ella til kommunur?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sxlc7fvryb">Uppskotið gevur landsstýriskvinnuni heimild til at gera avtalur fyri í alt 33,8 mió. kr. fyri at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="utbgf2ylcl">Uppskotið leggur ikki heimildir til ein stovn undir landsstýrinum ella til kommunur.</s>
+            </p>
+          </div>
+          <div type="section" n="2.15.">
+            <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fcgrh3snw4">Uppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
+            </p>
+          </div>
+          <div type="section" n="2.16.">
+            <head rend="bold"><label>2.16.</label> Heimilar uppskotið viðgerð av persónsupplýsingum?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="pvtd5crnbo">Uppskotið gevur ikki heimild til at viðgera persónupplýsingar.</s>
+            </p>
+          </div>
+          <div type="section" n="2.17.">
+            <head rend="bold"><label>2.17.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="etdascpjd4">Uppskotið hevur ikki aðrar avleiðingar enn tær, sum eru nevndar omanfyri.</s>
+            </p>
+          </div>
+          <div type="section" n="2.18.">
+            <head rend="bold"><label>2.18.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+            <table>
+              <row role="label">
+                <cell/>
+                <cell>Fyri landið ella landsmyndugleikar</cell>
+                <cell>Fyri kommunalar myndugleikar</cell>
+                <cell>Fyri pláss ella øki í landinum</cell>
+                <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+                <cell>Fyri vinnuna</cell>
+              </row>
+              <row>
+                <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Umsitingarligar avleiðingar</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Umhvørvisligar avleiðingar</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Sosialar avleiðingar</cell>
+                <cell/>
+                <cell/>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell/>
+              </row>
+            </table>
+          </div>
         </div>
-      </div>
-      <div type="chapter" n="1">
-        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
-        <div type="section" n="0">
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="nhalrbaivi">Nýggi bygningurin til Landssjúkrahúsið nevndur H-bygningurin er nærum liðugur.</s>
-            <s xml:lang="fo" cert="high" xml:id="q6f4yyd4az">Talan er um nýggjan meginbygning til psykiatri, medisinska seingjadeild, føðideild, barnadeild, høvuðskøk og endurvenjing.</s>
-            <s xml:lang="fo" cert="high" xml:id="lghyr52t55">H-bygningurin á Landssjúkrahúsinum er umleið 15.000 fermetrar og rúmini fleiri enn 500 í tali.</s>
-            <s xml:lang="fo" cert="high" xml:id="gy4vtwnpx3">Bygningurin er í høvuðsheitum liðugur, og umleið 60 prosent av H-bygninginum er tikin í nýtslu.</s>
-            <s xml:lang="fo" cert="high" xml:id="q2mnng6oer">Tað eru staðfestir lekar í H-bygninginum, og er tað ein av høvuðsorsøkunum til, at alt virksemið ikki er flutt inn.</s>
-            <s xml:lang="fo" cert="high" xml:id="w7o52lc44u">Vavið av lekum er stórt og eftir, at Landsverk hevur latið eina sýnsfrágreiðing gera, er greitt, at tað verður neyðugt at umvæla ella skifta vindeygu, skifta út hurðar umframt annað arbeiði fyri, at bygningurin gerst tættur, og verður egnaður til endamálið.</s>
-            <s xml:lang="fo" cert="high" xml:id="gdylkhl4m5">Harumframt er talan um nakrar avleiddar skaðar, ið eisini skulu umvælast.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="uiiu7r2gxk">Tað hevur skund at fáa H-bygningin lidnan.</s>
-            <s xml:lang="fo" cert="high" xml:id="hwsvgcvewj">Tí verður nýggj verklagslóg gjørd at fáa heimild til at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum.</s>
-            <s xml:lang="fo" cert="high" xml:id="mwhhonzw2y">Samlaði kostnaðurin av ábótum, umvælingum og gerðarrættarmáli er mettur at vera tilsamans 33,8 mió. kr.</s>
-          </p>
+        <div type="chapter" n="3">
+          <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+          <div type="section" n="3.1.">
+            <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
+            <div type="subsection">
+              <head rend="bold">Til § 1</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="f4i3hdl5pq">Í lógargreinini verður heimilað landsstýriskvinnuni at gera avtalur um at gera ábøtur og umvælingar á H-bygningin á Landssjúkrahúsinum fyri í mesta lagi 33,8 mió. kr.</s>
+                <s xml:lang="fo" cert="high" xml:id="l4ffrf5jsu">Harav er 1 mió. kr. til gerðarrættarmál í sambandi við H-bygningin.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold">Til § 2</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="qoz5b7hz2t">Gildiskomuáseting.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="cnhujcgetw">Mælt er til, at verklagslógir galda 2 ár eftir mettu byggitíðina.</s>
+                <s xml:lang="fo" cert="high" xml:id="rpqsxlp5y2">Henda verkætlan er mett at verða liðug í 2026, og verður gildistíðin fyri verklagslógina tí ásett til 1. januar 2029.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <space dim="vertical"/>
+        <div type="signature">
+          <dateline><orgName>Almanna- og heilsumálaráðið</orgName>, <date when="2025-12-02">2. desember 2025</date></dateline>
+          <space dim="vertical"/>
+          <signed rend="center">
+            <persName>
+              <hi rend="bold">Margit Stórá</hi>
+              <lb/>
+              <roleName>landsstýriskvinna</roleName>
+            </persName>
+          </signed>
+          <signed rend="right"> / <persName>Bjørgfríð Ludvig</persName></signed>
         </div>
         <div type="section">
-          <head rend="bold">Málslýsing</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qbzyaon36t">Óheft metingarfólk gjørdi sýn og meting av H-bygninginum í apríl 2025.</s>
-            <s xml:lang="fo" cert="high" xml:id="bcuqjj5ylw">Sýnsfrágreiðingin varð latin Landsverki í juni 2025.</s>
-            <s xml:lang="fo" cert="high" xml:id="s5ybb7ohpi">Orsøkin til trupulleikarnar við lekum er samansett og stavar sambært sýnsfrágreiðingini frá vantandi dygd í handverkinum, ónøktandi tilfarsvali, vantandi eftirliti og prosjekteringsfeilum.</s>
-            <s xml:lang="fo" cert="high" xml:id="ccanwsr5gt">Tað vil siga, at tað snýr seg bæði um ábyrgd hjá stórarbeiðstakaranum fyri fasaduna og hjá høvuðsráðgevanum, serliga í sambandi við fakeftirlit.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="v5qm77aqcb">Farið er undir at fremja nakrar ábøtur og er ætlanin annars, at arbeiðini verða gjørd so skjótt sum gjørligt.</s>
-            <s xml:lang="fo" cert="high" xml:id="hj7paey47q">Enn ber ikki til at siga, hvussu leingi tíðarskeiðið fer at vara, men tað verður helst stóran part av árinum 2026.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="p6bptiwx2k">Landsverk hevur við støði í sýnsfrágreiðingini sett seg í samband við partarnar í málinum fyri at frætta, hvørja støðu teir hava til sýn- og metingfrágreiðingina, og um partarnir hava í hyggju at umvæla og bøta aftur feilirnar og manglarnar, sum eru staðfestir í sýnsfrágreiðingini.</s>
-            <s xml:lang="fo" cert="high" xml:id="ixdzdslqfc">Eingin ábending er higartil komin um, at teir vilja umvæla og bøta aftur feilirnar og manglarnar.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="awa5hio3xz">Við støði í sýnsfrágreiðingini og kanningum, sum Landsverk saman við Landssjúkrahúsinum hava sett í verk, hevur ráðgevi gjørt kanningar og er komin við dagførdari kostnaðarmeting av at bøta og umvæla lekarnar á klimaskerminum og umvæla fylgiskaðar.</s>
-            <s xml:lang="fo" cert="high" xml:id="r75ejzuwck">Sambært tíðarætlanini hjá ráðgevanum verður mett, at alt arbeiðið verður liðugt á heysti í 2026.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="y6rpaxchbw">Landsverk ætlar at leggja gerðarrættarmál ímóti stórarbeiðstakaranum og høvuðsráðgevanum, tí partarnir ikki hava tikið stig til at umvæla og bøta aftur feilirnar og manglarnar.</s>
-            <s xml:lang="fo" cert="high" xml:id="cupwiruoxo">Í hesum sambandi eru arbeiðstøku- og ráðgevaratryggingarnar, ið eru teknaðar í verkætlanini, eisini viðkomandi.</s>
-            <s xml:lang="fo" cert="high" xml:id="yanz2n776f">Endalig støða um ábyrgd og endurgjaldskrøv verður tikin í sambandi við gerðarrættarúrskurðin.</s>
-            <s xml:lang="fo" cert="high" xml:id="ke6waljb6x">Hetta er eisini galdandi fyri viðgerðina í mun til teknaðu tryggingarnar og tilgongdina annars við verkætlanini.</s>
-            <s xml:lang="fo" cert="high" xml:id="flkum5gdu7">Nær ein væntandi gerðarrættarsak verður liðug, er torført at meta um, men tað kann helst gerast talan um ár, um tað ikki eydnast at gera semju.</s>
-          </p>
-        </div>
-        <div type="section" n="1.1.">
-          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="zmajmqy2bl">Uppskotið er gjørt fyri at kunna gera avtalur um neyðugar ábøtur og umvælingar, so restin av H-bygninginum á Landssjúkrahúsinum kann verða tikin í nýtslu.</s>
-            <s xml:lang="fo" cert="high" xml:id="q2ggrljom5">Harumframt játtan til gerðarrættarmál.</s>
-          </p>
-        </div>
-        <div type="section" n="1.2.">
-          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="hlf6iom357">H-bygningurin er knýttur at fleiri galdandi og áður galdandi verklagslógum.</s>
-            <seg xml:lang="fo">Tær eru hesar:</seg>
-          </p>
-          <list rend="simple">
-            <item>Løgtingslóg nr. 129 frá 22. desember 2008 um at høvuðsumvæla, útbyggja og nútíðargera Landssjúkrahúsið, við seinni broytingum. (Fer úr gildi 1. januar 2027)</item>
-            <item>Løgtingslóg nr. 64 frá 5. mai 2021 um at binda H- og B-bygningarnar á Landssjúkrahúsinum saman og um at keypa neyðgenerator, tól og útgerð. (Fór úr gildi 31. desember 2024)</item>
-            <item>Løgtingslóg nr. 82 frá 16. mai 2022 um at innrætta víðkaða partin av kjallaranum í Hbygninginum á Landssjúkrahúsinum til parkering, goymslu og reingerð, umframt til goymslutorn og vegleiðing í H-bygninginum. (Fer úr gildi 1. januar 2027)</item>
-            <item>Løgtingslóg nr. 134 frá 8. desember 2023 um at byggja H-bygningin á Landssjúkrahúsinum lidnan. (Fer úr gildi 1. januar 2027)</item>
+          <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
+          <list rend="simple list-of-appendices">
+            <item><label>Fylgiskjal 1:</label> Kostnaðarmeting</item>
           </list>
         </div>
-        <div type="section" n="1.3.">
-          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Álit</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Fíggjarnevndin</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/70227"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2026-02-19">19.02.2026</date>
+            <idno type="case-number">25/20844-33</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <div>
+          <head rend="bold center">Álit <lb/>í <lb/>løgtingsmáli nr. 57/2025: Uppskot til løgtingslóg um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="zwe6eiexha">Endamálið við lógaruppskotinum er at fáa heimild at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum, umframt játtan til gerðarrættarmál.</s>
-            <s xml:lang="fo" cert="high" xml:id="ev5epen2oo">Talan er um at fáa restina av bygninginum tiknan í nýtslu sum skjótast.</s>
-          </p>
-        </div>
-        <div type="section" n="1.4.">
-          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fnec3dpqpb">Lógaruppskotið hevur við sær, at avtalur verður gjørdar um at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum, soleiðis at bygningurin kann verða tikin í nýtslu.</s>
-          </p>
-        </div>
-        <div type="section" n="1.5.">
-          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="x3r3lewo4t">Lógaruppskotið er gjørt í samstarvi við Landssjúkrahúsið, Landsverk og Fíggjarmálaráðið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="r5jvtzpa32">Lógaruppskotið er ikki lagt fram til almenna hoyring.</s>
-          </p>
-        </div>
-      </div>
-      <div type="chapter" n="2">
-        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
-        <div type="section" n="2.1.">
-          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="vewje3cogc">Eftir at lekar vóru staðfesetir í H-bygninginum varð ein kanning gjørd av óheftum sýnsmanni, ið metti, at kostnaðurin var 14,5 mió. kr. at umvæla manglarnar, tó so at eyka umfar av spurningum er ávegis í mun til sýnsfrágreiðingina.</s>
-            <s xml:lang="fo" cert="high" xml:id="zphamuiee6">Síðani er nýggj meting gjørd, og er kostnaðurin nú mettur at verða 32,8 mió. kr.</s>
-            <s xml:lang="fo" cert="high" xml:id="j6esmqygge">Tá eru 2,5 mió. kr. íroknaðar, ið svara til tað arbeiðið, ið er og verður gjørt fyri at avmarka skaðar, ímeðan hetta mál er í viðgerð.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="w7efo4dzvo">Í uppskotinum til løgtingslóg fyri fíggjarárið 2026 (LM 15/2025) verður biðið um 15 mió. kr. til at umvæla klimaskerm v.m. í H-bygninginum og til gerðarrættarmál.</s>
-            <s xml:lang="fo" cert="high" xml:id="oem6m7zv22">Síðani er ein kostnaðarmeting gjørd fyri at gera ábøtur á og at skifta vindeygu í H-bygninginum, umframt at skifta úthurðar, sum vísir ein kostnað á 32,8 mió. kr.</s>
-            <s xml:lang="fo" cert="high" xml:id="fnusmcaerk">Harumframt verður roknað við 1 mió. kr. í sambandi við gerðarrættarmál.</s>
-            <s xml:lang="fo" cert="high" xml:id="dqv535zm7i">Tí er í broytingaruppskoti til fíggjarlógina fyri 2026 biðið um 18,8 mió. kr. afturat teimum 15 mió. kr., sum vóru í tí upprunaliga fíggjarlógaruppskotinum fyri 2026.</s>
-            <s xml:lang="fo" cert="high" xml:id="fqbqe5ybtt">Tilsamans 33,8 mió. kr.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Fíggjarligu avleiðingarnar eru:</seg>
-          </p>
-          <p rend="italic">
-            <s xml:lang="fo" cert="high" xml:id="mxyctnctyk">Tølini eru í tús. kr.</s>
+            <s xml:id="tfnlkwi54p">Landsstýriskvinnan í almanna- og heilsumálum, Margit Stórá, hevur lagt málið fram 2. desember 2025, og eftir 1. viðgerð 4. desember 2025 er tað beint Fíggjarnevndini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="g6llwombu3">Ætlanin er, at útreiðslur til allar ábøtur og umvælingar verða hildnar í 2026.</s>
+            <s xml:id="rqe53ker26">Nevndin hevur viðgjørt málið á fundi 5. og 11. desember 2025, 6. og 9. januar og 9. februar 2026.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="qrks6rdebz">Tað eru aðrar verklagslógir, ið fevna um verkætlanir knýttar at H-bygninginum á Landssjúkrahúsinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="dzkamo5hmp">Við hesum lógaruppskoti verður biðið um at fáa heimild at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum, so allur bygningurin kann verða tikin í nýtslu.</s>
+            <s xml:id="o6adcnac75">Undir viðgerðini hevur nevndin havt fund við landsstýriskvinnuna í almanna- og heilsumálum, Margit Stórá, saman við Landssjúkrahúsinum og Landsverki.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="h7ffw7vxqo">Niðanfyri er fíggjarprofilur fyri allar verkætlanirnar, undantikið kostnaðurin til gerðarrættarmálið.</s>
+            <seg>Ein samd nevnd hevur hesar viðmerkingar:</seg>
           </p>
-        </div>
-        <div type="section" n="2.2.">
-          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="v5r4jvzan3">Lógaruppskotið hevur ikki umsitingarligar avleiðingar fyri land og kommunur.</s>
+            <s xml:id="sumnhqlmam">Nýggi bygningurin til Landssjúkrahúsið nevndur H-bygningurin er nærum liðugur.</s>
+            <s xml:id="xpzu5efpcd">Talan er um nýggjan meginbygning til psykiatri, medisinska seingjadeild, føðideild, barnadeild, høvuðskøk og endurvenjing.</s>
+            <s xml:id="efbgfoemqv">H-bygningurin á Landssjúkrahúsinum er umleið 15.000 fermetrar og rúmini fleiri enn 500 í tali.</s>
+            <s xml:id="himwt7i4ci">Bygningurin er í høvuðsheitum liðugur, og umleið 60 prosent av H-bygninginum er tikin í nýtslu.</s>
+            <s xml:id="b67uo2qm73">Tað eru staðfestir lekar í H-bygninginum, og er tað ein av høvuðsorsøkunum til, at alt virksemið ikki er flutt inn.</s>
+            <s xml:id="w6u4xdfa2k">Vavið av lekum er stórt og eftir, at Landsverk hevur latið eina sýnsfrágreiðing gera, er greitt, at tað verður neyðugt at umvæla ella skifta vindeygu, skifta út hurðar umframt annað arbeiði fyri, at bygningurin gerst tættur og verður egnaður til endamálið.</s>
+            <s xml:id="jkporllnza">Harumframt er talan um nakrar avleiddar skaðar, ið eisini skulu umvælast.</s>
           </p>
-        </div>
-        <div type="section" n="2.3.">
-          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="yncjsbwfjz">Lógaruppskotið hevur ongar avleiðingar við sær fyri vinnuna.</s>
+            <s xml:id="qdrlyiody3">Eftir at lekar vóru staðfestir í H-bygninginum, gjørdi óheft metingarfólk sýn og meting av Hbygninginum í apríl 2025.</s>
+            <s xml:id="g4u2ysbhkz">Sýnsfrágreiðingin varð latin Landsverki í juni 2025.</s>
+            <s xml:id="kmlbagganh">Óhefti sýnsmaðurin metti, at kostnaðurin var 14,5 mió. kr. at umvæla manglarnar, tó so at eyka umfar av spurningum er ávegis í mun til sýnsfrágreiðingina.</s>
+            <s xml:id="vkw24zojt2">Orsøkin til trupulleikarnar við lekum er samansett og stavar sambært sýnsfrágreiðingini frá vantandi dygd í handverkinum, ónøktandi tilfarsvali, vantandi eftirliti og prosjekteringsfeilum.</s>
+            <s xml:id="suj6u6teee">Tað vil siga, at tað snýr seg bæði um ábyrgd hjá stórarbeiðstakaranum fyri fasaduna og hjá høvuðsráðgevanum, serliga í sambandi við fakeftirlit.</s>
           </p>
-        </div>
-        <div type="section" n="2.4.">
-          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="dew3ijimmf">Lógaruppskotið hevur ongar avleiðingar við sær fyri umhvørvið.</s>
+            <s xml:id="ld7wynamhn">Landsverk hevur við støði í sýnsfrágreiðingini sett seg í samband við partarnar í málinum fyri at frætta, hvørja støðu teir hava til sýn- og metingfrágreiðingina, og um partarnir hava í hyggju at umvæla og bøta aftur feilirnar og manglarnar, sum eru staðfestir í sýnsfrágreiðingini.</s>
+            <s xml:id="zqlxfrx3vf">Eingin ábending er higartil komin um, at teir vilja umvæla og bøta aftur feilirnar og manglarnar.</s>
           </p>
-        </div>
-        <div type="section" n="2.5.">
-          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="k25t4lhc3l">Lógaruppskotið hevur ikki avleiðingar fyri serstøk øki í landinum.</s>
+            <s xml:id="iqmfjxemt6">Landsverk ætlar at leggja gerðarrættarmál ímóti stórarbeiðstakaranum og høvuðsráðgevanum, tí partarnir ikki hava tikið stig til at umvæla og bøta aftur feilirnar og manglarnar.</s>
+            <s xml:id="zk2mk2l4ly">Í hesum sambandi <pb n="2"/>eru arbeiðstøku- og ráðgevaratryggingarnar, ið eru teknaðar í verkætlanini, eisini viðkomandi.</s>
+            <s xml:id="c2gtj6mm7h">Endalig støða um ábyrgd og endurgjaldskrøv verður tikin í sambandi við gerðarrættarúrskurðin.</s>
+            <s xml:id="dxwx4srthb">Hetta er eisini galdandi fyri viðgerðina í mun til teknaðu tryggingarnar og tilgongdina annars við verkætlanini.</s>
+            <s xml:id="fauykfasbn">Nær ein væntandi gerðarrættarsak verður liðug, er torført at meta um, men tað kann helst gerast talan um ár, um tað ikki eydnast at gera semju.</s>
           </p>
-        </div>
-        <div type="section" n="2.6.">
-          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="zv6kqhipjc">Lógaruppskotið hevur ikki avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+            <s xml:id="pieh6co4du">Við støði í sýnsfrágreiðingini og kanningum, sum Landsverk saman við Landssjúkrahúsinum hevur sett í verk, hevur ráðgevi gjørt kanningar og er komin við dagførdari kostnaðarmeting av at bøta og umvæla lekarnar á klimaskerminum og umvæla fylgiskaðar.</s>
+            <s xml:id="suknkxoahe">Samlaði kostnaðurin av ábótum og umvælingum er nú mettur at verða 32,8 mió. kr.</s>
+            <s xml:id="xpbh74thes">Tá eru 2,5 mió. kr. íroknaðar, ið svara til tað arbeiðið, ið er og verður gjørt fyri at avmarka skaðar, ímeðan hetta mál er í viðgerð.</s>
+            <s xml:id="w7h2ccz3lo">Sambært tíðarætlanini hjá ráðgevanum verður mett, at alt arbeiðið verður liðugt á heysti í 2026.</s>
           </p>
-        </div>
-        <div type="section" n="2.7.">
-          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="vqey5spxy7">Eingir millumtjóðasáttmálar eru á økinum.</s>
+            <s xml:id="duark4kwv3">Tað hevur skund at fáa H-bygningin lidnan.</s>
+            <s xml:id="jryyf7p27u">Tí er henda nýggja verklagslógin gjørd at fáa heimild til at gera avtalur um at gera ábøtur og umvælingar í H-bygninginum fyri 32,8 mió. kr. umframt 1 mió. kr. til gerðarrættarmál og sakarmálskostnað.</s>
           </p>
-        </div>
-        <div type="section" n="2.8.">
-          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="uhgphem6ak">Lógaruppskotið hevur ongar avleiðingar fyri tvørgangandi sáttmálar.</s>
+            <s xml:id="m25hvp66wv">Farið er undir at fremja nakrar ábøtur og er ætlanin annars, at arbeiðini verða gjørd so skjótt sum gjørligt.</s>
+            <s xml:id="wd7w4y42p7">Enn ber ikki til at siga, hvussu leingi tíðarskeiðið fer at vara, men tað verður helst stóran part av árinum 2026.</s>
           </p>
-          <div type="subsection">
-            <head rend="bold"><label>1)</label> Hoyvíkssáttmálin</head>
+          <p>
+            <s xml:id="bafny6weju">Undir hoyringini er komið fram, at neyðugt er at handla beinanvegin fyri at fáa bygningin tættan og fyribyrgja, at skaðin verður enn størri.</s>
+          </p>
+          <p>
+            <s xml:id="cbgzxcm6gc">Til spurningin, um tað er nøkur trygd fyri, at hetta ikki hendir aftur, er upplýst fyri nevndini, at Landsverk ikki hevur boðið arbeiðið út, men fer at gera sáttmála við eina fyritøku, ið hevur fólk, sum gjøgnum áratíggju hava uppbygt royndir at arbeiða við vindeygum av hesum slag, aluminium.</s>
+          </p>
+          <p>
+            <s xml:id="bf2dkcdeyz">Ráðgevin, ið er valdur at projektera og hava eftirlit, verður at fremja eftirlit fulla tíð.</s>
+            <s xml:id="cxao6uenwe">Ein orsøk til, at valt er ikki at gera útboðstilfar, er, umframt at spara tíð, at arbeiðið, ið er gjørt, í fleiri førum ikki er framt sambært projekteraðu loysnunum.</s>
+            <s xml:id="hfmsigrbqd">Tí verður mett, at arbeiðið kann fremjast skjótari, og meira fæst fyri peningin á henda hátt.</s>
+          </p>
+          <p>
+            <s xml:id="nxdjwu2xpv">Eitt nú er arbeiðið við vindeygunum ikki framt eftir forskriftunum og krøvini til vindeyguni, um t.d. hvussu nógvan vind tey skulu tola, eru ikki yvirhildin.</s>
+          </p>
+          <p>
+            <s xml:id="eo5rjnete2">Undir viðgerðini hevur landsstýriskvinnan kunnað nevndina um møguliga áhugaósemju í sambandi við ráðgeving í sambandi við arbeiðið at tetta lekar.</s>
+            <s xml:id="gyk6mmfadn">Hetta var nýggj vitan, ið ikki var viðgjørd.</s>
+          </p>
+          <quote rend="italic">
             <p>
-              <s xml:lang="fo" cert="high" xml:id="ahiwsdzkw7">Tað er einki í lógaruppskotinum, sum ikki sampakkar við Løgtingslóg nr. 66 frá 18. mai 2006 um at seta í gildi Hoyvíkssáttmálan, Sáttmáli millum stjórn Íslands, øðrumegin, og stjórn Danmarkar og Føroya landsstýri, hinumegin.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold"><label>2)</label> Evropeiski mannarættindasáttmálin, EMRS</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="gwt2d7xa6s">Tað er einki í lógaruppskotinum, sum ikki sampakkar við Anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneske-rettighedskonvention.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold"><label>3)</label> Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="nbae6c5nj4">Tað er einki í lógaruppskotinum, sum ikki sampakkar við sáttmálan um rættindi hjá einstaklingum, ið bera brek.</s>
-            </p>
-          </div>
-        </div>
-        <div type="section" n="2.9.">
-          <head rend="bold"><label>2.9.</label> Markaforðingar og flytføri</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fnnwjmx2gy">Eingin markaforðing er á økinum.</s>
-          </p>
-        </div>
-        <div type="section" n="2.10.">
-          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, tvingsilssektir, pantiheimildir ella onnur størri inntriv</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qx2zwwuat3">Uppskotið hevur ikki ásetingar um revsing, fyrisitingarligar sektir ella pantiheimildir, ella ger onnur størri inntriv í rættindi hjá fólki.</s>
-          </p>
-        </div>
-        <div type="section" n="2.11.">
-          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="lqxvvldju4">Uppskotið hevur ikki ásetingar um skattir og avgjøld.</s>
-          </p>
-        </div>
-        <div type="section" n="2.12.">
-          <head rend="bold"><label>2.12.</label> Gjøld</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qrjydz3wbw">Uppskotið hevur ikki ásetingar um gjøld.</s>
-          </p>
-        </div>
-        <div type="section" n="2.13.">
-          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="rwqhwagg6t">Uppskotið áleggur ikki likamligum ella løgfrøðiligum persónum skyldur.</s>
-          </p>
-        </div>
-        <div type="section" n="2.14.">
-          <head rend="bold"><label>2.14.</label> Leggur uppskotið heimildir til landsstýrisfólkið, ein stovn undir landsstýrinum ella til kommunur?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="sxlc7fvryb">Uppskotið gevur landsstýriskvinnuni heimild til at gera avtalur fyri í alt 33,8 mió. kr. fyri at gera ábøtur og umvælingar í H-bygninginum á Landssjúkrahúsinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="utbgf2ylcl">Uppskotið leggur ikki heimildir til ein stovn undir landsstýrinum ella til kommunur.</s>
-          </p>
-        </div>
-        <div type="section" n="2.15.">
-          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fcgrh3snw4">Uppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
-          </p>
-        </div>
-        <div type="section" n="2.16.">
-          <head rend="bold"><label>2.16.</label> Heimilar uppskotið viðgerð av persónsupplýsingum?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="pvtd5crnbo">Uppskotið gevur ikki heimild til at viðgera persónupplýsingar.</s>
-          </p>
-        </div>
-        <div type="section" n="2.17.">
-          <head rend="bold"><label>2.17.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="etdascpjd4">Uppskotið hevur ikki aðrar avleiðingar enn tær, sum eru nevndar omanfyri.</s>
-          </p>
-        </div>
-        <div type="section" n="2.18.">
-          <head rend="bold"><label>2.18.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
-          <table>
-            <row role="label">
-              <cell/>
-              <cell>Fyri landið ella landsmyndugleikar</cell>
-              <cell>Fyri kommunalar myndugleikar</cell>
-              <cell>Fyri pláss ella øki í landinum</cell>
-              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
-              <cell>Fyri vinnuna</cell>
-            </row>
-            <row>
-              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Umsitingarligar avleiðingar</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Umhvørvisligar avleiðingar</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Sosialar avleiðingar</cell>
-              <cell/>
-              <cell/>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell/>
-            </row>
-          </table>
-        </div>
-      </div>
-      <div type="chapter" n="3">
-        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
-        <div type="section" n="3.1.">
-          <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
-          <div type="subsection">
-            <head rend="bold">Til § 1</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="f4i3hdl5pq">Í lógargreinini verður heimilað landsstýriskvinnuni at gera avtalur um at gera ábøtur og umvælingar á H-bygningin á Landssjúkrahúsinum fyri í mesta lagi 33,8 mió. kr.</s>
-              <s xml:lang="fo" cert="high" xml:id="l4ffrf5jsu">Harav er 1 mió. kr. til gerðarrættarmál í sambandi við H-bygningin.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold">Til § 2</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="qoz5b7hz2t">Gildiskomuáseting.</s>
+              <s xml:id="t6vkcd6qzt">Síðani hevur landsstýriskvinnan upplýst fyri nevndini, at Landsverk hevur viðgjørt málið og greitt landsstýriskvinnuni frá, at hóast ráðgevingin ikki sjálv metti, at talan er um áhugaósemju, so er tað týdningarmikið, at eingin ivi kann vera um óhefta ráðgeving í sambandi við umvælingarnar í H-bygninginum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high" xml:id="cnhujcgetw">Mælt er til, at verklagslógir galda 2 ár eftir mettu byggitíðina.</s>
-              <s xml:lang="fo" cert="high" xml:id="rpqsxlp5y2">Henda verkætlan er mett at verða liðug í 2026, og verður gildistíðin fyri verklagslógina tí ásett til 1. januar 2029.</s>
+              <s xml:id="otlhbt4dme">Við støði í hesi meting hevur Landsverk avgjørt at velja annan ráðgeva til víðari arbeiðið.</s>
+              <s xml:id="domvcvrljr">Avgerðin er tikin fyri at tryggja óhefta ráðgeving og fyri at forða fyri, at møgulig áhugaósemja - verulig ella uppfatað - kann seta arbeiðið ella avgerðir í iva.</s>
             </p>
-          </div>
+          </quote>
+          <pb n="3"/>
+          <p>
+            <s xml:id="ystq5imvpa">Landsverk hevur mett, at henda tilgongd er tann mest hóskandi við atliti at áliti, sakligheit og góðari fyrisiting.</s>
+            <s xml:id="glieasldhk">Almanna-og heilsumálaráðið er samt við Landsverki í hesum.</s>
+          </p>
+          <p>
+            <s xml:id="bf6jcsnanv">Landsverk hevur sagt, at tíðin er altavgerandi, um bygningurin ikki skal farast meir, og tí hava tey valt ikki at bjóða eftirlitið og sjálvt arbeiðið út.</s>
+          </p>
+          <p>
+            <s xml:id="ugip5lpbmm">Til spurningin, hvar Landsverk er í øllum málinum, og hvar ábyrgdin hjá Landsverki er, er upplýst fyri nevndini, at táverandi stjóri í Landsverki í 2016 valdi at gera sáttmála við nøkur privat partafeløg um at stýra verkætlanini, og hesi stovnaðu íognarfelagið til endamálið.</s>
+            <s xml:id="wih7cqm5gi">Landsverk hevði tí ein minimalan leiklut.</s>
+            <s xml:id="c2yqqfoh5b">Stovnurin Landsverk hevur havt fýra deildarleiðarar fyri økið og tríggjar stjórar síðani.</s>
+            <s xml:id="fwiifi7upd">Í dag hevði stovnurin ikki havt útveitt projektleiðslu og stýring av einari verkætlan sum hesari.</s>
+            <s xml:id="nrgglylj32">Um alt gongur eftir ætlan, so verður allur H-bygningurin tikin í nýtslu við árslok 2026.</s>
+          </p>
+          <p>
+            <s xml:id="pkn3lfaztg">Við síðuna av verður arbeitt við endurgjaldskravi og roynt verður at fáa tryggingarnar at dekka so nógv av kravinum sum til ber.</s>
+          </p>
+          <p>
+            <s xml:id="t73u5kfonj">Til spurningin um, hvussu nógvur peningur er nýttur uppá H-bygningin frá byrjan í 2008 til í dag, er fyri nevndini upplýst, at við hesi verklagslóg kemur samlaða upphæddin upp á 834,5 mió. kr.</s>
+          </p>
+          <p>
+            <s xml:id="otwvjum7qx">Undir viðgerðini í nevndini hevur verið spurt, hvussu komið er fram til, at kostnaðurin av at gera ábøtur og umvælingar er mettur til 32,8 mió. kr., meðan sýnsfrágreiðingin metti 14,5 mió. kr.</s>
+            <s xml:id="gzozlmkkiq">Til hetta hevur Landsverk upplýst, at sýnsfrágreiðingin fór ikki í smálutir, og at Landsverk síðan hevur gjørt neyvari metingar bæði uttan og innan í bygninginum og útfrá tí kemur til 32,8 mió. kr.</s>
+          </p>
+          <quote rend="italic">
+            <p>
+              <s xml:id="kx4vhi7gzv">Landsverk hevur greitt frá, at Fyrsta óhefta sýnið av lekunum í H-bygninginum varð gjørt og latið pørtunum á sumri 2025.</s>
+              <s xml:id="vtu5mlwtm5">Landsverk hevur í sambandi við sýnsfrágreiðingina sett eyka spurningar til grundalagið fyri kostnaðarmetingina hjá sýnsmanninum.</s>
+            </p>
+            <p>
+              <s xml:id="sin2ptn4br">Útrokningargrundarlagið varð ikki latið saman við óheftu sýnsfrágreiðingini, og tí er trupult at vita, hvat sýnsmaðurin hevur tikið við, og hvat hann ikki hevur tikið við.</s>
+              <s xml:id="cegnmyfl7h">Tað tykist tó sum um, at sýnsmaðurin helst ikki hevur tikið við ymsar útreiðslur til eitt nú ráðgeving og fakeftirlit, rakstur av byggiplássi, verkætlanarleiðslu ella óvæntaðar útreiðslur, umframt at metingin um fylgiskaðar sannlíkt er alt ov lág.</s>
+              <s xml:id="vvu2r2zz3m">Harumframt eru eisini sakarmálskostnaðir, ið landið skal rinda í fyrsta umfari.</s>
+              <s xml:id="kme5j7uveb">Harafturat kemur, at Landsverk saman við ráðgeva og arbeiðstakara síðani hava staðfest aðrar og øðrvísi trupulleikar, sum hava við sær, at tað lekur.</s>
+            </p>
+            <p>
+              <s xml:id="mcol6ugu7q">Nevndin hevur fingið skriv frá Faerport II, har sagt verður, at Glas/alu-facadusystemið, sum bleiv projekterað av Faerport II, er væl roynt í Føroyum við væleydnaðum úrsliti.</s>
+            </p>
+            <p>
+              <s xml:id="t2lshfmsg6">Glas/alu-facadusystemið, sum bleiv projekterað av Faerport II, er ikki brúkt.</s>
+              <s xml:id="vlpg7xtyl2">Ístaðin valdi høvuðsarbeiðstakarin eina aðra líknandi loysn.</s>
+              <s xml:id="xycynrpdgx">Tað er nakað, sum ein arbeiðstakari hevur rætt til.</s>
+              <s xml:id="zywd6xvqdn">Tó hevur hann ábyrgdina av, at valda loysnin er eins góð sum tann fyriskrivaða.</s>
+            </p>
+          </quote>
+          <p>
+            <s xml:id="lbwzafp4rz">Til spurning frá nevndini, um hetta er so, og um Landsverk hevði kunnleika til hetta, varð upplýst fyri nevndini, at Landsverk kennir seg ikki aftur í hesum og kannað verður nú, um dokumentatión er fyri, at eftirlitið (Faerport II) hevur tikið fyrivarni fyri hesum.</s>
+            <s xml:id="xjm4auquqp">Nevndin fekk upplýst, at hesin spurningur eisini er partur av rættarmálinum, sum Landsverk arbeiðir við.</s>
+            <s xml:id="kwoq7fu4zv">Viðvíkjandi <pb n="4"/>fakeftirlitinum, so varð hetta eftirlitið framt við stakroyndum.</s>
+            <s xml:id="nwjbzvjyyg">Hevði man skipað eftirlitið til eina so stóra verkætlan í dag, hevði man havt eitt fult eftirlit.</s>
+          </p>
+          <p>
+            <s xml:id="eyysryhjra">Upplýst varð á fundinum, at nógvir av feilunum við eitt nú vindeygunum eru ringir at fanga hjá einum eftirliti; har vóru produktfeilir, ið týða á, at vindeyguni ikki eru testaði nóg væl á fabrikkini m.a. ymiskir tetningslistar og lásimekanismur, ið ikki virka sum ætlað.</s>
+          </p>
+          <p>
+            <s xml:id="zfmh6p6ekt">Til spurningin um nýggja ráðgevarafyritøkan er samd í lagda leistinum fyri, hvussu arbeiðið skal fremjast, varð upplýst fyri nevndini, at felags fundir hava verið millum fyrrverandi og núverandi ráðgevarar um hetta, og at alt týðir uppá, at teir eru samdir um framferðarháttin.</s>
+          </p>
+          <p>
+            <s xml:id="rqbzpv44um">Upplýst er eisini fyri nevndini, at Landsverk hevur fingið heimild frá Fíggjarmálaráðnum at brúka tøka játtan á 2,5 mió. kr. at tryggja, at bygningurin ikki ferst meir, meðan málið verður viðgjørt, og um neyðugt kann meir peningur útvegast.</s>
+          </p>
+          <p>
+            <s xml:id="h2rfs333lk">Fyritøkan, ið ger sjálvt arbeiðið, heldur fram við arbeiðinum og fer nú at seta fleiri fólk inn at fremja arbeiðið.</s>
+          </p>
+          <p>
+            <s xml:id="cbjfcnuq2e">Nevndin ásannar, at arbeiðið hevur skund, um skaðin ikki skal gerast enn størri.</s>
+          </p>
+          <p>
+            <s xml:id="aagajxazkb">Við hesum viðmerkingum tekur ein samd nevnd undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
+          </p>
+          <pb n="5"/>
+          <ab>
+            <ab rend="bold center">Fíggjarnevndin, 19. februar 2026</ab>
+            <signed>
+              <persName>Eyðgunn Samuelsen <lb/><roleName>forkvinna</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Beinir Johannesen <lb/><roleName>næstformaður</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Bjarni Hammer</persName>
+            </signed>
+            <signed>
+              <persName>Dennis Holm</persName>
+            </signed>
+            <signed>
+              <persName>Hanna Jensen</persName>
+            </signed>
+            <signed>
+              <persName>Magnus Rasmussen</persName>
+            </signed>
+            <signed>
+              <persName>Steffan Klein Poulsen</persName>
+            </signed>
+          </ab>
         </div>
-      </div>
-      <space dim="vertical"/>
-      <div type="signature">
-        <dateline><orgName>Almanna- og heilsumálaráðið</orgName>, <date when="2025-12-02">2. desember 2025</date></dateline>
-        <space dim="vertical"/>
-        <signed rend="center">
-          <persName>
-            <hi rend="bold">Margit Stórá</hi>
-            <lb/>
-            <roleName>landsstýriskvinna</roleName>
-          </persName>
-        </signed>
-        <signed rend="right"> / <persName>Bjørgfríð Ludvig</persName></signed>
-      </div>
-      <div type="section">
-        <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
-        <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Kostnaðarmeting</item>
-        </list>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
