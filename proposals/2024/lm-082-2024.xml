@@ -13,7 +13,7 @@
             <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
             <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
           </availability>
-          <date when="2026-05-16" />
+          <date when="2026-05-16"/>
         </publicationStmt>
         <sourceDesc>
           <bibl type="parliamentary_document">
@@ -22,7 +22,7 @@
               <persName ref="https://tingdata.fo/person/qzw6vg2p">Ruth Vang</persName>
               <roleName>landsstýriskvinna</roleName>
             </author>
-            <ref target="https://www.logting.fo/documents/65712" />
+            <ref target="https://www.logting.fo/documents/65712"/>
             <note type="source_format">PDF document, machine-readable text</note>
             <date when="2025-03-05">05.03.2025</date>
             <idno type="case-number">25/00041</idno>
@@ -54,20 +54,20 @@
           </row>
           <row>
             <cell rend="meta-cell">Ummælistíð:</cell>
-            <cell rend="meta-cell">17-01-25 til <lb />07-02-25</cell>
+            <cell rend="meta-cell">17-01-25 til <lb/>07-02-25</cell>
           </row>
           <row>
             <cell rend="meta-cell">Eftirkannað:</cell>
             <cell rend="meta-cell">18-02-25</cell>
           </row>
         </table>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <ab>
           <ab rend="bold center">Uppskot til Løgtingslóg</ab>
           <ab rend="bold center">um</ab>
           <ab rend="bold center">Talgildu Føroyar 2.0</ab>
         </ab>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <div type="chapter" n="0">
           <div type="bill-section" n="§ 1.">
             <div n="§ 1. Stk. 1.">
@@ -420,12 +420,12 @@
                 <cell>Í alt</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Myndugleiki</cell>
-                <cell />
-                <cell />
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
               </row>
               <row>
                 <cell>1</cell>
@@ -444,12 +444,12 @@
                 <cell>-</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Samanhangandi tænastur til borgarar og vinnu</cell>
-                <cell />
-                <cell />
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
               </row>
               <row>
                 <cell>3</cell>
@@ -500,12 +500,12 @@
                 <cell>17,5</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Munadygg umsiting</cell>
-                <cell />
-                <cell />
-                <cell />
-                <cell />
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
               </row>
               <row>
                 <cell>9</cell>
@@ -564,7 +564,7 @@
                 <cell>0,5</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Tilsamans</cell>
                 <cell>16,0</cell>
                 <cell>20,0</cell>
@@ -572,7 +572,7 @@
                 <cell>61,0</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Harav váðaískoyti á 20%, og</cell>
                 <cell>2,7</cell>
                 <cell>3,3</cell>
@@ -580,15 +580,15 @@
                 <cell>10,0</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Prísvøkstur á 3%</cell>
-                <cell />
+                <cell/>
                 <cell>0,6</cell>
                 <cell>0,7</cell>
                 <cell>1,3</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Fíggjarkarmur í alt</cell>
                 <cell>16,0</cell>
                 <cell>20,0</cell>
@@ -596,7 +596,7 @@
                 <cell>61,0</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Játtan á fíggjarlóg</cell>
                 <cell>10,0</cell>
                 <cell>15,0</cell>
@@ -604,7 +604,7 @@
                 <cell>45,0</cell>
               </row>
               <row>
-                <cell />
+                <cell/>
                 <cell>Inntøkur/fremmand fígging 10</cell>
                 <cell>6,0</cell>
                 <cell>5,0</cell>
@@ -815,14 +815,14 @@
             </div>
           </div>
         </div>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <div type="signature">
           <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2025-03-05">5. mars 2025</date></dateline>
-          <space dim="vertical" />
+          <space dim="vertical"/>
           <signed rend="center">
             <persName>
               <hi rend="bold">Ruth Vang</hi>
-              <lb />
+              <lb/>
               <roleName>landsstýriskvinna</roleName>
             </persName>
           </signed>
@@ -848,6 +848,330 @@
             <item><label>Fylgiskjal 15:</label> Jóhannus Kristmundsson</item>
             <item><label>Fylgiskjal 16:</label> Felagið Peningastovnar</item>
           </list>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Fylgiskjal 2: Ummælisskjal</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-16"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Fíggjarmálaráðið</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/65711"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2025-03-05">05.03.2025</date>
+            <idno type="case-number">25/00041</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="iflkylbcqq">Átak 9, størri gagnnýtsla av Landsfólkayvirlitinum, snýr seg um, at útvaldir partar av vinnuni, sum veita samfelagstýðandi tænastur, skulu fáa somu atgongd til P-talið, sum almennir myndugleikar hava í dátuverndarlógini § 16, stk. 1.</seg>
+    </standOff>
+    <text>
+      <body>
+        <div>
+          <head rend="bold center">Ummælisskjal <lb/>viðvíkjandi Uppskot til <lb/>Løgtingslóg um Talgildu Føroyar 2.0 (Heildarætlan fyri 2025 til 2027)</head>
+          <p>
+            <s xml:id="eobbwg7344">Ummælið er komið frá Felagnum Føroyskir Peningastovnar, Heilsutrygd, MEGD, TAKS, Vinnuhúsinum, Landsfelag Pensjónista, Umhvørvisstovuni, Hagstovu Føroya, KT-felagnum, Heilsustýrinum, Jóhannus Kristmundsson, Ríkisumboðnum og Undirvísingarstýrinum.</s>
+          </p>
+          <p>
+            <s xml:id="w5tf6hcqrg">Almannaverkið hevur ongar viðmerkingar.</s>
+          </p>
+          <p>
+            <s xml:id="ey72frz7kn">Fleiri av omanfyrinevndu pørtum hava viðmerkingar til somu átøk og evni í heildarætlanini fyri 2025-2027.</s>
+            <s xml:id="qvghzgzbf4">Heldur enn at viðgera ummælisskrivini hvør sær, verða viðmerkingarnar tí samlaðar undir evni og átøk, og viðgjørd fyri seg.</s>
+          </p>
+          <p>
+            <seg>Viðmerkingar til ummælini eftir evni:</seg>
+          </p>
+          <list rend="bulleted">
+            <item>
+              <p>
+                <s xml:id="ctajbfc5ah">Tinglýsingin er ikki við, tí hetta er málsøki hjá Umhvørvisstovuni.</s>
+                <s xml:id="w5gld7folh">Umhvørvisstovan er farin í gongd við at menna talgilda tinglýsing.</s>
+                <seg>Sambært Umhvørvisstovuni er støðan við verkætlanini at talgilda tinglýsingina hendan:</seg>
+                <quote>
+                  <s xml:id="rfqkbakwcm">Tinglýsingin hevur í 2022- 2025 fingið játtan at talgilda tinglýsingina.</s>
+                  <s xml:id="gpufvbqbbz">Fyrsti partur í talgildingartilgongdini er at menna eina talgilda innlating, soleiðis at øll skjøl, samleikaprógv og gjalding sum hoyra til einstaka málið, verða avgreidd á einum tinglýsingarportali av viðskiftafólkunum.</s>
+                  <s xml:id="i3d6fyyxap">Skjølini verða eftirfylgjandi skrásett sjálvvirkið í dagbókina.</s>
+                  <s xml:id="ezpca6kagn">Við talgildari innlating slepst undan flestu feilkeldum og nógvum manuellum arbeiðsgongdum.</s>
+                  <s xml:id="x6ci5gsst3">Stórur partur av arbeiðinum er gjørdur við støði í skjølum úr akfarsbókini.</s>
+                  <s xml:id="unncxet7sz">Innlatingarskipanin er næstan liðugt ment, soleiðis at viðskiftafólk umvegis eina innlatingarskipan kunnu fráboða skjøl til tinglýsingar í akfarsbókini.</s>
+                  <s xml:id="k32so5jw6w">Verkætlanin fevnir um øll skjalasløg í akfarsbókini, og loysnin fevnir um innritan, talgilda innlating, talgilda undirskrift, gjaldsmodul, og sjálvvirkin skráseting av skjølunum í dagbókina.</s>
+                  <s xml:id="ocwjvdtw2j">Innlatingarskipanin fer umvegis Heldina at heinta upplýsingar úr Landsfólkayvirlitinum og Akfarsskránni.</s>
+                  <s xml:id="ssdpzk4p4w">Broytingar í tinglýsingarlógini vóru í desember mánaði samtyktar í Løgtinginum.</s>
+                  <s xml:id="ax5cndc5zm">Talgild innlating til akfarsbókina verður verksett 7. apríl 2025.</s>
+                  <s xml:id="mf75ry7blt">Arbeiðið heldur fram í 2025.</s>
+                  <s xml:id="hrevqdhjkg">Enn er avgerð ikki tikin um, hvørt næsta stig verður talgild innlating til tingbókina, ella sjálvvirkin málsviðgerð til akfarsbókina.</s>
+                </quote>
+                <s xml:id="lbdm2nuoxa">Framhaldandi menning av talgildari tinglýsing er tengd at neyðugari politiskari raðfesting.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="howasjcqe2">Talgildu Føroyar ynskja at viðgera samleikakort, fulltrú, foreldramyndugleika og samtykki við Samleikanum fyri at verja børn á netinum, á komandi fundum, ið eru avtalaðir við Gigni.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="qi7cwpbfzd">Talgildu Føroyar luttaka umvegis Norðurlandaráðið, í norðurlendskum samstarvi um menning og atkomu av talgildum vælferðartænastum.</s>
+                <s xml:id="jiwm4qsecl">Í hesum sambandi hava Talgildu Føroyar verið partur av gransking hjá norðurlendska granskingarstovninum Nordregio í 2024, sum gav Talgildu Føroyar góð skotsmál, tá ið umræður atkomu til talgildar loysnir.</s>
+                <s xml:id="mxybsqmzae">Talgildu Føroyar hava frá byrjan tikið atlit til atkomu, við millum annað at leggja seg eftir at liva upp til WCAG 2.0, og hava leypandi samskifti við ymsar bólkar um okkara loysnir, m.a. áhugafeløg undir MEGD.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="baedmeefki">Í sambandi við atkomukortini, <hi rend="italic">EU Disability Card og EU Disability Parking Card</hi>, ynskir Talgildu Føroyar fegin at fáa samtalu í lag við MEGD og hoyra nærri um hetta.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="g6tgrp5utb">Talgildu Føroyar hava eina bul av starvsfólki við førleikum, sum tryggja, at Talgildu Føroyar kunnu arbeiða strategiskt og hava leiðsluna á verkætlanum, ið Talgildu Føroyar greiða úr hondum.</s>
+                <s xml:id="snmkttront">Talgildu Føroyar arbeiða eftir einum leisti, har Talgildu Føroyar seta fólk í tíðaravmarkaði størv til menningaverkætlanir, og útveitir sjálva menningina.</s>
+                <s xml:id="xis5r3w4hg">Haraftrat verður raksturin av loysnum í stóran mun útveittur.</s>
+                <s xml:id="efmt4c2een">Útveitingarnar eru fyrst og fremst til føroyskar veitarar.</s>
+                <s xml:id="b7qv4k52fg">Orsøkin til ætlaða vøksturin av starvsfólkum í heildarætlanini er, at Talgildu Føroyar fara at umsita eitt alsamt størri virkisøki.</s>
+                <s xml:id="drkam7m6il">Fyrst og fremst er tað myndugleiki fyri talgilding (átak 1), ið fer at krevja fleiri uppgávur, umframt at væntandi nýggjar uppgávur innan t.d. vitlíki (átak 15) eisini fer at kasta fleiri uppgávur av sær.</s>
+                <s xml:id="mdmg32i7vq">Haraftrat er eitt avleitt árin av fleiri mentum loysnum, at loysnirnar skulu rekast.</s>
+                <s xml:id="ygqoqb3non">Talgildu Føroyar metir í hvørjum einstøkum føri hvørt best er at seta fólk í fast starv, tíðaravmarka starv ella útveita uppgávuna.</s>
+                <s xml:id="kkj5h7hyid">Umframt væntandi starvssetan av 2-3 fólkum, eru eisini fleiri átøk, ið verða útveitt.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="rkunushelg">Fíggjarmálaráðið leggur í heildarætlanini upp til, at business cases og nyttumátingar verða ein kravdur partur av øllum KT-verkætlanum.</s>
+                <s xml:id="znumm3l3gg">Hetta verður eisini ein uppgáva, sum Gjaldstovan/Talgildu Føroyar koma at seta krøv og gera vegleiðing til, sum part av nýggju myndugleikauppgávuni fyri talgilding, sum stovnurin kemur at fáa.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="om2by36hay">Í sambandi við at skipa myndugleikauppgávur á Gjaldstovuni/Talgildu Føroyar ætlar Fíggjarmálaráðið í 2025, at fara í samráð við ymsar áhugapartar, herundir eisini stovnar og Vinnuhúsið, fyri at greiða nærri frá endamáli og uppgávum hjá talgilda myndugleikanum, og fyri at fáa íkast til skipan av myndugleikanum.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="ql2cce5bsq">Fíggjarmálaráðið takkar fyri ítøkiliga uppskotið, um at menna eina aðra loysn til eintýðuga eyðmerking av borgarum, men metir ikki hetta er rætta leið at fara, og broytingin verður umfatandi og kostnaðarmikil.</s>
+                <s xml:id="v7cs376rro">P-talið verður í dag brúkt sum eintýðug eyðmerking í flest øllum almennum KT-skipanum.</s>
+                <s xml:id="qvzmcn4vet">Ein liberalisering av nýtsluni til eisini at umfata útvaldar privatar fyritøkur, vildi ikki ávirkað trygdina hjá borgaranum.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="bhlbf27cmv">Fíggjarmálaráðið tekur undir við, at tað er av stórum týdningi, at dátuumsiting og - trygd framhaldandi verða raðfest høgt, so at dátugrundarlagið er álítandi, eisini sum menning av samfelagnum.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="jz3kvnlanq">Hóast Talgildu Føroyar nú eisini fara at savna seg um vinnutænastur, verður framvegis arbeitt við at menna og víðarimenna fleiri tænastur til borgaran, eitt nú visión 2 í heildarætlanini um “<hi rend="italic">samanhangandi tænastur til borgarar og vinnu</hi>”, har fleiri átøk umfata borgaran.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="tv3wvib2tz">Talgildu Føroyar nýta P-tal til eintýðuga eyðmerking í sínum loysnum.</s>
+                <s xml:id="sdflszr43i">Hetta verður tó altíð gjørt við samtykki hjá tí einstaka borgaranum, og borgarin tøppar altíð P-talið inn sjálvur, tá ið borgarin skal eyðmerkjast.</s>
+                <s xml:id="s4koowaj53">P-talið kann nýtast til eintýðuga eyðmerking, sambært dátuverndarlógini § 16, og er P-talið ikki flokkað sum ein viðkvom persónsupplýsing, men sum ein vanlig persónupplýsing, sum tó skal haldast loyniligt.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="dhk6ask3kq">Enn er einki brúkararáð fyri Talgildu Føroyar.</s>
+                <s xml:id="skzhrqareu">Talgildu Føroyar hava tó higartil samskift við allar týðandi áhugapartar í samfelagnum hvør sær, og hava starvsfólk, sum hava til uppgávu at tryggja bestu brúkaraupplivilsi fyri borgarar og vinnu.</s>
+                <s xml:id="niowmlgwth">Hetta halda Talgildu Føroyar hevur riggað væl, men Fíggjarmálaráðið og Gjaldstovan fara at viðgera møguleikan við einum brúkararáðið nærri.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <s xml:id="zewoi2aa6k">Talgildu Føroyar hava altíð havt sum mál at brúka føroyskar veitarar, og hava eisini í størstan mun liva upp til hetta mál.</s>
+                <s xml:id="jjq6x2bkbi">Undantak eru gjørd, har førleikar hava verið vantandi í Føroyum.</s>
+              </p>
+            </item>
+          </list>
+          <p>
+            <seg>Viðmerkingar til ummælini eftir átøkum:</seg>
+          </p>
+          <list>
+            <item>
+              <p>
+                <label rend="bold">Átak 1, um talgildan myndugleika:</label>
+                <s xml:id="x5krmwjdzf">Fíggjarmálaráðið er greitt yvir, at talgildi myndugleikin enn ikki er nóg væl lýstur í mun til heimild, praktiskan týdning og annað.</s>
+                <s xml:id="vbrjobgr2v">Ætlanin er, at Fíggjarmálaráðið fer í samskifti við viðkomandi áhugapartar í 2025, so neyðug íkast kunnu fáast til endaligu orðingar um heimildir, praktiskan týdning og annað hjá talgilda myndugleikanum á Gjaldstovuni/Talgildu Føroyum.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 3, Vangin 2.0 – Nýhugsan og útbreiðsla:</label>
+                <s xml:id="vcbuqaz443">Fíggjarmálaráðið sær nógvar møguleikar í at menna og betra um Vangan.</s>
+                <s xml:id="fcf7gtp7jv">Talan er um at menna fleiri nýggjar funkur, t.d. sjónbandaviðtalur til eitt nú málsviðgerðar og læknar, fulltrúarloysn, vitlíki, ið bæði kann betra um brúkaravinsemi og skerpa endamálið hjá brúkarunum á Vanganum, umframt útbreiðslu av fleiri tænastum hjá tænastuveitarum, sum enn ikki eru talgildar.</s>
+                <s xml:id="novwx6r5ki">Øll átøk í hesum sambandi vera viðgjørd nærri saman við viðkomandi áhugapørtum, áðrenn menningin fer ígongd.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 7 talgilt val:</label>
+                <s xml:id="ivwzuj2nry">Lagt er ikki upp til at seta í verk talgilt kommunu-, løgtings- ella fólkatingsval (sum electronic voting).</s>
+                <s xml:id="h7xj4gwjjn">Ætlanin er framvegis, at valhandlingin fyrigongur fysiskt í einum valhøli.</s>
+                <s xml:id="kzve2ukthy">Fíggjarmálaráðið er tilvitað um týdningin av fólkaræðisligu siðum.</s>
+                <s xml:id="to57m2foar">Átakið snýr seg um, at hava eitt orðaskifti um talgilding av valtilgongdini, áðrenn og rundan um valið, eitt nú at talgilda valkortið og annað, sum greitt er frá í heildarætlanini.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 9, størri gagnnýtsla av Landsfólkayvirlitinum:</label>
+                <seg>snýr seg um, at útvaldir partar av vinnuni, sum veita samfelagstýðandi tænastur, skulu fáa somu atgongd til P-talið, sum almennir myndugleikar hava í dátuverndarlógini § 16, stk. 1.</seg>
+                <s xml:id="fzazmvmqos">P-talið gerst ikki minni persónligt av hesum átaki.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 10, knýta persónsdátur í norðurlondum saman:</label>
+                <s xml:id="ol7flzsj65">Talgildu Føroyar vendir sær til viðkomandi áhugapartar, tá ið átakið er búgvið til tess.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 11, ríkisstovnar nýta talgilda undirstøðukervið:</label>
+                <s xml:id="wlptqcocd4">Tað verður tikið til eftirtektar, at ríkisstovnar ikki hava heimild at brúka P-tal, og tað kemur at verða partur av viðgerðini av hesum máli.</s>
+                <s xml:id="a6btw7kqc2">Talgildu Føroyar vendir sær til viðkomandi áhugapartar, tá ið átakið er búgvið til tess.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 12, Samleikin kann brúkast uttanlands:</label>
+                <s xml:id="ex76alnrez">Talgildu Føroyar vendir sær til viðkomandi áhugapartar, tá ið átakið er búgvið til tess.</s>
+              </p>
+            </item>
+            <item>
+              <p>
+                <label rend="bold">Átak 14, almenn bankakonta:</label>
+                <s xml:id="edo7t3szrm">Tann almenna bankakontan kann samanberast við NemKonto í Danmark, har hvør borgari hevur eina kontaktkonto til allar almennar peningaflytingar.</s>
+                <s xml:id="pdi47jcdfp">Hetta fer at lætta um, í peningaliga samskiftinum, millum borgaran og almenna geiran.</s>
+              </p>
+            </item>
+          </list>
+          <p>
+            <seg>Viðmerkingar til einstøku ummælini:</seg>
+          </p>
+          <div>
+            <head rend="bold">Felagið Føroyskir Peningarstovnar</head>
+            <p>
+              <s xml:id="jowhnfbbdq">Talgild tinglýsing er ikki við, tí hetta er umráðið hjá Umhvørvisstovuni.</s>
+              <s xml:id="agbv6bgf3f">Umhvørvisstovan er í farið í gongd at menna talgilda tinglýsing.</s>
+              <seg>Sambært Umhvørvisstovuni er støðan við verkætlanini at talgilda tinglýsingina hendan:</seg>
+            </p>
+            <quote>
+              <p>
+                <s xml:id="tkjatlcntz">Tinglýsingin hevur í 2022-2025 fingið játtan at talgilda tinglýsingina.</s>
+                <s xml:id="gnye4e5hge">Fyrsti partur í talgildingartilgongdini er at menna eina talgilda innlating, soleiðis at øll skjøl, samleikaprógv og gjalding, sum hoyra til einstaka málið, verða avgreidd á einum tinglýsingarportali av viðskiftafólkunum.</s>
+                <s xml:id="kwlsnwpi2u">Skjølini verða eftirfylgjandi skrásett sjálvvirkið í dagbókina.</s>
+                <s xml:id="eaazsbzfrc">Við talgild innlating slepst undan flestu feilkeldum og nógvum manuellum arbeiðsgongdum.</s>
+                <s xml:id="fm2fhg52s3">Stórur partur av arbeiðinum er gjørdur við støði í skjølum úr akfarsbókini.</s>
+                <s xml:id="b4wnpaqnlg">Innlatingarskipanin er næstan liðugt ment, soleiðis at viðskiftafólk umvegis eina innlatingarskipan kunnu fráboða skjøl til tinglýsingar í akfarsbókini.</s>
+                <s xml:id="uxfj7zmwsu">Verkætlanin fevnir um øll skjalasløg í akfarsbókini og loysnin fevnir um innritan, talgild innlating, talgild undirskrift, gjaldsmodul og sjálvvirkin skráseting av skjølunum í dagbókina.</s>
+                <s xml:id="isaes5vl5o">Innlatingarskipanin fer umvegis Heldina at heinta upplýsingar úr Landsfólkayvirlitinum og Akfarsskránni.</s>
+                <s xml:id="funoroiyr7">Broytingar í tinglýsingarlógini vóru í desember mánað samtyktar í Løgtinginum.</s>
+                <s xml:id="p32q75sl2h">Talgild innlating til akfarsbókina verður verksett 7. apríl 2025.</s>
+                <s xml:id="lrbioxuftb">Arbeiðið heldur fram í 2025.</s>
+                <s xml:id="qtzoicdxh2">Enn er avgerð ikki tikin um, hvørt næsta stig verður talgild innlating til tingbókina ella sjálvvirkin málsviðgerð til akfarsbókina.</s>
+              </p>
+            </quote>
+            <p>
+              <s xml:id="fyy4rdqgrb">Framhaldandi menning av talgildari tinglýsing er tengd at neyðugari politiskari raðfesting.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Gigni</head>
+            <p>
+              <!-- <s>Talgildu Føroyar ynskja at viðgera samleikakort, fulltrú, foreldramyndugleika og samtykki við Samleikanum, fyri at verja børn á netinum, á komandi fundum, ið eru avtalaðir við Gigni</s> -->
+              <s resp="#rani" xml:id="ajva5kpmnq">Talgildu Føroyar ynskja at viðgera samleikakort, fulltrú, foreldramyndugleika og samtykki við Samleikanum, fyri at verja børn á netinum, á komandi fundum, ið eru avtalaðir við Gigni.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">MEGD</head>
+            <p>
+              <s xml:id="f4j7rfhmnl">Ávísir partar av ummælinum eru ikki knýtir at verklagslógina, og eru tí ikki viðkomandi verklagslógina og arbeiði hjá Talgildu Føroyum.</s>
+            </p>
+            <p>
+              <s xml:id="gud7l6c34k">Viðkomandi er tó, at MEGD millum annað nevnir, at Talgildu Føroyar eiga at samstarva við hini norðurlondini um at finna burðardyggar talgildar loysnir í sambandi við vælferðartænastur og talgild atkomukort.</s>
+            </p>
+            <p>
+              <s xml:id="gw3owtrjfg">Talgildu Føroyar luttaka umvegis Norðurlandaráðið, um menning av talgildum vælferðartænastum.</s>
+              <s xml:id="q3ytjdgaya">Talgildu Føroyar hava verið partur av gransking um atkomu í talgildum loysnum í 2024, sum gav góð skotsmál til Talgildu Føroyar.</s>
+              <s xml:id="ai4tgq6ckw">Talgildu Føroyar hava frá byrjan hugsað um atkomu, við millum annað at leggja seg eftir at liva upp til WCAG 2.0, og hava leypandi samskifti við ymsar bólkar um okkara loysnir, m.a. áhugafeløg undir MEGD.</s>
+            </p>
+            <p>
+              <s xml:id="kqvlbgld5l">Í sambandi við atkomukortini, <hi rend="italic">EU Disability Card og EU Disability Parking Card</hi>, ynskir Talgildu Føroyar fegin at fáa samtalu í lag við MEGD, og at hoyra nærri um hetta.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">TAKS</head>
+            <p>
+              <s xml:id="sxunkwmyvf">Fíggjarmálaráðið er greitt yvir, at talgildi myndugleikin enn ikki er nóg væl lýstur í mun til heimild og praktiskan týdning.</s>
+              <s xml:id="zx2ctklzoa">Ætlanin er, at Talgildu Føroyar fara í samskifti við viðkomandi áhugapartar í 2025, so neyðug íkast kann fáast til endaligar orðingar um heimildir hjá myndugleikanum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Vinnuhúsið</head>
+            <p>
+              <s xml:id="e5ejefcnb7">Í sambandi við viðmerkingina um, at Talgildu Føroyar vaksa, so hevur Talgildu Føroyar ein bul av starvsfólkum við førleikum, sum tryggjar at arbeiðast kann strategiskt og við at hava leiðsluna á verkætlanum, ið Talgildu Føroyar greiða úr hondum.</s>
+              <s xml:id="z2qgodpb42">Talgildu Føroyar arbeiða eftir einum leisti, har Talgildu Føroyar seta fólk í tíðaravmarkaði starv til menningaverkætlanir og útveitir sjálva menningina.</s>
+              <s xml:id="afhce7kn42">Útveitingarnar eru fyrst og fremst til føroyskar veitarar.</s>
+            </p>
+            <p>
+              <s xml:id="yjldy24mbj">Orsøkin til ætlaða vøksturin av starvsfólkum í heildarætlanini er, at Talgildu Føroyar fara at umsita eitt alsamt størri virkisøki.</s>
+              <s xml:id="p7sy46qe6v">Fyrst og fremst er tað myndugleiki fyri talgilding (átak 1), ið fer at krevja fleiri uppgávur, umframt at væntandi nýggjar uppgávur innan t.d. vitlíki (átak 15) eisini fer at krevja fleiri starvsfólk.</s>
+              <s xml:id="khlu3didpv">Haraftrat er eitt avleitt árin av fleiri mentum loysnum, at loysnirnar skulu rekast.</s>
+              <s xml:id="n3wbwwwavj">Talgildu Føroyar metir í hvørjum einstøkum føri, hvørt best er at seta fólk í fast starv, tíðaravmarkað starv ella útveita uppgávuna.</s>
+            </p>
+            <p>
+              <s xml:id="x3shnv4umy">Fíggjarmálaráðið leggur í heildarætlanini upp til, at <hi rend="italic">business cases</hi> og nyttumátingar verða ein kravdur partur av øllum KT-verkætlanum.</s>
+              <s xml:id="jubtugmfgf">Hetta verður eisini ein uppgáva, sum talgildi myndugleikin skal seta krøv og gera vegleiðingar til.</s>
+            </p>
+            <p>
+              <s xml:id="qjo7p4dhbr">Í sambandi við stovnsetan av talgildum myndugleika, ætlar Talgildu Føroyar í samráð við ymsar áhugapartar, herundir eisini Vinnuhúsið, tá ið átakið er búgvi til tess.</s>
+            </p>
+            <p>
+              <label>Átak 4:</label>
+              <s xml:id="gpwnacxwaq">Fíggjarmálaráðið sær nógvar møguleikar í at menna og betra um Vangan.</s>
+              <s xml:id="ularoxxnc3">Talan er um at fáa fleiri nýggjar funkur, t.d. sjónbandaviðtalur til eitt nú málsviðgerðar og læknar, útbygt fulltrúarloysnina, at menna vitlíki á Vanganum, ið bæði kann betra um brúkaravinsemi og skerpa endamáli hjá brúkarunum á Vanganum, umframt útbreiðslu av fleiri tænastum á Vanganum, sum enn ikki eru talgildar.</s>
+            </p>
+            <p>
+              <label>Átak 14:</label>
+              <s xml:id="rs22jnu2m5">Tann almenna bankakontan er at líkna við donsku NemKonto, har <hi rend="italic">ein</hi> konta hjá hvørjum borgara gerst kontaktkonta til allar almennar peningaflytingar.</s>
+              <s xml:id="vtif3qvwp5">Hetta fer at lætta um, í peningaliga samskiftinum, millum borgara og almenna geiran.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Landsfelag pensionista</head>
+            <p>
+              <s xml:id="sguojwe23r">Hóast Talgildu Føroyar nú eisini fara at fokusera upp á vinnutænastur, verður framvegis arbeitt við at menna og víðarimenna fleiri tænastur til borgaran, eitt nú visión 2 í heildarætlanini um <hi rend="italic">samanhangandi tænastur til borgarar og vinnu</hi>, har fleiri átøk umfata borgaran.</s>
+            </p>
+          </div>
+          <!-- TODO: continue -->
         </div>
       </body>
     </text>
