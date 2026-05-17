@@ -1,669 +1,813 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Uppskot til Løgtingslóg um at leingja sáttmálan millum øðrumegin Felagið Føroyskir Sjúkrarøktarfrøðingar og hinumegin Fíggjarmálaráðið fyri ávís størv í Sjúkrahúsverkinum o.ø.</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
-          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
-          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
-        </availability>
-        <date when="2026-05-17"/>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="parliamentary_document">
-          <publisher>Føroya Løgting</publisher>
-          <ref target="https://www.logting.fo/documents/58459"/>
-          <note type="source_format">PDF document, machine-readable text</note>
-          <date when="2023-11-02">02.11.2023</date>
-          <idno type="case-number">23/21979-1</idno>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction>
-          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
-        </correction>
-      </editorialDecl>
-    </encodingDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <table rend="left align-right">
-        <row>
-          <cell rend="meta-cell">Dagfesting:</cell>
-          <cell rend="meta-cell">02.11.2023</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Mál nr.:</cell>
-          <cell rend="meta-cell">23/21979-1</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Málsviðgjørt:</cell>
-          <cell rend="meta-cell">ARØ</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Ummælistíð:</cell>
-          <cell rend="meta-cell">N/A</cell>
-        </row>
-        <row>
-          <cell rend="meta-cell">Eftirkannað:</cell>
-          <cell rend="meta-cell">01.11.2023</cell>
-        </row>
-      </table>
-      <space dim="vertical"/>
-      <ab>
-        <ab rend="bold center">Uppskot til</ab>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Uppskot til Løgtingslóg um at leingja sáttmálan millum øðrumegin Felagið Føroyskir Sjúkrarøktarfrøðingar og hinumegin Fíggjarmálaráðið fyri ávís størv í Sjúkrahúsverkinum o.ø.</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-17"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/58459"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2023-11-02">02.11.2023</date>
+            <idno type="case-number">23/21979-1</idno>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+        <editorialDecl>
+          <correction>
+            <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+          </correction>
+        </editorialDecl>
+      </encodingDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <table rend="left align-right">
+          <row>
+            <cell rend="meta-cell">Dagfesting:</cell>
+            <cell rend="meta-cell">02.11.2023</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Mál nr.:</cell>
+            <cell rend="meta-cell">23/21979-1</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Málsviðgjørt:</cell>
+            <cell rend="meta-cell">ARØ</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Ummælistíð:</cell>
+            <cell rend="meta-cell">N/A</cell>
+          </row>
+          <row>
+            <cell rend="meta-cell">Eftirkannað:</cell>
+            <cell rend="meta-cell">01.11.2023</cell>
+          </row>
+        </table>
         <space dim="vertical"/>
-        <ab rend="bold center">Løgtingslóg</ab>
-        <ab rend="bold center">um</ab>
-        <ab rend="bold center">at leingja sáttmálan millum øðrumegin Felagið Føroyskir Sjúkrarøktarfrøðingar og</ab>
-        <ab rend="bold center">hinumegin Fíggjarmálaráðið fyri ávís størv í Sjúkrahúsverkinum o.ø.</ab>
-      </ab>
-      <space dim="vertical"/>
-      <div type="chapter" n="0">
-        <div type="bill-section" n="§ 1.">
-          <div n="§ 1. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 1.</label>
-              <s xml:lang="fo" cert="high" xml:id="cez5azgdow">Henda løgtingslóg fevnir um teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum ikki kunnu vera fevndir av arbeiðssteðgi, við tað at sjúklingatrygdin kann koma í vanda, verður neyðug sjúkrarøkt ikki veitt.</s>
-              <s xml:lang="fo" cert="high" xml:id="kom6r6dus4">Við arbeiðssteðgi meinast í hesum sambandi verkbann, verkfall, blokada, boykott og ein og hvør onnur skipað avfólkan.</s>
+        <ab>
+          <ab rend="bold center">Uppskot til</ab>
+          <space dim="vertical"/>
+          <ab rend="bold center">Løgtingslóg</ab>
+          <ab rend="bold center">um</ab>
+          <ab rend="bold center">at leingja sáttmálan millum øðrumegin Felagið Føroyskir Sjúkrarøktarfrøðingar og</ab>
+          <ab rend="bold center">hinumegin Fíggjarmálaráðið fyri ávís størv í Sjúkrahúsverkinum o.ø.</ab>
+        </ab>
+        <space dim="vertical"/>
+        <div type="chapter" n="0">
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <s xml:lang="fo" cert="high" xml:id="cez5azgdow">Henda løgtingslóg fevnir um teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum ikki kunnu vera fevndir av arbeiðssteðgi, við tað at sjúklingatrygdin kann koma í vanda, verður neyðug sjúkrarøkt ikki veitt.</s>
+                <s xml:lang="fo" cert="high" xml:id="kom6r6dus4">Við arbeiðssteðgi meinast í hesum sambandi verkbann, verkfall, blokada, boykott og ein og hvør onnur skipað avfólkan.</s>
+              </p>
+            </div>
+            <div n="§ 1. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="m3ocyf3knb">Sjúkrahúsverkið metir um og ger av, hvussu nógvum starvsfólki tørvur er á, sbr. tó § 3.</s>
+              </p>
+            </div>
+            <div n="§ 1. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="jmkws3acui">Viðkomandi limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, hava skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi frá 1. oktober 2019 til 1. januar 2023.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="yt2lmdur5g">Er Felagið Føroyskir Sjúkrarøktarfrøðingar ikki samt við eina avgerð hjá Sjúkrahúsverkinum sambært § 1, stk. 2, kann felagið leggja málið fyri eina nevnd, sum ger av, um undantakið er neyðugt til at tryggja, at sjúklingatrygdin ikki kemur í vanda.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="nyavhjttkv">Nevndin verður mannað við trimum limum.</s>
+                <s xml:lang="fo" cert="high" xml:id="gqxlsfukiz">Fíggjarmálaráðið velur ein lim, og Felagið Føroyskir Sjúkrarøktarfrøðingar velur ein lim.</s>
+                <s xml:lang="fo" cert="high" xml:id="tsvmrvxup5">Hesir báðir limirnir velja síðani formannin, sbr. tó stk. 3.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="k7gdtnnisz">Til limirnir hava valt ein formann sambært stk. 2, er stjórin í Fólkaheilsustýrinum formaður.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="tnzxsf5vb5">Nevndin skal taka avgerð innan 24 tímar, eftir at áheitan sambært stk. 1 er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
+                <s xml:lang="fo" cert="high" xml:id="usixu2tpzu">Verður nevndin ikki samd, tekur formaðurin avgerð.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 5.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="yrb7ffa4xa">Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum limi í nevndini.</s>
+                <s xml:lang="fo" cert="high" xml:id="ts7dfm467n">Landskassin ber útreiðslurnar av at samsýna formanninum.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 6.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="qaimk64eqc">Ein avgerð sambært stk. 4 kann ikki kærast til hægri fyrisitingarligan myndugleika.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 3.">
+            <div n="§ 3. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="yjljratl5j">Um so verður, at arbeiðssteðgurin verður víðkaður til at fevna um onnur økir, verður sami leistur at nýta til at taka avgerð um undantøk sambært §§ 1 og 2.</s>
+                <s xml:lang="fo" cert="high" xml:id="jwh2cxnvsd">Í tí førinum verður tað viðkomandi stovnsleiðsla, sum tekur avgerð um undantøk í fyrstu atløgu.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 4.">
+            <div n="§ 4. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="jqlvxd6tqv">Henda løgtingslóg kemur í gildi, tá ið hon er kunngjørd, og fer úr gildi, tá ið nýggjur sáttmáli millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum kemur í staðin fyri sáttmálan, sum var galdandi til 1. januar 2023, er undirskrivaður.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div type="chapter" n="1">
+          <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+          <div type="section" n="1.1.">
+            <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qbvazlunv2">Eftir miseydnaðar sáttmálasamráðingar og miseydnaðar semingsroyndir við atliti at nýggjum sáttmála millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið hevur Felagið Føroyskir Sjúkrarøktarfrøðingar boðað frá víðfevndum verkfalli í Sjúkrahúsverkinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="x465uv4cy3">Verkfallið byrjaði 2. oktober 2023 og er hert fleiri ferðir.</s>
+              <s xml:lang="fo" cert="high" xml:id="f6apdtwo3t">Hóast ávíst samband hevur verið millum partarnar, hevur Semingsstovnurin mett, at ov langt er millum partarnar til at fara undir nýggja semingsroynd.</s>
+              <s xml:lang="fo" cert="high" xml:id="dwc7nl57xg">Orsøkin til hetta lógaruppskotið er, at verkfallið kann fáa sera álvarsligar avleiðingar fyri sjúklingatrygdina hjá borgarum, sum eru innlagdir, ella sum hava tørv á sjúkrarøkt.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Søguliga gongdin í málinum er í stuttum hendan:</seg>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mouy3lzdpb">Sáttmálin millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið fór úr gildi 1. januar 2023.</s>
+              <s xml:lang="fo" cert="high" xml:id="ddiop35ngd">Partarnir byrjaðu samráðingar um nýggjan sáttmála tann 4. mai 2023.</s>
+              <s xml:lang="fo" cert="high" xml:id="gomigdgwfi">24. august 2023 varð Semingsstovnurin boðsendur, tí staðfest var, at partarnir komu ikki víðari við samráðingunum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="kmw5gzus32">Semingsuppskot varð lagt fyri partarnar 15. september 2023.</s>
+              <s xml:lang="fo" cert="high" xml:id="ljtp5bl32b">Fíggjarmálaráðið tók undir við semingsuppskotinum, og Felagið Føroyskir Sjúkrarøktarfrøðingar vrakaði semingsuppskotið.</s>
+              <s xml:lang="fo" cert="high" xml:id="pg2bzyqzgd">26. september 2023 kallaði Semingsstovnurin aftur partarnar saman á fund.</s>
+              <s xml:lang="fo" cert="high" xml:id="zinjdp7igm">Partarnir vóru tó so langt frá hvørjum øðrum, at Semingsstovnurin tann 27. september 2023 á fundi við partarnar boðaði frá, at hann legði frá sær.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="aawx24kxno">28. september 2023 lýsti Felagið Føroyskir Sjúkrarøktarfrøðingar verkfall fyri allar sjúkrarøktarfrøðingar, deildarleiðarar/funktiónsleiðarar og varaleiðarar/toymisleiðarar frá mánadegnum 2. oktober kl. 8.</s>
+              <seg xml:lang="fo">Verkfallið er á hesum deildum:</seg>
+            </p>
+            <p rend="bold">
+              <seg xml:lang="fo">Landssjúkrahúsið:</seg>
+            </p>
+            <list>
+              <item>A2</item>
+              <item>A3</item>
+              <item>B5</item>
+              <item>B6</item>
+              <item>B7</item>
+              <item>B8</item>
+              <item>G1</item>
+              <item>G4</item>
+              <item>P40/PI</item>
+              <item>P40/PA</item>
+            </list>
+            <p rend="bold">
+              <seg xml:lang="fo">Klaksvíkar Sjúkrahús:</seg>
+            </p>
+            <list>
+              <item>KS-3-seingjadeildin</item>
+            </list>
+            <p rend="bold">
+              <seg xml:lang="fo">Suðuroyar Sjúkrahús:</seg>
+            </p>
+            <list>
+              <item>Seingjadeildin</item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ywhxmjgqdl">29. september 2023 sendir leiðslan í Sjúkrahúsverkinum Felagnum Føroyskir Sjúkrarøktar-frøðingar listan við teimum undantøkum, sum hon metir vera neyðug.</s>
+              <s xml:lang="fo" cert="high" xml:id="oozhgjgubb">Seinni sama dag játtar Felagið Føroyskir Sjúkrarøktarfrøðingar teimum undantøkum, sum felagið metir eru neyðug til at reka seingjadeildirnar forsvarliga.</s>
+              <s xml:lang="fo" cert="high" xml:id="xlnvhpxu5c">Felagið biður um fleiri upplýsingar við atliti at nøkrum umbønum um undantøk, so at sjúklingatrygdin ikki kemur í vanda.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="enymnb5z4t">30. september 2023 verður verkfallið tikið aftur á medisinsku seingjadeildini B7 á Landssjúkrahúsinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="okcl4v6krr">Til ber ikki at fremja verkfallið, við tað at deildin longu frammanundan er mannað við minni enn minstumanning.</s>
+              <s xml:lang="fo" cert="high" xml:id="ssfi6w3qq7">Nakrar av umbønunum til psykiatrisku seingjadeildirnar verða játtaðar.</s>
+              <s xml:lang="fo" cert="high" xml:id="vnkncpfqmd">Undantøkini verða givin til hósmorgunin 5. oktober 2023 kl. 8.</s>
+              <s xml:lang="fo" cert="high" xml:id="x6iugszlrb">Undantøkini svara til, at deildirnar eru mannaðar við vikuskiftismanning.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="c2otaxxsww">4. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja tey flestu av undantøkunum til fríggjadagin 6. oktober 2023 kl. 16.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zyszmqsna3">6. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja undantøkini til týsmorgunin 10. oktober 2023.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sz2jy64q6w">9. oktober 2023 verður verkfallið hert til at fevna um skurðambulatoriið, B3, á Landssjúkrahúsinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cqwzb4c55r">11. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar og deildarleiðarar á medisinska ambulatoriinum á Landssjúkrahúsinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="hkshytvnq7">Krabbamein, giktasjúkur, maga- og tarmsjúkur, blóðsjúkur, palliativa toymið og blóðdialýsa verða undantikin.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tfvxzlhy65">13. oktober 2023 verður verkfallið hert á Klaksvíkar Sjúkrahúsi og Suðuroyar Sjúkrahúsi.</s>
+              <s xml:lang="fo" cert="high" xml:id="fz6glq2ufm">Verkfallið fevnir um allar sjúkrarøktarfrøðingar, deildarleiðarar/funktiónsleiðarar og varaleiðarar/toymisleiðarar, sum starvast á hesum deildum á Klaksvíkar Sjúkrahúsi: Almen kirurgisk ambulatorium, Ortopædisk ambulatorium, Urologisk ambulatorium og Svøvnambulatorium.</s>
+              <s xml:lang="fo" cert="high" xml:id="p6bbjp2n2d">Og á Suðuroyar Sjúkrahúsi: Kardiologisku starvsstovuni, Pínuklinikkini og ambulantum virksemi á skurðgongini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ptv4znxmys">17. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar og deildarleiðarar á Skurðdeildini á Klaksvíkar Sjúkrahúsi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cxfwmosk3s">18. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar, deildarleiðarar og varaleiðarar á Skurðdeildini á Landssjúkrahúsinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ym7bzr63gx">Verkfallið fevnir ikki um Skopieindina.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="f6wnnv43mo">Samband er millum partarnar 27. og 28. oktober 2023, men Semingsstovnurin metir ikki grundarlag vera fyri at fara undir nýggja semingsroynd.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="l5iwpsfwli">30. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja undantøkini eitt samdøgur til týsdagin 31. oktober 2023 kl. 16.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="spgpdchet6">Meðan verkfallið hevur verið, hevur Felagið Føroyskir Sjúkrarøktarfrøðingar veitt undantøk, so at tær verkfalsraktu deildirnar í høvuðsheitum hava verið mannaðar við vikuskiftismanning.</s>
+              <s xml:lang="fo" cert="high" xml:id="dp7bgalzjd">Sjúkrahúsverkið hevur ikki mett, at sjúklingatrygdin hevur verið í vanda.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="blshyyoaua">Felagið Føroyskir Sjúkrarøktarfrøðingar boðaði 1. november Sjúkrahúsverkinum frá, at undantøkini verða longd til 2. november kl. 16, men at eftir hetta verða eingi undantøk veitt á seingjardeildum, skurðdeildum og ambulatorium.</s>
+              <s xml:lang="fo" cert="high" xml:id="gedeqwwpkq">Sjúkrahúsverkið metir, at verða eingi undantøk veitt á hesum deildum, kemur sjúklingatrygdin hjá borgarum í vanda.</s>
+              <s xml:lang="fo" cert="high" xml:id="rsbkpm6wjt">Sí fylgiskjal 2.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lbkaps5qdp">Landsstýrið sær sær ongan annan útveg enn at leggja uppskot fyri løgtingið við tí endamáli at enda tann partin av verkfallinum, sum kann hava vanda fyri sjúklingatrygdina við sær.</s>
             </p>
           </div>
-          <div n="§ 1. Stk. 2.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="m3ocyf3knb">Sjúkrahúsverkið metir um og ger av, hvussu nógvum starvsfólki tørvur er á, sbr. tó § 3.</s>
+          <div type="section" n="1.2.">
+            <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="dztvary76l">Økið er ikki regulerað við lóg, og útgangsstøðið er, at arbeiðsmarknaðarpartarnir, í hesum førinum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, regulera arbeiðs- og lønarviðurskifti í sáttmála sínámillum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="m774lkot4q">Í einum sáttmálaskeiði hava partarnir friðarskyldu, og verður sáttmálin longdur, hava partarnir skyldu at halda seg til treytirnar í sáttmálanum.</s>
+              <s xml:lang="fo" cert="high" xml:id="k32nhg2z7e">Hóast tað ikki er vanligt, kann løgtingið samtykkja eina lóg, sum regulerar treytirnar millum partarnar á arbeiðsmarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ab3erxgar3">Í Føroyum eru fordømi frá t.d. 1988, løgtingsmál nr. 60/1988, frá 2001, løgtingsmál 56/2000, og frá 2005, løgtingsmál nr. 103/2004.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cyfuotobic">Í grannalondunum hava partarnir á arbeiðsmarknaðinum gjørt avtalur um skipanir, sum skulu tryggja, at lív og heilsa herundir sjúklingatrygdin hjá borgarum ikki koma í vanda, tá ið arbeiðssteðgur er.</s>
+              <s xml:lang="fo" cert="high" xml:id="myniunomce">Partarnir á føroyska arbeiðsmarknaðinum hava ikki gjørt avtalur um slíkar skipanir.</s>
+              <s xml:lang="fo" cert="high" xml:id="gf7fzx77be">Tí síggja vit, at arbeiðssteðgur á ávísum økjum í samfelagnum kann hava við sær, at lív og heilsa hjá borgarum verða sett í vanda.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gv3prrbeag">Arbeitt hevur verið við at fáa í lag eina skipan, har tryggjað verður, at borgarar hava neyðuga verju, og at neyðug tilbúgving er, tá ið samráðingar eru á arbeiðsmarknaðinum, og verkfall verður lýst.</s>
+              <s xml:lang="fo" cert="high" xml:id="tgpk6ptdge">Táverandi Umhvørvis- og vinnumálaráðið heitti tann 1. desember 2020 á formansskapin í Fasta Gerðarrætti um at kanna møguleikarnar fyri at fara undir eina tilgongd, ið skuldi tryggja, at føroyski arbeiðsmarknaðurin hevði neyðuga verju ella tilbúgving í sambandi við verkfall.</s>
+              <s xml:lang="fo" cert="high" xml:id="orbdmzkbzx">Formansskapurin tók uppgávuna á seg og hevði fundir við bæði arbeiðstakarafeløg og arbeiðsgevarar á almenna arbeiðsmarknaðinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qqxrp3kvbu">Formansskapurin í Fasta Gerðarrætti boðaði á vári 2021 frá, at Kommunala Arbeiðsgevarafelagið og Fíggjarmálaráðið høvdu boðað frá, at tey vóru sinnað at fara undir eina tilgongd at gera eina skipan, ið kundi tryggja føroyska arbeiðsmarknaðinum neyðuga verju ella tilbúgving í sambandi við arbeiðssteðg.</s>
+              <s xml:lang="fo" cert="high" xml:id="mkzu72dytp">Hinvegin boðaði Fakfelagssamstarvið, t.e. Pedagogfelagið, Lærarafelagið, Felagið Føroyskir Sjúkrarøktarfrøðingar, Akademikarafelagið, Havnar Arbeiðskvinnufelag og Starvsfelagið, í februar 2021 formansskapinum í Fasta Gerðarrætti frá síni greiðu niðurstøðu: Tey vildu ikki hava, at arbeitt varð víðari við málinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="do2h2u4fha">Formansskapurin í Fasta Gerðarrætti boðaði tí táverandi Umhvørvis- og vinnumálaráðnum frá, at meira varð ikki gjørt við málið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qcrrpfplw5">Lógaruppskotið, sum nú verður lagt fyri løgtingið, er ein greið ábending um, at verandi skipan á arbeiðsmarknaðinum ikki er nøktandi, við tað at farið verður so harðliga fram, at vandi er fyri lívi og heilsu hjá ávísum borgarum.</s>
+              <s xml:lang="fo" cert="high" xml:id="gf4ejeu7kp">Hetta uppskotið fyriheldur seg ítøkiliga til verkfallið, sum Felagið Føroyskir Sjúkrarøktarfrøðingar hevur sett í verk.</s>
             </p>
           </div>
-          <div n="§ 1. Stk. 3.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 3.</label>
-              <s xml:lang="fo" cert="high" xml:id="jmkws3acui">Viðkomandi limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, hava skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi frá 1. oktober 2019 til 1. januar 2023.</s>
+          <div type="section" n="1.3.">
+            <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ynrp67soyn">Endamálið við uppskotinum er at tryggja, at verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar ikki elvir til vanda fyri sjúklingatrygdini hjá borgarum, ið hava tørv á viðgerð, røkt o.tíl.</s>
+            </p>
+          </div>
+          <div type="section" n="1.4.">
+            <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ggl7x24pn5">Sambært uppskotinum verður tað Sjúkrahúsverkið, sum skal meta um og gera av, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan.</s>
+              <s xml:lang="fo" cert="high" xml:id="eas3ot3z6b">Teir limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa skyldu til at fara til arbeiðis og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023.</s>
+              <s xml:lang="fo" cert="high" xml:id="lpctqpum6w">Sáttmálin er lagdur við sum fylgiskjal 1 til uppskotið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wg66salnrg">Sjúkrahúsverkið skal kalla starvsfólk inn eftir somu grundreglum, sum undantøkini higartil eru givin eftir, soleiðis at tryggjað verður, at sjúklingatrygdin ikki kemur í vanda.</s>
+              <s xml:lang="fo" cert="high" xml:id="ux52e35qhc">Tí kann væntast, at støðan, sum hevur verið undir verkfallinum higartil, fer at halda fram, eftir at lógaruppskotið er samtykt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fgmlkpjcmv">Verður Felagið Føroyskir Sjúkrarøktarfrøðingar ósamt við eina avgerð hjá Sjúkrahúsverkinum um, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan, skal felagið kunna leggja spurningin fyri eina nevnd, sum verður mannað við trimum limum, har stjórin í Fólkaheilsustýrinum verður formaður, og Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar kunnu velja hvør sín lim.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ruifota2hf">Verður nevndin ikki samd, skal formaðurin kunnu taka endaliga avgerð.</s>
+              <s xml:lang="fo" cert="high" xml:id="bssu2o75xj">Nevndin skal taka avgerð innan 24 tímar, eftir at áheitan er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar um at viðgera málið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="iguj6fgpjv">Um so skuldi verið, at verkfallið verður víðkað til eisini at fevna um onnur økir, verður sami leistur at nýta til at taka avgerð um neyðug undantøk frá verkfallinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="klvt2m7suq">Verður verkfallið t.d. víðkað til at fevna um sjúkrarøktarfrøðingar, sum starvast hjá Almannaverkinum, verður tað Almannaverkið, sum í fyrstu syftu skal kunna taka avgerð um, hvørji undantøk ið eru neyðug.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bpjjfha3kk">Lógin kemur í gildi, tá ið hon er kunngjørd, og fer úr gildi, tá ið nýggjur sáttmáli er undirskrivaður millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið at koma í staðin fyri sáttmálan, sum var galdandi millum partarnar til 1. januar 2023.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yokdcdz6yk">Hóast tað ikki er vanligt, at politiska skipanin lóggevur í trætumálum millum partarnar á arbeiðsmarknaðinum, og landsstýrið heldur, at tað eigur at vera tað allarseinasta amboðið, sum nýtt verður í sambandi við eina sáttmálatrætu, verður tað í hesum førinum mett at vera alneyðugt við politiskari uppíblanding upp í verandi sáttmálatrætu millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið.</s>
+              <s xml:lang="fo" cert="high" xml:id="ogqjmefcqs">Tó metir landsstýrið hetta inntrivið í samráðingarrættin og stríðsrættin hjá pørtunum at vera so varligt sum gjørligt, við tað at lóggivið bara verður um ein part av limunum hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, t.e., har tað stendur um lív ella álvarsligur heilsuvandi er.</s>
+            </p>
+          </div>
+          <div type="section" n="1.5.">
+            <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="hfepjl3mhf">Uppskotið hevur ikki verið til ummælis.</s>
+              <s xml:lang="fo" cert="high" xml:id="ov5unxoyzz">Við tað at málið hevur bráðskund, er vikið frá vanligum mannagongdum viðvíkjandi hoyring av viðkomandi pørtum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="we5gdl6ct5">Leiðslan í Sjúkrahúsverkinum metir ikki, at uppskotið loysir avbjóðingina á nøktandi hátt.</s>
+              <s xml:lang="fo" cert="high" xml:id="h4b65hiszd">Leiðslan hevur gjørt vart við, at hetta lógaruppskotið sannlíkt fer at hava við sær, at samstarvið og álitið millum leiðslu og starvsfólk í Sjúkrahúsverkinum tekur skaða.</s>
+              <s xml:lang="fo" cert="high" xml:id="fjvn777qyg">Somuleiðis vísir leiðslan á, at tað kann gerast trupult at manna tey umbidnu størvini, um lógaruppskotið elvir til illvilja hjá sjúkrarøktarfrøðingunum, ið starvast í Sjúkrahúsverkinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="vmsbtzia25">Tí hevur leiðslan í Sjúkrahúsverkinum eitt staðiligt ynski um, at málið var loyst á annan hátt.</s>
             </p>
           </div>
         </div>
-        <div type="bill-section" n="§ 2.">
-          <div n="§ 2. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="yt2lmdur5g">Er Felagið Føroyskir Sjúkrarøktarfrøðingar ikki samt við eina avgerð hjá Sjúkrahúsverkinum sambært § 1, stk. 2, kann felagið leggja málið fyri eina nevnd, sum ger av, um undantakið er neyðugt til at tryggja, at sjúklingatrygdin ikki kemur í vanda.</s>
+        <div type="chapter" n="2">
+          <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+          <div type="section" n="2.1.">
+            <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="eg47pbd3hs">Uppskotið hevur ávísar fíggjarligar avleiðingar fyri landið, við tað at landskassin ber útreiðslurnar av løn til teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum verða bidnir um at koma aftur til arbeiðis.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="byar4polvh">Verður ein nevnd sett sambært § 2 at taka avgerð, kann hetta væntast at hava útreiðslur við sær.</s>
+              <s xml:lang="fo" cert="high" xml:id="d2abavnyw3">Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
+              <s xml:lang="fo" cert="high" xml:id="gejgp2w4pk">Landið ber útreiðslurnar av at samsýna formanninum.</s>
             </p>
           </div>
-          <div n="§ 2. Stk. 2.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 2.</label>
-              <s xml:lang="fo" cert="high" xml:id="nyavhjttkv">Nevndin verður mannað við trimum limum.</s>
-              <s xml:lang="fo" cert="high" xml:id="gqxlsfukiz">Fíggjarmálaráðið velur ein lim, og Felagið Føroyskir Sjúkrarøktarfrøðingar velur ein lim.</s>
-              <s xml:lang="fo" cert="high" xml:id="tsvmrvxup5">Hesir báðir limirnir velja síðani formannin, sbr. tó stk. 3.</s>
+          <div type="section" n="2.2.">
+            <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vza3spvrxh">Uppskotið fær fyrisitingarligar avleiðingar fyri Sjúkrahúsverkið.</s>
             </p>
           </div>
-          <div n="§ 2. Stk. 3.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 3.</label>
-              <s xml:lang="fo" cert="high" xml:id="k7gdtnnisz">Til limirnir hava valt ein formann sambært stk. 2, er stjórin í Fólkaheilsustýrinum formaður.</s>
+          <div type="section" n="2.3.">
+            <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="x4sm4zndl7">Uppskotið fær ikki avleiðingar fyri vinnuna.</s>
             </p>
           </div>
-          <div n="§ 2. Stk. 4.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 4.</label>
-              <s xml:lang="fo" cert="high" xml:id="tnzxsf5vb5">Nevndin skal taka avgerð innan 24 tímar, eftir at áheitan sambært stk. 1 er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
-              <s xml:lang="fo" cert="high" xml:id="usixu2tpzu">Verður nevndin ikki samd, tekur formaðurin avgerð.</s>
+          <div type="section" n="2.4.">
+            <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="okcllyv6gi">Uppskotið fær ikki avleiðingar fyri umhvørvið.</s>
             </p>
           </div>
-          <div n="§ 2. Stk. 5.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 5.</label>
-              <s xml:lang="fo" cert="high" xml:id="yrb7ffa4xa">Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum limi í nevndini.</s>
-              <s xml:lang="fo" cert="high" xml:id="ts7dfm467n">Landskassin ber útreiðslurnar av at samsýna formanninum.</s>
+          <div type="section" n="2.5.">
+            <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="elk2pxccuh">Mett verður ikki, at uppskotið fær avleiðingar fyri serstøk økir í landinum.</s>
             </p>
           </div>
-          <div n="§ 2. Stk. 6.">
-            <p rend="bill-text">
-              <label rend="italic">Stk. 6.</label>
-              <s xml:lang="fo" cert="high" xml:id="qaimk64eqc">Ein avgerð sambært stk. 4 kann ikki kærast til hægri fyrisitingarligan myndugleika.</s>
+          <div type="section" n="2.6.">
+            <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gbc3hx7noe">Uppskotið fær avleiðingar fyri teir limirnar hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum um at møta til arbeiðis, av tí at teirra frávera elvir til vanda fyri sjúklingatrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="orbuxvsv7p">Til nýggjur sáttmáli er gjørdur millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, verða limirnir at arbeiða undir treytunum í sáttmálanum, sum var í gildi til 1. januar 2023.</s>
             </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nlmp2jr5k2">Harafturat fær lógaruppskotið avleiðingar fyri teir sjúklingarnar, sum høvdu kunnað komið í lívs- ella heilsuvanda, fekk Sjúkrahúsverkið ikki tey neyðugu undantøkini.</s>
+              <s xml:lang="fo" cert="high" xml:id="voauhrvcso">Uppskotið hevur við sær, at alneyðug sjúkrarøkt kann verða veitt, við tað at ávísir teir sjúkrarøktarfrøðingar ikki kunnu fara í verkfall uttan at bróta friðarskylduna.</s>
+            </p>
+          </div>
+          <div type="section" n="2.7.">
+            <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="h3kufq4732">ILO-konventión 87, Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), er galdandi fyri Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="hm776wo2th">Henda konventiónin ásetur ikki ítøkiliga stríðsrættin hjá feløgunum á arbeiðsmarknaðinum, men setur sum fyritreyt, at stríðsrætturin er til, sbr. art. 3, 8 og 10 í konventiónini.</s>
+              <s xml:lang="fo" cert="high" xml:id="uikloaeypg">ILO-eftirlitsstovnarnir hava ógvuliga stranga venju, tá ræður um lógarinntriv í stríðsrættin.</s>
+              <s xml:lang="fo" cert="high" xml:id="bgcth6ayjs">ILO-stovnarnir góðtaka bara inntriv orsakað av serliga týdningarmiklum samfelagstænastum (“essential services”).</s>
+              <s xml:lang="fo" cert="high" xml:id="f6ikdstv7n">Tað merkir, at arbeiðsstríðið (her verkfallið) setur lív, heilsu ella persónligu trygdina hjá borgarunum í vanda.</s>
+              <s xml:lang="fo" cert="high" xml:id="s54alne5ya">T.d. góðtók ILO-nevndin fyri frælsi at skipa seg í feløg (organisationsfrihedskomité’in) eitt lógarinntriv í eitt stríð hjá donskum sjúkrarøktarfrøðingum í 1995, av tí at sjúkrahúsverkið varð mett at koma undir hugtakið “essential services” (Kelda: Jens Kristiansen, Grundlæggende Arbejdsret, 2. Útgáva, Jurist- og Økonomforbundets Forlag 2009, s. 190-191).</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cytnivbuzg">Vísandi til tað omanfyri lýsta verður hetta lógaruppskotið ikki mett at vera í ósamsvari við ILO-konventión 87.</s>
+            </p>
+          </div>
+          <div type="section" n="2.8.">
+            <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+            <div type="subsection">
+              <head rend="italic">Hoyvíkssáttmálin</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="l7n6h7todx">Hoyvíkssáttmálin er óviðkomandi fyri hetta lógaruppskotið.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="italic">Evropeiski mannarættindasáttmálin</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="lzhpfsqlbv">Evropeiski mannarættindasáttmálin, “Anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention”, varð settur í gildi fyri Føroyar við lóg tann 1. mai 2000.</s>
+                <s xml:lang="fo" cert="high" xml:id="bcddkmzyjx">Art. 11, stk. 1, í sáttmálanum verjir rættin til felagsfrælsi (forsamlings- og foreningsfrihed).</s>
+                <s xml:lang="fo" cert="high" xml:id="ynakuritox">Hóast Evropeiski mannarættindadómstólurin í dómi tann 6. februar 1976 (Schmidt og Dahlström m. Svøríki) staðfesti, sbr. pkt. 34, at art. 11, stk. 1, í evropeiska mannarætindasáttmálanum ikki gevur feløgum sum so serlig rættindi, hevur dómstólurin í 2008 (Demir og Baykara m. Turkalandi) staðfest rættin til at samráðast.</s>
+                <s xml:lang="fo" cert="high" xml:id="codacm4m2y">Í 2009 staðfesti dómstólurin eisini stríðsrættin (Yapi-Yol Sen m. Turkalandi).</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="uujczexgjp">Art. 11, stk. 2, í evropeiska mannarættindasáttmálanum heimilar bara inntriv í felagsfrælsið, eisini samráðingar- og stríðsrættin, um inntrivið verður ásett við lóg, er neyðugt í einum fólkaræðisligum samfelag og fremur eitt lógligt endamál.</s>
+                <s xml:lang="fo" cert="high" xml:id="lx72asevtx">Lógligu endamálini eru tjóðartrygdin ella almenni tryggleikin, at forða fyri órógv ella brotsverki, at verja heilsu og siðalag ella at verja rættindi og frælsi hjá øðrum.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="fya44wfq3q">Hetta lógaruppskotið skal tryggja, at sjúklingatrygdin ikki kemur í vanda, og harvið verja lív og heilsu og er tí í samsvari við evropeiska mannarættindasáttmálan.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="italic">Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="i7mqau5oj7">Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek, varð settur í gildi fyri Føroyar tann 23. august 2009 við “Bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap”.</s>
+                <s xml:lang="fo" cert="high" xml:id="hkdg5trjbd">Sáttmálin áleggur limalondunum at menna og fremja politikk, lóggávu og fyrisitingarmál, sum tryggja rættindi hjá fólki, ið ber brek.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="n2gibk46pj">Sáttmálin áleggur m.a. limalondunum at taka øll hóskandi lóggávustig til at verja fólk, ið ber brek, bæði innanhýsis og uttanhýsis, fyri eini og hvørjari eyðræning, harðskapi og misnýtslu.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="ludizxzrsu">Lógaruppskotið verður mett at vera í samsvari við sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
+              </p>
+            </div>
+          </div>
+          <div type="section" n="2.9.">
+            <head rend="bold"><label>2.9.</label> Markaforðingar</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="f62qqqmw6a">Uppskotið hevur ikki markaforðingar við sær.</s>
+            </p>
+          </div>
+          <div type="section" n="2.10.">
+            <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nf2vlsr2pv">Uppskotið hevur ávirkan á verkfalsrættin, men verður mett at vera eitt neyðugt inntriv.</s>
+              <s xml:lang="fo" cert="high" xml:id="nhvysk7epo">Uppskotið hevur ongar ásetingar um revsing ella sektir.</s>
+            </p>
+          </div>
+          <div type="section" n="2.11.">
+            <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sr54kjh5gc">Uppskotið áleggur ikki skattir og avgjøld.</s>
+            </p>
+          </div>
+          <div type="section" n="2.12.">
+            <head rend="bold"><label>2.12.</label> Gjøld</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="noh2ueewg4">Sambært uppskotinum kann ein nevnd verða sett at viðgera undantøk til verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="zgff7kxf5m">Ásett er, at Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
+              <s xml:lang="fo" cert="high" xml:id="daiiuitmzk">Landið ber útreiðslurnar av at samsýna formanninum.</s>
+            </p>
+          </div>
+          <div type="section" n="2.13.">
+            <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="hrp5j3mhs3">§ 1, stk. 3, í uppskotinum áleggur limum í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum, at fara til arbeiðis, fáa teir boð um tað frá Sjúkrahúsverkinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="sh6nog2gru">Sambært § 3 er tað sama galdandi, verður verkfallið víðkað til eisini at fevna um onnur økir.</s>
+              <s xml:lang="fo" cert="high" xml:id="rwspw35z5s">Í tí førinum verður tað viðkomandi stovnsleiðsla, sum sendir boð eftir limunum at koma til arbeiðis.</s>
+            </p>
+          </div>
+          <div type="section" n="2.14.">
+            <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fwkzhlidkq">Uppskotið heimilar Sjúkrahúsverkinum at gera av, hvørjir limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum, skulu vera undantiknir frá verkfallinum og arbeiða sambært sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023.</s>
+            </p>
+          </div>
+          <div type="section" n="2.15.">
+            <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zjz3mz3yvq">Uppskotið gevur ikki almennum myndugleikum atgongd at privatari ogn.</s>
+            </p>
+          </div>
+          <div type="section" n="2.16.">
+            <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fuwmuk6xjy">Uppskotið verður ikki mett at hava aðrar avleiðingar enn tær omanfyri tilskilaðu.</s>
+            </p>
+          </div>
+          <div type="section" n="2.17.">
+            <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+            <table>
+              <row role="label">
+                <cell>Umhvørvisligar avleiðingar</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Sosialar avleiðingar</cell>
+                <cell/>
+                <cell/>
+                <cell>Nei</cell>
+                <cell>Ja</cell>
+                <cell/>
+              </row>
+            </table>
+            <table>
+              <row role="label">
+                <cell/>
+                <cell>Fyri landið ella landsmyndugleikar</cell>
+                <cell>Fyri kommunalar myndugleikar</cell>
+                <cell>Fyri pláss ella øki í landinum</cell>
+                <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+                <cell>Fyri vinnuna</cell>
+              </row>
+              <row>
+                <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+              </row>
+              <row>
+                <cell>Umsitingarligar avleiðingar</cell>
+                <cell>Ja</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+                <cell>Nei</cell>
+              </row>
+            </table>
           </div>
         </div>
-        <div type="bill-section" n="§ 3.">
-          <div n="§ 3. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 3.</label>
-              <s xml:lang="fo" cert="high" xml:id="yjljratl5j">Um so verður, at arbeiðssteðgurin verður víðkaður til at fevna um onnur økir, verður sami leistur at nýta til at taka avgerð um undantøk sambært §§ 1 og 2.</s>
-              <s xml:lang="fo" cert="high" xml:id="jwh2cxnvsd">Í tí førinum verður tað viðkomandi stovnsleiðsla, sum tekur avgerð um undantøk í fyrstu atløgu.</s>
-            </p>
+        <div type="chapter" n="3">
+          <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+          <div type="section" n="3.1.">
+            <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
+            <div type="subsection">
+              <head rend="bold">Til § 1</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="iutk5hpr2x">Í § 1, stk. 1, er ásett, hvønn løgtingslógin skal galda fyri.</s>
+                <s xml:lang="fo" cert="high" xml:id="dqoelxcfgb">Ásett er, at lógin skal galda fyri teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum eru í starvi hjá Sjúkrahúsverkinum, og sum ikki kunnu verða fevndir av arbeiðssteðgi, við tað at vandi kann vera fyri sjúklingatrygdini, verður neyðuga sjúkrarøktin ikki veitt.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="gjwq3pioa2">Endamálið við ásetingini er, at Sjúkrahúsverkið skal kunna veita trygd sjúklingatrygdini.</s>
+                <s xml:lang="fo" cert="high" xml:id="z5jewwzdxg">Hetta merkir ikki, at tænastustigið ikki lækkar, ella at gerandisdagurin ikki verður órógvaður.</s>
+                <s xml:lang="fo" cert="high" xml:id="ennkaa42wp">Nær talan kann sigast at vera um vanda fyri sjúklingatrygdini, veldst um eina ítøkiliga meting, sum tað skal liggja á Sjúkrahúsverkinum at gera.</s>
+                <s xml:lang="fo" cert="high" xml:id="whnngykn6c">Metingin skal gerast eftir sama leisti, sum undantøk higartil eru givin eftir undir verkfallinum.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="zaw3hlb2uj">Við arbeiðssteðgi meinast í hesum sambandi verkbann, verkfall, blokada og boykott og ein og hvør onnur skipað avfólkan.</s>
+                <s xml:lang="fo" cert="high" xml:id="dqs7bj4l42">Orsøkin til ásetingina er, at verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar í Sjúkrahúsverkinum kann koma nógvum sjúklingum í vandastøðu.</s>
+                <s xml:lang="fo" cert="high" xml:id="vrsrkyoe6v">Harumframt er langt millum partarnar í samráðingunum at gera nýggjan sáttmála.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="x5khyyurc7">Sambært stk. 2 skal tað liggja á Sjúkrahúsverkinum at meta um, hvussu nógvum starvsfólkum ið Sjúkrahúsverkið hevur tørv á, fyri at sjúklingatrygdin ikki kemur í vanda.</s>
+                <s xml:lang="fo" cert="high" xml:id="bqxy3xwjik">Viðkomandi limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa sostatt skyldu til at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var í gildi til 1. januar 2023.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="pii6youv4c">Tørvurin á undantøkum kann broytast, sum frá líður, tí bæði sjúklingatalið og sjúkligatørvurin kunnu broytast, eins og nýggir sjúklingar kunnu fáa tørv á seingjarinnlegging á sjúkrahúsunum.</s>
+                <s xml:lang="fo" cert="high" xml:id="ejbctzcny2">Sjúkrahúsverkið kann tí fáa bráðtørv á at fáa fleiri fólk til arbeiðis.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="lz6obn2fwr">Tilvísingin í § 1, stk. 2, til § 3 skal gera vart við, at verður verkfallið víðkað, kann tað eisini fara at liggja á øðrum enn Sjúkrahúsverkinum at taka avgerð um undantøk, sbr. eisini serligu viðmerkingarnar til § 3 niðanfyri.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="ollh5letum">Sambært ásetingini í § 1, stk. 3, fáa viðkomandi limir í Felagnum Føroyskir Sjúkrarøktar-frøðingar, sum fáa boð frá Sjúkrahúsverkinum, skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023, sbr. fylgiskjal 1.</s>
+                <s xml:lang="fo" cert="high" xml:id="cba335tt3f">Hetta merkir, at skuldi Felagið Føroyskir Sjúkrarøktarfrøðingar lagt málið fyri nevnd eftir § 2, hevur tað ikki við sær, at arbeiðsskyldan hjá limunum, sum koma undir hesa ásetingina, verður útsett.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="mjqgc6qejt">Lógin verður ikki galdandi fyri allar limirnar hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, men bara teir, sum Sjúkrahúsverkinum tørvar, fyri at sjúklingatrygdin ikki kemur í vanda.</s>
+                <s xml:lang="fo" cert="high" xml:id="cqw2pcnnsw">Tað fer at liggja á Sjúkrahúsverkinum at meta um, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan.</s>
+                <s xml:lang="fo" cert="high" xml:id="fcwqoiuaxj">Viðkomandi limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa sostatt skyldu til at fylgja nevnda sáttmála.</s>
+                <s xml:lang="fo" cert="high" xml:id="vdcfx3ered">Í einum sáttmálaskeiði valdar friðarskylda.</s>
+                <s xml:lang="fo" cert="high" xml:id="gpn53jbess">Tí verður eitt og hvørt stríðsstig, tað er verkbann, verkfall, blokada ella boykott, sum ikki virðir undantøkini, brot á løgtingslógina, tá ið hon er komin í gildi.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold">Til § 2</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="zoqm3ubgqd">Sambært § 2, stk. 1, skal Felagið Føroyskir Sjúkrarøktarfrøðingar, um felagið er ósamt við eina avgerð hjá Sjúkrahúsverkinum sambært § 1, stk. 2, kunna leggja málið fyri eina nevnd, sum skal kunna taka avgerð um, hvørji starvsfólk í Sjúkrahúsverkinum skulu vera undantikin møguligum arbeiðssteðgi.</s>
+                <s xml:lang="fo" cert="high" xml:id="lqqn2c7x3x">At eitt mál verður lagt fyri nevndina, hevur ikki við sær, at skyldan sambært § 1, stk. 3, at fara til arbeiðis verður útsett, til nevndin kemur til eina niðurstøðu.</s>
+                <s xml:lang="fo" cert="high" xml:id="dens5oe7c3">Kemur nevndin til aðra niðurstøðu enn Sjúkrahúsverkið, kann Felagið Føroyskir Sjúkrarøktarfrøðingar áleggja arbeiðssteðg fyri teir limir, sum eru farnir til arbeiðis eftir § 1, stk. 2 og 3, sum nevndin ikki metir bráðneyðugan tørv vera á at hava til arbeiðis.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="up5qp37vfd">Í § 2, stk. 2, er ásett, at nevndin verður mannað við trimum limum.</s>
+                <s xml:lang="fo" cert="high" xml:id="iwe66wlcnb">Fíggjarmálaráðið velur ein lim, og Felagið Føroyskir Sjúkrarøktarfrøðingar velur ein lim.</s>
+                <s xml:lang="fo" cert="high" xml:id="k4mwn6tfid">Hesir báðir limirnir skulu síðan semjast um ein formann.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="fvmqwfs2jm">Í § 2, stk. 3, er ásett, at til formaður er valdur av limunum, sum umboða ávikavist Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar, er stjórin í Fólkaheilsustýrinum formaður.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="qxwsa2nvow">Sambært § 2, stk. 4, skal nevndin taka avgerð innan 24 tímar, eftir at áheitan sambært § 1, stk. 4, er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
+                <s xml:lang="fo" cert="high" xml:id="sm4qxeseza">Verður nevndin ikki samd, tekur formaðurin avgerð.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="eimiyw46gv">Í § 2, stk. 5, er ásett, at Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
+                <s xml:lang="fo" cert="high" xml:id="mmynnydo4l">Landið ber útreiðslurnar av at samsýna formanninum.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="eftw6qb6ok">Í § 2, stk. 6, er ásett, at ein avgerð sambært stk. 4 ikki kann kærast til annan fyrisitingarligan myndugleika.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold">Til § 3</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="u4isaawgfn">Ásetingin í § 3 verður einans viðkomandi, um verkfallið verður víðkað til onnur økir enn Sjúkrahúsverkið.</s>
+                <s xml:lang="fo" cert="high" xml:id="z6sw4d3ahr">Sum støðan er nú, er verkfall bara lýst fyri sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum.</s>
+                <s xml:lang="fo" cert="high" xml:id="sjk4ff7vln">Endamálið við hesi ásetingini er, at tað ikki skal vera neyðugt við nýggjum lógaruppskoti, um so verður, at verkfallið verður víðkað til onnur økir.</s>
+                <s xml:lang="fo" cert="high" xml:id="gywgdvhit6">Talan kundi t.d. verið um verkfall fyri sjúkrarøktarfrøðingar, sum starvast í Almannaverkinum og hjá Heilsutrygd.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="bgqfqhhhj2">Verður verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar víðkað til at fevna um onnur økir, og semjast felagið og stovnurin ikki um, hvørji starvsfólk ið mugu vera til arbeiðis, fyri at sjúklingatrygdin ikki kemur í vanda, fer tað at liggja á viðkomandi stovnsleiðslu at taka avgerð um, hvørji starvsfólk ið skulu vera undantikin verkfallinum.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="xnjg474kmj">Viðkomandi limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá viðkomandi stovnsleiðslu, hava skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023, sí fylgiskjal 1.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="ikofgrsdi3">Verður Felagið Føroyskir Sjúkrarøktarfrøðingar ósamt við eina avgerð hjá stovnsleiðsluni, um at sjúklingatrygdin hjá sjúklingum kemur í vanda, skal felagið kunna leggja avgerðina fyri nevndina sambært § 2.</s>
+                <s xml:lang="fo" cert="high" xml:id="fordjugykh">Verður avgerðin løgd fyri nevndina sambært § 2, hevur tað ikki við sær, at arbeiðsskyldan verður útsett.</s>
+              </p>
+            </div>
+            <div type="subsection">
+              <head rend="bold">Til § 4</head>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="gwdir6eq76">§ 4 ásetur, nær lógin skal koma í gildi og fara úr aftur gildi.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="n6y6kvwo44">Ásett er, at løgtingslógin kemur í gildi, tá ið hon er kunngjørd.</s>
+                <s xml:lang="fo" cert="high" xml:id="hj3qt3zoby">Løgtingslógir koma vanliga í gildi, dagin eftir at tær eru kunngjørdar, ella ávísan dag.</s>
+                <s xml:lang="fo" cert="high" xml:id="q5odkqk2je">At henda løgtingslógin skal koma í gildi, fyrsta hon er kunngjørd, kemst av, at málið hevur bráðskund.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high" xml:id="lqdkimuiji">Sólsetursásetingin hevur við sær, at løgtingslógin fer úr gildi, tá ið nýggjur sáttmáli er undirskrivaður millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið at koma í staðin fyri sáttmálan, sum var galdandi til 1. januar 2023.</s>
+              </p>
+              <!-- TODO: add signature later! -->
+            </div>
           </div>
         </div>
-        <div type="bill-section" n="§ 4.">
-          <div n="§ 4. Stk. 1.">
-            <p rend="bill-text">
-              <label rend="bold">§ 4.</label>
-              <s xml:lang="fo" cert="high" xml:id="jqlvxd6tqv">Henda løgtingslóg kemur í gildi, tá ið hon er kunngjørd, og fer úr gildi, tá ið nýggjur sáttmáli millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum kemur í staðin fyri sáttmálan, sum var galdandi til 1. januar 2023, er undirskrivaður.</s>
-            </p>
-          </div>
-        </div>
-      </div>
-      <div type="chapter" n="1">
-        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
-        <div type="section" n="1.1.">
-          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qbvazlunv2">Eftir miseydnaðar sáttmálasamráðingar og miseydnaðar semingsroyndir við atliti at nýggjum sáttmála millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið hevur Felagið Føroyskir Sjúkrarøktarfrøðingar boðað frá víðfevndum verkfalli í Sjúkrahúsverkinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="x465uv4cy3">Verkfallið byrjaði 2. oktober 2023 og er hert fleiri ferðir.</s>
-            <s xml:lang="fo" cert="high" xml:id="f6apdtwo3t">Hóast ávíst samband hevur verið millum partarnar, hevur Semingsstovnurin mett, at ov langt er millum partarnar til at fara undir nýggja semingsroynd.</s>
-            <s xml:lang="fo" cert="high" xml:id="dwc7nl57xg">Orsøkin til hetta lógaruppskotið er, at verkfallið kann fáa sera álvarsligar avleiðingar fyri sjúklingatrygdina hjá borgarum, sum eru innlagdir, ella sum hava tørv á sjúkrarøkt.</s>
-          </p>
-          <p>
-            <seg xml:lang="fo">Søguliga gongdin í málinum er í stuttum hendan:</seg>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="mouy3lzdpb">Sáttmálin millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið fór úr gildi 1. januar 2023.</s>
-            <s xml:lang="fo" cert="high" xml:id="ddiop35ngd">Partarnir byrjaðu samráðingar um nýggjan sáttmála tann 4. mai 2023.</s>
-            <s xml:lang="fo" cert="high" xml:id="gomigdgwfi">24. august 2023 varð Semingsstovnurin boðsendur, tí staðfest var, at partarnir komu ikki víðari við samráðingunum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="kmw5gzus32">Semingsuppskot varð lagt fyri partarnar 15. september 2023.</s>
-            <s xml:lang="fo" cert="high" xml:id="ljtp5bl32b">Fíggjarmálaráðið tók undir við semingsuppskotinum, og Felagið Føroyskir Sjúkrarøktarfrøðingar vrakaði semingsuppskotið.</s>
-            <s xml:lang="fo" cert="high" xml:id="pg2bzyqzgd">26. september 2023 kallaði Semingsstovnurin aftur partarnar saman á fund.</s>
-            <s xml:lang="fo" cert="high" xml:id="zinjdp7igm">Partarnir vóru tó so langt frá hvørjum øðrum, at Semingsstovnurin tann 27. september 2023 á fundi við partarnar boðaði frá, at hann legði frá sær.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="aawx24kxno">28. september 2023 lýsti Felagið Føroyskir Sjúkrarøktarfrøðingar verkfall fyri allar sjúkrarøktarfrøðingar, deildarleiðarar/funktiónsleiðarar og varaleiðarar/toymisleiðarar frá mánadegnum 2. oktober kl. 8.</s>
-            <seg xml:lang="fo">Verkfallið er á hesum deildum:</seg>
-          </p>
-          <p rend="bold">
-            <seg xml:lang="fo">Landssjúkrahúsið:</seg>
-          </p>
-          <list>
-            <item>A2</item>
-            <item>A3</item>
-            <item>B5</item>
-            <item>B6</item>
-            <item>B7</item>
-            <item>B8</item>
-            <item>G1</item>
-            <item>G4</item>
-            <item>P40/PI</item>
-            <item>P40/PA</item>
+        <div type="section">
+          <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
+          <list rend="simple list-of-appendices">
+            <item><label>Fylgiskjal 1:</label> Sáttmáli millum Felagið Føroyskir Sjúkrarøktafrøðingar og Fíggjarmálaráðið 2019/2022</item>
+            <item><label>Fylgiskjal 2:</label> Skriv frá Sjúkrahúsverkinum um avleiðingar av vantandi undantøkum</item>
           </list>
-          <p rend="bold">
-            <seg xml:lang="fo">Klaksvíkar Sjúkrahús:</seg>
-          </p>
-          <list>
-            <item>KS-3-seingjadeildin</item>
-          </list>
-          <p rend="bold">
-            <seg xml:lang="fo">Suðuroyar Sjúkrahús:</seg>
-          </p>
-          <list>
-            <item>Seingjadeildin</item>
-          </list>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ywhxmjgqdl">29. september 2023 sendir leiðslan í Sjúkrahúsverkinum Felagnum Føroyskir Sjúkrarøktar-frøðingar listan við teimum undantøkum, sum hon metir vera neyðug.</s>
-            <s xml:lang="fo" cert="high" xml:id="oozhgjgubb">Seinni sama dag játtar Felagið Føroyskir Sjúkrarøktarfrøðingar teimum undantøkum, sum felagið metir eru neyðug til at reka seingjadeildirnar forsvarliga.</s>
-            <s xml:lang="fo" cert="high" xml:id="xlnvhpxu5c">Felagið biður um fleiri upplýsingar við atliti at nøkrum umbønum um undantøk, so at sjúklingatrygdin ikki kemur í vanda.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="enymnb5z4t">30. september 2023 verður verkfallið tikið aftur á medisinsku seingjadeildini B7 á Landssjúkrahúsinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="okcl4v6krr">Til ber ikki at fremja verkfallið, við tað at deildin longu frammanundan er mannað við minni enn minstumanning.</s>
-            <s xml:lang="fo" cert="high" xml:id="ssfi6w3qq7">Nakrar av umbønunum til psykiatrisku seingjadeildirnar verða játtaðar.</s>
-            <s xml:lang="fo" cert="high" xml:id="vnkncpfqmd">Undantøkini verða givin til hósmorgunin 5. oktober 2023 kl. 8.</s>
-            <s xml:lang="fo" cert="high" xml:id="x6iugszlrb">Undantøkini svara til, at deildirnar eru mannaðar við vikuskiftismanning.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="c2otaxxsww">4. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja tey flestu av undantøkunum til fríggjadagin 6. oktober 2023 kl. 16.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="zyszmqsna3">6. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja undantøkini til týsmorgunin 10. oktober 2023.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="sz2jy64q6w">9. oktober 2023 verður verkfallið hert til at fevna um skurðambulatoriið, B3, á Landssjúkrahúsinum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="cqwzb4c55r">11. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar og deildarleiðarar á medisinska ambulatoriinum á Landssjúkrahúsinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="hkshytvnq7">Krabbamein, giktasjúkur, maga- og tarmsjúkur, blóðsjúkur, palliativa toymið og blóðdialýsa verða undantikin.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="tfvxzlhy65">13. oktober 2023 verður verkfallið hert á Klaksvíkar Sjúkrahúsi og Suðuroyar Sjúkrahúsi.</s>
-            <s xml:lang="fo" cert="high" xml:id="fz6glq2ufm">Verkfallið fevnir um allar sjúkrarøktarfrøðingar, deildarleiðarar/funktiónsleiðarar og varaleiðarar/toymisleiðarar, sum starvast á hesum deildum á Klaksvíkar Sjúkrahúsi: Almen kirurgisk ambulatorium, Ortopædisk ambulatorium, Urologisk ambulatorium og Svøvnambulatorium.</s>
-            <s xml:lang="fo" cert="high" xml:id="p6bbjp2n2d">Og á Suðuroyar Sjúkrahúsi: Kardiologisku starvsstovuni, Pínuklinikkini og ambulantum virksemi á skurðgongini.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ptv4znxmys">17. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar og deildarleiðarar á Skurðdeildini á Klaksvíkar Sjúkrahúsi.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="cxfwmosk3s">18. oktober 2023 verður verkfallið hert til at fevna um allar sjúkrarøktarfrøðingar, deildarleiðarar og varaleiðarar á Skurðdeildini á Landssjúkrahúsinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="ym7bzr63gx">Verkfallið fevnir ikki um Skopieindina.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="f6wnnv43mo">Samband er millum partarnar 27. og 28. oktober 2023, men Semingsstovnurin metir ikki grundarlag vera fyri at fara undir nýggja semingsroynd.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="l5iwpsfwli">30. oktober 2023 játtar Felagið Føroyskir Sjúkrarøktarfrøðingar at leingja undantøkini eitt samdøgur til týsdagin 31. oktober 2023 kl. 16.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="spgpdchet6">Meðan verkfallið hevur verið, hevur Felagið Føroyskir Sjúkrarøktarfrøðingar veitt undantøk, so at tær verkfalsraktu deildirnar í høvuðsheitum hava verið mannaðar við vikuskiftismanning.</s>
-            <s xml:lang="fo" cert="high" xml:id="dp7bgalzjd">Sjúkrahúsverkið hevur ikki mett, at sjúklingatrygdin hevur verið í vanda.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="blshyyoaua">Felagið Føroyskir Sjúkrarøktarfrøðingar boðaði 1. november Sjúkrahúsverkinum frá, at undantøkini verða longd til 2. november kl. 16, men at eftir hetta verða eingi undantøk veitt á seingjardeildum, skurðdeildum og ambulatorium.</s>
-            <s xml:lang="fo" cert="high" xml:id="gedeqwwpkq">Sjúkrahúsverkið metir, at verða eingi undantøk veitt á hesum deildum, kemur sjúklingatrygdin hjá borgarum í vanda.</s>
-            <s xml:lang="fo" cert="high" xml:id="rsbkpm6wjt">Sí fylgiskjal 2.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="lbkaps5qdp">Landsstýrið sær sær ongan annan útveg enn at leggja uppskot fyri løgtingið við tí endamáli at enda tann partin av verkfallinum, sum kann hava vanda fyri sjúklingatrygdina við sær.</s>
-          </p>
         </div>
-        <div type="section" n="1.2.">
-          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Álit</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-17"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <ref target="https://www.logting.fo/documents/58476"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2023-11-02">02.11.2023</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <bp n="1"/>
+        <div>
+          <head rend="bold">Álit í løgtingsmáli nr. 35/2023: Uppskot til løgtingslóg um at leingja sáttmálan millum øðrumegin Felagið Føroyskir Sjúkrarøktarfrøðingar og hinumegin Fíggjarmálaráðið fyri ávís størv í Sjúkrahúsverkinum o.ø.</head>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="dztvary76l">Økið er ikki regulerað við lóg, og útgangsstøðið er, at arbeiðsmarknaðarpartarnir, í hesum førinum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, regulera arbeiðs- og lønarviðurskifti í sáttmála sínámillum.</s>
+            <s xml:id="yaigztt7st">Løgmaður hevur lagt málið fram tann 2. november 2023, og eftir 1. viðgerð tann 2. november 2023 er tað beint Rættarnevndini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="m774lkot4q">Í einum sáttmálaskeiði hava partarnir friðarskyldu, og verður sáttmálin longdur, hava partarnir skyldu at halda seg til treytirnar í sáttmálanum.</s>
-            <s xml:lang="fo" cert="high" xml:id="k32nhg2z7e">Hóast tað ikki er vanligt, kann løgtingið samtykkja eina lóg, sum regulerar treytirnar millum partarnar á arbeiðsmarknaðinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="ab3erxgar3">Í Føroyum eru fordømi frá t.d. 1988, løgtingsmál nr. 60/1988, frá 2001, løgtingsmál 56/2000, og frá 2005, løgtingsmál nr. 103/2004.</s>
+            <s xml:id="ifonzbrjir">Nevndin hevur viðgjørt málið á fundi tann 2. november 2023.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="cyfuotobic">Í grannalondunum hava partarnir á arbeiðsmarknaðinum gjørt avtalur um skipanir, sum skulu tryggja, at lív og heilsa herundir sjúklingatrygdin hjá borgarum ikki koma í vanda, tá ið arbeiðssteðgur er.</s>
-            <s xml:lang="fo" cert="high" xml:id="myniunomce">Partarnir á føroyska arbeiðsmarknaðinum hava ikki gjørt avtalur um slíkar skipanir.</s>
-            <s xml:lang="fo" cert="high" xml:id="gf7fzx77be">Tí síggja vit, at arbeiðssteðgur á ávísum økjum í samfelagnum kann hava við sær, at lív og heilsa hjá borgarum verða sett í vanda.</s>
+            <s xml:id="axexespyu2">Undir viðgerðini hevur nevndin havt fund við Margit Stórá, landsstýriskvinnu í heilsumálum, saman við umboðum fyri leiðsluna í Sjúkrahúsverkinum og Aksel V. Johannesen, løgmann.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high" xml:id="gv3prrbeag">Arbeitt hevur verið við at fáa í lag eina skipan, har tryggjað verður, at borgarar hava neyðuga verju, og at neyðug tilbúgving er, tá ið samráðingar eru á arbeiðsmarknaðinum, og verkfall verður lýst.</s>
-            <s xml:lang="fo" cert="high" xml:id="tgpk6ptdge">Táverandi Umhvørvis- og vinnumálaráðið heitti tann 1. desember 2020 á formansskapin í Fasta Gerðarrætti um at kanna møguleikarnar fyri at fara undir eina tilgongd, ið skuldi tryggja, at føroyski arbeiðsmarknaðurin hevði neyðuga verju ella tilbúgving í sambandi við verkfall.</s>
-            <s xml:lang="fo" cert="high" xml:id="orbdmzkbzx">Formansskapurin tók uppgávuna á seg og hevði fundir við bæði arbeiðstakarafeløg og arbeiðsgevarar á almenna arbeiðsmarknaðinum.</s>
+            <s xml:id="dpk2uz6xbt">Undir viðgerðini hevur nevndin býtt seg í ein meiriluta og ein minniluta.</s>
           </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qqxrp3kvbu">Formansskapurin í Fasta Gerðarrætti boðaði á vári 2021 frá, at Kommunala Arbeiðsgevarafelagið og Fíggjarmálaráðið høvdu boðað frá, at tey vóru sinnað at fara undir eina tilgongd at gera eina skipan, ið kundi tryggja føroyska arbeiðsmarknaðinum neyðuga verju ella tilbúgving í sambandi við arbeiðssteðg.</s>
-            <s xml:lang="fo" cert="high" xml:id="mkzu72dytp">Hinvegin boðaði Fakfelagssamstarvið, t.e. Pedagogfelagið, Lærarafelagið, Felagið Føroyskir Sjúkrarøktarfrøðingar, Akademikarafelagið, Havnar Arbeiðskvinnufelag og Starvsfelagið, í februar 2021 formansskapinum í Fasta Gerðarrætti frá síni greiðu niðurstøðu: Tey vildu ikki hava, at arbeitt varð víðari við málinum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="do2h2u4fha">Formansskapurin í Fasta Gerðarrætti boðaði tí táverandi Umhvørvis- og vinnumálaráðnum frá, at meira varð ikki gjørt við málið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="qcrrpfplw5">Lógaruppskotið, sum nú verður lagt fyri løgtingið, er ein greið ábending um, at verandi skipan á arbeiðsmarknaðinum ikki er nøktandi, við tað at farið verður so harðliga fram, at vandi er fyri lívi og heilsu hjá ávísum borgarum.</s>
-            <s xml:lang="fo" cert="high" xml:id="gf4ejeu7kp">Hetta uppskotið fyriheldur seg ítøkiliga til verkfallið, sum Felagið Føroyskir Sjúkrarøktarfrøðingar hevur sett í verk.</s>
-          </p>
-        </div>
-        <div type="section" n="1.3.">
-          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ynrp67soyn">Endamálið við uppskotinum er at tryggja, at verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar ikki elvir til vanda fyri sjúklingatrygdini hjá borgarum, ið hava tørv á viðgerð, røkt o.tíl.</s>
-          </p>
-        </div>
-        <div type="section" n="1.4.">
-          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ggl7x24pn5">Sambært uppskotinum verður tað Sjúkrahúsverkið, sum skal meta um og gera av, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan.</s>
-            <s xml:lang="fo" cert="high" xml:id="eas3ot3z6b">Teir limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa skyldu til at fara til arbeiðis og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023.</s>
-            <s xml:lang="fo" cert="high" xml:id="lpctqpum6w">Sáttmálin er lagdur við sum fylgiskjal 1 til uppskotið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="wg66salnrg">Sjúkrahúsverkið skal kalla starvsfólk inn eftir somu grundreglum, sum undantøkini higartil eru givin eftir, soleiðis at tryggjað verður, at sjúklingatrygdin ikki kemur í vanda.</s>
-            <s xml:lang="fo" cert="high" xml:id="ux52e35qhc">Tí kann væntast, at støðan, sum hevur verið undir verkfallinum higartil, fer at halda fram, eftir at lógaruppskotið er samtykt.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fgmlkpjcmv">Verður Felagið Føroyskir Sjúkrarøktarfrøðingar ósamt við eina avgerð hjá Sjúkrahúsverkinum um, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan, skal felagið kunna leggja spurningin fyri eina nevnd, sum verður mannað við trimum limum, har stjórin í Fólkaheilsustýrinum verður formaður, og Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar kunnu velja hvør sín lim.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="ruifota2hf">Verður nevndin ikki samd, skal formaðurin kunnu taka endaliga avgerð.</s>
-            <s xml:lang="fo" cert="high" xml:id="bssu2o75xj">Nevndin skal taka avgerð innan 24 tímar, eftir at áheitan er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar um at viðgera málið.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="iguj6fgpjv">Um so skuldi verið, at verkfallið verður víðkað til eisini at fevna um onnur økir, verður sami leistur at nýta til at taka avgerð um neyðug undantøk frá verkfallinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="klvt2m7suq">Verður verkfallið t.d. víðkað til at fevna um sjúkrarøktarfrøðingar, sum starvast hjá Almannaverkinum, verður tað Almannaverkið, sum í fyrstu syftu skal kunna taka avgerð um, hvørji undantøk ið eru neyðug.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="bpjjfha3kk">Lógin kemur í gildi, tá ið hon er kunngjørd, og fer úr gildi, tá ið nýggjur sáttmáli er undirskrivaður millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið at koma í staðin fyri sáttmálan, sum var galdandi millum partarnar til 1. januar 2023.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="yokdcdz6yk">Hóast tað ikki er vanligt, at politiska skipanin lóggevur í trætumálum millum partarnar á arbeiðsmarknaðinum, og landsstýrið heldur, at tað eigur at vera tað allarseinasta amboðið, sum nýtt verður í sambandi við eina sáttmálatrætu, verður tað í hesum førinum mett at vera alneyðugt við politiskari uppíblanding upp í verandi sáttmálatrætu millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið.</s>
-            <s xml:lang="fo" cert="high" xml:id="ogqjmefcqs">Tó metir landsstýrið hetta inntrivið í samráðingarrættin og stríðsrættin hjá pørtunum at vera so varligt sum gjørligt, við tað at lóggivið bara verður um ein part av limunum hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, t.e., har tað stendur um lív ella álvarsligur heilsuvandi er.</s>
-          </p>
-        </div>
-        <div type="section" n="1.5.">
-          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="hfepjl3mhf">Uppskotið hevur ikki verið til ummælis.</s>
-            <s xml:lang="fo" cert="high" xml:id="ov5unxoyzz">Við tað at málið hevur bráðskund, er vikið frá vanligum mannagongdum viðvíkjandi hoyring av viðkomandi pørtum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="we5gdl6ct5">Leiðslan í Sjúkrahúsverkinum metir ikki, at uppskotið loysir avbjóðingina á nøktandi hátt.</s>
-            <s xml:lang="fo" cert="high" xml:id="h4b65hiszd">Leiðslan hevur gjørt vart við, at hetta lógaruppskotið sannlíkt fer at hava við sær, at samstarvið og álitið millum leiðslu og starvsfólk í Sjúkrahúsverkinum tekur skaða.</s>
-            <s xml:lang="fo" cert="high" xml:id="fjvn777qyg">Somuleiðis vísir leiðslan á, at tað kann gerast trupult at manna tey umbidnu størvini, um lógaruppskotið elvir til illvilja hjá sjúkrarøktarfrøðingunum, ið starvast í Sjúkrahúsverkinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="vmsbtzia25">Tí hevur leiðslan í Sjúkrahúsverkinum eitt staðiligt ynski um, at málið var loyst á annan hátt.</s>
-          </p>
-        </div>
-      </div>
-      <div type="chapter" n="2">
-        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
-        <div type="section" n="2.1.">
-          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="eg47pbd3hs">Uppskotið hevur ávísar fíggjarligar avleiðingar fyri landið, við tað at landskassin ber útreiðslurnar av løn til teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum verða bidnir um at koma aftur til arbeiðis.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="byar4polvh">Verður ein nevnd sett sambært § 2 at taka avgerð, kann hetta væntast at hava útreiðslur við sær.</s>
-            <s xml:lang="fo" cert="high" xml:id="d2abavnyw3">Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
-            <s xml:lang="fo" cert="high" xml:id="gejgp2w4pk">Landið ber útreiðslurnar av at samsýna formanninum.</s>
-          </p>
-        </div>
-        <div type="section" n="2.2.">
-          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="vza3spvrxh">Uppskotið fær fyrisitingarligar avleiðingar fyri Sjúkrahúsverkið.</s>
-          </p>
-        </div>
-        <div type="section" n="2.3.">
-          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="x4sm4zndl7">Uppskotið fær ikki avleiðingar fyri vinnuna.</s>
-          </p>
-        </div>
-        <div type="section" n="2.4.">
-          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="okcllyv6gi">Uppskotið fær ikki avleiðingar fyri umhvørvið.</s>
-          </p>
-        </div>
-        <div type="section" n="2.5.">
-          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="elk2pxccuh">Mett verður ikki, at uppskotið fær avleiðingar fyri serstøk økir í landinum.</s>
-          </p>
-        </div>
-        <div type="section" n="2.6.">
-          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="gbc3hx7noe">Uppskotið fær avleiðingar fyri teir limirnar hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum um at møta til arbeiðis, av tí at teirra frávera elvir til vanda fyri sjúklingatrygdina.</s>
-            <s xml:lang="fo" cert="high" xml:id="orbuxvsv7p">Til nýggjur sáttmáli er gjørdur millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, verða limirnir at arbeiða undir treytunum í sáttmálanum, sum var í gildi til 1. januar 2023.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="nlmp2jr5k2">Harafturat fær lógaruppskotið avleiðingar fyri teir sjúklingarnar, sum høvdu kunnað komið í lívs- ella heilsuvanda, fekk Sjúkrahúsverkið ikki tey neyðugu undantøkini.</s>
-            <s xml:lang="fo" cert="high" xml:id="voauhrvcso">Uppskotið hevur við sær, at alneyðug sjúkrarøkt kann verða veitt, við tað at ávísir teir sjúkrarøktarfrøðingar ikki kunnu fara í verkfall uttan at bróta friðarskylduna.</s>
-          </p>
-        </div>
-        <div type="section" n="2.7.">
-          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="h3kufq4732">ILO-konventión 87, Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87), er galdandi fyri Føroyar.</s>
-            <s xml:lang="fo" cert="high" xml:id="hm776wo2th">Henda konventiónin ásetur ikki ítøkiliga stríðsrættin hjá feløgunum á arbeiðsmarknaðinum, men setur sum fyritreyt, at stríðsrætturin er til, sbr. art. 3, 8 og 10 í konventiónini.</s>
-            <s xml:lang="fo" cert="high" xml:id="uikloaeypg">ILO-eftirlitsstovnarnir hava ógvuliga stranga venju, tá ræður um lógarinntriv í stríðsrættin.</s>
-            <s xml:lang="fo" cert="high" xml:id="bgcth6ayjs">ILO-stovnarnir góðtaka bara inntriv orsakað av serliga týdningarmiklum samfelagstænastum (“essential services”).</s>
-            <s xml:lang="fo" cert="high" xml:id="f6ikdstv7n">Tað merkir, at arbeiðsstríðið (her verkfallið) setur lív, heilsu ella persónligu trygdina hjá borgarunum í vanda.</s>
-            <s xml:lang="fo" cert="high" xml:id="s54alne5ya">T.d. góðtók ILO-nevndin fyri frælsi at skipa seg í feløg (organisationsfrihedskomité’in) eitt lógarinntriv í eitt stríð hjá donskum sjúkrarøktarfrøðingum í 1995, av tí at sjúkrahúsverkið varð mett at koma undir hugtakið “essential services” (Kelda: Jens Kristiansen, Grundlæggende Arbejdsret, 2. Útgáva, Jurist- og Økonomforbundets Forlag 2009, s. 190-191).</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="cytnivbuzg">Vísandi til tað omanfyri lýsta verður hetta lógaruppskotið ikki mett at vera í ósamsvari við ILO-konventión 87.</s>
-          </p>
-        </div>
-        <div type="section" n="2.8.">
-          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
-          <div type="subsection">
-            <head rend="italic">Hoyvíkssáttmálin</head>
+          <div>
             <p>
-              <s xml:lang="fo" cert="high" xml:id="l7n6h7todx">Hoyvíkssáttmálin er óviðkomandi fyri hetta lógaruppskotið.</s>
+              <seg><hi rend="bold">Meirilutin</hi> (Hervør Pálsdóttir, Kristianna Winther Poulsen, Kim Durhuus, Henrik Old og Helgi Abrahamsen) hevur hesar viðmerkingar:</seg>
+            </p>
+            <p>
+              <s xml:id="qteeczgkok">Støðan í Sjúkrahúsverkinum er sera hættislig.</s>
+              <s xml:id="pspjfyvu73">Sjúkrarøktarfrøðingarnir eru farnar til hús, og sjúkrahúsini fáa ikki veitt neyðuga røkt og viðgerð.</s>
+              <s xml:id="iyuv4pn5ww">Um fáar tímar gerst støðan enn hættisligari.</s>
+            </p>
+            <p>
+              <s xml:id="ubpuq7nmd3">Sum grundtreyt eigur Løgtingið ikki leggja seg út í samráðingar millum partarnar á arbeiðsmarknaðinum.</s>
+              <s xml:id="eatdu3seig">Tær trætur, sum eru, skulu loysast í samráðingum millum partarnar.</s>
+            </p>
+            <p>
+              <s xml:id="xnkoszld3a">Hendan støðan, vit standa í, er ein neyðstøða, nú vandi er fyri lívi og heilsu í Sjúkrahúsverkinum.</s>
+              <s xml:id="hbzwzsv2aa">Meirilutin ásannar, at hendan støðan kann ikki standa við.</s>
+              <s xml:id="mkiqpaekob">Meirilutin vónar tí inniliga, at sáttmálapartarnir taka uppaftur samráðingarnar, so at ósemjan verður loyst skjótast gjørligt.</s>
+            </p>
+            <p>
+              <s xml:id="wuf2mvbmyh">Við hesum viðmerkingum tekur meirilutin undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
+            </p>
+            <div>
+              <head rend="underline">Harumframt hevur Helgi Abrahamsen hesar viðmerkingar:</head>
+              <p>
+                <s xml:id="rnsd45md2d">Eingin ivi er um, at tað, at samgongan hevur lovað útvaldum fakbólkum lønarlyft, hevur gjørt samráðingarnar sera truplar.</s>
+                <s xml:id="tu5hf6vw6u">Hetta hevur gjørt, at aðrir fakbólkar, sum til dømis sjúkrarøktarfrøðingarnir, sum ikki eru umfataðir av lønarlyftinum, eisini vilja hava nakað í sín part.</s>
+                <s xml:id="nrnkuv56yy">Tað var skeivt av samgonguni at áseta eitt politiskt lønarlyft, men um lønarlyft skal gevast lønarbólkum innan heilsuøkið, so eiga sjúkrarøktarfrøðingarnir eisini at vera við.</s>
+                <s xml:id="vzqxxd33xo">Lønir eiga at verða ásettar við lønarsamráðingum millum partarnar á arbeiðsmarknaðinum og ikki eftir politiskum ynskjum.</s>
+              </p>
+              <p>
+                <s xml:id="ffxboinrnk">Tó kann ikki síggjast burtur frá, at støðan í heilsuverkinum, orsakað av lønartrætuni, hevur sett fólk, ið hava brúk fyri heilsuhjálp, í eina trupla støðu.</s>
+                <s xml:id="y3s6epo2p2">Rættarnevndin hevur fingið upplýst, at støðan í løtuni er rættiliga hættislig.</s>
+                <s xml:id="lbpawp6boa">Havandi hesa støðuna í huga, har lív og heilsa hjá fólki stendur uppá spæl, er eingin annar møguleiki enn at taka undir við uppskotinum.</s>
+              </p>
+            </div>
+          </div>
+          <pb n="2"/>
+          <div>
+            <p>
+              <s xml:id="cvwpnua5if"><hi rend="bold">Minnilutin</hi> (Bárður á Lakjuni og Steffan Klein Poulsen) hevur hesar viðmerkingar:</s>
+            </p>
+            <p>
+              <s xml:id="rrzbs3xkbj">Samgongan legði út við at geva nøkrum útvaldum fakbólkum eitt politiskt ásett lønarlyft.</s>
+              <s xml:id="dhwygik5e7">Samstundis sum nakrir bólkar verða valdir til, velur man aðrar frá.</s>
+              <s xml:id="vf5l7vkylj">Hetta hevur á ongan hátt gjørt samráðingarnar við frávaldu fakfeløgini lættari.</s>
+            </p>
+            <p>
+              <s xml:id="vhnywpsvch">Hetta var byrjanin uppá eitt brot á fría samráðingarrættin.</s>
+            </p>
+            <p>
+              <s xml:id="m5fk6d3kfp">Í dag kemur samgongan við einum uppskoti, har tey enn einaferð gera seg inn á tann fría samráðingarrættin.</s>
+              <s xml:id="x4w4fsueiw">Minnilutin metir ikki, at tað er rætt, at man frá politiskari síðu blandar seg í arbeiðsmarknaðarmál á hendan hátt.</s>
+            </p>
+            <p>
+              <s xml:id="olkts6il3j">Minnilutin metir heldur ikki, at tað er rætt, at samgongan á hendan hátt roynir at tiga málið burtur, og at viðgerðin skal skundast ígjøgnum, uttan at hava havt fleiri av teimum pørtunum, ið hendan trætan snýr seg um, inni til hoyring.</s>
+              <s xml:id="fiwxhsfsv4">Til 1. viðgerð høvdu tveir av samgonguflokkunum onki framsøgufólk, og til nevndarviðgerðina er málið blivið skundað ígjøgnum, so at man ikki hevur havt møguleikan at hoyrt allar partar, í hesum føri sjúkrarøktarfrøðingarnar.</s>
+              <s xml:id="cd3lnsy6xt">Tað skaðar fólkaræðisligu gongdina í viðgerðini, at tingfólk ikki fáa møguleika at fáa lýst málið frá øllum síðum, og tí heldur ikki eru nóg væl ílætin til at taka støðu í málinum.</s>
+            </p>
+            <p>
+              <s xml:id="kv5gxh3asz">Minnilutin ásannar, at tað er sera álvarsamt, at tað kann standa um heilsuna hjá fólki, um hendan støðan sleppur at halda fram.</s>
+              <s xml:id="pk3ueokenu">Tó vil minnilutin vísa á tær viðmerkingar, ið leiðslan í Sjúkrahúsverkinum hevur í uppskotinum, og sum enn eina ferð blivu staðfestar undir nevndarviðgerðini: Hetta uppskotið loysir ikki avbjóðingina á nøktandi hátt, og hevur tað við sær, at samstarvið og álitið millum leiðslu og starvsfólk í Sjúkrahúsverkinum tekur skaða.</s>
+              <s xml:id="pb6kn5tjnb">Leiðslan í Sjúkrahúsverki Føroya hevur eitt staðiligt ynski um, at málið verður loyst á annan hátt, og hesum er minnilutin eisini samdur í.</s>
+            </p>
+            <p>
+              <s xml:id="ibvenjpnfl">Minnilutin mælir til, at partarnir fara aftur til samráðingar og finna eina haldbara loysn á trætuni.</s>
+              <s xml:id="pheb36pfzs">Hetta uppskotið loysir ikki trupulleikan, men ger bert gjónna millum partarnar størri.</s>
+            </p>
+            <p>
+              <s xml:id="bfdttzmxe2">Við hesum viðmerkingunum tekur minnilutin ikki undir við málinum og mælir Løgtinginum frá at samtykkja uppskotið.</s>
             </p>
           </div>
-          <div type="subsection">
-            <head rend="italic">Evropeiski mannarættindasáttmálin</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="lzhpfsqlbv">Evropeiski mannarættindasáttmálin, “Anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention”, varð settur í gildi fyri Føroyar við lóg tann 1. mai 2000.</s>
-              <s xml:lang="fo" cert="high" xml:id="bcddkmzyjx">Art. 11, stk. 1, í sáttmálanum verjir rættin til felagsfrælsi (forsamlings- og foreningsfrihed).</s>
-              <s xml:lang="fo" cert="high" xml:id="ynakuritox">Hóast Evropeiski mannarættindadómstólurin í dómi tann 6. februar 1976 (Schmidt og Dahlström m. Svøríki) staðfesti, sbr. pkt. 34, at art. 11, stk. 1, í evropeiska mannarætindasáttmálanum ikki gevur feløgum sum so serlig rættindi, hevur dómstólurin í 2008 (Demir og Baykara m. Turkalandi) staðfest rættin til at samráðast.</s>
-              <s xml:lang="fo" cert="high" xml:id="codacm4m2y">Í 2009 staðfesti dómstólurin eisini stríðsrættin (Yapi-Yol Sen m. Turkalandi).</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="uujczexgjp">Art. 11, stk. 2, í evropeiska mannarættindasáttmálanum heimilar bara inntriv í felagsfrælsið, eisini samráðingar- og stríðsrættin, um inntrivið verður ásett við lóg, er neyðugt í einum fólkaræðisligum samfelag og fremur eitt lógligt endamál.</s>
-              <s xml:lang="fo" cert="high" xml:id="lx72asevtx">Lógligu endamálini eru tjóðartrygdin ella almenni tryggleikin, at forða fyri órógv ella brotsverki, at verja heilsu og siðalag ella at verja rættindi og frælsi hjá øðrum.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="fya44wfq3q">Hetta lógaruppskotið skal tryggja, at sjúklingatrygdin ikki kemur í vanda, og harvið verja lív og heilsu og er tí í samsvari við evropeiska mannarættindasáttmálan.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="italic">Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="i7mqau5oj7">Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek, varð settur í gildi fyri Føroyar tann 23. august 2009 við “Bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap”.</s>
-              <s xml:lang="fo" cert="high" xml:id="hkdg5trjbd">Sáttmálin áleggur limalondunum at menna og fremja politikk, lóggávu og fyrisitingarmál, sum tryggja rættindi hjá fólki, ið ber brek.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="n2gibk46pj">Sáttmálin áleggur m.a. limalondunum at taka øll hóskandi lóggávustig til at verja fólk, ið ber brek, bæði innanhýsis og uttanhýsis, fyri eini og hvørjari eyðræning, harðskapi og misnýtslu.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="ludizxzrsu">Lógaruppskotið verður mett at vera í samsvari við sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
-            </p>
-          </div>
+          <closer>
+            <ab rend="bold center">Rættarnevndin, 2. november 2023</ab>
+            <signed>
+              <persName>Hervør Pálsdóttir <lb/><roleName>forkvinna</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Helgi Abrahamsen <lb/><roleName>næstformaður</roleName></persName>
+            </signed>
+            <signed>
+              <persName>Kristianna W. Poulsen</persName>
+            </signed>
+            <signed>
+              <persName>Henrik Old </persName>
+            </signed>
+            <signed>
+              <persName>Kim Durhuus </persName>
+            </signed>
+            <signed>
+              <persName>Steffan Klein Poulsen</persName>
+            </signed>
+            <signed>
+              <persName>Bárður á Lakjuni</persName>
+            </signed>
+          </closer>
         </div>
-        <div type="section" n="2.9.">
-          <head rend="bold"><label>2.9.</label> Markaforðingar</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="f62qqqmw6a">Uppskotið hevur ikki markaforðingar við sær.</s>
-          </p>
-        </div>
-        <div type="section" n="2.10.">
-          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="nf2vlsr2pv">Uppskotið hevur ávirkan á verkfalsrættin, men verður mett at vera eitt neyðugt inntriv.</s>
-            <s xml:lang="fo" cert="high" xml:id="nhvysk7epo">Uppskotið hevur ongar ásetingar um revsing ella sektir.</s>
-          </p>
-        </div>
-        <div type="section" n="2.11.">
-          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="sr54kjh5gc">Uppskotið áleggur ikki skattir og avgjøld.</s>
-          </p>
-        </div>
-        <div type="section" n="2.12.">
-          <head rend="bold"><label>2.12.</label> Gjøld</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="noh2ueewg4">Sambært uppskotinum kann ein nevnd verða sett at viðgera undantøk til verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
-            <s xml:lang="fo" cert="high" xml:id="zgff7kxf5m">Ásett er, at Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
-            <s xml:lang="fo" cert="high" xml:id="daiiuitmzk">Landið ber útreiðslurnar av at samsýna formanninum.</s>
-          </p>
-        </div>
-        <div type="section" n="2.13.">
-          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="hrp5j3mhs3">§ 1, stk. 3, í uppskotinum áleggur limum í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum, at fara til arbeiðis, fáa teir boð um tað frá Sjúkrahúsverkinum.</s>
-            <s xml:lang="fo" cert="high" xml:id="sh6nog2gru">Sambært § 3 er tað sama galdandi, verður verkfallið víðkað til eisini at fevna um onnur økir.</s>
-            <s xml:lang="fo" cert="high" xml:id="rwspw35z5s">Í tí førinum verður tað viðkomandi stovnsleiðsla, sum sendir boð eftir limunum at koma til arbeiðis.</s>
-          </p>
-        </div>
-        <div type="section" n="2.14.">
-          <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fwkzhlidkq">Uppskotið heimilar Sjúkrahúsverkinum at gera av, hvørjir limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum, skulu vera undantiknir frá verkfallinum og arbeiða sambært sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023.</s>
-          </p>
-        </div>
-        <div type="section" n="2.15.">
-          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="zjz3mz3yvq">Uppskotið gevur ikki almennum myndugleikum atgongd at privatari ogn.</s>
-          </p>
-        </div>
-        <div type="section" n="2.16.">
-          <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
-          <p>
-            <s xml:lang="fo" cert="high" xml:id="fuwmuk6xjy">Uppskotið verður ikki mett at hava aðrar avleiðingar enn tær omanfyri tilskilaðu.</s>
-          </p>
-        </div>
-        <div type="section" n="2.17.">
-          <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
-          <table>
-            <row role="label">
-              <cell>Umhvørvisligar avleiðingar</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Sosialar avleiðingar</cell>
-              <cell/>
-              <cell/>
-              <cell>Nei</cell>
-              <cell>Ja</cell>
-              <cell/>
-            </row>
-          </table>
-          <table>
-            <row role="label">
-              <cell/>
-              <cell>Fyri landið ella landsmyndugleikar</cell>
-              <cell>Fyri kommunalar myndugleikar</cell>
-              <cell>Fyri pláss ella øki í landinum</cell>
-              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
-              <cell>Fyri vinnuna</cell>
-            </row>
-            <row>
-              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-            </row>
-            <row>
-              <cell>Umsitingarligar avleiðingar</cell>
-              <cell>Ja</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-              <cell>Nei</cell>
-            </row>
-          </table>
-        </div>
-      </div>
-      <div type="chapter" n="3">
-        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
-        <div type="section" n="3.1.">
-          <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
-          <div type="subsection">
-            <head rend="bold">Til § 1</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="iutk5hpr2x">Í § 1, stk. 1, er ásett, hvønn løgtingslógin skal galda fyri.</s>
-              <s xml:lang="fo" cert="high" xml:id="dqoelxcfgb">Ásett er, at lógin skal galda fyri teir limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum eru í starvi hjá Sjúkrahúsverkinum, og sum ikki kunnu verða fevndir av arbeiðssteðgi, við tað at vandi kann vera fyri sjúklingatrygdini, verður neyðuga sjúkrarøktin ikki veitt.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="gjwq3pioa2">Endamálið við ásetingini er, at Sjúkrahúsverkið skal kunna veita trygd sjúklingatrygdini.</s>
-              <s xml:lang="fo" cert="high" xml:id="z5jewwzdxg">Hetta merkir ikki, at tænastustigið ikki lækkar, ella at gerandisdagurin ikki verður órógvaður.</s>
-              <s xml:lang="fo" cert="high" xml:id="ennkaa42wp">Nær talan kann sigast at vera um vanda fyri sjúklingatrygdini, veldst um eina ítøkiliga meting, sum tað skal liggja á Sjúkrahúsverkinum at gera.</s>
-              <s xml:lang="fo" cert="high" xml:id="whnngykn6c">Metingin skal gerast eftir sama leisti, sum undantøk higartil eru givin eftir undir verkfallinum.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="zaw3hlb2uj">Við arbeiðssteðgi meinast í hesum sambandi verkbann, verkfall, blokada og boykott og ein og hvør onnur skipað avfólkan.</s>
-              <s xml:lang="fo" cert="high" xml:id="dqs7bj4l42">Orsøkin til ásetingina er, at verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar í Sjúkrahúsverkinum kann koma nógvum sjúklingum í vandastøðu.</s>
-              <s xml:lang="fo" cert="high" xml:id="vrsrkyoe6v">Harumframt er langt millum partarnar í samráðingunum at gera nýggjan sáttmála.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="x5khyyurc7">Sambært stk. 2 skal tað liggja á Sjúkrahúsverkinum at meta um, hvussu nógvum starvsfólkum ið Sjúkrahúsverkið hevur tørv á, fyri at sjúklingatrygdin ikki kemur í vanda.</s>
-              <s xml:lang="fo" cert="high" xml:id="bqxy3xwjik">Viðkomandi limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa sostatt skyldu til at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var í gildi til 1. januar 2023.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="pii6youv4c">Tørvurin á undantøkum kann broytast, sum frá líður, tí bæði sjúklingatalið og sjúkligatørvurin kunnu broytast, eins og nýggir sjúklingar kunnu fáa tørv á seingjarinnlegging á sjúkrahúsunum.</s>
-              <s xml:lang="fo" cert="high" xml:id="ejbctzcny2">Sjúkrahúsverkið kann tí fáa bráðtørv á at fáa fleiri fólk til arbeiðis.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="lz6obn2fwr">Tilvísingin í § 1, stk. 2, til § 3 skal gera vart við, at verður verkfallið víðkað, kann tað eisini fara at liggja á øðrum enn Sjúkrahúsverkinum at taka avgerð um undantøk, sbr. eisini serligu viðmerkingarnar til § 3 niðanfyri.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="ollh5letum">Sambært ásetingini í § 1, stk. 3, fáa viðkomandi limir í Felagnum Føroyskir Sjúkrarøktar-frøðingar, sum fáa boð frá Sjúkrahúsverkinum, skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálanum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023, sbr. fylgiskjal 1.</s>
-              <s xml:lang="fo" cert="high" xml:id="cba335tt3f">Hetta merkir, at skuldi Felagið Føroyskir Sjúkrarøktarfrøðingar lagt málið fyri nevnd eftir § 2, hevur tað ikki við sær, at arbeiðsskyldan hjá limunum, sum koma undir hesa ásetingina, verður útsett.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="mjqgc6qejt">Lógin verður ikki galdandi fyri allar limirnar hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, men bara teir, sum Sjúkrahúsverkinum tørvar, fyri at sjúklingatrygdin ikki kemur í vanda.</s>
-              <s xml:lang="fo" cert="high" xml:id="cqw2pcnnsw">Tað fer at liggja á Sjúkrahúsverkinum at meta um, hvørji starvsfólk ið Sjúkrahúsverkið ikki fær verið fyriuttan.</s>
-              <s xml:lang="fo" cert="high" xml:id="fcwqoiuaxj">Viðkomandi limir í Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá Sjúkrahúsverkinum, fáa sostatt skyldu til at fylgja nevnda sáttmála.</s>
-              <s xml:lang="fo" cert="high" xml:id="vdcfx3ered">Í einum sáttmálaskeiði valdar friðarskylda.</s>
-              <s xml:lang="fo" cert="high" xml:id="gpn53jbess">Tí verður eitt og hvørt stríðsstig, tað er verkbann, verkfall, blokada ella boykott, sum ikki virðir undantøkini, brot á løgtingslógina, tá ið hon er komin í gildi.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold">Til § 2</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="zoqm3ubgqd">Sambært § 2, stk. 1, skal Felagið Føroyskir Sjúkrarøktarfrøðingar, um felagið er ósamt við eina avgerð hjá Sjúkrahúsverkinum sambært § 1, stk. 2, kunna leggja málið fyri eina nevnd, sum skal kunna taka avgerð um, hvørji starvsfólk í Sjúkrahúsverkinum skulu vera undantikin møguligum arbeiðssteðgi.</s>
-              <s xml:lang="fo" cert="high" xml:id="lqqn2c7x3x">At eitt mál verður lagt fyri nevndina, hevur ikki við sær, at skyldan sambært § 1, stk. 3, at fara til arbeiðis verður útsett, til nevndin kemur til eina niðurstøðu.</s>
-              <s xml:lang="fo" cert="high" xml:id="dens5oe7c3">Kemur nevndin til aðra niðurstøðu enn Sjúkrahúsverkið, kann Felagið Føroyskir Sjúkrarøktarfrøðingar áleggja arbeiðssteðg fyri teir limir, sum eru farnir til arbeiðis eftir § 1, stk. 2 og 3, sum nevndin ikki metir bráðneyðugan tørv vera á at hava til arbeiðis.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="up5qp37vfd">Í § 2, stk. 2, er ásett, at nevndin verður mannað við trimum limum.</s>
-              <s xml:lang="fo" cert="high" xml:id="iwe66wlcnb">Fíggjarmálaráðið velur ein lim, og Felagið Føroyskir Sjúkrarøktarfrøðingar velur ein lim.</s>
-              <s xml:lang="fo" cert="high" xml:id="k4mwn6tfid">Hesir báðir limirnir skulu síðan semjast um ein formann.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="fvmqwfs2jm">Í § 2, stk. 3, er ásett, at til formaður er valdur av limunum, sum umboða ávikavist Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar, er stjórin í Fólkaheilsustýrinum formaður.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="qxwsa2nvow">Sambært § 2, stk. 4, skal nevndin taka avgerð innan 24 tímar, eftir at áheitan sambært § 1, stk. 4, er komin frá Felagnum Føroyskir Sjúkrarøktarfrøðingar.</s>
-              <s xml:lang="fo" cert="high" xml:id="sm4qxeseza">Verður nevndin ikki samd, tekur formaðurin avgerð.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="eimiyw46gv">Í § 2, stk. 5, er ásett, at Fíggjarmálaráðið og Felagið Føroyskir Sjúkrarøktarfrøðingar bera útreiðslurnar av at samsýna hvør sínum nevndarlimi.</s>
-              <s xml:lang="fo" cert="high" xml:id="mmynnydo4l">Landið ber útreiðslurnar av at samsýna formanninum.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="eftw6qb6ok">Í § 2, stk. 6, er ásett, at ein avgerð sambært stk. 4 ikki kann kærast til annan fyrisitingarligan myndugleika.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold">Til § 3</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="u4isaawgfn">Ásetingin í § 3 verður einans viðkomandi, um verkfallið verður víðkað til onnur økir enn Sjúkrahúsverkið.</s>
-              <s xml:lang="fo" cert="high" xml:id="z6sw4d3ahr">Sum støðan er nú, er verkfall bara lýst fyri sjúkrarøktarfrøðingar, sum starvast í Sjúkrahúsverkinum.</s>
-              <s xml:lang="fo" cert="high" xml:id="sjk4ff7vln">Endamálið við hesi ásetingini er, at tað ikki skal vera neyðugt við nýggjum lógaruppskoti, um so verður, at verkfallið verður víðkað til onnur økir.</s>
-              <s xml:lang="fo" cert="high" xml:id="gywgdvhit6">Talan kundi t.d. verið um verkfall fyri sjúkrarøktarfrøðingar, sum starvast í Almannaverkinum og hjá Heilsutrygd.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="bgqfqhhhj2">Verður verkfallið hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar víðkað til at fevna um onnur økir, og semjast felagið og stovnurin ikki um, hvørji starvsfólk ið mugu vera til arbeiðis, fyri at sjúklingatrygdin ikki kemur í vanda, fer tað at liggja á viðkomandi stovnsleiðslu at taka avgerð um, hvørji starvsfólk ið skulu vera undantikin verkfallinum.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="xnjg474kmj">Viðkomandi limir hjá Felagnum Føroyskir Sjúkrarøktarfrøðingar, sum fáa boð frá viðkomandi stovnsleiðslu, hava skyldu til at fara til arbeiðis beinanvegin og at fylgja sáttmálum millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið, sum var galdandi til 1. januar 2023, sí fylgiskjal 1.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="ikofgrsdi3">Verður Felagið Føroyskir Sjúkrarøktarfrøðingar ósamt við eina avgerð hjá stovnsleiðsluni, um at sjúklingatrygdin hjá sjúklingum kemur í vanda, skal felagið kunna leggja avgerðina fyri nevndina sambært § 2.</s>
-              <s xml:lang="fo" cert="high" xml:id="fordjugykh">Verður avgerðin løgd fyri nevndina sambært § 2, hevur tað ikki við sær, at arbeiðsskyldan verður útsett.</s>
-            </p>
-          </div>
-          <div type="subsection">
-            <head rend="bold">Til § 4</head>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="gwdir6eq76">§ 4 ásetur, nær lógin skal koma í gildi og fara úr aftur gildi.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="n6y6kvwo44">Ásett er, at løgtingslógin kemur í gildi, tá ið hon er kunngjørd.</s>
-              <s xml:lang="fo" cert="high" xml:id="hj3qt3zoby">Løgtingslógir koma vanliga í gildi, dagin eftir at tær eru kunngjørdar, ella ávísan dag.</s>
-              <s xml:lang="fo" cert="high" xml:id="q5odkqk2je">At henda løgtingslógin skal koma í gildi, fyrsta hon er kunngjørd, kemst av, at málið hevur bráðskund.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high" xml:id="lqdkimuiji">Sólsetursásetingin hevur við sær, at løgtingslógin fer úr gildi, tá ið nýggjur sáttmáli er undirskrivaður millum Felagið Føroyskir Sjúkrarøktarfrøðingar og Fíggjarmálaráðið at koma í staðin fyri sáttmálan, sum var galdandi til 1. januar 2023.</s>
-            </p>
-            <!-- TODO: add signature later! -->
-          </div>
-        </div>
-      </div>
-      <div type="section">
-        <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
-        <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Sáttmáli millum Felagið Føroyskir Sjúkrarøktafrøðingar og Fíggjarmálaráðið 2019/2022</item>
-          <item><label>Fylgiskjal 2:</label> Skriv frá Sjúkrahúsverkinum um avleiðingar av vantandi undantøkum</item>
-        </list>
-      </div>
-    </body>
-  </text>
-</TEI>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
