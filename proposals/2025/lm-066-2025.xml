@@ -5731,4 +5731,62 @@
       </body>
     </text>
   </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Fylgiskjal 40: Hoyringarskriv frá Húsavíkar kommunu</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+            <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+            <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+          </availability>
+          <date when="2026-05-17"/>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl type="parliamentary_document">
+            <publisher>Føroya Løgting</publisher>
+            <author>
+              <orgName>Húsavíkar kommuna</orgName>
+            </author>
+            <ref target="https://www.logting.fo/documents/69281"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2025-12-11">11.12.2025</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <text>
+      <body>
+        <pb n="1"/>
+        <div>
+          <opener>
+            <dateline rend="right">Húsavík tann 11 november 2025</dateline>
+            <salute rend="center">Til rætta viðkomandi</salute>
+          </opener>
+          <p><hi rend="bold">Hoyringarskriv</hi> í sambandi við Suðuroyartunnilin við tilhoyrandi tunnilskervum og vegakervum (fyrireiking, prosjektering og útboð)</p>
+          <p>
+            <s xml:id="ob3wyals4t">Nú annað umfar av hoyring í sambandi við Suðuroyartunnilin við hartilhoyrandi vegum er, hevur Húsavíkar kommunustýrið viðgjørt tunnilssætlanina á kommunustýrisfundi.</s>
+          </p>
+          <p>
+            <s xml:id="z5k4gjnbfv">Kommunustýrisfundurin var hildin týsdagin 11 nov í 2025.</s>
+          </p>
+          <p>
+            <s xml:id="wga4wyymn4">Meirilutin av kommunustýrðinum mælir til, at alternativa tunnilsloysnin, hvar tunnilsmunnin er norðan fyri Múlan, verður tann ið verður bjóða út.</s>
+          </p>
+          <closer>
+            <salute>Vinarliga</salute>
+            <signed rend="center"> Vegna meirilutan:<lb/>
+            <figure>
+                <figDesc>Handwritten signature of Anna Paulina Leo Olsen</figDesc>
+              </figure><lb/> Anna Paulina Leo Olsen <lb/>Borgarstjóri</signed>
+          </closer>
+        </div>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
