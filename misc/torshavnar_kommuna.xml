@@ -1,81 +1,2698 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Einki valkort fingið</title>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Rani Høgnason Hansen</publisher>
-        <idno type="url">https://github.com/hoegnason/tingmal</idno>
-        <availability status="free">
-          <licence target="http://creativecommons.org/licenses/by/4.0/">
-            Creative Commons Attribution 4.0 International (CC BY 4.0)
-          </licence>
-          <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
-          <p>Original content is used here under §9 (public documents).</p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>
-          <date when="2026-03-18">18.03.2026</date>
-        </bibl>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <standOff>
-    <seg type="sentence" resp="#rani" xml:id="bnylnepmph">Hesin telduposturin kemur uttanífrá Tórshavnar kommunu.</seg>
-  </standOff>
-  <text>
-    <body>
-      <div type="email">
-        <head>Einki valkort fingið</head>
-        <ab>Hey</ab>
-        <p>
-          <s xml:id="tauun62gcu">Eg havi tíverri ikki fingið nakað valkort.</s>
-          <s xml:id="jnzbhhin2n">Á heimasíðuni stendur at eg skal senda ein email við upplýsningum til hesa addressuna.</s>
-        </p>
-        <!-- <ab>https://www.torshavn.fo/politikkur-og-folkaraedi/val/loegtingsvalid-26-mars-2026</ab> -->
-        <p>
-          <s xml:id="yjgehjk5qe">Kann eg fáa eitt valkort?</s>
-          <s xml:id="qoc3z2aqfp">Kann onkur hjálpa mær við hesum?</s>
-        </p>
-      </div>
-      <div type="email">
-        <p>
-          <s xml:id="z4gy2mp2kc">Takk fyri teldubrævið.</s>
-          <s xml:id="o4hy2wzjf2">Snarskivan kannar boðklivan allar yrkadagar.</s>
-          <s xml:id="c5nrjw3m5v">Tíni boð verða beind víðari til rætta viðkomandi í Tórshavnar kommunu.</s>
-          <s xml:id="uo2gynir2i">Krevur teldubrævið málsviðgerð, verður tað skrásett í okkara journalskipan, og tú frættir aftur frá okkum.</s>
-          <s xml:id="sazkihq5dk">Vit handfara tínar persóndátur í samsvari við Dátuverndarlógina.</s>
-          <s xml:id="dey6svzcfa">Les meira um, hvussu vit handfara persóndátur, og hvørji rættindi tíni eru, í okkara persónsupplýsingapolitikki.</s>
-        </p>
-        <!-- Les meira um, hvussu vit handfara persóndátur, og hvørji rættindi tíni eru, í okkara persónsupplýsingapolitikki: Persónsupplýsingapolitikkur fyri Tórshavnar kommunu -->
-        <closer>
-          <ab>Vinaliga / Best Regards</ab>
-          <lb/>
-          <ab>Tórshavnar kommuna</ab>
-          <ab>Journalin / Record Department</ab>
-        </closer>
-      </div>
-      <div type="email">
-        <ab>Hey</ab>
-        <p>
-          <s xml:id="vomauuytlv">Tú stendur á vallistanum, og hevur rætt til at velja.</s>
-        </p>
-        <p>
-          <s xml:id="zolvxf7tyl">Vit hava fingið nógv valkort retur, men títt kort er ikki komið retur.</s>
-        </p>
-        <p>
-          <s xml:id="ixm4tjjcpi">So tú kanst fara niðan á Háls, tá valið er, og fær tú eitt valkort frá Fólkayvirlitinum.</s>
-        </p>
-        <p>
-          <s xml:id="jdrzgenqse">Valkortini hjá tær eru farin til tað gomlu adressuna.</s>
-        </p>
-        <closer>
-          <ab>Vinarliga</ab>
-          <ab>Tórshavnar kommuna</ab>
-        </closer>
-      </div>
-    </body>
-  </text>
-</TEI>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>106/26: Innskriving í forskúla og 1. flokk og grundupptøkuøkir / skúlaumdømir</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <!-- https://www.torshavn.fo/media/1yafn3kc/gerdabok-fyri-byradsfundin-30-april-2026.pdf -->
+            <date when="2026-04-30">30. april 2026</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="vqppw2y2dy">Skúlaumdømini eru væl lýst á heimasíðuni hjá kommununi.</seg>
+      <seg type="sentence" resp="#rani" xml:id="hn62dkmnlv">Trivnaðarstjórin og leiðarin á mentamáladeildini mæla til at arbeiðbólkur umboðandi øll skúlastýrini og umsiting verður settur at gera tilmæli um framtíðar skúlabygnað í miðstaðarøkinum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="p7llyisu4t">Trivnaðarstjórin og leiðarin á mentamáladeildini mæla til at umsitingin ger uppskot um arbeiðssetning, sum verður lagdur fyri trivnaðarnevndina á fundinum í novembur.</seg>
+      <seg type="sentence" resp="#rani" xml:id="zq2wuwxs5d">Trivnaðarstjórin og leiðarin á mentamáladeildini mæla til at umsitingin kannar fyrimunir og vansar við at broyta leiðreglurnar fyri innskriving í forskúla, soleiðis at bert børn ið búgva í grundupptøkuøkinum hava møguleika at verða innskrivað í forskúlan í økinum, og leggur málið fyri trivnaðarnevndina á fundinum í novembur.</seg>
+
+      <seg type="sentence" resp="#rani" xml:id="lbh34ydima">Umsitingin vísti á møguleikan at loysa trupulleikan so hvørt og søkja um eyka flokk, har tørvurin á plássum er størstur.</seg>
+      <seg type="sentence" resp="#rani" xml:id="ajntje52zc">Umsitingin vísti á møguleikan at taka støðu til, at eyka flokkar verða í einum skúla, so ber til at leggja ætlan nú fyri tey trý komandi skúlaárini, og foreldur fáa at vita, hvar eyka flokkur verður.</seg>
+
+      <seg type="sentence" resp="#rani" xml:id="y7fezjnyq6">Avgerð er tikin um eyka 1. flokk skúlaárini 2026/27, 2027/28 og 2028/29 á Skúlanum á Fløtum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="j652rbkm7w">Avgerð er tikin um eyka 1. flokk skúlaárini 2027/28 og 2029/30 á Skúlanum á Argjahamri.</seg>
+
+      <seg type="sentence" resp="#rani" xml:id="dbyb4bbnlm">Býráðið heitir á landsstýrið um ein eyka 1. flokk til Sankta Frans skúla aftaná summarferiuna 2026 og at skúlabygnaðurin verður endurskoðaður í síni heild til næstu innskriving.</seg>
+
+      <seg type="sentence" resp="#rani" xml:id="wjqs4z3eu6">Trivnaðarstjórin og deildarleiðarin á mentamáladeildini mæla til at eyka 1. flokkur, sum áður samtykt, verður stovnaður í Skúlanum á Fløtum og at lonirnar til Skúlan á Fløtum verða settar upp sum ætlað, so pláss verður fyri eyka skúlaflokkum og til at avseta skúlahølir til frítíðarskúlan inni í grunddeildini.</seg>
+      <seg type="sentence" resp="#rani" xml:id="k4kotxiaur">Trivnaðarstjórin og deildarleiðarin á mentamáladeildini mæla til at eyka 1. flokkur verður stovnaður í Sankta Frans skúla frá komandi skúlaári.</seg>
+      <seg type="sentence" resp="#rani" xml:id="md56uhmwak">Trivnaðarstjórin og deildarleiðarin á mentamáladeildini mæla til at varðveita undantøkini fyri næmingahámarkinum í 1. flokki í Skúlanum á Argjahamri og í Eysturskúlanum.</seg>
+    </standOff>
+    <text>
+      <body>
+        <div>
+          <head rend="bold">Innskriving í forskúla og 1. flokk og grundupptøkuøkir / skúlaumdømir</head>
+
+          <div>
+            <head rend="bold">Upprunin til málið</head>
+            <p>
+              <seg>Avbjóðingar við skúlainnskriving skúlaárið 2025/26 og komandi skúlaár.</seg>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Lýsing av málinum</head>
+            <div>
+              <head rend="underline">Innskriving til skúlaárið 2025/26</head>
+              <p>
+                <s xml:id="linekms4ah">Innskriving í fyrsta flokk, forskúla og frítíðarskúla í Tórshavnar kommunu er opin frá hálvum desember til hálvan januar, tað árið børnini skulu byrja í skúla.</s>
+                <s xml:id="y45qirwtos">Tá innskrivingin er liðug, verða plássini tillutað eftir galdandi leiðreglum fyri upptøku av børnum í kommunalu fólkaskúlarnar í Tórshavnar kommunu.</s>
+                <s xml:id="kgjauz2i2p">Undirvísingarskyldan byrjar í august tað árið barnið fyllir 7 ár, og sambært fólkaskúlalógini § 44 fer innskriving í fólkaskúlan fram við ársbyrjan.</s>
+              </p>
+              <p>
+                <s xml:id="ne4ttozqro">Viðvíkjandi næmingatali er lógarbroytingin um 22 næmingar í hvørjum flokki galdandi frá skúlaárinum 2025/26, talið er galdandi fyri fyrsta flokk i ár og verður síðani sett í gildi eftir níggju árum.</s>
+              </p>
+              <p>
+                <s xml:id="dk6xfykfph">Í miðstaðarøkinum í Tórshavnar kommunu var ikki pláss fyri øllum børnunum í teimum skúlum, tey vóru skrivað inn í, og ti var neyðugt at stovna ein flokk aftrat í Tórshavnar kommunu, og tann flokkurin er stovnaður í Sankta Frans skúla.</s>
+                <s xml:id="l5vtzi4zve">So tey børn, sum upprunaliga ikki fingu pláss í Skúlanum á Argjahamri, í Skúlanum á Fløtum og í Sankta Frans skúla, fingu pláss í Sankta Frans skúla.</s>
+              </p>
+              <p>
+                <s xml:id="f3bl5iyh4p">Seinni fekk Tórshavnar kommuna frávik frá næmingatalinum, so børnini á Argjum fingu pláss í skúlanum har, og børnini í vesturbýnum fingu pláss í Skúlanum á Fløtum.</s>
+                <s xml:id="y4tjwz47wc">Neyðugt var kortini at halda fast við eykaflokkin í Sankta Frans skúla, og øll børnini, sum vóru innskrivað í fyrsta flokk í Sankta Frans skúla umframt nøkur aftrat, fingu pláss í skúlanum.</s>
+              </p>
+              <p>
+                <seg>Endaliga næmingatalið er tøkt fyrst í september, so talvan niðanfyri vísir fyribils tøl í fyrstu – og forskúlaflokkunum</seg>
+              </p>
+              <!-- TODO: insert table -->
+            </div>
+            <div>
+              <head rend="underline">Grundupptøkuøki</head>
+              <p>
+                <s xml:id="e2spuiz3kg">Innskriving í forskúla og 1. flokk er skipað út frá einum uppbýti av kommununi í skúlagrundupptøkuøkir.</s>
+                <s xml:id="tzl6m5jnod">Í leiðreglunum fyri innskriving verður stremba eftir, at børn fáa pláss í skúlanum í teirra grundupptøkuøki, og har tað ikki letur seg gera í einum av grannaskúlunum.</s>
+                <s xml:id="hsbr25uujq">Umsitingin kann broyta markið millum grundupptøkuøkini, tá tað ikki er nóg mikið av plássum í einum grundupptøkuøki.</s>
+                <s xml:id="vep7ztzryf">Umsitingin hevur tilvitað nýtt heitið grundupptøkuøki og ikki skúlaumdømi, sum verður nýtt í fólkaskúlalógini, og sum hevur strangari áseting um flyting av næmingum og stovnan av eyka flokkum.</s>
+              </p>
+              <p>
+                <s xml:id="oqubhqcler">Høvuðsendamálið við fólkaskúlalógini og leiðreglunum um innskriving er at tryggja øllum børnum skúlapláss og síðani í øðrum lagi, at børn í einum býarparti so vítt gjørligt fáa skúlatilboð í tilhoyrandi skúla.</s>
+                <s xml:id="pj2acx4mxa">T.d. fáa børn úr eysturbýnum so vítt gjørligt skúlapláss í Eysturskúlanum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Skúlaumdømi</head>
+              <p>
+                <s xml:id="lmhje6f4np">Barna og útbúgvingarmálaráðið og Undirvísingarstýrið meta tey størru grundupptøkuøkini ómiðstaðarøkinum sum eitt skúlaumdømi, tvs at kommunan skal veita skúlapláss til øll børn í skúlaumdøminum og útvega eyka skúlastovur um tað er neyðugt.</s>
+              </p>
+              <p>
+                <s xml:id="lsgk4wqdhm">Tvs at Argir, vesturbýurin, miðbýurin, eysturbýurin og Hoyvík eru eitt skúlaumdømi meðan bygdirnar við bygdaskúlum, Kollafjørður, Kaldbak og Nólsoy eru sjálvstøðug skúlaumdømi.</s>
+              </p>
+              <p>
+                <s xml:id="red5xttgsr">Í skúlainnskrivingini 2025/26 var støðan tann í miðstaðarskúlaumdøminum, at tað við einum eyka flokki í Sankta Frans skúla var gjørligt at veita øllum næmingum í 1. flokki skúlapláss, við einum hóskandi tali av tøkum plássum.</s>
+                <s xml:id="bbn4hsgvxf">Men, tað var ikki gjørligt at veita øllum børnum á Argjum og í vesturbýnum pláss í teirra heimaskúla.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Avbjóðingar í innskriving og tillaging av grundupptøkuøkjum</head>
+              <p>
+                <s xml:id="o6xqztadmg">Viðgerðin av skúlainnskriving í 1. flokk og møguleikin at gera broytingar millum grundupptøkuøkið er tengd at innskriving í teir forskúlar, ið eru settir á stovn.</s>
+                <s xml:id="pj2wqlt2db">Í ár var tað í Skúlanum á Argjahamri, Skúlunum á Fløtum og í Sankta Frans skúla.</s>
+                <s xml:id="ia2lqrw3sk">Av tí at børnini sum longu vóru innskrivað í forskúla halda áfram í viðkomandi skúla, vóru bert nøkur fá pláss eftir í 1. flokki á Skúlanum á Fløtum og í Sankta Frans skúla, sum børn í grundupptøkuøkinum høvdu fyrsta rætt til.</s>
+                <s xml:id="hdsedmhuh5">Tí var ikki gjørligt at broyta markið millum grundupptøkuøkini, soleiðis at møguleiki var at útvega pláss til børn av Argjum í Skúlanum av Fløtum og pláss til børn úr vesturbýnum í Sankta Frans skúla.</s>
+                <s xml:id="h54cbjmvof">Við fyritreytini at ein eyka flokkur var settur á stovn í Sankta Frans skúla gjørdist úrslitið, at næmingar av Argjum skuldu innskrivast í Sankta Frans skúla.</s>
+              </p>
+              <p>
+                <s xml:id="bv63grdq66">Fleiri partar gjørdu var við seg leypi av viðgerðini hjá Mentamáldeidini av innskrivingini.</s>
+                <s xml:id="q6d7ivgo2v">Einstøk foreldur og tveir foreldrabólkar gjørdu vart við, at tað als ikki er nøktandi at foreldur í innskrivingini verða sett í eina tvístøðu har tey kunnu velja 6 ára tilboð frá, fyri at innskriva í forskúla fyri at trygga barninum pláss í 1. flokki, í skúlanum í teirra grundupptøkuøkið.</s>
+              </p>
+              <p>
+                <s xml:id="tei6dtkluu">Skúlastýrið fyri Skúlan á Argjahamri gjørdi saman við skúlastjóranum eisini vart við týdningin av at Argjabørn fáa skúlpláss í nærumhvørvinum og at skúlin vildi viðvirka til ein loysn.</s>
+                <s xml:id="xkumbofskr">Skúlastjórarnir og skúlarnir vóru sum heild sinnaðir at víkja frá næminghámarkinum fyri at loysa avbjóðingina.</s>
+              </p>
+              <p>
+                <s xml:id="oheslyk6iv">Málið av leiðsluni og borgarstjóranum tikið upp við Barna og útbúgvingarmálaráðið, við tí úrsliti at undantak er veitt frá næminghámarkinum skúlárini 2025/26 og 2026/27.</s>
+                <s xml:id="f7uoshk4pn">Við hesi broyting var akkurát rásarúm at veita skúlapláss til allar næmingar høvdu innskrivað í forskúla og frítíðarskúla í teirra heimaskúlum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Barngrundarlag í miðstaðarøkinum og tørvur á eyka 1. flokkum komandi árini</head>
+              <p>
+                <s xml:id="rcjdagjwps">Næsta skúlaár 2026/27 er næmingatalið til 1. flokk á sama støði sum í ár og við undantakinum frá næminghámarkinum,verður aftur tørvur á einum eyka flokki.</s>
+                <s xml:id="l4h3chubbq">Í mun til barnatalið í grundupptøkuøkjunum er tørvurin størstur á Argjum og í miðbýnum.</s>
+              </p>
+              <p>
+                <s xml:id="b3zarm3mvx">Skúlaárið 2027/28 er næmingatlið til 1. flokk eitt vet hægri enn í ár, men nú verður undantakið frá næminghámarkinum ikki longur galdandi.</s>
+                <s xml:id="m6z2sdx34d">Tá verður tørvur á tveimum eyka flokkum, einum á Argjum og einum í miðbýnum.</s>
+              </p>
+              <p>
+                <s xml:id="xlpw34afrf">Skúlaárið 2028/29 minkar núverandi næmingatal til 1. flokk við einum flokki.</s>
+                <s xml:id="mex2glfzc5">Við tilflyting kann tó gerast tørvur á einum eyka flokki, har tørvurin helst verður størstur í Hoyvík.</s>
+              </p>
+              <p>
+                <s xml:id="q5dzxeljue">Skúlaárið 2029/30 Minkar núverandi næmingatal til 1. flokk aftur.</s>
+                <s xml:id="k42vponwuq">Tilflyting kann tó viðføra tørv á einum eyka flokki, sannlíkt á Argjum.</s>
+              </p>
+              <p>
+                <s xml:id="oyqp7p3k7w">Skúlaárið 2030/31 minkar næmingatalið til 1. flokk munandi og hóast eina javna tilflyting verður møguliga tørvur á einum flokki færri, møguliga í Skúlanum á Fløtum.</s>
+              </p>
+              <p>
+                <s xml:id="zqobzflmx6">Skúlaárið 2031/32 Næmingatalið er framvegis lágt og hóast ein javna tilflyting verður møguliga tørvur á einum flokki færri, møguliga í Sankta Frans skúla.</s>
+              </p>
+              <p>
+                <s xml:id="qemm7qpzkx">Samanumtikið er tørvur á einum eyka skúlaspori í miðstaðarøkinum fram til skúlaárið 2029/30, orsaka av lækkingini av næmingahámarkinum.</s>
+                <s xml:id="rhsy2wbsvi">Undantakið frá næmingahámarkinum gevur kommununi eitt neyðugt skotbráð at loysa avbjóðingina.</s>
+              </p>
+              <p>
+                <s xml:id="tssylsutil">Minkandi næmingatalið, ið fær ávirkan skúlaárið 2030/31 viðførir tøk skúlapláss, men tað er ein positiv avbjóðing.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="underline">Møguligar loysnir</head>
+              <list>
+                <label>a)</label>
+                <item>
+                  <p>
+                    <s xml:id="ayovg7c5zh">Í verandi skipan og eftir leiðreglunum ber til at laga grundupptøkuøkini og gera smærri broytingar í teimum, so mørkini verða lagað eftir mettum tali á børnum í ymsu økjunum, sum hava aldur at fara í forskúla og fyrsta flokk.</s>
+                    <s xml:id="fpxzlmm2lc">Hetta eigur at verða gjørt í so mikið góðari tíð, at grundupptøkuøkini verða løgd á heimasíðuna um heystið áðrenn innskriving.</s>
+                  </p>
+                  <p>
+                    <s xml:id="j7xuhh22u3">Umsitingin metir ikki, at hetta amboð er nøktandi til at loysa avbjóðingarnar við, at børn búsitandi í einum øki fáa pláss í skúlanum, sum hoyrir til økið.</s>
+                    <s xml:id="x6pvci3k4q">Haraftrat kann tað skapa órógv millum foreldur, sum búgva nærindis marki millum tvey grundupptøkuøki, tí tey okkurt ár hoyra til eitt øki og so árið eftir til eitt annað.</s>
+                    <s xml:id="cs5n52mysh">Tað kann vera torført hjá teimum at velja, hvønn skúla teirra barn/børn skulu skrivast inn í.</s>
+                  </p>
+                </item>
+                <label>b)</label>
+                <item>
+                  <p>
+                    <s xml:id="cmcwvkzw2w">Tórshavnar kommuna kann velja at býta plássini út, so foreldrini fáa ávíst eitt pláss í skúla til teirra barn.</s>
+                    <s xml:id="vegoanjgln">Plássini verða so ávíst eftir verandi leiðreglum.</s>
+                  </p>
+                  <p>
+                    <s xml:id="e5o7zjpsv3">Flestu foreldur velja at skriva barnið/børnini inn í skúlan í grannalagnum, hetta so børnini ganga í skúla saman við teimum børnum, sum tey kenna, spæla við og fylgjast til ítrótt og onnur frítíðavirksemi saman við børnum í grannalagnum.</s>
+                  </p>
+                  <p>
+                    <s xml:id="kou6s43wo2">Við tílíkari skipan, hevði umsitingin kunnað roynt at stýrt soleiðis, at børn í sama grannalag fingu pláss í sama skúla, um ikki øll í einum og sama skúla, so at fleiri børn í tínum grannalag gingu í sama skúla sum tú.</s>
+                  </p>
+                  <p>
+                    <s xml:id="dbywubgeu4">Avbjóðingin við hesi skipan er so tann, at atlit verður ikki tikið at ynskjum hjá foreldrum, og at okkurt grannalag verður býtt sundur.</s>
+                  </p>
+                </item>
+                <label>c)</label>
+                <item>
+                  <p>
+                    <s xml:id="vda2vzks62">Leiðreglurnar fyri upptøku kunnu broytast, so plássini í einum forskúla bert eru til børn, sum búgva í grundupptøkuøkinum hjá skúlanum.</s>
+                  </p>
+                  <p>
+                    <s xml:id="rrrlpivna2">Eitt barn, sum er skrivað inn í forskúla, er skrivað inn í skúlan og skal ikki skrivast inn av nýggjum.</s>
+                    <s xml:id="kzihjb5vxg">Forskúlar eru ikki í øllum skúlum í Tórshavnar kommunu, og tað ger so tað, at foreldur, sum búgva í grundupptøkuøkjum, har forskúli ikki er, skriva barnið upp í forskúla í øðrum øki.</s>
+                    <s xml:id="wi6hobau63">Eru ikki nóg nógv børn, sum hava systkin í skúlanum ella búgva í økinum skriva inn í forskúla, kunnu børn uttan fyri økið fáa avlopsplássini, og tey verða so skrivað inn í skúlan og halda fram í skúlanum, til tey eru liðug við 9. flokk.</s>
+                  </p>
+                  <p>
+                    <s xml:id="ykwtfqebxv">Meira enn helmingurin av børnunum í miðstaðarøkinum verða í dag innskriva í forskúla i Sankta frans skúla, Skúlanum á Fløtum og Skúlanum á Argjahamri.</s>
+                  </p>
+                  <p>
+                    <s xml:id="s2vqyob5ky">Ein loysn er, at forskúlar verða skipaðir í øllum fólkaskúlunum í Tórshavnar kommunu, og at fyribils hølisloysnir verða, til allir skúlarnir eru útbygdir til at hýsa forskúla eisini.</s>
+                  </p>
+                  <p>
+                    <s xml:id="hirp4woq52">Sum støðan er nú, hava øll foreldur í kommununi ikki sama møguleika at fáa pláss í forskúla.</s>
+                  </p>
+                </item>
+                <label>d)</label>
+                <item>
+                  <p>
+                    <!-- TODO: check if this should be annar møgulleiki??? -->
+                    <seg>møguleiki kundi eisini verið at flutt innskrivingina í 1. flokk eitt ár fram, soleiðis at innskrivingin í forskúla verður løgd tilrættis eftir hvør ið eftir leiðreglunum eigur at hava rætt til 1. flokk.</seg>
+                    <s xml:id="frd7utpwv5">Tað kann gev eina avbjóðing at øll plássini í forskúlanum ikki verða brúkt, tí tey skulu standa tøk til børn ið eru innskrivað til 1. flokk í viðkomandi skúla.</s>
+                  </p>
+                </item>
+                <label>e)</label>
+                <item>
+                  <p>
+                    <s xml:id="pxjxqvnbhw">Miðstaðarøkið kann verða býtt upp í trý skúlaumdømi, eitt fyri Argir og vesturbýin, eitt fyri miðbýin og eysturbýin og eitt fyri Hoyvik.</s>
+                    <s xml:id="iy2o26vgbz">Soleiðis at Skúlin á Argjahamri og Skúlin á Fløtum hava felags upptøkuøki, Sankta Frans skúli og Eysturskúlin hava felagsupptøkutøki og Hoyvíkar skúli og Skúlin við Løgmannabreyt hava felags upptøkuøki.</s>
+                  </p>
+                  <p>
+                    <s xml:id="dsuaadcikv">Hesi trý øki áttu so at havt ta skipan, at tá ov nógvir næmingar eru til flokkatalið økinum, so verður játtað tímatal til ein flokk aftrat.</s>
+                    <s xml:id="dzcfzxsk42">Tað krevur tó, at Barna- og útbúgvingamálaráðið góðtekur hetta og ikki heldur fast við, at so leingi pláss er í onkrum av skúlunum í miðstaðarøkinum verður ikki játtað til flokkar aftrat.</s>
+                  </p>
+                  <p>
+                    <s xml:id="kms55a6lft">Krøvini til kommununa verða eisini størri, tí kommunan skal útvega fleiri undirvísingarhølir og raksturin av teimum.</s>
+                  </p>
+                </item>
+                <label>f)</label>
+                <item>
+                  <p>
+                    <s xml:id="t7npm6dxxh">Tað kundi verið so mikið rúmsátt í skúlunum, at um ein árgangur í økinum var ov stórur til plássini í skúlanum í økinum, so var møguleiki at stovna ein flokk aftrat til árgangin.</s>
+                    <s xml:id="yplhttl225">T.d. kundu tríggjar skúlastovur verið eyka í hvørjum skúla, so tey árini neyðugt var við einum flokki aftrat í økinum, var pláss í skúlanum.</s>
+                  </p>
+                  <p>
+                    <s xml:id="wdy42butij">Her er tó eisini neyðugt, at landsmyndugleikin góðtekur hetta og ikki heldur fast við, at so leingi pláss er í onkrum av skúlunum í miðstaðarøkinum verður ikki játtað til flokkar aftrat.</s>
+                  </p>
+                </item>
+              </list>
+            </div>
+            <div>
+              <head rend="underline">Fundur við umboð fyri Barna- og útbúgvingarmálaráðið og Undirvísingarstýrið</head>
+              <p>
+                <s xml:id="kekyzdgl2i">Mentamáladeildin hevði ein stuttan fund við umboð fyri BUMR og umboð fyri UVS í juni.</s>
+                <s xml:id="oyncqmharj">Har kunnað varð um avbjóðingar við innskriving sum heild, og avbjóðingarnar sum eru, tí tvær skipanir eru til tey 6 ára gomlu børnini.</s>
+                <s xml:id="n6fpjvgrr5">Forskúli er í nøkrum av skúlunum og 6 ára tilboð í nøkrum av dagstovnunum.</s>
+                <s xml:id="h57fdmtgmy">Trupulleikin er, at í skúlum har forskúlar eru, velja summi foreldur forskúla fyri at tryggja, at barnið fær pláss í tí skúlanum, sum er í upptøkuøkinum, sum tey búgva í.</s>
+                <s xml:id="rat7lp42yl">Í summum førum førdi hetta so til, at ov fá børn vóru til 6 ára tilboð í dagstovni/dagstovnum í økinum, og tilboðið har tí datt niður fyri.</s>
+              </p>
+              <p>
+                <s xml:id="tdlyqeyjwi">Greitt var eisini frá, at Tórshavnar kommuna ætlar ikki at koma í somu støðu, sum til skúlaárið 2025/26, og ynskir at samskifta við Barna- og útbúgvingarmálaráðið og Undirvísingarstýrið um loysnir.</s>
+              </p>
+              <p>
+                <s xml:id="zc2rwrloed">Kunnað var eisini um barnatalið í kommununi býtt á upptøkuøkini, og við støði í teimum, var greitt frá, hvussu innskriving væntandi fór at verða komandi árini.</s>
+              </p>
+              <p>
+                <s xml:id="mp2hqol7vp">Avtalað varð, at mentamáladeildin kallar inn til ein fund aftur nú eftir summarferiuna.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Lógir, ásetingar o.a.</head>
+          </div>
+          <div>
+            <head rend="bold">Upplýsingar frá umsitingini</head>
+          </div>
+          <div>
+            <head rend="bold">Onnur mál sum kunnu hava týdning fyri málið</head>
+          </div>
+          <div>
+            <head rend="bold">Viðmerkingar frá øðrum (t.d. deildum, staðbundnum nevndum og myndugleikum)</head>
+            <ab rend="bold">Leggjast fyri staðbundna nevnd Ja ☐ Nei ☐</ab>
+          </div>
+          <div>
+            <head rend="bold">Skjøl</head>
+          </div>
+          <div>
+            <head rend="bold">Yvirlit yvir avleiðingarnar av uppskotinum (set x)</head>
+            <ab rend="bold">Fíggjarligar avleiðingar: ☐ Ja ☐ Nei</ab>
+          </div>
+          <div>
+            <head rend="bold">Tilmæli:</head>
+            <p>
+              <s xml:id="df76p4plq6">Trivnaðarstjórin og leiðarin á mentamáladeildini mæla til at kanna verður um heimild er í fólkaskúlalógini og um góðkenning fæst frá BUMR at skipa miðstaðarøkið í Tórshavnar kommunu í fleiri skúlaumdømi, fyri at styrkja rættin hjá børnum til skúlatiboð í nærumhvørvinum.</s>
+            </p>
+            <p>
+              <s xml:id="mvu5ivmrzz">Somuleiðis verður mælt til at kanna um heimild er at skipa fyri innskrivingin í 1. flokk eitt ár fyrr enn í dag, soleiðis at størri møguleiki er at fáa pláss í 1. fl. hóast barnið ikki gongur í forskúla.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 04. september 2025:</label>
+              <s xml:id="gu3fehqhxv">Samtykt at taka undir við tilmælinum og at leggja málið aftur til trivnaðarnevndin skjótast viðvíkjandi niðurstøðu frá BUMR.</s>
+            </p>
+            <p>
+              <seg>Ein meiriluti: Heidi Lava Elgeirsdóttir, Birgir Nielsen og Høgni Vilhelmsen, mælir harumframt til, at Skúlin á Argjahamri verður egið skúlaumdømi.</seg>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <div>
+              <head rend="bold">Fundur við Undirvísingarstýrið og Barna- og útbúgvingarmálaráðið</head>
+              <p>
+                <s xml:id="uwp26mqbd4">Umboð fyri mentamáladeildina høvdu fund við umboð fyri Undirvísingarstýrið og umboð fyri Barna- og útbúgvingarmálanráðið um møguleikarnar at skipa økini í miðstaðarøkinum í færri skúlaumdømi og møguleikan at skriva børn inn í fyrsta flokk eitt ár fyrr enn í dag.</s>
+              </p>
+              <p>
+                <s xml:id="ap5sa7xj7f">Barna- og útbúgvingarmálaráðið ger vart við, at gundupptøkuøki eru tað sama sum skúlaumdømi, og tað er tað heitið, sum verður brúkt í lógini.</s>
+              </p>
+              <p>
+                <s xml:id="r3izh5bycg">Sambært § 44 stk. 1 fer innskriving í skúlan fram við ársbyrjan.</s>
+                <s xml:id="gdvkgwc3em">Bæði løgfrøðingur á stjórnarskrivstovuni og landsmyndugleikarnir eru samdir um, at skal hetta broytast, so børn verða skrivað inn eitt ár fyrr, er neyðugt at broyta fólkaskúlalógina.</s>
+                <s xml:id="u7kqtl5zdb">Ynskir Tórshavnar kommuna at skriva børn inn í skúla fyrr, kann hon senda inn ynski um broyting í fólkaskúlalógini.</s>
+              </p>
+              <p>
+                <s xml:id="i6isvyx5qy">Viðvíkjandi færri skúlaumdømum og játtan til hvørt umdømi sær, vísti Undirvísingarstýrið á, at ynskti Tórshavnar kommuna fleiri flokkar í ymsu skúlunum, so skal kommunan søkja um ein broyttan skúlabygnað við fleiri sporum, og veðrur umsóknin játtað, so skal kommunan byggja ávísu skúlarnar út til at kunna taka eitt spor aftrat.</s>
+              </p>
+              <p>
+                <s xml:id="smwz54u6y7">Skipanin við færri skúlaumdømum og játtan til hvørt øki sær, krevur sostatt eina stóra íløgu til útbygging til eitt spor aftrat í t.d. Hoyvík, eitt vesturbýnum og eitt á Argjum.</s>
+                <s xml:id="xtqrgwf2qx">Haraftrat varð víst á, at Undirvísingarstýrið og Barna- og útbúgvingarmálaráðið vænta ikki eina hægri játtan til fólkaskúlan nógvu komandi árini, so verða fleiri spor í Tórshavnar kommunu, verður neyðugt at fíggja tey av verandi játtan og taka tað av onkra aðrastaðni á fólkaskúlaøkinum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Møgulig broyting í innskriving í forskúla</head>
+              <p>
+                <s xml:id="ibry5qqunj">Mentamáladeildin, Barna og útbúgvingarmálaráðið og Undirvísingarstýrið eru samd um, at tað eftir fólkaskúlalógini ikki er heimild at framskunda innskriving í 1. flokk.</s>
+              </p>
+              <p>
+                <s xml:id="fdyl2c36ar">Kommunan hevur tó møguleika at broyta reglurnar um innskriving í forskúla, so at hon ikki bindur innskriving í 1. flokk meira enn neyðugt og í minni mun birtir undir, at foreldur kenna seg noydd at velja forskúla fyri at fáa pláss í 1. flokki.</s>
+              </p>
+              <p>
+                <s xml:id="gk4iehet2y">Tað kann gerast við at broyta leiðreglurnar fyri innskriving, so tað bert eru børn sum búgva í skúlaumdøminum, ið hava rætt til pláss í forskúlanum í skúlanum í økinum.</s>
+              </p>
+              <p>
+                <s xml:id="ro7licf7vk">Fyri forskúlar verður ein møgulig avleiðing, at tað verða færri børn innskrivað í forskúlan, og tað verða fleiri tøk pláss í 1. flokki árið eftir, sum næmingar við systkjum í skúlanum og aðrir næmingar í skúlaumdøminum hava rætt til, meðan børn úr øðrum skúlaumdømum ikki fáa pláss.</s>
+              </p>
+              <p>
+                <s xml:id="nrlnfbadw6">Her skal tryggjast í hvønn mun heimild er at taka burtur møguleikan hjá børnum í ávísum økjum at sleppa í forskúla.</s>
+              </p>
+              <p>
+                <s xml:id="oghbgbgrnu">Í longdini fer hetta at minka um talið av børnum úr øðrum skúlumdømum sum hava systkin í skúlanum og harvið rætt til pláss í skúlanum,</s>
+              </p>
+              <p>
+                <s xml:id="ge6br3c2dn">Tað kann gerast neyðugt at tryggja forskúlunum eina minimums-normering í sambandi við sveiggj í barnatali og lægri barnatal.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Færri skúlaumdømi</head>
+              <quote>
+                <p>
+                  <label rend="bold">§ 29.</label>
+                  <s xml:id="lvflpx7jjd">Skúlamyndugleikin á staðnum býtir vanliga sítt øki upp í skúlaumdømi, ið kunnu vera størri fyri skúlans eldru floksstig enn fyri tey yngru, smb. tó § 31, 1. stk. Landsstýrismaðurin kann góðkenna, at eitt skúlaumdømi er felags fyri fleiri skúlar.</s>
+                </p>
+              </quote>
+              <quote>
+                <p>
+                  <label rend="bold">§ 32.</label>
+                  <seg>Ein skúlabygnaður skal verða gjørdur fyri fólkaskúlan í kommununi, sbrt. § 47, stk. 6:</seg>
+                </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navnið á tí einstaka skúlanum.</seg>
+                    <s xml:id="fo3rqbuoki">Um so er, at kommunan hevur býtt sítt øki upp í skúlaumdømi, smb. § 29, so skulu nøvnini á umdømunum verða tilskilað.</s>
+                    <s xml:id="tewl6kfir4">Her kann eisini vera ásett, at smærri umleggingar av umdømunum kunnu verða gjørdar í sambandi við ta árligu innskrivingina.</s>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Vavið á tí einstaka skúlanum við atliti at undirvísing í grundskúla, 10. flokki o.ø. eftir § 4.</seg>
+                  </item>
+                </list>
+              </quote>
+              <p>
+                <s xml:id="j4smrfr7hy">Í núverandi skúlabygnað er í eitt skúlaumdømi (grundupptøkuøki) fyri hvønn skúla, við undantaki av skúlunum í Hoyvík, sum eru eitt skúlaumdømi, og markið millum skúlarnar er meira flótandi og lagað eftir bústaði hjá teimum børnum, sum er skrivað inn í skúlarnar í Hoyvík júst tað árið.</s>
+              </p>
+              <p>
+                <seg>Skúlaumdømini eru væl lýst á heimasíðuni hjá kommununi: Finn skúla - Tórshavnar kommuna</seg>
+              </p>
+              <p>
+                <s xml:id="fz3afznyiv">Sambært fólkaskúlalógini § 32 stk 1 ber til at gera smærri umleggingar av umdømunum í sambandi við ta árligu innskrivingina.</s>
+                <s xml:id="jsr7dyckmg">Í grundini er tað tað, sum Tórshavnar kommuna sambært leiðreglunum ger, tá pláss ikki er fyri øllum børnunum í einum grundupptøkuøki, kann verða neyðugt at flyta barn í annan skúla enn tann, sum er næstur heiminum.</s>
+              </p>
+              <p>
+                <s xml:id="asqrhd6mf7">Kommunan stendur fyri tveimum avbjóðingum, og tær eru, so vítt gjørligt at veita pláss til allar næmingar í skúlaumdøminum í tilhoyrandi skúla, og at tryggja øllum næmingum pláss í skúlabygnaðinum í kommununi.</s>
+              </p>
+              <p>
+                <s xml:id="chkqmghfnk">Lækking av næmingahámarkinum í flokkunum, broytingar í samlaða næmingatalinum og forskjótingar í næmingatalinum millum skúlumdømini seta skúlabygnaðin og umsitingina av skúlainnskriving undir trýst.</s>
+              </p>
+              <p>
+                <s xml:id="vkmuw2g222">Núverandi skúlaumdømir býta miðstaðarøkið upp í økini Argir, vesturbýin, miðbýin, eysturbýin og Hoyvík.</s>
+                <s xml:id="no7i52hfdd">Hóast tað kann verða avbjóðandi, so ber til at umsita økið eftir verandi leiðreglum, har tillagingar kunnu verða gjørdar millum umdømini, um so er, at umsitingin fær frið at arbeið eftir samtyktu leiðreglum.</s>
+              </p>
+              <p>
+                <s xml:id="guqocpyaoq">Færri skúlaumdømir loysa í sjálvum sær ikki hesar avbjóðingarnar, men tað er ein avgerð um eitt leysari mark millum økini og skúlarnar.</s>
+                <s xml:id="c7nc77t5nt">Um vit taka skúlaumdømini á Argjum og í vesturbýnum sum dømi, vil tað viðføra, at foreldur á Argjum kunnu ynskja at skriva síni børn inn í Skúlan á Fløtum og foreldur í vesturbýnum kunnu ynskja at skriva síni børn inn í Skúlan á Argjahamri.</s>
+              </p>
+              <p>
+                <s xml:id="oknxoyupql">Við hesum eru tað foreldrini, ið kunnu ynskja, hvar tey helst vilja hava skúlapláss í tí størra skúladøminum, og umsitingin skal framhaldandi avgreiða innskrivingina eftir galdandi leiðreglum.</s>
+              </p>
+              <p>
+                <s xml:id="f7s7jogzin">Tann grundleggjandi fortreytin fyri at veita pláss í skúlaumdømunum og í einstøku skúlunum er, at tað eru nógv pláss og nóg nógvir flokkar.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Broyting av skúlabygnaði</head>
+              <p>
+                <s xml:id="och73lh7q2">Við stórum ágangum á veg tey komandi árini kann staðfestast, at tørvur er á einum flokki eyka í 1. flokki komandi árini, og einstøk ár verður helst tørvur á tveimum eyka flokkum.</s>
+              </p>
+              <p>
+                <s xml:id="obtonxtxxg">Fyri at loysa hesa avbjóðing er neyðugt at taka støðu til, hvar pláss skulu vera til eyka flokkar, og tað eigur ikki bara at vera gjørt við at útvega pláss til eyka flokkar, men eisini spor.</s>
+                <s xml:id="rxt3wsxwdp">Loysnir, ið ikki bara eru fyri eitt og eitt ár í senn, men eru varandi loysnir, sum so kunnu føra til eyka spor og sostatt broyting í skúlabygnaðinum,</s>
+              </p>
+              <p>
+                <s xml:id="oa4xue3kqq">Í mun til teir komandi seks árgangirnar, sum vit kenna og væntaðan fólkavøkstur í ávísum økjum, har núverandi útstykkingar eru, og framtíðar útstykkingar verða, er skynsamt at útvega eitt spor afturat á Argjum og eitt í Hoyvík.</s>
+              </p>
+              <p>
+                <s xml:id="mr6oepzclb">Við undantakinum frá nýggja næmingahámarkinum á 22 næmingar fer væntandi at bera til at veita øllum børnum í 1. flokki komandi skúlaár pláss innanfyri karmarnar á verandi skúlabygnaði.</s>
+                <s xml:id="kahr7xgt23">Tó kann tað gerast ein avbjóðing, at tað verða ov fá tøk pláss til komandi tilflyting.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Greinir í fólkaskúlalógini viðvíkjandi broyting í skúlabygnaði</head>
+              <quote>
+                <p>
+                  <label rend="bold">§ 46.</label>
+                  <s xml:id="ftwia7q7tv">Skúlamyndugleikin á staðnum er kommunustýrið og skúlastýrið smb. § 50, 1. stk.</s>
+                </p>
+              </quote>
+              <quote>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 47.</hi>
+                    <hi rend="italic">Stk. 6.</hi>
+                  </label>
+                  <s xml:id="qtb5q2hl5r">Kommunustýrið ger uppskot um skúlabygnað kommununnar og broytingar í honum, sbr. §§ 32, stk.1 og 57, stk. 5.</s>
+                </p>
+              </quote>
+              <quote>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 52.</hi>
+                    <hi rend="italic">Stk. 4.</hi>
+                  </label>
+                  <s xml:id="hxt6ttpt7b">Skúlastýrið viðger saman við kommunustýrinum uppskot um skúlabygnað kommununnar og broytingar í honum, sbr. § 32, stk. 1.</s>
+                  <s xml:id="yykc566jla">Í teimum kommunum, ið hava tvey ella fleiri skúlastýri, velur kommunustýrið ein arbeiðsbólk, umboðandi øll skúlastýrini, at viðgera uppskot um skúlabygnað, sbr. § 47, stk. 6.</s>
+                </p>
+              </quote>
+              <quote>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 57.</hi>
+                    <hi rend="italic">Stk. 5.</hi>
+                  </label>
+                  <s xml:id="zbx6oy3anm">Landsstýrismaðurin góðkennir skúlabygnað kommununnar og tær ítøkiligu undirvísingarætlanirnar fyri teir einstøku skúlarnar og møguligar broytingar í teimum.</s>
+                  <s xml:id="tkho3yyvkz">Landstýrismaðurin kann loyva, at fleiri skúlar í einum øki verða roknaðir sum ein skúli, sjálvt um ikki øll undirvísingarhølini eru savnað á sama staði í økinum.</s>
+                </p>
+              </quote>
+            </div>
+            <div>
+              <head rend="bold">Skúlabygnaður í Tórshavnar kommunu</head>
+              <p>
+                <s xml:id="opjikk3wzy">Ein skúlabygnaður er í Tórshavnar kommunu, hann er tó ikki settur saman í eina heild, men er ein bygnaður fyri einstøku skúlarnar, og er góðkendur so hvørt broytingar hava verið, tað er t.d., tá nýggir skúlar eru bygdir, tá skúlar eru lagdir saman, tá nýggj hádeild er stovnað og tá 7. flokkur er tikin av í tveimum at smáu skúlunum.</s>
+              </p>
+              <p>
+                <seg>Sambært galdandi skúlabygnað er bygnaðurin fyri skúlarnar í miðstaðarøkinum hesin:</seg>
+              </p>
+              <!-- TODO: insert table later! -->
+              <p rend="italic">
+                <s xml:id="cimlfdqcnb">Næmingatølini í talvuni omanfyri eru fyri skúlaárið 2025-2026.</s>
+              </p>
+              <p>
+                <s xml:id="eiddjzfi7b">Skúlaumdømi og skúlabygnaður hanga saman, so um Tórshavnar kommuna ynskir, at hava fleiri spor í onkrum av skúlunum er neyðugt at broyta bygnaðin.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Mannagongd í sambandi við broyting í skúlabygnaði</head>
+              <p>
+                <s xml:id="jot3uuofxx">Er ætlanin at broyta skúlabygnaðin í Tórshavnar kommunu skal ein arbeiðsbólkur saman við kommunastýrinum gera uppskot um broytingar í honum, og har fleiri skúlastýri eru, velur kommunustýrið ein arbeiðsbólk umboðandi øll skúlastýrini.</s>
+                <s xml:id="l3ehqj5cpx">Í Tórshavnar kommunu eru 10 skúlastýri, og tey skulu so øll hava umboð í arbeiðsbólkinum.</s>
+              </p>
+              <p>
+                <s xml:id="jtiaedg5yr">Arbeiðsbólkurin viðgerð uppskot um broytingar, og niðurstøða og tilmæli frá arbeiðsbólkinum verða so løgd fyri trivnaðarnevndina við tilmæli frá umsitingini til støðutakan.</s>
+                <s xml:id="feb4uzs62t">Er niðurstøðan, at broytingar verða gjørdar i bygnaðinum, fer málið í býráðið, og verður tað samtykt har, verður umsókn send landstýrismanninum um at góðkenna, at skúlabygnaðurin verður broyttur.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Niðurstøða</head>
+              <p>
+                <s xml:id="pfee4rcexk">Einstakir eyka flokkar í skúlum passa ikki inn í bygnaðin fyri skúlan og órógva heildarskipanin í skúlanum øll árini til skúlin aftur hevur eitt flokkatal samsvarandi skúlabygnaðinum fyri skúlan.</s>
+              </p>
+              <p>
+                <s xml:id="djsaq4qrve">Framtíðar næmingatal og útstykkingar geva greiðar ábendingar um at tørvur er á einum og kanska tveimum sporum afturat í miðstaðarøkinum í Tórshavnar kommunu.</s>
+                <s xml:id="b3yl6eb2pg">Við tí sum grundarlag verður mett neyðugt at fara undir eina tilgongd at broyta skúlabygnaðin við einum ella tveimum sporum afturat fyri at sleppa undan órógvandi fyribilsloysnum.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <p>
+              <label>Trivnaðarnevndin 02. oktober 2025:</label>
+              <seg>Samtykt at taka undir við tilmælinum.</seg>
+            </p>
+            <p>
+              <s xml:id="se3vggw7da">Samstundis heitir trivnaðarnevndin á umsitingina, um at arbeiða víðari við møguligum fyribils hølisloysnum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <p>
+              <s xml:id="bsvifkemrq">Komandi trý skúlaárini verður eins og hetta skúlaárið tørvur á einum eyka 1. flokki í miðstaðarøkinum í Tórshavnar kommunu.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Fyribilsloysnir</head>
+            <p>
+              <s xml:id="brov6xhr7e">Trý tey komandi skúlaárini er tørvur á meir enn 13 sporum miðstaðarøkinum.</s>
+            </p>
+            <list rend="simple">
+              <item>2026-2027 14 spor, heimild til undantak til 24 næmingar í hvørjum flokki</item>
+              <item>2027-2028 15 spor, á markinum til 15 spor</item>
+              <item>2028-2029 14 spor</item>
+            </list>
+            <p>
+              <s xml:id="kgnejl7hsw">Síðani lækkar næmingatalið aftur, og sum tað sær út beint nú, eru 13 spor tá nóg mikið.</s>
+              <s xml:id="cls2ug4mkr">Men vakstrarøkini eru Argir, Hoyvík og vesturbýurin, so tørvurin á eyka spori/sporum verður væntandi í teimum pørtunum av býnum.</s>
+            </p>
+            <p>
+              <s xml:id="xcnztnyd34">Í sambandi við tørvin á eyka fyrsta flokki/flokkum komandi árini hevur umsitingin havt fund við skúlastjórarnar í skúlunum í miðstaðarøkinum.</s>
+              <s xml:id="h5f74jnq47">Skúlastjórarnir greiddu frá umstøðunum í teirra skúlum til eyka flokkar, og hvørjir møguleikar vóru at hava eyka flokkar.</s>
+            </p>
+            <p>
+              <seg>Umsitingin vísti á hesar møguleikar:</seg>
+            </p>
+            <list>
+              <label>1.</label>
+              <item>
+                <p>
+                  <seg>Loysa trupulleikan so hvørt og søkja um eyka flokk, har tørvurin á plássum er størstur.</seg>
+                  <s xml:id="xnpugm3wme">Talan verður tá um bráðfeingisloysnir, og foreldur vita ikki fyrrenn innskrivingin er liðug, í hvørjum skúla eyka flokkur verður.</s>
+                </p>
+              </item>
+              <label>1.</label>
+              <item>
+                <p>
+                  <seg>Taka støðu til, at eyka flokkar verða í einum skúla, og hølisloysnin verður góð, so til ber at leggja ætlan nú fyri tey trý komandi skúlaárini, og foreldur fáa at vita, hvar eyka flokkur verður.</seg>
+                  <s xml:id="xyfl37ybh6">Haraftrat verða upptøkuøkini lagað til, so tey passa betur til plássini í skúlanum.</s>
+                </p>
+              </item>
+              <label>3.</label>
+              <item>
+                <p>
+                  <s xml:id="hwicjx2pjx">Bygt verður til eitt spor aftrat, og miðstaðarøkið verður møguliga býtt upp i trý upptøkuøki.</s>
+                </p>
+              </item>
+            </list>
+
+            <p>
+              <s xml:id="sy42holjzp">Umsitingin mælir til loysn 2, so foreldur vita, hvar eyka flokkur er, og skúlin veit, at hann hevur eyka flokkar inni hetta tíðarskeiðið og fær skipað seg eftir tí.</s>
+            </p>
+            <div>
+              <head>Viðmerkingar hjá skúlastjórunum</head>
+              <p>
+                <s xml:id="avkviwig3t">Skúlin á Fløtum - tað er ikki pláss í Skúlanum á Fløtum til eitt eyka spor, men um góð hølisloysn verður funnin, ber væl til at taka ein eyka fyrsta flokk inn í trý ár á rað, tí tað passar inn í bygnaðin í skúlanum.</s>
+                <s xml:id="u7qr6te7q3">Tá flokkarnir koma til hádeildina, er eingin trupulleiki, at ein flokkur er aftrat heldur ikki viðvíkjandi hølum.</s>
+                <s xml:id="wlqyzhaqip">Um ein loysn skal fremjast í Skúlanum á Fløtum, ynskir skúlin eisini ein eyka forskúlaflokk.</s>
+                <s xml:id="t62373wvas">Skúlin hevur tó ikki eitt brennandi ynski um at fáa eyka flokkar.</s>
+              </p>
+              <p>
+                <s xml:id="frbfoo4vz2">Fyri skipanina í skúlanum er tað ólagaligt bert at fáa ein eyka flokk.</s>
+                <s xml:id="nncr74andg">Tí ynskir skúlin ikki eyka flokk, um tað bara er tað eina árið, at ein eyka fyrsti flokkur verður tikin inn í skúlan.</s>
+              </p>
+              <p>
+                <s xml:id="jrnrnd3cmp">Sankta Frans skúli - kann eisini taka eyka flokkarnar, men tað er ikki pláss í skúlanum til meir enn ein eyka flokk aftrat.</s>
+                <s xml:id="rwkjuzrho2">So neyðugt verður at finna góðar hølisloysnir til í hvussu er tveir eyka flokkar.</s>
+                <s xml:id="b6b2dko2ff">Tó verður neyðugt at finna eina loysn, tá næmingarnir koma í hádeild, tí í bygninginum til hádeildina er bert pláss til tveir flokkar í hvørjum árgangi.</s>
+              </p>
+              <p>
+                <s xml:id="ir5ba3oarb">Skúlin á Argjahamri - tað er ikki pláss í skúlanum, men skúlin er sinnaðar at taka eyka flokkarnar, um góð hølisloysn verður funnin.</s>
+                <s xml:id="wk6pd6wh4w">Tað er ábært á Hamrinum, so um fyribilshøli verða sett upp, skal atlit takast at veðrinum, og útiøkið/spæliøkið hjá børnunum er ikki so stórt, so ansast skal eftir ikki at minka um tað.</s>
+              </p>
+              <p>
+                <s xml:id="f6wh4chjk5">Eysturskúlin - í Eysturskúlanum er pláss at taka ein eyka flokk inn hvørt ár næstu trý árini, og tað er pláss allan vegin upp av tí, at næmingatalið í eysturbýnum hevur sveiggjað, so í summum av yngru árgangunum er bert ein flokkur og í onkrum árgangi í hádeildini bert tveir.</s>
+              </p>
+              <p>
+                <s xml:id="y5noms6uot">Hoyvíkar skúli - tað er ikki pláss í skúlanum, men skúlaleiðslan er sinnað at taka eyka flokkar, um høli verða útvegað, so pláss er fyri flokkunum.</s>
+              </p>
+              <p>
+                <s xml:id="w5hhjqqkwm">Skúlin við Løgmannabreyt var ikki umboðaður á fundinum, men skipanin við stórflokkum ger, at tað er serliga trupult at vaksa skúlan við einum flokki í ávísum árgangum Við nóg stórum eyka hølum hevði tó borið til at býtt 3 flokkar í tveir stórflokkar.</s>
+              </p>
+              <p>
+                <s xml:id="kt5scuusac">Samanumtikið ber til at taka eyka flokkar inn í skúlarnar í miðstaðarøkinum.</s>
+                <s xml:id="taxeu3slah">Hetta krevur tó eyka hølisloysnir í øllum skúlum uttan Sankta Frans skúla tað eina árið og í Eysturskúlanum í trý ár.</s>
+                <s xml:id="hptsh3ygkk">Í hinum skúlunum er neyðugt at útvega eyka hølir og harafturat er neyðugt við eyka hølum til frítíðarskúlan, har eyka flokkar verða.</s>
+              </p>
+              <p>
+                <s xml:id="ef3co6osbx">At býta miðstaðarøkið upp í trý skúlaumdømi og byggja út til eitt spor aftrat í hvørjum øki, er neyvan ein realistisk loysn.</s>
+                <s xml:id="rbaijno5fd">Ivasamt er, um landsmyndugleikarnir høvdu góðkent eina loysn, sum í grundini kann bera í sær, at tað okkurt árið verða tríggir eyka flokkar í miðstaðarøkinum í Tórshavnar kommunu, hóast næmingatalið tilsamans í øllum økinum ikki er grundarlag fyri hesum flokkum.</s>
+                <s xml:id="gg3leklvlt">Haraftrat hevði kommunan skula útbygt skúlar í øllum trimum økjunum, so pláss var til eitt eyka spor í hvørjum øki.</s>
+              </p>
+              <p>
+                <s xml:id="wgvxtycjey">Ein avleiðing av hesum kann eisini verða, at næmingtalið í flokkunum blívur lágt, og tað ávirkar tímajáttanina og møguleikarnar fyri fleiri valmøguleikum t.d. fleiri tilboðum í hádeildini.</s>
+                <s xml:id="vud5jqjw2v">Tað kann eisini vera ein fyrimunur fyri samspælið í flokkinum, at næmingatlið ikki er ov lágt.</s>
+              </p>
+              <p>
+                <seg>Um miðstaðarøkið verður býtt upp í trý skúlaumdømi, sum nevnt omanfyri, og trý spor verða aftrat í hvørjum árgangi, soleiðis at farið verður úr 13 sporum upp í 16, hevði hetta verið talið á flokkum í hvørjum øki og miðaltalið í flokkunum í ymsu økjunum í miðstaðarøkinum komandi árini:</seg>
+              </p>
+              <div>
+                <head>Vesturbýur/Argir, 1. flokkur</head>
+                <table>
+                  <row role="label">
+                    <cell>Skúlin á Fløtum og Skúlin á Argjahamri</cell>
+                    <cell>næmingar</cell>
+                    <cell>flokkar</cell>
+                    <cell>næm pr.<lb/>flokk</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2026/27</cell>
+                    <cell>112</cell>
+                    <cell>6</cell>
+                    <cell>18,7</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2027/28</cell>
+                    <cell>111</cell>
+                    <cell>6</cell>
+                    <cell>18,5</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2028/29</cell>
+                    <cell>104</cell>
+                    <cell>5</cell>
+                    <cell>20,8</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2029/30</cell>
+                    <cell>113</cell>
+                    <cell>6</cell>
+                    <cell>18,8</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2030/31</cell>
+                    <cell>75</cell>
+                    <cell>4</cell>
+                    <cell>18,8</cell>
+                  </row>
+                  <row role="data">
+                    <cell>2031/32</cell>
+                    <cell>90</cell>
+                    <cell>5</cell>
+                    <cell>18</cell>
+                  </row>
+                </table>
+              </div>
+              <div>
+                <head>Miðbýur /eysturbýur, 1.flokkur</head>
+                <table>
+                  <row>
+                    <cell>Sankta Frans skúli og Eysturskúlin</cell>
+                    <cell>næmingar</cell>
+                    <cell>flokkar</cell>
+                    <cell>næm pr.<lb/>flokk</cell>
+                  </row>
+                  <row>
+                    <cell>2026/27</cell>
+                    <cell>102</cell>
+                    <cell>5</cell>
+                    <cell>20,4</cell>
+                  </row>
+                  <row>
+                    <cell>2027/28</cell>
+                    <cell>108</cell>
+                    <cell>5</cell>
+                    <cell>21,6</cell>
+                  </row>
+                  <row>
+                    <cell>2028/29</cell>
+                    <cell>89</cell>
+                    <cell>5</cell>
+                    <cell>17,8</cell>
+                  </row>
+                  <row>
+                    <cell>2029/30</cell>
+                    <cell>87</cell>
+                    <cell>4</cell>
+                    <cell>21,8</cell>
+                  </row>
+                  <row>
+                    <cell>2030/31</cell>
+                    <cell>74</cell>
+                    <cell>4</cell>
+                    <cell>18,5</cell>
+                  </row>
+                  <row>
+                    <cell>2031/32</cell>
+                    <cell>65</cell>
+                    <cell>3</cell>
+                    <cell>21,7</cell>
+                  </row>
+                </table>
+              </div>
+              <div type="section">
+                <head>Hoyvík, 1. flokkur</head>
+                <table>
+                  <row>
+                    <cell>Hoyvíkar skúli og Sk. við Løgmannabreyt</cell>
+                    <cell>næmingar</cell>
+                    <cell>flokkar</cell>
+                    <cell>næm pr.<lb/>flokk</cell>
+                  </row>
+                  <row>
+                    <cell>2026/27</cell>
+                    <cell>89</cell>
+                    <cell>5</cell>
+                    <cell>17,8</cell>
+                  </row>
+                  <row>
+                    <cell>2027/28</cell>
+                    <cell>92</cell>
+                    <cell>5</cell>
+                    <cell>18,4</cell>
+                  </row>
+                  <row>
+                    <cell>2028/29</cell>
+                    <cell>94</cell>
+                    <cell>5</cell>
+                    <cell>18,8</cell>
+                  </row>
+                  <row>
+                    <cell>2029/30</cell>
+                    <cell>72</cell>
+                    <cell>4</cell>
+                    <cell>18</cell>
+                  </row>
+                  <row>
+                    <cell>2030/31</cell>
+                    <cell>76</cell>
+                    <cell>4</cell>
+                    <cell>19</cell>
+                  </row>
+                  <row>
+                    <cell>2031/32</cell>
+                    <cell>67</cell>
+                    <cell>4</cell>
+                    <cell>16,8</cell>
+                  </row>
+                </table>
+              </div>
+              <p>
+                <s xml:id="l3ucdwyhna">Útrokningarnar í talvuni omanfyri eru grundaðar á núverandi barnatal í miðstaðarøkinum, fólkavøkstur er ikki roknaður uppí, og tað er ikki tikið við, at nøkur børn fara í Lítlaskúla og einstøk í Skúlan á Trøðni.</s>
+                <s xml:id="tbhiuugebu">Talvan gevur tó eina ábending um, at verður miðstaðarøkið trý skúlaumdømi, so verður neyðugt at byggja út í øllum økjunum.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Færri skúlaumdømi/grundupptøkuøki</head>
+            <p>
+              <s xml:id="dmxymhe64l">Um so er, at tað høvdu verið trý skúlaumdømi í miðstaðarøkinum, so er ikki vist, at øll sum búgva í einum økja fáa pláss í øðrum av skúlunum í økinum, tí sambært § 32 í fólkaskúlalógini, so kunnu smærri umleggingar av umdømunum verða gjørdar í sambandi við ta árligu innskrivingina.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Metingar hjá Mentamáladeildini</head>
+            <p>
+              <s xml:id="wfifqph7q6">Skúli og frítíðarskúli hoyra saman, soleiðis at skilja, at børn í einum skúla ganga í ein ávísan frítíðarskúla.</s>
+              <s xml:id="cfxwoak2yi">Um eyka flokkar verða tiknir inn í skúla er eisini neyðugt, at hølir eru tøk í frítíðarskúla.</s>
+            </p>
+            <p>
+              <s xml:id="qrfdbjliiu">Tann bíligasta loysnin er, at eyka flokkar verða tiknir inn í Eysturskúlan, tí har eru høli tøk til skúlapartin, so neyðugt verður bert at útvega hølir til frítíðaskúlan.</s>
+              <s xml:id="yb4ixx4hzn">Spurningurin er so, um tað er skynsamt, at eyka flokkarnir verða í Eysturskúlanum, tí tað er ikki í eysturbýnum, at tørvurin er størstur.</s>
+              <s xml:id="sbmps54xny">Býurin er tó ikki so stórur, og royndin hjá skúlanum er, at tá børnini hava gingið eina tíð í skúla, so kenna teg seg sum part av bólkinum, og bústaðurin hevur sum so ikki ávirkan á, at tey trívast.</s>
+            </p>
+            <p>
+              <s xml:id="lsubfvg735">Tað ber eisini til at taka ein flokk aftrat inn í Sankta Frans skúla, tí høli eru tøk til tað, men um skúlin skal taka eyka flokk inn trý ár á rað, er neyðugt at útvega hølir til tveir flokkar eyka.</s>
+              <s xml:id="mkg2yzcxfi">Tað er ikki so gott pláss at seta eyka høli upp við Sankta Frans skúla.</s>
+              <s xml:id="dzmedzhnjs">Tað ber kanska til í skúlagarðinum, men tá fer stórur partur burtur av spæliøkinum hjá næmingunum.</s>
+              <s xml:id="dajpd4zqqk">Fyribilshølini í skúlagarðinum hjá Hoyvíkar skúla eru til tveir flokkar, og tey eru uml. 180 m2 ella 18x10.</s>
+            </p>
+            <p>
+              <s xml:id="mfqnwj6bhr">Ein fyrimunur, at eykaflokkarnir eru í miðbýnum, er bussleiðin, ti flestu bussar steðga í Steinatúni, og haðani er stutt at ganga niðan í Sankta Frans skúla.</s>
+            </p>
+            <p>
+              <s xml:id="lwfwttror4">Tað er ikki so eyðsýnt at hava eyka flokkarnar í Hoyvík, tí Skúlin við Løgmannabreyt er bygdur til ávísa námsfrøði við stórum flokkum, og tað ber ikki so væl til at býta tríggjar flokkar í tveir, tí næmingatalið passar ikki so væl.</s>
+            </p>
+            <p>
+              <s xml:id="jdca2k3x2f">Nýggjur bygningur skal byggjast til Hoyvíkar skúla.</s>
+              <s xml:id="uiezpm4hab">Í verandi hølum er ikki pláss fyri fleiri flokkum.</s>
+              <s xml:id="acbty6x5it">Fyri nøkrum árum síðani vóru fyribilshøli við tveimum flokshølum sett upp í skúlagarðinum fyri at kunna hýsa øllum virkskeminum í skúlanum.</s>
+            </p>
+            <p>
+              <s xml:id="ameyblhe3j">Tey árini pláss ikki er fyri øllum næmingunum, sum búgva í upptøkutøkinum í skúlunum í Hoyvík ber til at minka um upptøkuøkið,, so partur av økinum fer í skúla niðri í býnum.</s>
+            </p>
+            <p>
+              <s xml:id="ohhlyvn6la">Skúlin á Fløtum hevur ikki pláss fyri eykaflokkum, men til ber at seta fyribilshøli upp við skúlan, tætt við grunddeildina.</s>
+              <s xml:id="c7ljdyubfz">Treytað av at skúli og frítíðarskúli partvís kunnu brúka somu høli, er tørvur á 4 fyribilshølum.</s>
+              <s xml:id="fu7lu4csab">Fyrsti flokkur hevur so sínar heimastovur har, og hølini kunnu eisini virka sum høli hjá frítíðarskúlanum.</s>
+              <s xml:id="cmnevg32ke">Seks ár eftir, at fyrsti eyka flokkurin er tikin inn, eru nóg mikið av hølum til, at fyrsti flokkur flytur inn aftur í skúlan.</s>
+            </p>
+            <p>
+              <s xml:id="zz3dkvbmnr">Skúlin á Fløtum er størsti skúli í kommununi við 784 næmingum.</s>
+              <s xml:id="sfego6wu6l">Koma tríggir flokkar aftrat hækkar næmingatalið við 66 næmingum, men hóast skúlin er stórur, er hann bygdur soleiðis, at hvør deild er ein eind fyri seg, so skúlin virkar ikki so stórur.</s>
+            </p>
+            <p>
+              <s xml:id="k6bsebmwe3">Fyrimunur við at hava eyka flokkarnar í Skúlanum á Fløtum er, at bæði Argir og vesturbýur hava høgt barnatal, og tað er ikki so langt av Argjum í Skúlan á Fløtum, tó passar busssambandið ikki so væl millum allar býlingarnar á Argjum og Skúlan á Fløtum.</s>
+              <s xml:id="tcbluxioiq">Tað er heldur ikki langt úr miðbýnum og í Skúlan á Fløtum, so tað hevði borið til at víðkað upptøkusøkið hjá Skúlanum á Fløtum bæði inn í økið hjá Sankta Frans skúla og inn í økið hjá Skúlanum á Argjahamri.</s>
+            </p>
+            <p>
+              <s xml:id="uxpfq5q7j4">Tað er ikki pláss í Skúlanum á Argjahamri fyri eyka flokki/flokkum, so um flokkarnir verða har, er neyðugt at seta fyribilshøli upp.</s>
+              <s xml:id="jmtm4wd55g">Útiøkið hjá skúlanum er ikki so væl egnað til fyrbilshøli.</s>
+              <s xml:id="zzwhwu3x7y">Býarskipanardeildin vísir á møguleikan, at nøkur grundstykki omanfyri skúlan verða hildin aftur í nøkur ár, so fyribilshøli kunnu setast upp har.</s>
+              <s xml:id="eruq4m57dt">Nógv verður bygt á Argjum, so lítið er at ivast í, at næmingatalið verður nakað hægri enn talið, sum tekur støði í núverandi tali á børnum undir skúlaaldur.</s>
+              <s xml:id="ohjimfvs7e">Fyrimunur við at hava eyka flokkar á Argjum er, at tað ber til at flyta upptøkuøkið hjá skúlanum inn í økið hjá Skúlanum á Fløtum og at laga upptøkuøkini hjá Skúlanum á Fløtum og hjá Sankta Frans skúla eftir tí.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Arbeiðsbólkur umboðandi skúlastýrini</head>
+            <p>
+              <s xml:id="g3vtfpqoj2">Umsitingin hevur ikki uppskot til arbeiðsbólk enn, tí mett verður skilabest at bíða við at seta arbeiðið í gongd, til betri grundarlag er tøkt at taka støðu út frá.</s>
+            </p>
+            <p>
+              <s xml:id="zwqokmyuqt">Býarskipanardeildin setir júst nú í samstarvi við Bygningdeildina, Barna og Ungdómsdeildina og Mentamáladeildina eitt arbeiði í gongd at gera heildarætlan fyri kjarnutænastur fyri børn og ung í Tórshavn.</s>
+              <s xml:id="g236zeyhfi">Hetta arbeiðið fer m.a. at byggja á lýsingar og metingar av núverandi hølis- og útbyggingarmøguleikum, fólkfrøðisligar metingar av fólkasamanseting og vøkstri.</s>
+              <s xml:id="q74luhqg7c">Heildarætlanin kemur at fyrihalda seg til framtíðar tørv á plássum og útbygging innan skúla, forskúla og frítíðarskúla.</s>
+              <s xml:id="fsw252hvc5">Heildarætlani skal verða liðug í januar/februar 2026.</s>
+            </p>
+            <p>
+              <s xml:id="migvue6bbq">Í mun til komandi avbjóðingar við skúlainnskrivingini fyri skúlárið 2026/27, sum byrjar hálvan desembur 2025, er ikki gjørligt at gera skjótar yvirskipaðar broytingar í skúlabygnaðinum.</s>
+              <s xml:id="pysb6uxej7">Men vit kunnu arbeiða fram ímóti at verða klár til at seta eina formliga viðgerð av skúlabygnaðinum í verk, tá heildarætlan fyri kjarnutænastur fyri børn og ung í Tórshavnar kommunu fyriliggur.</s>
+            </p>
+            <p>
+              <s xml:id="v4tfjp47hg">Í mun til skúlainnskrivingina til skúlaárið 2026/27 er neyðugt, at Mentamaldeildin hevur eina ætlan fyri, hvussu hon verður handfarin, og at ætlanin verður staðfest í nevndarumfarinum í novembur 2025.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Arbeiðssetningur</head>
+            <p>
+              <s resp="#rani" xml:id="amg4wf7qk4">Ávegis uppskot til arbeiðssetning er hjálagt.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Forskúli og leiðreglur</head>
+            <p>
+              <s xml:id="otatwj7kx2">Umsitingin hevur spurt seg fyri hjá løgfrøðingi viðvíkjandi heimild at broyta leiðreglurnar, soleiðis at bert børn, ið búgva í grundupptøkuøkinum hjá einum skúla hava møguleika at skriva seg inn í forskúla har.</s>
+              <s xml:id="cqnptmacqw">Við tílíkari skipan, høvdu børn í upptøkuøkinum hjá Eysturskúlanum og børn í upptøkuøkinum hjá Hoyvíkar skúla og Skúlanum við Løgmannabreyt ikki havt møguleika at fingið pláss í forskúla.</s>
+            </p>
+            <p>
+              <s xml:id="nqgpwsaabx">Í miðstaðarøkinum, høvdu so bert børn í grundupptøkuøkjunum hjá Sankta Frans skúla, hjá Skúlanum á Fløtum og hjá Skúlanum á Argjahamri havt møguleika at fáa pláss í forskúla.</s>
+            </p>
+            <p>
+              <s xml:id="cl6ipkpem2">Svarið frá løgfrøðingi á Stjórnanskrivstovuni er, at ein kommuna ikki kann áseta eina innanhýsis treyt, sum alment útilokar øll, ið ikki lúka ávísa treyt.</s>
+            </p>
+            <p>
+              <s xml:id="acxezykrw2">Innan fyrisitingarrættin er bann fyri at seta <hi rend="italic">meting undir reglu</hi>.</s>
+              <s xml:id="oeapr3emqc">Grundreglan merkir, at tað er ikki loyvt at velja eina ávísa treyt burturúr og lata hana vera avgerandi fyri metingina.</s>
+            </p>
+            <p>
+              <s xml:id="landrykgfe">Í hesum ítøkiliga málinum hevði broytingin ført við sær, at børn í økjum uttan forskúla fáa verri atgongd til forskúlatilboð, og avmarkingin er í stríð við fyrisitingarligu aðalregluna líkaregluna.</s>
+              <s xml:id="lftsml63p4">Ein slík skipan hevði elvt til, at børn í upptøkuøkjum hjá skúlum uttan forskúla, høvdu verið útilokað frá møguleikanum at fáa forskúlapláss, hóast tøk pláss eru.</s>
+              <s xml:id="x4i5wbtiyz">Broytingin hevði ført við sær, at ein partur av umsøkjarum høvdu verið útilokaðir frammanundan uttan at fáa eina ítøkiliga meting frá myndugleikans síðu.</s>
+            </p>
+            <p>
+              <s xml:id="ls4njtjblf">Tað er tó einki, ið forðar fyri, at børn, ið búgva í upptøkuøkinum hjá skúlanum, hava framíhjárætt at fáa pláss í forskúlanum har – so leingi framíhjárætturin er grundaður á saklig atlit, og ikki á eina reglu, sum útilokar onnur uttan ítøkiliga meting.</s>
+            </p>
+            <p>
+              <s xml:id="qu2klr7by5">Niðurstøðan er sostatt, at tað ikki er heimild at avmarka rættin til forskúlapláss, soleiðis at bert børn í upptøkuøkinum hjá einum skúla kunnu fáa pláss í forskúlanum.</s>
+            </p>
+            <p>
+              <s resp="#rani" xml:id="npdc76wyho">Sí hjálagt teldpostsamskifti við løgfrøðing á Stjórnarskrivstovuni.</s>
+            </p>
+            <p>
+              <s xml:id="zaitve42fl">Ítøkiliga merkir niðurstøðan, at Mentamáladeildin viðgerð tær innskrivingar, ið eru komnar innan umsóknarfreistina.</s>
+              <s xml:id="q66y4wiev3">Fyrst verða tey innskrivað, ið hava systkin í skúlanum og síðani tey, ið búgva í grundupptøkuøkinum.</s>
+              <s xml:id="trxneoezrn">Um tað tá eru tøk pláss, verða móttiknar innskrivingar úr øðrum grundupptøkuøkjum viðgjørdar, og børnini innskrivað.</s>
+              <s xml:id="ivsmq7hpdg">Tá viðgerðin er liðug, verða innskrivingar, sum eru móttiknar eftir freistina, viðgjørdar.</s>
+            </p>
+            <div>
+              <head>Niðurstøða hjá umsitingini</head>
+              <p>
+                <seg>Tað er torført at finna eina loysn, sum er tann besta ella frægasta, men raðfest uppskot hjá mentamáladeildini er niðanfyri her:</seg>
+              </p>
+              <list>
+                <label>1.</label>
+                <item>
+                  <p>
+                    <s xml:id="mfrl3qgfbo">Eysturskúlin tekur ein flokk eyka í trý ár á rað.</s>
+                    <s xml:id="eujlwtn73s">Fyrimunir við hesi loysn er, at tað er pláss í skúlanum, so neyðugt verður ikki at gera íløgu í høli.</s>
+                    <s xml:id="g2hbsglvr6">Tó verður neyðugt at útvega høli til frítíðarskúlan Smílibýlið.</s>
+                    <s xml:id="abav7e7wjb">Hølini hjá frítíðarskúlanum eru ikki nøktandi, so ein partur av frítíðarskúlanum brúkar fyribilshølini, sum eru sett upp í skúlagarðinum í Eysturskúlanum.</s>
+                  </p>
+                  <p>
+                    <s xml:id="pxh5r4k4do">Tað kann vera ein vansi, at summi børn í einum fyrsta flokki hava gingið i forskúla í skúlanum í eitt ár og onnur ikki.</s>
+                    <s xml:id="avfe25kmxg">Eingin forskúli er í Eysturskúlanum, so skúlabørnini byrja øll í skúlanum í fyrsta flokki, so ti viðvíkjandi eru tey øll í somu støðu.</s>
+                  </p>
+                  <p>
+                    <s xml:id="onsknup26z">Hádeildin í Eysturskúlanum er trý spor, og tað er ikki trupulleiki at hava ein flokk eyka, tá hesir flokkar koma í hádeildina.</s>
+                  </p>
+                  <p>
+                    <s xml:id="g4rksqrvdn">Um eyka flokkarnir verða í Eysturskúlanum, verður upptøkuøkið víðkað inn í økið hjá Sankta Frans skúla, partur av økinum hjá Skúlanum á Fløtum verður so flutt til økið hjá Sankta Frans skúla, og partur av økinum hjá Skúlanum á Argjahamri verður flutt í økið hjá Skúlanum á Fløtum.</s>
+                    <s xml:id="enfvyxwjn2">Ein avbjóðing við hesi loysn er, at neyðugt verður at flyta fleiri mørk, og at barnatalið í eysturbýnum er ikki høgt.</s>
+                  </p>
+                </item>
+                <label>2.</label>
+                <item>
+                  <p>
+                    <s xml:id="pqak3ako3h">Skúlin á Fløtum tekur ein flokk eyka í trý ár á rað.</s>
+                    <s xml:id="nsxfgcy7hr">Fyrimunur við hesi loysn er, at skúlin er í einum øki við høgum barnatali og við ávísum bústaðarvøkstri, haraftrat er barnatalið í upptøkuøkjunum hjá grannaskúlunum eisini høgt, so til ber at víðka økið hjá Skúlanum á Fløtum bæði inn í økið hjá Skúlanum á Argjahamri og økið hjá Sankta Frans skúla.</s>
+                  </p>
+                  <p>
+                    <s xml:id="ngevnmwial">Høl eru ikki tøk í skúlanum, men til ber at seta fyribilshølir upp tætt við grunddeildina í útiøkinum hjá skúlanum.</s>
+                    <s xml:id="jow43wazxs">Skúlin metir, at hesi høli kunnu innrættast til bæði skúla og frítíðarskúla.</s>
+                  </p>
+                  <p>
+                    <s xml:id="ddittcfhdj">Ein vansi við at taka eykaflokkar inn í Skúlan á Fløtum er, at hann hevur tríggjar forskúlaflokkar, og at tað so verða nøkur børn, sum hava gingið í forskúla í skúlanum og onnur ikki, og at tað kanska verður neyðugt at skipa forskúlaflokkarnar av nýggjum, tá teir fara í fyrsta flokk, so forskúlanæmingarnir ikki halda fram í somu flokkum, men verða býttir út á teir fýra fyrstu flokkarnar.</s>
+                  </p>
+                  <p>
+                    <s xml:id="qwtipjd4jh">Hádeildin í Skúlanum á Fløtum er fimm spor, og so hvørt eykaflokkarnir koma í hádeild, verður ikki neyðugt við eyka hølum.</s>
+                    <s xml:id="cvoe3nwug5">Men tey árini eyka flokkar eru í skipanini, verður ikki møguligt hjá næmingum úr øðrum skúlum at fáa pláss á ítróttarás í Skúlanum á Fløtum.</s>
+                  </p>
+                </item>
+                <label>3.</label>
+                <item>
+                  <p>
+                    <s xml:id="i5tqjkshax">Sankta Frans skúli tekur ein eyka flokk í eitt ár aftrat, og tað verður komandi skúlaár.</s>
+                    <s xml:id="ijemz57ava">Skúlin á Argjahamri tekur so eyka flokkar í tvey ár á rað.</s>
+                  </p>
+                  <p>
+                    <s xml:id="fjarlk6mlg">Í Sankta Frans skúla er pláss fyri einum flokki aftrat, men um eyka flokkar verða trý á aftrat, verður neyðugt at útvega høli til tveir flokkar.</s>
+                    <s xml:id="hstzxk6pyn">Um eyka flokkur ella eyka flokkar verða tiknir inn í Sankta Frans skúla, verður neyðugt at útvega hølir til frítíðarskúlan.</s>
+                  </p>
+                  <p>
+                    <s xml:id="pfmtupuos4" resp="#rani">Hádeildin í Sankta Frans skúla er tvey spor, og í bygninginum til hádeildina er ikki pláss fyri fleiri flokkum, so tá núverandi eyka flokkur í Sankta Frans fer í 7. flokk, og so hvørt hinir møguligu eyka flokkarnir fara í hádeild, er neyðugt at finna eina hølisloysn, so til ber at hava hádeildina í eini eind.</s>
+                  </p>
+                  <p>
+                    <s xml:id="apdkj7sccx">Ein vansi við at taka eyka flokkar inn í Sankta Frans skúla er, at hann hevur tveir forskúlaflokkar, og at tað so verða nøkur børn, sum hava gingið í forskúla í skúlanum og onnur ikki, og at tað kanska verður neyðugt at skipa forskúlaflokkarnar av nýggjum, tá teir fara í fyrsta flokk, so forskúlanæmingarnir ikki halda fram í somu flokkum, men verða býttir út á teir tríggjar fyrstu flokkarnar.</s>
+                  </p>
+                  <p>
+                    <s xml:id="hyba6t4pxj">Ein fyrimunur við loysn í Sankta Frans skúla er, at skúlin er í miðbýnum, og tað ber væl til at laga upptøkuøkini eftir tí.</s>
+                    <s xml:id="uz22ezjroc">Umframt at upptøkuøkið hjá Sankta frans skúla verður víðkað út í økið hjá Skúlanum á Fløtum, kann tað eisini víðkast inn í ein part av upptøkuøkinum, sum hoyrir til skúlarnar í Hoyvík.</s>
+                  </p>
+                  <p>
+                    <s xml:id="do33fjffkc">Skúlin á Argjahamri tekur eyka fyrsta flokk inn tvey ár á rað, tann fyrra skúlaárið 2027/28.</s>
+                    <s xml:id="dvbpksn2sa">Tað er ikki pláss i skúlanum, so neyðugt verður at útvega hølir til bæði skúla og frítíðarskúla.</s>
+                  </p>
+                  <p>
+                    <s xml:id="mvtwa753t3">Fyribilshøli kundu kanska verið sett upp í einum økið tætt við høvuðsdyrnar, men tað er ikki tætt við grunddeildina, so skilabest er, at aðrir flokkar verða har, kanska elsti árgangurin í miðdeild.</s>
+                    <s xml:id="gf247p5uhk">Tað kann eisini verða kannað um tað ber til at halda nøkrum at grundstykkjunum omanfyri skúlan aftur, og so seta møgulig fyribilshøli til skúla og frítíðarskúla upp har.</s>
+                  </p>
+                  <p>
+                    <s resp="#rani" xml:id="wbd3zygxyv">Ein vansi við at taka eyka flokkar inn í Skúlan á Argjahamri er, at hann hevur tveir forskúlaflokkar, og at tað so verða nøkur børn, sum hava gingið í forskúla í skúlanum og onnur ikki, og at tað kanska verður neyðugt at skipa forskúlaflokkarnar av nýggjum, tá teir fara í fyrsta flokk, so forskúlanæmingarnir ikki halda fram í somu flokkum, men verða býttir út á teir tríggjar fyrstu flokkarnar.</s>
+                  </p>
+                  <p>
+                    <s xml:id="mu3nh5ms3w">Ein fyrimunur við hesi loysn er, at tað verður betri tíð til at fyrireika hølisloysnina til skúla og frítíðarskúla.</s>
+                  </p>
+                </item>
+              </list>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Tilmæli:</head>
+            <p>
+              <s xml:id="mb3nnvnntv">Trivnaðarstjórin og leiðarin á mentamáladeildini mæla trivnaðarnevndini til at samtykkja, at møguligir eyka fyrstu flokkar komandi trý skúlaárini verða tiknir inn í Eysturskúlan.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 06. november 2025:</label>
+              <s xml:id="qlji72woci">Ein meiriluti, Heidi Lava Elgeirsdóttir, Høgni Vilhelmsen og Annfinn Brekkstein, mæla til at keypa mondulir til Skúlan á Fløtum og Skúlan á Argjahamri, at taka i nýtslu skúlaárið 2026/2027.</s>
+            </p>
+            <p>
+              <s xml:id="ekqphrfbs3">Ein minniluti, Annita á Fríðriksmørk og Kristianna Winther Poulsen, taka undir við loysn 2.</s>
+            </p>
+            <p>
+              <s xml:id="vt5or3sf6v">Málið verður beint í fíggjarnevndina.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Fíggjarnevndin 12. november 2025:</label>
+              <s xml:id="louqiuy4w4">Ein meiriluti, Elsa Berg, Guttormur í Skála og Heðin Mortensen, samtykkir at heita á umsitingina:</s>
+            </p>
+            <list>
+              <label>1.</label>
+              <item>
+                <seg>at kanna keyp av lonum og fara undir fyrireikingina at skipa eitt eyka spor á skúlanum á Fløtum skúlaárið 2026/2027,</seg>
+              </item>
+              <label>2.</label>
+              <item>
+                <seg>at kanna møguleikan fyri, at børn á Argjum kunnu rúmast í verandi hølum í skúlanum á Argjahamri skúlaárið 2026/2027, og í øðrum lagi at kanna keyp av lonum til skúlan á Argjahamri,</seg>
+              </item>
+              <label>3.</label>
+              <item>
+                <seg>og at koma aftur í trivnaðarnevndina og fíggjarnevndina í desember 2025.</seg>
+              </item>
+            </list>
+            <p>
+              <s xml:id="vbf5d5heng">Ein minniluti, Høgni Vilhelmsen og Tróndur Sigurðsson, mælir til at keypa lonir til Skúlan á Fløtum og Skúlan á Argjahamri, at taka i nýtslu skúlaárið 2026/2027.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <p>
+              <s xml:id="mldzuxf3xl">Sambært næmingagrundarlagnum í grundupptøkuøkjunum í miðstaðarøkinum verður tørvur á at brúka loyvi til undantak frá næmingahámarkinum í Sankta Frans skúla og á Skúlanum á Argjahamri.</s>
+              <s xml:id="kjo4vxozgt">Harumframt er tørvur á eyka skúlastovum komandi 3 árini í Skúlanum á Fløtum.</s>
+              <s xml:id="blyvcvl5so">Komandi ár er útlit fyri at Skúlin á Argjahamri klárar tørvin við undantakinum frá næmingahámarkinum, men skúlaárið 2027/28 verður tørvur á eyka flokki, og tað verður tað helst eisini skúlaárið 2029/30.</s>
+            </p>
+            <p>
+              <s xml:id="nfga57ms77">Vænta næmingatal í 1. flokkunum á Skúlanum á Argjahamri og Skúlanum á Fløtum komandi árini út frá núverandi barnatali og bústaði:</s>
+            </p>
+            <table>
+              <row role="label">
+                <cell/>
+                <cell cols="3">2026/27</cell>
+                <cell cols="3">2027/28</cell>
+                <cell cols="3">2028/29</cell>
+                <cell cols="3">2028/29</cell>
+              </row>
+              <row role="label">
+                <cell/>
+                <cell>fl.</cell>
+                <cell>næm.</cell>
+                <cell>innskr</cell>
+                <cell>fl.</cell>
+                <cell>næm.</cell>
+                <cell>innsk</cell>
+                <cell>fl.</cell>
+                <cell>næm.</cell>
+                <cell>innskr</cell>
+                <cell>fl.</cell>
+                <cell>næm.</cell>
+                <cell>innskr.</cell>
+              </row>
+              <row>
+                <cell>Skúlin á Argjahamri</cell>
+                <cell>2</cell>
+                <cell>48</cell>
+                <cell>46</cell>
+                <cell>3</cell>
+                <cell>66</cell>
+                <cell>55</cell>
+                <cell>2</cell>
+                <cell>44</cell>
+                <cell>34</cell>
+                <cell>3</cell>
+                <cell>46</cell>
+                <cell>48</cell>
+              </row>
+              <row>
+                <cell>Skúlin á Fløtum</cell>
+                <cell>4</cell>
+                <cell>88</cell>
+                <cell>75</cell>
+                <cell>4</cell>
+                <cell>88</cell>
+                <cell>80</cell>
+                <cell>4</cell>
+                <cell>88</cell>
+                <cell>75</cell>
+                <cell>3</cell>
+                <cell>68</cell>
+                <cell>66</cell>
+              </row>
+              <row>
+                <cell cols="4">Uttan nakrar broytingar í næmingagrundarlagnum</cell>
+                <cell cols="3"/>
+                <cell cols="3"/>
+                <cell cols="3"/>
+              </row>
+            </table>
+            <div>
+              <head rend="bold">Fundur við Undirvísingarstýrið</head>
+              <p>
+                <s xml:id="pxswxytpdu">Umsitingin hevur havt fund við Undirvísingarstýrið um innskriving í fyrsta flokk, undantak frá næmingahámarkinum og møguligar eyka flokkar í Tórshavnar kommunu.</s>
+                <s xml:id="xpxqdesjpp">Við støði í mettu innskirivnngartølunum og fíggjarkarminum hjá Undirvísingarstýrinum, fer stýrið væntandi at mæla frá, at Tórshavnar kommuna fær eyka flokka/flokkar skúlaárið 2026/2027.</s>
+                <s xml:id="ed3svggtzg">Undantakið er galdandi í eitt skúlaár aftrat, at sambært verandi tølum er tað nóg mikið.</s>
+                <s xml:id="aekx56csxm">Tá innskrivingin er liðug sæst um broytingar eru, og tá kann henda, at støðan verður ein onnur.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fundur við Barna- og útbúgvingarmálaráðið</head>
+              <p>
+                <s xml:id="oqyfpsr7kp">Umsitingin hevur eisini havt fund við Barna- og útbúgvingarmálaráðið um innskriving í fyrsta flokk, pláss í nærumhvørvinum og systkina fyrimun.</s>
+                <s xml:id="gkaoknm34l">Dentur eigur at vera lagdur á, at systkin fáa pláss í sama skúla.</s>
+                <s xml:id="k646kcileu">tí eigur kommunan at leggja seg eftir, at systkin sleppa inn, um ikki so skulu foreldrini spyrjast um tað.</s>
+              </p>
+              <p>
+                <s xml:id="nmdonatrep">Í meginreglunum um upptøku av næmingum í kommunalu fólkaskúlarnar í Tórshavnar kommunu er viðmerkt um upptøkuøkini, at mørkini á økjunum kunnu flyta frá einum ári til tað næsta, tí tey verða lagað eftir mettum tali á børnum í ymsu økjunum, ið skulu í forskúla og 1. flokk.</s>
+              </p>
+              <p>
+                <s xml:id="utsfegs4wu">§ 29 í fólkaskúlalógini snýr seg um skúlaumdømi og mannagongd at leggja skúla niður.</s>
+                <s xml:id="xg7v3h7vez">Skipan av skúlaumdømum er ásett í stk. 1 og ásetingin um systkin í stk. 4.</s>
+              </p>
+              <p>
+                <s xml:id="dcpleesjgn">Raðfylgjan er ikki avgerandi, men at kommunan heldur seg til ásetingarnar í fólkaskúlalógini í sambandi við innskriving.</s>
+                <s xml:id="xojioffncl">Punkt 3 í leiðreglunum “Barnið hevur systkin í skúlanum” skal verða hildið óansæð, hvar í røðini tað stendur.</s>
+                <s xml:id="yz4q7rhv3c">Tað hevur eins stóran týdning, eisini um talan er um møguligar umleggingar av umdømismarkinum.</s>
+              </p>
+              <p>
+                <s xml:id="kk3g7r6fya">“Smærri umlegging” er grannaskúlin, men kann eisini vera í lagi, um talan er um høgliga skúlaleið, t.d. gott busssamband til skúlan.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fundur á leiðslustigi við Barna- og útbúgvingarmálaráðið og Undirvísingarstýrið</head>
+              <p>
+                <s xml:id="i4fflyzzv4">Tórshavnar kommuna greiddi frá støðuni og samtyktini í fíggjarnevndini, og at farið er undir fyrireikingar til eyka spor í Skúlanum á Argjahamri og í Skúlanum á Fløtum.</s>
+                <s xml:id="xmvv543752">Politiski viljin í Tórshavnar kommunu er, at øll børn fáa pláss í skúlanum í nærumhvørvinum, og kommunan fer at senda Barna- og útbúgvingarmálaráðnum skriv við umsókn um eyka flokkar komandi skúlaárini.</s>
+              </p>
+              <p>
+                <s xml:id="z75zyzydx3">Barna- og útbúgvingarmálaráðið vísti á, at Tórshavnar kommuna hevur ein góðkendan skúlabygnað at halda seg til.</s>
+              </p>
+              <p>
+                <s xml:id="kfssrg2blz">Undirvísingarstýrið hevði væntað, at við loysnini við undantakinum upp til 24 næmingar í tvey skúlaár og eyka flokki núverandi skúlaár, fór at verða friður í tvey ár, men stýrið veit, at avbjóðing verður í 2027/2028.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Fundir við Skúlan á Argjahamri og Skúlan á Fløtum</head>
+              <p>
+                <s xml:id="l3e6irjp4d">Leiðslan á Skúlanum á Argjahamri er sinnað at nýta undantakið fyri næmingahámarkinum komandi skúlaárð, um tað tryggjar argjabørnum pláss í nærumhvørvinum og vísir á, at tørvur er á eyka flokkshølum næsta skúlaár.</s>
+                <s xml:id="wb7m54fzgf">Tað er sera trongligt í grunddeildini og hjá forskúlanum, so tað er ikki møguligt at loysa hølistørvin uttan eyka skúlastovur.</s>
+                <s xml:id="n2i6inxohl">Møguleiki at leggja grundstykki til síðis í eitt tíðarskeið til eyka skúlastovur er umrøddur millum skúlaleiðsluna og avvarandi deildir.</s>
+              </p>
+              <p>
+                <s xml:id="xkxvq2ole6">Leiðslan í Skúlanum á Fløtum vísir á, at tað hóskar væl við bygnaðin á skúlanum at taka tríggjar eyka flokkar inn, tey komandi trý skúlaárini, men at tað krevur eyka skúlastovur.</s>
+                <s xml:id="z5ditenmzj">Skúlastjórin vísir á møguligar staðsetingar, har besta staðið liggur millum grunddeildin og Glasir, beint omanfyri spæliplássi.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Kostnaðarmeting og tíðarætlan frá Bygningsdeildini</head>
+              <p>
+                <s xml:id="vzfowotqm7">Mentamáladeildin hevur síðani , við støðið í fyribils skúlstovunum hjá Hoyvíkar skúla, lýst málið fyri Bygningdeildini og biðið um kostnaðarmeting og tíðarætlan fyri byggibúning, útvegan og uppseting av fyribils skúlastovum.</s>
+              </p>
+              <p>
+                <s xml:id="vw6bomwkqc">Bygningsdeildin metir at ein loysn við tveimum skúlastovum liggur um 5.850 tkr.</s>
+                <s xml:id="hfc3rruwko">og ein loysn við trimum skúlastovum liggur um 8.650 tkr.</s>
+                <s xml:id="k3ado23i45">Tá eru lonir við Hoyvíkar skúla brúktar sum referansa til stødd og fermetrar á skúlastovum og duri og vesum.</s>
+                <s xml:id="ixdfjiptp6">Fyrivarni verður tikið fyri óvæntaður forðingum í samband við lendisarbeiðið.</s>
+                <s xml:id="q7oievrjtn">Tað verður mett møguligt at fáa annað ella bæði bygt og reist til skúlaárið 2026/27 um tað verður heimilað umsitingini at byrja skjótast og fara í samráðingar við veitarar til lendisarbeiði, veitan av modulum ella elementum og montering av hesum.</s>
+                <s xml:id="ilgun3o2ej">Umframt fyrireiking og myndugleikaviðgerð.</s>
+              </p>
+              <p>
+                <s xml:id="axahqcrgm3">Møguligar broytingar við eyka 1. flokkum og fleiri næmingum ávirka frítíðarskúla í økinum.</s>
+                <s xml:id="cagfdgvdbq">Mentamáladeildin hevur tí biðið Barna- og ungdómsdeildina um viðmerkingar til málið.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Viðmerkingar frá Barna- og Ungdómsdeildini: Samandráttur</head>
+              <p>
+                <s xml:id="s5wqwhadn4">Barna- og ungdómsdeildin hevur ongar viðmerkingar til talið av 1. flokkum í skúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="unvwajsely">Deildin vil kortini gera vart við, at í løtuni er ikki umstøður til ein eyka flokk við 22 børnum afturat í frítíðarskúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="nv44425ght">Ein loysn kundi verið at bygt frítíðarskúlan út, ella at skúli og frítíðarskúli aftur fara í holt við deildu nýtslu av viðkomandi hølum.</s>
+              </p>
+              <p>
+                <s xml:id="dxzxe32sn4">Ein alternativ loysn, sum kann geva frítíðarskúlanum meira rúmligar umstøður, er at frítíðartilboðið til 3. flokk flytur úr Frítíðarskúlanum á Argjahamri til eina aðra staðseting.</s>
+                <s xml:id="mpl34ermet">Hetta er kortini ikki nokk av plássi til at rúm verður fyri einum eyka flokki í frítíðarskúla.</s>
+              </p>
+              <p>
+                <s xml:id="uy2mzdsslp">Barna- og ungdómsdeildin hevur ongar viðmerkingar til talið av 1. flokkum í skúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="wy43osxbib">Deildin vil kortini gera vart við, at í løtuni eru ikki umstøður til 2 flokkar við 22 børnum afturat í frítíðarskúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="ii2jimnhi7">Barna- og ungdómsdeildin tekur undir við at byggja ein frítíðarskúla í nærumhvørvinum hjá Skúlanum á Fløtum.</s>
+                <s xml:id="tqaf4razbn">Tað er kortini treytað av, at kommunan samlar annaðhvørt øll frítíðarskúlabørnini ella 1.-2. flokk undir einum taki.</s>
+              </p>
+              <p>
+                <s xml:id="i77o44mal3">Sum eina neyðloysn, inntil nýggjur frítíðarskúli er bygdur, so mælir Barna- og ungdómsdeildin til, at forskúli flytur í hølini hjá 1. flokki, 1. flokkur flytur í hølini hjá 2. flokki og 2. flokkur flytur í fyribilshølini.</s>
+              </p>
+              <p>
+                <s xml:id="s66yyiuvuw">Harvið yvirtekur frítíðarskúlin hølini, sum í dag vera brúkt til forskúlan, og hevur einsamallan ræðisrætt av hølunum.</s>
+                <s xml:id="cx66wz7p64">Har við fær frítíðarskúlin egin hølir at ráða yvir.</s>
+                <s xml:id="lgzufypesy">Talan er um økið, sum eru markerað við gulum í myndini niðanfyri.</s>
+              </p>
+              <p>
+                <s xml:id="u4jzjiqacw">Skjalið: “Viðmerkingar frá Barna og Ungdómsdeildini” er hjálagt.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Mentamálanevndin 26. november 2025:</label>
+              <seg>Umrøtt.</seg>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 27. november 2025:</label>
+              <seg>Umrøtt.</seg>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Fíggjarnevndin 03. desember 2025:</label>
+              <s resp="#rani" xml:id="olssawa5j3">Kunnað varð um málið.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <p>
+              <s xml:id="ptieqj7sfi">Kunnað verður um málið.</s>
+              <s xml:id="x6cq6op5cv">Tilfar verður lagt fram á fundinum.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 15. januar 2026:</label>
+              <s xml:id="rxdlni6lmb">Kunnað varð um málið.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <ab>Kunning um innskriving skúlaárið 2026/2027</ab>
+            <lb/>
+            <div>
+              <head>Innskriving í 1. flokk 2026/27</head>
+              <table>
+                <row role="label">
+                  <cell/>
+                  <cell>Mótt.<lb/>innskr.</cell>
+                  <cell>Pláss</cell>
+                  <cell>Tøk<lb/>pláss</cell>
+                  <cell>Innskr.</cell>
+                  <cell>Flutt</cell>
+                  <cell>Tøk<lb/>pláss</cell>
+                </row>
+                <row>
+                  <cell>Eysturskúlin - í skúla</cell>
+                  <cell>49</cell>
+                  <cell>46</cell>
+                  <cell>-3</cell>
+                  <cell>46</cell>
+                  <cell>-3</cell>
+                  <cell>0</cell>
+                </row>
+                <row>
+                  <cell>Kaldbaks skúli -í skúla</cell>
+                  <cell>2</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>2</cell>
+                  <cell/>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Hoyvíkar skúli - í skúla</cell>
+                  <cell>34</cell>
+                  <cell>44</cell>
+                  <cell>10</cell>
+                  <cell>38</cell>
+                  <cell>4</cell>
+                  <cell>6</cell>
+                </row>
+                <row>
+                  <cell>Kollafjarðar skúli - í skúla</cell>
+                  <cell>14</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>14</cell>
+                  <cell/>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Nólsoyar skúli - í skúla</cell>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>3</cell>
+                  <cell/>
+                  <cell/>
+                </row>
+                <row>
+                  <cell>Sankta Frans skúli - í skúla</cell>
+                  <cell>57</cell>
+                  <cell>48</cell>
+                  <cell>-9</cell>
+                  <cell>48</cell>
+                  <cell>-9</cell>
+                  <cell>0</cell>
+                </row>
+                <row>
+                  <cell>Skúlin á Argjahamri - í skúla</cell>
+                  <cell>45</cell>
+                  <cell>48</cell>
+                  <cell>3</cell>
+                  <cell>45</cell>
+                  <cell/>
+                  <cell>3</cell>
+                </row>
+                <row>
+                  <cell>Skúlin á Fløtum - í skúla</cell>
+                  <cell>70</cell>
+                  <cell>88</cell>
+                  <cell>18</cell>
+                  <cell>82</cell>
+                  <cell>12</cell>
+                  <cell>6</cell>
+                </row>
+                <row>
+                  <cell>Skúlin á Løgmannabreyt - í skúla</cell>
+                  <cell>48</cell>
+                  <cell>44</cell>
+                  <cell>-4</cell>
+                  <cell>44</cell>
+                  <cell>-4</cell>
+                  <cell>0</cell>
+                </row>
+                <row>
+                  <cell>Velbastaðar skúli - í skúla</cell>
+                  <cell>2</cell>
+                  <cell/>
+                  <cell/>
+                  <cell>2</cell>
+                  <cell/>
+                  <cell/>
+                </row>
+                <row role="sum">
+                  <cell>Kommunuskúlar íalt</cell>
+                  <cell>324</cell>
+                  <cell/>
+                  <cell>15</cell>
+                  <cell>324</cell>
+                  <cell/>
+                  <cell>15</cell>
+                </row>
+              </table>
+              <p>
+                <label>Viðmerking:</label>
+                <s xml:id="eg476nzult">Innskrivingarnar eru viðgjørdar og avgerð tikin um hvør fær pláss í 1. flokki og hvør skal flyta í annan skúla eftir galdandi leiðreglum.</s>
+              </p>
+              <p>
+                <s xml:id="mq6leumjuu">Íalt 16 næmingar fáa ikki pláss har teir hava innskrivað, 3 í Eysturskúlanum, 4 í Skúlanum við Løgmannbreyt og 9 í Sankta Frans skúla.</s>
+              </p>
+              <p>
+                <s xml:id="skyxvirr2x">Av hesum búgva 7 í skúlaøkinum, 5 flyta til økið, 3 búgva ikki í økinum og 1 hevur skrivað inn eftir freistina</s>
+              </p>
+              <p>
+                <s xml:id="avwuveouxv">Tey ið ikki fáa pláss har tey hava innskriva, hava fingið boð frá Mentamáladeildini um innskriving í annan skúla, og høvi at skriva seg á bíðilista til pláss í skúlanum tey hava innskriva í.</s>
+              </p>
+              <p>
+                <s xml:id="rlmxuomx66">Skúlarnir senda út boð til næmingarnar ið verða innskrivaðir í 1. flokk í teirra skúla.</s>
+              </p>
+            </div>
+            <div>
+              <head>Innskriving í forskúla 2026/27</head>
+              <table>
+                <row role="label">
+                  <cell/>
+                  <cell>Mótt.<lb/>innskr.</cell>
+                  <cell>Pláss</cell>
+                  <cell>Tøk<lb/>pláss</cell>
+                  <cell>Innskr.</cell>
+                  <cell>Í<lb/>við-<lb/>gerð</cell>
+                </row>
+                <row role="data">
+                  <cell>Kollafjarðar skúli - í forskúla</cell>
+                  <cell>0</cell>
+                  <cell>16</cell>
+                  <cell>16</cell>
+                  <cell>0</cell>
+                  <cell/>
+                </row>
+                <row role="data">
+                  <cell>Sankta Frans skúli - í forskúla</cell>
+                  <cell>64</cell>
+                  <cell>44</cell>
+                  <cell>-20</cell>
+                  <cell>44</cell>
+                  <cell>20</cell>
+                </row>
+                <row role="data">
+                  <cell>Skúlin á Argjahamri - í forskúla</cell>
+                  <cell>22</cell>
+                  <cell>44</cell>
+                  <cell>22</cell>
+                  <cell>22</cell>
+                  <cell/>
+                </row>
+                <row role="data">
+                  <cell>Skúlin á Fløtum - í forskúla</cell>
+                  <cell>54</cell>
+                  <cell>66</cell>
+                  <cell>12</cell>
+                  <cell>54</cell>
+                  <cell>12</cell>
+                </row>
+                <row role="data">
+                  <cell>Kaldbaks skúli - í forskúla</cell>
+                  <cell>3</cell>
+                  <cell>9</cell>
+                  <cell>6</cell>
+                  <cell/>
+                  <cell/>
+                </row>
+                <row role="data" rend="total">
+                  <cell/>
+                  <cell>143</cell>
+                  <cell>179</cell>
+                  <cell>36</cell>
+                  <cell>120</cell>
+                  <cell/>
+                </row>
+              </table>
+              <p>
+                <label>Viðmerking:</label>
+                <s xml:id="remxgzsywv">Innskrivingarnar eru viðgjørdar og avgerð tikin um hvør fær pláss í forskúla eftir galdandi leiðreglum.</s>
+              </p>
+              <p>
+                <s xml:id="ci4wt3l2ap">Tað eru 64 innnskrivingar móttiknar til 44 pláss í Forskúla í Sankta Frans skúla, so pláss er ikki fyri 20 næmingunum.</s>
+              </p>
+              <p>
+                <s xml:id="f64nnb6pk6">Av 20 næmingum ið ikki fáa pláss, búgva 4 í øki upp at skúlamarkinum til Skúlan á Fløtum, 2 flyta til økið, 13 búgva í øðrum økið og 1 hevur søkt eftir freistina.</s>
+              </p>
+              <p>
+                <s xml:id="xqry5zagzm">Tey, ið ikki fáa pláss í Sankta frans skúla, hava fingið boð frá Mentamáladeildini og høvi at skriva seg á bíðilista, til pláss í forskúlanum.</s>
+                <s xml:id="u32u57istp">Upplýst er eisini at tøk pláss eru í forskúlanum í Skúlanum á Fløtum, við tilboð at skriva seg upp til pláss, Freistin er 12. februar og tá verða hesi pláss viðgjørd.</s>
+              </p>
+              <p>
+                <s xml:id="z76klefpfa">Viðkomandi skúlar senda boð til foreldrini ið hava fingið pláss í forskúla.</s>
+              </p>
+            </div>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 12. februar 2026:</label>
+              <s xml:id="bwo6arwmla">Kunnað varð um málið.</s>
+            </p>
+            <p>
+              <s xml:id="qio57ssbmd">Kristianna Winther Poulsen var ikki við í viðgerðini av málinum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <p>
+              <s xml:id="nuqxpxg5je">Av tí at næmingatalið í skúlaflokkunum er lækka niður í 22 næmingar í flokkinum, samstundis sum barnárgangirnir í miðstaðarøkinum eru stórir í 1. flokki skúlaárini 2025/26 til 2029/30, er neyðugt at útvega fleiri skúlapláss.</s>
+            </p>
+            <p>
+              <s xml:id="yef4femq3r">Skúlaárini 2025/26 og 2026/27 er tað gjørt við undantakið frá næmingahámarkinum, og við eyka 1. flokki, í Sankta Frans skúla í fjør og á Skúlanum á Fløtum í ár.</s>
+            </p>
+            <p>
+              <s xml:id="clzrk6btrv">Skúlaárið 2027/28 er ikki heimildin til undantak frá næminghámarkinum longur og er tí samtykt at útvega eyka skúlastovur fyri at nøkta tørvin á skúlaplássum til og við skúlaárinum 2029/30, tá næmingatalið minkar.</s>
+            </p>
+            <p>
+              <seg>Avgerð er tikin um:</seg>
+            </p>
+            <list rend="bulleted">
+              <item>eyka 1. flokk skúlaárini 2026/27, 2027/28 og 2028/29 á Skúlanum á Fløtum</item>
+              <item>eyka 1. flokk skúlaárini 2027/28 og 2029/30 á Skúlanum á Argjahamri</item>
+            </list>
+            <p>
+              <s xml:id="w2yv7bny2a">Barna- og útbúgvingarmálaráðið hevur eftir áheitan frá Torshavnar kommunu, um loyvi til tveir eyka 1. flokkar skúlaárið 2026/27, játta ein eyka 1. flokk afturat áður játtaða undantakinum frá næmingahámarkinum og ráðið hevur valt at bíða við at taka støðu til skúlaárini 2027-2029, til ein greið lagtíðarætlan fyri innskriving í forskúla og 1. flokk fyriliggur fyri komandi árini.</s>
+            </p>
+            <p>
+              <s xml:id="f3mo7detkg">Ráðið hevur skrivliga boða frá, at tað er sinna at samskifta um hvussu innskriving í forskúla kann skipast skynsamt í mun til innskriving í 1.flokk, har tryggja verður, at innskriving í forskúla av barni sum býr uttanfyri grundupptøkuøkið, ikki forðar barnið í upptøkuøkinum rættin til at sleppa í 1. flokk.</s>
+            </p>
+            <p>
+              <s xml:id="nffbtvhjde">Tað tykist sum Barna- og útbúgvingarmálaráðið nú letur upp fyri heimild at broyta verðandi praksis fyri innskriving, har systkin í skúlanum gevur fyrimun framum bústað í skúlaumdøminum.</s>
+            </p>
+            <p>
+              <s xml:id="fir7etlw2x">Nú kommunal avgerð er tikin um útvegan av eyka skúlaplássum á Skúlanum á Argjahamri og Skúlanum á Fløtum næstu árini og Barna og útbúgvingarmálaráðið letur upp fyri broytingum av innskrivingini, er grundarlag fyri at gera eitt uppskot um tillagingar av grundupptøkuøkjunum og av leiðreglunum fyri innskriving í forskúla og 1. flokk, við tí endamálið at so nógvir næmingar sum gjørligt fáa skúlapláss i skúlanum í teirra skúlaumdømi.</s>
+            </p>
+            <p>
+              <s xml:id="eqkotwg7v5">Mentamáladeildin tekur tí stig til eitt nærri samskifti við løgfrøðingarnar hjá kommununi og Barna og Undirvísingarstýrið um broytingar av leiðreglunum fyri innskriving, við tí endamálið at seta bústaðin í skúlaumdøminum framum systkin í skúlanum.</s>
+            </p>
+            <p>
+              <s resp="#rani" xml:id="i3lkrl6vbc">Mentamáladeildin teku somuleiðis, við hjálp frá teknisku deild, stig til at meta um hvussu skúlaumdømini kunnu tillagast verðandi skúlabygnaði, við eyka 1. flokkum komandi árini.</s>
+            </p>
+            <p>
+              <s xml:id="gztjzifpbm">Hóast talan ikki er um varðandi broytingar av skúlabygnaðinum í kommununi, so metir mentamáladeildin at broytingaranar verða so umfatandi at tær eiga verða lagdar fyri skúlastýrini eftir galdandi reglum og verða góðkendar av Barna- og útbúgvingarmálaráðnum.</s>
+            </p>
+            <div>
+              <head rend="bold">Greinir í fólkaskúlalógini viðvíkjandi broyting í skúlabygnaði</head>
+              <quote>
+                <p>
+                  <label rend="bold">§ 46.</label>
+                  <s xml:id="yx4l4gmxe4">Skúlamyndugleikin á staðnum er kommunustýrið og skúlastýrið smb. § 50, 1. stk.</s>
+                </p>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 47</hi>
+                    <hi rend="italic">Stk. 6.</hi>
+                  </label>
+                  <s xml:id="kvmvaesh3l">Kommunustýrið ger uppskot um skúlabygnað kommununnar og broytingar í honum, sbr. §§ 32, stk.1 og 57, stk. 5.</s>
+                </p>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 52.</hi>
+                    <hi rend="italic">Stk. 4.</hi>
+                  </label>
+                  <s xml:id="pcsekn5n2r">Skúlastýrið viðger saman við kommunustýrinum uppskot um skúlabygnað kommununnar og broytingar í honum, sbr. § 32, stk. 1.</s>
+                  <s xml:id="eh4hpcrp5n">Í teimum kommunum, ið hava tvey ella fleiri skúlastýri, velur kommunustýrið ein arbeiðsbólk, umboðandi øll skúlastýrini, at viðgera uppskot um skúlabygnað, sbr. § 47, stk. 6.</s>
+                </p>
+                <p>
+                  <label>
+                    <hi rend="bold">§ 57</hi>
+                    <hi rend="italic">Stk. 5.</hi>
+                  </label>
+                  <s xml:id="tve5v3guwv">Landsstýrismaðurin góðkennir skúlabygnað kommununnar og tær ítøkiligu undirvísingarætlanirnar fyri teir einstøku skúlarnar og møguligar broytingar í teimum.</s>
+                  <s xml:id="j3ikmch7cy">Landstýrismaðurin kann loyva, at fleiri skúlar í einum øki verða roknaðir sum ein skúli, sjálvt um ikki øll undirvísingarhølini eru savnað á sama staði í økinum.</s>
+                </p>
+              </quote>
+            </div>
+          </div>
+          <div>
+            <head rend="bold">Tilmæli:</head>
+            <p>
+              <s xml:id="o3qlwxrom3">Kunnað verður um málið.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 12. mars 2026:</label>
+              <s xml:id="q4k3zufrzc">Kunnað varð um málið.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <p>
+              <s xml:id="ckl6xmswzn">Kommunulistin krevur málið fyri býráðið á komandi fundi.</s>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Býráðsfundur 19. mars 2026:</label>
+              <seg>Felags broytingaruppskot - býráðið heitir á landsstýrið um ein eyka 1. flokk til Sankta Frans skúla aftaná summarferiuna 2026 og at skúlabygnaðurin verður endurskoðaður í síni heild til næstu innskriving.</seg>
+            </p>
+            <p>
+              <s xml:id="zkof7hkonv">Atkvøtt varð um broytingaruppskotið, ið varð einmælt samtykt.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Ískoyti:</head>
+            <div>
+              <head rend="bold">Játtandi svar frá Mentamálaráðnum</head>
+              <p>
+                <s xml:id="z54bh42xdq">Mentamálaráðið hevur 22. apríl játta umsóknina frá Tórshavnar býráð og játta eitt eyka spor í 1. flokki skúlárið 2026/27 í Sankta Frans skúla.</s>
+                <s xml:id="kdymg3mjqw">Ráðið heitir samstundis á kommununa um bert at nýta undantakið frá næmingahamarkinum har tað er neyðugt.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Verðandi Innskriving:</head>
+              <p>
+                <s xml:id="a3cwq4ax47">Við undantakið frá næminghámarkinum har tað er neyðugt og eyka 1. flokki í SÁF eru 8 næmingar fluttir úr SFS økinum og 3 næmingar úr ES økinum í Skúlan á Fløtum.</s>
+              </p>
+              <p>
+                <s xml:id="oep2gjshz4">Í Hoyvík eru 4 næmingar, ið hava ynskt innskriving í Skúlanum við Løgmannabreyt, sum eru fluttir til Hoyvíkar skúla.</s>
+              </p>
+              <p rend="italic">
+                <s xml:id="rbqxozeme6">Í Miðstaðarøkinum eru 13 pláss tøk í 1. flokki: 2 í skúlanum á Argjahamri, 5 í Skúlanum á Fløtum einki í Sankta frans skúla, Eysturskúlanum og Skúlanum við Løgmanabreyt og 5 pláss í Hoyvíkar skúla.</s>
+              </p>
+              <p rend="italic">
+                <s xml:id="xzhjvynkji">13 tøk pláss í miðstaðarøkinum er avgjørt í undirkantinum og einki pláss er í trimum skúlum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Innskriving við tveimum eyka 1. flokkum 2026/27 og neyðugum undantøkum frá næmingahámarkinum:</head>
+              <p>
+                <s xml:id="otxjjfscij">45 næmingar eru innskrivaðir í 1. flokk í Skúlanum á Argjahamri og næmingur, ið júst er fluttur til øki eru í viðgerð til núverðandi forskúla.</s>
+                <s xml:id="fdhiry7af5">Mett verður ikki at tað er rætt at taka játtaða innskriving aftur.</s>
+                <s xml:id="hsllvpvptd">Við neyðugum undantakið er í løtuni 46 næmingar í komandi 1. flokki og <hi rend="italic">2 tøk pláss Í Skúlanum á Argjahamri</hi>.</s>
+              </p>
+              <p>
+                <s xml:id="v6jaouo53c">83 næmingar eru innskrivaðir í 1. flokk í Skúlanum á Fløtum.</s>
+                <s xml:id="f37snz22fo">8 næmingar úr SFS økinum og 3 næmingar úr ES økinum.</s>
+                <s xml:id="uprqslkbqz">Hesir kunnu fáa bjóða pláss í eyka 1. flokki í Sankta Frans skúla.</s>
+                <s xml:id="mwxhxlbznv" resp="#rani">Við eyka 1. flokki verða 72 næmingar og <hi rend="italic">16 tøk pláss í Skúlanum á Fløtum</hi>.</s>
+              </p>
+              <p>
+                <s xml:id="byzuknbqmp">48 næmingar eru innskrivaðir í 1. flokk í Sankta Frans skúla.</s>
+                <s xml:id="nxq3bnzocm">Við eyka 1. flokki er pláss til at 8 næmingar í skúlaøkinum og til 3 næmingar úr eysturbýnum.</s>
+                <s xml:id="trzsohdyg7">Í Sankta Frans skúla verða tá 59 næmingar í trimum flokkum og <hi rend="italic">7 pláss tøk í 1. flokki</hi>.</s>
+              </p>
+              <p>
+                <s xml:id="tmwkmx4c2k">46 næmingar eru innskrivaðir í 1. flokk í Eysturskúlanum og við undantakið frá næmingahámarkinum eru 2 pláss tøk til upptøku úr serflokkinum í lonunum í Hoydølum.</s>
+                <s xml:id="rqhukiaymx">Mett verður ikki at innskrivingar kunnu takast aftur fyri at halda næmingahámarki.</s>
+                <s xml:id="ln5dypcx6z"><hi rend="italic">Einki tøkt pláss</hi> verður í 1. flokki í Eysturskúlanum.</s>
+              </p>
+              <p>
+                <s xml:id="ibsnvo5v7z">44 næmingar eru innskrivaðir í 1. flokk í Skúlanum við Løgmannabreyt og 4 næmingar eru ávístir til innskriving í Hoyvíkar skúla.</s>
+                <hi rend="italic">
+                  <s xml:id="wi5alsh6kv">Vit halda okkum til næminghámarkið og einki pláss er tøkt.</s>
+                </hi>
+              </p>
+              <p>
+                <s xml:id="y73yuymm2x">39 næmingar eru innskrivaði í 1. flokk í Hoyvíkar skúla.</s>
+                <s xml:id="le6k5z7fqt">Vit halda okkum til næmingahámarkið og <hi rend="italic">5 pláss eru tøk</hi>.</s>
+              </p>
+              <p rend="italic">
+                <s xml:id="rphlidsw5g">Í miðstaðarøkinum verða 307 næmingar í 15 flokkum og 30 tøk pláss.</s>
+                <s xml:id="jzm4xzseyb">Miðaltalið verður 20,5 næmingar pr flokk.</s>
+                <s xml:id="yqx2f43lfi">Í Skúlanum á Fløtum er grundarlag fyri 4 flokkum við 18 næmingum og í Sankta Frans skúla ver grundarlag fyri 3 flokkum, tveir á 20 og ein á 19 næmingar.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Samskift við skúlastjóran á Skúlanum á Fløtum:</head>
+              <p>
+                <s xml:id="j7vcvncysj">Um eyka skúlahølir verða útvegað sum ætla, er pláss fyri at skipa komandi 1. flokk í 4 flokkar skúlaárið 2026/27.</s>
+                <s xml:id="dedd7oz3jf">Møguleiki er eisini fyri at skipa seg við undantakið við 3 flokkum á 24 næmingar.</s>
+                <s xml:id="ddaod7pzw4">Hóast ein avgerð um eyka 1. flokk í Sankta Frans skúla skúlaárið 2026/27 kann gerða at eingin eyka 1. flokkur verður i Skúlanum á Fløtum skúlaárið 2027/28, so verður tørvur á eyka 1. flokki skúlaárið 2028/29.</s>
+                <s xml:id="juzqp3i54e">Tí er tað enn sera umráðandi og til gagns fyri baði frítíðarskúla og grunddeildina at fáa fleiri skúlahølið og at frítíðarskúlin fær tvær skúlastovur fyri seg sjálvan.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Avbjóðingar við einum eyka flokki afturat í Sankta Frans skúla:</head>
+              <p>
+                <s xml:id="v3sgm4zd4c">Verður avgerð tikin um eyka flokk í Sankta Frans skúla Skúlaárið 2026/27 eftir leistinum omanfyri hevur tað avleiðingar og krøv við sær.</s>
+              </p>
+              <p>
+                <s xml:id="ppcxre2tob">Ein avleiðing er at tað neyvan slepst undan at stovna ein eyka flokk skúlaárið 2027/28 tí tá er talan um umleið 20 børn í skúlaøkinum hjá SFS sum skulu vísast til SÁF.</s>
+              </p>
+              <p>
+                <s xml:id="efjlhk4woa">Næmingatalið í skúlaøkinum er 47 skúlaárið 2026/27 og 64 skúlaárið 2027/28.</s>
+              </p>
+              <p>
+                <s xml:id="jbh3c7t6qs">Ein floksstova er tøk til endamálið skúlaárið 2026/27, men eyka flokshølir skulu útvegast til skúlaárið 2027/28.</s>
+                <s xml:id="wm25ddo7xg">Tá eyka flokkarnir røkka hádeildina skal ein skilagóð hølisloysn eisini verða tøk.</s>
+              </p>
+              <p>
+                <s xml:id="speghuu7b4">Ein onnur stór avbjóðing er at tað verða munandi fleiri næmingar ið skulu hava frítíðarskúlatilboð, í hølum, sum í løtuni ikki nøkta tørvin á fulgóðan hátt og sum hóast eina komandi hølisloysn aftur gerast ov trong vegna økt í næmingtalið.</s>
+                <s xml:id="rdeeerewko">Við eyka flokkum í trý ár á rað verður væntaða økingin av børnum í frítíðarskúla uml 20 børn skúlaárið 2026/27, og uml .35 børn skúlaárið 2027/28.</s>
+                <s xml:id="tbgydkyxaw">Verandi frítíðarskúli hevur pláss til 105 næmingar og væntandi vera 111 næmingar í frítíðarskúla komandi skúlaár.</s>
+              </p>
+              <p>
+                <s xml:id="guoaejdyts">Víst verður til talvu sum er viðheft.</s>
+              </p>
+              <p>
+                <s xml:id="d7jczttd6u">Krøv verða eisini um eyka flokshølið til skúlaárið 2027/28 til ein eyka flokk í grunddeild og miðdeild, og upp á sigt hølisloysn til tveir eyka flokkar í hádeildini.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Samskifti við skúlastjóran á Sankta frans skúla</head>
+              <p>
+                <hi rend="italic">
+                  <s xml:id="ronvkdzr73">Mentamáladeildin hevur heitt á skúlaleiðsluna í skúlanum um at umrøða møguleikar og forðinga hjá skúlanum í hesum sambandið og um at taka upp við skúlastýrið tá grønt ljós verður givið til tað.</s>
+                </hi>
+                <s xml:id="gtve7jyxsi">Víst verður til skriv frá skúlastjóranum í Sankta Frans skúla.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Mett innskriving í 1. flokk skúlaárið 2027/28 við eyka 1 flokki í Sankta Frans skúla og Skúlanum á Argjahamri</head>
+
+              <p>
+                <s xml:id="xvchjqhmum">21 næmingar eru innskrivaðir í forskúla í Skúlanum á Argjahamri.</s>
+                <s xml:id="grzqkbzeon">55 børn eru skrásett í árganginum til 1. flokk 2027/28, Við fyriliggjandi upplýsingum verður mett at innskriving til 1. flokk verður 58 næmingar umframt møguliga tilflyting.</s>
+                <s xml:id="uagiodosu3">Grundarlag er sostatt fyri eyka 1. flokki og trimum flokkum á uml. 18 næmingar og uml. 10 tøkum plássum.</s>
+              </p>
+              <p>
+                <s xml:id="hg7txs67ab">Í skúlanum á Fløtum er innskrivingin í 1. flokk tengd at verðandi innskriving í forskúla.</s>
+                <s xml:id="afl7tfv4hv">60 næmingar eru innskrivaðir í forskúla á Fløtum harav 40 næmingar hava bústað í skúlaøkinum.</s>
+                <s xml:id="qr4jj5wpre">2 børn úr skúlaøkinum eru innskriva í forskúla í Sankta Frans skúla.</s>
+                <s xml:id="xmibgygoyp">Í skúlaøkinum eru 52 børn skrásett at búgva í skúlaøkinum.</s>
+              </p>
+              <p>
+                <s xml:id="ysr5ye3whb">Mett verður at í mesta lagið 10 næmingar úr skúlaøkinum fara innskriva til 1. flokk .</s>
+                <s xml:id="ipsfz7ko34">Av hesum eru 4, sum hava tikið innskriving aftur og halda áfram í 6 ára stovu.</s>
+              </p>
+              <p>
+                <s xml:id="avbky5ryoj">8 næmingar, sum høvdu innskrivað í Sankta Frans skúla eru innskrivaðir í Skúlan á Fløtum.</s>
+                <s xml:id="b6glhsx3lw">5 av teimum eru úr SFS skúlaøkið, 2 úr skúlaøkinum hjá SÁF og ein úr skúlaøkinum hjá ES.</s>
+                <s xml:id="nn7u3n3q4w">Møguleiki er fyri nakrir av hesum næmingunum innskriva av nýggjum til 1. flokk í SFS 2027/28.</s>
+                <s xml:id="bhp4wddis3">Ein annar møguleiki, ið er er verdur at kanna er, at innskrivað 4 næmingar afturat í forskúlan í Sankta Frans so hann kemur upp á 48 og bjóða plássini til 4 av fluttu næmingunum omanfyri.</s>
+              </p>
+              <p rend="italic">
+                <s xml:id="bae7zsbkfi">Við fyriliggjandi vitan verður mett at tað er góður møguleiki fyri at rúm verður fyri núverandi børnum í skúlaøkinum hjá Skúlanum á Fløtum skúlaárið 2027/28, hóast ætlaði 1. flokkurin verður fluttur í Sankta Frans skúla.</s>
+              </p>
+              <p>
+                <s xml:id="fgepmiodws">Núverandi barnagrundarlagið í skúlaøkinum hjá Sankta frans skúla er 63 næmingar, 7 av teimum hava av egnum ávum innskriva í forskúla í Skúlanum á Fløtum.</s>
+                <s xml:id="vudghwl5vb">So veruliga barnagrundarlagið í økinum er 56 næmingar.</s>
+              </p>
+              <p>
+                <s xml:id="kvk23yu274">44 næmingar eru innskrivaðir í forskúla, har 8 eru úr øðum økjum, soleiðis er talan um 36 næmingar í skúlaøkinum.</s>
+                <s xml:id="fwtfynktkf">Møguleiki er tí fyri at 20 næmingar úr økinum innskrivað afturat til 1. flokk, umframt eitt ávíst tal at innskrivingum úr øðrum økjum.</s>
+              </p>
+              <p>
+                <s resp="#rani" xml:id="oc25kftgas">Við eyka flokki og núverandi barnagrundarlag verður mett at tørvur verður á øllum 66 plássunum í trimum 1. flokkum í Sankta Frans skúla skúlaárið 2027/28.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Undantak frá næminghámarkið</head>
+              <p>
+                <s xml:id="w3d6wydtry">Svarið frá Mentamálaráðnum skal ikki skiljast soleiðis, at undantakið um 24 næmingar í hvørjum flokki fellur burtur.</s>
+              </p>
+              <p>
+                <s xml:id="ngqd4en5iz">Tórshavnar kommuna hevur fingið undantak at hava upp til 24 næmingar í 1.</s>
+                <s xml:id="fyilcdtk54">Flokki skúlaárini 2025/26 og 2026/27.</s>
+                <s xml:id="bn4rj6b7iw">Hetta undantakið er sostatt framvegis galdandi fyri komandi skúlaár, sum tit nú fyrireika.</s>
+              </p>
+              <p>
+                <s xml:id="ijtfdlpsm2">Undantakið er tó tíðaravmarkað og verður ikki galdandi fyri skúlaárini eftir 2026/27.</s>
+                <s xml:id="t2kfsmymn4">Um Tórshavnar kommuna ynskir undantak eftir hetta, má søkjast av nýggjum, og ein slík umsókn verður viðgjørd eftir teimum viðurskiftum, sum eru galdandi tá.</s>
+              </p>
+              <p>
+                <s xml:id="z3m3eb7wtq">Mentamálaráðið heitir samstundis staðiliga á Tórshavnar kommunu, um so vítt gjørligt at halda seg til ásetingina í lógini um hámarkið á 22 næmingar í hvørjum flokki.</s>
+              </p>
+              <p>
+                <s xml:id="kk52w2dtux">Undantakið eigur einans at verða nýtt, um tað verður mett neyðugt í mun til at tryggja bestu umstøður fyri næmingarnar í kommununi.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Niðurstøða hjá mentmáladeildini</head>
+              <p>
+                <s xml:id="onwe6h3a7x">Samanumtikið metir mentamáladeildin, at avgerð býráðsins at søkja um eyka 1. flokk í Sankta Frans skúla 2026/27, leggur upp til somu avgerð skúlaárið 2027/28, tá tørvurin á skúlaplássum er enn størri í skúlaøkinum.</s>
+              </p>
+            </div>
+            <div>
+              <head rend="bold">Framtíðarútlitini fyri tørvi á eyka flokkum við góðkenning frá Mentamálaráðnum og ætlanum hjá kommununi eru hesi:</head>
+              <list rend="simple">
+                <item>2026 eyka flokkar í SÁF og SFS (Góðkent)</item>
+                <item>2027 eyka flokkar í SAH og SÁF (Góðkent, tilsøgn)</item>
+                <item>2028 eyka flokkur í SÁF (Meting, ætlan)</item>
+                <item>2029 helst eyka flokkur í SAH (Meting, ætlan)</item>
+              </list>
+            </div>
+            <div>
+              <head rend="bold">Tilmæli:</head>
+              <p>
+                <seg>Trivnaðarstjórin og deildarleiðarin á mentamáladeildini mæla til:</seg>
+              </p>
+              <list rend="bulleted">
+                <item>At eyka 1. flokkur, sum áður samtykt, verður stovnaður í Skúlanum á Fløtum og at lonirnar til Skúlan á Fløtum verða settar upp sum ætlað, so pláss verður fyri eyka skúlaflokkum og til at avseta skúlahølir til frítíðarskúlan inni í grunddeildini.</item>
+                <item>At eyka 1. flokkur verður stovnaður í Sankta Frans skúla frá komandi skúlaári.</item>
+                <item>At varðveita undantøkini fyri næmingahámarkinum í 1. flokki í Skúlanum á Argjahamri og í Eysturskúlanum.</item>
+              </list>
+            </div>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Trivnaðarnevndin 28. apríl 2026:</label>
+              <seg>Samtykt at taka undir við tilmælinum og beina málið í býráðið.</seg>
+            </p>
+          </div>
+          <div>
+            <p>
+              <label rend="bold">Býráðsfundur 30. apríl 2026:</label>
+              <seg resp="#rani">Einmælt samtykt.</seg>
+            </p>
+          </div>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Einki valkort fingið</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <date when="2026-03-18">18.03.2026</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="bnylnepmph">Hesin telduposturin kemur uttanífrá Tórshavnar kommunu.</seg>
+    </standOff>
+    <text>
+      <body>
+        <div type="email">
+          <head>Einki valkort fingið</head>
+          <ab>Hey</ab>
+          <p>
+            <s xml:id="tauun62gcu">Eg havi tíverri ikki fingið nakað valkort.</s>
+            <s xml:id="jnzbhhin2n">Á heimasíðuni stendur at eg skal senda ein email við upplýsningum til hesa addressuna.</s>
+          </p>
+          <!-- <ab>https://www.torshavn.fo/politikkur-og-folkaraedi/val/loegtingsvalid-26-mars-2026</ab> -->
+          <p>
+            <s xml:id="yjgehjk5qe">Kann eg fáa eitt valkort?</s>
+            <s xml:id="qoc3z2aqfp">Kann onkur hjálpa mær við hesum?</s>
+          </p>
+        </div>
+        <div type="email">
+          <p>
+            <s xml:id="z4gy2mp2kc">Takk fyri teldubrævið.</s>
+            <s xml:id="o4hy2wzjf2">Snarskivan kannar boðklivan allar yrkadagar.</s>
+            <s xml:id="c5nrjw3m5v">Tíni boð verða beind víðari til rætta viðkomandi í Tórshavnar kommunu.</s>
+            <s xml:id="uo2gynir2i">Krevur teldubrævið málsviðgerð, verður tað skrásett í okkara journalskipan, og tú frættir aftur frá okkum.</s>
+            <s xml:id="sazkihq5dk">Vit handfara tínar persóndátur í samsvari við Dátuverndarlógina.</s>
+            <s xml:id="dey6svzcfa">Les meira um, hvussu vit handfara persóndátur, og hvørji rættindi tíni eru, í okkara persónsupplýsingapolitikki.</s>
+          </p>
+          <!-- Les meira um, hvussu vit handfara persóndátur, og hvørji rættindi tíni eru, í okkara persónsupplýsingapolitikki: Persónsupplýsingapolitikkur fyri Tórshavnar kommunu -->
+          <closer>
+            <ab>Vinaliga / Best Regards</ab>
+            <lb/>
+            <ab>Tórshavnar kommuna</ab>
+            <ab>Journalin / Record Department</ab>
+          </closer>
+        </div>
+        <div type="email">
+          <ab>Hey</ab>
+          <p>
+            <s xml:id="vomauuytlv">Tú stendur á vallistanum, og hevur rætt til at velja.</s>
+          </p>
+          <p>
+            <s xml:id="zolvxf7tyl">Vit hava fingið nógv valkort retur, men títt kort er ikki komið retur.</s>
+          </p>
+          <p>
+            <s xml:id="ixm4tjjcpi">So tú kanst fara niðan á Háls, tá valið er, og fær tú eitt valkort frá Fólkayvirlitinum.</s>
+          </p>
+          <p>
+            <s xml:id="jdrzgenqse">Valkortini hjá tær eru farin til tað gomlu adressuna.</s>
+          </p>
+          <closer>
+            <ab>Vinarliga</ab>
+            <ab>Tórshavnar kommuna</ab>
+          </closer>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>292/22: Persónsupplýsingarpolitikkur fyri borgarar og starvsfólk</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Tórshavnar býráð</author>
+            <publisher>Tórshavnar kommuna</publisher>
+            <ref target="https://www.torshavn.fo/media/ns2fii0a/ger%C3%B0ab%C3%B3k-fyri-b%C3%BDr%C3%A1%C3%B0sfundin-15-desember-2022.pdf"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2022-12-15">15. desember 2022</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="kkxulj77qy">Hetta er gjørt sambært áseting í DVL § 23 stk. 1 nr. 2, har ásett er, at samskiftisupplýsingar hjá dátuverndarfólkinum skal vera sjónligt fyri skrásetta.</seg>
+      <seg type="sentence" resp="#rani" xml:id="ao6q5zybly">Talva er sett inn, sum greiður skrásetta frá bólking av persónupplýsingum, sum TK viðgerð fyri at loysa sínar uppgávur.</seg>
+      <seg type="sentence" resp="#rani" xml:id="lt4h5kifux">Fyri at fremja gjøgnumskygni og lýsa betur, hvar upplýsingar verða savnaðar frá, hevur TK sett inn talvu, ið lýsir fyrisitingina í Tórshavnar Kommunu á síðu 3 og 4.</seg>
+      <seg type="sentence" resp="#rani" xml:id="xpkj2joebk">Sum nakað nýtt er lýsing um endamálið við nýtslu av vakmyndatól sett inn á síðu 4.</seg>
+      <seg type="sentence" resp="#rani" xml:id="syik7in4wq">Politikkurin inniheldur brot um hvussu leingi TK goymir upplýsingar hjá skrásetta er styrkt og útbygt til eisini at umfata striking av myndum í vakmyndatólum sambært løgtingslóg um vakmyndatól.</seg>
+      <seg type="sentence" resp="#rani" xml:id="ywnrhnqnc6">Avsnitt er sett inn um rættin, ið skrásetti hevur um upplýsingar um skrásetta eru latnar víðari til 3. part sambært § 30 í DVL.</seg>
+      <seg type="sentence" resp="#rani" xml:id="vfxnfzcroe">Endamál og nýtsla av persónupplýsingum er tillagað til millum annað at umfata umbøn um tænastuferðir og avrokning av sama, GPS-tracking skipanir, vakmyndatól, umbøn um barnaváttanir og skráseting av persónupplýsingum hjá starvsfólki á torshavn.fo.</seg>
+      <seg type="sentence" resp="#rani" xml:id="wm4alpinyb">Politikkurin inniheldur brot um barnaváttanir, sum TK er áløgd at umbiða við støði í løgtingslóg nr. 80 frá 6. mai 2022 um barnaváttanir.</seg>
+    </standOff>
+    <text>
+      <body>
+        <div>
+          <head rend="bold">Persónsupplýsingarpolitikkur fyri borgarar og starvsfólk</head>
+          <table>
+            <row role="label">
+              <cell role="label">Viðgjørt av</cell>
+              <cell role="label">Fundardagur</cell>
+              <cell role="label">Málnr.</cell>
+              <cell role="label">Journalnr.</cell>
+            </row>
+            <row>
+              <cell>1 Fíggjarnevndin</cell>
+              <cell>07.12.2022</cell>
+              <cell>316/22</cell>
+              <cell>22/06962-1</cell>
+            </row>
+            <row>
+              <cell>2 Býráðsfundur</cell>
+              <cell>15.12.2022</cell>
+              <cell>292/22</cell>
+              <cell>22/06962-1</cell>
+            </row>
+          </table>
+          <div>
+            <head rend="bold">Upprunin til málið</head>
+            <!-- <s>Sambært § 23 og 24 í LL um dátuvernd skal Tórshavnar Kommuna veita nøktandi kunning og gjøgnumskygni til borgarar og starvsfólk í samband við innsavnan og viðger av teirra persónupplýsingum.</s> -->
+            <p>
+              <s resp="#rani" xml:id="b2jjlh7fdw">Sambært §§ 23 og 24 í løgtingslóg um dátuvernd skal Tórshavnar Kommuna veita nøktandi kunning og gjøgnumskygni til borgarar og starvsfólk í samband við innsavnan og viðger av teirra persónupplýsingum.</s>
+              <s xml:id="rujzi65mem">Partur av hesari kunning er persónupplýsingarpolitikkur fyri borgarar og persónupplýsingarpolitikkur fyri starvsfólk.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Lýsing av málinum</head>
+            <p>
+              <s xml:id="iwapwiz3ie">Tórshavnar Kommuna kunnar um persónupplýsingarpolitikk fyri borgarar á torshavn.fo, so allir borgarar hava møguleika at kunna seg um hendan.</s>
+              <s xml:id="qvg6d4szt4">Øll starvsfólk skulu somuleiðis kenna henda politikk, og er hesin tí eisini lagdur á Vaglið til kunningar.</s>
+            </p>
+            <p>
+              <s xml:id="wy4gdxse7a">Persónupplýsingarpolitikkur fyri starvsfólk liggur á Vaglinum, har øll starvsfólk í TK hava møguleika at kunna seg um hendan.</s>
+            </p>
+            <p>
+              <s ana="#formulaic" xml:id="o5pt2pjrjh">Tórshavnar Býráð samtykti hesar politikkir tann 26/11/20.</s>
+            </p>
+            <p>
+              <s xml:id="kktdkzbyqo">Síðani tá eru bæði persónupplýsingarpolitikkur fyri borgara og persónupplýsingarpolitikkur fyri starvsfólk vorðin endurskoðaður í samband við ávísar tillagingar á dátuverndarøkinum í Tórshavnar Kommunu, og sambært krøvum frá Dátueftirlitinum.</s>
+            </p>
+            <p>
+              <s xml:id="st6hq76otj">Niðanfyri verða lýst høvuðstillagingarnar fyri ávikavíst persónupplýsingarpolitikk fyri borgarar og persónupplýsingarpolitikk fyri starvsfólk.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="bold">Tillaging: Persónupplýsingarpolitikk fyri borgarar</head>
+            <list rend="bulleted">
+              <item>
+                <p>
+                  <s xml:id="ghqnl3cao3">Tillagingar eru gjørdar í mun til, hvussu borgarin kann samskifta við TK um dátuverndarviðurskifti.</s>
+                  <seg>Hetta er gjørt sambært áseting í DVL § 23 stk. 1 nr. 2, har ásett er, at samskiftisupplýsingar hjá dátuverndarfólkinum skal vera sjónligt fyri skrásetta (borgarin) s. 1.</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Talva er sett inn, sum greiður skrásetta frá bólking av persónupplýsingum, sum TK viðgerð fyri at loysa sínar uppgávur s. 2</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Fyri at fremja gjøgnumskygni og lýsa betur, hvar upplýsingar verða savnaðar frá, hevur TK sett inn talvu, ið lýsir fyrisitingina í Tórshavnar Kommunu s. 3 og 4.</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Sum nakað nýtt er lýsing um endamálið við nýtslu av vakmyndatól sett inn s. 4</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Avsnitt um hvussu leingi TK goymir upplýsingar hjá skrásetta er styrkt og útbygt til eisini at umfata striking av myndum í vakmyndatólum sambært LL um vakmyndatól</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Avsnitt er sett inn um rættin, ið skrásetti hevur um upplýsingar um skrásetta eru latnar víðari til 3. part sambært § 30 í DVL</seg>
+                </p>
+              </item>
+            </list>
+          </div>
+          <div>
+            <head rend="bold">Tillaging: Persónupplýsingarpolitikk fyri starvsfólk</head>
+            <list rend="bulleted">
+              <item>
+                <p>
+                  <s xml:id="h22nn3ixgm">Tillagingar eru gjørdar í mun til, hvussu starvsfólki kann samskifta við arbeiðsgevaran (TK) um dátuverndarviðurskifti.</s>
+                  <seg>Hetta er gjørt sambært áseting í DVL § 23 stk. 1 nr. 2, har ásett er, at samskiftisupplýsingar hjá dátuverndarfólkinum skal vera sjónligt fyri skrásetta (starsfólki) pkt.1.1.</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Avsnitt um um barnaváttanir, sum TK er áløgd at umbiða við støði í LL nr. 80 frá 6. Mai 2022 um barnaváttanir pkt. 2.1</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="nymqohj3z2">Kunnað verður um, í hvørjum sambandi upplýsingar hjá starvsfólkum verða skrásettar í skipanum hjá TK.</s>
+                  <seg>Pkt. 2.2</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="ye6b6kyknv">Starvsfólk verða kunnaði um vakmyndatól og endamálið við teimum umframt, at TK hevur mannagongd fyri vakmyndatól pkt. 2.3</s>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Starvsfólk verða kunnaði um GPS-tracking og endamálið við teimum, og víst verður á, at TK hevur mannagongd fyri GPS-tracking pkt. 2.4</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Kunnað verður um, at TK eftirkannar loggar sambært mannagongd fyri eftirkanning av l oggum pkt. 3</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Kunnað verður um samtykki í tann mun TK hevur tørv á hesum, umframt samtykki til barnaváttanir pkt. 6 og 6.1</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Avsnitt 7.1 um hvussu leingi TK goymir persónupplýsingar hjá starvsfólkum er tillaga til at umfata kunning um avhending av upplýsingum til Tjóðskjalasavnið, sambært LL um skjalasøvn.</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Kunning um hvørjar keldur TK nýtir til innsavnan av persónupplýsingum hjá starvsfólkum er umfatar kunning um, at í samband við LL um barnaváttan § 2 stk. 1, fær TK eina váttan við teimum upplýsingum, ið eru nevndar í § 36 í BKG for Færøerne om behandling af personoplysninger i Det Centrale Kriminalregister (Kriminalregisteret) pkt. 8</seg>
+                </p>
+              </item>
+              <item>
+                <seg>Starvsfólk verða kunnaði um, at TK í ávísum førum nýtir dátuviðgerar pkt. 9.1</seg>
+              </item>
+              <item>
+                <p>
+                  <s xml:id="pyjwpiioij">Starvsfólk verða kunnaði um, at TK nýtir tænastu- og keypsportalar til umsiting í samband við rakstrararbeiði, eitt nú netbankar, samskiftistænastur, starvslýsingarportalar, har persóndátur hjá starvsfólkum verða skrásettar.</s>
+                  <s xml:id="vseozhyr2l">Kunnað verður um, at TK skal hava skrivligar mannagongdir fyri, hvussu hesar upplýsingar verða strikaðar aftur tá endamálið við teimum er rokkið.</s>
+                  <seg>Pkt. 9.2</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Pkt. 11 umhandlar hvussu starvsfólk handfer trygdarbrot</seg>
+                </p>
+              </item>
+              <item>
+                <p>
+                  <seg>Brot er sett inn um møguleika at kæra pkt. 12</seg>
+                </p>
+              </item>
+            </list>
+          </div>
+          <div>
+            <head rend="bold">Lógir, ásetingar o.a.</head>
+          </div>
+          <div>
+            <head rend="bold">Upplýsingar frá umsitingini</head>
+          </div>
+          <div>
+            <head rend="bold">Onnur mál sum kunnu hava týdning fyri málið</head>
+            <list rend="simple">
+              <item>18/03628</item>
+            </list>
+          </div>
+          <div>
+            <head rend="bold">Viðmerkingar frá øðrum (t.d. deildum, staðbundnum nevndum og myndugleikum)</head>
+          </div>
+          <div>
+            <head rend="bold">Yvirlit yvir avleiðingarnar av uppskotinum (set x)</head>
+            <ab>Fíggjarligar avleiðingar: Ja ☐ Nei ☒</ab>
+          </div>
+          <div>
+            <head rend="bold">Tilmæli:</head>
+            <p>
+              <s xml:id="wwhmb33zd2">Við støði í omanfyri nevndu tillagingum til verandi politikkir mæla kommunustjórin og fyrisitingarstjórin til, at taka undir við endurskoðaða persónupplýsingarpolitikkin fyri borgarar og persónupplýsingarpolitikkin fyri starvsfólk.</s>
+            </p>
+          </div>
+          <ab rend="underline"><label rend="bold">Fíggjarnevndin 07. desember 2022:</label> Samtykt at taka undir við tilmælinum og beina málið í býráðið.</ab>
+          <ab rend="underline"><label rend="bold">Býráðsfundur 15. desember 2022:</label> Einmælt samtykt.</ab>
+        </div>
+      </body>
+    </text>
+  </TEI>
+  <TEI>
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>245/19: Bygnaðarviðurskifti á dagstovnaøkinum</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Rani Høgnason Hansen</publisher>
+          <idno type="url">https://github.com/hoegnason/tingmal</idno>
+          <availability status="free">
+            <licence target="http://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International (CC BY 4.0)
+            </licence>
+            <p>This TEI file is part of the "Tingmál" dataset and is an <hi rend="bold">unofficial</hi> publication; it is not affiliated with or endorsed by Løgtingið. You may share and adapt with attribution. Provided "as is," without warranties.</p>
+            <p>Original content is used here under §9 (public documents).</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Tórshavnar býráð</author>
+            <publisher>Tórshavnar kommuna</publisher>
+            <ref target="https://www.torshavn.fo/media/2lsansat/ger%C3%B0abo-k-fyri-by-ra-%C3%B0sfundin-30-oktober-2019.pdf"/>
+            <note type="source_format">PDF document, machine-readable text</note>
+            <date when="2019-09-30">30. september 2019</date>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+    </teiHeader>
+    <standOff>
+      <seg type="sentence" resp="#rani" xml:id="q7xb7yka2v">Dagstovnaleiðarin hevur leiðsluábyrgd av starvsfólkunum á dagstovninum og setir starvsfólk í samstarv við eindarleiðara.</seg>
+      <seg type="sentence" resp="#rani" xml:id="gfvbc22lgk">Dagstovnaleiðarin hevur ábyrgd av starvsfólkmenning í samstarvi við eindarleiðara.</seg>
+      <seg type="sentence" resp="#rani" xml:id="jczbunmm6u">Dagstovnaleiðarin hevur ábyrgd av, at skipa fyri innleiðslu av starvsfólkum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="mfkhco4tfz">Dagstovnaleiðarin hevur fíggjarligu og námsfrøðiligu ábyrgdina á dagstovninum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="fd6ftqud3h">Dagstovnaleiðarin hevur ábyrgd av at tryggja umstøðurnar fyri góðum dagstovnavirksemi á stovninum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="fi7gb5a3p2">Dagstovnaleiðarin hevur ábyrgd av at arbeiða við umstøðum, ið krevja ábøtur.</seg>
+      <seg type="sentence" resp="#rani" xml:id="a2fqgtvcjk">Dagstovnaleiðarin hevur yvirskipað ábyrgd fyri foreldrasamstarvinum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="tktwokkb74">Dagstovnaleiðarin hevur yvirskipað ábyrgd av bæði innanhýsis og uttanhýsis tvørfakliga samstarvinum.</seg>
+
+      <seg type="sentence" resp="#rani" xml:id="zlwee22mz6">Eindarleiðarin hevur leiðsluábyrgd av dagstovnaleiðarunum í eindini</seg>
+      <seg type="sentence" resp="#rani" xml:id="eyc7q3ivj4">Eindarleiðarin hevur yvirskipaða starvsfólkaábyrgd av øllum starvsfólkum í eindini.</seg>
+      <seg type="sentence" resp="#rani" xml:id="m32ruyy7p2">Eindarleiðarin hevur ábyrgd av leiðslumenning í samstarvi við Barna- og ungdómsdeildina.</seg>
+      <seg type="sentence" resp="#rani" xml:id="lp3d6domkf">Eindarleiðarin hevur ábyrgd av, at starvsfólkainnleiðsla verður framd.</seg>
+      <seg type="sentence" resp="#rani" xml:id="qw46j2ekcp">Eindarleiðarin hevur yvirskipaðu fíggjarligu og námsfrøðiligu ábyrgdina í eindini</seg>
+      <seg type="sentence" resp="#rani" xml:id="p5qav2m3eu">Eindarleiðarin hevur ábyrgd av at tryggja umstøður fyri góðum dagstovnavirksemi á einstøku dagstovnunum.</seg>
+      <seg type="sentence" resp="#rani" xml:id="doymj4el6p">Eindarleiðarin hevur ábyrgd av at arbeiða við umstøðum, ið krevja ábøtur.</seg>
+      <seg type="sentence" resp="#rani" xml:id="k2uebr2lvu">Eindarleiðarin hevur ábyrgd av at taka stig til felags skipanir og at hesar verða røktar.</seg>
+    </standOff>
+    <text>
+      <body>
+        <div rend="bold">Bygnaðarviðurskifti á dagstovnaøkinum</div>
+        <div>
+          <head rend="bold">Upprunin til málið:</head>
+          <p>
+            <s xml:id="yhvd4rrxy5">Tørvur á at seta í verk nýggjan bygnað á dagstovnaøkinum at leiða og skipa námsfrøðiligu tænastuna børnunum at gagni.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Lýsing av málinum – samandráttur</head>
+          <p>
+            <s xml:id="qbigeb75ys">Dagstovnaøkið hevur verið kommunalt ábyrgdarøki síðan 2000, men er ikki tillagað og ment bygnaðarliga í samsvari við ekspanderingina av økinum hvørki viðvíkjandi mongd av stovnum og nýggjum tilboðum 0-18 ár ella teim vaksandi fakligu og fyrisitingarligu krøvum, ið nú verða sett til skipanina, leiðslurnar og fakligu tænastuna.</s>
+          </p>
+          <p>
+            <s xml:id="lxm36zuyjy">Kompleksiteturin í nútíðarsamfelagnum flytur eisini við inn í dagstovnarnar.</s>
+            <s xml:id="ast3bde7dx">Óhóskandi bygnaður sum verandi hevur við sær stórar leiðsluligar og skipanarligar avleiðingar umframt avleiðingar fyri námsfrøðiligu tænastuna og menniskjuni í tænastuni.</s>
+          </p>
+          <p>
+            <s xml:id="yzd3fqnrfo">Endurskoðan av bygnaðinum á dagstovnaøkinum hevur verið á breddanum fyrr, seinast í 2013 og 2015, uttan at nakrar bygnaðarligar broytingar eru settar í verk.</s>
+            <s xml:id="wcuzoo7rjr">Tað merkir, at tilgongdir hava verið í gongd uttan úrskurð, men hava hinvegin skapt væntanir og helst eisini ørkymlan bæði í fyrisiting, hjá dagstovnaleiðarum og starvsfólkum um møguligar broytingar, ið ikki henda.</s>
+          </p>
+          <p>
+            <s xml:id="wp4k7yeher">Tørvurin á nýggjum bygnaði er tann sami um ikki størri enn víst varð á í 2013 og 2015.</s>
+            <s xml:id="mwxicizdnl">Hóast einki hevur verið sett í verk av teimum uppskotunum, so hevur fyrisitingin tikið munagóð tøk móti somu málum, men tó í einum bygnaði og í eini skipan, ið ikki stuðlar undir átøkini.</s>
+            <s xml:id="jz7y526qdb">Hetta er ikki haldbar støða.</s>
+          </p>
+          <p>
+            <s xml:id="w3l7jej62e">Fyri at kunna leiða og røkja ábyrgdina av námsfrøðiligu tænastuni skynsamt krevst ein tættur leiðslubygnaður, har tað er samanhangur líka frá politisku skipanini til umsitingina og út til virksemið á tí einstaka dagstovninum.</s>
+            <seg>Júst samanhangur er grundarlagið fyri at kunna leiða dagstovnaøkið við felags málum og tryggjar at:</seg>
+          </p>
+          <list rend="bulleted">
+            <item>Børnini fáa góða og eins góða námsfrøðiliga tænastu</item>
+            <item>Dygd og felagsmenning fyri starvsfólkini á dagstovnaøkinum í samanhangi við alt økið</item>
+            <item>Dygd og felagsmenning fyri leiðslurnar á dagstovnaøkinum og samanhangi við alt økið</item>
+            <item>Barna- og ungdómsdeildin er í samanhangi við og røkkur út til alt dagstovnaøkið javnbjóðis, við felags treytum og ásetingum í mun til politikkir og intervenering</item>
+            <item>Barna- og ungdómsdeildin hevur leiðslubygnað undir sær, sum til ber at leiða og áhaldandi kunna seta felags menningarkós</item>
+            <item>Samanhangur er millum øll liðini líka frá politisku skipanini, fyrisitingini, deild, leiðslu, starvsfólk, børn og víðari til foreldur</item>
+            <item>Leiðsla er tættari uppá og tryggjar samanhang</item>
+          </list>
+          <p>
+            <s xml:id="wu36lyad3c">Býráðið hevur júst samtykt barna- og ungdómspolitikk fyri námsfrøðiliga økið.</s>
+            <s xml:id="dyjrqdqkej">Eisini er tikið undir við námsfrøðiligu stevnumiðunum, sum Mentamálaráðið hevur kunngjørt, og nýggjur námsætlanarfrymil er gjørdur.</s>
+            <s xml:id="s7yz3cwki6">Hetta er gott og neyðugt grundarlag fyri teimum málum, ið sett verða námsfrøðiligu tænastuni bæði yvirskipað og á einstaka stovninum.</s>
+          </p>
+          <p>
+            <s xml:id="byafnmkxsv">Skal tað eydnast í verki, krevst ein dyggur bygnaður og góðar umstøður at skipa námsfrøðiligu tænastuna til børn og ung.</s>
+          </p>
+          <p>
+            <s xml:id="eg2rlm7sor">Flati leiðslubygnaðurin á dagstovnaøkinum, soleiðis sum hann er í dag, tryggjar ikki hetta.</s>
+            <s xml:id="v7ttrk4n7s">Tað er ov langt frá deildarleiðaranum til teir 37 dagstovnaleiðararnar, sum allir vísa til deildarleiðaran, og sum allir hava sjálvsagt krav uppá nærverandi leiðslu og sparring frá sínum leiðara.</s>
+            <s xml:id="vncvex5sl2">Heldur enn at leiða, fyrisita og menna økið í øllum lutum, fer størsti parturin av orkuni hjá deildini, ið aftrat deildarleiðaranum telur 2 fulltrúar og eitt skrivstovufólk, tí til at sløkkja eldar, har ein tættari leiðsla og umsiting tvørturímóti kundi havt fyribyrgt slíkum støðum áðrenn.</s>
+          </p>
+          <p>
+            <s xml:id="pamzaejrjc">Nýggjur bygnaður skal tryggja, at samanhangur er í ymisku leiðsluløgunum, bæði tvørgangandi, uppeftir og niðureftir.</s>
+            <s xml:id="dhap3l6vjv">Høvuðsdentur á uppskotinum til nýggja bygnað er lagdur á at tryggja námsfrøðiliga tænastuna, ið skal veitast barninum, meðan síðuvinningurin í bygnaðinum er, at tað umframt at leiða námsfrøðiligu tænastuna skynsamt eisini ber til at hava betur heildaryvirlit yvir fíggjarligan rakstur, starvsfólkaliga og námsfakliga menning.</s>
+          </p>
+          <p>
+            <s xml:id="xfrhhmpdy7">Skotið verður tí upp at skipa eitt nýtt leiðslulið millum deildarleiðaran og stovnsleiðararnar.</s>
+            <s xml:id="v3yw3issex">Mett verður, at hetta millumleiðsluliðið skal hava millum 4-6 leiðarar, sum hvør hevur ávíst tal av stovnsleiðarum og stovnum undir sær.</s>
+            <s xml:id="jphqtnx7qv">Hesi leiðarar vísa til deildarleiðaran.</s>
+          </p>
+          <p>
+            <s xml:id="cyqrxrd2dd">Til tess at nágreina uppgávu- og ábyrgdarbýtið millum ymsu leiðsluliðini verður skipað tilgongd saman við økinum og fyrisitingini annars, tí fleiri viðurskifti nema eisini við ábyrgdarøki hjá øðrum fyrisitingum enn trivnaðarfyrisitingini.</s>
+          </p>
+          <p>
+            <s xml:id="ni5fc7uers">Endamálið er at fáa øll viðurskifti, sum kunnu styrkja grundarlagið undir bestu námsfrøðiligu tænastuni, við, harundir eisini fíggingina av tænastuni, og at broytingarnar merkjast koma námsfrøðiliga virkseminum á stovnunum til gagns.</s>
+          </p>
+          <p>
+            <s xml:id="pu2hc5qyju">Trivnaðarfyrisitingin leiðir hesa tilgongd, har umboð úr fyrisiting, stovnsleiðslum o.ø. fara at taka lut.</s>
+          </p>
+          <p>
+            <s xml:id="su4a46rtbu">Harumframt kemur samskifti við sáttmálapartarnar, t.e. er Pedagogfelagið og Kommunala Arbeiðsgevarafelagið, viðvíkjandi starvsfólkaviðurskiftum og lønarflokkingum.</s>
+          </p>
+          <p>
+            <s xml:id="mai3dqhayd">Slík tilgongd, har ikki alt í nýggja bygnaðinum er læst fast frammanundan, og har høvi tí er at viðgera og taka avgerð um staklutir so hvørt grundarlag er klárt, krevur tó nakrar yvirskipaðar varðar á vegnum.</s>
+          </p>
+          <p>
+            <s xml:id="hztafnjuat">Ein varði er setan av millumleiðarunum – tvs. nýggja leiðsluliðið, har tal av leiðarum, starvsheiti og starvslýsing tí viðvíkjandi eigur at verða liðugt fyrireikað í heyst 2019, so at setanir kunnu verða framdar um ársskiftið.</s>
+            <s xml:id="rjmgyjkkrt">Samstundis verður undirliggjandi stovnsleiðarabygnaðurin skipaður og settur í verk.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Lógir, ásetingar o.a.</head>
+          <list rend="simple">
+            <item>Dagstovnalógin</item>
+          </list>
+        </div>
+        <div>
+          <head rend="bold">Upplýsingar frá umsitingini</head>
+        </div>
+        <div>
+          <head rend="bold">Onnur mál sum kunnu hava týdning fyri málið</head>
+          <list rend="simple">
+            <item>14/01148 Endurskoðan av stovnsøkinum á barna- og ungdómsøkinum</item>
+          </list>
+        </div>
+        <div>
+          <head rend="bold">Møgulig frávik/lættar frá ásetingum</head>
+        </div>
+        <div>
+          <head rend="bold">Umhvørvisárin</head>
+        </div>
+        <div>
+          <head rend="bold">Viðmerkingar frá øðrum (t.d. deildum, staðbundnum nevndum og myndugleikum)</head>
+        </div>
+        <div>
+          <head rend="bold">Skjøl</head>
+        </div>
+        <div>
+          <head rend="bold">Yvirlit yvir avleiðingarnar av uppskotinum (set x)</head>
+        </div>
+        <div>
+          <head rend="bold">Fíggjarligar avleiðingar: Ja ☒ Nei ☐</head>
+          <p>
+            <s xml:id="xyvibur4xm">Fíggjarætlanarviðgerðin 2020 skal somuleiðis taka hædd fyri bygnaðarbroytingini.</s>
+            <s xml:id="z2qa3pwtho">Eitt nýtt leiðslulið er í sjálvum sær ein kostnaðarøking, eru ikki aðrar fíggjarligar broytingar.</s>
+            <s xml:id="ctzii4agwk">Í sambandi við fíggjarætlanina 2020 skal fíggingin av økinum í síni heild endurskoðast samsvarandi nýggja bygnaðinum, eitt nú um játtanir, sum barna- og ungdómsdeildin í dag umsitur (t.d. sjúkrafráverur, børn við serligum tørvi), skulu leggjast út til nýggja leiðsluliðið, um møguligar broytingar í normeringum e.ø. kunnu styrkja námsfrøðiligu tænastuna á stovnunum, um broytingar skulu gerast í gjøldum v.m. Partur av hesi viðgerð er eisini, um tillagingar í fíggjarætlanini verða gjørdar í stigum yvir ár.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Tilmæli:</head>
+          <p>
+            <s xml:id="emoqdzd5up">Trivnaðarstjórin og leiðarin á barna- og ungdómsdeildini mæla til at broyta leiðslubygnaðin á dagstovnaøkinum soleiðis, at eitt nýtt leiðslulið verður skipað millum deildarleiðaran og stovnsleiðararnar.</s>
+            <s xml:id="zsbfodnn26">Málið at beina í fíggjarnevndina.</s>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Mentamálanevndin 24. juni 2019:</label>
+            <seg>Samtykt at taka undir við tilmælinum og beina málið í fíggjarnevndina.</seg>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Fíggjarnevndin 03. juli 2019:</label>
+            <s xml:id="rzyxeodfbb">Ein meiriluti, Annika Olsen, Gunvør Balle og Bergun Kass, tekur undir við mentamálanevndini.</s>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Fíggjarnevndin 03. juli 2019:</label>
+            <s xml:id="dpd6aimrg5">Ein minniluti, Tróndur Sigurðsson og Helena Dam á Neystabø, atkvøður ímóti og mælir til at beina málið til hoyringar hjá Pedagogfelagnum og stovnsleiðarunum, áðrenn endalig støða verður tikin til leiðslubygnaðin á dagstovnaøkinum.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Ískoyti:</head>
+          <p>
+            <s xml:id="b5gkahi57k">Arbeitt hevur verið víðari við bygnaðarbroytingini, sum omanfyri lýst hevur sum yvirskipað mál at at tryggja námsfrøðiligu tænastuna, at tryggja samanhang millum tey ymisk leiðsluløgini og fáa eitt betri heildaryvirlit yvir rakstur og námsfakliga menning á dagstovnaøkinum.</s>
+          </p>
+          <p>
+            <s xml:id="uvatse6rbu">Síðstu mánaðirnar hevur toymi úr ymsum deildum í umsitingini arbeitt víðari við at nágreina ymsar staklutir í bygnaðarbroytingini.</s>
+            <s xml:id="jrdnapussv">Kunnandi fundir hava verið við ávikavist leiðsluna í Føroya Pedagogfelag og við dagstovnaleiðararnar um bygnaðarbroytingina.</s>
+            <s xml:id="vv2afv64pg">Eisini eru tey kunnað um uppskot til skipan við fyrireikingartíð ætlað sum fyrsta stig í størri arbeiði at broyta fíggjarleistin fyri dagstovnaøkið, har betri umstøður til námsfrøðiligu tænastuna, ogharvið barnið er í fokus.</s>
+          </p>
+          <p>
+            <s xml:id="a5bfrn7wew">Frá fundunum er niðurstøða, at Pedagogfelagið leggur størstan dentin á at betra fíggjarligu karmarnar til námsfrøðiliga virksemið á stovnunum, og at dagstovnaleiðarin í nýggjum bygnaði framhaldandi skal hava leiðsluna av stovninum.</s>
+            <s xml:id="eszbv6ivzs">Dagstovnaleiðararnir leggja eisini størsta dentin á umstøðurnar á stovnunum, men flestu teirra ynskja eisini leiðslu tættari uppá.</s>
+          </p>
+          <p>
+            <s xml:id="jotkapu3gt">Í samskiftinum við Pedagogfelagið og dagstovnaleiðararnar er dentur lagdur á, at talan er um broytingartilgongd, har høvi skal vera at viðgera og taka avgerð um staklutir so hvørt grundarlagið er klárt, og at avvarðandi partar verða tiknir við í tilgongdina.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Nýggja leiðsluliðið</head>
+          <p>
+            <s xml:id="poiltgp4ff">Umrøtt er starvsheiti og tal av eindarleiðarum.</s>
+            <s xml:id="p4dossqqtt">Vísandi til, at Heilsu- og umsorganartænastan í Tórshavnar kommunu brúkar heitið eindarleiðari fyri samanberiligt leiðslulið, og at hetta tí er kent starvsheiti í kommununi, verður mett skilabest at brúka sama starvsheiti til dagstovnaøkið.</s>
+          </p>
+          <p>
+            <s xml:id="j6pmsnvqnb">Viðgjørt er, hvussu nógvar eindarleiðarar skipanin skal hava.</s>
+            <s xml:id="f4dagv3lud">Sammett við donsk viðurskifti og við støði í, hvat mett verður hóskandi til Tórshavnar kommunu, verður mett skilabest við í alt 5 eindarleiðarum.</s>
+            <s xml:id="oboifbex5u">Hetta svarar til, at hvør eindarleiðari hevur uml. 6-7 dagstovnaleiðarar undir sær og uml. 150 starvsfólk.</s>
+          </p>
+          <p>
+            <s xml:id="ize7f3k6yf">Eindirnar eru ikki skipaðar enn, men ætlast tikið upp, so skjótt avgerð um tal av eindarleiðarum er greitt.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Uppgávu- og ábyrgdarbýtið</head>
+          <p>
+            <s xml:id="q2h73ji6iq">Nýggja eindarleiðsluliðið ber í sær, at neyðugt er at broyta núverandi ábyrgdar- og uppgávubýtið millum dagstovnaleiðara og eindarleiðara og millum eindarleiðara og deildarleiðara.</s>
+            <s xml:id="vtrrs3ai5c">Í eini ætlanartilgongd er neyðugt, at øll leiðslulið eru tikin við uppá ráð, áðrenn endalig avgerð verður tikið um ítøkiliga uppgávu- og ábyrgdarbýtið.</s>
+          </p>
+          <p>
+            <s xml:id="f5cw6llkdn">Skipaður er arbeiðsbólkur við umboðum fyri umsitingina og umboðum fyri dagstovnaleiðararnar.</s>
+            <s xml:id="pvfbj3uxx4">Arbeiðið er grundarlagið undir starvslýsingunum hjá dagstovnaleiðarunum, eindarleiðarunum og deildarleiðaranum.</s>
+            <s xml:id="fdnghcuts4">Miðað verður eftir, at eindarleiðarastørvini verða sett pr. 1. januar 2020.</s>
+            <s xml:id="gchdcyiy2c">Hetta merkir, at størvini skulu verða lýst leys seinnu hálvu av oktober.</s>
+          </p>
+          <p>
+            <s xml:id="oalvi4zfy6">Yvirskipað skal eindarleiðarin hava leiðsluábyrgd av dagstovnaleiðarunum í eindini og fíggjar- og fyrisitingarligu leiðsluna.</s>
+            <s xml:id="zvo7xckifb">Dagstovnaleiðarin skal framhaldandi hava leiðsluábyrgdina av virkseminum á stovninum og starvsfólkunum.</s>
+          </p>
+          <p>
+            <s xml:id="qz2roscqa7">Tá ið starvslýsingarnar eru gjørdar, skal støða takast til, hvussu tilgongdin viðvíkjandi ábyrgdarbroytingunum hjá stovnsleiðarunum og deildarleiðaranum skal vera, harundir møguligar hoyringsfreistir.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Flokking av eindarleiðarastarvinum</head>
+          <p>
+            <s xml:id="pmenfentwh">Tann yvirskipaða leiðsluuppgávan hjá eindarleiðaranum verður tvídeild.</s>
+            <s xml:id="qvtzy7wxgq">Eindarleiðarin skal vera við til at tryggja námsfrøðiligu tænastuna, og samstundis skal eindarleiðarin tryggja betri heildaryvirlit yvir raksturin.</s>
+          </p>
+          <p>
+            <s xml:id="kvwyltjfie">Av tí at ein so stórur partur av leiðsluuppgávuni er tengdur at námsfrøðiligu tænastuni, er ynskiligt, at eindarleiðarin hevur námsfrøðiliga bakgrund.</s>
+            <s xml:id="pk5dwu2ogj">Pedagogfelagið hevur í løtuni ikki nakra flokking til starvið sum eindarleiðari innan dagstovnaøkið, men hevur sum fyrimynd víst kommununa á flokking av eindarleiðarum, sum felagið hevur við Almannaverkið, tó lønt eftir tænastumannasáttmálanum.</s>
+          </p>
+          <p>
+            <s xml:id="vtgo7fqcie">Neyðugt er tó, at sáttmálapartarnir flokka eindarleiðarastarvið hjá kommununi.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Fyrireikingartíð og fíggjarleistur</head>
+          <p>
+            <s xml:id="cpoyxgkq3p">Til tess at styrkja námsfrøðiliga arbeiðið á stovnunum og stovunum, verður arbeitt við uppskoti at játta 2 tímar fyrireikingartíð frá 1. januar 2020.</s>
+            <s xml:id="toiftynpsd">Aftrat bygnaðarbroytingini er játtan til fyrireikingartíð tikið upp sum liður í sjálvum endamálinum at tryggja námsfrøðiligu tænastuna.</s>
+          </p>
+          <p>
+            <s xml:id="inazz6k7zk">Verandi skipan er, at fyrireikingartíðin – ella tíð til annað arbeiði, sum hetta eisini verður nevnt – verður tikin frá stovuni, tí starvsfólk noyðast at fara frá, meðan børnini eru á stovuni, uttan at starvsfólk kemur í staðin.</s>
+          </p>
+          <p>
+            <s xml:id="dacbbze5al">Hjálagt málinum er upprit, sum lýsir, hvussu stór lønarútreiðslan fyri hvønn tíma fyrireikingartíð er.</s>
+            <s xml:id="kiegaegbl2">Sambært hesum útrokningum fara 2 tímar fyrireikingartíð til hvørja stovu á dagstovnunum og hvønn flokk í frítíðarskúlunum umframt til ungdómsklubbarnar at kosta uml. kr. 2,6 mió.</s>
+          </p>
+          <p>
+            <s xml:id="f67nhmqx42">Á fundinum við dagstovnaleiðararnar komu fram ymisk sjónarmið um henda leist.</s>
+            <s xml:id="pmzbaep2e4">Eitt nú varð víst á, at fyrireikingartíðin eigur at verða løgd til námsfrøðingarnar og ikki til stovuna/flokkin.</s>
+            <s xml:id="rjnsnfkfph">Vansin við hesum er, at stovur/flokkar við fáum ella ongum pedagogum sostatt ikki fáa lut í tímunum/fíggingini til fyrireiking.</s>
+          </p>
+          <p>
+            <s xml:id="i2wao3jjbj">Til tess at skipa leist fyri, hvussu fyrireikingartíðin skal skipast í verki, verður arbeiðsbólkur skipaður við umboðum fyri álitisfólkini á dagstovnunum, umboðum fyri dagstovnaleiðararnar og umsitingini.</s>
+            <s xml:id="t2ql2ybxf6">Hesin bólkur fer í gongd seinni í september.</s>
+          </p>
+          <p>
+            <s xml:id="gkay4g6y2v">Skipanin við fyrireikingartíð er eisini fyrsta stig í størri arbeiði at endurskoða og ætlandi nýhugsa allan fíggjarleistin fyri dagstovnaøkið.</s>
+          </p>
+          <p>
+            <s xml:id="oqpplluwor">Eindarleiðararnir koma at hava sum eina høvuðsuppgávu at tryggja raksturin og harvið fíggjarstýringina.</s>
+            <s xml:id="iusrtjzfsh">Ætlanin er tí, at so skjótt hesi størv eru sett, verður tilgongdin saman við leiðsluni og umsitingini annars at skipa nýggjan fíggjarleist sett í gongd, og úrslitið av tí síggjast aftur í fíggjarætlanarbeiðinum 2021.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Fígging</head>
+          <p>
+            <s xml:id="adzqypohqd">Tá dagstovnaøkið er skipað í eindir, verður kontubygnaðurin í fíggjarætlanini broyttur soleiðis, at hvør eindarleiðari roknskaparliga hevur játtanina til stovnarnar í viðkomandi eind samlaða í einari rakstrarkontu/stovnsnummari, meðan stovnarnir fara at verða bólkaðir sum prosjektir.</s>
+            <s xml:id="jed7db46au">Broytingar verða annars ikki gjørdar, hvussu ið tær einstøku lønar- og útreiðslukonturnar verða settar upp.</s>
+          </p>
+          <p>
+            <s xml:id="gdz3ocqyih">Hetta gevur øllum dagstovnaøkinum eitt sterkari fíggjarligt grundstøði.</s>
+            <s xml:id="z7lu3uaiou">Saman við møguligum umleggingum av játtanum, sum í dag liggja uttanfyri verandi stovnsrakstrarkontur, fer hetta væntandi yvir tíð geva ávísar tænastuligar og fíggjarligar betringar.</s>
+          </p>
+          <p>
+            <s xml:id="by2xdy5r5v">Umsitingin ger í løtuni samlað uppskot til fígging av bygnaðarbroytingini og skipan við fyrireikingartíð, sum samlað sær er betran av normeringini.</s>
+            <s xml:id="thkotulzke">Sjálv bygnaðarbroytingin verður mett at kosta uml. kr. 3,5 mió alt eftir talið av eindum.</s>
+            <s xml:id="vhzriizjl3">Aftrat kemur uppskotið um játtan til fyrireikingartíð.</s>
+            <s xml:id="hcc3xpoyth">Tær fíggjarligu betringarnar koma helst ikki at síggjast í fullum líki fyrsta árið eftir bygnaðarbroytingina, tí nýggja skipanin skal fóta sær.</s>
+            <s xml:id="gmxyzpl5r5">Men annað árið eftir broytingina eiga munandi betring at vera at síggja, og saman við nevndu umleggingum í ávísum játtanum verða broytingarnar eftir ætlan útreiðsluneutral.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Víðari tilgongd</head>
+          <p>
+            <s xml:id="k526dk3hks">Sum omanfyri lýst, hava fundir verið við Pedagogfelagið og dagstovnaleiðararnar, umframt at umsitingin hevur arbeitt víðari við málinum.</s>
+            <s xml:id="hsyq6h4ayr">Ein arbeiðsbólkur við umboðum fyri umsiting og dagstovnaleiðarar er settur at gera uppskot til uppgávu- og ábyrgdarbýtið millum ymsu leiðsluliðini sum grundarlag fyri starvslýsingunum, og ein arbeiðsbólkur við umboðum fyri umsiting, álitisfólk á dagstovnaøkinum og dagstovnaleiðarum verður settur at gera leist fyri fyrireikingartíðini.</s>
+          </p>
+          <p>
+            <s xml:id="plktkbrz4z">Ætlanin er, at starvslýsing av eindarleiðarastarvinum er klár at góðkenna til fíggjarnevndarfundin í oktober.</s>
+            <s xml:id="s5laothtfp">So verða størvini lýst leyst til setan ætlandi 1. januar 2020.</s>
+            <s xml:id="xjfbjyfqtz">Flokking av starvinum skal tí eisini vera klár.</s>
+          </p>
+          <p>
+            <s xml:id="apxdc2zws2">Uppskot til samanseting av stovnum í hvørjari eind verður eisini liðugt lagt fyri fíggjarnevndarfundin í oktober.</s>
+          </p>
+          <p>
+            <s xml:id="pxmtx2wbai">Uppskot til fígging av bygnaðarbroytingunum, fyrireikingartíð og uppskot til kontubygnaðin ætlast eisini lagt fyri fíggjarnevndini í oktober og verður partur av fíggjarætlanarviðgerðini 2020.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Tilmæli:</head>
+          <p>
+            <seg>Trivnaðarstjórin og leiðarin á Barna- og ungdómsdeildini mæla til at taka omanfyri standandi til eftirtektar og í hesum sambandi at góðkenna:</seg>
+          </p>
+          <list rend="bulleted">
+            <item>At skipa kommunala dagstovnaøkið í fimm eindir við hvør sínum eindarleiðara</item>
+            <item>At uppskot til starvslýsing av eindarleiðarastarvinum verður latið fíggjarnevndini at góðkenna á nevndarfundinum í oktober</item>
+            <item>At heita á Kommunala Arbeiðsgevarafelagið um at fáa flokkað eindarleiðarastarvið við Pedagogfelagið</item>
+            <item>At uppskot til fyrireikingartíð verður gjørt sum partur av fíggjarætlanini 2020</item>
+            <item>At uppskot til samlaða fígging av broytingunum verður latið fíggjarnevndini á nevndarfundinum í oktober, harundir broytingar í kontubygnaðinum í fíggjarætlanini.</item>
+          </list>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Fíggjarnevndin 25. september 2019:</label>
+            <s xml:id="iyoacuhph3">Ein meiriluti, Annika Olsen, Gunvør Balle og Bergun Kass, tekur undir við tilmælinum.</s>
+          </p>
+          <p>
+            <s xml:id="smx6oh4fq7">Ein minniluti, Tróndur Sigurðsson og Halla Samuelsen, tekur ikki undir við tilmælinum.</s>
+          </p>
+          <p>
+            <s xml:id="zp4wzpbrli">Tróndur Sigurðsson og Halla Samuelsen krevja málið fyri býráðið.</s>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Býráðsfundur 26. september 2019: </label>
+            <s xml:id="atmeynnktm">Turið Horn fór av fundinum og tók Jógvan Arge sæti.</s>
+          </p>
+          <p>
+            <s xml:id="ddltby7r5g">Atkvøtt varð um avgerðina í fíggjarnevndini 25. september 2019.</s>
+          </p>
+          <p>
+            <seg>Samtykt við 7 atkvøðum fyri og 5 ímóti og ongari blankari.</seg>
+          </p>
+          <p>
+            <seg>Fyri atkvøddu: Annika Olsen, Gunvør Balle, Marin Katrina Frýdal, Jákup Dam, Jógvan Arge, Bogi Andreasen og Bergun Kass.</seg>
+          </p>
+          <p>
+            <seg>Ímóti atkvøddu: Heðin Mortensen, Tróndur Sigurðsson, Bjørg Dam, Halla Samuelsen og Annfinn Brekkstein.</seg>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Ískoyti:</head>
+          <p>
+            <s xml:id="aalxu3ze3x">Víst verður til tilgongdina omanfyri og tær ávegis avgerðir, sum tiknar eru.</s>
+          </p>
+          <p>
+            <s xml:id="nog6bsg227">Síðani síðstu viðgerð hava fundir verið við dagstovnaleiðararnar (3/10 og 11/10) og álitisfólkini (26/9 og 7/10).</s>
+            <s xml:id="ovprmmaixa">Kunningarskriv um ætlaðu broytingar varð sent stovnunum 4/10, har tað eisini varð greitt frá normeringini.</s>
+          </p>
+          <p>
+            <s xml:id="tb5iqwfht3">Á fundunum eru reistir ymsir spurningar, har tørvur hevur verið at lýsa tilgongdina og endamálið við bygnaðarbroytingini greiðari.</s>
+            <s xml:id="wzu6dnesxl">Eisini er spurt um, hvussu broytingarnar fara at ávirka námsfrøðingarnar, dagstovnaleiðararnar og deildina, harundir um ábyrgdir og rættindi.</s>
+            <s xml:id="gmip3ctece">Uppskotið um játtan til fyrireikingartíð hevur fingið atfinningar, tí ynskið er heldur at fáa hægri normering, og at skipan við fyrireikingartíð er partur av leiðsluuppgávuni á stovninum.</s>
+          </p>
+          <p>
+            <s xml:id="gcuicxvc7q">Við støði í fundarvirkseminum hevur umsitingin tillagað uppskotið um tal av eindum og um hægri játtan til normering.</s>
+            <s xml:id="zfkgekepcg">Sum liður í hesum verður skotið upp, at samlaði kostnaðurin av bygnaðarbroytingini og normeringsøkingini verður kr. 7,25 mió, ið mett verður kann fáast til vega sjálvfíggjandi (útreiðsluneutralt) innan grein 3 í fíggjarætlanini sum liður í nýggja bygnaðinum.</s>
+            <s xml:id="orxdfhgukq">Lagt er ikki upp til hægri foreldragjøld.</s>
+          </p>
+          <div>
+            <head rend="underline">Viðv. tal av eindum/eindarleiðarum:</head>
+            <p>
+              <s xml:id="f45oigyscd">Skotið verður upp at broyta samtyktina um at skipa kommunala dagstovnaøkið í fimm eindir til í staðin at verða fýra eindir.</s>
+              <s xml:id="zqgchrt6q4">Broyting er, at hvør eindarleiðari tá hevur uml. 185 starvsfólk í eindini heldur enn 150, og mett verður, at hetta fær ikki avgerandi avleiðingar fyri nýggja bygnaðin, sum tí eisini verður bíligari at fremja.</s>
+              <s xml:id="qfhwjpsddh">Mett verður, at fýra eindarleiðarastørv íroknað byrjanarútreiðslur kostar kr. 2,738 mió. Arbeitt verður fram ímóti, at eindarleiðararnir fáa skrivstovu saman í kommunalum hølum.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Viðv. normering:</head>
+            <p>
+              <s xml:id="gscs6ohjxd">Við støði í viðmerkingunum frá fundunum við dagstovnaleiðararnar og álitisfólkini verður skotið upp at broyta uppskotið um at játta 2 tímar fyrireikingartíð pr. stovu/flokk – svarandi til kr. 2,6 mió, til í staðin at økja normeringarnar svarandi til upphædd kr. 4,512 mió.</s>
+            </p>
+            <p>
+              <s xml:id="szkoczylyz">Í tilgongdini er upplýst, hvussu normeringin hevur verið aftur til 2002.</s>
+              <s xml:id="y2lzxit73b">Har útrokningarlykilin til vøggustovu- og barnagarðsnormeringina hevur staðið í stað, er útrokningarlykilin til frítíðarskúlanormeringina og fyrisitingar/leiðslunormeringina lækkað.</s>
+            </p>
+            <p>
+              <s xml:id="kbsi3krwaq">At økja normeringarnar, so at tær hava mest gagnligu ávirkan, er eisini ein spurningur um, hvussu økta normeringin skal býtast út á ymsu normeringarnar (vøggustovu, barnagarð, frítíðarskúla, fyrisiting/leiðslu).</s>
+              <s xml:id="s5pjwid2xm">Her eru fleiri atlit at taka, ið kunnu vera ósamsvarandi.</s>
+              <s xml:id="hvejmu4tlr">Sum ætlað verður settur arbeiðsbólkur við umboðum fyri dagstovnaleiðararnar og umboðum fyri álitisfólkunum, ið saman við umsitingini skulu viðgera og gera uppskot til normeringsbroytingar innanfyri ásetta karmin uppá kr. 4,512 mió.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Fíggjartørvur og fígging av eindarleiðslu og normeringsøking</head>
+            <p>
+              <s xml:id="gyvserr5g4">Við støði í omanfyri nevndu uppskotum um meirnormering uppá kr. 4,512 mió og at skipa økið við fýra eindarleiðarum, verður samlaði kostnaðurin mettur at verða kr. 7,25 mió.</s>
+            </p>
+            <!-- TODO: Insert table later! -->
+            <p>
+              <s xml:id="s4rqcy332z">Fíggingin av øktu kostnaðinum er settur saman av niðanfyri nevndu betringum í rakstri, samskipan, tillaging og umlegging av ávísum játtanum.</s>
+            </p>
+            <!-- TODO: Insert table later! -->
+            <p>
+              <s xml:id="sqdsn3j5xj">Samlaða rakstrarjáttanin á grein 3, Børn og ung, er kr. 179,7 mió í 2019, og er tað fyri vøggustovu- og barnagarðar, frítíðarskúlar, ungdómstilboð og játtanir til ávís endamál.</s>
+              <s xml:id="geruxci6vj">Til samanberingar er talið í fíggjarætlanini fyri 2020, sum nú er til viðgerðar, kr. 190,1 mió.</s>
+            </p>
+            <p>
+              <s xml:id="psf2ajtfd3">Játtanin til teir 39 vøggustovu og barnagarðarnar og frítíðarskúlarnar er kr. 138 mióí 2019.</s>
+              <s xml:id="hnpzcllqx5">Sama tal fyri 2020 er kr. 145 mió.. Hetta svarar til ein vøkstur í rakstrarjáttanini á 5,1%.</s>
+            </p>
+            <p>
+              <s xml:id="guesa3o2q6">Upphæddin uppá kr. 2,25 mió til aðrar betringar/effektiviseringar í rakstri, svarar til uml. 1,6% av hesi upphædd (kr. 145 mió), ið skal vinnast inn aftur í betri skipaðum rakstri.</s>
+            </p>
+            <p>
+              <s xml:id="zngd65ipdi">Verður tímalønt avloysing uppá kr. 1 mió og endurgjald til útjaðarastovnar fyri lágt barnatal uppá kr. 1 mió lagt aftrat teimum kr. 2,25 mió, er samlaða upphæddin íalt av betraðum rakstri kr. 4,25 mió ella svarandi til 2,9%.</s>
+            </p>
+            <p>
+              <s xml:id="j2yfeqi4os">Mett verður tí, at uppskotið um at sjálvfíggjað fýra eindarleiðarar og meirnormering letur seg gera.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Starvslýsingar (uppgávu- og ábyrgdarbýti) eindarleiðari og dagstovnaleiðari:</head>
+            <p>
+              <s xml:id="yperjirn56">Sum upplýst til undanfarna fund er arbeiðsbólkur skipaður at viðgera uppgávu- og ábyrgdarbýtið soleiðis, at samanhangur kemur í alla skipanina, harundir eisini at gera uppskot til starvslýsing av dagstovnaleiðarastarvinum og eindarleiðarastarvinum bæði viðvíkjandi uppgávum, ábyrgd og førleikakrøvum.</s>
+            </p>
+            <p>
+              <s xml:id="kxnt7ghevd">Uppskotið til uppgávu- og ábyrgdarbýtið sær í løtuni soleiðis út, sí niðanfyri.</s>
+              <s xml:id="akie32t373">Arbeiðstilgongdin er enn í gongd og ætlast liðug til fíggjarnevndarfundin.</s>
+              <s xml:id="dlfzhawhhn">Arbeiðsbólkurin, sum arbeiðir við uppgávuni, skal møtast aftur mánadagin, og stovnsleiðararnir skulu møtast týsdagin.</s>
+              <s xml:id="gw37naaobb">Um so er, at broytingar koma til niðanfyristandandi lýsingar, verða broytingarnar latnar fíggjarnevndini skjótast til ber, áðrenn fundin í fíggjarnevndini.</s>
+            </p>
+            <div>
+              <head rend="bold">Dagstovnaleiðari</head>
+              <ab rend="bold">Uppgáva/ábyrgd</ab>
+              <list rend="bulleted">
+                <item>Hevur leiðsluábyrgd av starvsfólkunum á dagstovninum og setir starvsfólk í samstarv við eindarleiðara</item>
+                <item>Hevur ábyrgd av starvsfólkmenning í samstarvi við eindarleiðara</item>
+                <item>Hevur ábyrgd av, at skipa fyri innleiðslu av starvsfólkum</item>
+                <item>Hevur fíggjarligu og námsfrøðiligu ábyrgdina á dagstovninum</item>
+                <item>Hevur ábyrgd av at tryggja umstøðurnar fyri góðum dagstovnavirksemi á stovninum</item>
+                <item>Hevur ábyrgd av at arbeiða við umstøðum, ið krevja ábøtur</item>
+                <item>Hevur yvirskipað ábyrgd fyri foreldrasamstarvinum</item>
+                <item>Hevur yvirskipað ábyrgd av bæði innanhýsis og uttanhýsis tvørfakliga samstarvinum</item>
+              </list>
+            </div>
+            <div>
+              <head rend="bold">Eindarleiðari</head>
+              <ab rend="bold">Uppgáva/ábyrgd</ab>
+              <list rend="bulleted">
+                <item>Hevur leiðsluábyrgd av dagstovnaleiðarunum í eindini</item>
+                <item>Hevur yvirskipaða starvsfólkaábyrgd av øllum starvsfólkum í eindini</item>
+                <item>Hevur ábyrgd av leiðslumenning í samstarvi við Barna- og ungdómsdeildina.</item>
+                <item>Hevur ábyrgd av, at starvsfólkainnleiðsla verður framd</item>
+                <item>Hevur yvirskipaðu fíggjarligu og námsfrøðiligu ábyrgdina í eindini</item>
+                <item>Hevur ábyrgd av at tryggja umstøður fyri góðum dagstovnavirksemi á einstøku dagstovnunum</item>
+                <item>Hevur ábyrgd av at arbeiða við umstøðum, ið krevja ábøtur</item>
+                <item>Hevur ábyrgd av at taka stig til felags skipanir og at hesar verða røktar</item>
+              </list>
+            </div>
+            <p>
+              <s xml:id="elgcnann7d">Tað eru ymisk krøv til starvið sum stovnsleiðari og starvið sum eindarleiðari.</s>
+              <s xml:id="wxexpoujjd">Ein av teimum eyðsýndu ymiskleikunum er, at stovnsleiðarin er leiðari fyri starvsfólk og eindarleiðarin er leiðari fyri leiðarar.</s>
+              <s xml:id="rqmtfk7wk6">Í teirra dagliga yrki merkir hetta, at stovnsleiðarin skal hava námsfrøðiligt innlit og skal duga at menna fakleikan hjá starvsfólkunum á stovninum.</s>
+              <s xml:id="hnjzpwluyr">Eindarleiðarin skal eisini hava námsfrøðiligt innlit, men hevur eisini leiðslu sum fak og skal duga at menna og stuðla leiðsluni hjá stovnsleiðaranum.</s>
+            </p>
+            <p>
+              <s xml:id="o5zdh7vgyj">Bygnaðarbroytingin skal eisini tryggja, at arbeitt verður við at skapa javnt góða tænastu tvørturum allar dagstovnarnar hjá Tórshavnar kommunu.</s>
+              <s xml:id="a5qddzfmhb">Hetta verið seg bæði námsfrøðiligt og fíggjarligt.</s>
+              <s xml:id="mz27a7jsim">Eindarleiðarin, sum skal vera leiðari fyri á leið 8-9 stovnum, skal hava skipaðar og regluligar fundir við stovnsleiðararnar, bæði einsamallar og í leiðslubólkinum.</s>
+              <s xml:id="jddgakjc2z">Ein av seruppgávunum er at tryggja, at eindarleiðarin saman við stovnsleiðarunum leggur ætlanir og strategi fyri, hvussu hetta máli best verður nátt.</s>
+            </p>
+            <p>
+              <s xml:id="iywns4z7xq">Bæði stovnsleiðarin og eindarleiðarin hava fíggjarliga ábyrgd.</s>
+              <s xml:id="fmw4g77x6u">Stovnsleiðarin hevur brúk fyri hesi ábyrgd fyri at kunna reka stovnin.</s>
+              <s xml:id="kn5t3hhbci">Eindarleiðarin hevur fíggjarliga ábyrgd fyri eindini.</s>
+              <s xml:id="fge6jlwnlb">Hettar merkir, at eindarleiðarin hevur eina meira holistiska fíggjarábyrgd.</s>
+              <s xml:id="t74ilwx45w">Hann fær innlit í fíggjarviðurskiftini hjá øllum stovnunum í eindini, og kann taka støðu til tvørgangandi og einsæris átøk, um hettar er neyðugt.</s>
+              <s xml:id="mfhaz2p2vo">T.d. kann talan verða um felags innkeyp av ávísum vørum ella tilfari.</s>
+              <s xml:id="pxlimornph">Tað kann eisini vísa seg, at ein stovnur hevur eina serliga skipan sum er gagnlig at breiða út á hinar stovnarnar í mun til fíggjarstýring.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Flokking av eindarleiðarastarvinum:</head>
+            <p>
+              <s xml:id="cdmzqksb3i">Kommunala Arbeiðsgevarafelagið og Pedagogfelagið hava tikið upp samráðing um at flokka eindarleiðarastarvið.</s>
+              <s xml:id="erfdipubit">Avtalaðir eru fundir við tí ætlan, at semja er um flokking síðst í hesum mánaðinum.</s>
+              <s xml:id="pktcjaco76">Upplýst er, at kommunan kann seta eindaleiðararnar í starv og løna teir við fyribils flokking til størvini eru endaliga flokkað.</s>
+            </p>
+          </div>
+          <div>
+            <head rend="underline">Víðari tilgongd:</head>
+            <p>
+              <s xml:id="lv6tcr6tkq">Eftir at gera er at skipa samansetingina av stovnum í hvørjari av teimum fýra eindunum og samsvarandi tillaging av kontubygnaðinum í grein 3, ið skal samtykkjast í november saman við fíggjarætlanini 2020.</s>
+              <s xml:id="pgp4j4wl3k">Tá skal arbeiðsbólkurin, sum gera skal uppskot til broyttar normeringar, ætlandi eisini verða liðugur.</s>
+            </p>
+            <p>
+              <s xml:id="ffgd5ovdpg">Ein starvsrættarlig kanning skal gerast, sum staðfestir, um broytingarnar fyri stovnsleiðararnar eru so stórar, at tað er neyðugt við hoyring, umfamt at kanna aðrar løgfrøðilig avleiðingar.</s>
+              <s xml:id="wmydgthsfl">Við støði í uppgávu- og ábyrgdarbýtinum eru sannlíkindini, at hetta verður mett sum ein lítil broyting.</s>
+            </p>
+            <p>
+              <s xml:id="towvucxkbs">Tá uppgávu- og ábyrgdarbýtið er samtykt, verða eindarleiðarastørvini lýst leys.</s>
+              <s xml:id="b7zyovac5i">Miðað verður framvegis ímóti, at størvini eru sett 1. januar 2020.</s>
+            </p>
+          </div>
+        </div>
+        <div>
+          <head rend="bold">Tilmæli:</head>
+          <p>
+            <seg>Trivnaðarstjórin og leiðarin á barna- og ungdómsdeildini mæla fíggjarnevndini til:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>at broyta samtyktina um at skipa kommunala dagstovnaøkið við fimm eindarleiðarum til at verða fýra eindarleiðarar,</item>
+            <label>2)</label>
+            <item>at broyta útrokningarlykilin til at økja normeringar innanfyri ein fíggjarkarm uppá kr. 4,512 mió frá fíggjarárinum 2020,</item>
+            <label>3)</label>
+            <item>at kostnaðurin av pkt. 1) og 2) tilsamans kr. 7,250 mió verður sjálvfíggjaður innan grein 3 í fíggjarætlanini og tikin við í viðgerðina av fíggjarætlanaruppskotinum fyri 2020, og</item>
+            <label>4)</label>
+            <item>at góðkenna uppgávu- og ábyrgdarbýtið fyri ávikavist eindarleiðarastarvið og dagstovnaleiðarastarvið.</item>
+          </list>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Fíggjarnevndin 23. oktober 2019:</label>
+            <s xml:id="by5f7d3i4h">Ein meiriluti, Annika Olsen, Gunvør Balle og Bergun Kass, tekur undir við tilmælinum tó við dagførdum uppskoti um uppgávu- og ábyrgdarbýti fyri ávikavist eindarleiðarastarvið og dagstovnaleiðarastavið.</s>
+          </p>
+          <p>
+            <s xml:id="sog2afpjg7">Ein minniluti, Heðin Mortensen og Tróndur Sigurðsson, tekur ikki undir við málinum.</s>
+          </p>
+          <p>
+            <s xml:id="xk5owll3yj">Tróndur Sigurðsson krevur málið fyri býráðið.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Ískoyti:</head>
+          <p>
+            <s xml:id="d4w3hmdrsd">Tróndur Sigurðsson biður um at fáa avgerðina hjá fíggjarnevndini fyri býráðið.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Ískoyti:</head>
+          <p>
+            <seg>Skotið verður upp at broyta uppskotið til fígging av samlaðu broytingunum kr. 7,25 mió, so sum tað er framlagt í málslýsingini til fíggjarnevndarfundin 23. oktober 2019, soleiðis:</seg>
+          </p>
+          <table>
+            <row>
+              <cell>Tímalønir, avloysing:</cell>
+              <cell>500.000 kr.</cell>
+            </row>
+            <row>
+              <cell>Dygdarmenning:</cell>
+              <cell>1.000.000 kr.</cell>
+            </row>
+            <row>
+              <cell>Regulering barnatal:</cell>
+              <cell>1.000.000 kr.</cell>
+            </row>
+            <row>
+              <cell>Endurgjald út.j. stovnar:</cell>
+              <cell>1.000.000 kr.</cell>
+            </row>
+            <row>
+              <cell>Aðrar betringar í rakstri:</cell>
+              <cell>750.000 kr.</cell>
+            </row>
+            <row>
+              <cell>Í alt</cell>
+              <cell>4.250.000 kr.</cell>
+            </row>
+          </table>
+          <p>
+            <seg>At fíggja afturat er kr. 3 mió.</seg>
+            <s xml:id="lzgzok63pf">Skotið verður upp, at fígging til hetta fæst til vega av í sambandi við fíggjarætlanarviðgerðina 2020.</s>
+          </p>
+        </div>
+        <div>
+          <head rend="bold">Tilmæli:</head>
+          <p>
+            <s xml:id="lmniz4ecis">Trivnaðarstjórin og leiðarin fyri barna- og ungdómsdeildina mæla til at broyta uppskotið til fígging sum omanfyri nevnt og at kr. 3 mió í hesum sambandi verða fingnar til vega til grein 3 í fíggjarætlanini 2020.</s>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Fíggjarnevndin 30. oktober 2019:</label>
+            <s xml:id="bhsef6e35i">Ein meiriluti, Annika Olsen, Gunvør Balle og Bergun Kass, samtykti at taka undir við tilmælinum og beina málið í býráðið.</s>
+          </p>
+          <p>
+            <s xml:id="fqh4j3yrii">Ein minniluti, Tróndur Sigurðsson og Heðin Mortensen, tekur ikki undir við tilmælinum.</s>
+          </p>
+        </div>
+        <div>
+          <p>
+            <label rend="bold">Býráðsfundur 30. oktober 2019:</label>
+            <seg>Minnilutin, Heðin Mortensen, Tróndur Sigurðsson, Helena Dam á Neystabø, Halla Samuelsen, Bjørghild Djurhuus og Annfinn Brekkstein, legði fram soljóðandi broytingaruppskot:</seg>
+          </p>
+          <quote>
+            <p>
+              <s xml:id="nmqlo4vqiq">Minnilutin tekur ikki undir við eindarleiðslu og mælir í staðin til at játta kr. 9 mió. til hægri normering á dagstovnaøkinum, fíggjað av rakstrinum í sambandi við fíggjarætlanina fyri 2020.</s>
+            </p>
+          </quote>
+          <p>
+            <s xml:id="gu6k5i7rgw">Broytingaruppskotið fall við 6 atkvøðum fyri, 7 ímóti og ongari blankari.</s>
+          </p>
+          <p>
+            <seg>Fyri atkvøddu: Heðin Mortensen, Tróndur Sigurðsson, Bjørghild Djurhuus, Helena Dam á Neystabø, Halla Samuelsen og Annfinn Brekkstein.</seg>
+          </p>
+          <p>
+            <seg>Ímóti atkvøddu: Annika Olsen, Gunvør Balle, Marin Katrina Frýdal, Jákup Dam, Jógvan Arge, Bogi Andreasen og Bergun Kass.</seg>
+          </p>
+          <p>
+            <s xml:id="gftbyeemc3">Síðani varð atkvøtt um tilmælið hjá meirilutanum í fíggjarnevndini tann 23. oktober við teirri broyting, ið meirilutin í fíggjarnevndini samtykti 30. oktober 2019, ið varð samtykt við 7 atkvøðum fyri, 6 ímóti og ongari blankari.</s>
+          </p>
+          <p>
+            <seg>Fyri atkvøddu: Annika Olsen, Gunvør Balle, Marin Katrina Frýdal, Jákup Dam, Jógvan Arge, Bogi Andreasen og Bergun Kass.</seg>
+          </p>
+          <p>
+            <seg>Ímóti atkvøddu: Heðin Mortensen Tróndur Sigurðsson, Bjørghild Djurhuus, Helena Dam á Neystabø, Halla Samuelsen og Annfinn Brekkstein.</seg>
+          </p>
+          <p>
+            <s xml:id="ps5bp65w2p">Turið Horn boðaði frá, at hon var ógegnig í málinum.</s>
+            <s xml:id="h5lcbwfivv">Jógvan Arge tók sæti fyri hana.</s>
+          </p>
+        </div>
+      </body>
+    </text>
+  </TEI>
+</teiCorpus>
