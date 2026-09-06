@@ -225,6 +225,132 @@ def do_work(target_file: str):
 
     add_ids_to_file(target_file, used_ids)
 
+def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
+    """Extracts only the sentences defined in the <standOff> <join> elements."""
+    parser = etree.XMLParser(remove_blank_text=False, remove_comments=False, strip_cdata=False)
+    with open(filepath, 'r', encoding='utf-8') as f:
+        tree = etree.fromstring(f.read().encode('utf-8'), parser)
+
+    namespaces = {
+        'xml': 'http://www.w3.org/XML/1998/namespace',
+        'tei': 'http://www.tei-c.org/ns/1.0'
+    }
+    results = []
+
+    # Get year (to match your existing tuple format)
+    year = None
+    try:
+        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=namespaces)
+        if date_elements:
+            date_when = date_elements[0].get('when')
+            if date_when and len(date_when) >= 4:
+                year = int(date_when[:4])
+    except (ValueError, IndexError, AttributeError):
+        pass
+
+    # Map IDs to text for fast lookup
+    id_map = {el.get('{http://www.w3.org/XML/1998/namespace}id'): el for el in tree.xpath('//*[@xml:id]', namespaces=namespaces)}
+
+    # Process only the joins
+    for join in tree.xpath('//tei:standOff/tei:join[@target]', namespaces=namespaces):
+        targets = join.get('target').replace('#', '').split()
+        joined_parts = []
+        skip = False
+
+        for t_id in targets:
+
+            print(t_id)
+
+            target_element = id_map.get(t_id)
+            if target_element is not None:
+
+                print("found target element")
+
+                # Apply your exact same exclusion rules
+                cert = target_element.get('cert')
+                xml_lang = target_element.get('{http://www.w3.org/XML/1998/namespace}lang')
+                if (cert and cert.lower() == 'low') or xml_lang == 'da':
+                    skip = True
+
+                    print("skipping!")
+
+                    break
+                
+                text_content = target_element.xpath('string()')
+
+                print("text_content: " + text_content)
+
+                if text_content is not None:
+                    joined_parts.append(" ".join(text_content.strip().split()))
+
+        # Add to results if valid
+        if not skip and joined_parts:
+            primary_id = join.get('{http://www.w3.org/XML/1998/namespace}id')
+
+            print("primary_id: " + primary_id)
+
+            cert = target_element.get('cert')
+            if cert != "low":
+
+                if len(primary_id) == 10:
+                    results.append((primary_id, " ".join(joined_parts), year))
+
+    return results
+
+def process_stand_off_file(stand_off_file):
+    sentences = []
+
+    for file in xml_files("../"):
+        output = parse_sentences_for_extraction(file)
+
+        for item in output:
+            sentences.append(item)
+
+    standoff_sentences = parse_standoff_sentences("/home/rani/Repositories/tingmal-public/misc/effersoe.xml")
+    for item in standoff_sentences:
+        sentences.append(item)
+
+    standoff_sentences = parse_standoff_sentences("/home/rani/Repositories/tingmal-public/misc/patursson.xml")
+    for item in standoff_sentences:
+        sentences.append(item)
+
+    standoff_sentences = parse_standoff_sentences("/home/rani/Repositories/tingmal-public/misc/petersen.xml")
+    for item in standoff_sentences:
+        sentences.append(item)
+
+    standoff_sentences = parse_standoff_sentences("/home/rani/Repositories/tingmal-public/misc/av_skardi.xml")
+    for item in standoff_sentences:
+        sentences.append(item)
+
+    results: list[dict[str, str | int | None]] = []
+
+    for item in sentences:
+
+        formatted = {
+            'id': item[0],
+            'text': item[1],
+            'year': item[2],
+        }
+
+        results.append(formatted)
+
+    seen_sentences = set()
+    deduplicated_sentences: list[dict[str, str | int | None]] = []
+
+    # Or if you want case-insensitive sorting:
+    results = sorted(results, key=lambda x: x['text'].lower())
+
+    for sentence in results:
+        if sentence['text'] not in seen_sentences:
+            deduplicated_sentences.append(sentence)
+            seen_sentences.add(sentence['text'])
+
+    with open('../sentences.jsonl', 'w', encoding='utf-8') as f:
+
+        for result in deduplicated_sentences:
+
+            f.write(json.dumps(result, ensure_ascii=False) + '\n')
+
 def process_files(relevant_files_path):
     # relevant_files = xml_files("/home/rani/Repositories/tingmal/parliamentary-questions")
     # relevant_files = xml_files("/home/rani/Repositories/tingmal/decisions")
@@ -283,11 +409,12 @@ def process_files(relevant_files_path):
 
 
 if __name__ == "__main__":
-    process_files("/home/rani/Repositories/tingmal/coalition-agreements")
-    process_files("/home/rani/Repositories/tingmal/debates")
-    process_files("/home/rani/Repositories/tingmal/decisions")
-    process_files("/home/rani/Repositories/tingmal/legislation")
-    process_files("/home/rani/Repositories/tingmal/misc")
-    process_files("/home/rani/Repositories/tingmal/parliamentary-questions")
-    process_files("/home/rani/Repositories/tingmal/proposals")
-    process_files("/home/rani/Repositories/tingmal/reports")
+    #process_files("/home/rani/Repositories/tingmal-public/coalition-agreements")
+    #process_files("/home/rani/Repositories/tingmal-public/debates")
+    ######### process_files("/home/rani/Repositories/tingmal-public/decisions")
+    #process_files("/home/rani/Repositories/tingmal-public/legislation/2016")
+    #process_files("/home/rani/Repositories/tingmal-public/misc")
+    ## process_files("/home/rani/Repositories/tingmal-public/parliamentary-questions/1998")
+    ##### process_files("/home/rani/Repositories/tingmal-public/misc/local")
+    process_files("/home/rani/Repositories/tingmal-public/proposals/2024")
+    process_stand_off_file("/home/rani/Repositories/tingmal-public/misc/joannes-patursson.xml")
