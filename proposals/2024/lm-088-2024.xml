@@ -13,16 +13,16 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="1970-01-01"/>
+        <date when="1970-01-01" />
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
           <publisher>Føroya Løgting</publisher>
           <author>
-            <persName ref="">Margit Stórá</persName>
+            <persName ref="https://tingdata.fo/person/t2bkdx7d">Margit Stórá</persName>
             <roleName>landsstýriskvinna</roleName>
           </author>
-          <ref target=""/>
+          <ref target="https://www.logting.fo/documents/65732" />
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2025-03-04">04.03.2025</date>
           <idno type="case-number">23/23913-39</idno>
@@ -61,80 +61,39 @@
           <cell rend="meta-cell">31.01.2025</cell>
         </row>
       </table>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <ab>
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um býarskipanir og byggisamtyktir</ab>
         <ab rend="center">(Heimild til kommunur at áseta bústaðarskyldu)</ab>
       </ab>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="chapter" n="0">
-        <div type="bill-section" n="§ 1.">
-          <div n="§ 1. Stk. 1.">
-            <p rend="bill-text"><label rend="bold">§ 1.</label> <seg xml:lang="fo">Í løgtingslóg nr. 13 frá 21. mai 1954 um býarskipanir og byggisamtyktir, sum broytt við løgtingslóg nr. 48 frá 24. mai 1974, løgtingslóg nr. 59 frá 5. juni 1984, løgtingslóg nr. 80 frá 13. juni 1995, løgtingslóg nr. 57 frá 13. juni 1997, § 1 í løgtingslóg nr. 111 frá 13. desember 2006, løgtingslóg nr. 32 frá 30. apríl 2007, løgtingslóg nr. 81 frá 25. mai 2009, løgtingslóg nr. 19 frá 18. mars 2013 og § 5 í løgtingslóg nr. 31 frá 17. mars 2022, verður aftan á § 5, men áðrenn yvirskriftina yvir § 6, sett:</seg> <seg xml:lang="fo">“</seg></p>
-          </div>
-        </div>
-        <div n="Bústaðarskylda">
-          <head rend="italic">Bústaðarskylda</head>
-          <div type="bill-section" n="§ 5 a.">
-            <div n="§ 5 a. Stk. 1.">
-              <p rend="bill-text"><label rend="bold">§ 5 a.</label> <s xml:lang="fo" cert="high">Kommunustýri kann áseta bústaðarskyldu at galda fyri allar sjálvstøðugar bústaðareindir í heilum samanhangandi bústaðarøkjum, tá talan er um nýggjar útstykkingar.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 2.">
-              <p rend="bill-text"><label rend="italic">Stk. 2.</label> <s xml:lang="fo" cert="medium">Umframt, sum ásett í stk. 1, kann kommunustýri áseta bústaðarskyldu at</s> <s xml:lang="fo" cert="medium">galda fyri einstaka sjálvstøðuga bústaðareind, sum kommunan hevur latið byggja, ella sum kommunan hevur ognað sær í fríum handli.</s> <s xml:lang="fo" cert="high">Bústaðarskyldu sambært hesi áseting skal kommunan lata tinglýsa sum byrðu á ognina.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 3.">
-              <p rend="bill-text"><label rend="italic">Stk. 3.</label> <s xml:lang="fo" cert="high">Ásetir kommunustýri bústaðarskyldu sambært stk. 1 ella 2, skal kommunan gera og røkja almenna býlisskrá við dagførdum upplýsingum um allar bústaðareindir í kommununi, sum fevndar eru av bústaðarskyldu, og regluliga samanbera upplýsingarnar í býlisskránni við upplýsingarnar í fólkayvirlitinum til tess at kanna, um bústaðarskyldan verður hildin.</s> <s xml:lang="fo" cert="high">Eigari av bústaðareind hevur skyldu at flýggja kommununi allar viðkomandi upplýsingar til býlisskránna, sum kommunan biður um.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 4.">
-              <p rend="bill-text"><label rend="italic">Stk. 4.</label> <s xml:lang="fo" cert="high">Bústaðarskyldan sambært stk. 1 og 2 er uppfylt, um minst ein persónur, sum er fyltur 15 ár, er skrásettur í fólkayvirlitinum sum búgvandi í bústaðareindini.</s> <s xml:lang="fo" cert="medium">Í sambandi við flyting kann bústaðareind standa tóm í upp til 6</s> <s xml:lang="fo" cert="medium">vikur treytað av, at í minsta lagi4 mánaðir eru ímillum hvørja ferð, at bústaðareindin stendur tóm.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 5.">
-              <p rend="bill-text"><label rend="italic">Stk. 5.</label> <s xml:lang="fo" cert="high">Eigari av bústað hevur ábyrgd av, at bústaðarskyldan verður hildin.</s> <s xml:lang="fo" cert="high">Heldur eigari ikki áseting um bústaðarskyldu, skal kommunan áleggja eigaranum dagbøtur á 200 kr. fyri hvønn heilan dag, bústaðarskyldan ikki er hildin.</s> <s xml:lang="fo" cert="high">Peningur fyri dagbøturnar fer í kommunukassan.</s> <s xml:lang="fo" cert="high">Útreiðslur, sum kommunan hevur av at innheinta falnar dagbøtur, verða at rinda av bústaðareigaranum.</s> <s xml:lang="fo" cert="high">Eru fleiri eigarar, hefta hesir solidariskt fyri krøvum um dagbøtur og fyri útreiðslur í sambandi við innheintan.</s> <s xml:lang="fo" cert="high">Dagbøtur og endurgjøld fyri útreiðslur í sambandi við innheintan, sum ikki eru rindað í seinasta lagi 3 mánaðir eftir, at tey eru fallin til gjaldingar, skal kommunan taka stig til at krevja inn við panting.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 6.">
-              <p rend="bill-text"><label rend="italic">Stk. 6.</label> <seg xml:lang="fo">Bústaðareigari skal ikki rinda dagbøtur sambært stk. 5, um eigarin, í seinasta lagi tá 6 vikur freistin sambært stk. 4 er úti:</seg><list><item><label>1)</label> <seg xml:lang="fo">Boðar kommunustýrinum frá, at bústaðareindin ikki er útleigað.</seg></item><item><label>2)</label> <seg xml:lang="fo">Samtykkir at leiga bústaðin út til leigara, sum kommunan ávísir.</seg></item></list></p>
-            </div>
-            <div n="§ 5 a. Stk. 7.">
-              <p rend="bill-text"><label rend="italic">Stk. 7.</label> <s xml:lang="fo" cert="high">Noktar bústaðareigari, eftir at hava givið samtykki sambært stk. 6, nr. 2, at leiga út til leigara, sum kommunan hevur ávíst, skal bústaðareigarin rinda dagbøtur fyri tað tíðarskeið, eigarin annars skuldi havt rindað dagbøtur fyri sambært stk. 5, um eigarin upprunaliga ikki hevði givið samtykki.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 8.">
-              <p rend="bill-text"><label rend="italic">Stk. 8.</label> <seg xml:lang="fo">Brúkar kommunustýri heimildina í stk. 1 ella 2, skal kommunustýrið í byggisamtyktini áseta almennar reglur um:</seg><list><item><label>1)</label> <seg xml:lang="fo">hvussu kommunustýrið skal hava eftirlit við, at bústaðarskylda sambært stk. 4 verður hildin,</seg></item><item><label>2)</label> <seg xml:lang="fo">mannagongd fyri, hvussu dagbøtur sambært stk. 5 verða álagdar og innkravdar,</seg></item><item><label>3)</label> <seg xml:lang="fo">mannagongd fyri, hvussu prógv sambært stk. 6, nr. 2 skal førast,</seg></item><item><label>4)</label> <seg xml:lang="fo">mannagongd fyri, hvussu samtykki sambært stk. 6, nr. 3 skal innheintast, og</seg></item><item><label>5)</label> <seg xml:lang="fo">mannagongd fyri, hvussu ávísing sambært stk. 6, nr. 3 skal umsitast.</seg></item></list></p>
-            </div>
-            <div n="§ 5 a. Stk. 9.">
-              <p rend="bill-text"><label rend="italic">Stk. 9.</label> <s xml:lang="fo" cert="high">Hevur kommuna ásett bústaðarskyldu sambært stk. 1 ella 2, men ikki tekur neyðug stig fyri at tryggja, at bústaðarskyldan verður hildin, undir hesum ikki krevur inn dagbøtur sambært stk. 5 ella ikki umsitur ávísing sambært stk. 6, nr. 3, kann landsstýrisfólkið gera av, at ásetingin um bústaðarskyldu fyri viðkomandi øki ella bústaðareind verður ógildað.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 10.">
-              <p rend="bill-text"><label rend="italic">Stk. 10.</label> <s xml:lang="fo" cert="high">Landsstýrisfólkið kann, í heilt serligum førum í tann mun týðandi samfelagslig atlit tala fyri tí, loyva kommunu, heilt ella partvíst, at avlýsa bústaðarskyldu, sum áður er ásett við heimild í stk. 1 ella stk. 2.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 11.">
-              <p rend="bill-text"><label rend="italic">Stk. 11.</label> <s xml:lang="fo" cert="high">Verður áseting um bústaðarskyldu ógildað sambært stk. 9, skal kommunan endurrinda allar dagbøtur, sum kommunan seinastu 5 árini undan ógildanardegnum við heimild í stk. 5 ella 7 hevur kravt frá bústaðareigarum.</s></p>
-            </div>
-            <div n="§ 5 a. Stk. 12.">
-              <p rend="bill-text"><label rend="italic">Stk. 12.</label> <s xml:lang="fo" cert="high">Upphæddin í stk. 5 verður javnað hvønn 1. mars við broytingini í brúkaraprístalinum hjá Hagstovu Føroya seinasta árið, tó so, at upphæddin hækkar við ikki minni enn 2% árliga.</s> <s xml:lang="fo" cert="medium">Landsstýrisfólkið lýsir í kunngerð, í seinasta lagi 31. januar, upphæddina, sum verður galdandi frá 1. mars sama ár til síðsta februar árið eftir.”</s></p>
-            </div>
-          </div>
-          <div type="bill-section" n="§ 2.">
-            <div n="§ 2. Stk. 1.">
-              <p rend="bill-text"><label rend="bold">§ 2.</label> <s xml:lang="fo" cert="high">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s></p>
-            </div>
-          </div>
-        </div>
       </div>
       <div type="chapter" n="1">
         <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
         <div type="section" n="1.1.">
           <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
-          <p><s xml:lang="fo" cert="high">Eftirspurningurin eftir bústøðum í Føroyum er størri enn útboðið.</s> <s xml:lang="fo" cert="high">Hóast hetta er tað ein sannroynd, at í nógvum kommunum eru bústaðir og sethús, sum standa tóm mesta partin av árinum ella verða leigað út sum frítíðarhús fyri styttri tíðarskeið.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Eftirspurningurin eftir bústøðum í Føroyum er størri enn útboðið.</s>
+            <s xml:lang="fo" cert="high">Hóast hetta er tað ein sannroynd, at í nógvum kommunum eru bústaðir og sethús, sum standa tóm mesta partin av árinum ella verða leigað út sum frítíðarhús fyri styttri tíðarskeið.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Til tess at tryggja, at hús, sum verða bygd í einum bústaðarøki í eini kommunu, verða nýtt til bústað, verður heimilað kommunum at áseta bústaðarskyldu í ávísum økjum.</s>
           </p>
         </div>
         <div type="section" n="1.2.">
           <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
-          <p><s xml:lang="fo" cert="high">Galdandi løgtingslóg gevur kommunum heimild til í býarskipan og byggisamtykt at áseta nýtsluavmarkingar fyri bygningar í avmarkaðum økjum í kommununi.</s> <s xml:lang="fo" cert="high">Tað merkir t.d, at bygningar í einum øki, har nýtsluavmarkingin sambært býarskipan og byggisamtykt er ‘bústaðir’, ikki mugu hava <hi rend="italic">annað</hi> nýtsluendamál enn bústaðir.</s></p>
-          <p><s xml:lang="fo" cert="high">Eingin heimild er í galdandi løgtingslóg at áseta nýtslu<hi rend="italic">skyldu</hi> samsvarandi nýtsluavmarking ásett í býarskipan og byggisamtykt.</s> <s xml:lang="fo" cert="high">Kommuna kann sostatt ikki krevja, at bygningar verða nýttir í samsvari við nýtsluavmarkingina.</s> <s xml:lang="fo" cert="high">Kommuna fær tí ikki forðað fyri, at bygningar í kommununi standa tómir ella ónýttir.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Galdandi løgtingslóg gevur kommunum heimild til í býarskipan og byggisamtykt at áseta nýtsluavmarkingar fyri bygningar í avmarkaðum økjum í kommununi.</s>
+            <s xml:lang="fo" cert="high">Tað merkir t.d, at bygningar í einum øki, har nýtsluavmarkingin sambært býarskipan og byggisamtykt er ‘bústaðir’, ikki mugu hava <hi rend="italic">annað</hi> nýtsluendamál enn bústaðir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Eingin heimild er í galdandi løgtingslóg at áseta nýtslu<hi rend="italic">skyldu</hi> samsvarandi nýtsluavmarking ásett í býarskipan og byggisamtykt.</s>
+            <s xml:lang="fo" cert="high">Kommuna kann sostatt ikki krevja, at bygningar verða nýttir í samsvari við nýtsluavmarkingina.</s>
+            <s xml:lang="fo" cert="high">Kommuna fær tí ikki forðað fyri, at bygningar í kommununi standa tómir ella ónýttir.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Eini sethús ella ein íbúð í einum øki, har nýtsluavmarkingin í býarskipan og byggisamtykt er ‘bústaður’, kunnu tískil, í fullum samsvari við nýtsluavmarkingina, standa tóm (ónýtt), so leingi húsini ella íbúðin ikki verða nýtt til annað enn bústað.</s>
           </p>
@@ -144,12 +103,22 @@
           <p>
             <s xml:lang="fo" cert="high">Við lógaruppskotinum fáa kommunur heimild til at áseta bústaðarskyldu í bygningum, ið verða bygdir í økjum, sum sambært býarskipan og byggisamtykt hava bústað sum nýtsluavmarking.</s>
           </p>
-          <p><s xml:lang="fo" cert="high">Sambært løgtingslógaruppskotinum kann bústaðarskylda ásetast at galda fyri nærri avmarkað øki, tá talan er um nýggjar útstykkingar.</s> <s xml:lang="fo" cert="high">Bústaðarskylda verður tá galdandi fyri allar sjálvstøðugar bústaðareindir í viðkomandi øki.</s></p>
-          <p><s xml:lang="fo" cert="high">Sambært løgtingslógaruppskotinum verður eisini heimilað kommunum at áseta bústaðarskyldu at galda fyri ognir, sum kommunan eigur.</s> <s xml:lang="fo" cert="high">Nýta kommunur hesa heimild, skal bústaðarskylda tinglýsast sum byrða á ognina, og kommunan skal handhevja slíka bústaðarskyldu á sama hátt, sum kommunan skal handhevja bústaðarskyldu, sum er ásett í bústaðarøkjum.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Sambært løgtingslógaruppskotinum kann bústaðarskylda ásetast at galda fyri nærri avmarkað øki, tá talan er um nýggjar útstykkingar.</s>
+            <s xml:lang="fo" cert="high">Bústaðarskylda verður tá galdandi fyri allar sjálvstøðugar bústaðareindir í viðkomandi øki.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Sambært løgtingslógaruppskotinum verður eisini heimilað kommunum at áseta bústaðarskyldu at galda fyri ognir, sum kommunan eigur.</s>
+            <s xml:lang="fo" cert="high">Nýta kommunur hesa heimild, skal bústaðarskylda tinglýsast sum byrða á ognina, og kommunan skal handhevja slíka bústaðarskyldu á sama hátt, sum kommunan skal handhevja bústaðarskyldu, sum er ásett í bústaðarøkjum.</s>
+          </p>
         </div>
         <div type="section" n="1.4.">
           <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
-          <p><s xml:lang="fo" cert="high">Við løgtingslógaruppskotinum fáa kommunur heimild til at áseta bústaðarskyldu at galda í nærri avmarkaðum økjum, tá talan er um nýggjar útstykkingar.</s> <s xml:lang="fo" cert="high">Harumframt fáa kommunur heimild til at tinglýsa bústaðarskyldu á kommunala ogn, sum kommunan antin sjálv hevur bygt, ella sum kommunan hevur útvegað sær í fríum handli.</s> <s xml:lang="fo" cert="high">Selur kommunan slíka ogn, fylgir bústaðarskyldan við sum servituttur, har kommunan hevur átalurætt.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Við løgtingslógaruppskotinum fáa kommunur heimild til at áseta bústaðarskyldu at galda í nærri avmarkaðum økjum, tá talan er um nýggjar útstykkingar.</s>
+            <s xml:lang="fo" cert="high">Harumframt fáa kommunur heimild til at tinglýsa bústaðarskyldu á kommunala ogn, sum kommunan antin sjálv hevur bygt, ella sum kommunan hevur útvegað sær í fríum handli.</s>
+            <s xml:lang="fo" cert="high">Selur kommunan slíka ogn, fylgir bústaðarskyldan við sum servituttur, har kommunan hevur átalurætt.</s>
+          </p>
         </div>
         <div type="section" n="1.5.">
           <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
@@ -174,10 +143,22 @@
           </p>
           <div type="subsection" subtype="run-in">
             <head rend="bold">Felagið Peningastovnar</head>
-            <p><s xml:lang="fo" cert="high"><hi rend="bold">Felagið Peningastovnar</hi> metir tað vera trupult at spáa um avleiðingarnar av uppskotinum fyri bústaðamarknaðin kring landið.</s> <s xml:lang="fo" cert="high">Felagið heldur tað vera trupult at ímynda sær, at bústaðarskylda fer at virka eftir ætlan, har eftirspurningurin eftir ognum sum heild er lítil.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Ætlanin við uppskotinum er ikki at regulera útboðið av ognum, men at økja um útboðið av bústøðum.</s> <s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at leggja bústaðarskyldu á nýggjar útstykkingar og á hús, sum kommunan eigur, og á henda hátt tryggja, at bústaðir støðugt verða brúktir sum ella eru tøkir sum bústaðir.</s></p>
-            <p><s xml:lang="fo" cert="high">Felagið Peningastovnar vísir á, at ognir, sum eru undir bústaðarskyldu, mugu væntast at fáa lægri marknaðarvirði enn ognir uttan slíka binding.</s> <s xml:lang="fo" cert="high">At tí sama er sannlíkt, at peningastovnar fara at krevja hægri eginfígging fyri ognir undir bústaðarskyldu.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Í almennu viðmerkingunum til uppskotið er víst á, at áløgd bústaðarskylda kann ávirka marknaðarprísin á húsum og íbúðum í økjum, har bústaðarskylda er áløgd.</s> <s xml:lang="fo" cert="high">Talan verður tó um kenda fortreyt fyri tann, sum ætlar at byggja ella keypa hús ella íbúð í slíkum øki.</s></p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="bold">Felagið Peningastovnar</hi> metir tað vera trupult at spáa um avleiðingarnar av uppskotinum fyri bústaðamarknaðin kring landið.</s>
+              <s xml:lang="fo" cert="high">Felagið heldur tað vera trupult at ímynda sær, at bústaðarskylda fer at virka eftir ætlan, har eftirspurningurin eftir ognum sum heild er lítil.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Ætlanin við uppskotinum er ikki at regulera útboðið av ognum, men at økja um útboðið av bústøðum.</s>
+              <s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at leggja bústaðarskyldu á nýggjar útstykkingar og á hús, sum kommunan eigur, og á henda hátt tryggja, at bústaðir støðugt verða brúktir sum ella eru tøkir sum bústaðir.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Felagið Peningastovnar vísir á, at ognir, sum eru undir bústaðarskyldu, mugu væntast at fáa lægri marknaðarvirði enn ognir uttan slíka binding.</s>
+              <s xml:lang="fo" cert="high">At tí sama er sannlíkt, at peningastovnar fara at krevja hægri eginfígging fyri ognir undir bústaðarskyldu.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Í almennu viðmerkingunum til uppskotið er víst á, at áløgd bústaðarskylda kann ávirka marknaðarprísin á húsum og íbúðum í økjum, har bústaðarskylda er áløgd.</s>
+              <s xml:lang="fo" cert="high">Talan verður tó um kenda fortreyt fyri tann, sum ætlar at byggja ella keypa hús ella íbúð í slíkum øki.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Felagið Peningastovnar førir fram, at hugtakið “sjálvstøðug bústaðareind” sambært § 5 a, stk. 1 ikki er nóg væl allýst.</s>
             </p>
@@ -187,58 +168,122 @@
             <p>
               <s xml:lang="fo" cert="high">Felagið Peningastovnar mælir til at broyta aldurmarkið í § 5 a, stk. 4 frá 15 árum til 18 ár, vísandi til, at 15 ára gomul ikki eru myndug.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Aldurmarkið er sett til 15 ár m.a. við tí í huga, at skúlanæmingar ella lærlingar kunnu hugsast at hava tørv á bústað heimanífrá í sambandi við skúlagongd ella læru.</s> <s xml:lang="fo" cert="high">Í hesum sambandi metir Umhvørvismálaráðið tað ikki vera viðkomandi, hvørt skrásetta búfólkið er myndugt ella ikki.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Aldurmarkið er sett til 15 ár m.a. við tí í huga, at skúlanæmingar ella lærlingar kunnu hugsast at hava tørv á bústað heimanífrá í sambandi við skúlagongd ella læru.</s>
+              <s xml:lang="fo" cert="high">Í hesum sambandi metir Umhvørvismálaráðið tað ikki vera viðkomandi, hvørt skrásetta búfólkið er myndugt ella ikki.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Felagið Peningastovnar mælir til, at felags reglur fyri umsiting av bústaðarskyldu verða ásettar í lóg ella kunngerð heldur enn at geva kommunum einsæris heimild til tess, soleiðis sum gjørt verður í § 5 a, stk. 8 í uppskotinum.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s> <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan hevði verið um eitt munandi inntriv á verandi bústaðamarknað, sum hevði kravt drúgva fyrireiking.</s> <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskotið gevur teimum møguleika til tess.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s>
+              <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan hevði verið um eitt munandi inntriv á verandi bústaðamarknað, sum hevði kravt drúgva fyrireiking.</s>
+              <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskotið gevur teimum møguleika til tess.</s>
+            </p>
           </div>
           <div type="subsection" subtype="run-in">
             <head rend="bold">Kommunufelagið</head>
-            <p><s xml:lang="fo" cert="high"><hi rend="bold">Kommunufelagið</hi> fegnast um uppskotið og tekur fult undir við politisku ætlanini við uppskotinum.</s> <s xml:lang="fo" cert="high">Kommunufelagið hevur tó ynski um, at kommunur fáa fríari ræsur til at áseta bústaðarskyldu, ikki bert í nýggjum útstykkingum, men eisini fyri verandi bústaðir, soleiðis at til ber at áleggja bústaðarskyldu í serliga ábærum bygdum og økjum.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Avgjørt er ikki at geva heimild til at áseta bústaðarskyldu á verandi ognir (undantikið ognir sum kommunan eigur) í hesum uppskotinum.</s> <s xml:lang="fo" cert="high">Varð slík heimild givin, hevði hon møguliga verið tongd at endurgjaldsskyldu til eigarar av ognum, sum koma undir bústaðarskyldu, við tað at bústaðarskylda ávirkar marknaðarprísin á eini ogn negativt.</s></p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="bold">Kommunufelagið</hi> fegnast um uppskotið og tekur fult undir við politisku ætlanini við uppskotinum.</s>
+              <s xml:lang="fo" cert="high">Kommunufelagið hevur tó ynski um, at kommunur fáa fríari ræsur til at áseta bústaðarskyldu, ikki bert í nýggjum útstykkingum, men eisini fyri verandi bústaðir, soleiðis at til ber at áleggja bústaðarskyldu í serliga ábærum bygdum og økjum.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Avgjørt er ikki at geva heimild til at áseta bústaðarskyldu á verandi ognir (undantikið ognir sum kommunan eigur) í hesum uppskotinum.</s>
+              <s xml:lang="fo" cert="high">Varð slík heimild givin, hevði hon møguliga verið tongd at endurgjaldsskyldu til eigarar av ognum, sum koma undir bústaðarskyldu, við tað at bústaðarskylda ávirkar marknaðarprísin á eini ogn negativt.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Kommunufelagið ynskir, at tað skal bera til at áseta bústaðarskyldu fyri øki, tá nýtsluáseting, sum áður hevur verið annað enn bústaðarøki, verður broytt til bústaðarøki (t.d. frá havnarøki til bústaðarøki).</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="medium">Í serligu viðmerkingunum til § 5, stk. 1 stendur: “Sum nýggjar útstykkingar sambært ásetingini eru at rokna útstykkingar, har grundstykki til bústaðarhús ikki eru handlað og har bústaðarhús ikki eru bygd ella í gerð.”</s> <s xml:lang="fo" cert="high">Umhvørvismálaráðið metir við hesum, at einki er, sum forðar kommunu í at leggja bústaðarskyldu á t.d. havnarøki, tá tað verður broytt til bústaðarøki.</s></p>
-            <p><s xml:lang="fo" cert="high">Kommunufelagið metir, at ásetingarnar í uppskotinum verða truplar at fáast við í gerandisligu umsitingini hjá kommununum.</s> <s xml:lang="fo" cert="high">Kommunufelagið heldur, at skipanin kann tykjast umsitingarliga tung og ivast í, hvussu nógvar kommunur hava umsitingarliga orku til at nýta heimildirnar í uppskotinum.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Í almennu viðmerkingunum er víst á, at áseting av bústaðarskyldu hevur umsitingarligar og harvið eisini fíggjarligar avleiðingar fyri einstøku kommununa og í ávísan mun fyri landið.</s> <s xml:lang="fo" cert="high">Skal bústaðarskylda virka og veruliga frígeva tøkan bústaðamassa er neyðugt, at greiðar reglur og mannagongdir eru fyri eftirliti við, at bústaðarskyldan verður hildin, at amboð eru tøk at handhevja bústaðarskylduna, verður hon ikki hildin, og at hesi amboð vera brúkt konsekvent og effektivt.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Í serligu viðmerkingunum til § 5, stk. 1 stendur: “Sum nýggjar útstykkingar sambært ásetingini eru at rokna útstykkingar, har grundstykki til bústaðarhús ikki eru handlað og har bústaðarhús ikki eru bygd ella í gerð.”</s>
+              <s xml:lang="fo" cert="high">Umhvørvismálaráðið metir við hesum, at einki er, sum forðar kommunu í at leggja bústaðarskyldu á t.d. havnarøki, tá tað verður broytt til bústaðarøki.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Kommunufelagið metir, at ásetingarnar í uppskotinum verða truplar at fáast við í gerandisligu umsitingini hjá kommununum.</s>
+              <s xml:lang="fo" cert="high">Kommunufelagið heldur, at skipanin kann tykjast umsitingarliga tung og ivast í, hvussu nógvar kommunur hava umsitingarliga orku til at nýta heimildirnar í uppskotinum.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Í almennu viðmerkingunum er víst á, at áseting av bústaðarskyldu hevur umsitingarligar og harvið eisini fíggjarligar avleiðingar fyri einstøku kommununa og í ávísan mun fyri landið.</s>
+              <s xml:lang="fo" cert="high">Skal bústaðarskylda virka og veruliga frígeva tøkan bústaðamassa er neyðugt, at greiðar reglur og mannagongdir eru fyri eftirliti við, at bústaðarskyldan verður hildin, at amboð eru tøk at handhevja bústaðarskylduna, verður hon ikki hildin, og at hesi amboð vera brúkt konsekvent og effektivt.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Kommunufelagið vísir á, at mannagongdir skulu orðast, og regluligt eftirlit fremjast, “sum í lítlan mun tykist kunna verða stuðlað av telduskipanum og sjálvirkni”, og metir felagið hetta vera ein bága fyri kommunurnar og fyri landið.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Umhvørvismálaráðið hevur ikki mett um, hvørt eftirlit við og handhevjan av bústaðarskyldu kann verða stuðlað við sjálvvirkandi telduskipanum.</s> <s xml:lang="fo" cert="high">Umhvørvismálaráðið metir onga forðing vera fyri, at kommunur einsamallar ella í felag útvega sær hóskandi telduskipanir til at umsita bústaðarskyldu við.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Umhvørvismálaráðið hevur ikki mett um, hvørt eftirlit við og handhevjan av bústaðarskyldu kann verða stuðlað við sjálvvirkandi telduskipanum.</s>
+              <s xml:lang="fo" cert="high">Umhvørvismálaráðið metir onga forðing vera fyri, at kommunur einsamallar ella í felag útvega sær hóskandi telduskipanir til at umsita bústaðarskyldu við.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Kommunufelagið heldur, at ein samkoyring av býlisskránni og fólkayvirlitinum høvdu verið ein munandi bati, eins og felagið heldur, at innkrevjing av dagbótum og gjøldum átti at verið gjørd við eini sjálvvirkandi innkrevjingarskipan.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Sum er finst eingin býlisskrá, um meint verður við fullfíggjað yvirlit yvir allar bústaðir í landinum.</s> <s xml:lang="fo" cert="high">Sambært uppskotinum áliggur tað einstøku kommununi, sum vil brúka heimildina at áleggja bústaðarskyldu, at gera eina býlisskrá, sum inniheldur allar bústaðir, sum eru álagdir bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Kommunan umsitur hesa býlisskrá, og kommunan umsitur fólkayvirlitið í kommununi, og Umhvørvismálaráðið metir, at tað eigur at bera til hjá einstøku kommununi at gera mannagongdir fyri javnan at samanbera býlisskrá og fólkayvirlit fyri at staðfesta, um bústaðarskyldan verður hildin.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Sum er finst eingin býlisskrá, um meint verður við fullfíggjað yvirlit yvir allar bústaðir í landinum.</s>
+              <s xml:lang="fo" cert="high">Sambært uppskotinum áliggur tað einstøku kommununi, sum vil brúka heimildina at áleggja bústaðarskyldu, at gera eina býlisskrá, sum inniheldur allar bústaðir, sum eru álagdir bústaðarskyldu.</s>
+              <s xml:lang="fo" cert="high">Kommunan umsitur hesa býlisskrá, og kommunan umsitur fólkayvirlitið í kommununi, og Umhvørvismálaráðið metir, at tað eigur at bera til hjá einstøku kommununi at gera mannagongdir fyri javnan at samanbera býlisskrá og fólkayvirlit fyri at staðfesta, um bústaðarskyldan verður hildin.</s>
+            </p>
             <p rend="italic">
               <s xml:lang="fo" cert="high">Viðvíkjandi innkrevjing av dagbótum og gjøldum metir Umhvørvismálaráðið onga forðing vera fyri, at kommunur einsamallar ella í felag útvega sær hóskandi telduskipanir til at umsita innkrevjing við.</s>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Kommunufelagið mælir til, at reglur um bústaðarskyldu verða ásettar í serstakari løgtingslóg, har útgangsstøði er, at bústaðarskylda er galdandi í øllum nýggjum útstykkingum, men at kommunur skulu kunna gera undantak frá meginregluni.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Til hetta er at siga, at kommunurnar hava ynskt sær heimild til at kunna áseta bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Spurningurin um eina landsfevnandi bústaðarskyldu er ikki viðgjørdur politiskt, og verður tí hildið fast í endamálið við uppskotinum, sum er at geva kommunum heimild til, hvør í sínum lagi, at áleggja bústaðarskyldu á nýggj bústaðarøki ella kommunalar ognir í viðkomandi kommunu.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Til hetta er at siga, at kommunurnar hava ynskt sær heimild til at kunna áseta bústaðarskyldu.</s>
+              <s xml:lang="fo" cert="high">Spurningurin um eina landsfevnandi bústaðarskyldu er ikki viðgjørdur politiskt, og verður tí hildið fast í endamálið við uppskotinum, sum er at geva kommunum heimild til, hvør í sínum lagi, at áleggja bústaðarskyldu á nýggj bústaðarøki ella kommunalar ognir í viðkomandi kommunu.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Kommunufelagið førir fram, at felags reglur um bústaðarskyldu, undir hesum reglur um eftirlit við og handhevjan av bústaðarskyldu, eiga at verða ásettar í lógini.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s> <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan er um eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s>
+              <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan er um eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s>
+            </p>
           </div>
           <div type="subsection" subtype="run-in">
             <head rend="bold">Tórshavnar kommuna</head>
-            <p><s xml:lang="fo" cert="high"><hi rend="bold">Tórshavnar kommuna</hi> tekur sum heild undir við endamálinum í uppskotinum, men vísir tó á, at uppskotið ikki loysir trupulleikan við, at verandi bústaðir standa tómir.</s> <s xml:lang="fo" cert="high">Tórshavnar kommuna heldur tað vera avgerandi at lóggávan tekur hædd fyri at verja grannaløg í verandi býarpørtum, og at tryggja, at tómir bústaðir í eldri býarøkjum ikki verða nýttir til frítíðarendamál í staðin fyri til fastan bústað.</s> <s xml:lang="fo" cert="high">Fyri at tryggja burðardygga býarmenning í grannaløgunum heldur Tórshavnar kommuna tað tí vera umráðandi, at heimildin at áleggja bústaðarskyldu verður víðkað til eisini at fevna um eldri býarøki, har trupulleikin við tómum bústøðum er størstur.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Avgjørt er ikki at geva heimild til at áseta bústaðarskyldu á verandi ognir í hesum uppskotinum.</s> <s xml:lang="fo" cert="high">Varð slík heimild givin, hevði hon møguliga verið tongd at endurgjaldsskyldu til eigarar av ognum, sum koma undir bústaðarskyldu, við tað at bústaðarskylda ávirkar marknaðarprísin á eini ogn negativt.</s></p>
-            <p><s xml:lang="fo" cert="high">Eins og Kommunufelagið mælir Tórshavnar kommuna til, at bústaðarskylda verður ásett í serstakari lóggávu heldur enn í byggisamtykt.</s> <s xml:lang="fo" cert="high">Tórshavnar kommuna metir, at serstøk lóggáva betur tryggjar einsháttaðar reglur, fastar karmar og eitt munagott eftirlit.</s> <s xml:lang="fo" cert="high">Kommunan vísir á, at ein serstøk lóg gevur somu reglur og somu umsiting um alt landið og harvið gevur borgarunum betri rættartrygd.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s> <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan er um eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s> <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskot gevur teimum møguleika til tess.</s></p>
-            <p><s xml:lang="fo" cert="high">Tórshavnar kommuna mælir til, at 4 mánaða markið í § 5 a, stk. 4 verður hækkað til millum 8 og 12 mánaðir, fyri at byrgja fyri alt for nógvum tómum húsum í einum grannalagi.</s> <s xml:lang="fo" cert="high">Eisini mælir kommunan til at hækka markið fyri, nær leigumál er fevnt av leigulógini, samsvarandi.</s></p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Til hetta er at siga, at við ásetingini verður byrgt fyri, at hús ella íbúðir verða leigað út til stutttíðarleigu, uttan at leigumálið er fevnt av leigulógini, og harvið uttan at leigarin hevur rættindi mótvegis leigara sambært leigulógini.</s> <s xml:lang="fo" cert="high">Leigumál styttri enn 3 mánaðir eru ikki fevnd av leigulógini, sum merkir, at einki krav er um leigusáttmála, og ongar reglur eru um uppsagnartíð.</s> <s xml:lang="fo" cert="high">Við at seta eitt mark á 4 mánaðir verður tryggjað, at leigumálini eru fevnd av leigulógini.</s></p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="bold">Tórshavnar kommuna</hi> tekur sum heild undir við endamálinum í uppskotinum, men vísir tó á, at uppskotið ikki loysir trupulleikan við, at verandi bústaðir standa tómir.</s>
+              <s xml:lang="fo" cert="high">Tórshavnar kommuna heldur tað vera avgerandi at lóggávan tekur hædd fyri at verja grannaløg í verandi býarpørtum, og at tryggja, at tómir bústaðir í eldri býarøkjum ikki verða nýttir til frítíðarendamál í staðin fyri til fastan bústað.</s>
+              <s xml:lang="fo" cert="high">Fyri at tryggja burðardygga býarmenning í grannaløgunum heldur Tórshavnar kommuna tað tí vera umráðandi, at heimildin at áleggja bústaðarskyldu verður víðkað til eisini at fevna um eldri býarøki, har trupulleikin við tómum bústøðum er størstur.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Avgjørt er ikki at geva heimild til at áseta bústaðarskyldu á verandi ognir í hesum uppskotinum.</s>
+              <s xml:lang="fo" cert="high">Varð slík heimild givin, hevði hon møguliga verið tongd at endurgjaldsskyldu til eigarar av ognum, sum koma undir bústaðarskyldu, við tað at bústaðarskylda ávirkar marknaðarprísin á eini ogn negativt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Eins og Kommunufelagið mælir Tórshavnar kommuna til, at bústaðarskylda verður ásett í serstakari lóggávu heldur enn í byggisamtykt.</s>
+              <s xml:lang="fo" cert="high">Tórshavnar kommuna metir, at serstøk lóggáva betur tryggjar einsháttaðar reglur, fastar karmar og eitt munagott eftirlit.</s>
+              <s xml:lang="fo" cert="high">Kommunan vísir á, at ein serstøk lóg gevur somu reglur og somu umsiting um alt landið og harvið gevur borgarunum betri rættartrygd.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s>
+              <s xml:lang="fo" cert="high">Hetta kundi væl verið gjørt, men talan er um eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s>
+              <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskot gevur teimum møguleika til tess.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tórshavnar kommuna mælir til, at 4 mánaða markið í § 5 a, stk. 4 verður hækkað til millum 8 og 12 mánaðir, fyri at byrgja fyri alt for nógvum tómum húsum í einum grannalagi.</s>
+              <s xml:lang="fo" cert="high">Eisini mælir kommunan til at hækka markið fyri, nær leigumál er fevnt av leigulógini, samsvarandi.</s>
+            </p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Til hetta er at siga, at við ásetingini verður byrgt fyri, at hús ella íbúðir verða leigað út til stutttíðarleigu, uttan at leigumálið er fevnt av leigulógini, og harvið uttan at leigarin hevur rættindi mótvegis leigara sambært leigulógini.</s>
+              <s xml:lang="fo" cert="high">Leigumál styttri enn 3 mánaðir eru ikki fevnd av leigulógini, sum merkir, at einki krav er um leigusáttmála, og ongar reglur eru um uppsagnartíð.</s>
+              <s xml:lang="fo" cert="high">Við at seta eitt mark á 4 mánaðir verður tryggjað, at leigumálini eru fevnd av leigulógini.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Tórshavnar kommuna vísir á, at innkrevjing av dagbótum verður ein útreiðsla hjá kommununi og mælir til, at innkrevjing av dagbótum verður løgd til TAKS.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Í hesum umfari verður skotið upp at heimila kommunum at áseta bústaðarskyldu, treytað av at kommunan fær til vegar tær skipanir, reglugerðir og mannagongdir, sum skulu til, fyri at umsita og handhevja bústaðarskylduna.</s> <s xml:lang="fo" cert="high">Samskipan av uppgávum millum myndugleikar, sum Tórshavnar kommuna mælir til, kann møguliga fáast í lag seinni, serliga um skipanin við bústaðarskyldu eydnast væl.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Í hesum umfari verður skotið upp at heimila kommunum at áseta bústaðarskyldu, treytað av at kommunan fær til vegar tær skipanir, reglugerðir og mannagongdir, sum skulu til, fyri at umsita og handhevja bústaðarskylduna.</s>
+              <s xml:lang="fo" cert="high">Samskipan av uppgávum millum myndugleikar, sum Tórshavnar kommuna mælir til, kann møguliga fáast í lag seinni, serliga um skipanin við bústaðarskyldu eydnast væl.</s>
+            </p>
             <p>
               <s xml:lang="fo" cert="high">Tórshavnar kommuna heldur, at mannagongdir og reglugerðir eiga at verða felags fyri allar kommunur, og at tað tískil eigur at vera landsstýrið, sum ger hesar, við almennum gildi fyri allar kommunur.</s>
             </p>
-            <p rend="italic"><s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s> <s xml:lang="fo" cert="high">Hetta hevði verið eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s> <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskot gevur teimum møguleika til tess.</s></p>
+            <p rend="italic">
+              <s xml:lang="fo" cert="high">Landsstýrið hevur í hesum umfarinum valt ikki at áseta felags almennar reglur og mannagongdir ella áseta reglur um bústaðarskyldu í serstakari lóg.</s>
+              <s xml:lang="fo" cert="high">Hetta hevði verið eitt størri arbeiði, sum krevur drúgvari fyrireiking.</s>
+              <s xml:lang="fo" cert="high">Kommunurnar hava ynskt sær amboð at kunna áseta bústaðarskyldu skjótt, og hetta uppskot gevur teimum møguleika til tess.</s>
+            </p>
           </div>
         </div>
       </div>
@@ -246,33 +291,67 @@
         <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
         <div type="section" n="2.1.">
           <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið hevur fíggjarligar avleiðingar fyri landið í tann mun kommunur velja at brúka heimildina til at áseta bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Góðkenning av broyttum býarskipanum og byggisamtyktum, sum hava ásetingar um bústaðarskyldu, fer at geva meira arbeiði til góðkennandi myndugleikan, sum er avvarðandi landsstýrisfólk og stjórnarráð.</s> <s xml:lang="fo" cert="high">Eftirlitsskyldan, sum við uppskotinum verður løgd til avvarðandi landsstýrisfólk, fer at geva meira arbeiði til viðkomandi stjórnarráð.</s> <s xml:lang="fo" cert="high">Hvussu stór fíggjarliga avleiðingin av uppskotinum verður ber tó ikki til at siga, tí tað veldst um, í hvussu stóran mun kommunur fara at brúka heimildina til at áseta bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Niðanfyri, undir umsitingarligum avleiðingum, verður mett, at tørvur verður á ¼ til ½ ársverki afturat hjá avvarðandi stjórnarráð, sum í krónum svarar til millum 200.000 og 400.000 árliga.</s></p>
-          <p><s xml:lang="fo" cert="high">Í kommunum, sum velja at brúka heimildina í uppskotinum til at áseta bústaðarskyldu, verður tørvur á starvsfólkum til at umsita ta skráseting, ávísing og eftirlit, sum sambært uppskotinum krevst av kommunu, sum ásetir bústaðarskyldu í kommununi.</s> <s xml:lang="fo" cert="high">Hvussu stórur starvsfólkatørvurin verður veldst um støddina á kommunalu fyrisitingini og um talið av bústaðareindum, sum fevndar eru av bústaðarskyldu.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur fíggjarligar avleiðingar fyri landið í tann mun kommunur velja at brúka heimildina til at áseta bústaðarskyldu.</s>
+            <s xml:lang="fo" cert="high">Góðkenning av broyttum býarskipanum og byggisamtyktum, sum hava ásetingar um bústaðarskyldu, fer at geva meira arbeiði til góðkennandi myndugleikan, sum er avvarðandi landsstýrisfólk og stjórnarráð.</s>
+            <s xml:lang="fo" cert="high">Eftirlitsskyldan, sum við uppskotinum verður løgd til avvarðandi landsstýrisfólk, fer at geva meira arbeiði til viðkomandi stjórnarráð.</s>
+            <s xml:lang="fo" cert="high">Hvussu stór fíggjarliga avleiðingin av uppskotinum verður ber tó ikki til at siga, tí tað veldst um, í hvussu stóran mun kommunur fara at brúka heimildina til at áseta bústaðarskyldu.</s>
+            <s xml:lang="fo" cert="high">Niðanfyri, undir umsitingarligum avleiðingum, verður mett, at tørvur verður á ¼ til ½ ársverki afturat hjá avvarðandi stjórnarráð, sum í krónum svarar til millum 200.000 og 400.000 árliga.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Í kommunum, sum velja at brúka heimildina í uppskotinum til at áseta bústaðarskyldu, verður tørvur á starvsfólkum til at umsita ta skráseting, ávísing og eftirlit, sum sambært uppskotinum krevst av kommunu, sum ásetir bústaðarskyldu í kommununi.</s>
+            <s xml:lang="fo" cert="high">Hvussu stórur starvsfólkatørvurin verður veldst um støddina á kommunalu fyrisitingini og um talið av bústaðareindum, sum fevndar eru av bústaðarskyldu.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Dagbøtur, sum vera uppkravdar sambært uppskotinum, fara í kommunukassan, men ætlanin við dagbótunum er tó ikki at talan skal vera um eina inntøkukeldu hjá kommununi.</s>
           </p>
-          <p><s xml:lang="fo" cert="high">Í tann mun kommuna ikki heldur sínar skyldur sambært uppskotinum, og landsstýrisfólkið av teirri orsøk avlýsir áseting um bústaðarskyldu, verður kommunan endurgjaldsskyldug mótvegis teimum, sum hon hevur kravt dagbøtur frá seinasta 5 árini.</s> <s xml:lang="fo" cert="high">Roknað verður ikki við, at henda ásetingin skal gerast effektiv, men tó er hetta ein váði, sum ein kommuna tekur á seg, um hon velur at áseta bústaðarskyldu sambært løgtingslógaruppskotinum.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Í tann mun kommuna ikki heldur sínar skyldur sambært uppskotinum, og landsstýrisfólkið av teirri orsøk avlýsir áseting um bústaðarskyldu, verður kommunan endurgjaldsskyldug mótvegis teimum, sum hon hevur kravt dagbøtur frá seinasta 5 árini.</s>
+            <s xml:lang="fo" cert="high">Roknað verður ikki við, at henda ásetingin skal gerast effektiv, men tó er hetta ein váði, sum ein kommuna tekur á seg, um hon velur at áseta bústaðarskyldu sambært løgtingslógaruppskotinum.</s>
+          </p>
         </div>
         <div type="section" n="2.2.">
           <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
           <p>
             <s xml:lang="fo" cert="high">Løgtingslógaruppskotið hevur avleiðingar fyri landsumsitingina.</s>
           </p>
-          <p><s xml:lang="fo" cert="high">Í fyrsta lagi verður eftirkanningin í sambandi við góðkenning av byggisamtyktum meira umfatandi, um byggisamtyktin inniheldur áseting um bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Hetta kemst av, at avvarðandi landsstýrisfólk (stjórnarráð) í sambandi við góðkenningar sambært § 4, stk.1 í løgtingslóg um býarskipanir og byggisamtyktir skal tryggja sær, 1) at byggisamtyktin lýkur krøvini í løgtingslógini, sum fylgja við áseting av bústaðarskyldu, og 2) at tær reglur og mannagongdir, sum kommunan skal gera, tá bústaðarskylda verður ásett, eru gjørdar og eru nøktandi.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Í fyrsta lagi verður eftirkanningin í sambandi við góðkenning av byggisamtyktum meira umfatandi, um byggisamtyktin inniheldur áseting um bústaðarskyldu.</s>
+            <!-- TODO: extract list later! -->
+            <seg xml:lang="fo">Hetta kemst av, at avvarðandi landsstýrisfólk (stjórnarráð) í sambandi við góðkenningar sambært § 4, stk.1 í løgtingslóg um býarskipanir og byggisamtyktir skal tryggja sær, 1) at byggisamtyktin lýkur krøvini í løgtingslógini, sum fylgja við áseting av bústaðarskyldu, og 2) at tær reglur og mannagongdir, sum kommunan skal gera, tá bústaðarskylda verður ásett, eru gjørdar og eru nøktandi.</seg> --> </p>
           <p>
             <s xml:lang="fo" cert="high">Í øðrum lagi skal avvarðandi landsstýrisfólk (stjórnarráð) hava eftirlit við, at kommuna, sum hevur ásett bústaðarskyldu, røkir tær skyldur, sum fylgja við slíkari áseting.</s>
           </p>
-          <p><s xml:lang="fo" cert="high">Mett verður, at umsitingin hjá landsumsitingini, sum fylgja av løgtingslógaruppskotinum, fer at hava tørv á meiri arbeiðsmegi, sum svarar til í minsta lagi ¼ - ½ ársverk.</s> <s xml:lang="fo" cert="high">Økingin í umsiting er tó neyvt tongd at, um og í hvussu stóran mun kommunur fara at brúka heimildina til at áseta bústaðarskyldu.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Mett verður, at umsitingin hjá landsumsitingini, sum fylgja av løgtingslógaruppskotinum, fer at hava tørv á meiri arbeiðsmegi, sum svarar til í minsta lagi ¼ - ½ ársverk.</s>
+            <s xml:lang="fo" cert="high">Økingin í umsiting er tó neyvt tongd at, um og í hvussu stóran mun kommunur fara at brúka heimildina til at áseta bústaðarskyldu.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Løgtingslógaruppskotið hevur munandi umsitingarligar avleiðingar fyri kommunur, í tann mun kommuna velur at brúka heimildina at áseta bústaðarskyldu.</s>
           </p>
-          <p><s xml:lang="fo" cert="high">Í fyrsta lagi skal kommunan gera og røkja eina býlisskrá, har upplýsingar um allar bústaðareindir, sum eru fevndar av bústaðarskyldu, skulu skrásetast.</s> <s xml:lang="fo" cert="high">Í øðrum lagi skal kommunan regluliga kanna eftir, um áløgd bústaðarskylda verður hildin.</s> <s xml:lang="fo" cert="high">Í triðja lagi skal kommunan krevja inn dagbøtur frá teimum, sum ikki halda bústaðarskylduna, og um neyðugt síggja til, at ógoldnar dagbøtur verða kravdar inn við panting.</s> <s xml:lang="fo" cert="high">Í fjórða lagi skal kommunan gera og umsita eina ávísingarskipan, sum skal nýtast í teimum førum, tá kommunan fær ávísingarrætt til privatan leigubústað.</s></p>
-          <p><s xml:lang="fo" cert="high">Áløgd bústaðarskylda krevur støðugt eftirlit við, at bústaðarskyldan verður hildin, og krevur, at kommunan tekur tey stig, sum løgtingslógin ásetir, um bústaðarskyldan ikki verður hildin.</s> <s xml:lang="fo" cert="high">Talan er bæði um at gera og røkja skráir og um leypandi eftirlit.</s></p>
-          <p><s xml:lang="fo" cert="high">Neyðugt verður hjá kommunum, sum áseta bústaðarskyldu, at seta neyðuga starvsfólkaorku av til at røkja tær uppgávur, sum fylgja við.</s> <s xml:lang="fo" cert="high">Hvussu nógv ársverk tørvur verður á, ber ikki til at siga.</s> <s xml:lang="fo" cert="high">Men eyðsæð eiga kommunur, sum umhugsa at áseta bústaðarskyldu, at gera eina ítøkiliga meting av umsitingarligu og fíggjarligu avleiðingunum av slíkari áseting, áðrenn avgerð um hana verður tikin.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Í fyrsta lagi skal kommunan gera og røkja eina býlisskrá, har upplýsingar um allar bústaðareindir, sum eru fevndar av bústaðarskyldu, skulu skrásetast.</s>
+            <s xml:lang="fo" cert="high">Í øðrum lagi skal kommunan regluliga kanna eftir, um áløgd bústaðarskylda verður hildin.</s>
+            <s xml:lang="fo" cert="high">Í triðja lagi skal kommunan krevja inn dagbøtur frá teimum, sum ikki halda bústaðarskylduna, og um neyðugt síggja til, at ógoldnar dagbøtur verða kravdar inn við panting.</s>
+            <s xml:lang="fo" cert="high">Í fjórða lagi skal kommunan gera og umsita eina ávísingarskipan, sum skal nýtast í teimum førum, tá kommunan fær ávísingarrætt til privatan leigubústað.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Áløgd bústaðarskylda krevur støðugt eftirlit við, at bústaðarskyldan verður hildin, og krevur, at kommunan tekur tey stig, sum løgtingslógin ásetir, um bústaðarskyldan ikki verður hildin.</s>
+            <s xml:lang="fo" cert="high">Talan er bæði um at gera og røkja skráir og um leypandi eftirlit.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Neyðugt verður hjá kommunum, sum áseta bústaðarskyldu, at seta neyðuga starvsfólkaorku av til at røkja tær uppgávur, sum fylgja við.</s>
+            <s xml:lang="fo" cert="high">Hvussu nógv ársverk tørvur verður á, ber ikki til at siga.</s>
+            <s xml:lang="fo" cert="high">Men eyðsæð eiga kommunur, sum umhugsa at áseta bústaðarskyldu, at gera eina ítøkiliga meting av umsitingarligu og fíggjarligu avleiðingunum av slíkari áseting, áðrenn avgerð um hana verður tikin.</s>
+          </p>
         </div>
         <div type="section" n="2.3.">
           <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis avleiðingar fyri vinnuna.</s> <s xml:lang="fo" cert="high">Tó má væntast, at prísurin fyri hús og íbúðir, sum eru áløgd bústaðarskyldu og harvið eina avmarking í ræðisrættinum yvir ognini, verður lægri enn prísurin á húsum og íbúðum við ongari bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Hetta merkir so aftur, at í tann mun húsameklarar taka provisión av søluprísi, sum hús og íbúðir verða handlað fyri, verður inntøkan hjá húsameklarum av at selja hús og íbúðir, sum er áløgd bústaðarskyldu, lægri enn fyri sølu av húsum og íbúðum við ongari bústaðarskyldu.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis avleiðingar fyri vinnuna.</s>
+            <s xml:lang="fo" cert="high">Tó má væntast, at prísurin fyri hús og íbúðir, sum eru áløgd bústaðarskyldu og harvið eina avmarking í ræðisrættinum yvir ognini, verður lægri enn prísurin á húsum og íbúðum við ongari bústaðarskyldu.</s>
+            <s xml:lang="fo" cert="high">Hetta merkir so aftur, at í tann mun húsameklarar taka provisión av søluprísi, sum hús og íbúðir verða handlað fyri, verður inntøkan hjá húsameklarum av at selja hús og íbúðir, sum er áløgd bústaðarskyldu, lægri enn fyri sølu av húsum og íbúðum við ongari bústaðarskyldu.</s>
+          </p>
         </div>
         <div type="section" n="2.4.">
           <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
@@ -282,14 +361,23 @@
         </div>
         <div type="section" n="2.5.">
           <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis avleiðingar fyri serstøk øki í landinum.</s> <s xml:lang="fo" cert="high">Tó kann væntast, at heimildin av áseta bústaðarskyldu fyrst og fremst fer at verða nýtt í størru kommununum, og fyrst og fremst í miðstaðarøkinum.</s> <s xml:lang="fo" cert="high">Ein orsøk til hetta er, at áløgd bústaðarskylda lækkar søluvirðið á eini ogn í mun til, um ognin ikki er áløgd bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Tað er longu, sum er, ein trupulleiki í útjaðaranum, at lága søluvirðið í mun til byggikostnaðin ger tað trupult at fáa fígging við trygd í ognini.</s> <s xml:lang="fo" cert="high">Verður bústaðarskylda ásett í slíkum økjum, verður munurin millum søluvirðið og byggikostnað uppaftur størri.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis avleiðingar fyri serstøk øki í landinum.</s>
+            <s xml:lang="fo" cert="high">Tó kann væntast, at heimildin av áseta bústaðarskyldu fyrst og fremst fer at verða nýtt í størru kommununum, og fyrst og fremst í miðstaðarøkinum.</s>
+            <s xml:lang="fo" cert="high">Ein orsøk til hetta er, at áløgd bústaðarskylda lækkar søluvirðið á eini ogn í mun til, um ognin ikki er áløgd bústaðarskyldu.</s>
+            <s xml:lang="fo" cert="high">Tað er longu, sum er, ein trupulleiki í útjaðaranum, at lága søluvirðið í mun til byggikostnaðin ger tað trupult at fáa fígging við trygd í ognini.</s>
+            <s xml:lang="fo" cert="high">Verður bústaðarskylda ásett í slíkum økjum, verður munurin millum søluvirðið og byggikostnað uppaftur størri.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Metast kann, at uppskotið fær jaligar sosialar og trivnaðarligar avleiðingar fyri øki, har bústaðarskylda verður áløgd, við tað at fólk fara at búgva støðugt í øllum ella flestu búeindum í økinum.</s>
           </p>
         </div>
         <div type="section" n="2.6.">
           <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
-          <p><s xml:lang="fo" cert="high">Mett verður ikki at uppskotið hevur beinleiðis avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s> <s xml:lang="fo" cert="high">Tó kann væntast, at hús og íbúðir við bústaðarskyldu fara at verða handlað til ein lægri prís enn hús og íbúðir uttan bústaðarskyldu, og harvið kann tað gerast fíggjarliga møguligt hjá fleiri enn í dag at ogna sær ein bústað.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Mett verður ikki at uppskotið hevur beinleiðis avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+            <s xml:lang="fo" cert="high">Tó kann væntast, at hús og íbúðir við bústaðarskyldu fara at verða handlað til ein lægri prís enn hús og íbúðir uttan bústaðarskyldu, og harvið kann tað gerast fíggjarliga møguligt hjá fleiri enn í dag at ogna sær ein bústað.</s>
+          </p>
         </div>
         <div type="section" n="2.7.">
           <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
@@ -311,7 +399,11 @@
         </div>
         <div type="section" n="2.10.">
           <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at krevja upplýsingar um bústaðarognir og viðurskiftir viðvíkjandi bústaðnum, undir hesum hvør býr í bústaðnum til eina og hvørja tíð og undir hvørjum treytum.</s> <s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at krevja dagbøtur og útreiðslur í sambandi við innkrevjing av dagbótum inn við panting.</s> <s xml:lang="fo" cert="high">Uppskotið staðfestir, at eigarar av eini ogn hefta solidarisk fyri teimum krøvum, sum kommunan hevur ímóti eigara av bústað sambært løgtingslógini.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at krevja upplýsingar um bústaðarognir og viðurskiftir viðvíkjandi bústaðnum, undir hesum hvør býr í bústaðnum til eina og hvørja tíð og undir hvørjum treytum.</s>
+            <s xml:lang="fo" cert="high">Uppskotið gevur kommunum heimild til at krevja dagbøtur og útreiðslur í sambandi við innkrevjing av dagbótum inn við panting.</s>
+            <s xml:lang="fo" cert="high">Uppskotið staðfestir, at eigarar av eini ogn hefta solidarisk fyri teimum krøvum, sum kommunan hevur ímóti eigara av bústað sambært løgtingslógini.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Uppskotið inniheldur ikki revsiheimildir.</s>
           </p>
@@ -330,11 +422,18 @@
         </div>
         <div type="section" n="2.13.">
           <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið áleggur eigarum av ognum, sum eru fevndar av bústaðarskyldu, skyldu til at tryggja, at bústaðarskyldan sambært hesi løgtingslóg til eina og hvørja tíð er uppfylt.</s> <s xml:lang="fo" cert="high">Harumframt áleggur uppskotið eigarum av ognum, fevndar av bústaðarskyldu, skyldu til at geva kommununi allar tær upplýsingar, sum kommununi tørvar fyri at kunna hava eftirlit við, um bústaðarskyldan verður hildin, og, um tað er viðkomandi, fyri at kunna ávísa fólki til leigumál sambært løgtingslógini.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið áleggur eigarum av ognum, sum eru fevndar av bústaðarskyldu, skyldu til at tryggja, at bústaðarskyldan sambært hesi løgtingslóg til eina og hvørja tíð er uppfylt.</s>
+            <s xml:lang="fo" cert="high">Harumframt áleggur uppskotið eigarum av ognum, fevndar av bústaðarskyldu, skyldu til at geva kommununi allar tær upplýsingar, sum kommununi tørvar fyri at kunna hava eftirlit við, um bústaðarskyldan verður hildin, og, um tað er viðkomandi, fyri at kunna ávísa fólki til leigumál sambært løgtingslógini.</s>
+          </p>
         </div>
         <div type="section" n="2.14.">
           <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
-          <p><s xml:lang="fo" cert="high">Uppskotið gevur landsstýrisfólkinum heimild til at avlýsa áseting um bústaðarskyldu, tá kommunan ikki heldur sínar skyldur eftir løgtingslógini.</s> <s xml:lang="fo" cert="high">Talan er um skyldur til 1) at hava eftirlit við at bústaðarskyldan verður hildin, 2) at skipa eina effektiva ávísingarskipan, og 3) at krevja dagbøtur inn, tá bústaðarskyldan ikki verður hildin.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið gevur landsstýrisfólkinum heimild til at avlýsa áseting um bústaðarskyldu, tá kommunan ikki heldur sínar skyldur eftir løgtingslógini.</s>
+            <!-- TODO: extract list later! -->
+            <seg xml:lang="fo">Talan er um skyldur til 1) at hava eftirlit við at bústaðarskyldan verður hildin, 2) at skipa eina effektiva ávísingarskipan, og 3) at krevja dagbøtur inn, tá bústaðarskyldan ikki verður hildin.</seg>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Tekur landsstýrisfólkið avgerð um at avlýsa áseting um bústaðarskyldu, kann hetta hava fíggjarligar avleiðingar fyri kommununa, við tað at kommunan tá skal rinda aftur til eigarar allar dagbøtur, sum kommunan hevur kravt inn sambært løgtingslógini seinastu 5 árini.</s>
           </p>
@@ -355,7 +454,7 @@
           <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
           <table>
             <row role="label">
-              <cell/>
+              <cell />
               <cell>Fyri landið ella landsmyndugleikar</cell>
               <cell>Fyri kommunalar myndugleikar</cell>
               <cell>Fyri pláss ella øki í landinum</cell>
@@ -396,10 +495,10 @@
             </row>
             <row>
               <cell>Sosialar avleiðingar</cell>
-              <cell/>
+              <cell />
               <cell>Ja</cell>
               <cell>Ja</cell>
-              <cell/>
+              <cell />
             </row>
           </table>
         </div>
@@ -407,7 +506,10 @@
       <div type="chapter" n="3">
         <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
         <div type="section" n="0">
-          <p><s xml:lang="fo" cert="high">Við ásetingini fáa kommunur heimild til at áseta bústaðarskyldu at galda í nýggjum útstykkingum, áðrenn farið verður undir at byggja í økinum.</s> <s xml:lang="fo" cert="high">Eisini fáa kommunur heimild til at lata tinglýsa bústaðarskyldu á ognir, sum kommuna sjálv hevur bygt ella hevur ognað sær í fríum handli.</s></p>
+          <p>
+            <s xml:lang="fo" cert="high">Við ásetingini fáa kommunur heimild til at áseta bústaðarskyldu at galda í nýggjum útstykkingum, áðrenn farið verður undir at byggja í økinum.</s>
+            <s xml:lang="fo" cert="high">Eisini fáa kommunur heimild til at lata tinglýsa bústaðarskyldu á ognir, sum kommuna sjálv hevur bygt ella hevur ognað sær í fríum handli.</s>
+          </p>
           <p>
             <s xml:lang="fo" cert="high">Við heimildini at áseta bústaðarskyldu fylgir ein røð av skyldum, sum kommuna skal lúka, um hon velur at brúka heimildina.</s>
           </p>
@@ -424,22 +526,49 @@
               <p>
                 <s xml:lang="fo" cert="high">Kommunustýri kann áseta bústaðarskyldu at galda fyri allar <hi rend="italic">sjálvstøðugar bústaðareindir</hi> í <hi rend="italic">heilum samanhangandi bústaðarøkjum</hi>, tá talan er um <hi rend="italic">nýggjar útstykkingar</hi>.</s>
               </p>
-              <p><s xml:lang="fo" cert="high">Sum <hi rend="italic">sjálvstøðug bústaðareind</hi> er at skilja íbúð ella kamar, við egnari inngongd, sum ikki hevur beinleiðis samband við ella er tongt at hentleikum í aðrari bústaðareind.</s> <s xml:lang="fo" cert="high">Eitt kamar í einum privatum húsum, har leigarin brúkar sama køk ella baðirúm sum útleigarin, er ikki at skilja sum sjálvstøðug bústaðareind.</s> <s xml:lang="fo" cert="high">Á sama hátt er ein íbúð í privatum húsum, har gongt er innanhýsis millum íbúðina hjá leigara og íbúðina hjá útleigara, heldur ikki at skilja sum sjálvstøðug bústaðareind.</s></p>
-              <p><s xml:lang="fo" cert="high">Tá bústaðarskylda verður ásett, er hon galdandi fyri allar sjálvstøðugar bústaðareindir innanfyri økið, sum er fevnt av bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Um fleiri sjálvstøðugar bústaðareindir eru undir somu lon, tá er hvør bústaðareindin sær fevnd av bústaðarskyldu.</s></p>
-              <p><s xml:lang="fo" cert="high">Bústaðarskylda ásett sambært § 5 a, stk. 1 er galdandi í <hi rend="italic">heilum samanhangandi bústaðaøkjum</hi>.</s> <s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann soleiðis ikki leggjast á einstakar matrikklar í einum bústaðarøki, eins og einstakir matrikklar í einum bústaðarøki ikki kunnu verða undantiknir bústaðarskyldu, um økið annars er fevnt av bústaðarskyldu.</s></p>
-              <p><s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann bert ásetast fyri <hi rend="italic">nýggjar útstykkingar</hi>.</s> <s xml:lang="fo" cert="high">Sum nýggjar útstykkingar sambært ásetingini eru at rokna útstykkingar, har grundstykki til bústaðahús ikki eru handlað og har bústaðarhús ikki eru bygd ella í gerð.</s> <s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann soleiðis ikki ásetast í einum øki, har grundstykkir, ætlað til bústaðarbygging, eru handlað á marknaðinum.</s> <s xml:lang="fo" cert="high">Heldur ikki kann bústaðarskylda sambært § 5 a, stk. 1 verða ásett fyri øki, har bústaðarhús longu eru lógliga bygd, eru lógliga í gerð ella har endaligt byggiloyvi til bústaðarhús er givið og í gildi, hóast at farið ikki er undir bygging.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Sum <hi rend="italic">sjálvstøðug bústaðareind</hi> er at skilja íbúð ella kamar, við egnari inngongd, sum ikki hevur beinleiðis samband við ella er tongt at hentleikum í aðrari bústaðareind.</s>
+                <s xml:lang="fo" cert="high">Eitt kamar í einum privatum húsum, har leigarin brúkar sama køk ella baðirúm sum útleigarin, er ikki at skilja sum sjálvstøðug bústaðareind.</s>
+                <s xml:lang="fo" cert="high">Á sama hátt er ein íbúð í privatum húsum, har gongt er innanhýsis millum íbúðina hjá leigara og íbúðina hjá útleigara, heldur ikki at skilja sum sjálvstøðug bústaðareind.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Tá bústaðarskylda verður ásett, er hon galdandi fyri allar sjálvstøðugar bústaðareindir innanfyri økið, sum er fevnt av bústaðarskyldu.</s>
+                <s xml:lang="fo" cert="high">Um fleiri sjálvstøðugar bústaðareindir eru undir somu lon, tá er hvør bústaðareindin sær fevnd av bústaðarskyldu.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Bústaðarskylda ásett sambært § 5 a, stk. 1 er galdandi í <hi rend="italic">heilum samanhangandi bústaðaøkjum</hi>.</s>
+                <s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann soleiðis ikki leggjast á einstakar matrikklar í einum bústaðarøki, eins og einstakir matrikklar í einum bústaðarøki ikki kunnu verða undantiknir bústaðarskyldu, um økið annars er fevnt av bústaðarskyldu.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann bert ásetast fyri <hi rend="italic">nýggjar útstykkingar</hi>.</s>
+                <s xml:lang="fo" cert="high">Sum nýggjar útstykkingar sambært ásetingini eru at rokna útstykkingar, har grundstykki til bústaðahús ikki eru handlað og har bústaðarhús ikki eru bygd ella í gerð.</s>
+                <s xml:lang="fo" cert="high">Bústaðarskylda sambært § 5 a, stk. 1 kann soleiðis ikki ásetast í einum øki, har grundstykkir, ætlað til bústaðarbygging, eru handlað á marknaðinum.</s>
+                <s xml:lang="fo" cert="high">Heldur ikki kann bústaðarskylda sambært § 5 a, stk. 1 verða ásett fyri øki, har bústaðarhús longu eru lógliga bygd, eru lógliga í gerð ella har endaligt byggiloyvi til bústaðarhús er givið og í gildi, hóast at farið ikki er undir bygging.</s>
+              </p>
               <p>
                 <s xml:lang="fo" cert="high">Ítøkiliga verður bústaðarskylda ásett í økisáseting í byggisamtyktini, og verður síðani galdandi fyri samsvarandi øki í býarskipanini.</s>
               </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 2</head>
-              <p><s xml:lang="fo" cert="high">Sambært § 5 a, stk. 2 kann kommunustýri gera av, at bústaðareind, sum kommunan hevur latið byggja ella, sum kommunan hevur ognað sær í fríum handli, skal vera áløgd bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Tá heimildin í § 5 a, stk. 2 verður brúkt til at áseta bústaðarskyldu, skal kommunan lata bústaðarskylduna tinglýsa sum byrða á ognini, og kommunan skal hava átalurættin.</s> <s xml:lang="fo" cert="high">Bústaðareind sambært hesi áseting má sostatt verða sjálvstøðugur matrikkul.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Sambært § 5 a, stk. 2 kann kommunustýri gera av, at bústaðareind, sum kommunan hevur latið byggja ella, sum kommunan hevur ognað sær í fríum handli, skal vera áløgd bústaðarskyldu.</s>
+                <s xml:lang="fo" cert="high">Tá heimildin í § 5 a, stk. 2 verður brúkt til at áseta bústaðarskyldu, skal kommunan lata bústaðarskylduna tinglýsa sum byrða á ognini, og kommunan skal hava átalurættin.</s>
+                <s xml:lang="fo" cert="high">Bústaðareind sambært hesi áseting má sostatt verða sjálvstøðugur matrikkul.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 3</head>
-              <p><s xml:lang="fo" cert="high">Avger kommuna at áseta bústaðarskyldu sambært § 5 a, stk. 1 ella 2 skal kommunan gera og røkja almenna býlisskrá við dagførdum upplýsingum um allar bústaðareindir, sum fevndar eru av bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Býlisskráin er ein fyritreyt fyri, at kommunan kann hava eftirlit við, um bústaðarskyldan verður hildin.</s></p>
-              <p><s xml:lang="fo" cert="high">Býlisskráin skal vera almenn, sum merkir, at almenningurin skal hava atgongd til at gera seg kunnugan við hana.</s> <s xml:lang="fo" cert="high">Tvinni atlit liggja aftanfyri kravið um almenni.</s> <s xml:lang="fo" cert="high">Í fyrra lagi er almenni við til at tryggja, at býlisskráin hjá kommununi er fullfíggjað og røtt.</s> <s xml:lang="fo" cert="high">Í øðrum lagi stuðlar almenni undir, at bústaðarskyldan verður hildin og at brot á bústaðarskylduna vera staðfest.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Avger kommuna at áseta bústaðarskyldu sambært § 5 a, stk. 1 ella 2 skal kommunan gera og røkja almenna býlisskrá við dagførdum upplýsingum um allar bústaðareindir, sum fevndar eru av bústaðarskyldu.</s>
+                <s xml:lang="fo" cert="high">Býlisskráin er ein fyritreyt fyri, at kommunan kann hava eftirlit við, um bústaðarskyldan verður hildin.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Býlisskráin skal vera almenn, sum merkir, at almenningurin skal hava atgongd til at gera seg kunnugan við hana.</s>
+                <s xml:lang="fo" cert="high">Tvinni atlit liggja aftanfyri kravið um almenni.</s>
+                <s xml:lang="fo" cert="high">Í fyrra lagi er almenni við til at tryggja, at býlisskráin hjá kommununi er fullfíggjað og røtt.</s>
+                <s xml:lang="fo" cert="high">Í øðrum lagi stuðlar almenni undir, at bústaðarskyldan verður hildin og at brot á bústaðarskylduna vera staðfest.</s>
+              </p>
               <p>
                 <s xml:lang="fo" cert="high">Við regluliga at samanbera upplýsingarnar í býlisskránni við upplýsingarnar í fólkayvirlitinum skal kommunan kanna, um bústaðarskyldan verður hildin.</s>
               </p>
@@ -452,18 +581,40 @@
               <p>
                 <s xml:lang="fo" cert="high">Bústaðarskylda er uppfylt, um minst ein persónur, sum er fyltur 15 ár, er skrásettur í fólkayvirlitinum sum búgvandi í bústaðareindini.</s>
               </p>
-              <p><s xml:lang="fo" cert="high">Ein bústaðareind kann standa tóm í upp til 6 vikur, treytað av at í minsta lagi 4 mánaðir eru ímillum hvørja ferð, at bústaðareindin stendur tóm.</s> <s xml:lang="fo" cert="high">At bústaðareindin stendur tóm merkir, at eingin er skrásettur í fólkayvirlitinum, sum búsitandi í bústaðareindini.</s></p>
-              <p><s xml:lang="fo" cert="high">Markið uppá 4 mánaðir er sett, tí at markið fyri, nær eitt leigumál er fevnt av leigulógini er, tá leigutíðarskeiðið er longri enn 3 mánaðir.</s> <s xml:lang="fo" cert="high">Við at áseta 4 samanhangandi mánaðir sum minsta mark fyri, at bústaðarskyldan er uppfylt, verður byrgt fyri, at ognir undir bústaðarskyldu verða útleigaðar sum stutttíðarleigumál uttan um leigulógina.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Ein bústaðareind kann standa tóm í upp til 6 vikur, treytað av at í minsta lagi 4 mánaðir eru ímillum hvørja ferð, at bústaðareindin stendur tóm.</s>
+                <s xml:lang="fo" cert="high">At bústaðareindin stendur tóm merkir, at eingin er skrásettur í fólkayvirlitinum, sum búsitandi í bústaðareindini.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Markið uppá 4 mánaðir er sett, tí at markið fyri, nær eitt leigumál er fevnt av leigulógini er, tá leigutíðarskeiðið er longri enn 3 mánaðir.</s>
+                <s xml:lang="fo" cert="high">Við at áseta 4 samanhangandi mánaðir sum minsta mark fyri, at bústaðarskyldan er uppfylt, verður byrgt fyri, at ognir undir bústaðarskyldu verða útleigaðar sum stutttíðarleigumál uttan um leigulógina.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 5</head>
-              <p><s xml:lang="fo" cert="high">Verður bústaðarskylda ikki hildin, skal kommunan krevja dagbøtur frá eigaranum fyri hvønn dag, bústaðarskyldan ikki er hildin.</s> <s xml:lang="fo" cert="high">Talan er um eina skyldu, sum áliggur kommununi.</s> <s xml:lang="fo" cert="high">Um bústaðarskyldan objektivt verður brotin, skal kommunan krevja dagbøtur frá eigaranum, eisini um brotið bert stendur við í ein dag.</s></p>
-              <p><s xml:lang="fo" cert="high">Kommunan skal, beinanvegin sum hon verður varug við, at bústaðarskylda ikki verður hildin, útskriva dagbøtur fyri alt tíðarskeiðið, síðani brotið byrjaði.</s> <s xml:lang="fo" cert="high">Verður brotið t.d. staðfest aftaná 3 vikur, skal kommunan beinanvegin útskriva dagbøtur afturvirkandi fyri 3 vikur og síðani frameftir fyri hvønn dag, inntil tann dagin brotið endar.</s></p>
-              <p><s xml:lang="fo" cert="high">Um neyðugt skal kommunan taka stig til at krevja dagbøtur inn við panting.</s> <s xml:lang="fo" cert="high">Farið eigur at verða undir tilgongd til panting við at leggja krav fyri fútarættin, tá fallin skuld fyri dagbøtur er eldri enn 3 mánaðir.</s> <s xml:lang="fo" cert="high">Útreiðslur, sum kommunan hevur havt av at krevja inn falna skuld, skulu eisini rindast av eigaranum og krevjast inn saman við falnari skuld fyri dagbøtur.</s> <s xml:lang="fo" cert="high">Eru fleiri eigarar av somu bústaðareind, har bústaðarskylda ikki er hildin, hefta hesir solidarisk fyri teimum krøvum, sum kommunan hevur móti eigarunum.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Verður bústaðarskylda ikki hildin, skal kommunan krevja dagbøtur frá eigaranum fyri hvønn dag, bústaðarskyldan ikki er hildin.</s>
+                <s xml:lang="fo" cert="high">Talan er um eina skyldu, sum áliggur kommununi.</s>
+                <s xml:lang="fo" cert="high">Um bústaðarskyldan objektivt verður brotin, skal kommunan krevja dagbøtur frá eigaranum, eisini um brotið bert stendur við í ein dag.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Kommunan skal, beinanvegin sum hon verður varug við, at bústaðarskylda ikki verður hildin, útskriva dagbøtur fyri alt tíðarskeiðið, síðani brotið byrjaði.</s>
+                <s xml:lang="fo" cert="high">Verður brotið t.d. staðfest aftaná 3 vikur, skal kommunan beinanvegin útskriva dagbøtur afturvirkandi fyri 3 vikur og síðani frameftir fyri hvønn dag, inntil tann dagin brotið endar.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Um neyðugt skal kommunan taka stig til at krevja dagbøtur inn við panting.</s>
+                <s xml:lang="fo" cert="high">Farið eigur at verða undir tilgongd til panting við at leggja krav fyri fútarættin, tá fallin skuld fyri dagbøtur er eldri enn 3 mánaðir.</s>
+                <s xml:lang="fo" cert="high">Útreiðslur, sum kommunan hevur havt av at krevja inn falna skuld, skulu eisini rindast av eigaranum og krevjast inn saman við falnari skuld fyri dagbøtur.</s>
+                <s xml:lang="fo" cert="high">Eru fleiri eigarar av somu bústaðareind, har bústaðarskylda ikki er hildin, hefta hesir solidarisk fyri teimum krøvum, sum kommunan hevur móti eigarunum.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 6</head>
-              <p><s xml:lang="fo" cert="high">Um eigari uttan úrslit hevur roynt at fáa leigara til eina bústaðareind, skal eigarin ikki rinda dagbøtur, hóast bústaðareindin stendur tóm í meira enn 6 vikur.</s> <s xml:lang="fo" cert="high">Treytin fyri at sleppa undan at rinda dagbøtur er tó, at eigarin, í seinasta lagi tá bústaðareindin hevur staðið tóm í 6 vikur, boðar kommununi frá, at bústaðareindin stendur tóm, og at eigarin síðani samtykkir at vilja leiga út til leigara, sum kommunan ávísir.</s> <s xml:lang="fo" cert="high">Gongur eigarin undir hesar treytir, skal eigarin ikki rinda dagbøtur, uttan mun til hvussu leingi bústaðareindin stendur tóm.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Um eigari uttan úrslit hevur roynt at fáa leigara til eina bústaðareind, skal eigarin ikki rinda dagbøtur, hóast bústaðareindin stendur tóm í meira enn 6 vikur.</s>
+                <s xml:lang="fo" cert="high">Treytin fyri at sleppa undan at rinda dagbøtur er tó, at eigarin, í seinasta lagi tá bústaðareindin hevur staðið tóm í 6 vikur, boðar kommununi frá, at bústaðareindin stendur tóm, og at eigarin síðani samtykkir at vilja leiga út til leigara, sum kommunan ávísir.</s>
+                <s xml:lang="fo" cert="high">Gongur eigarin undir hesar treytir, skal eigarin ikki rinda dagbøtur, uttan mun til hvussu leingi bústaðareindin stendur tóm.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 7</head>
@@ -473,7 +624,10 @@
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 8</head>
-              <p><s xml:lang="fo" cert="high">Tá kommunustýri ásetir bústaðarskyldu, skal tað samstundis útvega neyðug amboð fyri at kunna hava eftirlit við og handhevja bústaðarskylduna.</s> <s xml:lang="fo" cert="high">Tí skal kommunustýri í byggisamtyktini áseta almennar reglur fyri, hvussu tað skal fremja eftirlit við, at bústaðarskylda verður hildin.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Tá kommunustýri ásetir bústaðarskyldu, skal tað samstundis útvega neyðug amboð fyri at kunna hava eftirlit við og handhevja bústaðarskylduna.</s>
+                <s xml:lang="fo" cert="high">Tí skal kommunustýri í byggisamtyktini áseta almennar reglur fyri, hvussu tað skal fremja eftirlit við, at bústaðarskylda verður hildin.</s>
+              </p>
               <p>
                 <seg xml:lang="fo">Umframt hetta skal kommunustýrið í byggisamtyktini áseta mannagongdir fyri:</seg>
               </p>
@@ -483,7 +637,11 @@
                 <item><label>3)</label> hvussu samtykki sambært stk. 6, nr. 3 skal innheintast, og</item>
                 <item><label>4)</label> hvussu ávísing sambært stk. 6, nr. 3 skal umsitast.</item>
               </list>
-              <p><s xml:lang="fo" cert="high">Omanfyrinevndu reglur og mannagongdir skulu vera neyvar, fullfíggjaðar og greiðar.</s> <s xml:lang="fo" cert="high">Eingin ivi má vera um, hvør hevur dagligu ábyrgdina av at reglurnar og mannagongdirnar vera hildnar, antin tað er borgarstjórin ella leiðandi starvsfólk í fyrisitingini, t.d. kommunustjórin ella tekniski leiðarin.</s> <s xml:lang="fo" cert="high">Endaliga ábyrgdin fyri, at reglur og mannagongdir vera hildnar, liggur hjá borgarstjóranum.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Omanfyrinevndu reglur og mannagongdir skulu vera neyvar, fullfíggjaðar og greiðar.</s>
+                <s xml:lang="fo" cert="high">Eingin ivi má vera um, hvør hevur dagligu ábyrgdina av at reglurnar og mannagongdirnar vera hildnar, antin tað er borgarstjórin ella leiðandi starvsfólk í fyrisitingini, t.d. kommunustjórin ella tekniski leiðarin.</s>
+                <s xml:lang="fo" cert="high">Endaliga ábyrgdin fyri, at reglur og mannagongdir vera hildnar, liggur hjá borgarstjóranum.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 9</head>
@@ -502,21 +660,39 @@
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 10</head>
-              <p><s xml:lang="fo" cert="high">Meginreglan er, at tá kommunustýrið hevur ásett bústaðarskyldu at galda í einum øki sambært § 5 a, stk. 1 fyri eina ávísa ogn sambært § 5 a, stk. 2, so kann ásetingin ikki verða broytt, hvørki við beinleiðis samtykt í kommunustýrinum, ella við at broyta gildisøki í býarskipanini.</s> <s xml:lang="fo" cert="high">Meginreglan er sostatt, at tá ein matrikkul einaferð er vorðin fevndur av bústaðarskyldu, so kann bústaðarskyldan ikki avlýsast aftur, uttan sambært § 5 a, stk. 9.</s></p>
-              <p><s xml:lang="fo" cert="high">Hóast hetta kann landsstýrisfólkið í <hi rend="italic">heilt serligum førum</hi> í tann mun, <hi rend="italic">týðandi samfelagslig atlit</hi> tala fyri tí, loyva kommunu heilt ella partvíst at avlýsa bústaðarskyldu.</s> <s xml:lang="fo" cert="high">Um landsstýrisfólkið loyvir tí, verður bústaðarskylda avlýst sambært vanligari mannagongd fyri broyting av býarskipan, ella við at avlýsa tinglisnan servitutt á viðkomandi ogn.</s></p>
-              <p><s xml:lang="fo" cert="high">Fyri at talan kann sigast at vera um <hi rend="italic">heilt serlig føri</hi>, skulu viðurskifti gera seg galdandi, sum kommunustýrið á ongan hátt hevði kunnað vita fóru at gera seg galdandi, tá bústaðarskyldan upprunaliga varð ásett.</s> <s xml:lang="fo" cert="high">Tess styttri tíð er fráliðin, síðani bústaðarskyldan var ásett, tess strangari eru krøvini til kommununa um at grundgeva fyri, hví broyttu viðurskiftini komu óvart á.</s></p>
-            </div>
-            <div type="sub-subsection" subtype="run-in">
-              <head rend="italic">Týðandi samfelagslig atlit</head>
-              <p><s xml:lang="fo" cert="high"><hi rend="italic">Týðandi samfelagslig atlit</hi> eru atlit til lokalsamfelagið sum so, ella til landssamfelagið.</s> <s xml:lang="fo" cert="high">Tað er sostatt ikki nóg mikið at vísa til atlit til ein ella fáar einstakar eigarar ella til eitt grannalag.</s> <s xml:lang="fo" cert="high">Eitt dømi um týðandi samfelagslig atlit kundi verið, at ein ogn fevnd av bústaðarskyldu skal brúkast til fyribils at hýsa flóttafólki ella fólki, sum brádliga eru vorðin húsvill eftir náttúruvanlukku ella líknandi.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Meginreglan er, at tá kommunustýrið hevur ásett bústaðarskyldu at galda í einum øki sambært § 5 a, stk. 1 fyri eina ávísa ogn sambært § 5 a, stk. 2, so kann ásetingin ikki verða broytt, hvørki við beinleiðis samtykt í kommunustýrinum, ella við at broyta gildisøki í býarskipanini.</s>
+                <s xml:lang="fo" cert="high">Meginreglan er sostatt, at tá ein matrikkul einaferð er vorðin fevndur av bústaðarskyldu, so kann bústaðarskyldan ikki avlýsast aftur, uttan sambært § 5 a, stk. 9.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Hóast hetta kann landsstýrisfólkið í <hi rend="italic">heilt serligum førum</hi> í tann mun, <hi rend="italic">týðandi samfelagslig atlit</hi> tala fyri tí, loyva kommunu heilt ella partvíst at avlýsa bústaðarskyldu.</s>
+                <s xml:lang="fo" cert="high">Um landsstýrisfólkið loyvir tí, verður bústaðarskylda avlýst sambært vanligari mannagongd fyri broyting av býarskipan, ella við at avlýsa tinglisnan servitutt á viðkomandi ogn.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Fyri at talan kann sigast at vera um <hi rend="italic">heilt serlig føri</hi>, skulu viðurskifti gera seg galdandi, sum kommunustýrið á ongan hátt hevði kunnað vita fóru at gera seg galdandi, tá bústaðarskyldan upprunaliga varð ásett.</s>
+                <s xml:lang="fo" cert="high">Tess styttri tíð er fráliðin, síðani bústaðarskyldan var ásett, tess strangari eru krøvini til kommununa um at grundgeva fyri, hví broyttu viðurskiftini komu óvart á.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high"><hi rend="italic">Týðandi samfelagslig atlit</hi> eru atlit til lokalsamfelagið sum so, ella til landssamfelagið.</s>
+                <s xml:lang="fo" cert="high">Tað er sostatt ikki nóg mikið at vísa til atlit til ein ella fáar einstakar eigarar ella til eitt grannalag.</s>
+                <s xml:lang="fo" cert="high">Eitt dømi um týðandi samfelagslig atlit kundi verið, at ein ogn fevnd av bústaðarskyldu skal brúkast til fyribils at hýsa flóttafólki ella fólki, sum brádliga eru vorðin húsvill eftir náttúruvanlukku ella líknandi.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 11.</head>
-              <p><s xml:lang="fo" cert="high">Verður áseting um bústaðarskyldu ógildað, skal kommunan endurrinda allar dagbøtur, sum kommunan hevur kravt frá bústaðareigarum seinastu 5 árini undan ógildanardegnum.</s> <s xml:lang="fo" cert="high">Ógildar landsstýrisfólkið áseting um bústaðarskyldu, so er fortreytin, at kommunan ikki hevur røkt tær skyldur, sum kommunan tók á seg, tá kommunustýrið samtykti at áseta bústaðarskyldu, undir hesum skylduna at krevja inn dagbøtur.</s> <s xml:lang="fo" cert="high">Fyri at tryggja, at eigarar ikki fara at vera fyri mismuni, har summir hava verið kravdir at rinda dagbøtur meðan aðrir ikki, skal kommunan afturrinda allar tær dagbøtur, sum eigarar í viðkomandi øki hava rindað kommununi seinastu 5 árini.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Verður áseting um bústaðarskyldu ógildað, skal kommunan endurrinda allar dagbøtur, sum kommunan hevur kravt frá bústaðareigarum seinastu 5 árini undan ógildanardegnum.</s>
+                <s xml:lang="fo" cert="high">Ógildar landsstýrisfólkið áseting um bústaðarskyldu, so er fortreytin, at kommunan ikki hevur røkt tær skyldur, sum kommunan tók á seg, tá kommunustýrið samtykti at áseta bústaðarskyldu, undir hesum skylduna at krevja inn dagbøtur.</s>
+                <s xml:lang="fo" cert="high">Fyri at tryggja, at eigarar ikki fara at vera fyri mismuni, har summir hava verið kravdir at rinda dagbøtur meðan aðrir ikki, skal kommunan afturrinda allar tær dagbøtur, sum eigarar í viðkomandi øki hava rindað kommununi seinastu 5 árini.</s>
+              </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Til § 5 a, stk. 12.</head>
-              <p><s xml:lang="fo" cert="high">Upphæddin í stk. 5 verður javnað hvønn 1. mars við broytingini í brúkaraprístalinum hjá Hagstovu Føroya seinasta árið, tó so, at upphæddin hækkar við ikki minni enn 2% árliga í mun til upphæddina árið fyri.</s> <s xml:lang="fo" cert="high">Ásetingin skal tryggja, at fíggjarliga ónáðin av dagbótini ikki skal minka orsakað av prísvøkstri.</s> <s xml:lang="fo" cert="high">Upphæddin verður fyrstu ferð javnað 1. mars 2026.</s></p>
+              <p>
+                <s xml:lang="fo" cert="high">Upphæddin í stk. 5 verður javnað hvønn 1. mars við broytingini í brúkaraprístalinum hjá Hagstovu Føroya seinasta árið, tó so, at upphæddin hækkar við ikki minni enn 2% árliga í mun til upphæddina árið fyri.</s>
+                <s xml:lang="fo" cert="high">Ásetingin skal tryggja, at fíggjarliga ónáðin av dagbótini ikki skal minka orsakað av prísvøkstri.</s>
+                <s xml:lang="fo" cert="high">Upphæddin verður fyrstu ferð javnað 1. mars 2026.</s>
+              </p>
             </div>
           </div>
           <div type="subsection">
@@ -524,23 +700,17 @@
             <p>
               <s xml:lang="fo" cert="high">Løgtingslógin kemur í gildið dagin eftir, at hon er kunngjørd.</s>
             </p>
-            <p>
-              <s xml:lang="fo" cert="medium"><hi rend="bold">Margit Stórá </hi>landsstýriskvinna</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="low">/ Pól E. Egholm</s>
-            </p>
           </div>
         </div>
       </div>
-      <space dim="vertical"/>
+      <space dim="vertical" />
       <div type="signature">
         <dateline><orgName>Umhvørvismálaráðið</orgName>, <date when="2025-03-03">3. mars 2025</date></dateline>
-        <space dim="vertical"/>
+        <space dim="vertical" />
         <signed rend="center">
-          <persName>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">
             <hi rend="bold">Margit Stórá</hi>
-            <lb/>
+            <lb />
             <roleName>landsstýriskvinna</roleName>
           </persName>
         </signed>
