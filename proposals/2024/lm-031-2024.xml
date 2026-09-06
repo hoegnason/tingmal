@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til samtyktar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/63290"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2024-10-24">24. oktober 2024</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold">Uppskot til samtyktar um fíggjarligt ískoyti til persónar í aldrinum 0 til 25 ár til sálarfrøðiliga</ab>
+        <ab rend="bold">viðgerð hjá privatstarvandi sálarfrøðingi</ab>
+      </ab>
+      <!--
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <ab rend="bold center">til</ab>
+        <ab rend="bold center">samtyktar</ab>
+      </ab>
+      -->
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <!-- TODO: segment resolutions better! -->
+        <p rend="bill-text">
+          <s xml:id="zrifwrjea4">Løgtingið heitir á landsstýrið um at fyrireika og leggja fyri Løgtingið lógaruppskot, ið heimilar Heilsutrygd at veita fult ískoyti til viðgerð hjá privatstarvandi sálarfrøðingi til persónar í aldrinum 0 til 25 ár, ið hava angist ella lætt til moderat tunglyndi.</s>
+          <s xml:id="qcdf4bqxgi">Fult ískoyti verður veitt til í mesta lagi 12 viðgerðir.</s>
+        </p>
+      </div>
+      <div type="chapter" n="1">
+        <!-- TODO: short bills/resolutions better! -->
+        <div type="section" n="0">
+          <head rend="bold">Viðmerkingar:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="udsrc4lkub">Upprunin og orsøkin til uppskotið er “<hi rend="italic">Løgtingslóg nr. 153 frá 30. oktober 2020 um royndarskipan um ókeypis sálarfrøðiliga viðgerð til persónar millum 15 til 35 ár, sum hava angist ella lætt til moderat tunglyndi”.</hi></s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="elnaitbjv7">Lógaruppskotið varð samtykt á Løgtingi 27. oktober 2020 og fór úr gildi 31. oktober 2023.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="izbacvpymc">Heimildin at veita sálarfrøðiliga viðgerð til persónar millum 15 og 35 ár (broytt til 15 til 25 ár), sum hava angist ella lætt til moderat tunglyndi, varð síðani flutt í kunngerð um fíggjarligt ískoyti til sálarfrøðiliga viðgerð hjá privatstarvandi sálarfrøðingi við broytingini í kunngerð nr. 170 frá 22. desember 2023.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ryvoooqiqn">Tá omanfyri nevnda lógaruppskot varð tilevnað og samtykt, var eitt av fylgiskjølunum eitt hoyringarskriv, sum tíverri ikki varð tikið til eftirtektar í tilevningini av lógaruppskotinum í 2020 og heldur ikki í kunngerðini, ið tók yvir eftir royndarskipanina og kom í gildi í 2023.</s>
+            <seg xml:lang="fo">Skrivið var frá leiðsluni í Barna- og ungdómspsykiatriini í Sjúkrahúsverki Føroya, undirskrivað av “specialansvarlig overlæge Rebekka G. Perlick og leder og psykolog Anna Elisabeth Iversen saman við specialansvarlig overlæge Súsanna Reinert-Petersen og leder og psykolog Alberta Mc. Leod Jacobsen”.</seg>
+            <seg xml:lang="fo">Hesar serkønu sendu av sínum eintingum hetta hoyringarskrivið, dagfest 9. juli 2020, har tær m.a., aftaná positiv orð um ætlanirnar, skriva:</seg>
+          </p>
+          <q>
+            <p>
+              <seg xml:lang="fo">Vi har dog kommentarer til følgende aspekter:</seg>
+            </p>
+            <list>
+              <item>Alderen som er fastsat er rent fagligt ikke logisk. Angst hos børn opstår ofte i de yngre år og her kan en terapeutisk indsats med inddragelse af forældrene være gavnlig og medvirkende til at forbygge udvikling af sværhedsgraden af tilstanden. Således vil vi anbefale at aldersgrænserne tages bort ift. at kunne behandle børnene i rette tid.</item>
+            </list>
+          </q>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="v5wnb4jlth">Sum neyvan sæð áður uppliva vit í dag, at børn og ung “dragast við” stórar tilverugrundaðar spurningar og sálarligar trupulleikar, og hetta heilt frá yngstu barnaárum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xfuu2q762s">Foreldur, námsfrøðingar, lærarar, læknar v.m. undrast og royna sum frægast at útgreina, finna orsakir og at veita hjálp.</s>
+            <!-- TODO: encode mixed languages! -->
+            <s xml:lang="fo" cert="high" xml:id="zj4sbmkbx7">Sannast má, at tær serkønu í Barna- og ungdómspsykiatriini royndu at vísa okkum á røttu kós, tá tær gjørdu vart við at: “Alderen som er fastsat er rent fagligt ikke logisk” og tilmæltu: ”at aldersgrænserne tages bort ift. at kunne behandle børnene i rette tid”.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="knjpelg6al">Tí leggja vit hetta broytingaruppskot Miðfloksins fyri Løgtingið, eitt broytingaruppskot, sum tekur atlit til og fylgir ráðum teirra serkønu á økinum.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline><placeName>Á Løgtingi</placeName>, <date when="2024-10-24">24. oktober 2024</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName ref="https://tingdata.fo/person/gd75kr3x">Steffan Klein Poulsen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
