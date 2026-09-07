@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tingmál – a structured dataset of the Faroese parliament</title>
+    <meta name="description" content="Tingmál is an unofficial structured dataset of documents, acts, and proceedings from Løgtingið, the Parliament of the Faroe Islands, encoded as TEI/XML with a sentence-level JSONL export of Faroese text.">
+    <meta property="og:title" content="Tingmál">
+    <meta property="og:description" content="An unofficial structured dataset of documents, acts, and proceedings from the Parliament of the Faroe Islands (Løgtingið).">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tingmal.fo/">
+    <link rel="canonical" href="https://tingmal.fo/">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Tingmál",
+    "description": "An unofficial structured dataset of documents, acts, and proceedings from Løgtingið, the Parliament of the Faroe Islands, encoded as TEI/XML with a sentence-level JSONL export of Faroese text.",
+    "url": "https://tingmal.fo/",
+    "sameAs": "https://github.com/hoegnason/tingmal",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "isAccessibleForFree": true,
+    "inLanguage": "fo",
+    "keywords": ["Faroese", "Faroe Islands", "Løgtingið", "parliament", "corpus", "dataset", "TEI", "XML", "JSONL"],
+    "creator": { "@type": "Person", "name": "Rani Høgnason Hansen", "url": "https://github.com/hoegnason" },
+    "distribution": [{
+      "@type": "DataDownload",
+      "encodingFormat": "application/jsonl",
+      "contentUrl": "https://raw.githubusercontent.com/hoegnason/tingmal/master/sentences.jsonl"
+    }]
+  }
+  </script>
+
+    <style>
+        :root {
+            --fog: #F3F5F4;
+            --ink: #1E262B;
+            --stone: #5E6B71;
+            --rule: #D5DBD9;
+            --tide: #0065BD;
+            --tide-deep: #004E93;
+            --sans: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
+            --mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+            --col: 42rem;
+            --gutter: 1.25rem;
+        }
+
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        html {
+            background: var(--fog);
+            color: var(--ink);
+            font-family: var(--sans);
+            font-size: 17px;
+            line-height: 1.6;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        body {
+            margin: 0;
+        }
+
+        a {
+            color: var(--tide);
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+            text-underline-offset: 0.16em;
+        }
+
+        a:hover {
+            color: var(--tide-deep);
+        }
+
+        :focus-visible {
+            outline: 2px solid var(--tide);
+            outline-offset: 3px;
+            border-radius: 2px;
+        }
+
+        code {
+            font-family: var(--mono);
+            font-size: 0.9em;
+        }
+
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            overflow: hidden;
+            clip: rect(0 0 0 0);
+            white-space: nowrap;
+        }
+
+        /* Hero */
+        .hero {
+            text-align: center;
+            padding: 6.5rem var(--gutter) 1.5rem;
+        }
+
+        .hero__title {
+            font-size: clamp(2.75rem, 8vw, 4rem);
+            font-weight: 600;
+            letter-spacing: -0.025em;
+            line-height: 1.02;
+            margin: 0 0 1.1rem;
+        }
+
+        .hero__tagline {
+            font-size: clamp(1.125rem, 2.4vw, 1.375rem);
+            line-height: 1.4;
+            max-width: 36rem;
+            margin: 0 auto 1.4rem;
+            text-wrap: balance;
+        }
+
+        .hero__author {
+            font-size: 1.0625rem;
+            margin: 0 0 0.35rem;
+        }
+
+        .hero__author a {
+            color: inherit;
+        }
+
+        .hero__note {
+            color: var(--stone);
+            font-size: 0.9375rem;
+            margin: 0 0 2.1rem;
+        }
+
+        .hero__links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.6rem;
+            padding: 0;
+            margin: 0;
+            list-style: none;
+        }
+
+        .pill {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            background: var(--ink);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 999px;
+            padding: 0.6rem 1.15rem 0.6rem 1rem;
+            font-size: 0.95rem;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+
+        .pill:hover {
+            background: #34424A;
+            color: #fff;
+        }
+
+        .pill svg {
+            width: 1rem;
+            height: 1rem;
+            flex: none;
+        }
+
+        /* Sections */
+        .section {
+            max-width: var(--col);
+            margin: 0 auto;
+            padding: 3.25rem var(--gutter) 0;
+        }
+
+        .section__title {
+            text-align: center;
+            font-size: 1.75rem;
+            font-weight: 600;
+            letter-spacing: -0.015em;
+            line-height: 1.2;
+            margin: 0 0 1.4rem;
+        }
+
+        .section p {
+            margin: 0;
+        }
+
+        .subhead {
+            font-size: 1.0625rem;
+            font-weight: 600;
+            margin: 1.75rem 0 0.6rem;
+        }
+
+        .subhead:first-of-type {
+            margin-top: 0;
+        }
+
+        /* Tables */
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9375rem;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .table th,
+        .table td {
+            text-align: left;
+            padding: 0.55rem 0;
+            border-bottom: 1px solid var(--rule);
+            vertical-align: middle;
+        }
+
+        .table th {
+            font-weight: 500;
+            color: var(--stone);
+        }
+
+        .table td+td,
+        .table th+th {
+            padding-left: 1.25rem;
+        }
+
+        .table .num {
+            text-align: right;
+            white-space: nowrap;
+        }
+
+        .table .bar-cell {
+            width: 45%;
+        }
+
+        .bar {
+            display: block;
+            height: 0.5rem;
+            min-width: 2px;
+            background: var(--tide);
+            border-radius: 2px;
+        }
+
+        .table--glance th {
+            width: 60%;
+        }
+
+        .table--glance td {
+            text-align: right;
+        }
+
+        .table-note {
+            color: var(--stone);
+            font-size: 0.875rem;
+            margin: 0.75rem 0 0;
+        }
+
+        /* Footer */
+        .footer {
+            max-width: var(--col);
+            margin: 4rem auto 0;
+            padding: 1.75rem var(--gutter) 3.5rem;
+            border-top: 1px solid var(--rule);
+            color: var(--stone);
+            font-size: 0.875rem;
+            line-height: 1.6;
+        }
+
+        .footer p {
+            margin: 0 0 0.6rem;
+        }
+
+        .footer p:last-child {
+            margin-bottom: 0;
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding-top: 4.5rem;
+            }
+
+            .table .bar-cell {
+                width: 32%;
+            }
+
+            .table td+td,
+            .table th+th {
+                padding-left: 0.75rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <header class="hero">
+        <h1 class="hero__title">Tingmál</h1>
+        <p class="hero__tagline">Documents, acts and proceedings of Løgtingið, the Faroese parliament, encoded as TEI/XML with a sentence-level JSONL export.</p>
+        <p class="hero__author"><a href="https://github.com/hoegnason">Rani Høgnason Hansen</a></p>
+        <p class="hero__note">An unofficial dataset. Not a publication of Løgtingið.</p>
+        <ul class="hero__links">
+            <li>
+                <a class="pill" href="https://github.com/hoegnason/tingmal">
+                    <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M5.5 4 2 8l3.5 4M10.5 4 14 8l-3.5 4" />
+                    </svg>
+                    Code
+                </a>
+            </li>
+            <li>
+                <a class="pill" href="https://creativecommons.org/licenses/by/4.0/">
+                    <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                        <path d="M4 1.5h5l3.5 3.5v9.5H4z" />
+                        <path d="M9 1.5V5h3.5M6 8.5h4M6 11h4" />
+                    </svg>
+                    CC BY 4.0
+                </a>
+            </li>
+        </ul>
+    </header>
+    <div class="section">
+        <p>Tingmál collects parliamentary questions, legislative proposals, laws, committee reports, decisions and coalition agreements from Løgtingið and encodes each one as a TEI P5 XML document, with every sentence carrying a stable identifier and a language tag. <code>sentences.jsonl</code> is the deduplicated set of all Faroese sentences, one JSON object per line, intended for text mining, parliamentary analytics, search experiments and Faroese language modelling.</p>
+    </div>
+    <section class="section">
+        <h2 class="section__title">Statistics</h2>
+        <h3 class="subhead">The sentence file at a glance</h3>
+        <table class="table table--glance">
+            <tbody>
+                <tr>
+                    <th scope="row">Sentences</th>
+                    <td>146,154</td>
+                </tr>
+                <tr>
+                    <th scope="row">Tokens, split on whitespace</th>
+                    <td>3,125,792</td>
+                </tr>
+                <tr>
+                    <th scope="row">Types, unique tokens, case-folded</th>
+                    <td>157,333</td>
+                </tr>
+                <tr>
+                    <th scope="row">Median sentence length</th>
+                    <td>19 tokens</td>
+                </tr>
+                <tr>
+                    <th scope="row">5th to 95th percentile</th>
+                    <td>7 to 43 tokens</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3 class="subhead">Sentences by decade</h3>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">Decade</th>
+                    <th scope="col" class="num">Sentences</th>
+                    <th scope="col" class="num">Share</th>
+                    <th scope="col" class="bar-cell"><span class="visually-hidden">Share, as a bar</span></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1990s</td>
+                    <td class="num">13,090</td>
+                    <td class="num">8.96%</td>
+                    <td class="bar-cell"><span class="bar" style="width:18.95%"></span></td>
+                </tr>
+                <tr>
+                    <td>2000s</td>
+                    <td class="num">16,257</td>
+                    <td class="num">11.12%</td>
+                    <td class="bar-cell"><span class="bar" style="width:23.51%"></span></td>
+                </tr>
+                <tr>
+                    <td>2010s</td>
+                    <td class="num">39,379</td>
+                    <td class="num">26.94%</td>
+                    <td class="bar-cell"><span class="bar" style="width:56.97%"></span></td>
+                </tr>
+                <tr>
+                    <td>2020s</td>
+                    <td class="num">69,113</td>
+                    <td class="num">47.29%</td>
+                    <td class="bar-cell"><span class="bar" style="width:100%"></span></td>
+                </tr>
+            </tbody>
+        </table>
+        <p class="table-note">The remaining 5.7% of sentences are undated or from before 1990.</p>
+    </section>
+    <footer class="footer">
+        <p>Tingmál is released under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Source material is used under §9 (public documents) and §27 (public debate) of the Faroese Copyright Act; see each document's header for its original source. The dataset is provided as is, without warranties, and its maintainers are not affiliated with Løgtingið.</p>
+        <p>Page layout adapted from the <a href="https://nerfies.github.io">Nerfies</a> project page.</p>
+    </footer>
+</body>
+
+</html>
