@@ -373,13 +373,13 @@ The summary below was **computed from `sentences.jsonl`**, a sentence-level JSON
 
 | Metric | Value |
 |---|---|
-| Sentences | 23,945 |
-| Tokens (space-split) | 469,088 |
-| Types (unique tokens, case-folded) | 50,559 |
-| Avg. sentence length (tokens) | 19.59 |
-| Median sentence length (tokens) | 18 |
-| 5-95% sentence length (tokens) | 7-39 |
-| Avg. sentence length (characters) | 127.4 |
+| Sentences | 146,154 |
+| Tokens (space-split) | 3,125,792 |
+| Types (unique tokens, case-folded) | 157,333 |
+| Avg. sentence length (tokens) | 21.39 |
+| Median sentence length (tokens) | 19 |
+| 5-95% sentence length (tokens) | 7-43 |
+| Avg. sentence length (characters) | 139.3 |
 
 
 ### Coverage by Decade
@@ -387,13 +387,17 @@ How the dataset is distributed across different decades:
 
 | Decade | Sentences | % of Total | Tokens | Types | Avg. Length (tokens) | Avg. Length (chars) |
 |---|---|---|---|---|---|---|
-| 1900s | 8 | 0.03% | 137 | 98 | 17.12 | 85.8 |
-| 1940s | 13 | 0.05% | 246 | 151 | 18.92 | 114.2 |
-| 1990s | 785 | 3.28% | 13,487 | 4,196 | 17.18 | 112.8 |
-| 2000s | 1,400 | 5.85% | 27,417 | 7,394 | 19.58 | 127.6 |
-| 2010s | 9,731 | 40.64% | 192,050 | 28,557 | 19.74 | 128.7 |
-| 2020s | 11,319 | 47.27% | 221,287 | 28,276 | 19.55 | 127.0 |
-| Unknown | 689 | 2.88% | 14,464 | 3,442 | 20.99 | 133.8 |
+| 1900s | 8 | 0.01% | 137 | 98 | 17.12 | 85.8 |
+| 1930s | 617 | 0.42% | 14,060 | 4,348 | 22.79 | 137.2 |
+| 1940s | 175 | 0.12% | 3,119 | 1,095 | 17.82 | 114.9 |
+| 1950s | 377 | 0.26% | 9,693 | 2,669 | 25.71 | 164.1 |
+| 1970s | 106 | 0.07% | 1,650 | 714 | 15.57 | 100.1 |
+| 1980s | 204 | 0.14% | 4,439 | 1,517 | 21.76 | 138.1 |
+| 1990s | 13,090 | 8.96% | 320,261 | 33,948 | 24.47 | 152.0 |
+| 2000s | 16,257 | 11.12% | 319,975 | 36,460 | 19.68 | 131.1 |
+| 2010s | 39,379 | 26.94% | 812,475 | 64,861 | 20.63 | 134.7 |
+| 2020s | 69,113 | 47.29% | 1,486,891 | 87,062 | 21.51 | 140.3 |
+| Unknown | 6,828 | 4.67% | 153,092 | 19,071 | 22.42 | 150.8 |
 
 
 ### Coverage of Parliamentary Questions
