@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="1970-01-01" />
+        <date when="1970-01-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/ims76axd">Aksel V. Johannesen</persName>
             <roleName>løgmaður</roleName>
           </author>
-          <ref target="" />
+          <ref target=""/>
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2025-03-07">07.03.2025</date>
           <idno type="case-number">25/03010</idno>
@@ -61,15 +60,15 @@
           <cell rend="meta-cell">05.02.2025 og 13.02.2025</cell>
         </row>
       </table>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <ab>
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <ab rend="bold center">Løgtingslóg um broyting í lov om en investeringsfond for Færøerne m.v.</ab>
         <ab rend="center">(Um støðuna hjá grunninum sum almennur grunnur, rentufrítt og avdráttarfrítt lán til P/F</ab>
         <ab rend="center">Vága Floghavn og P/F Suðuroyartunnilin o.a.)</ab>
       </ab>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="chapter" n="0">
       </div>
       <div type="chapter" n="1">
@@ -77,76 +76,76 @@
         <div type="section" n="1.1.">
           <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
           <p>
-            <s xml:lang="fo" cert="high">Íleggingargrunnurin fyri Føroyar varð avhendaður til føroysku myndugleikarnar tann 1. januar 2025.</s>
-            <s xml:lang="fo" cert="high">Í sambandi við, at løgmaður og danski forsætisráðharrin tann 17. januar 2024 undirskrivaðu eitt semjuskjal um, at Íleggingargrunninum skuldi latast føroysku myndugleikunum, greiddi løgmaður frá, at hann ætlaði at nýta helvtina av fænum til nýggja terminalin í Vága Floghavn og hina helvtina til møguligan Suðuroyartunnil.</s>
-            <s xml:lang="fo" cert="high">Løgmaður gjørdi í hesum sambandi greitt, at hann ætlaði at biðja um undirtøku fyri hesum í Løgtinginum.</s>
+            <s xml:lang="fo" cert="high" xml:id="r5t5nkdzll">Íleggingargrunnurin fyri Føroyar varð avhendaður til føroysku myndugleikarnar tann 1. januar 2025.</s>
+            <s xml:lang="fo" cert="high" xml:id="mo4txkfycy">Í sambandi við, at løgmaður og danski forsætisráðharrin tann 17. januar 2024 undirskrivaðu eitt semjuskjal um, at Íleggingargrunninum skuldi latast føroysku myndugleikunum, greiddi løgmaður frá, at hann ætlaði at nýta helvtina av fænum til nýggja terminalin í Vága Floghavn og hina helvtina til møguligan Suðuroyartunnil.</s>
+            <s xml:lang="fo" cert="high" xml:id="pi76yhizfu">Løgmaður gjørdi í hesum sambandi greitt, at hann ætlaði at biðja um undirtøku fyri hesum í Løgtinginum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Talan er um tvær stórar íløgur, sum fara at styrkja infrakervið og búskapin í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Við at veita rentu- og avdráttarfrí lán yvir eitt tíðarskeið fer hetta at spara P/F Vága Floghavn og P/F Suðuroyartunlinum fyri rentuútreiðslur og avdráttir uppá lán, og harvið gera verkætlanirnar fíggjarliga sterkari.</s>
-            <s xml:lang="fo" cert="high">Lánini verða veitt til undirstøðukervisverkætlanir, og sostatt til verkætlanir, sum koma undir endamál grunsins.</s>
+            <s xml:lang="fo" cert="high" xml:id="d2bdpicr34">Talan er um tvær stórar íløgur, sum fara at styrkja infrakervið og búskapin í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xebt5dvkmg">Við at veita rentu- og avdráttarfrí lán yvir eitt tíðarskeið fer hetta at spara P/F Vága Floghavn og P/F Suðuroyartunlinum fyri rentuútreiðslur og avdráttir uppá lán, og harvið gera verkætlanirnar fíggjarliga sterkari.</s>
+            <s xml:lang="fo" cert="high" xml:id="paicnplwy4">Lánini verða veitt til undirstøðukervisverkætlanir, og sostatt til verkætlanir, sum koma undir endamál grunsins.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Sambært galdandi reglum fyri Íleggingargrunnin er tað ikki møguligt hjá nevndini at veita rentu- og avdráttarfrí lán.</s>
-            <s xml:lang="fo" cert="high">Fyri at tryggja, at nevndin í Íleggingargrunninum kann veita rentu- og avdráttarfrí lán, verður mett neyðugt at tryggja lógarheimild til hetta.</s>
-            <s xml:lang="fo" cert="high">Við hesum uppskoti verður tryggjað, at grunnurin fær heimild til at veita rentu- og avdráttarfrí lán til tvær ávísar verkætlanir fyri eitt ávíst avmarkað tíðarskeið.</s>
+            <s xml:lang="fo" cert="high" xml:id="zki4v2oygf">Sambært galdandi reglum fyri Íleggingargrunnin er tað ikki møguligt hjá nevndini at veita rentu- og avdráttarfrí lán.</s>
+            <s xml:lang="fo" cert="high" xml:id="sg6mueecc4">Fyri at tryggja, at nevndin í Íleggingargrunninum kann veita rentu- og avdráttarfrí lán, verður mett neyðugt at tryggja lógarheimild til hetta.</s>
+            <s xml:lang="fo" cert="high" xml:id="gkudvtt2ao">Við hesum uppskoti verður tryggjað, at grunnurin fær heimild til at veita rentu- og avdráttarfrí lán til tvær ávísar verkætlanir fyri eitt ávíst avmarkað tíðarskeið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í sambandi við, at Íleggingargrunnurin nú er avhendaður til føroysku myndugleikarnar, verður tað við hesum lógaruppskotinum samstundis tikin støða til, hvørja støðu grunnurin skal hava í mun til løgtingsfíggjarlógina og landsroknskapin.</s>
-            <s xml:lang="fo" cert="high">Ætlanin er, at grunnurin skal halda fram at vera ein sjálvstøðugur almennur grunnur.</s>
+            <s xml:lang="fo" cert="high" xml:id="uwpjtlbpaw">Í sambandi við, at Íleggingargrunnurin nú er avhendaður til føroysku myndugleikarnar, verður tað við hesum lógaruppskotinum samstundis tikin støða til, hvørja støðu grunnurin skal hava í mun til løgtingsfíggjarlógina og landsroknskapin.</s>
+            <s xml:lang="fo" cert="high" xml:id="i44msgiqcu">Ætlanin er, at grunnurin skal halda fram at vera ein sjálvstøðugur almennur grunnur.</s>
           </p>
         </div>
         <div type="section" n="1.2.">
           <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
           <p>
-            <s xml:lang="fo" cert="high">Galdandi lógargrundarlag fyri Íleggingargrunnin er Lov nr. 28 af 29. januar 1964 om en investeringsfond for Færøerne v.m., sum seinast broytt við lov nr. 1461 av 10. desember 2024.</s>
+            <s xml:lang="fo" cert="high" xml:id="v6gmcsfomr">Galdandi lógargrundarlag fyri Íleggingargrunnin er Lov nr. 28 af 29. januar 1964 om en investeringsfond for Færøerne v.m., sum seinast broytt við lov nr. 1461 av 10. desember 2024.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Íleggingargrunnurin hevur til endamáls at veita lán til íløgur, serliga til størri almennar verkætlanir og líknandi, sambært § 3 í lógini.</s>
-            <s xml:lang="fo" cert="high">Grunnurin kann harumframt veita lán av goldnum rentum og avdráttum til privatar vinnufyritøkur, umframt til feløg ella felagsskapir við alment gagnligum endamálum, um tað ikki eydnast at fáa nóg mikið av fígging frá øðrum lánveitarum, og tá hetta kann metast at gagna føroyska vinnulívinum sum heild.</s>
+            <s xml:lang="fo" cert="high" xml:id="thyzt5nlyw">Íleggingargrunnurin hevur til endamáls at veita lán til íløgur, serliga til størri almennar verkætlanir og líknandi, sambært § 3 í lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="kxkfzouwhf">Grunnurin kann harumframt veita lán av goldnum rentum og avdráttum til privatar vinnufyritøkur, umframt til feløg ella felagsskapir við alment gagnligum endamálum, um tað ikki eydnast at fáa nóg mikið av fígging frá øðrum lánveitarum, og tá hetta kann metast at gagna føroyska vinnulívinum sum heild.</s>
           </p>
           <div type="subsection">
             <head rend="italic">Lánivirksemi</head>
             <p>
-              <s xml:lang="fo" cert="high">Grunnurin hevur serliga verið nýttur til at fíggja útbygging av føroyska undirstøðukervninum.</s>
-              <s xml:lang="fo" cert="high">Fyrstu árini veitti grunnurin fígging til útbygging av el-netinum (vatnorku), fjarskiftiskervinum og vegakervinum.</s>
-              <s xml:lang="fo" cert="high">Síðan aldarskiftið hevur Íleggingargrunnurin veitt lán til fýra undirsjóvartunlar, umframt til undirstøðukervið, ið skal stuðla undir m.a. ferðavinnuna, eitt nú til flogfør og hotell.</s>
-              <s xml:lang="fo" cert="high">Seinnu árini hevur grunnurin fíggjað eina vindmyllulund sum liður í grøna orkuskiftinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="imazpxo7r2">Grunnurin hevur serliga verið nýttur til at fíggja útbygging av føroyska undirstøðukervninum.</s>
+              <s xml:lang="fo" cert="high" xml:id="yqcugy7qh6">Fyrstu árini veitti grunnurin fígging til útbygging av el-netinum (vatnorku), fjarskiftiskervinum og vegakervinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="wksexxylhq">Síðan aldarskiftið hevur Íleggingargrunnurin veitt lán til fýra undirsjóvartunlar, umframt til undirstøðukervið, ið skal stuðla undir m.a. ferðavinnuna, eitt nú til flogfør og hotell.</s>
+              <s xml:lang="fo" cert="high" xml:id="qjoch3jdrw">Seinnu árini hevur grunnurin fíggjað eina vindmyllulund sum liður í grøna orkuskiftinum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="italic">Nærri reglur um virksemið hjá Íleggingargrunninum</head>
             <p>
-              <s xml:lang="fo" cert="high">Nærri reglur um virksemið hjá Íleggingargrunninum eru ásettar í kunngerð nr. 119 frá 23. oktober 1996.</s>
-              <s xml:lang="fo" cert="high">Áseting av lánsupphædd, afturgjaldingar- og rentutreytum skal gerast við fyriliti fyri nýtsluni av láninum og umstøðunum annars, herímillum treytirnar fyri lánum aðrastaðni sbrt. § 4, stk. 2.</s>
+              <s xml:lang="fo" cert="high" xml:id="uyhfait4lv">Nærri reglur um virksemið hjá Íleggingargrunninum eru ásettar í kunngerð nr. 119 frá 23. oktober 1996.</s>
+              <s xml:lang="fo" cert="high" xml:id="q5nbfzi6dp">Áseting av lánsupphædd, afturgjaldingar- og rentutreytum skal gerast við fyriliti fyri nýtsluni av láninum og umstøðunum annars, herímillum treytirnar fyri lánum aðrastaðni sbrt. § 4, stk. 2.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lán úr grunninum verða veitt við støði í marknaðarrentu (Cibor 3) og einum marginali, ið tilsamans vanliga liggur á leið á sama støði sum onnur sambærlig fígging.</s>
-              <s xml:lang="fo" cert="high">Einstøk lán eru veitt við fastari rentu við støði í marknaðarrentuni.</s>
-              <s xml:lang="fo" cert="high">Sum heimildin er nú, er tað ikki møguligt at veita lán, sum eru rentufrí.</s>
+              <s xml:lang="fo" cert="high" xml:id="yinnb4a5g3">Lán úr grunninum verða veitt við støði í marknaðarrentu (Cibor 3) og einum marginali, ið tilsamans vanliga liggur á leið á sama støði sum onnur sambærlig fígging.</s>
+              <s xml:lang="fo" cert="high" xml:id="diflnrgyff">Einstøk lán eru veitt við fastari rentu við støði í marknaðarrentuni.</s>
+              <s xml:lang="fo" cert="high" xml:id="hctjyy3vzo">Sum heimildin er nú, er tað ikki møguligt at veita lán, sum eru rentufrí.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sambært seinasta fyriliggjandi ársroknskapi (sí fylgiskjal 2) hevði Íleggingargrunnurin við ársenda 2023 eina eginogn á 682 mió. kr.</s>
-              <s xml:lang="fo" cert="high">Roknskapurin fyri 2024, sum væntandi verður tøkur í mars 2025, verður væntandi við einari eginogn omanfyri 700 mió. kr. við ársenda 2024.</s>
+              <s xml:lang="fo" cert="high" xml:id="w56xzlufzg">Sambært seinasta fyriliggjandi ársroknskapi (sí fylgiskjal 2) hevði Íleggingargrunnurin við ársenda 2023 eina eginogn á 682 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="ap2g3pv7yl">Roknskapurin fyri 2024, sum væntandi verður tøkur í mars 2025, verður væntandi við einari eginogn omanfyri 700 mió. kr. við ársenda 2024.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sambært upplýsingum frá grunninum hevur hann við ársbyrjan 2025 sjey virkin lán á tilsamans 343 mió. kr., umframt tilsøgn um eitt lán á 100 mió. kr., sum verður virkið í 2026.</s>
-              <s xml:lang="fo" cert="high">Eitt yvirlit yvir útlán og gjaldføri hjá grunninum, grundað á fyriliggjandi lán og tilsagnir, sæst í fylgiskjali 3.</s>
-              <s xml:lang="fo" cert="high">Sambært yvirlitinum er gjaldførið hjá grunninum 388 mió. kr. við ársbyrjan 2025 og fer fram til ársbyrjan 2035 at hækka til 696 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="r6vlboifki">Sambært upplýsingum frá grunninum hevur hann við ársbyrjan 2025 sjey virkin lán á tilsamans 343 mió. kr., umframt tilsøgn um eitt lán á 100 mió. kr., sum verður virkið í 2026.</s>
+              <s xml:lang="fo" cert="high" xml:id="iohta3aus4">Eitt yvirlit yvir útlán og gjaldføri hjá grunninum, grundað á fyriliggjandi lán og tilsagnir, sæst í fylgiskjali 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="m3jebt466g">Sambært yvirlitinum er gjaldførið hjá grunninum 388 mió. kr. við ársbyrjan 2025 og fer fram til ársbyrjan 2035 at hækka til 696 mió. kr.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Grundað á omanfyrinevndu treytir hevur grunnurin sostatt ikki rúm til at veita lán upp til 700 mió. kr. tey fyrstu 10 árini.</s>
-              <s xml:lang="fo" cert="high">Tó ber til at avhenda/selja verandi lán til aðrar fíggjarligar aktørar fyri at útvega gjaldføri, ið kann nýtast til útlán til P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
-              <s xml:lang="fo" cert="high">Í sambandi við sølu av lánum kann grunnurin verða fyri einum kurstapi, men treytað av marknaðarstøðuni tá, kann hann eisini fáa ein vinning.</s>
-              <s xml:lang="fo" cert="high">Nevndin í grunninum fer at taka avgerð um møguliga sølu av lánum.</s>
+              <s xml:lang="fo" cert="high" xml:id="sqfotrusaa">Grundað á omanfyrinevndu treytir hevur grunnurin sostatt ikki rúm til at veita lán upp til 700 mió. kr. tey fyrstu 10 árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="ho7e6ru5jv">Tó ber til at avhenda/selja verandi lán til aðrar fíggjarligar aktørar fyri at útvega gjaldføri, ið kann nýtast til útlán til P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
+              <s xml:lang="fo" cert="high" xml:id="ta54po4nbs">Í sambandi við sølu av lánum kann grunnurin verða fyri einum kurstapi, men treytað av marknaðarstøðuni tá, kann hann eisini fáa ein vinning.</s>
+              <s xml:lang="fo" cert="high" xml:id="jni27ouxf5">Nevndin í grunninum fer at taka avgerð um møguliga sølu av lánum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við avgerðini um at veita rentu- og avdráttarfrí lán til P/F Vága Floghavn og P/F Suðuroyartunnilin fer grunnurin í eina tíð ikki at hava inntøkur og í avmarkaðan mun útreiðslur til rakstur.</s>
-              <s xml:lang="fo" cert="high">Hetta merkir eisini, at grunnurin í eina tíð ikki fer at kunna veita lán til aðrar verkætlanir, og tá grunnurin seinni fær inntøkur aftur, fer hann at hava minni møguleika fyri útlánum, enn um hann ikki hevði veitt omanfyrinevndu lán.</s>
+              <s xml:lang="fo" cert="high" xml:id="enlpqakgte">Við avgerðini um at veita rentu- og avdráttarfrí lán til P/F Vága Floghavn og P/F Suðuroyartunnilin fer grunnurin í eina tíð ikki at hava inntøkur og í avmarkaðan mun útreiðslur til rakstur.</s>
+              <s xml:lang="fo" cert="high" xml:id="f2eb6mtv2w">Hetta merkir eisini, at grunnurin í eina tíð ikki fer at kunna veita lán til aðrar verkætlanir, og tá grunnurin seinni fær inntøkur aftur, fer hann at hava minni møguleika fyri útlánum, enn um hann ikki hevði veitt omanfyrinevndu lán.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Tað, at lánini ikki verða rentuberandi í fleiri ár, ber eisini við sær, at fíggjarliga grundarlagið hjá grunninum í roynd og veru verður skert.</s>
-              <s xml:lang="fo" cert="high">Talan er ikki um eina niðurkapitalisering av grunninum, men í veruleikanum er talan um eina minking av kapitalinum hjá grunninum, tí útlánini ikki fara at beru rentu í eitt tíðarskeið.</s>
+              <s xml:lang="fo" cert="high" xml:id="nfobf3xkxy">Tað, at lánini ikki verða rentuberandi í fleiri ár, ber eisini við sær, at fíggjarliga grundarlagið hjá grunninum í roynd og veru verður skert.</s>
+              <s xml:lang="fo" cert="high" xml:id="orxpx4y4jx">Talan er ikki um eina niðurkapitalisering av grunninum, men í veruleikanum er talan um eina minking av kapitalinum hjá grunninum, tí útlánini ikki fara at beru rentu í eitt tíðarskeið.</s>
             </p>
           </div>
         </div>
@@ -155,86 +154,86 @@
           <div type="subsection">
             <head rend="italic">Íleggingargrunnurin sjálvstøðugur almennur grunnur</head>
             <p>
-              <s xml:lang="fo" cert="high">Í sambandi við, at Íleggingargrunnurin er avhendaður til føroysku myndugleikarnar, verður tað við hesum lógaruppskotinum samstundis tikin støða til, hvørja støðu grunnurin skal hava í mun til løgtingsfíggjarlógina og landsroknskapin.</s>
-              <s xml:lang="fo" cert="high">Ætlanin er, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur.</s>
-              <s xml:lang="fo" cert="high">Virksemi grunsins verður ikki tikið við á fíggjarlógina, men roknskapurin hjá grunnunum verður tikin við sum eksternur grunnur í landsroknskapinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="irurkf4ykq">Í sambandi við, at Íleggingargrunnurin er avhendaður til føroysku myndugleikarnar, verður tað við hesum lógaruppskotinum samstundis tikin støða til, hvørja støðu grunnurin skal hava í mun til løgtingsfíggjarlógina og landsroknskapin.</s>
+              <s xml:lang="fo" cert="high" xml:id="ybw72b7ne6">Ætlanin er, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur.</s>
+              <s xml:lang="fo" cert="high" xml:id="v4aje3xkbn">Virksemi grunsins verður ikki tikið við á fíggjarlógina, men roknskapurin hjá grunnunum verður tikin við sum eksternur grunnur í landsroknskapinum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="italic">Heimild til rentu- og avdrátturfri lán</head>
             <p>
-              <s xml:lang="fo" cert="high">Tvær stórar útbyggingar av undirstøðukervinum eru í gongd ella standa til at verða settar í verk innan stutta tíð.</s>
-              <s xml:lang="fo" cert="high">Talan er ávikavist um útbygging av Vága Floghavn (uml. 1,4 mia. kr.), sum longu er í gongd, og gerð av einum komandi Suðuroyartunli (uml. 4 mia. kr.).</s>
+              <s xml:lang="fo" cert="high" xml:id="orhdnyprkd">Tvær stórar útbyggingar av undirstøðukervinum eru í gongd ella standa til at verða settar í verk innan stutta tíð.</s>
+              <s xml:lang="fo" cert="high" xml:id="o6hio264kt">Talan er ávikavist um útbygging av Vága Floghavn (uml. 1,4 mia. kr.), sum longu er í gongd, og gerð av einum komandi Suðuroyartunli (uml. 4 mia. kr.).</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í sambandi við verkætlanirnar er neyðugt at upptaka lán til fíggingina av verkætlanunum, og í hesum sambandi fer tað at gera fíggingina bíligari, og verkætlanirnar fíggjarliga meira haldførar, um Íleggingargrunnurin kann veita rentu- og avdráttarfrí lán í ávís neyvari tíðarskeið.</s>
+              <s xml:lang="fo" cert="high" xml:id="flw7oodrmx">Í sambandi við verkætlanirnar er neyðugt at upptaka lán til fíggingina av verkætlanunum, og í hesum sambandi fer tað at gera fíggingina bíligari, og verkætlanirnar fíggjarliga meira haldførar, um Íleggingargrunnurin kann veita rentu- og avdráttarfrí lán í ávís neyvari tíðarskeið.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sambært galdandi reglugerð fyri virksemið hjá grunninum, hevur grunnurin ikki møguleika at veita rentu- og avdráttarfrí lán, men veitir lán við vanligum marknaðartreytum, sambært § 4, stk. 2 í galdandi kunngerð, kunngerð nr. 119 frá 23. oktober 1996 um virksemið hjá Íleggingargrunninum fyri Føroyar.</s>
-              <s xml:lang="fo" cert="high">Tí er neyðugt at fáa heimild til rentu- og avdráttarfrí lán við løgtingslóg.</s>
+              <s xml:lang="fo" cert="high" xml:id="ckuruaehfh">Sambært galdandi reglugerð fyri virksemið hjá grunninum, hevur grunnurin ikki møguleika at veita rentu- og avdráttarfrí lán, men veitir lán við vanligum marknaðartreytum, sambært § 4, stk. 2 í galdandi kunngerð, kunngerð nr. 119 frá 23. oktober 1996 um virksemið hjá Íleggingargrunninum fyri Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="wxpbgd4xg7">Tí er neyðugt at fáa heimild til rentu- og avdráttarfrí lán við løgtingslóg.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Tá ið tey rentu- og avdráttarfríu tíðarskeiðini eru farin, skulu lánini gjaldast aftur, og rentur verða álagdar sambært vanligum treytum.</s>
-              <s xml:lang="fo" cert="high">Um fíggjarliga støðan hjá feløgunum loyvir tí, kunnu tey gera avtalu við nevndina hjá grunninum um at afturrinda lánini, áðrenn tað annars er ásett í lánstreytunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="qm3enftq7s">Tá ið tey rentu- og avdráttarfríu tíðarskeiðini eru farin, skulu lánini gjaldast aftur, og rentur verða álagdar sambært vanligum treytum.</s>
+              <s xml:lang="fo" cert="high" xml:id="zc3bfgwlkn">Um fíggjarliga støðan hjá feløgunum loyvir tí, kunnu tey gera avtalu við nevndina hjá grunninum um at afturrinda lánini, áðrenn tað annars er ásett í lánstreytunum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="italic">P/F Vága Floghavn</head>
             <p>
-              <s xml:lang="fo" cert="high">P/F Vága Floghavn er at meta sum kritiskt infrakervi í Føroyum og hevur avgerandi týdning fyri okkara samband við útheimin, eins og flogvøllurin hevur avgerandi týdning fyri vaksandi ferða- og frálandavinnuna.</s>
-              <s xml:lang="fo" cert="high">Haraftrat er flogvøllurin ein avgerandi liður í tilbúgvingini fyri Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="b5p3qpi2y3">P/F Vága Floghavn er at meta sum kritiskt infrakervi í Føroyum og hevur avgerandi týdning fyri okkara samband við útheimin, eins og flogvøllurin hevur avgerandi týdning fyri vaksandi ferða- og frálandavinnuna.</s>
+              <s xml:lang="fo" cert="high" xml:id="yvjutzehhz">Haraftrat er flogvøllurin ein avgerandi liður í tilbúgvingini fyri Føroyar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Farstøðin hjá Vága Floghavn varð tikin í nýtslu í juni 2014 og varð í síni tíð teknað og bygd til at kunna taka ímóti 400.000 ferðandi árliga.</s>
-              <s xml:lang="fo" cert="high">Harumframt varð hon bygd til at avgreiða flogfør, sum eru helvtina til støddar í mun til tey, ið nú dagliga lenda á flogvøllinum.</s>
-              <s xml:lang="fo" cert="high">Talan er um eina stóra útbyggingarætlan í vavi – frá verandi 3.000-4.000 m2 upp á 13.000-14.000 m2.</s>
+              <s xml:lang="fo" cert="high" xml:id="dmyrwmpr67">Farstøðin hjá Vága Floghavn varð tikin í nýtslu í juni 2014 og varð í síni tíð teknað og bygd til at kunna taka ímóti 400.000 ferðandi árliga.</s>
+              <s xml:lang="fo" cert="high" xml:id="oe56vyiyxv">Harumframt varð hon bygd til at avgreiða flogfør, sum eru helvtina til støddar í mun til tey, ið nú dagliga lenda á flogvøllinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="comtv2g5ji">Talan er um eina stóra útbyggingarætlan í vavi – frá verandi 3.000-4.000 m2 upp á 13.000-14.000 m2.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Ferðafólkatalið er økt nógv seinastu árini í mun til, hvat flogvøllurin varð bygdur til at kunna hýsa.</s>
-              <s xml:lang="fo" cert="high">Talið hevur sostatt seinnu árini ligið omanfyri 400.000 árliga, og karmarnir eru í verandi støðu longu vorðnir ov trongir – eisini í mun til talið á persónum í farstøðini, tá fleiri flogfør skulu avgreiðast samstundis.</s>
-              <s xml:lang="fo" cert="high">Av hesi orsøk hevur P/F Vága Floghavn gjørt eina heildarætlan, har væntaða ferðslan tekur atlit at íløgunum, ið eru neyðugar at gera, fyri at tryggja framtíðarhaldføri í rakstrinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="afndpl6rsi">Ferðafólkatalið er økt nógv seinastu árini í mun til, hvat flogvøllurin varð bygdur til at kunna hýsa.</s>
+              <s xml:lang="fo" cert="high" xml:id="pebm6yizmj">Talið hevur sostatt seinnu árini ligið omanfyri 400.000 árliga, og karmarnir eru í verandi støðu longu vorðnir ov trongir – eisini í mun til talið á persónum í farstøðini, tá fleiri flogfør skulu avgreiðast samstundis.</s>
+              <s xml:lang="fo" cert="high" xml:id="r235bn7do7">Av hesi orsøk hevur P/F Vága Floghavn gjørt eina heildarætlan, har væntaða ferðslan tekur atlit at íløgunum, ið eru neyðugar at gera, fyri at tryggja framtíðarhaldføri í rakstrinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hóvligar framskrivingar frá 2022 vísa, at væntast kann, at komið verður upp um eina millión ferðandi – tað er komandi og farandi ferðafólk tilsamans - innan næstu 15-20 árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="tj7ogbnamr">Hóvligar framskrivingar frá 2022 vísa, at væntast kann, at komið verður upp um eina millión ferðandi – tað er komandi og farandi ferðafólk tilsamans - innan næstu 15-20 árini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Vaksandi virksemið á flogvøllinum hevur við sær, at tørvur ikki einans er á at byggja størri farstøð.</s>
-              <s xml:lang="fo" cert="high">Aðrar íløgur eru somuleiðis átrokandi, og fíggjarliga orkan hjá P/F Vága Floghavn til so stórar langtíðar íløgur í infrakervið, er avmarkað.</s>
-              <s xml:lang="fo" cert="high">Hetta ávirkast eisini av, at íløgurnar á flogvøllinum eru samansettar av inntøkuskapandi íløgum og ikki-inntøkuskapandi íløgum.</s>
-              <s xml:lang="fo" cert="high">Sum dømi kann nevnast, at eitt nú lendisvíðkan og lendisarbeiðir og útskifting av asfalti á flogbreyt o.a. eru ikki-inntøkuskapandi íløgur, mótvegis íløgunum í farstøð, farmahøll o.l., sum eru inntøkuskapandi íløgur.</s>
+              <s xml:lang="fo" cert="high" xml:id="brp53py4lg">Vaksandi virksemið á flogvøllinum hevur við sær, at tørvur ikki einans er á at byggja størri farstøð.</s>
+              <s xml:lang="fo" cert="high" xml:id="vtqflv5prs">Aðrar íløgur eru somuleiðis átrokandi, og fíggjarliga orkan hjá P/F Vága Floghavn til so stórar langtíðar íløgur í infrakervið, er avmarkað.</s>
+              <s xml:lang="fo" cert="high" xml:id="vth775kxgz">Hetta ávirkast eisini av, at íløgurnar á flogvøllinum eru samansettar av inntøkuskapandi íløgum og ikki-inntøkuskapandi íløgum.</s>
+              <s xml:lang="fo" cert="high" xml:id="jmndvbrxpp">Sum dømi kann nevnast, at eitt nú lendisvíðkan og lendisarbeiðir og útskifting av asfalti á flogbreyt o.a. eru ikki-inntøkuskapandi íløgur, mótvegis íløgunum í farstøð, farmahøll o.l., sum eru inntøkuskapandi íløgur.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">P/F Vága Floghavn hevur yvirskipað ætlaðar íløgur fyri 750 mió. kr. komandi árini.</s>
-              <s xml:lang="fo" cert="high">Harumframt skal farstøðin byggjast út fyri 600-700 mió. kr. fyri at fylgja við økta tørvinum í framtíðini.</s>
-              <s xml:lang="fo" cert="high">Útbyggingin er í løtuni væntað at verða liðug summarið 2029, um alt gongur eftir ætlan.</s>
+              <s xml:lang="fo" cert="high" xml:id="xkag7f5krd">P/F Vága Floghavn hevur yvirskipað ætlaðar íløgur fyri 750 mió. kr. komandi árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="hsw4kmgh23">Harumframt skal farstøðin byggjast út fyri 600-700 mió. kr. fyri at fylgja við økta tørvinum í framtíðini.</s>
+              <s xml:lang="fo" cert="high" xml:id="zfyaiwurp5">Útbyggingin er í løtuni væntað at verða liðug summarið 2029, um alt gongur eftir ætlan.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Mett verður, at um til ber at útvega lagaligar fíggingartreytir til helvtina av íløguni í nýggju farstøðini, umleið 350 mió. kr., klárar felagið at fíggja hinar neyðugu íløgurnar, uttan at tað gerst neyðugt við óvanligum hækkingum av ferðaavgjøldum, ið kunnu tarna menningini av ferðavinnuni, eins og av frálandavinnuni.</s>
-              <s xml:lang="fo" cert="high">Neyðugt verður tó framvegis við vanligum prístalshækkingum, eins og gjørt verður á flogvøllum í londunum kring okkum.</s>
+              <s xml:lang="fo" cert="high" xml:id="wc4ekeninj">Mett verður, at um til ber at útvega lagaligar fíggingartreytir til helvtina av íløguni í nýggju farstøðini, umleið 350 mió. kr., klárar felagið at fíggja hinar neyðugu íløgurnar, uttan at tað gerst neyðugt við óvanligum hækkingum av ferðaavgjøldum, ið kunnu tarna menningini av ferðavinnuni, eins og av frálandavinnuni.</s>
+              <s xml:lang="fo" cert="high" xml:id="e3ekl534uk">Neyðugt verður tó framvegis við vanligum prístalshækkingum, eins og gjørt verður á flogvøllum í londunum kring okkum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sambært tíðarætlanini fyri verkætlanina verður tørvur á fígging, annaðhvørt í ár ella tíðliga í 2026.</s>
-              <s xml:lang="fo" cert="high">Vága Floghavn metir tað vera ein fyritreyt fyri, hvørt verkætlanin kann fremjast, at fíggingin frá Íleggingargrunninum í form av einum rentu- og avdráttarfríum láni í 10 ár verður tryggjað sum tað fyrsta, tí hetta verður mett at vera ein treyt fyri at útvega hina fíggingina.</s>
+              <s xml:lang="fo" cert="high" xml:id="w7kwielhuw">Sambært tíðarætlanini fyri verkætlanina verður tørvur á fígging, annaðhvørt í ár ella tíðliga í 2026.</s>
+              <s xml:lang="fo" cert="high" xml:id="f7x25o5euf">Vága Floghavn metir tað vera ein fyritreyt fyri, hvørt verkætlanin kann fremjast, at fíggingin frá Íleggingargrunninum í form av einum rentu- og avdráttarfríum láni í 10 ár verður tryggjað sum tað fyrsta, tí hetta verður mett at vera ein treyt fyri at útvega hina fíggingina.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Metingarnar viðvíkjandi verkætlanini eru frá 2022, og eru tískil ávísar óvissur knýttar at kostnaðarmetingini.</s>
-              <s xml:lang="fo" cert="high">Vága Floghavn hevur sett eina verkætlanarkapping í gongd, ið verður liðug í mai 2025.</s>
-              <s xml:lang="fo" cert="high">Tá verður farið víðari við at gera útbjóðingartilfar og bjóða útbyggingarnar út.</s>
-              <s xml:lang="fo" cert="high">Ikki fyrr enn eftir hetta ber til neyvari at meta, hvør endaligi kostnaðurin fer at verða, og harvið eisini hvussu stórur lánstørvurin verður.</s>
+              <s xml:lang="fo" cert="high" xml:id="gsc7akhdak">Metingarnar viðvíkjandi verkætlanini eru frá 2022, og eru tískil ávísar óvissur knýttar at kostnaðarmetingini.</s>
+              <s xml:lang="fo" cert="high" xml:id="xro7xov2il">Vága Floghavn hevur sett eina verkætlanarkapping í gongd, ið verður liðug í mai 2025.</s>
+              <s xml:lang="fo" cert="high" xml:id="pqcitcvidg">Tá verður farið víðari við at gera útbjóðingartilfar og bjóða útbyggingarnar út.</s>
+              <s xml:lang="fo" cert="high" xml:id="sqxotvchmh">Ikki fyrr enn eftir hetta ber til neyvari at meta, hvør endaligi kostnaðurin fer at verða, og harvið eisini hvussu stórur lánstørvurin verður.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="italic">P/F Suðuroyartunnilin</head>
             <p>
-              <s xml:lang="fo" cert="high">Hetta lógaruppskotið skal síggjast í sambandi við uppskot til løgtingslóg um Suðuroyartunnilin við tilhoyrandi tunnilskervum og vegakervum, sum hevur til endamáls at samtykkja, at farast skal víðari við ætlanini at fara undir gerð av Suðuroyartunlinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="nfl4yhf4tz">Hetta lógaruppskotið skal síggjast í sambandi við uppskot til løgtingslóg um Suðuroyartunnilin við tilhoyrandi tunnilskervum og vegakervum, sum hevur til endamáls at samtykkja, at farast skal víðari við ætlanini at fara undir gerð av Suðuroyartunlinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Endaliga avgerðin um gerð av Suðuroyartunlinum verður tikin seinni við eini serstakari løgtingslóg, eftir at verkætlanin er liðugt fyrireikað, prosjekterað og tilboðini eru innkomin, umframt at neyvari greiða er fingin á, hvør kostnaðurin gerst av tunlinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="w44lojriah">Endaliga avgerðin um gerð av Suðuroyartunlinum verður tikin seinni við eini serstakari løgtingslóg, eftir at verkætlanin er liðugt fyrireikað, prosjekterað og tilboðini eru innkomin, umframt at neyvari greiða er fingin á, hvør kostnaðurin gerst av tunlinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Tá ið tilboðini eru innkomin, og kostnaðurin fyri tunnilin er komin í eina trygga legu, verður við serstøku løgtingslógini endaliga gjørt av, um prosjektið skal fremjast.</s>
-              <s xml:lang="fo" cert="high">Samstundis verður mett um, hvussu nógvan pening neyðugt er at seta av á fíggjarlógini tey komandi árini fyri at alt skal hanga saman fíggjarliga.</s>
-              <s xml:lang="fo" cert="high">Eisini verður ásett í lógini, hvørjar peningaupphæddir landskassin og onnur skulu læna P/F Suðuroyartunlinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="law6m7zamu">Tá ið tilboðini eru innkomin, og kostnaðurin fyri tunnilin er komin í eina trygga legu, verður við serstøku løgtingslógini endaliga gjørt av, um prosjektið skal fremjast.</s>
+              <s xml:lang="fo" cert="high" xml:id="ism3hryvpy">Samstundis verður mett um, hvussu nógvan pening neyðugt er at seta av á fíggjarlógini tey komandi árini fyri at alt skal hanga saman fíggjarliga.</s>
+              <s xml:lang="fo" cert="high" xml:id="eesojucpel">Eisini verður ásett í lógini, hvørjar peningaupphæddir landskassin og onnur skulu læna P/F Suðuroyartunlinum.</s>
             </p>
             <p>
               <seg xml:lang="fo">Sambært uppskotinum til fíggingarleist, sum er hjálagt uppskotinum til løgtingslóg um Suðuroyartunnilin við tilhoyrandi tunnilskervum og vegakervum, kann ein leistur verða, at tunnilin verður fíggjaður soleiðis:</seg>
@@ -249,46 +248,46 @@
         <div type="section" n="1.4.">
           <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Við hesum lógaruppskotinum verður ásett, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur, og at hann skal virka sum higartil, eftir at hann er latin føroyskum myndugleikum.</s>
+            <s xml:lang="fo" cert="high" xml:id="p5gkcvsujk">Við hesum lógaruppskotinum verður ásett, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur, og at hann skal virka sum higartil, eftir at hann er latin føroyskum myndugleikum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Við hesum lógaruppskotinum verður grundarlag eisini skapt fyri, at Íleggingargrunnurin kann veita rentu- og avdráttarfrítt lán til P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
-            <s xml:lang="fo" cert="high">Fyri P/F Vága Floghavn í upp til 10 ár og fyri P/F Suðuroyartunnilin í upp til 30 ár.</s>
-            <s xml:lang="fo" cert="high">Í mesta lagi 350 mió. kr. kunnu lánast hvørjum av feløgunum rentu- og avdráttarfrítt.</s>
-            <s xml:lang="fo" cert="high">Nærri treytir verða avtalaðar við nevndina í grunninum, undir hesum eisini møguleikin fyri fleiri og styttri lánum enn ávikavist 10 og 30 ár.</s>
+            <s xml:lang="fo" cert="high" xml:id="yoo7mxj2n7">Við hesum lógaruppskotinum verður grundarlag eisini skapt fyri, at Íleggingargrunnurin kann veita rentu- og avdráttarfrítt lán til P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
+            <s xml:lang="fo" cert="high" xml:id="xubklk3b5p">Fyri P/F Vága Floghavn í upp til 10 ár og fyri P/F Suðuroyartunnilin í upp til 30 ár.</s>
+            <s xml:lang="fo" cert="high" xml:id="jqfxgf4dga">Í mesta lagi 350 mió. kr. kunnu lánast hvørjum av feløgunum rentu- og avdráttarfrítt.</s>
+            <s xml:lang="fo" cert="high" xml:id="f3rrrp72fp">Nærri treytir verða avtalaðar við nevndina í grunninum, undir hesum eisini møguleikin fyri fleiri og styttri lánum enn ávikavist 10 og 30 ár.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Við útvegan av lánum til P/F Vága Floghavn og P/F Suðuroyartunnilin, sambært § 4 b og § 4 c í lógaruppskotinum, fer grunnurin í ávís tíðarskeið ikki at hava møguleika at veita onnur lán.</s>
+            <s xml:lang="fo" cert="high" xml:id="wmf4pr7xqr">Við útvegan av lánum til P/F Vága Floghavn og P/F Suðuroyartunnilin, sambært § 4 b og § 4 c í lógaruppskotinum, fer grunnurin í ávís tíðarskeið ikki at hava møguleika at veita onnur lán.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Av tí at tað sambært lógaruppskotinum er ætlanin, at lánini ikki skulu bera rentu í ásettu tíðarskeiðunum, fer grunnurin í ávís tíðarskeið ikki at hava kapitalvinning av hesum útlánum.</s>
-            <s xml:lang="fo" cert="high">Hetta fer eisini at hava við sær, at í eitt ávist tíðarskeið, verður minni kapitalur tøkur til nýggj lán, til lánini, ið eru fevnd av hesum lógaruppskoti, verða afturgoldin.</s>
+            <s xml:lang="fo" cert="high" xml:id="h22y2p5qq3">Av tí at tað sambært lógaruppskotinum er ætlanin, at lánini ikki skulu bera rentu í ásettu tíðarskeiðunum, fer grunnurin í ávís tíðarskeið ikki at hava kapitalvinning av hesum útlánum.</s>
+            <s xml:lang="fo" cert="high" xml:id="c5b7cwouxg">Hetta fer eisini at hava við sær, at í eitt ávist tíðarskeið, verður minni kapitalur tøkur til nýggj lán, til lánini, ið eru fevnd av hesum lógaruppskoti, verða afturgoldin.</s>
           </p>
         </div>
         <div type="section" n="1.5.">
           <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ikki verið í almennari hoyring.</s>
+            <s xml:lang="fo" cert="high" xml:id="brqzhkh4jm">Uppskotið hevur ikki verið í almennari hoyring.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur verið sent beinleiðis til ummælis tann 5. februar 2025 hjá Íleggingargrunninum, P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
+            <s xml:lang="fo" cert="high" xml:id="nfvpsdvzav">Uppskotið hevur verið sent beinleiðis til ummælis tann 5. februar 2025 hjá Íleggingargrunninum, P/F Vága Floghavn og P/F Suðuroyartunnilin.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Stýrið fyri Íleggingargrunnin hevur tann 9. februar 2025 latið inn viðmerkingar til lógaruppskotið, sí fylgiskjal 4.</s>
-            <s xml:lang="fo" cert="high">Stýrið heldur, at tað eigur at vera tilskilað, at stýrið ikki kann ábyrgjast eftir teimum vanligu reglunum fyri tapsváða í sambandi við nevndu lánini í lógaruppskotinum.</s>
-            <s xml:lang="fo" cert="high">Løgmansskrivstovan metir, at um Løgtingið samtykkir hetta lógaruppskotið, so er eisini undirforstaðið, at grunnurin tekur á seg størri váða fyri tapum enn annars, og tí kann stýrið heldur ikki ábyrgjast eftir teimum vanligu reglunum í sambandi við hesi lán.</s>
+            <s xml:lang="fo" cert="high" xml:id="xhzubyzfnf">Stýrið fyri Íleggingargrunnin hevur tann 9. februar 2025 latið inn viðmerkingar til lógaruppskotið, sí fylgiskjal 4.</s>
+            <s xml:lang="fo" cert="high" xml:id="dg6sqirtub">Stýrið heldur, at tað eigur at vera tilskilað, at stýrið ikki kann ábyrgjast eftir teimum vanligu reglunum fyri tapsváða í sambandi við nevndu lánini í lógaruppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="syb7rbvd5q">Løgmansskrivstovan metir, at um Løgtingið samtykkir hetta lógaruppskotið, so er eisini undirforstaðið, at grunnurin tekur á seg størri váða fyri tapum enn annars, og tí kann stýrið heldur ikki ábyrgjast eftir teimum vanligu reglunum í sambandi við hesi lán.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">P/F Vága Floghavn hevur tann 11. februar 2025 latið inn sínar viðmerkingar til lógaruppskotið, sí fylgiskjal 5.</s>
-            <s xml:lang="fo" cert="high">P/F Vága Floghavn hevði nøkur uppskot til tillagingar av viðmerkingunum til lógaruppskotið, sum í stóran mun eru tikin við í uppskotið.</s>
-            <s xml:lang="fo" cert="high">P/F Vága Floghavn hevði harumframt uppskot til nýggjar ásetingar, sum m.a. skuldu áseta meira greitt, nær lánstíðarskeiðið byrjar og endar, og nær P/F Vága Floghavn og P/F Suðuroyartunnil fáa ræðisrætt yvir lánunum.</s>
-            <s xml:lang="fo" cert="high">Løgmansskrivstovan hevur valt ikki at taka hesar ásetingar við, men at lata tað vera upp til stýrið fyri Íleggingargrunnin at áseta nærri reglur, tá ið avtala verður gjørd um møgulig lán.</s>
+            <s xml:lang="fo" cert="high" xml:id="tlfsy3beem">P/F Vága Floghavn hevur tann 11. februar 2025 latið inn sínar viðmerkingar til lógaruppskotið, sí fylgiskjal 5.</s>
+            <s xml:lang="fo" cert="high" xml:id="iijlyiylzm">P/F Vága Floghavn hevði nøkur uppskot til tillagingar av viðmerkingunum til lógaruppskotið, sum í stóran mun eru tikin við í uppskotið.</s>
+            <s xml:lang="fo" cert="high" xml:id="otii7z4asf">P/F Vága Floghavn hevði harumframt uppskot til nýggjar ásetingar, sum m.a. skuldu áseta meira greitt, nær lánstíðarskeiðið byrjar og endar, og nær P/F Vága Floghavn og P/F Suðuroyartunnil fáa ræðisrætt yvir lánunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="nknmqcjnsb">Løgmansskrivstovan hevur valt ikki at taka hesar ásetingar við, men at lata tað vera upp til stýrið fyri Íleggingargrunnin at áseta nærri reglur, tá ið avtala verður gjørd um møgulig lán.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">P/F Suðuroyartunnilin hevði ongar viðmerkingar til lógaruppskotið.</s>
+            <s xml:lang="fo" cert="high" xml:id="nuijdobtud">P/F Suðuroyartunnilin hevði ongar viðmerkingar til lógaruppskotið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Løgmansskrivstovan hevur harumframt áður havt tveir fundir við nevndina fyri Íleggingargrunnin, har møguleikin fyri at veita rentu- og avdráttarfrí lán til P/F Vága Floghavn og P/F Suðuroyartunnilin hevur verið umrøddur.</s>
+            <s xml:lang="fo" cert="high" xml:id="p4kt4abizo">Løgmansskrivstovan hevur harumframt áður havt tveir fundir við nevndina fyri Íleggingargrunnin, har møguleikin fyri at veita rentu- og avdráttarfrí lán til P/F Vága Floghavn og P/F Suðuroyartunnilin hevur verið umrøddur.</s>
           </p>
         </div>
       </div>
@@ -299,142 +298,142 @@
           <div type="subsection">
             <head rend="italic">Fíggjarligar avleiðingar fyri landið</head>
             <p>
-              <s xml:lang="fo" cert="high">Íleggingargrunnurin varð stovnaður við fólkatingslóg nr. 28 frá 29. januar 1964 om en investeringsfond for Færøerne m.v. Danski staturin lat stovnsfæið.</s>
-              <s xml:lang="fo" cert="high">Grunnurin hevur øll árini verið danskur, men hevur lænt fæið út til føroysk endamál.</s>
-              <s xml:lang="fo" cert="high">Eginognin hjá Íleggingargrunninum var 682 mió. kr. við árslok 2023.</s>
+              <s xml:lang="fo" cert="high" xml:id="h42nhvvidi">Íleggingargrunnurin varð stovnaður við fólkatingslóg nr. 28 frá 29. januar 1964 om en investeringsfond for Færøerne m.v. Danski staturin lat stovnsfæið.</s>
+              <s xml:lang="fo" cert="high" xml:id="qpt7cej3v2">Grunnurin hevur øll árini verið danskur, men hevur lænt fæið út til føroysk endamál.</s>
+              <s xml:lang="fo" cert="high" xml:id="upvkm6ram4">Eginognin hjá Íleggingargrunninum var 682 mió. kr. við árslok 2023.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við fólkatingslóg nr. 1461 frá 10. desember 2024 varð Íleggingargrunnurin við virknaði frá 1. januar 2025 latin føroyskum myndugleikum.</s>
-              <s xml:lang="fo" cert="high">Tað hevði við sær, at landskassin nú er eigari av grunninum.</s>
-              <s xml:lang="fo" cert="high">Grunnurin verður tó ikki tikin við í fíggjarlógina og fær tí ikki ávirkan á fíggjarlógina – á sama hátt sum aðrir tílíkir grunnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="sj3cgniawt">Við fólkatingslóg nr. 1461 frá 10. desember 2024 varð Íleggingargrunnurin við virknaði frá 1. januar 2025 latin føroyskum myndugleikum.</s>
+              <s xml:lang="fo" cert="high" xml:id="kxlnniiz4r">Tað hevði við sær, at landskassin nú er eigari av grunninum.</s>
+              <s xml:lang="fo" cert="high" xml:id="vf5mm4jvwd">Grunnurin verður tó ikki tikin við í fíggjarlógina og fær tí ikki ávirkan á fíggjarlógina – á sama hátt sum aðrir tílíkir grunnar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lógaruppskotið gevur grunninum heimild at veita ávísum feløgum rentufrí lán á tilsamans 700 mió. kr.</s>
-              <s xml:lang="fo" cert="high">Heimildin hevur við sær, at feløgini tilsamans sleppa undan at rinda upp til umleið 30 mió. kr. í rentu um árið, um rentan til dømis verður 4,25 prosent og samlaða útlánið er 700 mió. kr.</s>
-              <s xml:lang="fo" cert="high">Lánsveitingin og stuðulin hava ikki ávirkan á fíggjarlógina.</s>
+              <s xml:lang="fo" cert="high" xml:id="r7kbsd4voi">Lógaruppskotið gevur grunninum heimild at veita ávísum feløgum rentufrí lán á tilsamans 700 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="roxw3njlwx">Heimildin hevur við sær, at feløgini tilsamans sleppa undan at rinda upp til umleið 30 mió. kr. í rentu um árið, um rentan til dømis verður 4,25 prosent og samlaða útlánið er 700 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="ofhnuwn6yj">Lánsveitingin og stuðulin hava ikki ávirkan á fíggjarlógina.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="italic">Fíggjarligar avleiðingar fyri kommununar</head>
             <p>
-              <s xml:lang="fo" cert="high">Uppskotið hevur ongar fíggjarligar avleiðingar fyri kommunur.</s>
+              <s xml:lang="fo" cert="high" xml:id="dedcv3cjc5">Uppskotið hevur ongar fíggjarligar avleiðingar fyri kommunur.</s>
             </p>
           </div>
         </div>
         <div type="section" n="2.2.">
           <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ongar umsitingarligar avleiðingar fyri land og kommunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="sarqbgohtg">Uppskotið hevur ongar umsitingarligar avleiðingar fyri land og kommunur.</s>
           </p>
         </div>
         <div type="section" n="2.3.">
           <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
           <p>
-            <s xml:lang="fo" cert="high">Útbyggingin av flogvøllinum í Vágum fer at hava økt virksemi við sær í Vágum, eins og fyri vinnuna í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Økingin av móttøkukapasiteti á flogvøllinum kann væntast at hava økt virksemi við sær, serliga innan ferðavinnuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="p2py6qziwe">Útbyggingin av flogvøllinum í Vágum fer at hava økt virksemi við sær í Vágum, eins og fyri vinnuna í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="j6jjcwu6ji">Økingin av móttøkukapasiteti á flogvøllinum kann væntast at hava økt virksemi við sær, serliga innan ferðavinnuna.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Íleggingargrunnurin veitir vanliga treytir til marknaðarprís.</s>
-            <s xml:lang="fo" cert="high">Væntast kann, at vanligu fíggingarstovnar landsins á sama hátt kunnu veita fígging til møguligar lántakarar í Íleggingargrunninum, sum vegna hesar bindingar ikki kunnu fáa lán úr Íleggingargrunninum í eitt áramál.</s>
+            <s xml:lang="fo" cert="high" xml:id="alss4zelza">Íleggingargrunnurin veitir vanliga treytir til marknaðarprís.</s>
+            <s xml:lang="fo" cert="high" xml:id="rnh45o5frf">Væntast kann, at vanligu fíggingarstovnar landsins á sama hátt kunnu veita fígging til møguligar lántakarar í Íleggingargrunninum, sum vegna hesar bindingar ikki kunnu fáa lán úr Íleggingargrunninum í eitt áramál.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Vága Floghavn rekur tollfría sølu, sum frammanundan hevur ein kappingarfyrimun í mun til vanligar handlar í Føroyum, sum ikki hava møguleika at selja vørur uttan avgjald.</s>
-            <s xml:lang="fo" cert="high">Eitt rentu- og avdráttarfrítt lán bøtir um gjaldførið og møguleikan hjá flogvøllinum at víðka um tollfríu søluna, sum kann geva honum ein eyka fyrimun fram um privatar fyritøkur í Føroyum, ið ikki hava møguleikan at fáa lán undir líknandi treytum.</s>
-            <s xml:lang="fo" cert="high">Økt tollfrí søla, sum stendst av fleiri ferðafólkum, fer hinvegin at elva til øktar inntøkur hjá flogvøllinum og vera við at halda øðrum útreiðslum í sambandi við raksturin av flogvøllinum niðri, eitt nú flogvallargjald.</s>
-            <s xml:lang="fo" cert="high">Hetta fer somuleiðis at geva flogvøllinum ein kappingarfyrimun yvir øðrum flogvøllum og styrkja ferðavinnuna í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Í mun til tollfría sølu er Vága Floghavn fyrst og fremst í kapping við tollfríar sølur á flogvøllum í øðrum londum, sum flogið verður til og frá úr Føroyum.</s>
-            <s xml:lang="fo" cert="high">Tollfría sølan á flogvøllinum er tí við til at tryggja, at fremmand ferðafólk leggja pening eftir seg í Føroyum, og at føroysk ferðafólk brúka peningin í Føroyum, heldur enn á útlendskum tollfríum sølustøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wdjjakv3h3">Vága Floghavn rekur tollfría sølu, sum frammanundan hevur ein kappingarfyrimun í mun til vanligar handlar í Føroyum, sum ikki hava møguleika at selja vørur uttan avgjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="okffgvsrmi">Eitt rentu- og avdráttarfrítt lán bøtir um gjaldførið og møguleikan hjá flogvøllinum at víðka um tollfríu søluna, sum kann geva honum ein eyka fyrimun fram um privatar fyritøkur í Føroyum, ið ikki hava møguleikan at fáa lán undir líknandi treytum.</s>
+            <s xml:lang="fo" cert="high" xml:id="fd3563jade">Økt tollfrí søla, sum stendst av fleiri ferðafólkum, fer hinvegin at elva til øktar inntøkur hjá flogvøllinum og vera við at halda øðrum útreiðslum í sambandi við raksturin av flogvøllinum niðri, eitt nú flogvallargjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="zkn6lcg5rq">Hetta fer somuleiðis at geva flogvøllinum ein kappingarfyrimun yvir øðrum flogvøllum og styrkja ferðavinnuna í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jiuibikdet">Í mun til tollfría sølu er Vága Floghavn fyrst og fremst í kapping við tollfríar sølur á flogvøllum í øðrum londum, sum flogið verður til og frá úr Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="i7ecuaqbmi">Tollfría sølan á flogvøllinum er tí við til at tryggja, at fremmand ferðafólk leggja pening eftir seg í Føroyum, og at føroysk ferðafólk brúka peningin í Føroyum, heldur enn á útlendskum tollfríum sølustøðum.</s>
           </p>
         </div>
         <div type="section" n="2.4.">
           <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ongar avleiðingar fyri umhvørvið.</s>
+            <s xml:lang="fo" cert="high" xml:id="zx2xbk36sg">Lógaruppskotið hevur ongar avleiðingar fyri umhvørvið.</s>
           </p>
         </div>
         <div type="section" n="2.5.">
           <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Útbyggingin av flogvøllinum í Vágum fer at hava økt virksemi við sær í Vágum, eins og fyri heildar- og undirveitarar til verkætlanina í Føroyum og í útlondum.</s>
-            <s xml:lang="fo" cert="high">Økingin av móttøkukapasiteti á flogvøllinum kann væntast at hava økt virksemi við sær innan ferðavinnuna í Vágum, eins og í restini av landinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="x2fhalbdmj">Útbyggingin av flogvøllinum í Vágum fer at hava økt virksemi við sær í Vágum, eins og fyri heildar- og undirveitarar til verkætlanina í Føroyum og í útlondum.</s>
+            <s xml:lang="fo" cert="high" xml:id="sa5uof7fhv">Økingin av móttøkukapasiteti á flogvøllinum kann væntast at hava økt virksemi við sær innan ferðavinnuna í Vágum, eins og í restini av landinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Verður Suðuroyartunnilin bygdur, fer ávirkanin á Suðuroynna væntandi at verða hin sama, sum tá fast samband var gjørt til Vágarnar, Norðoyggjar og Sandoynna.</s>
-            <s xml:lang="fo" cert="high">Væntast kann, at minkingin í fólkatalinum fer at minka, arbeiðsloysið fer at falla og íløgur í t.d. vinnulívið fara at økjast.</s>
-            <s xml:lang="fo" cert="high">Harumframt kann væntast ávirkan á Sandoynna, at koyrandi ferðsla til og úr Suðuroynni verður umvegis Sandoynna.</s>
+            <s xml:lang="fo" cert="high" xml:id="o2yxjdqkze">Verður Suðuroyartunnilin bygdur, fer ávirkanin á Suðuroynna væntandi at verða hin sama, sum tá fast samband var gjørt til Vágarnar, Norðoyggjar og Sandoynna.</s>
+            <s xml:lang="fo" cert="high" xml:id="yvmm7jgjql">Væntast kann, at minkingin í fólkatalinum fer at minka, arbeiðsloysið fer at falla og íløgur í t.d. vinnulívið fara at økjast.</s>
+            <s xml:lang="fo" cert="high" xml:id="igstytv335">Harumframt kann væntast ávirkan á Sandoynna, at koyrandi ferðsla til og úr Suðuroynni verður umvegis Sandoynna.</s>
           </p>
         </div>
         <div type="section" n="2.6.">
           <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið verður ikki mett at hava avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+            <s xml:lang="fo" cert="high" xml:id="bu53zr72s6">Uppskotið verður ikki mett at hava avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
           </p>
         </div>
         <div type="section" n="2.7.">
           <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Eingir kendir millumtjóðasáttmálar eru á økinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="fn6gsxwv3s">Eingir kendir millumtjóðasáttmálar eru á økinum.</s>
           </p>
         </div>
         <div type="section" n="2.8.">
           <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið er ikki í andsøgn við Hoyvíkssáttmálan, Evropeiska mannarættindasáttmálan (EMRS) ella Sáttmála Sameindu Tjóða hjá einstaklingum, ið bera brek.</s>
+            <s xml:lang="fo" cert="high" xml:id="ugzvaak2n4">Uppskotið er ikki í andsøgn við Hoyvíkssáttmálan, Evropeiska mannarættindasáttmálan (EMRS) ella Sáttmála Sameindu Tjóða hjá einstaklingum, ið bera brek.</s>
           </p>
         </div>
         <div type="section" n="2.9.">
           <head rend="bold"><label>2.9.</label> Markaforðingar</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið inniheldur ikki markaforðingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="chjd3jt5pw">Uppskotið inniheldur ikki markaforðingar.</s>
           </p>
         </div>
         <div type="section" n="2.10.">
           <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ongar ásetingar um revsing, fyrisitingarligar sektir ella pantiheimildir, og lógaruppskotið ger ikki onnur størri inntriv í rættindi hjá fólki.</s>
+            <s xml:lang="fo" cert="high" xml:id="ntgl44u437">Lógaruppskotið hevur ongar ásetingar um revsing, fyrisitingarligar sektir ella pantiheimildir, og lógaruppskotið ger ikki onnur størri inntriv í rættindi hjá fólki.</s>
           </p>
         </div>
         <div type="section" n="2.11.">
           <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur eina áseting í § 4 d um, at tann ágóðin, sum fæst av at fáa eitt rentu- og avdráttarfrítt lán frá Íleggingargrunninum, ikki skal verða at rokna sum ein inntøka hjá P/F Vága Floghavn og P/F Suðuroyartunlinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="igzdmw6nm5">Uppskotið hevur eina áseting í § 4 d um, at tann ágóðin, sum fæst av at fáa eitt rentu- og avdráttarfrítt lán frá Íleggingargrunninum, ikki skal verða at rokna sum ein inntøka hjá P/F Vága Floghavn og P/F Suðuroyartunlinum.</s>
           </p>
         </div>
         <div type="section" n="2.12.">
           <head rend="bold"><label>2.12.</label> Gjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ongar slíkar ásetingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="ujr3lnbwo3">Uppskotið hevur ongar slíkar ásetingar.</s>
           </p>
         </div>
         <div type="section" n="2.13.">
           <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ongar slíkar ásetingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="krlszbcppz">Uppskotið hevur ongar slíkar ásetingar.</s>
           </p>
         </div>
         <div type="section" n="2.14.">
           <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ongar slíkar ásetingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="w24yz62jpa">Uppskotið hevur ongar slíkar ásetingar.</s>
           </p>
         </div>
         <div type="section" n="2.15.">
           <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ongar slíkar ásetingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="wrgvamzx53">Uppskotið hevur ongar slíkar ásetingar.</s>
           </p>
         </div>
         <div type="section" n="2.16.">
           <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur helst ikki aðrar avleiðingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="e2k2smmpni">Uppskotið hevur helst ikki aðrar avleiðingar.</s>
           </p>
         </div>
         <div type="section" n="2.17.">
           <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
           <table>
             <row role="label">
-              <cell />
+              <cell/>
               <cell>Fyri landið ella landsmyndugleikar</cell>
               <cell>Fyri kommunalar myndugleikar</cell>
               <cell>Fyri pláss ella øki í landinum</cell>
@@ -475,11 +474,11 @@
             </row>
             <row>
               <cell>Sosialar avleiðingar</cell>
-              <cell />
-              <cell />
+              <cell/>
+              <cell/>
               <cell>Nei</cell>
               <cell>Nei</cell>
-              <cell />
+              <cell/>
             </row>
           </table>
         </div>
@@ -496,126 +495,126 @@
             <div type="sub-subsection">
               <head rend="italic">Stk.1)</head>
               <p>
-                <s xml:lang="fo" cert="high">Endamálið við ásetingunum í § 1 b er, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur, og skal eisini roknskaparliga verða handfarin óbroyttur.</s>
+                <s xml:lang="fo" cert="high" xml:id="dolclejhba">Endamálið við ásetingunum í § 1 b er, at grunnurin skal halda fram at vera sjálvstøðugur almennur grunnur, og skal eisini roknskaparliga verða handfarin óbroyttur.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Grunnurin hevur stýri, sum sjálvstøðugt fremur sítt virksemi innan karmarnar í lógini um grunnin og annars viðkomandi lóggávu.</s>
-                <s xml:lang="fo" cert="high">Almennir grunnar eru tó fevndir av m.a. eftirliti hjá landsstýrinum.</s>
-                <s xml:lang="fo" cert="high">Løgmaður leggur við býti av málsøkjum ábyrgdir og heimildir til viðkomandi landsstýrisfólk.</s>
+                <s xml:lang="fo" cert="high" xml:id="n5fkb7lljk">Grunnurin hevur stýri, sum sjálvstøðugt fremur sítt virksemi innan karmarnar í lógini um grunnin og annars viðkomandi lóggávu.</s>
+                <s xml:lang="fo" cert="high" xml:id="wrvdk7yr3z">Almennir grunnar eru tó fevndir av m.a. eftirliti hjá landsstýrinum.</s>
+                <s xml:lang="fo" cert="high" xml:id="yjqjtglqvb">Løgmaður leggur við býti av málsøkjum ábyrgdir og heimildir til viðkomandi landsstýrisfólk.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Í leiðreglum frá 8. juli 2022 fyri umsiting av fyritøkum landsins eru reglur um, hvussu landið útinnir sín leiklut í fyritøkum hjá landinum.</s>
-                <s xml:lang="fo" cert="high">Tað snýr seg m.a. um at seta mál og mið fyri grunnin, at velja limir í stýrið og at hava fundir við grunnin.</s>
-                <s xml:lang="fo" cert="high">Ein fastur fundur er ársfundurin, sum samsvarar við aðalfundin hjá einum partafelag hjá landinum.</s>
-                <s xml:lang="fo" cert="high">Landsstýrisfólkið skal tá góðkenna roknskapin, taka støðu til møguligt vinningsbýti o.tíl.</s>
+                <s xml:lang="fo" cert="high" xml:id="o7qju3iowh">Í leiðreglum frá 8. juli 2022 fyri umsiting av fyritøkum landsins eru reglur um, hvussu landið útinnir sín leiklut í fyritøkum hjá landinum.</s>
+                <s xml:lang="fo" cert="high" xml:id="nwtixrzt52">Tað snýr seg m.a. um at seta mál og mið fyri grunnin, at velja limir í stýrið og at hava fundir við grunnin.</s>
+                <s xml:lang="fo" cert="high" xml:id="du3xaretm2">Ein fastur fundur er ársfundurin, sum samsvarar við aðalfundin hjá einum partafelag hjá landinum.</s>
+                <s xml:lang="fo" cert="high" xml:id="l3t7yjhadm">Landsstýrisfólkið skal tá góðkenna roknskapin, taka støðu til møguligt vinningsbýti o.tíl.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Samsvarandi skal landsstýrisfólkið eisini velja grannskoðaran hjá grunninum.</s>
-                <s xml:lang="fo" cert="high">Tað er t.d. meginreglan í § 144 í vinnufelagalógini, har eigarin velur grannskoðaran á aðalfundinum.</s>
-                <s xml:lang="fo" cert="high">Endamálið er, at tann, sum útinnir virksemið, ikki velur eftirlitið við sær sjálvum.</s>
+                <s xml:lang="fo" cert="high" xml:id="i6skeykauw">Samsvarandi skal landsstýrisfólkið eisini velja grannskoðaran hjá grunninum.</s>
+                <s xml:lang="fo" cert="high" xml:id="ozcy34s2ob">Tað er t.d. meginreglan í § 144 í vinnufelagalógini, har eigarin velur grannskoðaran á aðalfundinum.</s>
+                <s xml:lang="fo" cert="high" xml:id="tfysei6m3t">Endamálið er, at tann, sum útinnir virksemið, ikki velur eftirlitið við sær sjálvum.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Í § 8 í løgtingslóg nr. 25 frá 21. apríl 1999 um grannskoðan av landsroknskapinum v.m. er ásett, at roknskapargrannskoðanin kann verða útint av Landsgrannskoðanini, løggildum og skrásettum grannskoðarum.</s>
-                <s xml:lang="fo" cert="high">Er ikki annað ásett, verður grannskoðanin útint av Landsgrannskoðanini.</s>
-                <s xml:lang="fo" cert="high">Sambært § 9 kann Formansskapur Løgtingsins gera av, hvør skal vera grannskoðari.</s>
-                <s xml:lang="fo" cert="high">Higartil hevur løgggilt grannskoðanarvirki grannskoðað grunnin.</s>
-                <s xml:lang="fo" cert="high">Við stk. 1 í hesari lógini er ásett, at tað skal vera landsstýrisfólkið, sum velur grannskoðaran.</s>
+                <s xml:lang="fo" cert="high" xml:id="ckjv2cd4pq">Í § 8 í løgtingslóg nr. 25 frá 21. apríl 1999 um grannskoðan av landsroknskapinum v.m. er ásett, at roknskapargrannskoðanin kann verða útint av Landsgrannskoðanini, løggildum og skrásettum grannskoðarum.</s>
+                <s xml:lang="fo" cert="high" xml:id="kprjedavez">Er ikki annað ásett, verður grannskoðanin útint av Landsgrannskoðanini.</s>
+                <s xml:lang="fo" cert="high" xml:id="etun4le5ye">Sambært § 9 kann Formansskapur Løgtingsins gera av, hvør skal vera grannskoðari.</s>
+                <s xml:lang="fo" cert="high" xml:id="iw5di43ykw">Higartil hevur løgggilt grannskoðanarvirki grannskoðað grunnin.</s>
+                <s xml:lang="fo" cert="high" xml:id="pvb5ywrrxq">Við stk. 1 í hesari lógini er ásett, at tað skal vera landsstýrisfólkið, sum velur grannskoðaran.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Grunnurin hevur higartil rindað skatt og skal framhaldandi gera tað við óbroyttum fyritreytum.</s>
+                <s xml:lang="fo" cert="high" xml:id="tetj3iwvgq">Grunnurin hevur higartil rindað skatt og skal framhaldandi gera tað við óbroyttum fyritreytum.</s>
               </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Stk. 2)</head>
               <p>
-                <s xml:lang="fo" cert="high">Landskassin er eigari av grunninum, men grunnurin verður ikki tikin við í fíggjarlógina.</s>
-                <s xml:lang="fo" cert="high">Yvirtøkan av grunninum og raksturin annars fær tí ikki ávirkan á fíggjarlógina.</s>
-                <s xml:lang="fo" cert="high">Tað er vanligt fyri tílíkar grunnar, sum í flestu førum hava vinnuligt virksemi.</s>
-                <s xml:lang="fo" cert="high">Grunnurin hevur egnar inntøkur og útreiðslur og lænir út av fænum.</s>
-                <s xml:lang="fo" cert="high">Um virksemið skuldi verið tikið við í fíggjarlógina, skuldi játtan verið til at veita lán og afturgjald av lánum.</s>
-                <s xml:lang="fo" cert="high">Tað hóskar ikki til fyriskipanina og endamálið við fíggjarlógini, sum er at veita eina ásetta játtan til fyrisett endamál, t.d. ein reglulig rakstrarjáttan ella ein játtan til eina byggiverkætlan.</s>
+                <s xml:lang="fo" cert="high" xml:id="a43a4vgrfl">Landskassin er eigari av grunninum, men grunnurin verður ikki tikin við í fíggjarlógina.</s>
+                <s xml:lang="fo" cert="high" xml:id="zuvrkefavj">Yvirtøkan av grunninum og raksturin annars fær tí ikki ávirkan á fíggjarlógina.</s>
+                <s xml:lang="fo" cert="high" xml:id="vk4fxdhmfb">Tað er vanligt fyri tílíkar grunnar, sum í flestu førum hava vinnuligt virksemi.</s>
+                <s xml:lang="fo" cert="high" xml:id="zdtpcc5cew">Grunnurin hevur egnar inntøkur og útreiðslur og lænir út av fænum.</s>
+                <s xml:lang="fo" cert="high" xml:id="jcqrlv42st">Um virksemið skuldi verið tikið við í fíggjarlógina, skuldi játtan verið til at veita lán og afturgjald av lánum.</s>
+                <s xml:lang="fo" cert="high" xml:id="o3fenjivox">Tað hóskar ikki til fyriskipanina og endamálið við fíggjarlógini, sum er at veita eina ásetta játtan til fyrisett endamál, t.d. ein reglulig rakstrarjáttan ella ein játtan til eina byggiverkætlan.</s>
               </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Stk. 3)</head>
               <p>
-                <s xml:lang="fo" cert="high">Roknskapurin hjá grunninum verður gjørdur í samsvari við ársroknskaparlógina við teimum tillagingum, sum hildnar at vera neyðugar, tí at talan er um ein almennan grunn og ikki eitt partafelag.</s>
-                <s xml:lang="fo" cert="high">Eftir ársroknskaparlógini verða lán veitt og afturgoldin sum postar í fíggjarstøðuni, meðan lánsveiting og afturgjald verða tikin við í landsroknskapin sum ávikavist útreiðslur og inntøkur.</s>
-                <s xml:lang="fo" cert="high">Tí er meira hóskandi at brúka ársroknskaparlógina.</s>
+                <s xml:lang="fo" cert="high" xml:id="xzxrve2ciz">Roknskapurin hjá grunninum verður gjørdur í samsvari við ársroknskaparlógina við teimum tillagingum, sum hildnar at vera neyðugar, tí at talan er um ein almennan grunn og ikki eitt partafelag.</s>
+                <s xml:lang="fo" cert="high" xml:id="la6k7vhhxp">Eftir ársroknskaparlógini verða lán veitt og afturgoldin sum postar í fíggjarstøðuni, meðan lánsveiting og afturgjald verða tikin við í landsroknskapin sum ávikavist útreiðslur og inntøkur.</s>
+                <s xml:lang="fo" cert="high" xml:id="immaw34iry">Tí er meira hóskandi at brúka ársroknskaparlógina.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Stýrið í grunninum hevur ábyrgd av at gera eina ársfrásøgn, sum skal verða grannskoðað.</s>
-                <s xml:lang="fo" cert="high">Tá ið stýrið hevur góðkent ársfrásøgnina, skal ársfrásøgnin við viðmerkingunum frá grannskoðanini verða send til landsstýrisfólkið.</s>
+                <s xml:lang="fo" cert="high" xml:id="cati7fqul2">Stýrið í grunninum hevur ábyrgd av at gera eina ársfrásøgn, sum skal verða grannskoðað.</s>
+                <s xml:lang="fo" cert="high" xml:id="yfwn64bert">Tá ið stýrið hevur góðkent ársfrásøgnina, skal ársfrásøgnin við viðmerkingunum frá grannskoðanini verða send til landsstýrisfólkið.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Grunnurin skipar fyri einum ársfundi við landsstýrisfólkið.</s>
-                <s xml:lang="fo" cert="high">Sum greitt frá um stk. 1, er talan um ein fund, sum svarar til aðalfundin í einum partafelag.</s>
-                <s xml:lang="fo" cert="high">Á ársfundinum góðkennir landsstýrisfólkið ársfrásøgnina.</s>
+                <s xml:lang="fo" cert="high" xml:id="vsrgrwz2jz">Grunnurin skipar fyri einum ársfundi við landsstýrisfólkið.</s>
+                <s xml:lang="fo" cert="high" xml:id="vrzoanpqzt">Sum greitt frá um stk. 1, er talan um ein fund, sum svarar til aðalfundin í einum partafelag.</s>
+                <s xml:lang="fo" cert="high" xml:id="dj5cs257ef">Á ársfundinum góðkennir landsstýrisfólkið ársfrásøgnina.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Leggjast kann afturat, at sambært § 11 í løgtingslóg nr. 25 frá 21. apríl 1999 um grannskoðan av landsroknskapinum v.m. skal landsstýrisfólkið lata løgtingsgrannskoðarunum og Landsgrannskoðanini roknskapin í seinasta lagi 5 mánaðir eftir roknskaparenda.</s>
-                <s xml:lang="fo" cert="high">Landsstýrisfólkið skal hava høvi at gera viðmerkingar til frágreiðing um grannskoðanina av roknskapinum, áðrenn roknskapargrannskoðanin sendir frágreiðingina til løgtingsgrannskoðararnar í seinasta lagi 8 mánaðir eftir roknskaparenda.</s>
+                <s xml:lang="fo" cert="high" xml:id="osfblgcgio">Leggjast kann afturat, at sambært § 11 í løgtingslóg nr. 25 frá 21. apríl 1999 um grannskoðan av landsroknskapinum v.m. skal landsstýrisfólkið lata løgtingsgrannskoðarunum og Landsgrannskoðanini roknskapin í seinasta lagi 5 mánaðir eftir roknskaparenda.</s>
+                <s xml:lang="fo" cert="high" xml:id="rhuyez6q2u">Landsstýrisfólkið skal hava høvi at gera viðmerkingar til frágreiðing um grannskoðanina av roknskapinum, áðrenn roknskapargrannskoðanin sendir frágreiðingina til løgtingsgrannskoðararnar í seinasta lagi 8 mánaðir eftir roknskaparenda.</s>
               </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Stk. 4)</head>
               <p>
-                <s xml:lang="fo" cert="high">Roknskapurin hjá grunninum verður tikin við í landsroknskapin sum eitt hjáskjal sum eksternur grunnur.</s>
+                <s xml:lang="fo" cert="high" xml:id="eazl4a633h">Roknskapurin hjá grunninum verður tikin við í landsroknskapin sum eitt hjáskjal sum eksternur grunnur.</s>
               </p>
               <p>
-                <s xml:lang="fo" cert="high">Við heimild í almennu roknskaparlógini – sum ásett í kunngerð nr. 95 frá 28. juni 2013 um at lata inn roknskaparupplýsingar um alment virksemi til búskaparliga ráðlegging, stýring og eftirlit – skulu almennir grunnar lata Gjaldstovuni roknskaparupplýsingar til Búskaparskipan landsins.</s>
+                <s xml:lang="fo" cert="high" xml:id="p247zur72q">Við heimild í almennu roknskaparlógini – sum ásett í kunngerð nr. 95 frá 28. juni 2013 um at lata inn roknskaparupplýsingar um alment virksemi til búskaparliga ráðlegging, stýring og eftirlit – skulu almennir grunnar lata Gjaldstovuni roknskaparupplýsingar til Búskaparskipan landsins.</s>
               </p>
             </div>
             <div type="sub-subsection">
               <head rend="italic">Stk. 5)</head>
               <p>
-                <s xml:lang="fo" cert="high">Grunnurin hevur higartil rindað skatt.</s>
-                <s xml:lang="fo" cert="high">Ásett verður, at grunnurin eftir skatt kann lata landinum vinningsbýti.</s>
-                <s xml:lang="fo" cert="high">Meginreglur um vinningsbýti kunnu verða avtalaðar og ásettar í viðtøkurnar.</s>
-                <s xml:lang="fo" cert="high">Skattligu fyritreytirnar hjá grunninum halda fram óbroyttar.</s>
+                <s xml:lang="fo" cert="high" xml:id="nqsynayv54">Grunnurin hevur higartil rindað skatt.</s>
+                <s xml:lang="fo" cert="high" xml:id="pnqfwjw2xc">Ásett verður, at grunnurin eftir skatt kann lata landinum vinningsbýti.</s>
+                <s xml:lang="fo" cert="high" xml:id="ekfqulupry">Meginreglur um vinningsbýti kunnu verða avtalaðar og ásettar í viðtøkurnar.</s>
+                <s xml:lang="fo" cert="high" xml:id="qkh5h4dhv5">Skattligu fyritreytirnar hjá grunninum halda fram óbroyttar.</s>
               </p>
             </div>
           </div>
           <div type="subsection">
             <head rend="bold">Nr. 2 (§ 4 b)</head>
             <p>
-              <s xml:lang="fo" cert="high">Íleggingargrunnurin fyri Føroyar fær heimild til at veita P/F Vága Floghavn 10-ára rentu- og avdráttarfrí lán til útbygging av Vága Floghavn.</s>
-              <s xml:lang="fo" cert="high">Felagið kann í alt veita eitt ella fleiri lán á tilsamans 350 mió. kr. til Vága Floghavn.</s>
-              <s xml:lang="fo" cert="high">Ætlanin er síðani, tá floghavnin er útbygd og inntøkugrundarlagið hjá floghavnini er styrkt, at lánið skal gjaldast aftur eftir vanligum treytum.</s>
+              <s xml:lang="fo" cert="high" xml:id="htf5phmx5k">Íleggingargrunnurin fyri Føroyar fær heimild til at veita P/F Vága Floghavn 10-ára rentu- og avdráttarfrí lán til útbygging av Vága Floghavn.</s>
+              <s xml:lang="fo" cert="high" xml:id="ywfjzhfyqd">Felagið kann í alt veita eitt ella fleiri lán á tilsamans 350 mió. kr. til Vága Floghavn.</s>
+              <s xml:lang="fo" cert="high" xml:id="lcf7zs6cto">Ætlanin er síðani, tá floghavnin er útbygd og inntøkugrundarlagið hjá floghavnini er styrkt, at lánið skal gjaldast aftur eftir vanligum treytum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Nr. 3 (§ 4 c)</head>
             <p>
-              <s xml:lang="fo" cert="high">Íleggingargrunnurin fyri Føroyar fær heimild til at veita P/F Suðuroyartunlinum 30-ára rentu- og avdráttarfrí lán til ætlaða Suðuroyartunnilin.</s>
-              <s xml:lang="fo" cert="high">Felagið kann í alt veita eitt ella fleiri lán upp á tilsamans 350 mió. kr. til P/F Suðuroyartunnilin.</s>
-              <s xml:lang="fo" cert="high">Tá ið 30-ára tíðarskeiðið er runnið, og P/F Suðuroyartunnilin, sambært ætlan, hevur goldið onnur lán aftur, skal lánið gjaldast aftur eftir vanligum treytum.</s>
+              <s xml:lang="fo" cert="high" xml:id="yyqkwvsitk">Íleggingargrunnurin fyri Føroyar fær heimild til at veita P/F Suðuroyartunlinum 30-ára rentu- og avdráttarfrí lán til ætlaða Suðuroyartunnilin.</s>
+              <s xml:lang="fo" cert="high" xml:id="nrp7qpluaj">Felagið kann í alt veita eitt ella fleiri lán upp á tilsamans 350 mió. kr. til P/F Suðuroyartunnilin.</s>
+              <s xml:lang="fo" cert="high" xml:id="ph2xjgluap">Tá ið 30-ára tíðarskeiðið er runnið, og P/F Suðuroyartunnilin, sambært ætlan, hevur goldið onnur lán aftur, skal lánið gjaldast aftur eftir vanligum treytum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Nr. 4 (§ 4 d)</head>
             <p>
-              <s xml:lang="fo" cert="high">Tað kann verða ein tulkingarspurningur, hvørt tann ágóðin, sum fæst av at fáa eitt rentu- og avdráttarfrítt lán, skal verða at rokna sum ein inntøka hjá P/F Vága Floghavn og P/F Suðuroyartunlinum.</s>
-              <s xml:lang="fo" cert="high">Við orðingini verður allur ivi beindur burtur.</s>
-              <s xml:lang="fo" cert="high">Ágóðin roknast ikki til skattskyldugu inntøkuna hjá nevndu feløgum.</s>
+              <s xml:lang="fo" cert="high" xml:id="fbmhcvviab">Tað kann verða ein tulkingarspurningur, hvørt tann ágóðin, sum fæst av at fáa eitt rentu- og avdráttarfrítt lán, skal verða at rokna sum ein inntøka hjá P/F Vága Floghavn og P/F Suðuroyartunlinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="jsuzzsztna">Við orðingini verður allur ivi beindur burtur.</s>
+              <s xml:lang="fo" cert="high" xml:id="dk3n4skx52">Ágóðin roknast ikki til skattskyldugu inntøkuna hjá nevndu feløgum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Til § 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Gildiskomudagurin er settur til dagin eftir, at løgtingslógin er kunngjørd.</s>
+              <s xml:lang="fo" cert="high" xml:id="abxpm3wm6y">Gildiskomudagurin er settur til dagin eftir, at løgtingslógin er kunngjørd.</s>
             </p>
           </div>
         </div>
       </div>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="signature">
         <dateline><orgName>Løgmansskrivstovan</orgName>, <date when="2025-03-07">7. mars 2025</date></dateline>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <signed rend="center">
           <persName ref="https://tingdata.fo/person/ims76axd">
             <hi rend="bold">Aksel V. Johannesen</hi>
-            <lb />
+            <lb/>
             <roleName>løgmaður</roleName>
           </persName>
         </signed>
