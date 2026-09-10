@@ -373,13 +373,13 @@ The summary below was **computed from `sentences.jsonl`**, a sentence-level JSON
 
 | Metric | Value |
 |---|---|
-| Sentences | 146,154 |
-| Tokens (space-split) | 3,125,792 |
-| Types (unique tokens, case-folded) | 157,333 |
+| Sentences | 149,078 |
+| Tokens (space-split) | 3,188,704 |
+| Types (unique tokens, case-folded) | 159,363 |
 | Avg. sentence length (tokens) | 21.39 |
 | Median sentence length (tokens) | 19 |
 | 5-95% sentence length (tokens) | 7-43 |
-| Avg. sentence length (characters) | 139.3 |
+| Avg. sentence length (characters) | 139.4 |
 
 
 ### Coverage by Decade
@@ -388,16 +388,16 @@ How the dataset is distributed across different decades:
 | Decade | Sentences | % of Total | Tokens | Types | Avg. Length (tokens) | Avg. Length (chars) |
 |---|---|---|---|---|---|---|
 | 1900s | 8 | 0.01% | 137 | 98 | 17.12 | 85.8 |
-| 1930s | 617 | 0.42% | 14,060 | 4,348 | 22.79 | 137.2 |
+| 1930s | 617 | 0.41% | 14,060 | 4,348 | 22.79 | 137.2 |
 | 1940s | 175 | 0.12% | 3,119 | 1,095 | 17.82 | 114.9 |
-| 1950s | 377 | 0.26% | 9,693 | 2,669 | 25.71 | 164.1 |
+| 1950s | 377 | 0.25% | 9,693 | 2,669 | 25.71 | 164.1 |
 | 1970s | 106 | 0.07% | 1,650 | 714 | 15.57 | 100.1 |
 | 1980s | 204 | 0.14% | 4,439 | 1,517 | 21.76 | 138.1 |
-| 1990s | 13,090 | 8.96% | 320,261 | 33,948 | 24.47 | 152.0 |
-| 2000s | 16,257 | 11.12% | 319,975 | 36,460 | 19.68 | 131.1 |
-| 2010s | 39,379 | 26.94% | 812,475 | 64,861 | 20.63 | 134.7 |
-| 2020s | 69,113 | 47.29% | 1,486,891 | 87,062 | 21.51 | 140.3 |
-| Unknown | 6,828 | 4.67% | 153,092 | 19,071 | 22.42 | 150.8 |
+| 1990s | 13,090 | 8.78% | 320,261 | 33,948 | 24.47 | 152.0 |
+| 2000s | 18,646 | 12.51% | 367,641 | 39,666 | 19.72 | 131.6 |
+| 2010s | 39,934 | 26.79% | 828,115 | 65,628 | 20.74 | 135.3 |
+| 2020s | 69,093 | 46.35% | 1,486,497 | 87,051 | 21.51 | 140.3 |
+| Unknown | 6,828 | 4.58% | 153,092 | 19,071 | 22.42 | 150.8 |
 
 
 ### Coverage of Parliamentary Questions
