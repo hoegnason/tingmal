@@ -37,6 +37,9 @@
       </editorialDecl>
     </encodingDesc>
   </teiHeader>
+  <standOff>
+    <seg xml:lang="fo" type="sentence">Stjóri í felag kemur undir stk. 1, um felagið hevur avmarkaða ábyrgd fyri eigaran í felagnum, stjórin burturav ella í mestan mun hevur sína inntøku frá felagnum, samlaða lønarútreiðslan hjá felagnum seinast álíknaða inntøkuár í mesta lagi er 390 ferðir hægstu dagpeningaveiting um vikuna, og stjórin ikki á annan hátt hevur rætt til løn undir sjúku.</seg>
+  </standOff>
   <text>
     <body>
       <table rend="left align-right">
@@ -347,10 +350,8 @@
           </p>
           <p>
             <s xml:lang="fo" cert="high">Dagpeningaveitingin er svarandi til lønarmissin, tó í mesta lagi 80 % av løn sambært sáttmála millum Føroya Arbeiðsgevarafelag og Føroya Arbeiðarafelag.</s>
-            <s xml:lang="fo" cert="high">Hægst møguliga veiting pr.</s>
-            <s xml:lang="fo" cert="medium">dag er 868 kr. umframt frítíðarløn.</s>
-            <s xml:lang="fo" cert="high">Upphæddin pr.</s>
-            <s xml:lang="fo" cert="medium">mánað er tengd at talinum av arbeiðsdøgum í mánaðinum.</s>
+            <s xml:lang="fo" cert="high">Hægst møguliga veiting pr. dag er 868 kr. umframt frítíðarløn.</s>
+            <s xml:lang="fo" cert="high">Upphæddin pr. mánað er tengd at talinum av arbeiðsdøgum í mánaðinum.</s>
             <s xml:lang="fo" cert="high">Í miðal er hægst møguliga veiting 18.147 kr. um mánaðin, umframt frítíðarløn.</s>
           </p>
           <p>
@@ -436,7 +437,7 @@
           <head rend="italic"><label>1.2.3.</label> Longt dagpeningatíðarskeið</head>
           <p>
             <s xml:lang="fo" cert="high">Dagpeningur vegna sjúku kann í mesta lagi verða veittur í 40 vikur í einum 12 mánaða skeiði.</s>
-            <s xml:lang="fo" cert="medium">40 vikur svara umleið til 9 mánaðir.</s>
+            <s xml:lang="fo" cert="high">40 vikur svara umleið til 9 mánaðir.</s>
             <s xml:lang="fo" cert="high">Løn undir sjúku telur við í teimum 40 vikunum.</s>
             <s xml:lang="fo" cert="high">Tað merkir, at tá ein persónur, sum hevur rætt til løn undir sjúku, fær løn frá arbeiðsgevara í t.d. 25 vikur, meðan hann er sjúkur, tá hevur hann rætt til dagpening vegna sjúku í upp til 15 vikur aftrat.</s>
           </p>
@@ -488,9 +489,54 @@
           <p>
             <s xml:lang="fo" cert="high">LønDagpeningur vegna sjúku Fyribils uppihalds-veitingVið fyribils uppihaldsveiting eru 6 ymiskir satsir, treytaðir av aldri, uppihaldsskyldu mótvegis børnum og bústaðarviðurskiftum.</s>
           </p>
-          <div type="subsection">
-            <head rend="bold underline">Fyribils uppihaldsveiting sambært almannalógini í 2022</head>
-          </div>
+
+          <table rows="6" cols="2" rend="rules">
+            <head rend="bold left">Fyribils uppihaldsveiting sambært almannalógini í 2022</head>
+            <row>
+              <cell>Uppihaldsskyldu mótvegis børnum – býr einsamallur</cell>
+              <cell>17.039 kr.</cell>
+            </row>
+            <row>
+              <cell>Uppihaldsskyldu mótvegis børnum – býr saman við øðrum vaksnum persóni</cell>
+              <cell>13.252 kr.</cell>
+            </row>
+            <row>
+              <cell>25 ár og eldri, uttan børn – býr einsamallur</cell>
+              <cell>14.199 kr.</cell>
+            </row>
+            <row>
+              <cell>25 ár og eldri, uttan børn – býr saman við øðrum vaksnum persóni</cell>
+              <cell>9.466 kr.</cell>
+            </row>
+            <row>
+              <cell>Yngri enn 25 ár, uttan børn – býr ikki hjá foreldrum</cell>
+              <cell>7.573 kr.</cell>
+            </row>
+            <row>
+              <cell>Yngri enn 25 ár, uttan børn – býr hjá foreldrum</cell>
+              <cell>4.165 kr.</cell>
+            </row>
+          </table>
+
+          <figure rend="box">
+            <head rend="italic underline">Dømi</head>
+            <!-- <ab rend="italic underline">Dømi</ab> -->
+            <p>
+              <s>Hjá einum giftum persóni í 50 árunum, sum ikki hevur børn yngri enn 18 ár, sum arbeiðir fulla tíð við løn á 30.000 kr. um mánaðin, verður inntøkan hendan í sambandi við langtíðarsjúku (áðrenn skatt):</s>
+            </p>
+
+            <figure type="flowchart" rend="horizontal-process">
+              <ab type="step" rend="shaded-box">
+                <lb />Løn: <lb />30.000 kr. </ab>
+              <ab type="connector" rend="arrow">→</ab>
+              <ab type="step" rend="shaded-box">
+                <lb />Dagpeningur <lb />vegna sjúku: <lb />18.147 kr. <lb />(pluss frítíðarløn) </ab>
+              <ab type="connector" rend="arrow">→</ab>
+              <ab type="step" rend="shaded-box">
+                <lb />Fyribils <lb />uppihaldsveiting: <lb />9.466 kr. </ab>
+            </figure>
+          </figure>
+
           <div type="subsection" subtype="run-in">
             <head rend="underline">Uppihaldsskyldu mótvegis børnum – býr einsamallur</head>
             <p>
