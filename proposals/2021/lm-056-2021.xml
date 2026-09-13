@@ -30,19 +30,50 @@
       </sourceDesc>
     </fileDesc>
     <encodingDesc>
+      <refsDecl>
+        <step match="//tei:div" use="@n" />
+      </refsDecl>
       <editorialDecl>
         <correction>
           <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
         </correction>
       </editorialDecl>
+      <tagsDecl>
+        <rendition xml:id="legal-list" scheme="css">
+          display: grid;
+          grid-template-columns: max-content 1fr;
+          column-gap: 0.6em;
+          row-gap: 0.35em;
+          margin: 0.5em 0 0.5em 1.5em;
+
+          &amp; dd &amp; :first-child {
+          margin-top: 0;
+          }
+
+          &amp; dt {
+          font-weight: normal;
+          float: none !important;
+          clear: none !important;
+          margin: 0 !important;
+          padding: 0 !important;
+          }
+
+          &amp; dd {
+          margin: 0 !important;
+          padding: 0 !important;
+          }
+        </rendition>
+      </tagsDecl>
     </encodingDesc>
   </teiHeader>
   <standOff>
     <seg xml:lang="fo" type="sentence">Stjóri í felag kemur undir stk. 1, um felagið hevur avmarkaða ábyrgd fyri eigaran í felagnum, stjórin burturav ella í mestan mun hevur sína inntøku frá felagnum, samlaða lønarútreiðslan hjá felagnum seinast álíknaða inntøkuár í mesta lagi er 390 ferðir hægstu dagpeningaveiting um vikuna, og stjórin ikki á annan hátt hevur rætt til løn undir sjúku.</seg>
   </standOff>
   <text>
-    <body>
-      <table rend="left align-right">
+    <body style="width: 210mm !important;">
+      <pb n="1" />
+      <ab rend="bold center">Almannamálaráðið</ab>
+      <table style="margin-left: auto; margin-right: 0;">
         <row>
           <cell rend="meta-cell">Dagfesting:</cell>
           <cell rend="meta-cell">25. desember 2021</cell>
@@ -75,11 +106,11 @@
       <space dim="vertical" />
       <div type="chapter" n="0">
         <div>
-          <head rend="bold">§ 1</head>
+          <head rend="bold center">§ 1</head>
           <p>
             <seg>Í løgtingslóg nr. 74 frá 8. mai 2001 um dagpening vegna sjúku v.m., sum seinast broytt við løgtingslóg nr. 146 frá 15. november 2021, verða gjørdar hesar broytingar:</seg>
           </p>
-          <list>
+          <list rendition="#legal-list">
             <label rend="bold">1.</label>
             <item>
               <p>
@@ -88,7 +119,7 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 5.</label>
-                  <s>Persónur, sum lýkur treytirnar í § 25, stk. 1 í løgtingslóg um almannatrygd og tænastur, hevur ikki rætt til dagpening vegna sjúku.</s>
+                  <s xml:lang="fo" cert="high">Persónur, sum lýkur treytirnar í § 25, stk. 1 í løgtingslóg um almannatrygd og tænastur, hevur ikki rætt til dagpening vegna sjúku.</s>
                 </p>
                 <p>
                   <seg>Stk. 5 verður eftir hetta stk. 6.</seg>
@@ -103,8 +134,8 @@
               <q>
                 <p>
                   <label rend="bold">§ 4.</label>
-                  <s>Rætt til dagpening hevur persónur frá tí degi, hann er fyltur 16 ár.</s>
-                  <s>Hesin rættur dettur burtur frá 1. í mánaðinum eftir, at viðkomandi hevur móttikið fólkapensjón ella hevur fingið tillutað hægstu fyritíðarpensjón ella framskundaða pensjón við eini upphædd svarandi til hægstu fyritíðarpensjón.</s>
+                  <s xml:lang="fo" cert="high">Rætt til dagpening hevur persónur frá tí degi, hann er fyltur 16 ár.</s>
+                  <s xml:lang="fo" cert="high">Hesin rættur dettur burtur frá 1. í mánaðinum eftir, at viðkomandi hevur móttikið fólkapensjón ella hevur fingið tillutað hægstu fyritíðarpensjón ella framskundaða pensjón við eini upphædd svarandi til hægstu fyritíðarpensjón.</s>
                 </p>
               </q>
             </item>
@@ -116,14 +147,15 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 3.</label>
-                  <s>Um tað verður mett ósannlíkt, at persónur í fólkapensjónsaldri, sum ikki móttekur fólkapensjón, hevur endurvunnið fult arbeiðsføri, áðrenn freistina sambært § 12, stk. 2, steðgar veiting sambært hesi løgtingslóg beinanvegin.</s>
+                  <s xml:lang="fo" cert="high">Um tað verður mett ósannlíkt, at persónur í fólkapensjónsaldri, sum ikki móttekur fólkapensjón, hevur endurvunnið fult arbeiðsføri, áðrenn freistina sambært § 12, stk. 2, steðgar veiting sambært hesi løgtingslóg beinanvegin.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 4.</label>
-                  <s>Metingin sambært stk. 3 verður gjørd við støði í eini læknaligari meting.</s>
-                  <s>Metingin verður gjørd í sambandi við játtan og síðani hvørja 8. viku, so leingi viðkomandi fær dagpening vegna sjúku.</s>
+                  <s xml:lang="fo" cert="high">Metingin sambært stk. 3 verður gjørd við støði í eini læknaligari meting.</s>
+                  <s xml:lang="fo" cert="high">Metingin verður gjørd í sambandi við játtan og síðani hvørja 8. viku, so leingi viðkomandi fær dagpening vegna sjúku.</s>
                 </p>
               </q>
+              <pb n="2" />
             </item>
             <label rend="bold">4.</label>
             <item>
@@ -134,13 +166,13 @@
                 <ab>
                   <p>
                     <label rend="bold">§ 12.</label>
-                    <s>Útgjaldingin av dagpeningi heldur uppat, tá móttakarin aftur er arbeiðsførur, uttan mun til, um hann fer í vinnu aftur ella ikki.</s>
+                    <s xml:lang="fo" cert="high">Útgjaldingin av dagpeningi heldur uppat, tá móttakarin aftur er arbeiðsførur, uttan mun til, um hann fer í vinnu aftur ella ikki.</s>
                   </p>
                 </ab>
                 <ab>
                   <p>
                     <label rend="italic">Stk. 2.</label>
-                    <s>Dagpeningur verður í mesta lagi veittur í 52 vikur í einum 18 mánaða skeiði.</s>
+                    <s xml:lang="fo" cert="high">Dagpeningur verður í mesta lagi veittur í 52 vikur í einum 18 mánaða skeiði.</s>
                   </p>
                 </ab>
                 <ab>
@@ -148,31 +180,31 @@
                     <label rend="italic">Stk. 3.</label>
                     <seg>Hóast stk. 2 kann dagpeningur verða veittur longur enn 52 vikur í einum 18 mánaða skeiði í hesum málum:</seg>
                   </p>
-                  <list>
-                    <p>
-                      <label>1)</label>
+                  <list rendition="#legal-list">
+                    <label>1)</label>
+                    <item>
                       <seg>tá persónur hevur álvarsliga ella lívshættisliga sjúku ella hevur verið fyri skaðatilburði, har tað ikki ber til at siga, um viðkomandi verður varandi sjúkur ella aftur vinnur sær arbeiðsføri,</seg>
-                    </p>
-                    <p>
-                      <label>2)</label>
+                    </item>
+                    <label>2)</label>
+                    <item>
                       <seg>tá persónur í sambandi við álvarsliga sjúku ella skaða er í viðgerð, og har tað er sannlíkt, at viðkomandi aftur vinnur fult arbeiðsføri, ella</seg>
-                    </p>
-                    <p>
-                      <label>3)</label>
+                    </item>
+                    <label>3)</label>
+                    <item>
                       <seg>tá talan er um mál um arbeiðsskaða, sum er fráboðað Vanlukkutryggingarráðnum, og sum verður viðgjørt eftir løgtingslóg um trygging móti avleiðingunum av arbeiðsskaða.</seg>
-                    </p>
+                    </item>
                   </list>
                 </ab>
                 <ab>
                   <p>
                     <label rend="italic">Stk. 4.</label>
-                    <s>Dagpeningur veittur sambært stk. 3, nr. 3, kann í mesta lagi verða veittur í 2 ár.</s>
+                    <s xml:lang="fo" cert="high">Dagpeningur veittur sambært stk. 3, nr. 3, kann í mesta lagi verða veittur í 2 ár.</s>
                   </p>
                 </ab>
                 <ab>
                   <p>
                     <label rend="italic">Stk. 5.</label>
-                    <s>Stk. 3 fevnir ikki um persón í fólkapensjónsaldri.</s>
+                    <s xml:lang="fo" cert="high">Stk. 3 fevnir ikki um persón í fólkapensjónsaldri.</s>
                   </p>
                 </ab>
               </q>
@@ -186,7 +218,7 @@
                 <ab>
                   <p>
                     <label rend="bold">§ 14 a.</label>
-                    <s>Stjóri í felag kann tryggja sær dagpening sambært hesi løgtingslóg frá 1. fráverudegi.</s>
+                    <s xml:lang="fo" cert="high">Stjóri í felag kann tryggja sær dagpening sambært hesi løgtingslóg frá 1. fráverudegi.</s>
                   </p>
                 </ab>
                 <ab>
@@ -194,7 +226,7 @@
                     <label rend="italic">Stk. 2.</label>
                     <seg>Stjóri í felag kemur undir stk. 1, um:</seg>
                   </p>
-                  <list>
+                  <list rendition="#legal-list">
                     <label>1)</label>
                     <item>
                       <seg>felagið hevur avmarkaða ábyrgd fyri eigaran í felagnum,</seg>
@@ -229,27 +261,28 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 3.</label>
-                  <s>Tá persónur móttekur dagpening sambært § 12, stk. 3, nr. 1 og 2 longur enn 52 vikur, skal Almannaverkið regluliga meta um útlitini fyri, at viðkomandi aftur fær tilknýti til arbeiðsmarknaðin, ella um viðkomandi skal flyta til aðra almannaveiting ella fyriskipan.</s>
+                  <s xml:lang="fo" cert="high">Tá persónur móttekur dagpening sambært § 12, stk. 3, nr. 1 og 2 longur enn 52 vikur, skal Almannaverkið regluliga meta um útlitini fyri, at viðkomandi aftur fær tilknýti til arbeiðsmarknaðin, ella um viðkomandi skal flyta til aðra almannaveiting ella fyriskipan.</s>
                 </p>
               </q>
             </item>
           </list>
         </div>
         <div>
-          <head rend="bold">§ 2</head>
+          <head rend="bold center">§ 2</head>
           <p>
             <label rend="italic">Stk. 1.</label>
-            <s>Henda løgtingslóg kemur í gildi 1. apríl 2022.</s>
+            <s xml:lang="fo" cert="high">Henda løgtingslóg kemur í gildi 1. apríl 2022.</s>
           </p>
           <p>
             <label rend="italic">Stk. 2.</label>
-            <s>Persónur, ið móttekur dagpening vegna sjúku, tá henda løgtingslóg kemur í gildi, er fevndur av hesi løgtingslógini.</s>
+            <s xml:lang="fo" cert="high">Persónur, ið móttekur dagpening vegna sjúku, tá henda løgtingslóg kemur í gildi, er fevndur av hesi løgtingslógini.</s>
           </p>
           <p>
             <label rend="italic">Stk. 3.</label>
-            <s>Persónur, ið móttekur dagpening vegna sjúku, tá henda løgtingslóg kemur í gildi, og sum samstundis lýkur treytirnar í § 25, stk. 1 í løgtingslóg um almannatrygd og tænastur, er ikki fevndur av stk. 2.</s>
+            <s xml:lang="fo" cert="high">Persónur, ið móttekur dagpening vegna sjúku, tá henda løgtingslóg kemur í gildi, og sum samstundis lýkur treytirnar í § 25, stk. 1 í løgtingslóg um almannatrygd og tænastur, er ikki fevndur av stk. 2.</s>
           </p>
         </div>
+        <pb n="3" />
       </div>
       <div type="chapter" n="1">
         <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
@@ -300,6 +333,7 @@
             <s xml:lang="fo" cert="high">Neyðugt er tí at konsekvensbroyta løgtingslóg um dagpening vegna sjúku v.m.</s>
           </p>
         </div>
+        <pb n="4" />
         <div type="section" n="1.1.3.">
           <head rend="italic"><label>1.1.3.</label> Longt dagpeningatíðarskeið</head>
           <p>
@@ -487,7 +521,7 @@
             <s xml:lang="fo" cert="high">Upphæddin íroknað frítíðarløn er 20.325 kr.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">LønDagpeningur vegna sjúku Fyribils uppihalds-veitingVið fyribils uppihaldsveiting eru 6 ymiskir satsir, treytaðir av aldri, uppihaldsskyldu mótvegis børnum og bústaðarviðurskiftum.</s>
+            <s xml:lang="fo" cert="high">Við fyribils uppihaldsveiting eru 6 ymiskir satsir, treytaðir av aldri, uppihaldsskyldu mótvegis børnum og bústaðarviðurskiftum.</s>
           </p>
 
           <table rows="6" cols="2" rend="rules">
@@ -517,18 +551,15 @@
               <cell>4.165 kr.</cell>
             </row>
           </table>
-
           <p>
-            <s>Upphæddirnar omanfyri eru skattskyldugar.</s>
+            <s xml:lang="fo" cert="high">Upphæddirnar omanfyri eru skattskyldugar.</s>
           </p>
-
           <figure style="border: 2px solid black; padding: 10px;">
             <head rend="italic underline">Dømi</head>
             <!-- <ab rend="italic underline">Dømi</ab> -->
             <p>
-              <s>Hjá einum giftum persóni í 50 árunum, sum ikki hevur børn yngri enn 18 ár, sum arbeiðir fulla tíð við løn á 30.000 kr. um mánaðin, verður inntøkan hendan í sambandi við langtíðarsjúku (áðrenn skatt):</s>
+              <s xml:lang="fo" cert="high">Hjá einum giftum persóni í 50 árunum, sum ikki hevur børn yngri enn 18 ár, sum arbeiðir fulla tíð við løn á 30.000 kr. um mánaðin, verður inntøkan hendan í sambandi við langtíðarsjúku (áðrenn skatt):</s>
             </p>
-
             <ab>
               <ab type="step" rend="shaded-box" style="color: white;background-color: dodgerblue;display: inline-block;vertical-align:middle;border-radius: 10px;padding:10px;"> Løn: <lb />30.000 kr. </ab>
               <ab type="connector" rend="arrow" style="background-color: lightblue;display: inline-block;vertical-align:middle;">→</ab>
@@ -540,7 +571,6 @@
           <p>
             <s xml:lang="fo" cert="high">Í 2018 vóru 68 persónar, sum duttu úr dagpeningaskipanini, tí tey høvdu fingu dagpening í 40 vikur.</s>
             <seg xml:lang="fo">Inntøkugrundarlagið hjá hesum 68 persónunum, aftaná at tey vóru farin úr dagpeningaskipanini var hetta:</seg>
-            <s>o 28 persónar fingu játtað fyritíðarpensjón, o 10 persónar fóru í arbeiðsbúgving sambært løgtingslóg um arbeiðsfremjandi tiltøk, o 9 persónar fingu fyribils hjálp sambært forsorgarlógini (forsorgarlógin er nú sett úr gildi, og almannalógin er komin í staðin), o 5 persónar høvdu onga ella heilt lága inntøku, o 1 persónur fekk aðra veiting, o 15 persónar fóru aftur til arbeiðis.</s>
           </p>
           <list rend="bulleted">
             <item>28 persónar fingu játtað fyritíðarpensjón,</item>
@@ -1311,6 +1341,7 @@
         </div>
         <div type="section" n="2.11.">
           <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+          <pb n="23" />
           <p>
             <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki ásetingar um skattir ella avgjøld.</s>
           </p>
@@ -1399,6 +1430,7 @@
           </table>
         </div>
       </div>
+      <pb n="24" />
       <div type="chapter" n="3">
         <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
         <div type="section" n="3.1.">
@@ -1444,7 +1476,7 @@
               <p>
                 <s xml:lang="fo" cert="high">Sambært nýggju ásetingini í § 5, stk. 3 skal Almannaverkið meta um, um tað er ósannlíkt, at persónur við útsettari pensjón, sum søkir um dagpening vegna sjúku, kann endurvinna fullan arbeiðsførleika, áðrenn hann røkkur markið ásett í § 12, stk. 2.</s>
                 <s xml:lang="fo" cert="high">Tað vil siga, at um persónurin verður mettur ikki at kunna endurvinna fullan arbeiðsførleika, áðrenn hann hevur verið sjúkrameldaður í 52 vikur í einum 18 mánaða skeiði, dettur rætturin til dagpening burtur beinanvegin.</s>
-                <s xml:lang="fo" cert="high">Hetta merkir, at tað er ikki nokk, at persónurin einans hevur endurvunnið lutvísan arbeiðsførleika, og at viðkomandi brúkar ásetingina um partvíst óarbeiðsføri, tá hann røkkur markinum á 52 vikur.</s>
+                <s xml:lang="fo" cert="high">Hetta merkir, at tað er ikki nokk, at persónurin einans hevur endurvunnið lutvísan <pb n="25" />arbeiðsførleika, og at viðkomandi brúkar ásetingina um partvíst óarbeiðsføri, tá hann røkkur markinum á 52 vikur.</s>
               </p>
               <p>
                 <s xml:lang="fo" cert="high">Metingin skal taka støði í eini læknaligari meting, sum verður gjørd beinanvegin í sambandi við viðgerð av umsókn og skal síðani gerast, hvørja 8. viku, so leingi viðkomandi fær dagpening vegna sjúku.</s>
@@ -1491,6 +1523,7 @@
                 <s xml:lang="fo" cert="high">Í § 14 a, stk. 1 er “egnum” strikað.</s>
                 <s xml:lang="fo" cert="high">Tað merkir, at stjórin kann eiga felagið saman við øðrum, ella tað kann vera ein triði persónur, sum eigur felagið.</s>
               </p>
+              <pb n="26" />
               <p>
                 <s xml:lang="fo" cert="high">Ásetingin í § 14, stk. 2, nr. 1 er óbroytt.</s>
               </p>
@@ -1530,7 +1563,8 @@
           <div type="subsection">
             <head rend="bold">Til § 2</head>
             <p>
-              <s xml:lang="fo" cert="medium">Ásett verður, at løgtingslógin kemur í gildi 1. apríl 2022</s>
+              <!-- <s xml:lang="fo">Ásett verður, at løgtingslógin kemur í gildi 1. apríl 2022</s> -->
+              <s xml:lang="fo" cert="high" resp="#rani">Ásett verður, at løgtingslógin kemur í gildi 1. apríl 2022.</s>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Skiftisreglan merkir, at persónur, sum er vorðin sjúkur áðrenn 1. apríl 2022, og har sjúkuskeiðið ikki er liðugt, tá henda løgtingslógin kemur í gildi, er fevndur av hesi lógini.</s>
@@ -1543,7 +1577,7 @@
           </div>
         </div>
       </div>
-      <space dim="vertical" />
+      <pb n="27" />
       <div type="signature">
         <dateline><orgName>Almannamálaráðið</orgName>, <date when="2022-01-25">25. januar 2022</date></dateline>
         <space dim="vertical" />
