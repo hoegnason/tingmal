@@ -1024,50 +1024,50 @@
         </div>
         <div type="section">
           <head rend="bold">3. Innihaldið í lógaruppskotinum</head>
-          <p rend="italic">
-            <s xml:lang="fo" cert="low">a) Nýtsluøkið hjá lógini</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Lógarinnar landafrøðiliga nýtsluøki er lyklamiðstøð etablerað í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Lógin setur ikki serlig krøv til lyklamiðstøðir og elektroniskar undirskriftir við uppruna í londum innan fyri Europeiska Felagsskapin, ella í londum uttan fyri ES, men gevur tó møguleika fyri, at hesi kunnu viðurkennast rættarliga á sama hátt, sum prógv, ið verða útgivin á føroyskum lyklamiðstøðum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Lógin fevnir ikki um nýtslu av prógvum og elektroniskum undirskriftum, sum bara verða nýttar innan fyri stongdar skipanir, sum eru grundaðar á sjálvbodnar avtalur millum eitt avmarkað tal av luttakarum.</s>
-          </p>
-          <p rend="italic">
-            <s xml:lang="fo" cert="low">b) Tøknineturalitet</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur støði í ynskinum um at tryggja tøkniligt lutloysi og neyva regulering.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Í framhaldi av hesum er nýtsluøkið hjá lógaruppskotinum elektroniskar undirskriftir og ikki bara talgildar undirskriftir, sum í dag er høvuðstøknin.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Ein elektronisk undirskrift er ein teknisk fyriskipan, sum í prinsippinum gevur sama funktionalitet sum ein verulig hondskrivað undirskrift, nevniliga at hon knýtir eina ávísa dátumongd til ein ávísan persón.</s>
-            <s xml:lang="fo" cert="high">Elektroniskar undirskriftir eru tøkar í fleiri ymiskum frábrigdum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="medium">í løtuni.</s>
-            <s xml:lang="fo" cert="high">Ein talgild undirskrift gevur trygd fyri samleika hjá sendaranum, og at boðini ikki eru broytt á vegnum (integritetur).</s>
-            <s xml:lang="fo" cert="high">Ein talgild undirskrift verður framleidd við hjálp av einum edv-forriti, sum byggir á nýtslu av public key bronglanartøkni.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Public key brongan er eitt serligt slag av bronglan.</s>
-            <s xml:lang="fo" cert="high">Bronglan er ein tøkni at avlaga eina mongd av upplýsingum eftir eini ásettari meginreglu.</s>
-            <s xml:lang="fo" cert="high">Til dømis kann hvør bókstavur í einum teksti býtast um við ein bókstav eitt stað longri frammi í bókstavaraðnum.</s>
-            <s xml:lang="fo" cert="high">Í nevnda dømi verður sami lykil nýttur til at avlaga og flyta tekstin aftur.</s>
-            <s xml:lang="fo" cert="high">Við publik key – krytering verða afturímóti nýttir tveir eftir meginreglu ymiskir lyklar, sum eru knýttir hvør at øðrum soleiðis, at ein tekstur, sum er dulmál við hjálp av tí eina lykli (uttan týdning hvør), einans kann avbronglast við hjálp av hinum lyklinum.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Navnið “public key” skyldast, at tað gjøgnum tílíka skipan kann verða grundað ein lyklamiðstøð, har tann eini (almenni) lykilin er skrásettur hjá lyklamiðstøðini, og sum mótvegis møguligum pørtum sum samskifta vátta, hvør persónur ræður yvir viðkomandi lykli.</s>
-            <s xml:lang="fo" cert="high">Við at nýta public key bronglan fæst eitt høgt trygdarstøði viðv. samleikanum hjá avsendaranum, uttan at tørvur er at avtala loyniorð, ella skifta um lyklar frammanundan.</s>
-          </p>
-          <p>
-            <s xml:lang="fo" cert="high">Tað er umráðandi at taka fram, at marknaðurin fyri elektroniskum undirskriftum, eins og so nógvir aðrir partar av KT-verðini, er merkt av ógvusligum tøkniligum framburði.</s>
-            <s xml:lang="fo" cert="high">Tað ger tað ógvuliga trupult at spáa um, hvussu hesin marknaður fer at menna seg.</s>
-            <s xml:lang="fo" cert="high">Tað ger eisini, at myndin av teimum tøkniligu møguleikunum og hættir, sum hesir virka, støðugt broyta seg, og at ein umfatandi tøkniserstøk regulering ikki er møgulig.</s>
-          </p>
+          <div type="subsection">
+            <head rend="italic"><label>a)</label> Nýtsluøkið hjá lógini</head>
+            <p>
+              <s xml:lang="fo" cert="high">Lógarinnar landafrøðiliga nýtsluøki er lyklamiðstøð etablerað í Føroyum.</s>
+              <s xml:lang="fo" cert="high">Lógin setur ikki serlig krøv til lyklamiðstøðir og elektroniskar undirskriftir við uppruna í londum innan fyri Europeiska Felagsskapin, ella í londum uttan fyri ES, men gevur tó møguleika fyri, at hesi kunnu viðurkennast rættarliga á sama hátt, sum prógv, ið verða útgivin á føroyskum lyklamiðstøðum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Lógin fevnir ikki um nýtslu av prógvum og elektroniskum undirskriftum, sum bara verða nýttar innan fyri stongdar skipanir, sum eru grundaðar á sjálvbodnar avtalur millum eitt avmarkað tal av luttakarum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic"><label>b)</label> Tøknineturalitet</head>
+            <p>
+              <s xml:lang="fo" cert="high">Lógaruppskotið hevur støði í ynskinum um at tryggja tøkniligt lutloysi og neyva regulering.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Í framhaldi av hesum er nýtsluøkið hjá lógaruppskotinum elektroniskar undirskriftir og ikki bara talgildar undirskriftir, sum í dag er høvuðstøknin.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ein elektronisk undirskrift er ein teknisk fyriskipan, sum í prinsippinum gevur sama funktionalitet sum ein verulig hondskrivað undirskrift, nevniliga at hon knýtir eina ávísa dátumongd til ein ávísan persón.</s>
+              <s xml:lang="fo" cert="high">Elektroniskar undirskriftir eru tøkar í fleiri ymiskum frábrigdum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ein talgild undirskrift er tann tekniska loysnin upp á eina elektroniska undirskrift, sum er ráðandi í løtuni.</s>
+              <s xml:lang="fo" cert="high">Ein talgild undirskrift gevur trygd fyri samleika hjá sendaranum, og at boðini ikki eru broytt á vegnum (integritetur).</s>
+              <s xml:lang="fo" cert="high">Ein talgild undirskrift verður framleidd við hjálp av einum edv- forriti, sum byggir á nýtslu av public key bronglanartøkni.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Public key brongan er eitt serligt slag av bronglan.</s>
+              <s xml:lang="fo" cert="high">Bronglan er ein tøkni at avlaga eina mongd av upplýsingum eftir eini ásettari meginreglu.</s>
+              <s xml:lang="fo" cert="high">Til dømis kann hvør bókstavur í einum teksti býtast um við ein bókstav eitt stað longri frammi í bókstavaraðnum.</s>
+              <s xml:lang="fo" cert="high">Í nevnda dømi verður sami lykil nýttur til at avlaga og flyta tekstin aftur.</s>
+              <s xml:lang="fo" cert="high">Við publik key – krytering verða afturímóti nýttir tveir eftir meginreglu ymiskir lyklar, sum eru knýttir hvør at øðrum soleiðis, at ein tekstur, sum er dulmál við hjálp av tí eina lykli (uttan týdning hvør), einans kann avbronglast við hjálp av hinum lyklinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Navnið “public key” skyldast, at tað gjøgnum tílíka skipan kann verða grundað ein lyklamiðstøð, har tann eini (almenni) lykilin er skrásettur hjá lyklamiðstøðini, og sum mótvegis møguligum pørtum sum samskifta vátta, hvør persónur ræður yvir viðkomandi lykli.</s>
+              <s xml:lang="fo" cert="high">Við at nýta public key bronglan fæst eitt høgt trygdarstøði viðv. samleikanum hjá avsendaranum, uttan at tørvur er at avtala loyniorð, ella skifta um lyklar frammanundan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tað er umráðandi at taka fram, at marknaðurin fyri elektroniskum undirskriftum, eins og so nógvir aðrir partar av KT-verðini, er merkt av ógvusligum tøkniligum framburði.</s>
+              <s xml:lang="fo" cert="high">Tað ger tað ógvuliga trupult at spáa um, hvussu hesin marknaður fer at menna seg.</s>
+              <s xml:lang="fo" cert="high">Tað ger eisini, at myndin av teimum tøkniligu møguleikunum og hættir, sum hesir virka, støðugt broyta seg, og at ein umfatandi tøkniserstøk regulering ikki er møgulig.</s>
+            </p>
+          </div>
           <p>
             <s xml:lang="fo" cert="medium"><hi rend="italic">c) Vanlig prógv ímóti skikkaðum prógvum </hi>Í lógaruppskotinum verður sett ein røð av krøvum til lyklamiðstøðirnar, sum útbjóða sokallað skikkað prógv.</s>
             <s xml:lang="fo" cert="high">Krøvini fevna um bæði innihald av einum skikkaðum prógvi og tær skipanir og arbeiðsgongdir, sum lyklamiðstøðin nýtir.</s>
