@@ -68,13 +68,24 @@
                   <label rend="bold">§ 1.</label>
                   <seg xml:lang="fo">Endamálið við lógini er: at verja einstaklingin í sambandi við</seg>
                   <list>
+                    <!-- TODO: extract this later! -->
                     <item>
                       <label>1)</label>
                       <seg xml:lang="fo">ílegugransking, at skapa fortreytir fyri og stimbra</seg>
                     </item>
                     <item>
                       <label>2)</label>
-                      <seg xml:lang="fo">gransking í mannaílegum í Føroyum, soleiðis at slík gransking kann vera við til at: menna førleikan at lekja og a. fyribyrgja sjúkum, menna almennu heilsutænastuna. b.</seg>
+                      <seg xml:lang="fo">gransking í mannaílegum í Føroyum, soleiðis at slík gransking kann vera við til at:</seg>
+                      <list>
+                        <label>a.</label>
+                        <item>
+                          <seg>menna førleikan at lekja og fyribyrgja sjúkum</seg>
+                        </item>
+                        <label>b.</label>
+                        <item>
+                          <seg>menna almennu heilsutænastuna.</seg>
+                        </item>
+                      </list>
                     </item>
                   </list>
                 </p>
@@ -108,6 +119,47 @@
                   <s xml:lang="fo" cert="high"><hi rend="bold">Vísindasiðsemilógin</hi>: Anordning nr. 862 af 30.11.1999 om ikrafttræden for Færøerne af lov om et videnskabsetisk komitésystem og behandling af biomedicinske forskningsprojekter við seinni broytingum.</s>
                   <s xml:lang="fo" cert="high"><hi rend="bold">Vísindasiðseminevnd Føroya</hi>: Tann í vísindasiðsemilógini nevnda ”Den færøske regionale komité”, ella ”den centrale komité”, um ætlanir verða lagdar til teirra metingar.</s>
                 </p>
+                <list>
+                  <!-- Maybe this should be a "gloss"? -->
+                  <label rend="bold"><term>Ílegugransking</term>:</label>
+                  <item>
+                    <s>Lógin fevnir einans um gransking í mannaílegum, sum er tengd at ættartræi.</s>
+                  </item>
+                  <label rend="bold"><term>Vevnaðarskrá</term>:</label>
+                  <item>
+                    <seg>Ein biobanki, ið inniheldur vevnað frá menniskjum.</seg>
+                  </item>
+                  <label rend="bold"><term>Diagnosuskrá</term>:</label>
+                  <item>
+                    <seg>Ein skrá av diagnosum, sum heilsuverkið hevur diagnostiserað.</seg>
+                  </item>
+                  <label rend="bold"><term>Ættarbandsskrá</term>:</label>
+                  <item>
+                    <seg>Ættartræ yvir føroyingar.</seg>
+                  </item>
+                  <label rend="bold"><term>Vevnaður</term>:</label>
+                  <item>
+                    <seg>Lívrunnið (organiskt) tilfar, t.d. blóð frá persóni, livandi ella deyðum.</seg>
+                  </item>
+                  <label rend="bold"><term>Heilsuupplýsingar</term>:</label>
+                  <item>
+                    <s>Upplýsingar, sum fevna um heilsuviðurskifti hjá føroyingum, herundir diagnosur, sjúkuviðgerðir, kanningarúrslit og heilivágsnýtslu.</s>
+                  </item>
+                  <label rend="bold"><term>Navnloynd</term>:</label>
+                  <item>
+                    <s>Ávísar dátur eru tiknar burtur, soleiðis at ikki er møguligt at eyðmerkja einstakar persónar.</s>
+                    <s>Hesar dátur eru til dømis navn, starv, bústaður, føðingardagur, deyðadagur, føðingarstaður, navn á hjúnafelaga og systkjum og persónsnummar.</s>
+                  </item>
+                  <label rend="bold"><term>WHO-flokking</term>:</label>
+                  <item>
+                    <seg>Tann galdandi WHO- flokkingin av sjúkum, nevnd: International Classification of Diseases and Health Related Problems (ICD).</seg>
+                  </item>
+                  <label rend="bold"><term>Heilsuverkið</term>:</label>
+                  <item>
+                    <s>Sjúkrahús, kommunulæknar, apoteksverkið og tannlæknar.</s>
+                  </item>
+                  <label rend="bold"><term>Heilsuverkið</term>:</label>
+                </list>
               </div>
             </div>
           </div>
