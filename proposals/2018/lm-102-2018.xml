@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="1970-01-01" />
+        <date when="1970-01-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/k3hscmgt">Kristina Háfoss</persName>
             <roleName>landsstýrismaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/42869" />
+          <ref target="https://www.logting.fo/documents/42869"/>
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2019-02-21">21. februar 2019</date>
           <idno type="case-number">18/00414</idno>
@@ -38,7 +37,7 @@
     </encodingDesc>
   </teiHeader>
   <standOff>
-    <seg xml:lang="fo" type="sentence" resp="#rani">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til, at útboðið av bústøðum kring landið veksur munandi, og at viðurskiftini á føroyska leigumarknaðinum verða meira skipað.</seg>
+    <seg xml:lang="fo" type="sentence" resp="#rani" xml:id="lnjfvobbwi">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til, at útboðið av bústøðum kring landið veksur munandi, og at viðurskiftini á føroyska leigumarknaðinum verða meira skipað.</seg>
   </standOff>
   <text>
     <body>
@@ -56,14 +55,14 @@
           <cell rend="meta-cell">01.02.2019</cell>
         </row>
       </table>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <ab>
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um Húsalánsgrunn</ab>
         <ab rend="center">(Heimild at útskriva lánsbrøv og til at útvega lutaíbúðir)</ab>
       </ab>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="chapter" n="0">
         <div>
           <head rend="bold center">§ 1</head>
@@ -84,7 +83,7 @@
               </p>
               <q>
                 <p>
-                  <s>Húsalánsgrunnurin kann eisini útvega lutaíbúðir til lutaíbúðafeløg.</s>
+                  <s xml:id="ah3665nzly">Húsalánsgrunnurin kann eisini útvega lutaíbúðir til lutaíbúðafeløg.</s>
                 </p>
               </q>
             </item>
@@ -95,8 +94,8 @@
               </p>
               <q>
                 <p>
-                  <s>Húsalánsgrunnurin kann fíggja bygging av bústøðum upp til 500 mió. kr. við at skriva út lánsbrøv til íleggjarar í Føroyum, við at taka lán frá stovnsligum íleggjarum í Føroyum ella við bankaláni úr føroyskum banka.</s>
-                  <s>Í minsta lagi helmingurin av fíggingini skal stava frá lánsbrøvum til íleggjarar í Føroyum.</s>
+                  <s xml:id="qfddxujkv2">Húsalánsgrunnurin kann fíggja bygging av bústøðum upp til 500 mió. kr. við at skriva út lánsbrøv til íleggjarar í Føroyum, við at taka lán frá stovnsligum íleggjarum í Føroyum ella við bankaláni úr føroyskum banka.</s>
+                  <s xml:id="lhicichhmz">Í minsta lagi helmingurin av fíggingini skal stava frá lánsbrøvum til íleggjarar í Føroyum.</s>
                 </p>
               </q>
             </item>
@@ -105,7 +104,7 @@
         <div>
           <head rend="bold center">§ 2</head>
           <p>
-            <s>Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="q5vfgonrmu">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
           </p>
         </div>
       </div>
@@ -116,7 +115,7 @@
           <div type="subsection">
             <head rend="bold italic">Um bústaðapakkan</head>
             <p>
-              <s xml:lang="fo" cert="high">Føroya Landsstýri tók á heysti 2018 stig til ein umfatandi bústaðapakka, ið millum annað fevnir um hetta lógaruppskotið.</s>
+              <s xml:lang="fo" cert="high" xml:id="xr7obnas56">Føroya Landsstýri tók á heysti 2018 stig til ein umfatandi bústaðapakka, ið millum annað fevnir um hetta lógaruppskotið.</s>
             </p>
             <p>
               <seg xml:lang="fo">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til,</seg>
@@ -126,14 +125,14 @@
               <item>at viðurskiftini á føroyska leigumarknaðinum verða meira skipað.</item>
             </list>
             <p>
-              <s xml:lang="fo" cert="high">Nøkur av átøkunum í bústaðapakkanum eru bráðfeingis.</s>
-              <s xml:lang="fo" cert="high">Onnur átøk eru meira langskygd og hava sum endamál at fjøltátta mynstrið á føroyska bústaðamarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="djituhyjbt">Nøkur av átøkunum í bústaðapakkanum eru bráðfeingis.</s>
+              <s xml:lang="fo" cert="high" xml:id="m3wddwxocq">Onnur átøk eru meira langskygd og hava sum endamál at fjøltátta mynstrið á føroyska bústaðamarknaðinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Felags fyri átøkini er, at tey eru partur av eini ætlan hjá politisku skipanini at fáa til vega fleiri bústaðir kring landið og harvið bøta um bústaðatrotið, sum seinastu árini er vorðið alsamt meira sjónligt.</s>
+              <s xml:lang="fo" cert="high" xml:id="vg7rhx6jhg">Felags fyri átøkini er, at tey eru partur av eini ætlan hjá politisku skipanini at fáa til vega fleiri bústaðir kring landið og harvið bøta um bústaðatrotið, sum seinastu árini er vorðið alsamt meira sjónligt.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sjóneykan er serliga á leigubústaðir, tí kanningar vísa, at har er eftirspurningurin og tørvurin størstur.</s>
+              <s xml:lang="fo" cert="high" xml:id="nlop56ivpf">Sjóneykan er serliga á leigubústaðir, tí kanningar vísa, at har er eftirspurningurin og tørvurin størstur.</s>
             </p>
             <p>
               <seg xml:lang="fo">Bústaðapakkin fevnir millum annað um hesi átøk:</seg>
@@ -146,12 +145,12 @@
                 <ab rend="underline">Átøk at økja um útboð av privatum og almennum leigubústøðum:</ab>
                 <list rend="bulleted">
                   <item>
-                    <s>Bústaðir fáa heimild til at útskriva lánsbrøv á 250 mió. kr.</s>
-                    <s>Lánsbrøvini hava trygd í føstu ognunum hjá Bústøðum.</s>
-                    <s>Hetta skal fíggja eina framskundaða bygging av um 200 nýggjum leigubústøðum kring landið.</s>
+                    <s xml:id="tejls5gvsa">Bústaðir fáa heimild til at útskriva lánsbrøv á 250 mió. kr.</s>
+                    <s xml:id="yy24ekkidm">Lánsbrøvini hava trygd í føstu ognunum hjá Bústøðum.</s>
+                    <s xml:id="ajanlmyji3">Hetta skal fíggja eina framskundaða bygging av um 200 nýggjum leigubústøðum kring landið.</s>
                   </item>
                   <item>
-                    <s>Botnfrádrátturin fyri leiguinntøkur verður hækkaður úr 50 tús. kr. til 100 tús. kr.</s>
+                    <s xml:id="gsxji53523">Botnfrádrátturin fyri leiguinntøkur verður hækkaður úr 50 tús. kr. til 100 tús. kr.</s>
                   </item>
                 </list>
               </item>
@@ -159,7 +158,7 @@
                 <ab rend="underline">Átak at tryggja ein betur skipaðan leigumarknað:</ab>
                 <list rend="bulleted">
                   <item>
-                    <s>Leigunevndin, sum higartil bara hevur kunnað tikið støðu til hækkingar, fær nú eisini heimild at seta til viks leiguna, sum partarnir sínámillum hava avtalað.</s>
+                    <s xml:id="a6infrowvn">Leigunevndin, sum higartil bara hevur kunnað tikið støðu til hækkingar, fær nú eisini heimild at seta til viks leiguna, sum partarnir sínámillum hava avtalað.</s>
                   </item>
                 </list>
               </item>
@@ -167,8 +166,8 @@
                 <ab rend="underline">Átak at koma teimum, ið hava ein bráðfeingis bústaðatørv, betur til hjálpar</ab>
                 <list rend="bulleted">
                   <item>
-                    <s>Ein bráðtørvslisti, við tilhoyrandi íbúðum, verður stovnaður.</s>
-                    <s>Bráðtørvslistin er ætlaður teimum, ið hava ein bráðfeingis bústaðatørv.</s>
+                    <s xml:id="h7xxydsn2m">Ein bráðtørvslisti, við tilhoyrandi íbúðum, verður stovnaður.</s>
+                    <s xml:id="mauet3xoxf">Bráðtørvslistin er ætlaður teimum, ið hava ein bráðfeingis bústaðatørv.</s>
                   </item>
                 </list>
               </item>
@@ -176,7 +175,7 @@
                 <ab rend="underline">Átak at javnseta tað privata við tað almenna</ab>
                 <list rend="bulleted">
                   <item>
-                    <s>Almannaverkið fær heimild at gera avtalur við privat um ávísingarrætt til leigubústaðir.</s>
+                    <s xml:id="tjmsa4wina">Almannaverkið fær heimild at gera avtalur við privat um ávísingarrætt til leigubústaðir.</s>
                   </item>
                 </list>
               </item>
@@ -185,198 +184,198 @@
           <div type="subsection">
             <head rend="bold italic">Um lógaruppskotið</head>
             <p>
-              <s xml:lang="fo" cert="high">Lógaruppskotið er partur av bústaðapakkanum hjá landsstýrinum.</s>
-              <s xml:lang="fo" cert="high">Landsstýrið ásannar, at stórar avbjóðingar eru á føroyska bústaðamarknaðinum, og landsstýrið hevur tí arbeitt við einum bústaðapakka við ymiskum átøkum, sum ætlandi fara at bøta um støðuna á bústaðamarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="aiwflkvur7">Lógaruppskotið er partur av bústaðapakkanum hjá landsstýrinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="hbfjn3cvd2">Landsstýrið ásannar, at stórar avbjóðingar eru á føroyska bústaðamarknaðinum, og landsstýrið hevur tí arbeitt við einum bústaðapakka við ymiskum átøkum, sum ætlandi fara at bøta um støðuna á bústaðamarknaðinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Bústaðir hava í løtuni um 260 leigubústaðir í rakstri kring landið.</s>
-              <s xml:lang="fo" cert="high">Bústaðir hava innan fyri verandi fíggingarmøguleikar og við verandi lániheimild um 200 leiguíbúðir í gerð, og aðrar um 200 leiguíbúðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="fi4kflu2xu">Bústaðir hava í løtuni um 260 leigubústaðir í rakstri kring landið.</s>
+              <s xml:lang="fo" cert="high" xml:id="xb2k4mr3mi">Bústaðir hava innan fyri verandi fíggingarmøguleikar og við verandi lániheimild um 200 leiguíbúðir í gerð, og aðrar um 200 leiguíbúðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hetta lógaruppskotið fer at gera tað møguligt hjá Bústøðum at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðareindir kring landið árini 2019 til um 2021.</s>
-              <s xml:lang="fo" cert="high">Sostatt kunnu Bústaðir hava út við 900 íbúðareindir í rakstri um nøkur fá ár, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="lvzdm46oeu">Hetta lógaruppskotið fer at gera tað møguligt hjá Bústøðum at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðareindir kring landið árini 2019 til um 2021.</s>
+              <s xml:lang="fo" cert="high" xml:id="rwflbuc7b2">Sostatt kunnu Bústaðir hava út við 900 íbúðareindir í rakstri um nøkur fá ár, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan verður eftir ætlan um smáar og standardiseraðar íbúðir við høgari góðsku og sum lúka øll krøv í føroysku bygningskunngerðini, sum fekk gildi frá 2017.</s>
-              <s xml:lang="fo" cert="high">Støddin á íbúðunum verður úr um 50 m2 til um 100 m2, og miðalstøddin á íbúðunum verður um 60 m2.</s>
+              <s xml:lang="fo" cert="high" xml:id="lj6zhnjpqs">Talan verður eftir ætlan um smáar og standardiseraðar íbúðir við høgari góðsku og sum lúka øll krøv í føroysku bygningskunngerðini, sum fekk gildi frá 2017.</s>
+              <s xml:lang="fo" cert="high" xml:id="xjmimaevsu">Støddin á íbúðunum verður úr um 50 m2 til um 100 m2, og miðalstøddin á íbúðunum verður um 60 m2.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
-              <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
+              <s xml:lang="fo" cert="high" xml:id="a3sieyejbf">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
+              <s xml:lang="fo" cert="high" xml:id="tqgkkhj6zw">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
-              <s xml:lang="fo" cert="high">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
+              <s xml:lang="fo" cert="high" xml:id="vr3ep5xzcw">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ddwxncoqof">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="nthu6afi5r">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Eisini stuðlar lógarbroytingin undir at fáa fleiri føroysk lánsbrøv.</s>
-              <s xml:lang="fo" cert="high">Harvið er lógaruppskotið ikki bara við til at skapa eitt bústaðaundirstøðukervi men eisini eitt fíggjarligt undirstøðukervi.</s>
+              <s xml:lang="fo" cert="high" xml:id="rehu6cbcbq">Eisini stuðlar lógarbroytingin undir at fáa fleiri føroysk lánsbrøv.</s>
+              <s xml:lang="fo" cert="high" xml:id="zpf44i3zbl">Harvið er lógaruppskotið ikki bara við til at skapa eitt bústaðaundirstøðukervi men eisini eitt fíggjarligt undirstøðukervi.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold italic">Yvirskipað um Bústaðir og støðuna á bústaðarmaknaðinum</head>
             <p>
-              <s xml:lang="fo" cert="high">Húsalánsgrunnurin varð í 2011 umskipaður til eitt alment bústaðafelag – <hi rend="italic">Bústaðir</hi>.</s>
-              <s xml:lang="fo" cert="high">Endamálið við umskipanini var, at <hi rend="italic">Bústaðir</hi> frameftir skuldi hava ein meira virknan leiklut á bústaðaøkinum við tað, at felagið nú sjálvt skuldi fara undir at útvega og umsita leigubústaðir.</s>
-              <s xml:lang="fo" cert="high">Ætlanin var eisini, at <hi rend="italic">Bústaðir </hi>skuldi virka sum eitt bústaðapolitiskt amboð, ið kundi veita ráðgeving, og sum kundi arbeiða fyri meira skipaðum viðurskiftum á leigu- og lutaíbúðamarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="iwqxnfv2hh">Húsalánsgrunnurin varð í 2011 umskipaður til eitt alment bústaðafelag – <hi rend="italic">Bústaðir</hi>.</s>
+              <s xml:lang="fo" cert="high" xml:id="n5houohvjr">Endamálið við umskipanini var, at <hi rend="italic">Bústaðir</hi> frameftir skuldi hava ein meira virknan leiklut á bústaðaøkinum við tað, at felagið nú sjálvt skuldi fara undir at útvega og umsita leigubústaðir.</s>
+              <s xml:lang="fo" cert="high" xml:id="qxwo5ddehn">Ætlanin var eisini, at <hi rend="italic">Bústaðir </hi>skuldi virka sum eitt bústaðapolitiskt amboð, ið kundi veita ráðgeving, og sum kundi arbeiða fyri meira skipaðum viðurskiftum á leigu- og lutaíbúðamarknaðinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Síðani 2012 hevur <hi rend="italic">Bústaðir</hi> útvegað um 300 leigubústaðir, og gongd er í nógvum byggiverkætlanum, harav fleiri verkætlanir eftir ætlan koma at standa lidnar longu í 2019.</s>
-              <s xml:lang="fo" cert="high">Almenna bústaðafelagið hevur sostatt upp á fá ár megnað at slóða fyri einum væl meira útbygdum føroyskum leigumarknaði.</s>
+              <s xml:lang="fo" cert="high" xml:id="l6igntqcu4">Síðani 2012 hevur <hi rend="italic">Bústaðir</hi> útvegað um 300 leigubústaðir, og gongd er í nógvum byggiverkætlanum, harav fleiri verkætlanir eftir ætlan koma at standa lidnar longu í 2019.</s>
+              <s xml:lang="fo" cert="high" xml:id="a23itlztqm">Almenna bústaðafelagið hevur sostatt upp á fá ár megnað at slóða fyri einum væl meira útbygdum føroyskum leigumarknaði.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hóast hetta, hevur føroyski bústaðamarknaðurin kanska ongantíð verið undir størri trýsti, enn hann í løtuni er.</s>
-              <s xml:lang="fo" cert="high">Høvuðsorsøkin er søguligi fólkavøksturin upp á um 6% síðani 2013, men sambært <hi rend="italic">Bústøðum</hi> eru tað eisini onnur viðurskifti, ið gera seg galdandi: Húsarhaldsstøddin er minkað úr 3,5 til 2,5 persónar í miðal, eldri borgarar ynskja sær smærri bústaðir.</s>
-              <s xml:lang="fo" cert="high">Størri trýst á miðstaðarøkini og búskaparvøksturin hava við sær høgar byggikostnaðir og harav avleiddar prísir og leigur.</s>
+              <s xml:lang="fo" cert="high" xml:id="jrve52ngvr">Hóast hetta, hevur føroyski bústaðamarknaðurin kanska ongantíð verið undir størri trýsti, enn hann í løtuni er.</s>
+              <s xml:lang="fo" cert="high" xml:id="qg2dqkjg7x">Høvuðsorsøkin er søguligi fólkavøksturin upp á um 6% síðani 2013, men sambært <hi rend="italic">Bústøðum</hi> eru tað eisini onnur viðurskifti, ið gera seg galdandi: Húsarhaldsstøddin er minkað úr 3,5 til 2,5 persónar í miðal, eldri borgarar ynskja sær smærri bústaðir.</s>
+              <s xml:lang="fo" cert="high" xml:id="edlxfdpgsk">Størri trýst á miðstaðarøkini og búskaparvøksturin hava við sær høgar byggikostnaðir og harav avleiddar prísir og leigur.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Síðstu nógvu árini eru harafturat bygdir ov fáir nýggir bústaðir, sammett við fólkavøksturin.</s>
-              <s xml:lang="fo" cert="high">Fólkatalið er til dømis hækkað um 4.000 fólk síðstu fimm árini.</s>
-              <s xml:lang="fo" cert="high">Við húsarhaldsstødd á 2,5 í miðal krevur hetta um 1.600 nýggjar bústaðir.</s>
-              <s xml:lang="fo" cert="high">Hóast hetta eru bara bygdir um 150-200 bústaðir um árið í miðal síðstu fimm árini.</s>
-              <s xml:lang="fo" cert="high">Hetta gevur eitt undirskot av nýggjum bústøðum á um 600 bústaðir síðstu fimm árini.</s>
-              <s xml:lang="fo" cert="high">Mett verður, at um 1.000 nýggir bústaðir eru ávegis í privatum ætlanum og í ætlanum hjá Bústøðum, men óvist er, nær hesir bústaðirnir eru liðugt bygdir.</s>
+              <s xml:lang="fo" cert="high" xml:id="crmyvk3xvo">Síðstu nógvu árini eru harafturat bygdir ov fáir nýggir bústaðir, sammett við fólkavøksturin.</s>
+              <s xml:lang="fo" cert="high" xml:id="pjjlpmdrsm">Fólkatalið er til dømis hækkað um 4.000 fólk síðstu fimm árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="x7tv3ystt6">Við húsarhaldsstødd á 2,5 í miðal krevur hetta um 1.600 nýggjar bústaðir.</s>
+              <s xml:lang="fo" cert="high" xml:id="pw7vjhzhva">Hóast hetta eru bara bygdir um 150-200 bústaðir um árið í miðal síðstu fimm árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="o6slhwsgmy">Hetta gevur eitt undirskot av nýggjum bústøðum á um 600 bústaðir síðstu fimm árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="scrbzhv2vf">Mett verður, at um 1.000 nýggir bústaðir eru ávegis í privatum ætlanum og í ætlanum hjá Bústøðum, men óvist er, nær hesir bústaðirnir eru liðugt bygdir.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Men nógv bendir á, at samlaði tørvurin á leigu- og eigaraíbúðum er munandi størri enn teir um 600 bústaðirnir, sum eru nevndar omanfyri.</s>
-              <s xml:lang="fo" cert="high">Líka síðani seinnu helvt av 1950’unum, tá ið fólkavøksturin tók dik á seg, og vælferðin mentist millum fólk, hevur verið undirskot av bústøðum í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Meginpartin av tíðini eftir seinna heimsbardaga hevur verið bygt ov lítið av sethúsum og smærri íbúðum, sammett við fólkavøksturin í landinum.</s>
-              <s xml:lang="fo" cert="high">Tí er eisini eitt bygnaðarligt og søguligt undirskot av bústøðum í landinum.</s>
-              <s xml:lang="fo" cert="high">Undirskotið kemur av, at ov lítið hevur verið bygt av sethúsum og smærri íbúðum, sammett við tørvin síðani síðst í 1950’unum.</s>
+              <s xml:lang="fo" cert="high" xml:id="nz33plm2gv">Men nógv bendir á, at samlaði tørvurin á leigu- og eigaraíbúðum er munandi størri enn teir um 600 bústaðirnir, sum eru nevndar omanfyri.</s>
+              <s xml:lang="fo" cert="high" xml:id="ithujjwz52">Líka síðani seinnu helvt av 1950’unum, tá ið fólkavøksturin tók dik á seg, og vælferðin mentist millum fólk, hevur verið undirskot av bústøðum í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="qqrwloufey">Meginpartin av tíðini eftir seinna heimsbardaga hevur verið bygt ov lítið av sethúsum og smærri íbúðum, sammett við fólkavøksturin í landinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="sczekg4b3n">Tí er eisini eitt bygnaðarligt og søguligt undirskot av bústøðum í landinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tdvnclzhiy">Undirskotið kemur av, at ov lítið hevur verið bygt av sethúsum og smærri íbúðum, sammett við tørvin síðani síðst í 1950’unum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold italic">Um føroyska leigumarknaðin og skeivleikar á bústaðamarknaðinum</head>
             <p>
-              <s xml:lang="fo" cert="high">Fleiri bygnaðarligir skeivleikar eru á føroyska bústaðamarknaðinum, sum hava stórar avbjóðingar við sær.</s>
-              <s xml:lang="fo" cert="high">Avbjóðingarnar vera sjálvandi serliga sjónligar, tá ið fólkavøkstur er.</s>
-              <s xml:lang="fo" cert="high">Bústaðaútboðið í Føroyum er sera einstáttað og siðbundið.</s>
-              <s xml:lang="fo" cert="high">Nógv og stór sethús eru, men bara fáar smærri og ódýrar leiguíbúðir eru.</s>
-              <s xml:lang="fo" cert="high">Nógv av sethúsunum hóska seg ikki til eldri fólk ella rørslutarnað, eins og staðsetingin ikki altíð er har, sum fólk ynskja at búgva.</s>
+              <s xml:lang="fo" cert="high" xml:id="t66znb34kt">Fleiri bygnaðarligir skeivleikar eru á føroyska bústaðamarknaðinum, sum hava stórar avbjóðingar við sær.</s>
+              <s xml:lang="fo" cert="high" xml:id="vzvir56k2p">Avbjóðingarnar vera sjálvandi serliga sjónligar, tá ið fólkavøkstur er.</s>
+              <s xml:lang="fo" cert="high" xml:id="vp5wffmcgx">Bústaðaútboðið í Føroyum er sera einstáttað og siðbundið.</s>
+              <s xml:lang="fo" cert="high" xml:id="jxdtfq4uyw">Nógv og stór sethús eru, men bara fáar smærri og ódýrar leiguíbúðir eru.</s>
+              <s xml:lang="fo" cert="high" xml:id="lz4hyyhvuq">Nógv av sethúsunum hóska seg ikki til eldri fólk ella rørslutarnað, eins og staðsetingin ikki altíð er har, sum fólk ynskja at búgva.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í flestu av okkara grannalondum hevur í fleiri áratíggju verið ein almennur leigumarknaður undir skipaðum viðurskiftum við smærri og ódýrum leiguíbúðum, meðan hetta bara hevur heilt fá ár á baki í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Eisini hetta er ein orsøk til, at undirskot er av smærri og ódýrum leiguíbúðum.</s>
+              <s xml:lang="fo" cert="high" xml:id="x5yqxjvqt4">Í flestu av okkara grannalondum hevur í fleiri áratíggju verið ein almennur leigumarknaður undir skipaðum viðurskiftum við smærri og ódýrum leiguíbúðum, meðan hetta bara hevur heilt fá ár á baki í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="jjclyznb6v">Eisini hetta er ein orsøk til, at undirskot er av smærri og ódýrum leiguíbúðum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Einstáttaða og siðbundna byggimynstrið í Føroyum hevur eisini gjørt, at ein skipaður, privatur leigumarknaður við smærri og ódýrum leiguíbúðum hevur ikki kunnað tikið seg upp í landinum.</s>
-              <s xml:lang="fo" cert="high">Føroyski íbúðarleigumarknaðurin fevnir fyri tað mesta um kjallaraíbúðir í sethúsum, sum fólk leiga út, tí avlopspláss er í húsunum.</s>
-              <s xml:lang="fo" cert="high">Vansin við tílíkum leigumálum er, at leigumálini eru ótrygg fyri leigaran og hóska seg heilt einfalt ikki til langtíðarleigu.</s>
+              <s xml:lang="fo" cert="high" xml:id="g47bsncp4g">Einstáttaða og siðbundna byggimynstrið í Føroyum hevur eisini gjørt, at ein skipaður, privatur leigumarknaður við smærri og ódýrum leiguíbúðum hevur ikki kunnað tikið seg upp í landinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="f5n7yn4mky">Føroyski íbúðarleigumarknaðurin fevnir fyri tað mesta um kjallaraíbúðir í sethúsum, sum fólk leiga út, tí avlopspláss er í húsunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ibv4hjtdrg">Vansin við tílíkum leigumálum er, at leigumálini eru ótrygg fyri leigaran og hóska seg heilt einfalt ikki til langtíðarleigu.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Alt bendir á, at bygnaðarliga undirskotið av íbúðaeindum er somikið stórt og av einum tílíkum slagi, at bæði landið, kommunurnar, byggifeløg, lánveitarar og íleggjarar mugu vísa vilja til at taka felags tøk fyri at loysa avbjóðingina næstu árini.</s>
-              <s xml:lang="fo" cert="high">Við hesum lógaruppskotinum tekur landsstýrið ítøkilig stig til at víðka fíggjarligu heimildirnar hjá Bústøðum til tess at loysa ein part av avbjóðingini.</s>
+              <s xml:lang="fo" cert="high" xml:id="f6g7vb2j2x">Alt bendir á, at bygnaðarliga undirskotið av íbúðaeindum er somikið stórt og av einum tílíkum slagi, at bæði landið, kommunurnar, byggifeløg, lánveitarar og íleggjarar mugu vísa vilja til at taka felags tøk fyri at loysa avbjóðingina næstu árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="tnmcw26zyo">Við hesum lógaruppskotinum tekur landsstýrið ítøkilig stig til at víðka fíggjarligu heimildirnar hjá Bústøðum til tess at loysa ein part av avbjóðingini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Ein atfinning, sum ofta verður nevnd í sambandi við leigubústaðir, er, at “<hi rend="italic">føroyingar ynskja ikki at búgva til leigu, men ynskja at eiga egin hús og at seta føtur undir egið borð</hi>”.</s>
-              <s xml:lang="fo" cert="high">Óivað er rætt, at flestu húski ynskja at eiga egin hús heldur enn at búgva til leigu.</s>
-              <s xml:lang="fo" cert="high">Fleiri húski og einstaklingar kunnu kortini koma í eina slíka støðu eitt tíðarskeið í lívinum, har tey ikki hava møguleika ella fíggjarligt rásarúm at fíggja og eiga egin hús.</s>
-              <s xml:lang="fo" cert="high">Í eini tílíkari støðu kann vera neyðugt og skilagott at búgva í einum leigubústaði í eitt avmarkað tíðarskeið til ráðini gera tað møguligt at fíggja og eiga egnan bústað.</s>
+              <s xml:lang="fo" cert="high" xml:id="vxbdlnb246">Ein atfinning, sum ofta verður nevnd í sambandi við leigubústaðir, er, at “<hi rend="italic">føroyingar ynskja ikki at búgva til leigu, men ynskja at eiga egin hús og at seta føtur undir egið borð</hi>”.</s>
+              <s xml:lang="fo" cert="high" xml:id="gb4u47565l">Óivað er rætt, at flestu húski ynskja at eiga egin hús heldur enn at búgva til leigu.</s>
+              <s xml:lang="fo" cert="high" xml:id="zwitx7dmlc">Fleiri húski og einstaklingar kunnu kortini koma í eina slíka støðu eitt tíðarskeið í lívinum, har tey ikki hava møguleika ella fíggjarligt rásarúm at fíggja og eiga egin hús.</s>
+              <s xml:lang="fo" cert="high" xml:id="cfjthrd2z5">Í eini tílíkari støðu kann vera neyðugt og skilagott at búgva í einum leigubústaði í eitt avmarkað tíðarskeið til ráðini gera tað møguligt at fíggja og eiga egnan bústað.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan kann vera um ungar familjur, sum fyri kortum eru byrjaðar á arbeiðsmarknaðinum.</s>
-              <s xml:lang="fo" cert="high">Talan kann eisini vera um lesandi ella stakar uppihaldarar.</s>
-              <s xml:lang="fo" cert="high">Fyri tílíkar bólkar kann vera bæði neyðugt og skilagott at búgva til leigu eitt tíðarskeið, til fíggjarliga rásarúmið ger tað møguligt at fíggja og eiga egnan bústað.</s>
+              <s xml:lang="fo" cert="high" xml:id="g4kejcnnas">Talan kann vera um ungar familjur, sum fyri kortum eru byrjaðar á arbeiðsmarknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="kgwlqyuyyn">Talan kann eisini vera um lesandi ella stakar uppihaldarar.</s>
+              <s xml:lang="fo" cert="high" xml:id="n3tjovz62o">Fyri tílíkar bólkar kann vera bæði neyðugt og skilagott at búgva til leigu eitt tíðarskeið, til fíggjarliga rásarúmið ger tað møguligt at fíggja og eiga egnan bústað.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Fyri eldri borgarar kann eisini vera neyðugt og skilagott at búgva í einum leigubústaði.</s>
-              <s xml:lang="fo" cert="high">Sethúsini kunnu til dømis ikki vera egnað til rørslutarnað fólk ella til koyristólar.</s>
-              <s xml:lang="fo" cert="high">Tá ið eldri fólk selja hús síni, leysgevur hetta hús á marknaðinum, sum aðrar, yngri familjur kunnu keypa.</s>
-              <s xml:lang="fo" cert="high">Hetta kann eisini vera ein máti hjá eldri fólki at fáa gagnnýtt tað frívirði, sum er í nógvum sethúsum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tce3emxghr">Fyri eldri borgarar kann eisini vera neyðugt og skilagott at búgva í einum leigubústaði.</s>
+              <s xml:lang="fo" cert="high" xml:id="mlly6iuv5i">Sethúsini kunnu til dømis ikki vera egnað til rørslutarnað fólk ella til koyristólar.</s>
+              <s xml:lang="fo" cert="high" xml:id="mfblg422wl">Tá ið eldri fólk selja hús síni, leysgevur hetta hús á marknaðinum, sum aðrar, yngri familjur kunnu keypa.</s>
+              <s xml:lang="fo" cert="high" xml:id="i5qmbwbfji">Hetta kann eisini vera ein máti hjá eldri fólki at fáa gagnnýtt tað frívirði, sum er í nógvum sethúsum.</s>
             </p>
           </div>
         </div>
         <div type="section" n="1.2.">
           <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
           <p>
-            <s xml:lang="fo" cert="high">Í galdandi lóggávu, løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn við seinni broytingum, er heimilað Bústøðum (gamla Húsalánsgrunninum) at læna tilsamans 250 mió. kr. frá føroyskum íleggjarum og stovnsligum føroyskum lánveitarum til at fíggja bústaðabygging.</s>
+            <s xml:lang="fo" cert="high" xml:id="rxnuy4vfsy">Í galdandi lóggávu, løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn við seinni broytingum, er heimilað Bústøðum (gamla Húsalánsgrunninum) at læna tilsamans 250 mió. kr. frá føroyskum íleggjarum og stovnsligum føroyskum lánveitarum til at fíggja bústaðabygging.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Við verandi lániheimild á 250 mió. kr. og við tí peningi, sum Bústaðir byrjaðu sítt virksemi við í 2011, kunnu fáast til vega tilsamans um 670 íbúðaeindir.</s>
-            <s xml:lang="fo" cert="high">Av hesum hevur Bústaðir um 260 íbúðaeindir í rakstri í løtuni umframt ætlanir um og fígging til at fáa til vega um 400 íbúðir omaná.</s>
+            <s xml:lang="fo" cert="high" xml:id="bn6bihy3no">Við verandi lániheimild á 250 mió. kr. og við tí peningi, sum Bústaðir byrjaðu sítt virksemi við í 2011, kunnu fáast til vega tilsamans um 670 íbúðaeindir.</s>
+            <s xml:lang="fo" cert="high" xml:id="rmpyeynpzn">Av hesum hevur Bústaðir um 260 íbúðaeindir í rakstri í løtuni umframt ætlanir um og fígging til at fáa til vega um 400 íbúðir omaná.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Landsstýrið ásannar, at hesar um 670 íbúðaeindirnar, sum Bústaðir eftir ætlan fara at hava í rakstri um nøkur ár, ikki eru nóg mikið til at nøkta tørvin á smærri og ódýrum leiguíbúðum kring landið.</s>
-            <s xml:lang="fo" cert="high">Hetta lógaruppskotið gevur Bústøðum møguleika at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðaeindir kring landið árini 2019 til 2021.</s>
-            <s xml:lang="fo" cert="high">Sostatt kunnu Bústaðir hava út við 900 íbúðaeindir í rakstri um nøkur fá ár, sum væntandi fer at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="beacjxi2es">Landsstýrið ásannar, at hesar um 670 íbúðaeindirnar, sum Bústaðir eftir ætlan fara at hava í rakstri um nøkur ár, ikki eru nóg mikið til at nøkta tørvin á smærri og ódýrum leiguíbúðum kring landið.</s>
+            <s xml:lang="fo" cert="high" xml:id="fdfdrupknc">Hetta lógaruppskotið gevur Bústøðum møguleika at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðaeindir kring landið árini 2019 til 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="r4eqg26zun">Sostatt kunnu Bústaðir hava út við 900 íbúðaeindir í rakstri um nøkur fá ár, sum væntandi fer at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Tær um 670 íbúðaeindirnar, sum verandi fíggingarmøguleikar geva Bústøðum møguleika at byggja, eru tí sannlíkt bara ein partur av samlaða tørvinum og undirskotinum, sum er á smærri og ódýrum leiguíbúðum kring alt landið.</s>
+            <s xml:lang="fo" cert="high" xml:id="m3ocoyqsg5">Tær um 670 íbúðaeindirnar, sum verandi fíggingarmøguleikar geva Bústøðum møguleika at byggja, eru tí sannlíkt bara ein partur av samlaða tørvinum og undirskotinum, sum er á smærri og ódýrum leiguíbúðum kring alt landið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
-            <s xml:lang="fo" cert="high">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="nadtxdnyfv">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="hmjbdl2cte">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústaðir sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
+            <s xml:lang="fo" cert="high" xml:id="bontjsxgtj">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústaðir sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
           </p>
         </div>
         <div type="section" n="1.3.">
           <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Endamálið við uppskotinum er at víðka verandi fíggingarmøguleikar hjá Bústøðum til at útskriva lánsbrøv við 250 mió. kr. við trygd í føstu ognunum hjá Bústøðum.</s>
-            <s xml:lang="fo" cert="high">Víðkaðu fíggingarmøguleikarnir fara at gera tað møguligt hjá Bústøðum at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðareindir kring landið árini 2019 til um 2021, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ond363jrpn">Endamálið við uppskotinum er at víðka verandi fíggingarmøguleikar hjá Bústøðum til at útskriva lánsbrøv við 250 mió. kr. við trygd í føstu ognunum hjá Bústøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="zclpgbkcnh">Víðkaðu fíggingarmøguleikarnir fara at gera tað møguligt hjá Bústøðum at fara undir eina ætlan at byggja 200-220 framskundaðar íbúðareindir kring landið árini 2019 til um 2021, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Landsstýrið hevur sett sær fyri, at hesar 200-220 íbúðaeindirnar verða bygdar kring alt landið í mun til, hvar tørvurin er.</s>
-            <s xml:lang="fo" cert="high">Sostatt fer átakið væntandi at bøta um bústaðatrotið kring alt landið.</s>
+            <s xml:lang="fo" cert="high" xml:id="uicdiimycl">Landsstýrið hevur sett sær fyri, at hesar 200-220 íbúðaeindirnar verða bygdar kring alt landið í mun til, hvar tørvurin er.</s>
+            <s xml:lang="fo" cert="high" xml:id="artnufz4ow">Sostatt fer átakið væntandi at bøta um bústaðatrotið kring alt landið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Eitt annað endamál við lógaruppskotinum er at stuðla undir ein føroyskan lánsbrævamarknað við at fáa fleiri føroysk lánsbrøv.</s>
-            <s xml:lang="fo" cert="high">Harvið er lógaruppskotið ikki bara við til at skapa eitt bústaðaundirstøðukervi men eisini eitt fíggjarligt undirstøðukervi.</s>
-            <s xml:lang="fo" cert="high">Í dag verður meginparturin av føroysku uppsparingini – til dømis tær 9,5 mia. kr. í pensjónsuppsparing – settur í útlendsk lánsbrøv.</s>
-            <s xml:lang="fo" cert="high">Til dømis verður ein ávísur partur settur í donsk realkredittlánsbrøv, ið eru við til at fíggja bústaðabygging í Danmark.</s>
-            <s xml:lang="fo" cert="high">Í Føroyum hava verið avmarkaðir møguleikar at seta uppsparing í føroysk lánsbrøv.</s>
-            <s xml:lang="fo" cert="high">Hetta lógaruppskotið letur upp fyri tí møguleikanum.</s>
+            <s xml:lang="fo" cert="high" xml:id="cyonxwew5z">Eitt annað endamál við lógaruppskotinum er at stuðla undir ein føroyskan lánsbrævamarknað við at fáa fleiri føroysk lánsbrøv.</s>
+            <s xml:lang="fo" cert="high" xml:id="l7kzmv35bl">Harvið er lógaruppskotið ikki bara við til at skapa eitt bústaðaundirstøðukervi men eisini eitt fíggjarligt undirstøðukervi.</s>
+            <s xml:lang="fo" cert="high" xml:id="ylz2m3pa72">Í dag verður meginparturin av føroysku uppsparingini – til dømis tær 9,5 mia. kr. í pensjónsuppsparing – settur í útlendsk lánsbrøv.</s>
+            <s xml:lang="fo" cert="high" xml:id="mjxtvsbnyd">Til dømis verður ein ávísur partur settur í donsk realkredittlánsbrøv, ið eru við til at fíggja bústaðabygging í Danmark.</s>
+            <s xml:lang="fo" cert="high" xml:id="m2a2u46fkc">Í Føroyum hava verið avmarkaðir møguleikar at seta uppsparing í føroysk lánsbrøv.</s>
+            <s xml:lang="fo" cert="high" xml:id="fii3rvn6rh">Hetta lógaruppskotið letur upp fyri tí møguleikanum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Verandi lániheimild hjá Bústøðum á 250 mió. kr. er gagnnýtt við at taka eitt sokallað syndikerað lán við trygd í fastari ogn hjá Bústøðum.</s>
-            <s xml:lang="fo" cert="high">Hetta er ikki ein heimild, ið ynskt verður at víðka.</s>
-            <s xml:lang="fo" cert="high">Hinvegin verður ynskt at tryggja, at víðkaða lániheimildin bæði er við til at fíggja nýggjar bústaðir og er við til at menna ein føroyskan lánsbrævamarknað.</s>
-            <s xml:lang="fo" cert="high">Um ynskt verður, at lánsbrævarøðin, sum nú kann útgevast á 250 mió. kr., skal vera ein størri upphædd, kann ein møguleiki vera at umleggja verandi syndikeraða lán á 250 mió. kr. heilt ella partvíst til lánsbrøv.</s>
-            <s xml:lang="fo" cert="high">Verður hetta valt, kann lánsbrævarøðin samanlagt vera 500 mió. kr. við trygd í fastari ogn hjá Bústøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jy7v5x2t3y">Verandi lániheimild hjá Bústøðum á 250 mió. kr. er gagnnýtt við at taka eitt sokallað syndikerað lán við trygd í fastari ogn hjá Bústøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="dzybssdiqd">Hetta er ikki ein heimild, ið ynskt verður at víðka.</s>
+            <s xml:lang="fo" cert="high" xml:id="q5wotussrf">Hinvegin verður ynskt at tryggja, at víðkaða lániheimildin bæði er við til at fíggja nýggjar bústaðir og er við til at menna ein føroyskan lánsbrævamarknað.</s>
+            <s xml:lang="fo" cert="high" xml:id="hohsoskv6n">Um ynskt verður, at lánsbrævarøðin, sum nú kann útgevast á 250 mió. kr., skal vera ein størri upphædd, kann ein møguleiki vera at umleggja verandi syndikeraða lán á 250 mió. kr. heilt ella partvíst til lánsbrøv.</s>
+            <s xml:lang="fo" cert="high" xml:id="gcefoviqjr">Verður hetta valt, kann lánsbrævarøðin samanlagt vera 500 mió. kr. við trygd í fastari ogn hjá Bústøðum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Endamálið við lógaruppskotinum er eisini at gera greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
-            <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="rgsoif76ek">Endamálið við lógaruppskotinum er eisini at gera greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="kud7wnfri6">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
-            <s xml:lang="fo" cert="high">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
+            <s xml:lang="fo" cert="high" xml:id="vgnszi35hu">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="eemm7modp5">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
+            <s xml:lang="fo" cert="high" xml:id="xqta5agutx">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Víst verður eisini á brot 1.1 omanfyri, har orsakirnar til lógaruppskotið eru lýstar.</s>
+            <s xml:lang="fo" cert="high" xml:id="qru6m3a55a">Víst verður eisini á brot 1.1 omanfyri, har orsakirnar til lógaruppskotið eru lýstar.</s>
           </p>
         </div>
         <div type="section" n="1.4.">
           <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Eins og nevnt omanfyri kunnu Bústaðir sambært verandi lániheimild læna tilsamans 250 mió. kr. frá føroyskum íleggjarum og stovnsligum føroyskum lánveitarum til at fíggja bústaðabygging.</s>
-            <s xml:lang="fo" cert="high">Verandi fíggingarmøguleikar hjá Bústøðum røkka til at byggja um 670 íbúðareindir tilsamans, harav um 260 íbúðareindir eru bygdar og eru í rakstri í løtuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="bea7xpxm6v">Eins og nevnt omanfyri kunnu Bústaðir sambært verandi lániheimild læna tilsamans 250 mió. kr. frá føroyskum íleggjarum og stovnsligum føroyskum lánveitarum til at fíggja bústaðabygging.</s>
+            <s xml:lang="fo" cert="high" xml:id="ezwpj2vzmq">Verandi fíggingarmøguleikar hjá Bústøðum røkka til at byggja um 670 íbúðareindir tilsamans, harav um 260 íbúðareindir eru bygdar og eru í rakstri í løtuni.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Bústaðir hava innan fyri verandi fíggingarmøguleikar og lániheimild um 200 leiguíbúðir í gerð, og aðrar um 200 leiguíbúðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
+            <s xml:lang="fo" cert="high" xml:id="clzxhg6k43">Bústaðir hava innan fyri verandi fíggingarmøguleikar og lániheimild um 200 leiguíbúðir í gerð, og aðrar um 200 leiguíbúðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Hækkaða lániheimildin við at skriva út lánsbrøv á 250 mió. kr. afturat gevur Bústøðum møguleika at fara undir eina ætlan at byggja 200-220 framskundaðar leiguíbúðir kring landið árini 2019 til um 2021.</s>
-            <s xml:lang="fo" cert="high">Sostatt kunnu Bústaðir hava út við 900 leiguíbúðir í rakstri um nøkur fá ár, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="fikzxu6sj5">Hækkaða lániheimildin við at skriva út lánsbrøv á 250 mió. kr. afturat gevur Bústøðum møguleika at fara undir eina ætlan at byggja 200-220 framskundaðar leiguíbúðir kring landið árini 2019 til um 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="i5asj2yuo3">Sostatt kunnu Bústaðir hava út við 900 leiguíbúðir í rakstri um nøkur fá ár, sum væntandi fara at bøta um støðuna á føroyska bústaðamarknaðinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
-            <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="x2ydu3argx">Lógaruppskotið ger eisini greitt, at Húsalánsgrunnurin/Bústaðir kunnu útvega lutaíbúðir til lutaíbúðafeløg.</s>
+            <s xml:lang="fo" cert="high" xml:id="pwl5brdxho">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kunnu byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
-            <s xml:lang="fo" cert="high">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
+            <s xml:lang="fo" cert="high" xml:id="be42vypxii">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ugl25xlvef">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
+            <s xml:lang="fo" cert="high" xml:id="uycrjvhhuw">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústøðum sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
           </p>
         </div>
         <div type="section" n="1.5.">
           <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ligið til almenna hoyring á Hoyringsportalinum hjá landsstýrinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="hxhw62qbqo">Lógaruppskotið hevur ligið til almenna hoyring á Hoyringsportalinum hjá landsstýrinum.</s>
           </p>
           <p>
             <seg xml:lang="fo">Harafturat varð uppskotið sent til ummælis hjá:</seg>
@@ -428,32 +427,32 @@
             <item>Bústøðum</item>
           </list>
           <p>
-            <s xml:lang="fo" cert="high">Ummælissvarini eru hjáløgd lógaruppskotinum sum fylgiskjøl.</s>
-            <s xml:lang="fo" cert="high">Tey flestu ummælissvarini taka sum heild undir við lógaruppskotinum og taka undir við høvuðsendamálunum í lógaruppskotinum og í bústaðaátøkunum hjá landsstýrinum, sum snúgva seg um at fáa til vega fleiri ódýrar bústaðir í landinum og serstakliga fleiri ódýrar leiguíbúðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="rdc5snwgvi">Ummælissvarini eru hjáløgd lógaruppskotinum sum fylgiskjøl.</s>
+            <s xml:lang="fo" cert="high" xml:id="ukikkufr5u">Tey flestu ummælissvarini taka sum heild undir við lógaruppskotinum og taka undir við høvuðsendamálunum í lógaruppskotinum og í bústaðaátøkunum hjá landsstýrinum, sum snúgva seg um at fáa til vega fleiri ódýrar bústaðir í landinum og serstakliga fleiri ódýrar leiguíbúðir.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Ummælissvarini frá Felagnum Peningastovnar, Føroya Arbeiðsgevarafelagi, Landsbankanum og Bústøðum viðmerkja til lógaruppskotið, at uppskotið avmarkar lánimøguleikarnar til bara at fevna um lánsbrævalán og ikki um vanligt bankalán.</s>
-            <s xml:lang="fo" cert="high">Verandi lán, sum Bústaðir hava í dag, er vanligt bankalán (sonevnt syndikerað lán).</s>
-            <s xml:lang="fo" cert="high">Felagið Peningastovnar, Føroya Arbeiðsgevarafelag, Landsbankin og Bústaðir mæla til, at Bústaðir fær møguleikan at fáa til vega ta bíligastu fíggingina, sum hóskar seg til endamálið.</s>
+            <s xml:lang="fo" cert="high" xml:id="pr2tljh7hz">Ummælissvarini frá Felagnum Peningastovnar, Føroya Arbeiðsgevarafelagi, Landsbankanum og Bústøðum viðmerkja til lógaruppskotið, at uppskotið avmarkar lánimøguleikarnar til bara at fevna um lánsbrævalán og ikki um vanligt bankalán.</s>
+            <s xml:lang="fo" cert="high" xml:id="rau6hoeqk2">Verandi lán, sum Bústaðir hava í dag, er vanligt bankalán (sonevnt syndikerað lán).</s>
+            <s xml:lang="fo" cert="high" xml:id="d4jqb4wjdp">Felagið Peningastovnar, Føroya Arbeiðsgevarafelag, Landsbankin og Bústaðir mæla til, at Bústaðir fær møguleikan at fáa til vega ta bíligastu fíggingina, sum hóskar seg til endamálið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Vansarnir við lánsbrævafígging eru í hesum føri, at øll fíggingin verður fingin til vega beinanvegin, tá ið lánið verður tikið.</s>
-            <s xml:lang="fo" cert="high">Við vanligum bankaláni ber til at skipa fíggingina í byggilán í byggitíðini og síðani í langtíðarfígging, tá ið leiguíbúðirnar eru bygdar.</s>
+            <s xml:lang="fo" cert="high" xml:id="gz5uqp6agr">Vansarnir við lánsbrævafígging eru í hesum føri, at øll fíggingin verður fingin til vega beinanvegin, tá ið lánið verður tikið.</s>
+            <s xml:lang="fo" cert="high" xml:id="xjbpruof5n">Við vanligum bankaláni ber til at skipa fíggingina í byggilán í byggitíðini og síðani í langtíðarfígging, tá ið leiguíbúðirnar eru bygdar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í øðrum lagi er eitt lánsbrævalán umsitingarliga sera tungt fyri lántakara- og –gevara, sammett við eitt vanligt bankalán.</s>
-            <s xml:lang="fo" cert="high">Í triðja lagi hevði eitt vanligt bankalán (syndikerað lán) verið bíligari í hesum føri, og rentan hevði verið lægri, sammett við eitt lánsbrævalán.</s>
-            <s xml:lang="fo" cert="high">Harvið hevði eitt vanligt bankalán eisini givið lægri húsaleigur í hesum føri, tí húsaleigurnar hjá Bústøðum eru kostnaðargrundaðar.</s>
+            <s xml:lang="fo" cert="high" xml:id="x7epvidkun">Í øðrum lagi er eitt lánsbrævalán umsitingarliga sera tungt fyri lántakara- og –gevara, sammett við eitt vanligt bankalán.</s>
+            <s xml:lang="fo" cert="high" xml:id="ondau2ynd5">Í triðja lagi hevði eitt vanligt bankalán (syndikerað lán) verið bíligari í hesum føri, og rentan hevði verið lægri, sammett við eitt lánsbrævalán.</s>
+            <s xml:lang="fo" cert="high" xml:id="xmdqzuqlqa">Harvið hevði eitt vanligt bankalán eisini givið lægri húsaleigur í hesum føri, tí húsaleigurnar hjá Bústøðum eru kostnaðargrundaðar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Bústaðir mæla til, at lógaruppskotið í staðin ger tað møguligt at taka vanligt bankalán/byggilán í byggitíðini, og síðani at lógaruppskotið leggur upp fyri møguleikanum at leggja lánið um til lánsbrævafígging, tá ið byggitíðin er liðug, og leiguíbúðirnar eru komnar í rakstur.</s>
+            <s xml:lang="fo" cert="high" xml:id="suzh5zpgkj">Bústaðir mæla til, at lógaruppskotið í staðin ger tað møguligt at taka vanligt bankalán/byggilán í byggitíðini, og síðani at lógaruppskotið leggur upp fyri møguleikanum at leggja lánið um til lánsbrævafígging, tá ið byggitíðin er liðug, og leiguíbúðirnar eru komnar í rakstur.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Landsbankin viðmerkir eisini til lógaruppskotið, at partur av stóru pensjónssamansparingini, sum verður flutt av landinum, “kemur aftur” til landið og gagnar føroyska samfelagnum umvegis donsk realkredittlánsbrøv.</s>
-            <s xml:lang="fo" cert="high">Donsk realkredittfeløg høvdu lænt um 2,5 mia. kr. út til føroysk húsarhald um ársskiftið 2018-19.</s>
+            <s xml:lang="fo" cert="high" xml:id="tersndj3se">Landsbankin viðmerkir eisini til lógaruppskotið, at partur av stóru pensjónssamansparingini, sum verður flutt av landinum, “kemur aftur” til landið og gagnar føroyska samfelagnum umvegis donsk realkredittlánsbrøv.</s>
+            <s xml:lang="fo" cert="high" xml:id="ate4jmqywp">Donsk realkredittfeløg høvdu lænt um 2,5 mia. kr. út til føroysk húsarhald um ársskiftið 2018-19.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Víst verður eisini til ummælisskjalið, sum er hjálagt sum fylgiskjal 10.</s>
+            <s xml:lang="fo" cert="high" xml:id="mklkp6iz6d">Víst verður eisini til ummælisskjalið, sum er hjálagt sum fylgiskjal 10.</s>
           </p>
         </div>
       </div>
@@ -462,174 +461,174 @@
         <div type="section" n="2.1.">
           <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingarnar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at uppskotið fer at hava stórvegis beinleiðis fíggjarligar avleiðingar fyri landið ella kommunur.</s>
-            <s xml:lang="fo" cert="high">Men uppskotið kann fáa jaligar, óbeinleiðis fíggjarligar avleiðingar fyri land og kommunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="r5435ovwzq">Mett verður ikki, at uppskotið fer at hava stórvegis beinleiðis fíggjarligar avleiðingar fyri landið ella kommunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="esh6bofjyf">Men uppskotið kann fáa jaligar, óbeinleiðis fíggjarligar avleiðingar fyri land og kommunur.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Fyrst og fremst tí eitt størri útboð av leiguíbúðum kring landið fer at stuðla undir fólkavøksturin, sum er í landinum.</s>
-            <s xml:lang="fo" cert="high">Fólkavøksturin fer, sum frálíður, at skapa grundarlag undir størri virksemi, hægri inntøkum og meiri varandi búskaparvøkstri.</s>
-            <s xml:lang="fo" cert="high">Hetta fer sjálvsagt eisini, sum frálíður, at skapa grundarlag fyri hægri inntøkum til landskassan og kommunukassar.</s>
+            <s xml:lang="fo" cert="high" xml:id="r6llvimjft">Fyrst og fremst tí eitt størri útboð av leiguíbúðum kring landið fer at stuðla undir fólkavøksturin, sum er í landinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jovhdu3dih">Fólkavøksturin fer, sum frálíður, at skapa grundarlag undir størri virksemi, hægri inntøkum og meiri varandi búskaparvøkstri.</s>
+            <s xml:lang="fo" cert="high" xml:id="yykldp7vw7">Hetta fer sjálvsagt eisini, sum frálíður, at skapa grundarlag fyri hægri inntøkum til landskassan og kommunukassar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Harafturat kann hugsast, at nakað meira av byggivirksemi verður í landinum, orsakað av uppskotinum.</s>
-            <s xml:lang="fo" cert="high">Tí er ikki óhugsandi, at skatta- og avgjaldsinntøkur til land og kommunur fara at hækka nakað av uppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="hfiiz6ouxg">Harafturat kann hugsast, at nakað meira av byggivirksemi verður í landinum, orsakað av uppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mlwaljf7cd">Tí er ikki óhugsandi, at skatta- og avgjaldsinntøkur til land og kommunur fara at hækka nakað av uppskotinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Víðkaðu møguleikarnir fyri at seta part av føroysku uppsparingini í føroysk lánsbrøv, heldur enn útlendsk lánsbrøv, fara at gera, at størri partur av virðisskapanini í Føroyum kann koma føroyska samfelagnum til góðar.</s>
-            <s xml:lang="fo" cert="high">Hetta fer í hesum føri at skapa grundarlag fyri at fjøltátta føroyska bústaðamarknaðin og harvið styrkja grundarlagið undir framhaldandi fólka- og búskaparvøkstri.</s>
+            <s xml:lang="fo" cert="high" xml:id="ijhjcws5ko">Víðkaðu møguleikarnir fyri at seta part av føroysku uppsparingini í føroysk lánsbrøv, heldur enn útlendsk lánsbrøv, fara at gera, at størri partur av virðisskapanini í Føroyum kann koma føroyska samfelagnum til góðar.</s>
+            <s xml:lang="fo" cert="high" xml:id="bhpvagqv2u">Hetta fer í hesum føri at skapa grundarlag fyri at fjøltátta føroyska bústaðamarknaðin og harvið styrkja grundarlagið undir framhaldandi fólka- og búskaparvøkstri.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Fíggjarmálaráðið metir ikki, at tað fer at ávirka kredittmetingina (ratingina) av landsstýrinum, at Bústaðir fáa heimild at hækka lántøkuna úr 250 mió. kr. til 500 mió. kr. í fyrra lagi, tí talan er um at útskriva lánsbrøv, ið bara hava trygd í føstu ognunum hjá Bústøðum.</s>
-            <s xml:lang="fo" cert="high">Onnur trygd verður ikki latin í sambandi við lántøkuna.</s>
-            <s xml:lang="fo" cert="high">Í øðrum lagi hevur Bústaðir frammanundan lítið av skuld sammett við samlaðu ognirnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="pmapcrvffv">Fíggjarmálaráðið metir ikki, at tað fer at ávirka kredittmetingina (ratingina) av landsstýrinum, at Bústaðir fáa heimild at hækka lántøkuna úr 250 mió. kr. til 500 mió. kr. í fyrra lagi, tí talan er um at útskriva lánsbrøv, ið bara hava trygd í føstu ognunum hjá Bústøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="rvm2c3qtvz">Onnur trygd verður ikki latin í sambandi við lántøkuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="ls7znider6">Í øðrum lagi hevur Bústaðir frammanundan lítið av skuld sammett við samlaðu ognirnar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í triðja lagi metir Fíggjarmálaráðið, at í hesum føri er talan um eina verkætlan við lítlum og avmarkaðum váða.</s>
-            <s xml:lang="fo" cert="high">Talan er um at byggja leiguíbúðir kring landið, sum bygnaðarligt og søguligt undirskot er av. Harafturat hava Bústaðir víst í nøkur ár, at til ber at byggja ódýrar leiguíbúðir kring landið innan fyri kostnaðar- og tíðarkarmar, og at tílíkar íbúðir lættliga kunnu leigast út, uttan at stórvegis tómgongd er í íbúðunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="sjmiolu7ou">Í triðja lagi metir Fíggjarmálaráðið, at í hesum føri er talan um eina verkætlan við lítlum og avmarkaðum váða.</s>
+            <s xml:lang="fo" cert="high" xml:id="k24jqxqlyd">Talan er um at byggja leiguíbúðir kring landið, sum bygnaðarligt og søguligt undirskot er av. Harafturat hava Bústaðir víst í nøkur ár, at til ber at byggja ódýrar leiguíbúðir kring landið innan fyri kostnaðar- og tíðarkarmar, og at tílíkar íbúðir lættliga kunnu leigast út, uttan at stórvegis tómgongd er í íbúðunum.</s>
           </p>
         </div>
         <div type="section" n="2.2.">
           <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið verður ikki mett at hava stórvegis umsitingarligar avleiðingar fyri land ella kommunur.</s>
-            <s xml:lang="fo" cert="high">Tó fer uppskotið at hava nakað av umsitingarligum avleiðingum við sær fyri Bústaðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="kptjqjpqke">Uppskotið verður ikki mett at hava stórvegis umsitingarligar avleiðingar fyri land ella kommunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="jzoofpvdiz">Tó fer uppskotið at hava nakað av umsitingarligum avleiðingum við sær fyri Bústaðir.</s>
           </p>
         </div>
         <div type="section" n="2.3.">
           <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið verður samanumtikið mett at hava jaligar fíggjarligar avleiðingar fyri vinnuna.</s>
-            <s xml:lang="fo" cert="high">Uppskotið fer at økja um virksemið í byggivinnuni og øðrum avleiddum virksemi av byggivinnuni og undirveitarum til byggivinnuna.</s>
-            <s xml:lang="fo" cert="high">Betri møguleikar at búseta seg í landinum fara at gera tað lættari hjá fólki at flyta til Føroya og búseta seg her.</s>
-            <s xml:lang="fo" cert="high">Kappingarførið hjá vinnuni og samfelagnum verður betri, tá ið umræður at fáa hendur á neyðugu arbeiðsmegini.</s>
+            <s xml:lang="fo" cert="high" xml:id="ip7xfupzu7">Uppskotið verður samanumtikið mett at hava jaligar fíggjarligar avleiðingar fyri vinnuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="nn5g2yb6uz">Uppskotið fer at økja um virksemið í byggivinnuni og øðrum avleiddum virksemi av byggivinnuni og undirveitarum til byggivinnuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="hpsw36ut5p">Betri møguleikar at búseta seg í landinum fara at gera tað lættari hjá fólki at flyta til Føroya og búseta seg her.</s>
+            <s xml:lang="fo" cert="high" xml:id="mfp4i2anej">Kappingarførið hjá vinnuni og samfelagnum verður betri, tá ið umræður at fáa hendur á neyðugu arbeiðsmegini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Av tí at lógaruppskotið avmarkar lántøkuna til at fevna um lánsbrævalán frá íleggjarum/lánveitarum í Føroyum, fer uppskotið at hava við sær nakað av umsitingarligum avleiðingum fyri vinnuna og teir íleggjarar/lánveitarar, sum kunnu hugsast at vera partur av fíggingini.</s>
+            <s xml:lang="fo" cert="high" xml:id="kwpgnftvjt">Av tí at lógaruppskotið avmarkar lántøkuna til at fevna um lánsbrævalán frá íleggjarum/lánveitarum í Føroyum, fer uppskotið at hava við sær nakað av umsitingarligum avleiðingum fyri vinnuna og teir íleggjarar/lánveitarar, sum kunnu hugsast at vera partur av fíggingini.</s>
           </p>
         </div>
         <div type="section" n="2.4.">
           <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
           <p>
-            <s xml:lang="fo" cert="high">Allar leiguíbúðirnar, sum Bústaðir byggja, nýta grønar hitaskipanir heldur enn oljufýr.</s>
-            <s xml:lang="fo" cert="high">Íbúðirnar fara eisini at lúka øll krøv í nýggju bygningskunngerðini um bjálving og líknandi.</s>
-            <s xml:lang="fo" cert="high">Íbúðabyggingin hjá Bústøðum fer tí ikki at hava stórvegis avleiðingar fyri umhvørvið, undantikið tí orku og tilfari, sum verður brúkt undir sjálvari byggingini.</s>
+            <s xml:lang="fo" cert="high" xml:id="wnozraolmr">Allar leiguíbúðirnar, sum Bústaðir byggja, nýta grønar hitaskipanir heldur enn oljufýr.</s>
+            <s xml:lang="fo" cert="high" xml:id="ohnikh2b6p">Íbúðirnar fara eisini at lúka øll krøv í nýggju bygningskunngerðini um bjálving og líknandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="xk7xme7nho">Íbúðabyggingin hjá Bústøðum fer tí ikki at hava stórvegis avleiðingar fyri umhvørvið, undantikið tí orku og tilfari, sum verður brúkt undir sjálvari byggingini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Av tí, at íbúðirnar hjá Bústøðum nýta grønar hitaskipanir og lúka nýggjastu krøv til bjálving og líknandi, kann íbúðabyggingin viðvirka til eina umstilling av orkunýtsluni til upphiting frá oljufýrum til grønar hitaskipanir.</s>
-            <s xml:lang="fo" cert="high">Sum frálíður, fer uppskotið og bygging av smærri íbúðaeindum tí helst at hava jaligar avleiðingar fyri umhvørvið.</s>
+            <s xml:lang="fo" cert="high" xml:id="hkw4o2zhrm">Av tí, at íbúðirnar hjá Bústøðum nýta grønar hitaskipanir og lúka nýggjastu krøv til bjálving og líknandi, kann íbúðabyggingin viðvirka til eina umstilling av orkunýtsluni til upphiting frá oljufýrum til grønar hitaskipanir.</s>
+            <s xml:lang="fo" cert="high" xml:id="g3ko734lhp">Sum frálíður, fer uppskotið og bygging av smærri íbúðaeindum tí helst at hava jaligar avleiðingar fyri umhvørvið.</s>
           </p>
         </div>
         <div type="section" n="2.5.">
           <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið fer at hava jaligar avleiðingar fyri tey øki í landinum, har Bústaðir fara at byggja íbúðir.</s>
-            <s xml:lang="fo" cert="high">Uppskotið og byggingin av íbúðum fer at gera tað lættari hjá fólki at vera verandi, virka og búgva í nærøkinum heldur enn at ferðast langa leið til og frá arbeiði.</s>
-            <s xml:lang="fo" cert="high">Lættari verður at fáa til vega arbeiðsmegi í nærøkinum og at fáa arbeiðsmegina at støðast.</s>
+            <s xml:lang="fo" cert="high" xml:id="i5hbfbfj3t">Uppskotið fer at hava jaligar avleiðingar fyri tey øki í landinum, har Bústaðir fara at byggja íbúðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="ag6hdetilv">Uppskotið og byggingin av íbúðum fer at gera tað lættari hjá fólki at vera verandi, virka og búgva í nærøkinum heldur enn at ferðast langa leið til og frá arbeiði.</s>
+            <s xml:lang="fo" cert="high" xml:id="lftjeap534">Lættari verður at fáa til vega arbeiðsmegi í nærøkinum og at fáa arbeiðsmegina at støðast.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Byggingin av íbúðunum verður spjadd um alt landið til tey øki, har trot er á bústøðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ogfur3u2is">Byggingin av íbúðunum verður spjadd um alt landið til tey øki, har trot er á bústøðum.</s>
           </p>
         </div>
         <div type="section" n="2.6.">
           <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið fer at hava jaligar avleiðingar fyri ávísar samfelagsskapir, serstakliga teir bólkar, sum í dag hava torført við at finna hóskandi leigubústað.</s>
-            <s xml:lang="fo" cert="high">Hetta kann vera stakir uppihaldarar ella rørslutarnað, sum í dag hava torført við at finna hóskandi leigubústað.</s>
-            <s xml:lang="fo" cert="high">Bústaðir hava í dag til dømis gott samstarv við Javna, Sinnisbata, MEGD og Almannaverkið, tá ið tað snýr seg um at útvega hóskandi íbúðir til limir og brúkarar hjá teimum.</s>
+            <s xml:lang="fo" cert="high" xml:id="srdvicns5v">Uppskotið fer at hava jaligar avleiðingar fyri ávísar samfelagsskapir, serstakliga teir bólkar, sum í dag hava torført við at finna hóskandi leigubústað.</s>
+            <s xml:lang="fo" cert="high" xml:id="jonb4yp5j7">Hetta kann vera stakir uppihaldarar ella rørslutarnað, sum í dag hava torført við at finna hóskandi leigubústað.</s>
+            <s xml:lang="fo" cert="high" xml:id="x6e3fwdkhe">Bústaðir hava í dag til dømis gott samstarv við Javna, Sinnisbata, MEGD og Almannaverkið, tá ið tað snýr seg um at útvega hóskandi íbúðir til limir og brúkarar hjá teimum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Almannaverkið hevur ávísingarrætt til ein part av íbúðunum, sum Bústaðir byggja.</s>
-            <s xml:lang="fo" cert="high">Endamálið er, at fólk við serligum avbjóðingum fáa betri møguleikar at fáa hóskandi bústað.</s>
-            <s xml:lang="fo" cert="high">Hetta lógaruppskotið fer tí at vera til fyrimuns fyri hendan samfelagsbólkin.</s>
-            <s xml:lang="fo" cert="high">Leiguíbúðirnar vera eisini til fyrimuns fyri lesandi, stakar uppihaldarar og eldri borgarar, sum fáa betri møguleikar at fáa ein hóskandi bústað.</s>
+            <s xml:lang="fo" cert="high" xml:id="h4ioxu7jsg">Almannaverkið hevur ávísingarrætt til ein part av íbúðunum, sum Bústaðir byggja.</s>
+            <s xml:lang="fo" cert="high" xml:id="qeh4otzkhj">Endamálið er, at fólk við serligum avbjóðingum fáa betri møguleikar at fáa hóskandi bústað.</s>
+            <s xml:lang="fo" cert="high" xml:id="oyfzcdyvmj">Hetta lógaruppskotið fer tí at vera til fyrimuns fyri hendan samfelagsbólkin.</s>
+            <s xml:lang="fo" cert="high" xml:id="goykagqqdp">Leiguíbúðirnar vera eisini til fyrimuns fyri lesandi, stakar uppihaldarar og eldri borgarar, sum fáa betri møguleikar at fáa ein hóskandi bústað.</s>
           </p>
         </div>
         <div type="section" n="2.7.">
           <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at lógaruppskotið hevur við sær avleiðingar, sum eru viðkomandi fyri millumtjóðasáttmálar á økinum, og sum Føroyar hava skyldu at fylgja.</s>
+            <s xml:lang="fo" cert="high" xml:id="v76vemdyjb">Mett verður ikki, at lógaruppskotið hevur við sær avleiðingar, sum eru viðkomandi fyri millumtjóðasáttmálar á økinum, og sum Føroyar hava skyldu at fylgja.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Bindingar eru ikki til millumtjóðasáttmálar, sum gera, at uppskotið fær fíggjarligar, umsitingarligar, umhvørvisligar ella aðrar avleiðingar fyri landsmyndugleikar, kommunumyndugleikar, ávís øki í landinum, ávísar samfelagbólkar ella vinnuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="k6ry6wujnv">Bindingar eru ikki til millumtjóðasáttmálar, sum gera, at uppskotið fær fíggjarligar, umsitingarligar, umhvørvisligar ella aðrar avleiðingar fyri landsmyndugleikar, kommunumyndugleikar, ávís øki í landinum, ávísar samfelagbólkar ella vinnuna.</s>
           </p>
         </div>
         <div type="section" n="2.8.">
           <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið stuðlar undir og samsvarar við ásetingar í sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
-            <s xml:lang="fo" cert="high">Sáttmálin áleggur limalondunum at menna og fremja politikk, lógir og fyrisitingarlig mál, ið skulu tryggja rættindi hjá fólki, ið bera brek.</s>
-            <s xml:lang="fo" cert="high">Sáttmálin varð settur í gildi fyri Føroyar tann 23. august 2009 við “Bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap”.</s>
+            <s xml:lang="fo" cert="high" xml:id="ohtj2477jm">Lógaruppskotið stuðlar undir og samsvarar við ásetingar í sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
+            <s xml:lang="fo" cert="high" xml:id="cdjicodjh5">Sáttmálin áleggur limalondunum at menna og fremja politikk, lógir og fyrisitingarlig mál, ið skulu tryggja rættindi hjá fólki, ið bera brek.</s>
+            <s xml:lang="fo" cert="high" xml:id="hjoftv47tb">Sáttmálin varð settur í gildi fyri Føroyar tann 23. august 2009 við “Bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap”.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið fer at økja útboðið av leiguíbúðum, sum hóska seg til fólk við serligum avbjóðingum, harundir til fólk, ið bera brek.</s>
-            <s xml:lang="fo" cert="high">Tí verður mett, at lógaruppskotið stuðlar undir og samsvarar við ásetingar í sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
+            <s xml:lang="fo" cert="high" xml:id="s5lnbtsmb7">Lógaruppskotið fer at økja útboðið av leiguíbúðum, sum hóska seg til fólk við serligum avbjóðingum, harundir til fólk, ið bera brek.</s>
+            <s xml:lang="fo" cert="high" xml:id="p2n3xti5d5">Tí verður mett, at lógaruppskotið stuðlar undir og samsvarar við ásetingar í sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Landsstýrið hevur tikið tey 17 heimsmálini hjá ST til sín og hevur boðað frá, at tað ynskir at røkka teimum eftir førimuni.</s>
-            <s xml:lang="fo" cert="high">Heimsmál nr. 11 snýr seg um at gera býir og búsetingar inkluderandi, trygg, dygg og burðardygg.</s>
-            <s xml:lang="fo" cert="high">Undirmál nr. 11.1 snýr seg um, at innan 2030 skal øllum verða tryggjað atgongd til skikkaðar og tryggar bústaðir fyri rímiligan kostnað og grundleggjandi tænastur.</s>
+            <s xml:lang="fo" cert="high" xml:id="crwp47btft">Landsstýrið hevur tikið tey 17 heimsmálini hjá ST til sín og hevur boðað frá, at tað ynskir at røkka teimum eftir førimuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="k3otx45vlc">Heimsmál nr. 11 snýr seg um at gera býir og búsetingar inkluderandi, trygg, dygg og burðardygg.</s>
+            <s xml:lang="fo" cert="high" xml:id="ngiovtumvk">Undirmál nr. 11.1 snýr seg um, at innan 2030 skal øllum verða tryggjað atgongd til skikkaðar og tryggar bústaðir fyri rímiligan kostnað og grundleggjandi tænastur.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið fer tí at stuðla undir arbeiðið hjá landsstýrinum innan 2030 at røkka teimum 17 heimsmálunum hjá ST.</s>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki á annan hátt við sær avleiðingar í mun til tvørgangandi millumtjóðasáttmálar.</s>
+            <s xml:lang="fo" cert="high" xml:id="oshekh6d6k">Lógaruppskotið fer tí at stuðla undir arbeiðið hjá landsstýrinum innan 2030 at røkka teimum 17 heimsmálunum hjá ST.</s>
+            <s xml:lang="fo" cert="high" xml:id="m3ffhyudd4">Lógaruppskotið hevur ikki á annan hátt við sær avleiðingar í mun til tvørgangandi millumtjóðasáttmálar.</s>
           </p>
         </div>
         <div type="section" n="2.9.">
           <head rend="bold"><label>2.9.</label> Marknaforðingar</head>
           <p>
-            <s xml:lang="fo" cert="high">Løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn avmarkar í § 8 b, stk. 1, Bústøðim til at útvega sær fígging frá lánveitarum/íleggjarum í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Henda marknaforðingin verður ikki broytt við hesum uppskotinum.</s>
-            <s xml:lang="fo" cert="high">Lániheimildin hjá Bústøðum verður tí framvegis avmarkað til, at Bústaðir bara kunnu útvega sær fígging frá lánveitarum/íleggjarum í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wd5vm2uyxo">Løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn avmarkar í § 8 b, stk. 1, Bústøðim til at útvega sær fígging frá lánveitarum/íleggjarum í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jqb5mihqd4">Henda marknaforðingin verður ikki broytt við hesum uppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ccmwd4ojwi">Lániheimildin hjá Bústøðum verður tí framvegis avmarkað til, at Bústaðir bara kunnu útvega sær fígging frá lánveitarum/íleggjarum í Føroyum.</s>
           </p>
         </div>
         <div type="section" n="2.10.">
           <head rend="bold"><label>2.10.</label> Revsing, útpanting, sektir ella onnur størri inntriv</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ongar ásetingar um revsing, útpanting, sektir ella onnur størri inntriv í rættindi hjá fólki.</s>
+            <s xml:lang="fo" cert="high" xml:id="q77l7dwm2o">Lógaruppskotið hevur ongar ásetingar um revsing, útpanting, sektir ella onnur størri inntriv í rættindi hjá fólki.</s>
           </p>
         </div>
         <div type="section" n="2.11.">
           <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Ongar ásetingar eru í lógaruppskotinum um skattir ella avgjøld.</s>
+            <s xml:lang="fo" cert="high" xml:id="avoulaiu2w">Ongar ásetingar eru í lógaruppskotinum um skattir ella avgjøld.</s>
           </p>
         </div>
         <div type="section" n="2.12.">
           <head rend="bold"><label>2.12.</label> Gjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki ásetingar um gjøld.</s>
+            <s xml:lang="fo" cert="high" xml:id="n6qgl4uukp">Lógaruppskotið hevur ikki ásetingar um gjøld.</s>
           </p>
         </div>
         <div type="section" n="2.13.">
           <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið fólki skyldur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið leggur ikki skyldur á fólk.</s>
+            <s xml:lang="fo" cert="high" xml:id="ps6tz7xbl3">Lógaruppskotið leggur ikki skyldur á fólk.</s>
           </p>
         </div>
         <div type="section" n="2.14.">
           <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein annan enn landsstýrismannin ella til kommunur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Við lógaruppskotinum fáa Bústaðir heimild til at útskriva lánsbrøv fyri 250 mió. kr., men lántøkan skal í hvørjum einstøkum føri góðkennast av landsstýrismanninum í fíggjarmálum.</s>
-            <s xml:lang="fo" cert="high">Lógaruppskotið leggur ikki heimildir til annan landsstýrismann ella til kommunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="u5xg7lbhzb">Við lógaruppskotinum fáa Bústaðir heimild til at útskriva lánsbrøv fyri 250 mió. kr., men lántøkan skal í hvørjum einstøkum føri góðkennast av landsstýrismanninum í fíggjarmálum.</s>
+            <s xml:lang="fo" cert="high" xml:id="zchftgoiok">Lógaruppskotið leggur ikki heimildir til annan landsstýrismann ella til kommunur.</s>
           </p>
         </div>
         <div type="section" n="2.15.">
           <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
+            <s xml:lang="fo" cert="high" xml:id="rvx2bdfe33">Lógaruppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
           </p>
         </div>
         <div type="section" n="2.16.">
           <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki aðrar avleiðingar við sær enn tær, sum eru nevndar omanfyri.</s>
+            <s xml:lang="fo" cert="high" xml:id="b6fot65zbw">Lógaruppskotið hevur ikki aðrar avleiðingar við sær enn tær, sum eru nevndar omanfyri.</s>
           </p>
         </div>
         <div type="section" n="2.17.">
           <head rend="bold"><label>2.17.</label> Yvirlit yvir avleiðingarnar av uppskotinum</head>
           <table>
             <row role="label">
-              <cell />
+              <cell/>
               <cell>Fyri landið ella landsmyndugleikar</cell>
               <cell>Fyri kommunalar myndugleikar</cell>
               <cell>Fyri pláss ella øki í landinum</cell>
@@ -670,11 +669,11 @@
             </row>
             <row>
               <cell>Sosialar avleiðingar</cell>
-              <cell />
-              <cell />
+              <cell/>
+              <cell/>
               <cell>Ja</cell>
               <cell>Ja</cell>
-              <cell />
+              <cell/>
             </row>
           </table>
         </div>
@@ -689,40 +688,40 @@
           <div type="subsection">
             <head rend="bold">Til nr. 1</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin broytir orðið “lutafeløg” til “lutaíbúðafeløg”.</s>
-              <s xml:lang="fo" cert="high">Mett verður, at heitið “lutaíbúðafeløg” er greiðari og í størri mun fevnir um tað, sum var ætlanin við § 5 a í løgtingslógini um Húsalánsgrunn.</s>
-              <s xml:lang="fo" cert="high">Í løgtingslóg nr. 138 frá 6. oktober 2011 um lutaíbúðafeløg verður heitið “lutaíbúðafeløg” brúkt.</s>
-              <s xml:lang="fo" cert="high">Tí verður eisini mett, at sama heitið eigur at verða brúkt í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn.</s>
+              <s xml:lang="fo" cert="high" xml:id="wpfxl76buo">Ásetingin broytir orðið “lutafeløg” til “lutaíbúðafeløg”.</s>
+              <s xml:lang="fo" cert="high" xml:id="x47qhlscpo">Mett verður, at heitið “lutaíbúðafeløg” er greiðari og í størri mun fevnir um tað, sum var ætlanin við § 5 a í løgtingslógini um Húsalánsgrunn.</s>
+              <s xml:lang="fo" cert="high" xml:id="j4yzfqiwh4">Í løgtingslóg nr. 138 frá 6. oktober 2011 um lutaíbúðafeløg verður heitið “lutaíbúðafeløg” brúkt.</s>
+              <s xml:lang="fo" cert="high" xml:id="bg6i3pmnhs">Tí verður eisini mett, at sama heitið eigur at verða brúkt í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Til nr. 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin setir inn nýtt punktum, sum ger greitt, at Húsalánsgrunnurin/Bústaðir kann útvega lutaíbúðir til lutaíbúðafeløg.</s>
-              <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kann byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
-              <s xml:lang="fo" cert="high">Í hesum føri merkir “útvega lutaíbúðir til lutaíbúðafeløg”, at “byggja og síðani selja lutaíbúðir til lutaíbúðafeløg.”</s>
+              <s xml:lang="fo" cert="high" xml:id="fc36625otm">Ásetingin setir inn nýtt punktum, sum ger greitt, at Húsalánsgrunnurin/Bústaðir kann útvega lutaíbúðir til lutaíbúðafeløg.</s>
+              <s xml:lang="fo" cert="high" xml:id="d4mvy2kx2v">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kann byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
+              <s xml:lang="fo" cert="high" xml:id="k25zz6m4hu">Í hesum føri merkir “útvega lutaíbúðir til lutaíbúðafeløg”, at “byggja og síðani selja lutaíbúðir til lutaíbúðafeløg.”</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Men síðani lutaíbúðalógin kom í gildi á heysti 2011, er einki lutaíbúðafelag stovnað.</s>
-              <s xml:lang="fo" cert="high">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="vmlyl3mknt">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="emh4wnetga">Men síðani lutaíbúðalógin kom í gildi á heysti 2011, er einki lutaíbúðafelag stovnað.</s>
+              <s xml:lang="fo" cert="high" xml:id="evh46kungt">Bústaðir hava ætlanir um at útvega og selja lutaíbúðir til lutaíbúðafeløg næstu árini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústaðir sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
+              <s xml:lang="fo" cert="high" xml:id="wlyp6kx47o">Hetta er liður í at tryggja fjølbroytni á bústaðamarknaðinum, sum er eitt av endamálunum hjá Húsalánsgrunninum/Bústaðir sambært endamálsorðingini í løgtingslóg nr. 62 frá 31. mai 2010 um Húsalánsgrunn og samsvarar eisini við bústaðapolitikk landsins frá 2012.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Til nr. 3</head>
             <p>
-              <s xml:lang="fo" cert="high">Við hesi áseting gevur Løgtingið Bústøðum (Húsalánsgrunninum) heimild til at útskriva lánsbrøv fyri upp til 250 mió. kr. afturat verandi lániheimild til føroyskar íleggjarar og stovnsligar føroyskar lánveitarar til at fíggja byggiverkætlanir fyri.</s>
-              <s xml:lang="fo" cert="high">Verandi lániheimild er upp til tilsamans 250 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="u4n4yaxobh">Við hesi áseting gevur Løgtingið Bústøðum (Húsalánsgrunninum) heimild til at útskriva lánsbrøv fyri upp til 250 mió. kr. afturat verandi lániheimild til føroyskar íleggjarar og stovnsligar føroyskar lánveitarar til at fíggja byggiverkætlanir fyri.</s>
+              <s xml:lang="fo" cert="high" xml:id="vbdxivexva">Verandi lániheimild er upp til tilsamans 250 mió. kr.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Víðkaða lániheimildin verður brúkt til at fara undir eina verkætlan at byggja 200-220 leiguíbúðir afturat verandi ætlanum, sum er eitt av málunum í bústaðapakkanum hjá landsstýrinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="shqqa7bqxx">Víðkaða lániheimildin verður brúkt til at fara undir eina verkætlan at byggja 200-220 leiguíbúðir afturat verandi ætlanum, sum er eitt av málunum í bústaðapakkanum hjá landsstýrinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Bústaðir hava við verandi fíggingarmøguleikum og við verandi lániheimild um 200 bústaðaeindir í gerð, og um 200 fleiri bústaðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
-              <s xml:lang="fo" cert="high">Bústaðir hava tí ikki gjaldføri til at fara undir eina ætlan at byggja 200-220 framskundaðar leiguíbúðir uttan so, at lániheimildin hækkar.</s>
+              <s xml:lang="fo" cert="high" xml:id="umcwztnlwp">Bústaðir hava við verandi fíggingarmøguleikum og við verandi lániheimild um 200 bústaðaeindir í gerð, og um 200 fleiri bústaðir eru ávegis í verandi ætlanum hjá Bústøðum fyri næstu árini.</s>
+              <s xml:lang="fo" cert="high" xml:id="a67rqguqzt">Bústaðir hava tí ikki gjaldføri til at fara undir eina ætlan at byggja 200-220 framskundaðar leiguíbúðir uttan so, at lániheimildin hækkar.</s>
             </p>
           </div>
           <div type="subsection">
@@ -733,14 +732,14 @@
           </div>
         </div>
       </div>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="signature">
         <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2019-02-21">21. februar 2019</date></dateline>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <signed rend="center">
           <persName ref="https://tingdata.fo/person/k3hscmgt">
             <hi rend="bold">Kristina Háfoss</hi>
-            <lb />
+            <lb/>
             <roleName>landsstýrismaður</roleName>
           </persName>
         </signed>

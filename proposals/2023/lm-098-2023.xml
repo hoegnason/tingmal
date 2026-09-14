@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
   <teiHeader>
     <fileDesc>
@@ -13,7 +12,7 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="1970-01-01" />
+        <date when="1970-01-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -22,7 +21,7 @@
             <persName ref="https://tingdata.fo/person/e4hsmd5x">Høgni Hoydal</persName>
             <roleName>landsstýrismaður</roleName>
           </author>
-          <ref target="https://www.logting.fo/documents/61195" />
+          <ref target="https://www.logting.fo/documents/61195"/>
           <note type="source_format">PDF document, machine-readable text</note>
           <date when="2024-03-07">7. mars 2024</date>
           <idno type="case-number">23/19558</idno>
@@ -38,7 +37,7 @@
     </encodingDesc>
   </teiHeader>
   <standOff>
-    <seg xml:lang="fo" type="sentence" resp="rani">At undirstøðukervið er samfelagstýðandi merkir, at tað í stóran mun stuðlar eini samfelagstýðandi funktión, og at møguleikin at seta annað undirstøðukervi í staðin er sera avmarkaður ella ikki til staðar, ella at undirstøðukervið verður nýtt (ella skal nýtast) víða hvar og/ella við stórum títtleika.</seg>
+    <seg xml:lang="fo" type="sentence" resp="rani" xml:id="bwyluxst67">At undirstøðukervið er samfelagstýðandi merkir, at tað í stóran mun stuðlar eini samfelagstýðandi funktión, og at møguleikin at seta annað undirstøðukervi í staðin er sera avmarkaður ella ikki til staðar, ella at undirstøðukervið verður nýtt (ella skal nýtast) víða hvar og/ella við stórum títtleika.</seg>
   </standOff>
   <text>
     <body>
@@ -64,15 +63,15 @@
           <cell rend="meta-cell">19.02.2024-20.02.2024</cell>
         </row>
       </table>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <ab>
         <ab rend="bold center">Uppskot til</ab>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um fjarskifti (Fjarskiftislógin)</ab>
         <ab rend="center">(Ásetingar um kortlegging og skanning í sambandi við nettrygd og um at nágreina ásetingar</ab>
         <ab rend="center">um at savna upplýsingar)</ab>
       </ab>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="chapter" n="0">
         <div>
           <head rend="bold center">§ 1</head>
@@ -88,7 +87,7 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 2.</label>
-                  <s>Endamálið við § 58 a er at fremja nettrygd.</s>
+                  <s xml:id="b4qf6qnenq">Endamálið við § 58 a er at fremja nettrygd.</s>
                 </p>
               </q>
             </item>
@@ -100,11 +99,11 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 5.</label>
-                  <s>Ásetingarnar í stk. 1-4, eru ikki galdandi fyri § 58 a.</s>
+                  <s xml:id="vbchqh4mif">Ásetingarnar í stk. 1-4, eru ikki galdandi fyri § 58 a.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 6.</label>
-                  <s>Landsstýrisfólkið kann áseta nærri reglur um, hvat virksemi er fevnt av § 58 a.</s>
+                  <s xml:id="x7xq5euwho">Landsstýrisfólkið kann áseta nærri reglur um, hvat virksemi er fevnt av § 58 a.</s>
                 </p>
               </q>
             </item>
@@ -116,9 +115,9 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 2.</label>
-                  <s>Fjarskiftiseftirlitið kann krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum ella fyri at gera av, um ávís viðurskifti eru partur av øki løgtingslógarinnar.</s>
-                  <s>Upplýsingarnar, dátur o.a. kunnu vera av einum og hvørjum slag.</s>
-                  <s>Fjarskiftiseftirlitið kann eisini krevja, at dátur ella upplýsingar verða latnar inn regluliga, og kann seta krøv til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a.</s>
+                  <s xml:id="exkovurmfu">Fjarskiftiseftirlitið kann krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum ella fyri at gera av, um ávís viðurskifti eru partur av øki løgtingslógarinnar.</s>
+                  <s xml:id="xouuh4hbta">Upplýsingarnar, dátur o.a. kunnu vera av einum og hvørjum slag.</s>
+                  <s xml:id="gasiktw6gr">Fjarskiftiseftirlitið kann eisini krevja, at dátur ella upplýsingar verða latnar inn regluliga, og kann seta krøv til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a.</s>
                 </p>
               </q>
             </item>
@@ -130,7 +129,7 @@
               <q>
                 <p>
                   <label rend="italic">Stk. 3.</label>
-                  <s>Tað er skyldan hjá ráði, stovni, fyritøku, samtøku av fyritøkum og øllum løgfrøðiligum og likamligum persónum at veita upplýsingar sambært stk. 2.</s>
+                  <s xml:id="qwuy7z5525">Tað er skyldan hjá ráði, stovni, fyritøku, samtøku av fyritøkum og øllum løgfrøðiligum og likamligum persónum at veita upplýsingar sambært stk. 2.</s>
                 </p>
               </q>
             </item>
@@ -142,56 +141,56 @@
               <q>
                 <p>
                   <label rend="bold">§ 58 a.</label>
-                  <s>Fjarskiftiseftirlitið viðger upplýsingar, dátur o.a. og kortleggur undirstøðukervi, undir hesum samfelagstýðandi undirstøðukervi, og sínámillum sambond við tí endamáli at fremja nettrygd.</s>
+                  <s xml:id="rnbmetitxz">Fjarskiftiseftirlitið viðger upplýsingar, dátur o.a. og kortleggur undirstøðukervi, undir hesum samfelagstýðandi undirstøðukervi, og sínámillum sambond við tí endamáli at fremja nettrygd.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 2.</label>
-                  <s>Fjarskiftiseftirlitið kann krevja allar upplýsingar útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri kortlegging sambært stk. 1.</s>
+                  <s xml:id="rffwgotxnl">Fjarskiftiseftirlitið kann krevja allar upplýsingar útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri kortlegging sambært stk. 1.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 3.</label>
-                  <s>Tað er skyldan hjá ráði, stovni, fyritøku, samtøku av fyritøkum og øllum løgfrøðiligum og likamligum persónum at veita upplýsingar sambært stk. 2.</s>
+                  <s xml:id="fvff3jxma3">Tað er skyldan hjá ráði, stovni, fyritøku, samtøku av fyritøkum og øllum løgfrøðiligum og likamligum persónum at veita upplýsingar sambært stk. 2.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 4.</label>
-                  <s>Fjarskiftiseftirlitið ger av, hvør er at meta sum veitari av samfelagstýðandi tænastum.</s>
+                  <s xml:id="zrvlxeofas">Fjarskiftiseftirlitið ger av, hvør er at meta sum veitari av samfelagstýðandi tænastum.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 5.</label>
-                  <s>Veitarar av samfelagstýðandi tænastum hava skyldu at boða Fjarskiftiseftirlitinum frá um broytingar í undirstøðukervinum, sum kunnu hava týdning fyri kortleggingina.</s>
-                  <s>Fjarskiftiseftirlitið avger, hvørjar broytingar eru at meta sum týðandi.</s>
+                  <s xml:id="vjszvpatsk">Veitarar av samfelagstýðandi tænastum hava skyldu at boða Fjarskiftiseftirlitinum frá um broytingar í undirstøðukervinum, sum kunnu hava týdning fyri kortleggingina.</s>
+                  <s xml:id="l5hhierkdq">Fjarskiftiseftirlitið avger, hvørjar broytingar eru at meta sum týðandi.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 6.</label>
-                  <s>Fjarskiftiseftirlitið letur ikki upplýsingar víðari.</s>
-                  <s>Tó kann Fjarskiftiseftirlitið lata veitarum av samfelagstýðandi tænastum yvirlit yvir egið undirstøðukervi og sambond teirra við onnur undirstøðukervi og skipanir.</s>
-                  <s>Eftir ítøkiliga meting kann Fjarskiftiseftirlitið í ávísum førum lata veitarum av samfelagstýðandi tænastum yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum til tess at styrkja nettrygdina.</s>
-                  <s>Slík yvirskipað yvirlit mugu ikki fara longur niður í smálutir og ikki røkka breiðari enn neyðugt til tess at røkka endamálinum, og skulu taka atlit til at verja trygdina og handilsloynidómar o.a. hjá øðrum veitarum.</s>
+                  <s xml:id="uwidavrnll">Fjarskiftiseftirlitið letur ikki upplýsingar víðari.</s>
+                  <s xml:id="unmhxbzzv3">Tó kann Fjarskiftiseftirlitið lata veitarum av samfelagstýðandi tænastum yvirlit yvir egið undirstøðukervi og sambond teirra við onnur undirstøðukervi og skipanir.</s>
+                  <s xml:id="f7ljlfieas">Eftir ítøkiliga meting kann Fjarskiftiseftirlitið í ávísum førum lata veitarum av samfelagstýðandi tænastum yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum til tess at styrkja nettrygdina.</s>
+                  <s xml:id="shrrd2ccfx">Slík yvirskipað yvirlit mugu ikki fara longur niður í smálutir og ikki røkka breiðari enn neyðugt til tess at røkka endamálinum, og skulu taka atlit til at verja trygdina og handilsloynidómar o.a. hjá øðrum veitarum.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 7.</label>
-                  <s>Fjarskiftiseftirlitið kann gera portraskanning av interneti.</s>
+                  <s xml:id="vmhx4q5z6v">Fjarskiftiseftirlitið kann gera portraskanning av interneti.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 8.</label>
-                  <s>Um Fjarskiftiseftirlitið í sambandi við viðgerð av upplýsingum sambært stk. 1 ella stk. 7 gerst kunnugt við viðurskifti, sum eru til vanda fyri nettrygdina, kann Fjarskiftiseftirlitið venda sær til viðkomandi myndugleika ella fyritøku o.a. og m.a. lata viðkomandi upplýsingar og ráðgeving við tí endamáli at fremja nettrygd.</s>
+                  <s xml:id="gfiwsesmd6">Um Fjarskiftiseftirlitið í sambandi við viðgerð av upplýsingum sambært stk. 1 ella stk. 7 gerst kunnugt við viðurskifti, sum eru til vanda fyri nettrygdina, kann Fjarskiftiseftirlitið venda sær til viðkomandi myndugleika ella fyritøku o.a. og m.a. lata viðkomandi upplýsingar og ráðgeving við tí endamáli at fremja nettrygd.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 9.</label>
-                  <s>Fjarskiftiseftirlitið kann gera av at beina burtur upplýsingar, sum verða viðgjørdar í sambandi við kortlegging sambært stk. 1 og skanning sambært stk. 7.</s>
+                  <s xml:id="icfq5wzj2i">Fjarskiftiseftirlitið kann gera av at beina burtur upplýsingar, sum verða viðgjørdar í sambandi við kortlegging sambært stk. 1 og skanning sambært stk. 7.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 10.</label>
-                  <s>Løgtingslóg um innlit í fyrisitingina, løgtingslóg um vernd av persónupplýsingum og løgtingslóg um skjalasøvn eru ikki galdandi fyri upplýsingar, mál, kanningar, kortlegging o.a. sambært § 58 a.</s>
-                  <s>Hetta er eisini galdandi, tá ið upplýsingar, sum eru fingnar til vegar ella eru viðgjørdar sambært § 58 a, eru latnar øðrum myndugleika.</s>
+                  <s xml:id="c4utjifo2r">Løgtingslóg um innlit í fyrisitingina, løgtingslóg um vernd av persónupplýsingum og løgtingslóg um skjalasøvn eru ikki galdandi fyri upplýsingar, mál, kanningar, kortlegging o.a. sambært § 58 a.</s>
+                  <s xml:id="mgmgsu7mof">Hetta er eisini galdandi, tá ið upplýsingar, sum eru fingnar til vegar ella eru viðgjørdar sambært § 58 a, eru latnar øðrum myndugleika.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 11.</label>
-                  <s>Fjarskiftiseftirlitið kann lata øðrum eftirlitsmyndugleikum í Føroyum og í øðrum londum upplýsingar, um tað er neyðugt til tess at fremja endamálið við nettrygd.</s>
+                  <s xml:id="qoq3pq6vll">Fjarskiftiseftirlitið kann lata øðrum eftirlitsmyndugleikum í Føroyum og í øðrum londum upplýsingar, um tað er neyðugt til tess at fremja endamálið við nettrygd.</s>
                 </p>
                 <p>
                   <label rend="italic">Stk. 12.</label>
-                  <s>Landsstýrisfólkið kann áseta nærri reglur um, hvussu upplýsingar, sum verða latnar sambært stk. 11, kunnu latast øðrum eftirlitsmyndugleikum.</s>
+                  <s xml:id="aqjkfe5v6n">Landsstýrisfólkið kann áseta nærri reglur um, hvussu upplýsingar, sum verða latnar sambært stk. 11, kunnu latast øðrum eftirlitsmyndugleikum.</s>
                 </p>
               </q>
             </item>
@@ -200,7 +199,7 @@
         <div>
           <head rend="bold center">§ 2</head>
           <p>
-            <s>Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="zd2mgazmgk">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
           </p>
         </div>
       </div>
@@ -209,331 +208,331 @@
         <div type="section" n="1.1.">
           <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
           <p>
-            <s xml:lang="fo" cert="high">Talgilding av okkara samfelagi má metast at hava eyðsæddar fyrimunir við sær, og hevur gjørt tað møguligt at veita skjótari og betri tænastur til borgarar í einum framkomnum vælferðarsamfelag.</s>
-            <s xml:lang="fo" cert="high">Talgildingin ger samstundis, at grundleggjandi tænastur í okkara samfelagi eru treytaðar av, at talgildu kt-skipanirnar virka.</s>
+            <s xml:lang="fo" cert="high" xml:id="laycxhoazj">Talgilding av okkara samfelagi má metast at hava eyðsæddar fyrimunir við sær, og hevur gjørt tað møguligt at veita skjótari og betri tænastur til borgarar í einum framkomnum vælferðarsamfelag.</s>
+            <s xml:lang="fo" cert="high" xml:id="u2bifkpkpd">Talgildingin ger samstundis, at grundleggjandi tænastur í okkara samfelagi eru treytaðar av, at talgildu kt-skipanirnar virka.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Føroyar hava í dag ikki nakra yvirskipaða nettrygd.</s>
-            <s xml:lang="fo" cert="high">Tað er sostatt ikki kortlagt, hvar vit eru viðbrekin, og møguliga eru Føroyar víðopnar fyri álopum á kjarnutænastur í samfelagnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="zb6uahv7cu">Føroyar hava í dag ikki nakra yvirskipaða nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="t3fcmzyhz5">Tað er sostatt ikki kortlagt, hvar vit eru viðbrekin, og møguliga eru Føroyar víðopnar fyri álopum á kjarnutænastur í samfelagnum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Regluliga frættist um skipanir og fyritøkur, sum verða lagdar lamnar.</s>
-            <s xml:lang="fo" cert="high">Tað er sostatt áhaldandi vandi fyri netálopum á talgildar skipanir, sum eru grundleggjandi fyri okkara samfelag, sum kunnu raka føroyska samfelagið meint og hava álvarsamar avleiðingar fyri týðandi tænastur í okkara samfelagi.</s>
-            <s xml:lang="fo" cert="high">Í ringasta føri kann standa um lív, um kt-skipanir, sum eru avgerandi fyri, at t.d. heilsuverkið ella SEV eru virkisfør, steðga upp vegna netálop.</s>
-            <s xml:lang="fo" cert="high">Eisini kunnu netálop hava við sær, at samfelagið liggur lamið í longri tíð.</s>
+            <s xml:lang="fo" cert="high" xml:id="by5yeuv2co">Regluliga frættist um skipanir og fyritøkur, sum verða lagdar lamnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="wj7wtc7nzb">Tað er sostatt áhaldandi vandi fyri netálopum á talgildar skipanir, sum eru grundleggjandi fyri okkara samfelag, sum kunnu raka føroyska samfelagið meint og hava álvarsamar avleiðingar fyri týðandi tænastur í okkara samfelagi.</s>
+            <s xml:lang="fo" cert="high" xml:id="k6w3lbzt64">Í ringasta føri kann standa um lív, um kt-skipanir, sum eru avgerandi fyri, at t.d. heilsuverkið ella SEV eru virkisfør, steðga upp vegna netálop.</s>
+            <s xml:lang="fo" cert="high" xml:id="ezgwxhcxxr">Eisini kunnu netálop hava við sær, at samfelagið liggur lamið í longri tíð.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Tí hava átøk, ið fremja nettrygd avgerandi týdning fyri eitt væl virkisført vælferðarsamfelag.</s>
-            <s xml:lang="fo" cert="high">Á heysti 2023 legði landsstýrið fram eina ætlan um eitt hægri nettrygdarstig til tess at verja týðandi tænastur í okkara samfelag, tá ið tær eru fyri netálopi, og at forða fyri, at týðandi tænastur eru fyri hendiligum óhappi.</s>
+            <s xml:lang="fo" cert="high" xml:id="kqy6utfpcx">Tí hava átøk, ið fremja nettrygd avgerandi týdning fyri eitt væl virkisført vælferðarsamfelag.</s>
+            <s xml:lang="fo" cert="high" xml:id="phkdzdiryc">Á heysti 2023 legði landsstýrið fram eina ætlan um eitt hægri nettrygdarstig til tess at verja týðandi tænastur í okkara samfelag, tá ið tær eru fyri netálopi, og at forða fyri, at týðandi tænastur eru fyri hendiligum óhappi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Sambært nettrygdarætlanini skulu átøk setast í verk, sum miðvíst fremja nettrygd, byrgja fyri netálopum og skipa eina munagóða tilbúgving, ið kann styrkja mótstøðuførið og avmarka avleiðingarnar, tá ið álop henda.</s>
-            <s xml:lang="fo" cert="high">Fyrsta stig á leiðini er at kortleggja undirstøðukervið og landsstýrið ynskir at fara undir kortleggingina skjótast gjørligt, soleiðis at gongd kemur á ætlanina at skipa eitt hægri trygdarstig av føroyska undirstøðukervinum.</s>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at tað er skynsamt at bíða.</s>
+            <s xml:lang="fo" cert="high" xml:id="mxr37lxdia">Sambært nettrygdarætlanini skulu átøk setast í verk, sum miðvíst fremja nettrygd, byrgja fyri netálopum og skipa eina munagóða tilbúgving, ið kann styrkja mótstøðuførið og avmarka avleiðingarnar, tá ið álop henda.</s>
+            <s xml:lang="fo" cert="high" xml:id="ipgxpaaplw">Fyrsta stig á leiðini er at kortleggja undirstøðukervið og landsstýrið ynskir at fara undir kortleggingina skjótast gjørligt, soleiðis at gongd kemur á ætlanina at skipa eitt hægri trygdarstig av føroyska undirstøðukervinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="uqzjbyhscq">Mett verður ikki, at tað er skynsamt at bíða.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Ætlanin við lógaruppskotinum er at heimila Fjarskiftiseftirlitinum at kortleggja undirstøðukervið í Føroyum við tí endamáli at fáa til vegar eitt grundarlag at meta um váðar, viðbrekni, sínámillum sambond og veikleikar í teimum skipanum, sum eru serliga týdningarmiklar fyri, at samfelagið virkar.</s>
-            <s xml:lang="fo" cert="high">Ein tílík kortlegging er samansett og skal millum annað geva yvirlit yvir sínámillum treytað sambond millum skipanir innanfyri sama geira og tvørtur um geirar.</s>
+            <s xml:lang="fo" cert="high" xml:id="sjlnpnoz5b">Ætlanin við lógaruppskotinum er at heimila Fjarskiftiseftirlitinum at kortleggja undirstøðukervið í Føroyum við tí endamáli at fáa til vegar eitt grundarlag at meta um váðar, viðbrekni, sínámillum sambond og veikleikar í teimum skipanum, sum eru serliga týdningarmiklar fyri, at samfelagið virkar.</s>
+            <s xml:lang="fo" cert="high" xml:id="otp2nsjkuo">Ein tílík kortlegging er samansett og skal millum annað geva yvirlit yvir sínámillum treytað sambond millum skipanir innanfyri sama geira og tvørtur um geirar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Av tí, at kortleggingin er ein fortreyt fyri at skipa nettrygd í Føroyum, verður mett skynsamt at fara undir hana sum skjótast.</s>
-            <s xml:lang="fo" cert="high">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="y5qi5k3hgc">Av tí, at kortleggingin er ein fortreyt fyri at skipa nettrygd í Føroyum, verður mett skynsamt at fara undir hana sum skjótast.</s>
+            <s xml:lang="fo" cert="high" xml:id="khayqhf7fk">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
           </p>
         </div>
         <div type="section" n="1.2.">
           <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
           <p>
-            <s xml:lang="fo" cert="high">Løgtingslóg nr. 72 frá 22. mai 2015 um fjarskifti, sum seinast broytt við løgtingslóg nr. 31 frá 17. mars 2022 hevur sum endamál at virka fyri einum vælskipaðum og nýskapandi marknaði fyri fjarskiftiskervi og fjarskiftistænastur til frama fyri allar endabrúkarar.</s>
-            <s xml:lang="fo" cert="high">Lógin hevur ásetingar um kunningartrygd hjá veitarum av fjarskiftiskervum ella tænastum, men lógin hevur ikki ásetingar um meira generella nettrygd í føroyska samfelagnum annars ella um at skipa samfelagstýðandi undirstøðukervi.</s>
+            <s xml:lang="fo" cert="high" xml:id="g57xspgees">Løgtingslóg nr. 72 frá 22. mai 2015 um fjarskifti, sum seinast broytt við løgtingslóg nr. 31 frá 17. mars 2022 hevur sum endamál at virka fyri einum vælskipaðum og nýskapandi marknaði fyri fjarskiftiskervi og fjarskiftistænastur til frama fyri allar endabrúkarar.</s>
+            <s xml:lang="fo" cert="high" xml:id="ewvevfjqav">Lógin hevur ásetingar um kunningartrygd hjá veitarum av fjarskiftiskervum ella tænastum, men lógin hevur ikki ásetingar um meira generella nettrygd í føroyska samfelagnum annars ella um at skipa samfelagstýðandi undirstøðukervi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Sum liður í ætlanini at skipa nettrygdina, verður í fyrstu atløgu heimilað Fjarskiftiseftirlitinum at kortleggja undirstøðukervið.</s>
-            <s xml:lang="fo" cert="high">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="gnjjc24xcc">Sum liður í ætlanini at skipa nettrygdina, verður í fyrstu atløgu heimilað Fjarskiftiseftirlitinum at kortleggja undirstøðukervið.</s>
+            <s xml:lang="fo" cert="high" xml:id="usi4fe2cdx">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Ætlanin er eisini at gera broytingar í galdandi ásetingum í lógini.</s>
-            <s xml:lang="fo" cert="high">Í § 58 er ætlanin at nágreina, at tað er Fjarskiftiseftirlitið, sum metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini, og at heimildin ikki skal tulkast avmarkandi.</s>
-            <s xml:lang="fo" cert="high">Samstundis verður verandi heimild at krevja upplýsingar regluliga, at seta krøv til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a., gjørd greiðari.</s>
+            <s xml:lang="fo" cert="high" xml:id="rngikqolse">Ætlanin er eisini at gera broytingar í galdandi ásetingum í lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="raveccxsyk">Í § 58 er ætlanin at nágreina, at tað er Fjarskiftiseftirlitið, sum metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini, og at heimildin ikki skal tulkast avmarkandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="nzwuwz2so2">Samstundis verður verandi heimild at krevja upplýsingar regluliga, at seta krøv til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a., gjørd greiðari.</s>
           </p>
         </div>
         <div type="section" n="1.3.">
           <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Endamálið við lógaruppskotinum er at heimila Fjarskiftiseftirlitinum at kortleggja undirstøðukervi við tí endamálið at fremja nettrygd og til at gera portraskanningar á internetinum.</s>
-            <s xml:lang="fo" cert="high">Hetta er í samsvari við nettrygdarætlanina hjá landsstýrinum, sum varð løgd fram á heysti 2023.</s>
-            <s xml:lang="fo" cert="high">Broytingar verða tískil gjørdar í §§ 1 og 2, og nýggj § 58 a, verður sett í fjarskiftislógina.</s>
+            <s xml:lang="fo" cert="high" xml:id="n2enilbg7e">Endamálið við lógaruppskotinum er at heimila Fjarskiftiseftirlitinum at kortleggja undirstøðukervi við tí endamálið at fremja nettrygd og til at gera portraskanningar á internetinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="hosoh4xl6y">Hetta er í samsvari við nettrygdarætlanina hjá landsstýrinum, sum varð løgd fram á heysti 2023.</s>
+            <s xml:lang="fo" cert="high" xml:id="yfuw56h457">Broytingar verða tískil gjørdar í §§ 1 og 2, og nýggj § 58 a, verður sett í fjarskiftislógina.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="f5dqczg6la">Við m.a. teimum royndum, sum verða gjørdar í sambandi við kortlegging, verður fyrireikað lóg um nettrygd at leggja fyri tingið komandi setu.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Samstundis verður § 58, stk. 2, nágreinað soleiðis, at tað verður greitt, at Fjarskiftiseftirlitið metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini.</s>
-            <s xml:lang="fo" cert="high">Umframt verður framhaldandi heimilað at krevja upplýsingar regluliga og at seta krøv til slag og líki av upplýsingum.</s>
-            <s xml:lang="fo" cert="high">Skylda at lata upplýsingar verður ásett í nýggjum § 58, stk. 3.</s>
+            <s xml:lang="fo" cert="high" xml:id="hrc3n47icq">Samstundis verður § 58, stk. 2, nágreinað soleiðis, at tað verður greitt, at Fjarskiftiseftirlitið metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="rok6zkmuzj">Umframt verður framhaldandi heimilað at krevja upplýsingar regluliga og at seta krøv til slag og líki av upplýsingum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mzop7soeod">Skylda at lata upplýsingar verður ásett í nýggjum § 58, stk. 3.</s>
           </p>
         </div>
         <div type="section" n="1.4.">
           <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Tørvur er á at seta í verk átøk, sum fremja nettrygd í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Tí fær Fjarskiftiseftirlitið sambært lógaruppskotinum heimild at savna inn, skráseta og viðgera upplýsingar til tess at kortleggja samfelagstýðandi undirstøðukervi og heimild at gera portraskanningar av interneti, ið økir um nettrygdina.</s>
-            <s xml:lang="fo" cert="high">At kortleggja samfelagstýðandi undirstøðukervi er ein fortreyt fyri at seta í verk málrættað átøk, ið fremja og styrkja nettrygdina í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="gjrxzrd2ud">Tørvur er á at seta í verk átøk, sum fremja nettrygd í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wt3fca4n3e">Tí fær Fjarskiftiseftirlitið sambært lógaruppskotinum heimild at savna inn, skráseta og viðgera upplýsingar til tess at kortleggja samfelagstýðandi undirstøðukervi og heimild at gera portraskanningar av interneti, ið økir um nettrygdina.</s>
+            <s xml:lang="fo" cert="high" xml:id="xqkupmihst">At kortleggja samfelagstýðandi undirstøðukervi er ein fortreyt fyri at seta í verk málrættað átøk, ið fremja og styrkja nettrygdina í Føroyum.</s>
           </p>
         </div>
         <div type="section" n="1.5.">
           <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskot til løgtingslóg um broyting í løgtingslóg um fjarskifti varð sent til ummælis hjá Akstovuni, Almanna- og mentamálaráðnum, Almannaverkinum, Apotekinum, Arbeiðs- og brunaeftirlitinum, Arktiskt Kommando, Atlantic, Barna- og útbúgvingarmálaráðnum, Betri, Betri Pensjón, Bústaðir, Dátueftirlitinum, Effo, Elektron, Føroya Kærustovni, Firum, Gjaldstovuni, Faroe Ship, Felagnum føroyskir peningastovnar, Fiskimálaráðnum, Fíggjarmálaráðnum, Fjarskiftiseftirlitinum, Formula, (Forsvarsministeriinum), Framtak, Fróðskaparsetrinum, Føroya Tele, Glotti, Hagstovuni, Havstovuni, Heilsufrøðiligu starvsstovuni, Heilsumálaráðnum, Jarðfeingi, Kommunufelagnum, Kringvarpinum, KT Húsinum, Landsapotekaranum, Landsbankanum, Landsgrannskoðanini, Landssjúkrahúsinum, Landsverki, Lindini, Lív, Løgmansskrivstovuni, Løgmálaráðnum, Løgregluni, Løgtinginum, Løgtingsins Umboðsmanni, Magn, Nema, Posta, R2net, Føroya Reiðarafelagi, SEV, Sjóvinnustýrinum, Smyril-line, Sorinskrivaranum Strandfararskipum Landsins, TAKS, Umhvørvismálaráðnum, Umhvørvisstovuni, Tjóðskjalasavninum, TRYGD, Tunnilsfelagnum, Vága Floghavn, Vikmar, Vinnuhúsinum, Vinnustovnurin, VØRN og Økisnavn.</s>
+            <s xml:lang="fo" cert="high" xml:id="ksit2tb2sb">Uppskot til løgtingslóg um broyting í løgtingslóg um fjarskifti varð sent til ummælis hjá Akstovuni, Almanna- og mentamálaráðnum, Almannaverkinum, Apotekinum, Arbeiðs- og brunaeftirlitinum, Arktiskt Kommando, Atlantic, Barna- og útbúgvingarmálaráðnum, Betri, Betri Pensjón, Bústaðir, Dátueftirlitinum, Effo, Elektron, Føroya Kærustovni, Firum, Gjaldstovuni, Faroe Ship, Felagnum føroyskir peningastovnar, Fiskimálaráðnum, Fíggjarmálaráðnum, Fjarskiftiseftirlitinum, Formula, (Forsvarsministeriinum), Framtak, Fróðskaparsetrinum, Føroya Tele, Glotti, Hagstovuni, Havstovuni, Heilsufrøðiligu starvsstovuni, Heilsumálaráðnum, Jarðfeingi, Kommunufelagnum, Kringvarpinum, KT Húsinum, Landsapotekaranum, Landsbankanum, Landsgrannskoðanini, Landssjúkrahúsinum, Landsverki, Lindini, Lív, Løgmansskrivstovuni, Løgmálaráðnum, Løgregluni, Løgtinginum, Løgtingsins Umboðsmanni, Magn, Nema, Posta, R2net, Føroya Reiðarafelagi, SEV, Sjóvinnustýrinum, Smyril-line, Sorinskrivaranum Strandfararskipum Landsins, TAKS, Umhvørvismálaráðnum, Umhvørvisstovuni, Tjóðskjalasavninum, TRYGD, Tunnilsfelagnum, Vága Floghavn, Vikmar, Vinnuhúsinum, Vinnustovnurin, VØRN og Økisnavn.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Føroya Arbeiðsgevarafelag, Heilsufrøðiliga starvsstovan, Landsbankin, VØRN og TRYGD høvdu ikki viðmerkingar til uppskotið.</s>
+            <s xml:lang="fo" cert="high" xml:id="zutahqmr3t">Føroya Arbeiðsgevarafelag, Heilsufrøðiliga starvsstovan, Landsbankin, VØRN og TRYGD høvdu ikki viðmerkingar til uppskotið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Umhvørvismálaráðið tók undir við uppskotinum og vísti samstundis á, at sum skilst, er kjarnan í uppskotinum, at tørvur er á at seta í verk átøk, sum fremja nettrygd í Føroyum, og at Fjarskiftiseftirlitið sambært lógaruppskotinum fær heimild at gera portraskanningar av interneti, ið økir um nettrygdina, og heimild at savna inn, skráseta og viðgera upplýsingar um samfelagstýðandi undirstøðukervi.</s>
+            <s xml:lang="fo" cert="high" xml:id="ffgm2fc3ph">Umhvørvismálaráðið tók undir við uppskotinum og vísti samstundis á, at sum skilst, er kjarnan í uppskotinum, at tørvur er á at seta í verk átøk, sum fremja nettrygd í Føroyum, og at Fjarskiftiseftirlitið sambært lógaruppskotinum fær heimild at gera portraskanningar av interneti, ið økir um nettrygdina, og heimild at savna inn, skráseta og viðgera upplýsingar um samfelagstýðandi undirstøðukervi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Umhvørvismálaráðið vísti á, at í mun til broytingar í § 58, stk. 2, er ein orsøk til lógaruppskotið dómurin frá 2019, har Fjarskiftiseftirlitið í Føroya Rætti varð dømt at viðurkenna, at Fjarskiftiseftirlitið ikki hevði heimild at krevja eina frágreiðing útflýggjaða, sum nevndin í Føroya Tele hevði umbiðið.</s>
-            <s xml:lang="fo" cert="high">Føroya Rættur legði m.a. dent á, at frágreiðingin varð ætlað til innanhýsis nýtslu, at umbønin ikki hevði støði í eini klagu, og at frágreiðingin innihelt subjektivar metingar.</s>
-            <s xml:lang="fo" cert="high">Umhvørvismálaráðið vísti á, at ætlanin við broytingunum í § 58, stk. 2, er at gera greitt, at Fjarskiftiseftirlitið kann savna inn tær upplýsingar, dátur o.a., sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum, óansæð um upplýsingar og dátur eru umbidnar sum liður í vanligum eftirlitsvirksemi, innkomnum klagum, ella um talan er um frágreiðingar o.a., sum verða gjørdar til innanhýsis nýtslu hjá teimum, sum koma undir eftirlitsskyldu.</s>
+            <s xml:lang="fo" cert="high" xml:id="go55623fbh">Umhvørvismálaráðið vísti á, at í mun til broytingar í § 58, stk. 2, er ein orsøk til lógaruppskotið dómurin frá 2019, har Fjarskiftiseftirlitið í Føroya Rætti varð dømt at viðurkenna, at Fjarskiftiseftirlitið ikki hevði heimild at krevja eina frágreiðing útflýggjaða, sum nevndin í Føroya Tele hevði umbiðið.</s>
+            <s xml:lang="fo" cert="high" xml:id="nslzjyz534">Føroya Rættur legði m.a. dent á, at frágreiðingin varð ætlað til innanhýsis nýtslu, at umbønin ikki hevði støði í eini klagu, og at frágreiðingin innihelt subjektivar metingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="gp3ympy4k2">Umhvørvismálaráðið vísti á, at ætlanin við broytingunum í § 58, stk. 2, er at gera greitt, at Fjarskiftiseftirlitið kann savna inn tær upplýsingar, dátur o.a., sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum, óansæð um upplýsingar og dátur eru umbidnar sum liður í vanligum eftirlitsvirksemi, innkomnum klagum, ella um talan er um frágreiðingar o.a., sum verða gjørdar til innanhýsis nýtslu hjá teimum, sum koma undir eftirlitsskyldu.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Fíggjarmálaráðið fegnaðist um, at farið verður undir at fremja partar av heildarætlanini fyri nettrygd í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Fíggjarmálaráðið tekur undir við uppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wy56dsnypa">Fíggjarmálaráðið fegnaðist um, at farið verður undir at fremja partar av heildarætlanini fyri nettrygd í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="d2nghl2qot">Fíggjarmálaráðið tekur undir við uppskotinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Arbeiðs- og brunaeftirlitið vísti á, at sum samskipandi myndugleiki fyri tilbúgving metir Arbeiðs- og brunaeftirlitið, at lógaruppskotið er ein týðandi liður í at skipa føroysku tilbúgvingina og styrkja mótstøðuførið, tá ið talan er um nettrygd.</s>
-            <s xml:lang="fo" cert="high">Arbeiðs- og brunaeftirlitið tekur undir við uppskotinum og mælir til, at tað verður samtykt.</s>
+            <s xml:lang="fo" cert="high" xml:id="kwcdzap7tv">Arbeiðs- og brunaeftirlitið vísti á, at sum samskipandi myndugleiki fyri tilbúgving metir Arbeiðs- og brunaeftirlitið, at lógaruppskotið er ein týðandi liður í at skipa føroysku tilbúgvingina og styrkja mótstøðuførið, tá ið talan er um nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="tst733qldi">Arbeiðs- og brunaeftirlitið tekur undir við uppskotinum og mælir til, at tað verður samtykt.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Elektron vísti á, at yvirskipað tekur Elektron undir við uppskotinum, sum hevur til endamáls at betra um nettrygdina í Føroyum og byrgja fyri netálopum og skipa eina munagóða tilbúgving, sum kann styrkja mótstøðuførið og avmarka avleiðingarnar, tá ið álop henda.</s>
+            <s xml:lang="fo" cert="high" xml:id="vx2lntwdtc">Elektron vísti á, at yvirskipað tekur Elektron undir við uppskotinum, sum hevur til endamáls at betra um nettrygdina í Føroyum og byrgja fyri netálopum og skipa eina munagóða tilbúgving, sum kann styrkja mótstøðuførið og avmarka avleiðingarnar, tá ið álop henda.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Elektron vísti á, at av tí, at Fjarskiftiseftirlitið við hesi broyting fær rættiliga víða atgongd til upplýsingar, dátur o.a. og sambært lóggávuni kann lata veitarum av samfelagstýðandi tænastum yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum, er neyðugt, at hetta verður gjørt soleiðis, at KT- og rakstrartrygdin ikki koma í vanda.</s>
-            <s xml:lang="fo" cert="high">Elektron mælir í hesum sambandi til trygdargóðkenning og óheftni.</s>
-            <s xml:lang="fo" cert="high">Elektron mælir eisini til, at mannagongdir fyri arbeiðið verða grannskoðaðar fyri at eftirkanna, at tagnarskyldan verður hildin.</s>
+            <s xml:lang="fo" cert="high" xml:id="oddiz2p7gy">Elektron vísti á, at av tí, at Fjarskiftiseftirlitið við hesi broyting fær rættiliga víða atgongd til upplýsingar, dátur o.a. og sambært lóggávuni kann lata veitarum av samfelagstýðandi tænastum yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum, er neyðugt, at hetta verður gjørt soleiðis, at KT- og rakstrartrygdin ikki koma í vanda.</s>
+            <s xml:lang="fo" cert="high" xml:id="d4vuhquc5b">Elektron mælir í hesum sambandi til trygdargóðkenning og óheftni.</s>
+            <s xml:lang="fo" cert="high" xml:id="ispewh27wg">Elektron mælir eisini til, at mannagongdir fyri arbeiðið verða grannskoðaðar fyri at eftirkanna, at tagnarskyldan verður hildin.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við Elektron í hesum.</s>
-            <s xml:lang="fo" cert="high">Víst verður á, at í sambandi við kortlegging verða hóskandi fyriskipanir settar í verk, sum m.a. skulu tryggja óheftni, trygd, og at upplýsingarnar ikki koma óviðkomandi í hendi.</s>
-            <s xml:lang="fo" cert="high">Trygdargóðkenning verður eftir ætlan partur at nettrygdarlógini eins og grannskoðan.</s>
+            <s xml:lang="fo" cert="high" xml:id="tkwb5fydp3">Uttanríkis- og vinnumálaráðið tekur undir við Elektron í hesum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ksv44xtv4w">Víst verður á, at í sambandi við kortlegging verða hóskandi fyriskipanir settar í verk, sum m.a. skulu tryggja óheftni, trygd, og at upplýsingarnar ikki koma óviðkomandi í hendi.</s>
+            <s xml:lang="fo" cert="high" xml:id="uxffuye7qh">Trygdargóðkenning verður eftir ætlan partur at nettrygdarlógini eins og grannskoðan.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at sum útgangsstøði verða upplýsingar, sum eru fingnar til vegar í sambandi við kortlegging, ikki latnar víðari.</s>
-            <s xml:lang="fo" cert="high">Í ávísum førum kann tað tó verða neyðugt í mun til nettrygd, at upplýsingar yvir egið undirstøðukervi og sambond teirra til onnur undirstøðukervi og skipanir, verða latnar viðkomandi parti.</s>
-            <s xml:lang="fo" cert="high">Verða upplýsingar latnar víðari, verða tær skornar soleiðis, at tað ikki verða latnar fleiri upplýsingar enn neyðugt fyri at røkka endamálinum um nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="zkenswq43d">Uttanríkis- og vinnumálaráðið skal vísa á, at sum útgangsstøði verða upplýsingar, sum eru fingnar til vegar í sambandi við kortlegging, ikki latnar víðari.</s>
+            <s xml:lang="fo" cert="high" xml:id="tbchisiiaq">Í ávísum førum kann tað tó verða neyðugt í mun til nettrygd, at upplýsingar yvir egið undirstøðukervi og sambond teirra til onnur undirstøðukervi og skipanir, verða latnar viðkomandi parti.</s>
+            <s xml:lang="fo" cert="high" xml:id="eenuzh4enr">Verða upplýsingar latnar víðari, verða tær skornar soleiðis, at tað ikki verða latnar fleiri upplýsingar enn neyðugt fyri at røkka endamálinum um nettrygd.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Forsvarsministeriið mælti til, at tað í lógina verður ásett greitt, at lógin ikki áleggur ríkismyndugleikum í Føroyum at lata Fjarskiftiseftirlitinum upplýsingar um teirra undirstøðukervi.</s>
+            <s xml:lang="fo" cert="high" xml:id="o7f3k5e6lr">Forsvarsministeriið mælti til, at tað í lógina verður ásett greitt, at lógin ikki áleggur ríkismyndugleikum í Føroyum at lata Fjarskiftiseftirlitinum upplýsingar um teirra undirstøðukervi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at landsstýrið í síni nettrygdarætlan hevur lagt upp til, at nýggja nettrygdarlógin skal byggja á nýggjastu felagsevropeisku NIS2 fyriskipanina.</s>
-            <s xml:lang="fo" cert="high">Tað er týdningarmikið, at kortleggingin er so fullfíggjað sum møguligt, og at allir viðkomandi partar, sum varða av, ella eru veitarar til undirstøðukervi eru við í arbeiðinum at kortleggja undirstøðukervið.</s>
-            <s xml:lang="fo" cert="high">Í tann mun, at Fjarskiftiseftirlitið metir tað vera viðkomandi at kortleggja ríkismyndugleikar, verður samstarvað við Center for cybersikkerhed.</s>
+            <s xml:lang="fo" cert="high" xml:id="z4hqgzhiz2">Uttanríkis- og vinnumálaráðið skal vísa á, at landsstýrið í síni nettrygdarætlan hevur lagt upp til, at nýggja nettrygdarlógin skal byggja á nýggjastu felagsevropeisku NIS2 fyriskipanina.</s>
+            <s xml:lang="fo" cert="high" xml:id="jsiwsjtjmq">Tað er týdningarmikið, at kortleggingin er so fullfíggjað sum møguligt, og at allir viðkomandi partar, sum varða av, ella eru veitarar til undirstøðukervi eru við í arbeiðinum at kortleggja undirstøðukervið.</s>
+            <s xml:lang="fo" cert="high" xml:id="qm2cz3awn5">Í tann mun, at Fjarskiftiseftirlitið metir tað vera viðkomandi at kortleggja ríkismyndugleikar, verður samstarvað við Center for cybersikkerhed.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Forsvarsministeriið viðmerkti, at uppskotið leggur upp til broytingar á einum málsøki, sum kann hava við sær uttanríkis- trygdar og verjupolitiskar spurningar.</s>
-            <s xml:lang="fo" cert="high">Forsvarsministeriið vísti í hesum sambandi á, at Fjarskiftiseftirlitið og møguligt uppskot um nettrygdarlóg verður gjørt við atliti at myndugleikabýtinum millum Føroya og Danmark.</s>
+            <s xml:lang="fo" cert="high" xml:id="r5xcf3n4fk">Forsvarsministeriið viðmerkti, at uppskotið leggur upp til broytingar á einum málsøki, sum kann hava við sær uttanríkis- trygdar og verjupolitiskar spurningar.</s>
+            <s xml:lang="fo" cert="high" xml:id="tekmpmcon2">Forsvarsministeriið vísti í hesum sambandi á, at Fjarskiftiseftirlitið og møguligt uppskot um nettrygdarlóg verður gjørt við atliti at myndugleikabýtinum millum Føroya og Danmark.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at fjarskifti er yvirtikið málsøki, og uppskot um nettrygdarlóg, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu, tekur atlit til myndugleikabýtið millum Føroyar og Danmark.</s>
+            <s xml:lang="fo" cert="high" xml:id="lsucunw43r">Uttanríkis- og vinnumálaráðið skal vísa á, at fjarskifti er yvirtikið málsøki, og uppskot um nettrygdarlóg, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu, tekur atlit til myndugleikabýtið millum Føroyar og Danmark.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Felagið Føroyskir peningastovnar vísti á, at §§ 2 og 3 í fjarskiftislógini eru orðaðar soleiðis, at fjarskiftislógin, undir hesum § 58 a, ikki er galdandi fyri peningastovnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="el3y5s6hwx">Felagið Føroyskir peningastovnar vísti á, at §§ 2 og 3 í fjarskiftislógini eru orðaðar soleiðis, at fjarskiftislógin, undir hesum § 58 a, ikki er galdandi fyri peningastovnar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við hesum, og § 2 verður tí broytt soleiðis, at avmarkingar í § 2 ikki er galdandi fyri viðgerð sambært § 58 a.</s>
+            <s xml:lang="fo" cert="high" xml:id="hd37ctaiuj">Uttanríkis- og vinnumálaráðið tekur undir við hesum, og § 2 verður tí broytt soleiðis, at avmarkingar í § 2 ikki er galdandi fyri viðgerð sambært § 58 a.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Kommunufelagið vísti á, at tað tykist rættiliga ógreitt, hvørjar upplýsingar, kommunur skulu lata í sambandi við kortlegging.</s>
-            <s xml:lang="fo" cert="high">Felagið metir tí av praktiskum ávum, at tað eigur at verða gjørt nógv greiðari, júst hvørjar upplýsingar, dátur o.a. kommunur við uppskotinum kunnu krevjast eftir.</s>
+            <s xml:lang="fo" cert="high" xml:id="djjcuflp3z">Kommunufelagið vísti á, at tað tykist rættiliga ógreitt, hvørjar upplýsingar, kommunur skulu lata í sambandi við kortlegging.</s>
+            <s xml:lang="fo" cert="high" xml:id="nvaqbotser">Felagið metir tí av praktiskum ávum, at tað eigur at verða gjørt nógv greiðari, júst hvørjar upplýsingar, dátur o.a. kommunur við uppskotinum kunnu krevjast eftir.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við Kommunufelagnum og hevur í viðmerkingunum til § 58 a í størri mun nágreinað, hvørjar upplýsingar talan er um.</s>
-            <s xml:lang="fo" cert="high">Eisini skal verða víst á, at Fjarskiftiseftirlitið í sambandi við kortleggingina ger vegleiðingar, sum nágreina, hvørjar upplýsingar talan er um, og hvussu upplýsingar verða savnaðar.</s>
-            <s xml:lang="fo" cert="high">Í hesum sambandi skal verða nevnt, at ætlanin er ikki at savna persónupplýsingar.</s>
-            <s xml:lang="fo" cert="high">Tó ber ikki til at útihýsa, at einstakar persónupplýsingar eru millum upplýsingarnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="nn7bys2bwx">Uttanríkis- og vinnumálaráðið tekur undir við Kommunufelagnum og hevur í viðmerkingunum til § 58 a í størri mun nágreinað, hvørjar upplýsingar talan er um.</s>
+            <s xml:lang="fo" cert="high" xml:id="kq3puhovzy">Eisini skal verða víst á, at Fjarskiftiseftirlitið í sambandi við kortleggingina ger vegleiðingar, sum nágreina, hvørjar upplýsingar talan er um, og hvussu upplýsingar verða savnaðar.</s>
+            <s xml:lang="fo" cert="high" xml:id="w4kwqhls4e">Í hesum sambandi skal verða nevnt, at ætlanin er ikki at savna persónupplýsingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="cedceg4zft">Tó ber ikki til at útihýsa, at einstakar persónupplýsingar eru millum upplýsingarnar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Kommunufelagið setti spurnatekin við, hvørt tað er rætt at áseta reglur um kortlegging í fjarskiftislógina.</s>
-            <s xml:lang="fo" cert="high">Felagið vísir á, at fjarskiftislógin hevur frá byrjan eitt heilt annað endamál enn tað, sum hetta uppskotið leggur upp til.</s>
-            <s xml:lang="fo" cert="high">Fjarskiftislógin hevur í høvuðsheitum ein vælskipaðan og nýskapandi marknað sum endamál, meðan uppskotið snýr seg um heimildir av meiri trygdarpolitiskum slagi.</s>
-            <s xml:lang="fo" cert="high">Kommunufelagið ivast ikki í, at tað á ávísum økjum kann vera tørvur á rættiliga víðfevndum heimildum hjá myndugleikum.</s>
-            <s xml:lang="fo" cert="high">Felagið vísir tó á, at lógin og heimildirnar mugu tó hóska saman, og tað gera tær ikki í hesum føri.</s>
-            <s xml:lang="fo" cert="high">Ein avleiðing av hesum kann í evsta føri eisini gera, at dómsvaldið ikki vil loyva myndugleikanum at handhevja reglurnar soleiðis, sum tær eru ætlaðar.</s>
+            <s xml:lang="fo" cert="high" xml:id="htdtudi6fz">Kommunufelagið setti spurnatekin við, hvørt tað er rætt at áseta reglur um kortlegging í fjarskiftislógina.</s>
+            <s xml:lang="fo" cert="high" xml:id="oe2b6sba4q">Felagið vísir á, at fjarskiftislógin hevur frá byrjan eitt heilt annað endamál enn tað, sum hetta uppskotið leggur upp til.</s>
+            <s xml:lang="fo" cert="high" xml:id="k7p27j7txa">Fjarskiftislógin hevur í høvuðsheitum ein vælskipaðan og nýskapandi marknað sum endamál, meðan uppskotið snýr seg um heimildir av meiri trygdarpolitiskum slagi.</s>
+            <s xml:lang="fo" cert="high" xml:id="pwhbgw672b">Kommunufelagið ivast ikki í, at tað á ávísum økjum kann vera tørvur á rættiliga víðfevndum heimildum hjá myndugleikum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jveengquzg">Felagið vísir tó á, at lógin og heimildirnar mugu tó hóska saman, og tað gera tær ikki í hesum føri.</s>
+            <s xml:lang="fo" cert="high" xml:id="xwamxl7gzu">Ein avleiðing av hesum kann í evsta føri eisini gera, at dómsvaldið ikki vil loyva myndugleikanum at handhevja reglurnar soleiðis, sum tær eru ætlaðar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at kortlegging og nettrygd verða mett sum partur av fjarskiftismálum.</s>
-            <s xml:lang="fo" cert="high">Fyri at gera hetta enn greiðari verður § 1 í lógini tillagað, soleiðis at hon eisini greitt fevnir um nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="wv6vqjurp4">Uttanríkis- og vinnumálaráðið skal vísa á, at kortlegging og nettrygd verða mett sum partur av fjarskiftismálum.</s>
+            <s xml:lang="fo" cert="high" xml:id="te3bfe5gfy">Fyri at gera hetta enn greiðari verður § 1 í lógini tillagað, soleiðis at hon eisini greitt fevnir um nettrygd.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Kommunufelagið vísti á, at ein avleiðing av uppskotinum er, at virkisøkini hjá innlitslógini, dátuverndarlógini og skjalasavnslógini verða skerd munandi.</s>
-            <s xml:lang="fo" cert="high">Felagið vísti á, at hetta verður gjørt, uttan at samsvarandi reglur ella fyriskipanir verða settar í verk, og hóast serliga innlitslógin og dátuverndarlógin eru viðvirkandi til at halda uppi rættartrygdina hjá borgarum, virkjum og øðrum samfelagsaktørum.</s>
-            <s xml:lang="fo" cert="high">Felagið vísti á, at avleiðingin av hesum verður, at máað verður undan rættartrygdini í samfelagnum.</s>
-            <s xml:lang="fo" cert="high">Felagið metti tað vera ógvuliga undranarvert, at uppskotið ikki fyriheldur seg til hesi viðurskiftini – hvørki til undirliggjandi samfelagstýdningin av hesum lógum ella til ítøkiligu undantøkini, sum hesar lógir longu loyva.</s>
+            <s xml:lang="fo" cert="high" xml:id="s2drftdiry">Kommunufelagið vísti á, at ein avleiðing av uppskotinum er, at virkisøkini hjá innlitslógini, dátuverndarlógini og skjalasavnslógini verða skerd munandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="hamyigc2n3">Felagið vísti á, at hetta verður gjørt, uttan at samsvarandi reglur ella fyriskipanir verða settar í verk, og hóast serliga innlitslógin og dátuverndarlógin eru viðvirkandi til at halda uppi rættartrygdina hjá borgarum, virkjum og øðrum samfelagsaktørum.</s>
+            <s xml:lang="fo" cert="high" xml:id="zvnen7psva">Felagið vísti á, at avleiðingin av hesum verður, at máað verður undan rættartrygdini í samfelagnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="cfm3s3dovs">Felagið metti tað vera ógvuliga undranarvert, at uppskotið ikki fyriheldur seg til hesi viðurskiftini – hvørki til undirliggjandi samfelagstýdningin av hesum lógum ella til ítøkiligu undantøkini, sum hesar lógir longu loyva.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við, at rættartrygdin hjá tí einstaka, virkjum og øðrum samfelagsaktørum er av stórum týdningi.</s>
-            <s xml:lang="fo" cert="high">Ætlanin er ikki at savna persónupplýsingar ella upplýsingar um persónar.</s>
-            <s xml:lang="fo" cert="high">Kortini ber ikki til at útihýsa, at persónupplýsingar í ávísum førum eru millum upplýsingar, sum verða savnaðar í sambandi við kortleggingina.</s>
-            <s xml:lang="fo" cert="high">Av tí, at ætlanin ikki er at savna persónupplýsingar ella upplýsingar um persónlig viðurskifti hjá persónum, verður ikki mett, at viðgerðin av upplýsingum í sambandi við kortlegging hevur við sær avleiðingar fyri rættartrygdina hjá tí einstaka.</s>
-            <s xml:lang="fo" cert="high">Ásetingar um dátuvernd, innlit og skjalasavn verða partur av uppskotinum um nettrygd, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="j53d64p3uq">Uttanríkis- og vinnumálaráðið tekur undir við, at rættartrygdin hjá tí einstaka, virkjum og øðrum samfelagsaktørum er av stórum týdningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="avh3tclajh">Ætlanin er ikki at savna persónupplýsingar ella upplýsingar um persónar.</s>
+            <s xml:lang="fo" cert="high" xml:id="qogwvnpbzb">Kortini ber ikki til at útihýsa, at persónupplýsingar í ávísum førum eru millum upplýsingar, sum verða savnaðar í sambandi við kortleggingina.</s>
+            <s xml:lang="fo" cert="high" xml:id="bxd22qvql2">Av tí, at ætlanin ikki er at savna persónupplýsingar ella upplýsingar um persónlig viðurskifti hjá persónum, verður ikki mett, at viðgerðin av upplýsingum í sambandi við kortlegging hevur við sær avleiðingar fyri rættartrygdina hjá tí einstaka.</s>
+            <s xml:lang="fo" cert="high" xml:id="k5667gplwd">Ásetingar um dátuvernd, innlit og skjalasavn verða partur av uppskotinum um nettrygd, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Kommunufelagið vísti á, at lógaruppskotið hevur ikki nakra støðutakan til, hvussu eftirlit verður hildið við nýtsluni av nýggju og sera víðfevndu heimildunum hjá Fjarskiftiseftirlitinum.</s>
-            <s xml:lang="fo" cert="high">Felagið vísti á, at eitt grundleggjandi eyðkenni fyri fólkaræðislig samfeløg er, at tey hava eftirlit við sínum myndugleikum og at hetta eftirlit skal hava møguleika vera effektivt.</s>
-            <s xml:lang="fo" cert="high">Kommunufelagið vísti á, at vanliga verður eftirlitið útint av hægri fyrisitingarligum ella politiskum myndugleika, meðan eftirlitið í øðrum førum liggur hjá dómsvaldinum ella serliga skipaðum eftirliti.</s>
-            <s xml:lang="fo" cert="high">Felagið vísti á, at at síggja til verður onki fyrisitingarligt ella politiskt eftirlit skipað fyri umsitingina av hesum nýggju og víðfevndu heimildunum hjá Fjarskiftiseftirlitinum.</s>
-            <s xml:lang="fo" cert="high">Og av tí, at stovnurin millum annað fær heimild at strika upplýsing, ber somuleiðis illa til hjá nøkrum at skipa nakað effektiv eftirlit – ei heldur gjøgnum dómsvaldið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ijmlgzz75q">Kommunufelagið vísti á, at lógaruppskotið hevur ikki nakra støðutakan til, hvussu eftirlit verður hildið við nýtsluni av nýggju og sera víðfevndu heimildunum hjá Fjarskiftiseftirlitinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="uft6ak2jp5">Felagið vísti á, at eitt grundleggjandi eyðkenni fyri fólkaræðislig samfeløg er, at tey hava eftirlit við sínum myndugleikum og at hetta eftirlit skal hava møguleika vera effektivt.</s>
+            <s xml:lang="fo" cert="high" xml:id="nl6zsavdav">Kommunufelagið vísti á, at vanliga verður eftirlitið útint av hægri fyrisitingarligum ella politiskum myndugleika, meðan eftirlitið í øðrum førum liggur hjá dómsvaldinum ella serliga skipaðum eftirliti.</s>
+            <s xml:lang="fo" cert="high" xml:id="y2bk2i4hes">Felagið vísti á, at at síggja til verður onki fyrisitingarligt ella politiskt eftirlit skipað fyri umsitingina av hesum nýggju og víðfevndu heimildunum hjá Fjarskiftiseftirlitinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="yjlf73t4dc">Og av tí, at stovnurin millum annað fær heimild at strika upplýsing, ber somuleiðis illa til hjá nøkrum at skipa nakað effektiv eftirlit – ei heldur gjøgnum dómsvaldið.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við, at tað er týdningarmikið at hava eftirlit við myndugleikum.</s>
-            <s xml:lang="fo" cert="high">Í mun til eftirlit verða eftirlitsskipanir settar í verk við nettrygdarlógini.</s>
-            <s xml:lang="fo" cert="high">Í sambandi við kortleggingina verða hóskandi fyriskipanir settar í verk, sum m.a. skulu tryggja óheftni, nøktandi trygd, og at upplýsingarnar ikki koma óviðkomandi í hendi.</s>
+            <s xml:lang="fo" cert="high" xml:id="pk7jtu57vf">Uttanríkis- og vinnumálaráðið tekur undir við, at tað er týdningarmikið at hava eftirlit við myndugleikum.</s>
+            <s xml:lang="fo" cert="high" xml:id="cuswqryvva">Í mun til eftirlit verða eftirlitsskipanir settar í verk við nettrygdarlógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="gmo6oygnjv">Í sambandi við kortleggingina verða hóskandi fyriskipanir settar í verk, sum m.a. skulu tryggja óheftni, nøktandi trygd, og at upplýsingarnar ikki koma óviðkomandi í hendi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Talan er um upplýsingar um skipanir og samanhangir millum skipanir.</s>
-            <s xml:lang="fo" cert="high">Talan kann verða um handilsloynidómar og upplýsingar, sum hava týdning fyri nettrygdina.</s>
-            <s xml:lang="fo" cert="high">Fyri tær fyritøkur og stovnar, sum skulu lata Fjarskiftiseftirlitinum upplýsingar, er tað av alstórum týdningi, at hesi kenna seg trygg við, at upplýsingar, sum annars ikki eru alment atkomuligar, ikki koma almenninginum ella óviðkomandi í hendi.</s>
-            <s xml:lang="fo" cert="high">Hetta hevur eisini týdning í tann mun, at Fjarskiftiseftirlitið skal samstarva við onnur eftirlit.</s>
+            <s xml:lang="fo" cert="high" xml:id="uji2swdu4q">Talan er um upplýsingar um skipanir og samanhangir millum skipanir.</s>
+            <s xml:lang="fo" cert="high" xml:id="tifh6u7hiu">Talan kann verða um handilsloynidómar og upplýsingar, sum hava týdning fyri nettrygdina.</s>
+            <s xml:lang="fo" cert="high" xml:id="k6mxek7pmj">Fyri tær fyritøkur og stovnar, sum skulu lata Fjarskiftiseftirlitinum upplýsingar, er tað av alstórum týdningi, at hesi kenna seg trygg við, at upplýsingar, sum annars ikki eru alment atkomuligar, ikki koma almenninginum ella óviðkomandi í hendi.</s>
+            <s xml:lang="fo" cert="high" xml:id="cne66pb57f">Hetta hevur eisini týdning í tann mun, at Fjarskiftiseftirlitið skal samstarva við onnur eftirlit.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Kommunufelagið vísti á, at samanumtikið heldur felagið, at fleiri týðandi viðurskifti tala ímóti at samtykkja uppskotið í verandi líki.</s>
-            <s xml:lang="fo" cert="high">Felagið mælir av somu orsøk landsstýrinum frá at bera uppskotið í tingið.</s>
-            <s xml:lang="fo" cert="high">Mælt verður í staðin til at bíða eftir einari meiri samanhangandi regulering, har neyðug atlit kann takast til tey sera samansettu – og eins samfelagstýðandi – atlitini, sum eitt slíkt uppskot eigur at fevna um og taka støðu til.</s>
-            <s xml:lang="fo" cert="high">Hetta kann hóskandi gerast í tí nettrygdarlóg, sum landsstýrið longu sigur seg arbeiða við at leggja fram í komandi tingsetu.</s>
+            <s xml:lang="fo" cert="high" xml:id="yqkminmjoj">Kommunufelagið vísti á, at samanumtikið heldur felagið, at fleiri týðandi viðurskifti tala ímóti at samtykkja uppskotið í verandi líki.</s>
+            <s xml:lang="fo" cert="high" xml:id="afzuhdys2j">Felagið mælir av somu orsøk landsstýrinum frá at bera uppskotið í tingið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ewvqn4mtvn">Mælt verður í staðin til at bíða eftir einari meiri samanhangandi regulering, har neyðug atlit kann takast til tey sera samansettu – og eins samfelagstýðandi – atlitini, sum eitt slíkt uppskot eigur at fevna um og taka støðu til.</s>
+            <s xml:lang="fo" cert="high" xml:id="o5rxkyento">Hetta kann hóskandi gerast í tí nettrygdarlóg, sum landsstýrið longu sigur seg arbeiða við at leggja fram í komandi tingsetu.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at eingin yvirskipað nettrygd er sett í verk í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Kortlegging av undirstøðukervinum er fyrsta stig á leiðini at skipa eitt hægri trygdarstøði og harvið í størri mun kunna verja okkum ímóti netálopum.</s>
-            <s xml:lang="fo" cert="high">Til ber at bíða við at fremja kortlegging til arbeiðið við nettrygdarlógini er liðugt.</s>
-            <s xml:lang="fo" cert="high">Tað merkir so, at Føroyar í enn eitt ár ikki eru farnar undir nettrygdarætlanina, og tað er enn eitt ár, har Føroyar eru viðbreknar og møguliga víðopnar fyri álopum á kjarnutænastur í samfelagnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="bi7uspgjai">Uttanríkis- og vinnumálaráðið skal vísa á, at eingin yvirskipað nettrygd er sett í verk í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ummzjdhxps">Kortlegging av undirstøðukervinum er fyrsta stig á leiðini at skipa eitt hægri trygdarstøði og harvið í størri mun kunna verja okkum ímóti netálopum.</s>
+            <s xml:lang="fo" cert="high" xml:id="yx2vll6mvw">Til ber at bíða við at fremja kortlegging til arbeiðið við nettrygdarlógini er liðugt.</s>
+            <s xml:lang="fo" cert="high" xml:id="qza7vkpcdb">Tað merkir so, at Føroyar í enn eitt ár ikki eru farnar undir nettrygdarætlanina, og tað er enn eitt ár, har Føroyar eru viðbreknar og møguliga víðopnar fyri álopum á kjarnutænastur í samfelagnum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður, at tað hevur skund at hækka trygdarstigið, og tí verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1 av nettrygdarætlanini, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond, soleiðis at til ber at tryggja netið og harvið fáa eitt vælvirkandi og mótstøðuført undirstøðukervi í Føroyum.</s>
-            <s xml:lang="fo" cert="high">Mett verður, at tað hevur týdning, at uppskotið kemur í gildi skjótast gjørligt.</s>
+            <s xml:lang="fo" cert="high" xml:id="hkjihdozaq">Mett verður, at tað hevur skund at hækka trygdarstigið, og tí verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1 av nettrygdarætlanini, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond, soleiðis at til ber at tryggja netið og harvið fáa eitt vælvirkandi og mótstøðuført undirstøðukervi í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="pcalglo4f2">Mett verður, at tað hevur týdning, at uppskotið kemur í gildi skjótast gjørligt.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátureftirlitið vísti á, at yvirskipað tekur Dátueftirlitið undir við nettrygdarætlanini hjá landsstýrinum.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti eisini á, at tað er í samljóði við endamálið í dátuverndarlógini, at størri fokus verður sett á nettrygd sum heild, og fer at gagna arbeiðinum fyri betri dátuvernd í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="die7ikn4uh">Dátureftirlitið vísti á, at yvirskipað tekur Dátueftirlitið undir við nettrygdarætlanini hjá landsstýrinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="itf5yki7d5">Dátueftirlitið vísti eisini á, at tað er í samljóði við endamálið í dátuverndarlógini, at størri fokus verður sett á nettrygd sum heild, og fer at gagna arbeiðinum fyri betri dátuvernd í Føroyum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti á, at tað tekur ikki undir við ásetingini um, at dátuverndarlógin ikki skal vera galdandi fyri virksemi, ið § 58 a heimilar.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti á, at endamálið við dátuverndarlógini er at verja privatlívið og rættartrygdina hjá tí einstaka.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið metir, at verjan av privatlívinum og rættartrygdini hjá tí einstaka viknar munandi, um løgtingslógin verður samtykt, soleiðis sum hon fyriliggur.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið metti, at tað er ógvuliga víðgongt, at dátuverndarlógin í síni heild ikki skal galda fyri § 58 a.</s>
-            <s xml:lang="fo" cert="high">Serliga havandi í huga, at viðmerkingarnar als ikki vísa á tey konkretu fyrilitini, ið gera, at ætlaða broytingin ikki fær tænt sínum endamáli, um so er, at dátuverndarlógin er galdandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="p5dpknvzo3">Dátueftirlitið vísti á, at tað tekur ikki undir við ásetingini um, at dátuverndarlógin ikki skal vera galdandi fyri virksemi, ið § 58 a heimilar.</s>
+            <s xml:lang="fo" cert="high" xml:id="sg4iwe2wg7">Dátueftirlitið vísti á, at endamálið við dátuverndarlógini er at verja privatlívið og rættartrygdina hjá tí einstaka.</s>
+            <s xml:lang="fo" cert="high" xml:id="b37jvyilxj">Dátueftirlitið metir, at verjan av privatlívinum og rættartrygdini hjá tí einstaka viknar munandi, um løgtingslógin verður samtykt, soleiðis sum hon fyriliggur.</s>
+            <s xml:lang="fo" cert="high" xml:id="l4c6yw6zow">Dátueftirlitið metti, at tað er ógvuliga víðgongt, at dátuverndarlógin í síni heild ikki skal galda fyri § 58 a.</s>
+            <s xml:lang="fo" cert="high" xml:id="o6q5cvvqcf">Serliga havandi í huga, at viðmerkingarnar als ikki vísa á tey konkretu fyrilitini, ið gera, at ætlaða broytingin ikki fær tænt sínum endamáli, um so er, at dátuverndarlógin er galdandi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti á, at § 36 í dátuverndarlógini hevur eina røð av undantøkum til rættindini hjá tí skrásetta.</s>
-            <s xml:lang="fo" cert="high">Millum annað í stk. 1, nr. 1 har ásett verður, at kunningarskyldan, rætturin til innlit og um fráboðan til skrásetta sbrt. § 48 í dátuverndarlógini ikki eru galdandi fyri persónupplýsingar sum, um tær koma í ljósmála, kunnu skaða landsins trygd, verju ella samskifti við útlendskar tjóðir ella felagsskapir.</s>
-            <s xml:lang="fo" cert="high">Sambært stk. 1, nr. 5, er hetta eisini galdandi, um áhugin hjá skrásetta at fáa kunning eigur at víkja fyri altavgerandi almennum ella privatum áhugamálum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mj7fbwdxpy">Dátueftirlitið vísti á, at § 36 í dátuverndarlógini hevur eina røð av undantøkum til rættindini hjá tí skrásetta.</s>
+            <s xml:lang="fo" cert="high" xml:id="vabfzlgzw7">Millum annað í stk. 1, nr. 1 har ásett verður, at kunningarskyldan, rætturin til innlit og um fráboðan til skrásetta sbrt. § 48 í dátuverndarlógini ikki eru galdandi fyri persónupplýsingar sum, um tær koma í ljósmála, kunnu skaða landsins trygd, verju ella samskifti við útlendskar tjóðir ella felagsskapir.</s>
+            <s xml:lang="fo" cert="high" xml:id="dth2gqi7ae">Sambært stk. 1, nr. 5, er hetta eisini galdandi, um áhugin hjá skrásetta at fáa kunning eigur at víkja fyri altavgerandi almennum ella privatum áhugamálum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið metti, at hesi nevndu undantøk eiga at vera nøktandi í mun til endamálið við hesum løgtingslógaruppskoti.</s>
-            <s xml:lang="fo" cert="high">Sostatt er tað óneyðugt at áseta, at dátuverndarlógin ikki skal vera galdandi.</s>
-            <s xml:lang="fo" cert="high">Ætlaða ásetingin hevur ikki bert við sær, at rætturin til innlit fellur burtur, men at øll verjan, ið dátuverndarlógin gevur fellur burtur í síni heild.</s>
-            <s xml:lang="fo" cert="high">Nevnast kann skyldan at boða frá trygdarbrotum og meginreglurnar í § 7 í dátuverndarlógini um m.a. lógilgheit og rímiligheit.</s>
-            <s xml:lang="fo" cert="high">Krøvini um viðgerðartrygd, tá persónupplýsingar verða viðgjørdar, fella eisini burtur.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið skal í tí sambandi minna á, at krøvini um trygd, ið dátuverndarlógin ásetur, eru í løtuni einastu alment galdandi lógarkrøvini um KT-trygd í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="bej4hhalfk">Dátueftirlitið metti, at hesi nevndu undantøk eiga at vera nøktandi í mun til endamálið við hesum løgtingslógaruppskoti.</s>
+            <s xml:lang="fo" cert="high" xml:id="nwaml7nr5q">Sostatt er tað óneyðugt at áseta, at dátuverndarlógin ikki skal vera galdandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="qlwv7sodha">Ætlaða ásetingin hevur ikki bert við sær, at rætturin til innlit fellur burtur, men at øll verjan, ið dátuverndarlógin gevur fellur burtur í síni heild.</s>
+            <s xml:lang="fo" cert="high" xml:id="jc6posbaro">Nevnast kann skyldan at boða frá trygdarbrotum og meginreglurnar í § 7 í dátuverndarlógini um m.a. lógilgheit og rímiligheit.</s>
+            <s xml:lang="fo" cert="high" xml:id="dea24zwxbm">Krøvini um viðgerðartrygd, tá persónupplýsingar verða viðgjørdar, fella eisini burtur.</s>
+            <s xml:lang="fo" cert="high" xml:id="bb2zt2yu2w">Dátueftirlitið skal í tí sambandi minna á, at krøvini um trygd, ið dátuverndarlógin ásetur, eru í løtuni einastu alment galdandi lógarkrøvini um KT-trygd í Føroyum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið tekur undir við at verja privatlívið og rættindi hjá tí einstaka.</s>
-            <s xml:lang="fo" cert="high">Í mun til kortlegging av undirstøðukervinum skal verða víst á, at ætlanin er ikki at savna persónupplýsingar.</s>
-            <s xml:lang="fo" cert="high">Kortini kann ikki útihýsast, at í ávísum førum kunnu persónupplýsingar verða millum upplýsingarnar, sum verða savnaðar í sambandi við kortleggingina.</s>
-            <s xml:lang="fo" cert="high">Dátuverndarlógin fevnir breitt, men hon er kortini avmarkað í tann mun, at hon fevnir bert um viðgerð av persónupplýsingum.</s>
-            <s xml:lang="fo" cert="high">Sostatt er tað í mun til kortleggingina avmarkað í hvønn mun, dátuverndarlógin er viðkomandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="lckf4fxxd7">Uttanríkis- og vinnumálaráðið tekur undir við at verja privatlívið og rættindi hjá tí einstaka.</s>
+            <s xml:lang="fo" cert="high" xml:id="m6kjundxgn">Í mun til kortlegging av undirstøðukervinum skal verða víst á, at ætlanin er ikki at savna persónupplýsingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="b2aavu42xq">Kortini kann ikki útihýsast, at í ávísum førum kunnu persónupplýsingar verða millum upplýsingarnar, sum verða savnaðar í sambandi við kortleggingina.</s>
+            <s xml:lang="fo" cert="high" xml:id="nding2gd4j">Dátuverndarlógin fevnir breitt, men hon er kortini avmarkað í tann mun, at hon fevnir bert um viðgerð av persónupplýsingum.</s>
+            <s xml:lang="fo" cert="high" xml:id="rcjogab4tt">Sostatt er tað í mun til kortleggingina avmarkað í hvønn mun, dátuverndarlógin er viðkomandi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Eins og víst á í viðmerking til Kommunufelagið er talan um upplýsingar um skipanir og samanhangir millum skipanir.</s>
-            <s xml:lang="fo" cert="high">Talan kann verða um handilsloynidómar og upplýsingar, sum hava týdning fyri nettrygdina.</s>
-            <s xml:lang="fo" cert="high">Fyri tær fyritøkur og stovnar, sum skulu lata Fjarskiftiseftirlitinum upplýsingar, er tað av alstórum týdningi, at hesi kenna seg trygg við, at upplýsingar, sum annars ikki eru alment atkomuligar, ikki koma almenninginum ella óviðkomandi í hendi.</s>
+            <s xml:lang="fo" cert="high" xml:id="mmrvgrkz5g">Eins og víst á í viðmerking til Kommunufelagið er talan um upplýsingar um skipanir og samanhangir millum skipanir.</s>
+            <s xml:lang="fo" cert="high" xml:id="ndq637ejqf">Talan kann verða um handilsloynidómar og upplýsingar, sum hava týdning fyri nettrygdina.</s>
+            <s xml:lang="fo" cert="high" xml:id="vlywqokdct">Fyri tær fyritøkur og stovnar, sum skulu lata Fjarskiftiseftirlitinum upplýsingar, er tað av alstórum týdningi, at hesi kenna seg trygg við, at upplýsingar, sum annars ikki eru alment atkomuligar, ikki koma almenninginum ella óviðkomandi í hendi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátuverndarlógin hevur eina røð av undantøkum til innlit; kortini verður mett, at hesi undantøk ikki eru nøktandi – eisini sæð út frá, at innlit skal gevast, í tann mun tað ber til.</s>
-            <s xml:lang="fo" cert="high">Innlit í upplýsingar, sum verða savnaðar inn í sambandi við kortlegging kunnu skaða bæði trygdina og kappingina í einum marknaði, um álopsmegi ella kappingarneytar umvegis Fjarskiftiseftirlitið ella aðrar myndugleikar kunnu fáa til vegar upplýsingar, sum vanliga ikki eru tøkar á marknaðinum.</s>
-            <s xml:lang="fo" cert="high">Talan kann vera um bæði trygdar- og handilsloynidómar.</s>
-            <s xml:lang="fo" cert="high">Harumframt hava allir kapitlar í Dátuverndarlógini ásetingar um eftirlit, skjalfesting ella innlit.</s>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at dátuverndarlógin hóskar sum eftirlit við viðgerð í sambandi við kortlegging.</s>
-            <s xml:lang="fo" cert="high">Ætlanin er tó, at ásetingar um dátuvernd verða partur av uppskotinum um nettrygd, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu.</s>
-            <s xml:lang="fo" cert="high">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, verður viðgerðin í samsvari við meginreglurnar um dátuvernd.</s>
+            <s xml:lang="fo" cert="high" xml:id="m65wkfixql">Dátuverndarlógin hevur eina røð av undantøkum til innlit; kortini verður mett, at hesi undantøk ikki eru nøktandi – eisini sæð út frá, at innlit skal gevast, í tann mun tað ber til.</s>
+            <s xml:lang="fo" cert="high" xml:id="lkjydytsda">Innlit í upplýsingar, sum verða savnaðar inn í sambandi við kortlegging kunnu skaða bæði trygdina og kappingina í einum marknaði, um álopsmegi ella kappingarneytar umvegis Fjarskiftiseftirlitið ella aðrar myndugleikar kunnu fáa til vegar upplýsingar, sum vanliga ikki eru tøkar á marknaðinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="qoyrrcj5dj">Talan kann vera um bæði trygdar- og handilsloynidómar.</s>
+            <s xml:lang="fo" cert="high" xml:id="pl3hshfv37">Harumframt hava allir kapitlar í Dátuverndarlógini ásetingar um eftirlit, skjalfesting ella innlit.</s>
+            <s xml:lang="fo" cert="high" xml:id="y3adffdmia">Mett verður ikki, at dátuverndarlógin hóskar sum eftirlit við viðgerð í sambandi við kortlegging.</s>
+            <s xml:lang="fo" cert="high" xml:id="a35olmpa3f">Ætlanin er tó, at ásetingar um dátuvernd verða partur av uppskotinum um nettrygd, sum eftir ætlan verður lagt fyri Løgtingið í komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="wsp6kdd2nq">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, verður viðgerðin í samsvari við meginreglurnar um dátuvernd.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti til viðmerkingarnar til § 58 a, stk. 10, um, at í lógini um nettrygd verða eftir ætlan skipanir settar í verk, ið skulu tryggja rættindini hjá tí einstaka, og verja rættartrygdina í sambandi við nettrygd.</s>
-            <s xml:lang="fo" cert="high">Í hesum sambandi spurdi Dátueftirlitið, um júst hvussu Uttanríkis- og vinnumálaráðið sær fyri sær, at slíkar skipanir skulu setast í verk, og hví – tá man nú hevur viðgingið, at løgtingslógaruppskotið ger seg inn á rættartrygdina – man ikki setir tær í verk samstundis, sum man ger hesa broytingina.</s>
+            <s xml:lang="fo" cert="high" xml:id="v7suwabi3h">Dátueftirlitið vísti til viðmerkingarnar til § 58 a, stk. 10, um, at í lógini um nettrygd verða eftir ætlan skipanir settar í verk, ið skulu tryggja rættindini hjá tí einstaka, og verja rættartrygdina í sambandi við nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="f4h5uej4qk">Í hesum sambandi spurdi Dátueftirlitið, um júst hvussu Uttanríkis- og vinnumálaráðið sær fyri sær, at slíkar skipanir skulu setast í verk, og hví – tá man nú hevur viðgingið, at løgtingslógaruppskotið ger seg inn á rættartrygdina – man ikki setir tær í verk samstundis, sum man ger hesa broytingina.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at mett verður ikki, at lógaruppskotið ger seg inn á rættartrygdina hjá tí einstaka.</s>
-            <s xml:lang="fo" cert="high">Ætlanin er ikki at savna persónupplýsingar, og um persónupplýsingar í ávísum førum verða viðgjørdar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini um viðgerð av persónupplýsingum.</s>
+            <s xml:lang="fo" cert="high" xml:id="fb5dtmse76">Uttanríkis- og vinnumálaráðið skal vísa á, at mett verður ikki, at lógaruppskotið ger seg inn á rættartrygdina hjá tí einstaka.</s>
+            <s xml:lang="fo" cert="high" xml:id="nlpigbge7s">Ætlanin er ikki at savna persónupplýsingar, og um persónupplýsingar í ávísum førum verða viðgjørdar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini um viðgerð av persónupplýsingum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti á § 58 a, stk. 10, í uppskotinum, sum ásetur, at avmarkingin í fyrsta broti er galdandi, tá ið upplýsingar verða latnar víðari.</s>
+            <s xml:lang="fo" cert="high" xml:id="h42u3intt2">Dátueftirlitið vísti á § 58 a, stk. 10, í uppskotinum, sum ásetur, at avmarkingin í fyrsta broti er galdandi, tá ið upplýsingar verða latnar víðari.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at ætlanin er ikki at savna persónupplýsingar.</s>
-            <s xml:lang="fo" cert="high">Í teimum førum, at Fjarskiftiseftirlitið letur øðrum upplýsingar, er talan um egið innlit og eftir, at upplýsingar eru kortlagdar.</s>
-            <s xml:lang="fo" cert="high">Sannlíkindini fyri, at talan tá er um persónupplýsingar er ógvuliga lítil.</s>
-            <s xml:lang="fo" cert="high">Talan er heldur um upplýsingar, sum kunnu hava avleiðingar fyri landsins nettrygd, trygdina hjá fyritøkum, eins og handilsloynidómar kunnu verða avdúkaðar, um tær koma óviðkomandi í hendi.</s>
-            <s xml:lang="fo" cert="high">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="wvshjawcyr">Uttanríkis- og vinnumálaráðið skal vísa á, at ætlanin er ikki at savna persónupplýsingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="iczz7mq36l">Í teimum førum, at Fjarskiftiseftirlitið letur øðrum upplýsingar, er talan um egið innlit og eftir, at upplýsingar eru kortlagdar.</s>
+            <s xml:lang="fo" cert="high" xml:id="xvr43e4qcv">Sannlíkindini fyri, at talan tá er um persónupplýsingar er ógvuliga lítil.</s>
+            <s xml:lang="fo" cert="high" xml:id="c53wqta4np">Talan er heldur um upplýsingar, sum kunnu hava avleiðingar fyri landsins nettrygd, trygdina hjá fyritøkum, eins og handilsloynidómar kunnu verða avdúkaðar, um tær koma óviðkomandi í hendi.</s>
+            <s xml:lang="fo" cert="high" xml:id="kfhybd247o">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Dátueftirlitið vísti á, at niðurstøðan hjá Dátueftirlitinum er, at rættartrygdin hjá tí einstaka viknar munandi, um løgtingslógaruppskotið verður samtykt, soleiðis sum tað fyriliggur, og at ásetingin, um at dátuverndarlógin ikki skal vera galdandi, er púra óneyðug, sæð í ljósinum av teimum undantøkum sum dátuverndarlógin longu heimilar.</s>
-            <s xml:lang="fo" cert="high">Dátueftirlitið mælir frá, at § 58 a, stk. 10, verður sett í lógina, soleiðis sum ásetingin er orðað.</s>
+            <s xml:lang="fo" cert="high" xml:id="wqajzpjkvf">Dátueftirlitið vísti á, at niðurstøðan hjá Dátueftirlitinum er, at rættartrygdin hjá tí einstaka viknar munandi, um løgtingslógaruppskotið verður samtykt, soleiðis sum tað fyriliggur, og at ásetingin, um at dátuverndarlógin ikki skal vera galdandi, er púra óneyðug, sæð í ljósinum av teimum undantøkum sum dátuverndarlógin longu heimilar.</s>
+            <s xml:lang="fo" cert="high" xml:id="icmnywhj5g">Dátueftirlitið mælir frá, at § 58 a, stk. 10, verður sett í lógina, soleiðis sum ásetingin er orðað.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at ásetingar um dátuvernd eftir ætlan verða partur av lógini um nettrygd, sum verður løgd fyri Løgtingið í komandi setu.</s>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at dátuverndarlógin er hóskandi í sambandi við kortleggingina av undirstøðukervinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mfi2mqonfk">Uttanríkis- og vinnumálaráðið skal vísa á, at ásetingar um dátuvernd eftir ætlan verða partur av lógini um nettrygd, sum verður løgd fyri Løgtingið í komandi setu.</s>
+            <s xml:lang="fo" cert="high" xml:id="pgpaitb73u">Mett verður ikki, at dátuverndarlógin er hóskandi í sambandi við kortleggingina av undirstøðukervinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at sambært § 58, stk. 2, kann Fjarskiftiseftirlitið krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum ella fyri at gera av, um ávís viðurskifti eru partur av øki løgtingslógarinnar.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti í hesum sambandi á, at sambært pkt. 1.3 í almennu viðmerkingunum er nevnt, at § 58, stk. 2 verður nágreinað soleiðis, at tað er Fjarskiftiseftirlitið sjálvt, ið metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at Fjarskiftiseftirlitið við hesum broytingaruppskoti fær óavmarkaðar heimildir at krevja upplýsingar frá einum og hvørjum, herundir Føroya Tele.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at sambært lógargrein 5 í ES fyriskipan, 2022/21/EC, sum fjarskiftislógin m.a. byggir á, kunnu myndugleikar krevja tær upplýsingar, teimum tørva, tó so at upplýsingarnar skulu vera 1) rímiligar í mun til tað, sum verður kannað.</s>
-            <s xml:lang="fo" cert="high">Harumframt skal 2) nationala fjarskiftiseftirlitið grundgeva fyri sínum fyrispurningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="xcd76unntr">Føroya Tele vísti á, at sambært § 58, stk. 2, kann Fjarskiftiseftirlitið krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum ella fyri at gera av, um ávís viðurskifti eru partur av øki løgtingslógarinnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="yv6uzxt3sf">Føroya Tele vísti í hesum sambandi á, at sambært pkt. 1.3 í almennu viðmerkingunum er nevnt, at § 58, stk. 2 verður nágreinað soleiðis, at tað er Fjarskiftiseftirlitið sjálvt, ið metir um, hvørjar upplýsingar eru neyðugar fyri virksemið hjá Fjarskiftiseftirlitinum sambært lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="wkb6hzlykk">Føroya Tele vísti á, at Fjarskiftiseftirlitið við hesum broytingaruppskoti fær óavmarkaðar heimildir at krevja upplýsingar frá einum og hvørjum, herundir Føroya Tele.</s>
+            <s xml:lang="fo" cert="high" xml:id="cggqrssfwj">Føroya Tele vísti á, at sambært lógargrein 5 í ES fyriskipan, 2022/21/EC, sum fjarskiftislógin m.a. byggir á, kunnu myndugleikar krevja tær upplýsingar, teimum tørva, tó so at upplýsingarnar skulu vera 1) rímiligar í mun til tað, sum verður kannað.</s>
+            <s xml:lang="fo" cert="high" xml:id="ghwu26qith">Harumframt skal 2) nationala fjarskiftiseftirlitið grundgeva fyri sínum fyrispurningi.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at rímiligheit og grundgeving eru galdandi meginreglur fyri virksemi hjá almennum myndugleikum.</s>
-            <s xml:lang="fo" cert="high">Ein myndugleiki kann ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
-            <s xml:lang="fo" cert="high">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
-            <s xml:lang="fo" cert="high">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
-            <s xml:lang="fo" cert="high">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
-            <s xml:lang="fo" cert="high">Hetta verður sett í serligu viðmerkingarnar til § 58, stk. 2.</s>
+            <s xml:lang="fo" cert="high" xml:id="fsvimawbud">Uttanríkis- og vinnumálaráðið skal vísa á, at rímiligheit og grundgeving eru galdandi meginreglur fyri virksemi hjá almennum myndugleikum.</s>
+            <s xml:lang="fo" cert="high" xml:id="eq3xqsozoa">Ein myndugleiki kann ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xjtjgslewk">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
+            <s xml:lang="fo" cert="high" xml:id="tpb3jdxipd">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
+            <s xml:lang="fo" cert="high" xml:id="tpimkqy454">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
+            <s xml:lang="fo" cert="high" xml:id="h4h64r3ohe">Hetta verður sett í serligu viðmerkingarnar til § 58, stk. 2.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at ásetingar í § 58 a, eru alt ov víðgongdar og hoyra ikki heima í fjarskiftislógini, men heldur í eini komandi lóg um nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="k6x3kj2qlt">Føroya Tele vísti á, at ásetingar í § 58 a, eru alt ov víðgongdar og hoyra ikki heima í fjarskiftislógini, men heldur í eini komandi lóg um nettrygd.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at kortlegging og nettrygd verða mett sum partur av fjarskiftismálum, og tað verður mett skilagott, at ásetingar um kortlegging verða settar í fjarskiftislógina sum nýggj § 58 a.</s>
-            <s xml:lang="fo" cert="high">Mett verður, at tað hevur skund at hækka trygdarstigið, og tí verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1 í nettrygdarætlanini, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond.</s>
-            <s xml:lang="fo" cert="high">Í mun til endmálsorðingina í lógini verður mett, at hetta kann gerast greiðari.</s>
-            <s xml:lang="fo" cert="high">Uppskotið verður tískil broytt soleiðis, at í § 1 verður ásett, at nettrygd eisini er partur av endamálinum við lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="tasl3xhtsf">Uttanríkis- og vinnumálaráðið skal vísa á, at kortlegging og nettrygd verða mett sum partur av fjarskiftismálum, og tað verður mett skilagott, at ásetingar um kortlegging verða settar í fjarskiftislógina sum nýggj § 58 a.</s>
+            <s xml:lang="fo" cert="high" xml:id="fdthcrqsiz">Mett verður, at tað hevur skund at hækka trygdarstigið, og tí verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1 í nettrygdarætlanini, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond.</s>
+            <s xml:lang="fo" cert="high" xml:id="jki2kt3apd">Í mun til endmálsorðingina í lógini verður mett, at hetta kann gerast greiðari.</s>
+            <s xml:lang="fo" cert="high" xml:id="e4kxuvabm5">Uppskotið verður tískil broytt soleiðis, at í § 1 verður ásett, at nettrygd eisini er partur av endamálinum við lógini.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í mun til § 58 a, stk. 2, mælir Føroya Tele til, at ásetingin verður orðað á slíkan hátt, at heimildin hjá Fjarskiftiseftirlitinum til at fáa upplýsingar útflýggjaðar, verður avmarkað til tað, sum er neyðugt, til tess at stovnurin kann útinna ítøkiliga myndugleika sín og uppgávur sínar, í hesum føri at fremja kortlegging av undirstøðukervinum.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at greinin nevnir, at upplýsingar, dátur o.a. kunnu vera av einum og hvørjum slagi.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti á, at hetta fevnir um stórar nøgdir av møguliga viðkvomum persónsupplýsingum, herundir samrøðuupplýsingar, GPS-upplýsingar, ferðsluupplýsingar, vinnuloynidómar, starvsfólkaviðurskifti, umframt nýtsludátur um viðskiftafólk, sum løgreglan bert við dómaraúrskurði kann fáa atgongd til í sambandi við álvarsom revsimál.</s>
+            <s xml:lang="fo" cert="high" xml:id="dvjxdutjzl">Í mun til § 58 a, stk. 2, mælir Føroya Tele til, at ásetingin verður orðað á slíkan hátt, at heimildin hjá Fjarskiftiseftirlitinum til at fáa upplýsingar útflýggjaðar, verður avmarkað til tað, sum er neyðugt, til tess at stovnurin kann útinna ítøkiliga myndugleika sín og uppgávur sínar, í hesum føri at fremja kortlegging av undirstøðukervinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="bjtitzy3sq">Føroya Tele vísti á, at greinin nevnir, at upplýsingar, dátur o.a. kunnu vera av einum og hvørjum slagi.</s>
+            <s xml:lang="fo" cert="high" xml:id="dh26hh2ntc">Føroya Tele vísti á, at hetta fevnir um stórar nøgdir av møguliga viðkvomum persónsupplýsingum, herundir samrøðuupplýsingar, GPS-upplýsingar, ferðsluupplýsingar, vinnuloynidómar, starvsfólkaviðurskifti, umframt nýtsludátur um viðskiftafólk, sum løgreglan bert við dómaraúrskurði kann fáa atgongd til í sambandi við álvarsom revsimál.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at ætlanin er ikki at savna persónupplýsingar ella upplýsingar, sum knýta seg at persónunum so sum samrøðuupplýsingar, GPS-upplýsingar, ferðsluupplýsingar, vinnuloynidómar, starvsfólkaviðurskifti, umframt nýtsludátur um viðskiftafólk, sum løgreglan bert við dómaraúrskurði kann fáa atgongd til í sambandi við álvarsom revsimál.</s>
-            <s xml:lang="fo" cert="high">Talan er um skipanir, sambond og samanhangir millum skipanir, sum verða kortløgd.</s>
-            <s xml:lang="fo" cert="high">Hvat slag av upplýsingum, talan er um, er nágreinað betur í serligu viðmerkingunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mzaubu7p7v">Uttanríkis- og vinnumálaráðið skal vísa á, at ætlanin er ikki at savna persónupplýsingar ella upplýsingar, sum knýta seg at persónunum so sum samrøðuupplýsingar, GPS-upplýsingar, ferðsluupplýsingar, vinnuloynidómar, starvsfólkaviðurskifti, umframt nýtsludátur um viðskiftafólk, sum løgreglan bert við dómaraúrskurði kann fáa atgongd til í sambandi við álvarsom revsimál.</s>
+            <s xml:lang="fo" cert="high" xml:id="cmei5gnb7u">Talan er um skipanir, sambond og samanhangir millum skipanir, sum verða kortløgd.</s>
+            <s xml:lang="fo" cert="high" xml:id="xoeird5n3t">Hvat slag av upplýsingum, talan er um, er nágreinað betur í serligu viðmerkingunum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Føroya Tele vísti í hesum sambandi á, at greinin er orðað á ein hátt, sum als ikki tekur atlit til, hvørji sløg av upplýsingum, biðið verður um at fáa útflýggjað, tykist at vera eitt óneyðuga ógvusligt inntriv í privatlívið og rættartrygdina hjá tí einstaka viðskiftafólkinum, í viðurskifti hjá starvsfólkum samtaksins umframt í virkisfrælsið og innanhýsis viðurskiftini hjá samtakinum sum heild.</s>
-            <s xml:lang="fo" cert="high">Føroya Tele mælti til, at greinin verður orðað á ein slíkan hátt, at heimildin hjá Fjarskiftiseftirlitinum til at fáa upplýsingar útflýggjaðar, verður avmarkað til tað, sum er neyðugt, til tess at stovnurin kann útinna ítøkiliga myndugleika sín og uppgávur sínar, í hesum føri at fremja kortlegging av undirstøðukervinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ofcfhhpcbh">Føroya Tele vísti í hesum sambandi á, at greinin er orðað á ein hátt, sum als ikki tekur atlit til, hvørji sløg av upplýsingum, biðið verður um at fáa útflýggjað, tykist at vera eitt óneyðuga ógvusligt inntriv í privatlívið og rættartrygdina hjá tí einstaka viðskiftafólkinum, í viðurskifti hjá starvsfólkum samtaksins umframt í virkisfrælsið og innanhýsis viðurskiftini hjá samtakinum sum heild.</s>
+            <s xml:lang="fo" cert="high" xml:id="mtx5ljnxbb">Føroya Tele mælti til, at greinin verður orðað á ein slíkan hátt, at heimildin hjá Fjarskiftiseftirlitinum til at fáa upplýsingar útflýggjaðar, verður avmarkað til tað, sum er neyðugt, til tess at stovnurin kann útinna ítøkiliga myndugleika sín og uppgávur sínar, í hesum føri at fremja kortlegging av undirstøðukervinum.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Eins og víst á omanfyri kann ein myndugleiki ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
-            <s xml:lang="fo" cert="high">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
-            <s xml:lang="fo" cert="high">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
-            <s xml:lang="fo" cert="high">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
-            <s xml:lang="fo" cert="high">Hetta verður sett í serligu viðmerkingarnar til § 58, stk. 2.</s>
+            <s xml:lang="fo" cert="high" xml:id="pcubpgad4e">Eins og víst á omanfyri kann ein myndugleiki ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="h7iltkufrk">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
+            <s xml:lang="fo" cert="high" xml:id="fufkefu7zl">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
+            <s xml:lang="fo" cert="high" xml:id="sbqe4b6xkn">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
+            <s xml:lang="fo" cert="high" xml:id="uvpdxipohl">Hetta verður sett í serligu viðmerkingarnar til § 58, stk. 2.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Í mun til § 58 a, stk. 7, um portraskanning mælti Føroya Tele til, at greinin nágreinar hóskandi treytir fyri portraskanning, herundir at passiv skanning skal nýtast, at einans fólk við skjalfestum førleikum skulu kunna fremja portraskanningina, og – tá ið talan er um fjarskiftisveitarar – at Fjarskiftiseftirlitið avtalar við veitaran frammanundan, hvussu portraskanningin skal fara fram, soleiðis at hetta í mestan mun minkar um vandan fyri rakstrarórógvi fyri veitara og viðskiftafólk.</s>
+            <s xml:lang="fo" cert="high" xml:id="edsz7anrrq">Í mun til § 58 a, stk. 7, um portraskanning mælti Føroya Tele til, at greinin nágreinar hóskandi treytir fyri portraskanning, herundir at passiv skanning skal nýtast, at einans fólk við skjalfestum førleikum skulu kunna fremja portraskanningina, og – tá ið talan er um fjarskiftisveitarar – at Fjarskiftiseftirlitið avtalar við veitaran frammanundan, hvussu portraskanningin skal fara fram, soleiðis at hetta í mestan mun minkar um vandan fyri rakstrarórógvi fyri veitara og viðskiftafólk.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Uttanríkis- og vinnumálaráðið skal vísa á, at í sambandi við portraskanningar tekur Fjarskiftiseftirlitið atlit til, at tað ikki stendst rakstrarórógv av skanningini.</s>
-            <s xml:lang="fo" cert="high">Eftir ætlan verða tað serfrøðingar, sum gera skanningarnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="jpkysjrafs">Uttanríkis- og vinnumálaráðið skal vísa á, at í sambandi við portraskanningar tekur Fjarskiftiseftirlitið atlit til, at tað ikki stendst rakstrarórógv av skanningini.</s>
+            <s xml:lang="fo" cert="high" xml:id="nrpjgmiydf">Eftir ætlan verða tað serfrøðingar, sum gera skanningarnar.</s>
           </p>
         </div>
       </div>
@@ -542,118 +541,118 @@
         <div type="section" n="2.1.">
           <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high">Á fíggjarlógini fyri 2024 er økið raðfest við áleið 1 mió kr. til løn, konsulenttænastur o.a. í sambandi við kortlegging.</s>
-            <s xml:lang="fo" cert="high">Mett er tó, at sum frálíður verður játtanartørvurin munandi hægri.</s>
+            <s xml:lang="fo" cert="high" xml:id="ajs6wfwbny">Á fíggjarlógini fyri 2024 er økið raðfest við áleið 1 mió kr. til løn, konsulenttænastur o.a. í sambandi við kortlegging.</s>
+            <s xml:lang="fo" cert="high" xml:id="hj3ghvjbba">Mett er tó, at sum frálíður verður játtanartørvurin munandi hægri.</s>
           </p>
         </div>
         <div type="section" n="2.2.">
           <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
           <p>
-            <s xml:lang="fo" cert="high">Vinnustovnurin stendur fyri arbeiðinum, og Fjarskiftiseftirlitið fer undir átøk í sambandi við kortleggingina.</s>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis umsitingarligar avleiðingar fyri aðrar stovnar undir landi og kommunum, men stjórnarráð, stovnar, kommunur og kommunalir felagsskapir, sum eru partur av ella veitarar til samfelagstýðandi undirstøðukervi, skulu lata Fjarskiftiseftirlitinum upplýsingar o.a., sum hava týdning fyri at kortleggja samfelagstýðandi undirstøðukervi.</s>
-            <s xml:lang="fo" cert="high">Hetta verður mett at krevja raðfesting og orku frá viðkomandi pørtum.</s>
+            <s xml:lang="fo" cert="high" xml:id="lxs7x3ycaz">Vinnustovnurin stendur fyri arbeiðinum, og Fjarskiftiseftirlitið fer undir átøk í sambandi við kortleggingina.</s>
+            <s xml:lang="fo" cert="high" xml:id="dixzqobkuo">Uppskotið hevur ikki beinleiðis umsitingarligar avleiðingar fyri aðrar stovnar undir landi og kommunum, men stjórnarráð, stovnar, kommunur og kommunalir felagsskapir, sum eru partur av ella veitarar til samfelagstýðandi undirstøðukervi, skulu lata Fjarskiftiseftirlitinum upplýsingar o.a., sum hava týdning fyri at kortleggja samfelagstýðandi undirstøðukervi.</s>
+            <s xml:lang="fo" cert="high" xml:id="xfgqnpfgm2">Hetta verður mett at krevja raðfesting og orku frá viðkomandi pørtum.</s>
           </p>
         </div>
         <div type="section" n="2.3.">
           <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ikki beinleiðis avleiðingar fyri vinnuna, men í tann mun vinnufyritøkur eru partur av ella veitarar til samfelagstýðandi undirstøðukervi, skulu tær lata Fjarskiftiseftirlitinum upplýsingar o.a., sum hava týdning fyri at kortleggja undirstøðukervið.</s>
-            <s xml:lang="fo" cert="high">Hetta krevur, at hesar fyritøkur nýta tíð og orku til tess at luttaka í kortleggingini, eitt arbeiði sum ofta krevur, at serfrøðingar í fyritøkuni luttaka.</s>
-            <s xml:lang="fo" cert="high">Kostnaðin av hesum ber fyritøkan.</s>
-            <s xml:lang="fo" cert="high">Í tann mun kortleggingin vísir veikleikar, kunnu ábøtur hava kostnað við sær fyri viðkomandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="lq7onypd5y">Uppskotið hevur ikki beinleiðis avleiðingar fyri vinnuna, men í tann mun vinnufyritøkur eru partur av ella veitarar til samfelagstýðandi undirstøðukervi, skulu tær lata Fjarskiftiseftirlitinum upplýsingar o.a., sum hava týdning fyri at kortleggja undirstøðukervið.</s>
+            <s xml:lang="fo" cert="high" xml:id="v45zm6yvah">Hetta krevur, at hesar fyritøkur nýta tíð og orku til tess at luttaka í kortleggingini, eitt arbeiði sum ofta krevur, at serfrøðingar í fyritøkuni luttaka.</s>
+            <s xml:lang="fo" cert="high" xml:id="quexpl3u3s">Kostnaðin av hesum ber fyritøkan.</s>
+            <s xml:lang="fo" cert="high" xml:id="sej3vf2i3h">Í tann mun kortleggingin vísir veikleikar, kunnu ábøtur hava kostnað við sær fyri viðkomandi.</s>
           </p>
         </div>
         <div type="section" n="2.4.">
           <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri umhvørvið.</s>
+            <s xml:lang="fo" cert="high" xml:id="es77zgagdm">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri umhvørvið.</s>
           </p>
         </div>
         <div type="section" n="2.5.">
           <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri serstøk øki í landinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ik5b2yxuuw">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri serstøk øki í landinum.</s>
           </p>
         </div>
         <div type="section" n="2.6.">
           <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+            <s xml:lang="fo" cert="high" xml:id="hdw4pdxnbr">Mett verður ikki, at lógaruppskotið hevur avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
           </p>
         </div>
         <div type="section" n="2.7.">
           <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
           <p>
-            <s xml:lang="fo" cert="high">Tað eru ikki millumtjóðasáttmálar á økinum, sum lógaruppskotið fevnir um, sum Føroyar hava skyldu at fylgja.</s>
+            <s xml:lang="fo" cert="high" xml:id="xmg65es2e5">Tað eru ikki millumtjóðasáttmálar á økinum, sum lógaruppskotið fevnir um, sum Føroyar hava skyldu at fylgja.</s>
           </p>
         </div>
         <div type="section" n="2.8.">
           <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður, at lógaruppskotið er í samsvari við Hoyvíkssáttmálan (Sáttmáli millum stjórn Íslands, øðrumegin, og stjórn Danmarkar og Føroya landsstýri, hinumegin), Evropeiska mannarættindasáttmálan sambært anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention, og Sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek, sambært bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap.</s>
+            <s xml:lang="fo" cert="high" xml:id="n7kvbr2qlf">Mett verður, at lógaruppskotið er í samsvari við Hoyvíkssáttmálan (Sáttmáli millum stjórn Íslands, øðrumegin, og stjórn Danmarkar og Føroya landsstýri, hinumegin), Evropeiska mannarættindasáttmálan sambært anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention, og Sáttmála Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek, sambært bekendtgørelse nr. 35 af 15. september 2006 om rettigheder for personer med handicap.</s>
           </p>
         </div>
         <div type="section" n="2.9.">
           <head rend="bold"><label>2.9.</label> Markaforðingar</head>
           <p>
-            <s xml:lang="fo" cert="high">Mett verður ikki, at uppskotið elvir til markaforðingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="lgjad2nu5a">Mett verður ikki, at uppskotið elvir til markaforðingar.</s>
           </p>
         </div>
         <div type="section" n="2.10.">
           <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
           <p>
-            <s xml:lang="fo" cert="high">Uppskotið hevur ikki ásetingar um revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv.</s>
+            <s xml:lang="fo" cert="high" xml:id="vme667lynh">Uppskotið hevur ikki ásetingar um revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv.</s>
           </p>
         </div>
         <div type="section" n="2.11.">
           <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ongar ásetingar um skattir og avgjøld.</s>
+            <s xml:lang="fo" cert="high" xml:id="y4opn7a77v">Lógaruppskotið hevur ongar ásetingar um skattir og avgjøld.</s>
           </p>
         </div>
         <div type="section" n="2.12.">
           <head rend="bold"><label>2.12.</label> Gjøld</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki ásetingar um gjøld, so sum nýtslugjøld.</s>
+            <s xml:lang="fo" cert="high" xml:id="a4v3w6gokj">Lógaruppskotið hevur ikki ásetingar um gjøld, so sum nýtslugjøld.</s>
           </p>
         </div>
         <div type="section" n="2.13.">
           <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ásetingar um skyldur.</s>
-            <s xml:lang="fo" cert="high">Uppskotið áleggur løgfrøðiligum og likamligum persónum skyldu at lata upplýsingar, sum knýta seg at kortlegging.</s>
+            <s xml:lang="fo" cert="high" xml:id="h45j5gvssw">Lógaruppskotið hevur ásetingar um skyldur.</s>
+            <s xml:lang="fo" cert="high" xml:id="tpxv7evd37">Uppskotið áleggur løgfrøðiligum og likamligum persónum skyldu at lata upplýsingar, sum knýta seg at kortlegging.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Ætlanin er at kortleggja undirstøðukervið við tí endamáli at fremja nettrygd.</s>
-            <s xml:lang="fo" cert="high">Um henda ætlan skal bera til, er neyðugt, at myndugleikar, fyritøkur og persónar lata Fjarskiftiseftirlitinum upplýsingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="yilaumdn6a">Ætlanin er at kortleggja undirstøðukervið við tí endamáli at fremja nettrygd.</s>
+            <s xml:lang="fo" cert="high" xml:id="zb7i6g5nhs">Um henda ætlan skal bera til, er neyðugt, at myndugleikar, fyritøkur og persónar lata Fjarskiftiseftirlitinum upplýsingar.</s>
           </p>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki ásetingar um tiltøk at seta í verk, um myndugleiki, fyritøka ella persónur ikki letur upplýsingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="mijuzu67lv">Lógaruppskotið hevur ikki ásetingar um tiltøk at seta í verk, um myndugleiki, fyritøka ella persónur ikki letur upplýsingar.</s>
           </p>
         </div>
         <div type="section" n="2.14.">
           <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrisfólk, stovn undir landsstýrinum ella til kommunur?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið leggur heimildir til landsstýrisfólkið at áseta nærri reglur um, hvat virksemi undir hesum upplýsingar o.a. er fevnt í sambandi við kortlegging sambært § 2, stk. 6, og sambært § 58 a, stk. 12, kann landsstýrisfólkið áseta reglur sum í størri mun nágreina ella fevna um at lata upplýsingar víðari.</s>
+            <s xml:lang="fo" cert="high" xml:id="e2ralqx7r7">Lógaruppskotið leggur heimildir til landsstýrisfólkið at áseta nærri reglur um, hvat virksemi undir hesum upplýsingar o.a. er fevnt í sambandi við kortlegging sambært § 2, stk. 6, og sambært § 58 a, stk. 12, kann landsstýrisfólkið áseta reglur sum í størri mun nágreina ella fevna um at lata upplýsingar víðari.</s>
           </p>
         </div>
         <div type="section" n="2.15.">
           <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
+            <s xml:lang="fo" cert="high" xml:id="qceuhdgsys">Lógaruppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
           </p>
         </div>
         <div type="section" n="2.16.">
           <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
           <p>
-            <s xml:lang="fo" cert="high">Lógaruppskotið verður ikki mett at hava aðrar avleiðingar enn tær, ið eru nevndar omanfyri.</s>
+            <s xml:lang="fo" cert="high" xml:id="vpvf4jrrzf">Lógaruppskotið verður ikki mett at hava aðrar avleiðingar enn tær, ið eru nevndar omanfyri.</s>
           </p>
         </div>
         <div type="section" n="2.17.">
           <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
           <table>
             <row role="label">
-              <cell />
+              <cell/>
               <cell>Fyri landið ella landsmyndugleikar</cell>
               <cell>Fyri kommunalar myndugleikar</cell>
               <cell>Fyri pláss ella øki í landinum</cell>
@@ -694,11 +693,11 @@
             </row>
             <row>
               <cell>Sosialar avleiðingar</cell>
-              <cell />
-              <cell />
+              <cell/>
+              <cell/>
               <cell>Nei</cell>
               <cell>Nei</cell>
-              <cell />
+              <cell/>
             </row>
           </table>
         </div>
@@ -713,7 +712,7 @@
           <div type="subsection">
             <head rend="bold">§ 1, stk. 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin nágreinar, at fjarskiftislógin eisini fevnir um at kortleggja undirstøðukervi við tí endamálið at fremja nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="njlkla6w3v">Ásetingin nágreinar, at fjarskiftislógin eisini fevnir um at kortleggja undirstøðukervi við tí endamálið at fremja nettrygd.</s>
             </p>
           </div>
           <div type="subsection">
@@ -722,14 +721,14 @@
           <div type="subsection">
             <head rend="bold">§ 2, stk. 5</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásett verður, at stk. 1-4, eru ikki galdandi fyri § 58 a.</s>
-              <s xml:lang="fo" cert="high">Endamálið við § 58 a er at fremja trygdina og mótstøðuførið í samfelagstýðandi undirstøðukervinum, kunningarskipanum o.l. § 58 a er galdandi fyri kervir, kunningarskipanir o.a. í sambandi við samfelagstýðandi undirstøðukervi innan banka og fíggjarvirksemi, flutning, heilsutænastur, orku- hita, og vatnveitingar og talgilt undirstøðukervi o.a.</s>
+              <s xml:lang="fo" cert="high" xml:id="t7kjzqbplj">Ásett verður, at stk. 1-4, eru ikki galdandi fyri § 58 a.</s>
+              <s xml:lang="fo" cert="high" xml:id="f5lot4z5a4">Endamálið við § 58 a er at fremja trygdina og mótstøðuførið í samfelagstýðandi undirstøðukervinum, kunningarskipanum o.l. § 58 a er galdandi fyri kervir, kunningarskipanir o.a. í sambandi við samfelagstýðandi undirstøðukervi innan banka og fíggjarvirksemi, flutning, heilsutænastur, orku- hita, og vatnveitingar og talgilt undirstøðukervi o.a.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 2, stk. 6</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin heimilar landsstýrisfólkinum at áseta nærri reglur um, hvat virksemi, undir hesum upplýsingar o.a., er fevnt í sambandi við kortlegging.</s>
+              <s xml:lang="fo" cert="high" xml:id="plc3rkr7sw">Ásetingin heimilar landsstýrisfólkinum at áseta nærri reglur um, hvat virksemi, undir hesum upplýsingar o.a., er fevnt í sambandi við kortlegging.</s>
             </p>
           </div>
           <div type="subsection">
@@ -738,62 +737,62 @@
           <div type="subsection">
             <head rend="bold">§ 58, stk. 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Í 2019 varð Fjarskiftiseftirlitið í Føroya Rætti dømt at viðurkenna, at Fjarskiftiseftirlitið ikki hevði heimild til at krevja eina frágreiðing útflýggjaða, sum nevndin í Føroya Tele hevði umbiðið.</s>
-              <s xml:lang="fo" cert="high">Frágreiðingin, sum hevði heitið, Frágreiðing um greining av javnbjóðis atgongd til tænastur hjá P/F NET, varð gjørd í framhaldi av tveimum sokallaðum “Gap-kanningum”, sum Fjarskiftiseftirlitið læt gera í ávikavist 2015 og 2016, og sum vístu, at týðandi munir vóru á atgongdini hjá uttanfyristandandi veitarum til tænastur hjá P/F NET og so tí atgongd, sum FT-samskifti hevði.</s>
-              <s xml:lang="fo" cert="high">Fjarskiftiseftirlitið metti, at frágreiðingin var viðkomandi fyri at røkja eftirlitsuppgávuna hjá Fjarskiftiseftirlitinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="gt3vvl52do">Í 2019 varð Fjarskiftiseftirlitið í Føroya Rætti dømt at viðurkenna, at Fjarskiftiseftirlitið ikki hevði heimild til at krevja eina frágreiðing útflýggjaða, sum nevndin í Føroya Tele hevði umbiðið.</s>
+              <s xml:lang="fo" cert="high" xml:id="tnbtu4bc7t">Frágreiðingin, sum hevði heitið, Frágreiðing um greining av javnbjóðis atgongd til tænastur hjá P/F NET, varð gjørd í framhaldi av tveimum sokallaðum “Gap-kanningum”, sum Fjarskiftiseftirlitið læt gera í ávikavist 2015 og 2016, og sum vístu, at týðandi munir vóru á atgongdini hjá uttanfyristandandi veitarum til tænastur hjá P/F NET og so tí atgongd, sum FT-samskifti hevði.</s>
+              <s xml:lang="fo" cert="high" xml:id="xbpbdpqwbc">Fjarskiftiseftirlitið metti, at frágreiðingin var viðkomandi fyri at røkja eftirlitsuppgávuna hjá Fjarskiftiseftirlitinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Føroya Tele valdi seinni at útflýggja nevndu frágreiðing vísandi til, at hon ikki longur var aktuell, men helt fast í, at Føroya Tele ikki hevði skyldu at útflýggja frágreiðingina og at Føroya Tele ikki viðurkennir, heldur ikki frameftir, at Fjarskiftiseftirlitið hevur rætt til at krevja hetta slagið av frágreiðingum útflýggjaðar eftir § 58 stk. 2, í fjarskiftislógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="rolptcdga7">Føroya Tele valdi seinni at útflýggja nevndu frágreiðing vísandi til, at hon ikki longur var aktuell, men helt fast í, at Føroya Tele ikki hevði skyldu at útflýggja frágreiðingina og at Føroya Tele ikki viðurkennir, heldur ikki frameftir, at Fjarskiftiseftirlitið hevur rætt til at krevja hetta slagið av frágreiðingum útflýggjaðar eftir § 58 stk. 2, í fjarskiftislógini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í dóminum hjá Føroya Rætti verður tikið fram, at frágreiðingin varð ætlað til innanhýsis nýtslu, at umbønin ikki hevði støði í eini klagu og at frágreiðingin innihelt subjektivar metingar.</s>
-              <s xml:lang="fo" cert="high">Dómurin kann hava við sær, at upplýsingar, sum eru fingnar til vegar til innanhýsis nýtslu, ikki eru fevndar av § 58 stk. 2.</s>
+              <s xml:lang="fo" cert="high" xml:id="aiux3e6poq">Í dóminum hjá Føroya Rætti verður tikið fram, at frágreiðingin varð ætlað til innanhýsis nýtslu, at umbønin ikki hevði støði í eini klagu og at frágreiðingin innihelt subjektivar metingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="vwbnhjbvi5">Dómurin kann hava við sær, at upplýsingar, sum eru fingnar til vegar til innanhýsis nýtslu, ikki eru fevndar av § 58 stk. 2.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Ætlanin við broytingunum í § 58, stk. 2, er at gera greitt, at Fjarskiftiseftirlitið kann savna inn tær upplýsingar, dátur o.a., sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum, undir hesum frágreiðingar o.a., sum verða gjørdar til nýtslu innanhýsis.</s>
+              <s xml:lang="fo" cert="high" xml:id="wppkddihl2">Ætlanin við broytingunum í § 58, stk. 2, er at gera greitt, at Fjarskiftiseftirlitið kann savna inn tær upplýsingar, dátur o.a., sum Fjarskiftiseftirlitið metir hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum, undir hesum frágreiðingar o.a., sum verða gjørdar til nýtslu innanhýsis.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Dómurin í Føroya Rætti kann hava við sær, at umbønir um upplýsingar sambært § 58, stk. 2, hava sum fortreyt, at upplýsingarnar skulu nýtast í sambandi við ítøkiligar klagur.</s>
+              <s xml:lang="fo" cert="high" xml:id="vznqaek7tk">Dómurin í Føroya Rætti kann hava við sær, at umbønir um upplýsingar sambært § 58, stk. 2, hava sum fortreyt, at upplýsingarnar skulu nýtast í sambandi við ítøkiligar klagur.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í lógini ella viðmerkingunum til lógina er ein slík fortreyt ikki nevnd og ikki tilætlað.</s>
-              <s xml:lang="fo" cert="high">Eftirlits- og yvirvøkuuppgávurnar hjá Fjarskiftiseftirlitinum eru soleiðis ikki avmarkaðar til at viðgera klagur, men at hava eftirlit við, at reglurnar í lógini verða hildnar og at fjarskiftisveitarar halda sínar skyldur.</s>
-              <s xml:lang="fo" cert="high">Við uppskotinum er ætlanin at gera greitt, at umbønir um upplýsingar ikki eru treytaðar av, at tað fyriliggur ein klaga.</s>
+              <s xml:lang="fo" cert="high" xml:id="zzyy5ociui">Í lógini ella viðmerkingunum til lógina er ein slík fortreyt ikki nevnd og ikki tilætlað.</s>
+              <s xml:lang="fo" cert="high" xml:id="e5ods7ctzk">Eftirlits- og yvirvøkuuppgávurnar hjá Fjarskiftiseftirlitinum eru soleiðis ikki avmarkaðar til at viðgera klagur, men at hava eftirlit við, at reglurnar í lógini verða hildnar og at fjarskiftisveitarar halda sínar skyldur.</s>
+              <s xml:lang="fo" cert="high" xml:id="ictys5fl6g">Við uppskotinum er ætlanin at gera greitt, at umbønir um upplýsingar ikki eru treytaðar av, at tað fyriliggur ein klaga.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Dómurin í Føroya Rætti kann eisini hava við sær, at § 58, stk. 2, einans gevur heimild til at savna “faktuellar” ella “objektivar” upplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ungo5qiykk">Dómurin í Føroya Rætti kann eisini hava við sær, at § 58, stk. 2, einans gevur heimild til at savna “faktuellar” ella “objektivar” upplýsingar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í lógini ella viðmerkingunum til lógina verður ikki skilt millum faktuellar og objektivar upplýsingar og so meira subjektivar metingar.</s>
-              <s xml:lang="fo" cert="high">Ein slík skilmarking ger tað trupult at tryggja munagott eftirlit, tí ein veitari kann halda aftur upplýsingar við tí grundgeving, at talan er um subjektivar metingar, og Fjarskiftiseftirlitið hevur ongan møguleika at kanna eftir, um tað er rætt, tí Fjarskiftiseftirlitið kennir ikki innihaldið av upplýsingunum frammanundan.</s>
-              <s xml:lang="fo" cert="high">Subjektivar metingar eru longu partur av teimum upplýsingum, sum Fjarskiftiseftirlitið viðger.</s>
-              <s xml:lang="fo" cert="high">Sum dømi inniheldur ein roknskapur og ein grannskoðaraváttan í einum roknskapi subjektivar metingar, og FSL § 58 nevnir ítøkiliga roknskapartilfar sum fevnt av heimildini.</s>
-              <s xml:lang="fo" cert="high">Við uppskotinum er ætlanin at gera greitt, at Fjarskiftiseftirlitið eisini kann krevja upplýsingar, ið innihalda subjektivar metingar, um Fjarskiftiseftirlitið metir, at tær hava týdning fyri eftirlitið.</s>
+              <s xml:lang="fo" cert="high" xml:id="icmod7aoe7">Í lógini ella viðmerkingunum til lógina verður ikki skilt millum faktuellar og objektivar upplýsingar og so meira subjektivar metingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="j3zifvbimg">Ein slík skilmarking ger tað trupult at tryggja munagott eftirlit, tí ein veitari kann halda aftur upplýsingar við tí grundgeving, at talan er um subjektivar metingar, og Fjarskiftiseftirlitið hevur ongan møguleika at kanna eftir, um tað er rætt, tí Fjarskiftiseftirlitið kennir ikki innihaldið av upplýsingunum frammanundan.</s>
+              <s xml:lang="fo" cert="high" xml:id="a2wmcmgrdu">Subjektivar metingar eru longu partur av teimum upplýsingum, sum Fjarskiftiseftirlitið viðger.</s>
+              <s xml:lang="fo" cert="high" xml:id="e3zpxbrqdp">Sum dømi inniheldur ein roknskapur og ein grannskoðaraváttan í einum roknskapi subjektivar metingar, og FSL § 58 nevnir ítøkiliga roknskapartilfar sum fevnt av heimildini.</s>
+              <s xml:lang="fo" cert="high" xml:id="k3hztqj6ox">Við uppskotinum er ætlanin at gera greitt, at Fjarskiftiseftirlitið eisini kann krevja upplýsingar, ið innihalda subjektivar metingar, um Fjarskiftiseftirlitið metir, at tær hava týdning fyri eftirlitið.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Ætlanin við broytingunum í § 58, stk. 2, er tí eisini at gera greitt, at tað er Fjarskiftiseftirlitið, sum metir, um upplýsingar, dátur o.a. hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tghno34oru">Ætlanin við broytingunum í § 58, stk. 2, er tí eisini at gera greitt, at tað er Fjarskiftiseftirlitið, sum metir, um upplýsingar, dátur o.a. hava týdning fyri virksemið hjá Fjarskiftiseftirlitinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Fyrri partur av nýggju orðingini í stk. 2 svarar til heimildina, sum Kappingareftirlitið hevur í § 28 í kappingarlógini.</s>
-              <s xml:lang="fo" cert="high">Tað er Fjarskiftiseftirlitið, ið avger, hvørjar dátur ella upplýsingar eru neyðugar til tess at røkja skylduna.</s>
+              <s xml:lang="fo" cert="high" xml:id="ah2coq4gw2">Fyrri partur av nýggju orðingini í stk. 2 svarar til heimildina, sum Kappingareftirlitið hevur í § 28 í kappingarlógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="ztuu6limxv">Tað er Fjarskiftiseftirlitið, ið avger, hvørjar dátur ella upplýsingar eru neyðugar til tess at røkja skylduna.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við nýggju orðingini verður samstundis staðfest, at tað ikki fylgja eyka krøv til grundgeving fyri at krevja upplýsingar, enn tey sum fylgja av vanligu treytunum um, at upplýsingarnar skulu vera neyðugar fyri virksemið í samsvari við meginregluna um proportionalitet.</s>
-              <s xml:lang="fo" cert="high">Upplýsingar, bílagdar einsæris og einans til innanhýsis nýtslu hjá nevndini, og upplýsingar, ið eru subjektivar metingar, eru eisini fevndar av skylduni.</s>
+              <s xml:lang="fo" cert="high" xml:id="ifj3q5ufc2">Við nýggju orðingini verður samstundis staðfest, at tað ikki fylgja eyka krøv til grundgeving fyri at krevja upplýsingar, enn tey sum fylgja av vanligu treytunum um, at upplýsingarnar skulu vera neyðugar fyri virksemið í samsvari við meginregluna um proportionalitet.</s>
+              <s xml:lang="fo" cert="high" xml:id="mkzidodgcq">Upplýsingar, bílagdar einsæris og einans til innanhýsis nýtslu hjá nevndini, og upplýsingar, ið eru subjektivar metingar, eru eisini fevndar av skylduni.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Til tess at undirstrika, at upplýsingarnar bert eru avmarkaðar til, hvat Fjarskiftiseftirlitið metir er neyðugt, eru dømini í verandi § 58 stk. 2, um <hi rend="italic">roknskapir og roknskapartilfar, úrrit úr bókum o.s.fr.</hi> tikin burtur, so tey ikki kunnu tulkast avmarkandi.</s>
-              <s xml:lang="fo" cert="high">Í staðin er ásett, at upplýsingarnar kunnu vera av einum og hvørjum slagi og líki.</s>
+              <s xml:lang="fo" cert="high" xml:id="o56noubeuu">Til tess at undirstrika, at upplýsingarnar bert eru avmarkaðar til, hvat Fjarskiftiseftirlitið metir er neyðugt, eru dømini í verandi § 58 stk. 2, um <hi rend="italic">roknskapir og roknskapartilfar, úrrit úr bókum o.s.fr.</hi> tikin burtur, so tey ikki kunnu tulkast avmarkandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="rn2ehwybum">Í staðin er ásett, at upplýsingarnar kunnu vera av einum og hvørjum slagi og líki.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Rímiligheit og grundgeving eru galdandi meginreglur fyri virksemi hjá almennum myndugleikum.</s>
-              <s xml:lang="fo" cert="high">Ein myndugleiki kann ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
-              <s xml:lang="fo" cert="high">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
-              <s xml:lang="fo" cert="high">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
-              <s xml:lang="fo" cert="high">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
+              <s xml:lang="fo" cert="high" xml:id="hvnehpaaqn">Rímiligheit og grundgeving eru galdandi meginreglur fyri virksemi hjá almennum myndugleikum.</s>
+              <s xml:lang="fo" cert="high" xml:id="y23kgvvkgr">Ein myndugleiki kann ikki krevja fleiri upplýsingar enn tær, sum verða mettar at vera neyðugar fyri virksemið hjá eftirlitinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="sovokr2xu4">Sum útgangsstøði má metast, at myndugleikin hevur heimild at krevja tær upplýsingar, sum biðið verður um.</s>
+              <s xml:lang="fo" cert="high" xml:id="fjo63ba2jb">Metir ein persónur, fyritøka ella annað kortini, at myndugleikin ikki hevur heimild at krevja ávísar upplýsingar, kann hetta eisini við nýggju ásetingini gerast ein spurningur, sum verður tikin upp og kann enda í rættarskipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="n25ofc67dd">Vísast skal eisini á, at sambært § 71, stk. 2, í fjarskiftislógini kunnu avgerðir hjá Fjarskiftiseftirlitinum kærast til Føroya Kærustovn.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Eins og í verandi áseting í § 58 stk. 2, í fjarskiftislógini verður ásett, at Fjarskiftiseftirlitið kann seta krøv um regluliga innlating, til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a. soleiðis, at hetta eisini er greitt.</s>
+              <s xml:lang="fo" cert="high" xml:id="kq6udwj5dy">Eins og í verandi áseting í § 58 stk. 2, í fjarskiftislógini verður ásett, at Fjarskiftiseftirlitið kann seta krøv um regluliga innlating, til innihald, uppseting, elektroniska innlating, innlatingarfreistir o.a. soleiðis, at hetta eisini er greitt.</s>
             </p>
           </div>
           <div type="subsection">
@@ -802,7 +801,7 @@
           <div type="subsection">
             <head rend="bold">§ 58, stk. 3</head>
             <p>
-              <s xml:lang="fo" cert="high">Hendan orðingin skal síggjast saman við nr. 2 (stk. 2), og svarar til samsvarandi skylduna í kappingarlógini, § 28 stk. 2.</s>
+              <s xml:lang="fo" cert="high" xml:id="m37ohxfzct">Hendan orðingin skal síggjast saman við nr. 2 (stk. 2), og svarar til samsvarandi skylduna í kappingarlógini, § 28 stk. 2.</s>
             </p>
           </div>
           <div type="subsection">
@@ -811,7 +810,7 @@
           <div type="subsection">
             <head rend="bold">§ 58 a</head>
             <p>
-              <s xml:lang="fo" cert="high">Sambært nettrygdarætlanini hjá landsstýrinum, hava fýra tey fyrstu yvirskipaðu málini til endamáls at verja týðandi samfelagsfunktiónir við at økja generellu nettrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="j2rhl4o4t3">Sambært nettrygdarætlanini hjá landsstýrinum, hava fýra tey fyrstu yvirskipaðu málini til endamáls at verja týðandi samfelagsfunktiónir við at økja generellu nettrygdina.</s>
               <seg xml:lang="fo">Undir hesum fýra yvirskipaðu málunum eru átta átøk:</seg>
             </p>
             <list>
@@ -825,33 +824,33 @@
               <item><label>8.</label> Nettrygdarmyndugleikin verður settur á stovn.</item>
             </list>
             <p>
-              <s xml:lang="fo" cert="high">Havandi í huga, at omanfyristandandi átøk eru sera umfatandi og tíðarkrevjandi, og nógv teirra krevja heimild í lóggávu og játtan á fíggjarlógini, og havandi í huga, at tað hevur skund at hækka trygdarstigið, verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond.</s>
+              <s xml:lang="fo" cert="high" xml:id="xwcodwdmxy">Havandi í huga, at omanfyristandandi átøk eru sera umfatandi og tíðarkrevjandi, og nógv teirra krevja heimild í lóggávu og játtan á fíggjarlógini, og havandi í huga, at tað hevur skund at hækka trygdarstigið, verður skotið upp at heimila Fjarskiftiseftirlitinum at fara í gongd við átak 1, ið snýr seg um at kortleggja samfelagstýðandi undirstøðukervið í almenna og privata geiranum og at lýsa sínámillum sambond.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við undirstøðukervi skal skiljast øll sløg av undirstøðukervum, ið eru viðkomandi fyri nettrygdina (cybertrygdina) í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Heimildin til innsavnan, skráseting og viðgerð av upplýsingum um undirstøðukervi, undir hesum samfelagstýðandi undirstøðukervi og sínámillum sambond, eru partur nettrygdarlógini, sum ætlanin er at leggja fyri Løgtingið í komandi tingsetu, ið byrjar á ólavsøku 2024.</s>
-              <s xml:lang="fo" cert="high">Meinhugi og atsóknir bíða kortini ikki eftir lóggávu, og tí verður mælt til í fyrstu atløgu at seta heimildina inn í fjarskiftislógina, soleiðis at til ber at koma í gongd uttan drál.</s>
+              <s xml:lang="fo" cert="high" xml:id="faac7v2j3a">Við undirstøðukervi skal skiljast øll sløg av undirstøðukervum, ið eru viðkomandi fyri nettrygdina (cybertrygdina) í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="o5t2y65nyu">Heimildin til innsavnan, skráseting og viðgerð av upplýsingum um undirstøðukervi, undir hesum samfelagstýðandi undirstøðukervi og sínámillum sambond, eru partur nettrygdarlógini, sum ætlanin er at leggja fyri Løgtingið í komandi tingsetu, ið byrjar á ólavsøku 2024.</s>
+              <s xml:lang="fo" cert="high" xml:id="qizzjbjwfs">Meinhugi og atsóknir bíða kortini ikki eftir lóggávu, og tí verður mælt til í fyrstu atløgu at seta heimildina inn í fjarskiftislógina, soleiðis at til ber at koma í gongd uttan drál.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Heimildin fevnir ikki bert um fjarskiftisveitarar, men allar veitarar av ella til samfelagstýðandi undirstøðukervi, ið er viðkomandi fyri nettrygdina í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Samstundis verður mælt til at heimila Fjarskiftiseftirlitinum at gera sonevndar portraskanningar, ið verður mett sum ein skjótur og bíligur háttur at økja nettrygdina í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Umhugsast kann so at flyta heimildirnar í nýggju nettrygdarlógina, tá ið hendan verður klár.</s>
+              <s xml:lang="fo" cert="high" xml:id="w4rbhcfy7k">Heimildin fevnir ikki bert um fjarskiftisveitarar, men allar veitarar av ella til samfelagstýðandi undirstøðukervi, ið er viðkomandi fyri nettrygdina í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="telo4x5yfi">Samstundis verður mælt til at heimila Fjarskiftiseftirlitinum at gera sonevndar portraskanningar, ið verður mett sum ein skjótur og bíligur háttur at økja nettrygdina í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="fvpvzvnkqd">Umhugsast kann so at flyta heimildirnar í nýggju nettrygdarlógina, tá ið hendan verður klár.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Umframt at røkka fyrsta átakinum í nettrygdarætlanini, so stuðlar verksetingin av fyrsta átakinum eisini undir at røkka máli átta í nettrygdarætlanini um at menna hugburðin til nettrygd, tí ein skipað kortlegging hevur sum fortreyt, at starvsfólk í aðalráðum og hjá almennum myndugleikum, sum varða av samfelagstýðandi funktiónum, og starvsfólk hjá veitarum til undirstøðukervi, luttaka í kortleggingini og harvið gerast meira tilvitað um nettrygdarstøðuna, og hvussu funktiónir, ymiskir partar av ella staklutir í undirstøðukervinum eru tongdir at hvørjum øðrum, og harvið hvørjar avleiðingar veikleikar í pørtum av undirstøðukervinum kunnu hava fyri aðrar partar og fyri samfelagið.</s>
+              <s xml:lang="fo" cert="high" xml:id="hx2oq32nti">Umframt at røkka fyrsta átakinum í nettrygdarætlanini, so stuðlar verksetingin av fyrsta átakinum eisini undir at røkka máli átta í nettrygdarætlanini um at menna hugburðin til nettrygd, tí ein skipað kortlegging hevur sum fortreyt, at starvsfólk í aðalráðum og hjá almennum myndugleikum, sum varða av samfelagstýðandi funktiónum, og starvsfólk hjá veitarum til undirstøðukervi, luttaka í kortleggingini og harvið gerast meira tilvitað um nettrygdarstøðuna, og hvussu funktiónir, ymiskir partar av ella staklutir í undirstøðukervinum eru tongdir at hvørjum øðrum, og harvið hvørjar avleiðingar veikleikar í pørtum av undirstøðukervinum kunnu hava fyri aðrar partar og fyri samfelagið.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Greinar í NIS2 fyriskipanini (ES 2022/2555) og fyriskipanini um nettrygd (ES 2019/881) eru viðkomandi.</s>
-              <s xml:lang="fo" cert="high">Eins og í fjarskiftislógini skal tilvísingin skiljast soleiðis, at sama evni er umrøtt í viðkomandi grein í fyriskipanini, sum víst verður til, og ikki í týdninginum, at ásetingin í lógaruppskotinum og lógargreinini í fyriskipanini, ið víst verður til, er júst tann sama.</s>
+              <s xml:lang="fo" cert="high" xml:id="gkar2zdajj">Greinar í NIS2 fyriskipanini (ES 2022/2555) og fyriskipanini um nettrygd (ES 2019/881) eru viðkomandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="wzw7hc4fzs">Eins og í fjarskiftislógini skal tilvísingin skiljast soleiðis, at sama evni er umrøtt í viðkomandi grein í fyriskipanini, sum víst verður til, og ikki í týdninginum, at ásetingin í lógaruppskotinum og lógargreinini í fyriskipanini, ið víst verður til, er júst tann sama.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 1</head>
             <p>
-              <s xml:lang="fo" cert="high">Við tí endamáli at fremja nettrygd heimilar ásetingin Fjarskiftiseftirlitinum at viðgera upplýsingar, dátur o.a. í sambandi við at kortleggja undirstøðukervið, undir hesum samfelagstýðandi undirstøðukervi og sínámillum sambond.</s>
+              <s xml:lang="fo" cert="high" xml:id="wtz66mgoy5">Við tí endamáli at fremja nettrygd heimilar ásetingin Fjarskiftiseftirlitinum at viðgera upplýsingar, dátur o.a. í sambandi við at kortleggja undirstøðukervið, undir hesum samfelagstýðandi undirstøðukervi og sínámillum sambond.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Nettrygd (<hi rend="italic">cybersecurity</hi>) merkir virksemi, sum er neyðugt til tess at verja net og kunningarskipanir, brúkararnar av slíkum skipanum og aðrar persónar, ávirkaðir av nethóttanum.</s>
+              <s xml:lang="fo" cert="high" xml:id="nrlz5jecna">Nettrygd (<hi rend="italic">cybersecurity</hi>) merkir virksemi, sum er neyðugt til tess at verja net og kunningarskipanir, brúkararnar av slíkum skipanum og aðrar persónar, ávirkaðir av nethóttanum.</s>
             </p>
             <p>
               <seg xml:lang="fo">Við net og kunningarskipan skal skiljast:</seg>
@@ -863,14 +862,14 @@
               <item><label>c)</label> talgildar dátur goymdar, viðgjørdar, heintaðar ella fluttar við slíkum hjálpimiðli, sum er fevndur av litra a) og b) til tess at tey kunnu rekast, nýtast, verjast og haldast.</item>
             </list>
             <p>
-              <s xml:lang="fo" cert="high">Nethóttan merkir ein og hvør møgulig umstøða, hending ella gerð, sum kann skaða, órógva ella á annan hátt hava eina neiliga ávirkan á net og kunningarskipanir, brúkarar av hesum skipanum og aðrar persónar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ofnquyhdnu">Nethóttan merkir ein og hvør møgulig umstøða, hending ella gerð, sum kann skaða, órógva ella á annan hátt hava eina neiliga ávirkan á net og kunningarskipanir, brúkarar av hesum skipanum og aðrar persónar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við undirstøðukervi verður sipað til teir grundleggjandi bygnaðir, hentleikar og skipanir, sum stuðla funktiónum og virksemi í samfelagnum.</s>
-              <s xml:lang="fo" cert="high">Dømi um undirstøðukervi eru fjarskiftiskervi, kt-skipanir, elveiting, vatnveiting, renovatión, vegir, tunlar, heilsuverk, almannaverk, o.s.fr.</s>
+              <s xml:lang="fo" cert="high" xml:id="s2xzw3l5xx">Við undirstøðukervi verður sipað til teir grundleggjandi bygnaðir, hentleikar og skipanir, sum stuðla funktiónum og virksemi í samfelagnum.</s>
+              <s xml:lang="fo" cert="high" xml:id="r6jfi37ixl">Dømi um undirstøðukervi eru fjarskiftiskervi, kt-skipanir, elveiting, vatnveiting, renovatión, vegir, tunlar, heilsuverk, almannaverk, o.s.fr.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við í undirstøðukervi skulu roknast hjálpargøgn, skipanir, prosessir, net, tøkni, aktiv og tænastuveitingar, sum eru neyðugar til tess at reka samfelagstýðandi funktiónir ella fáa hesar í rættlag aftur.</s>
+              <s xml:lang="fo" cert="high" xml:id="cevlfvvgjj">Við í undirstøðukervi skulu roknast hjálpargøgn, skipanir, prosessir, net, tøkni, aktiv og tænastuveitingar, sum eru neyðugar til tess at reka samfelagstýðandi funktiónir ella fáa hesar í rættlag aftur.</s>
             </p>
             <p>
               <seg xml:lang="fo">At undirstøðukervið er samfelagstýðandi merkir, at tað í stóran mun stuðlar eini samfelagstýðandi funktión, og</seg>
@@ -880,38 +879,38 @@
               <item>at undirstøðukervið verður nýtt (ella skal nýtast) víða hvar og/ella við stórum títtleika.</item>
             </list>
             <p>
-              <s xml:lang="fo" cert="high">Við samfelagstýðandi funktiónir skal skiljast virksemi, vørur og tænastuveitingar, sum eru fortreyt fyri, at samfelagið yvirhøvur virkar, sum tað skal.</s>
-              <s xml:lang="fo" cert="high">Hesar samfelagstýðandi funktiónir finna vit í nógvum ymiskum geirum.</s>
+              <s xml:lang="fo" cert="high" xml:id="lksb2iaohy">Við samfelagstýðandi funktiónir skal skiljast virksemi, vørur og tænastuveitingar, sum eru fortreyt fyri, at samfelagið yvirhøvur virkar, sum tað skal.</s>
+              <s xml:lang="fo" cert="high" xml:id="wuyoyqadgx">Hesar samfelagstýðandi funktiónir finna vit í nógvum ymiskum geirum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
-              <s xml:lang="fo" cert="high">Skjøl I og II í NIS2-fyriskipanini lýsa geirar, sum hava samfelagstýðandi funktiónir.</s>
+              <s xml:lang="fo" cert="high" xml:id="flvcq5qqw6">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="fpamoxssvu">Skjøl I og II í NIS2-fyriskipanini lýsa geirar, sum hava samfelagstýðandi funktiónir.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Umframt at skráseta upplýsingar um omanfyristandandi partar av undirstøðukervinum, sum Fjarskiftiseftirlitið metir neyðugar fyri kortleggingina, skulu sínámillum sambond millum hesar partar eisini skrásetast.</s>
+              <s xml:lang="fo" cert="high" xml:id="ftsx3d7yto">Umframt at skráseta upplýsingar um omanfyristandandi partar av undirstøðukervinum, sum Fjarskiftiseftirlitið metir neyðugar fyri kortleggingina, skulu sínámillum sambond millum hesar partar eisini skrásetast.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við sínámillum sambond skal skiljast skráseting av hvussu ymiskar funktiónir, ymiskir partar av ella staklutir í undirstøðukervinum eru tongdir at hvørjum øðrum.</s>
-              <s xml:lang="fo" cert="high">Til dømis hvør hevur ábyrgdina av ella rekur eina funktión, hvussu funktiónin avhongur av, stuðlar, ella ávirkar aðrar funktiónir ella aðrar partar av undirstøðukervinum ella staklutum í tí, hvørja ávirkan tað hevur um funktiónin ikki virkar, ikki virkar sum hon skal, ella funktiónin er skerd onkursvegna.</s>
-              <s xml:lang="fo" cert="high">Við hesum upplýsingum ber til at kortleggja ringvirknaðin, sum brek ella óreglusemi í einum parti av undirstøðukervinum kann hava fyri aðrar partar ella onnur undirstøðukervi.</s>
-              <s xml:lang="fo" cert="high">Hetta innlitið ger tað møguligt at eyðmerkja umstøður ella tilburðir, ið potentielt kunnu hava neiliga ávirkan á týðandi net og kunningarskipanir, og at styrkja trygdina í net og kunningarskipanum við at gera ábøtur og fyribyrgjandi tiltøk, har vandin ella avleiðingin av eini nethóttan er størst.</s>
+              <s xml:lang="fo" cert="high" xml:id="ljee7gidju">Við sínámillum sambond skal skiljast skráseting av hvussu ymiskar funktiónir, ymiskir partar av ella staklutir í undirstøðukervinum eru tongdir at hvørjum øðrum.</s>
+              <s xml:lang="fo" cert="high" xml:id="qsbyxidey2">Til dømis hvør hevur ábyrgdina av ella rekur eina funktión, hvussu funktiónin avhongur av, stuðlar, ella ávirkar aðrar funktiónir ella aðrar partar av undirstøðukervinum ella staklutum í tí, hvørja ávirkan tað hevur um funktiónin ikki virkar, ikki virkar sum hon skal, ella funktiónin er skerd onkursvegna.</s>
+              <s xml:lang="fo" cert="high" xml:id="mkp3vbgpyc">Við hesum upplýsingum ber til at kortleggja ringvirknaðin, sum brek ella óreglusemi í einum parti av undirstøðukervinum kann hava fyri aðrar partar ella onnur undirstøðukervi.</s>
+              <s xml:lang="fo" cert="high" xml:id="ind5pivvoq">Hetta innlitið ger tað møguligt at eyðmerkja umstøður ella tilburðir, ið potentielt kunnu hava neiliga ávirkan á týðandi net og kunningarskipanir, og at styrkja trygdina í net og kunningarskipanum við at gera ábøtur og fyribyrgjandi tiltøk, har vandin ella avleiðingin av eini nethóttan er størst.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Samfelagstýðandi funktiónir finna vit í nógvum ymiskum geirum.</s>
-              <s xml:lang="fo" cert="high">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
-              <s xml:lang="fo" cert="high">Skjal I (serliga avgerandi geirar) og II (avgerandi geirar) í NIS2 fyriskipanini lýsa geirar, sum hava samfelagstýðandi funktiónir.</s>
-              <s xml:lang="fo" cert="high">Flestu, men ikki allir geirar eru viðkomandi í føroyskum høpi.</s>
-              <s xml:lang="fo" cert="high">Við atliti til frammanfyristandandi útpeikar Fjarskiftiseftirlitið samfelagstýðandi økir ella geirar at luttaka í kortleggingini.</s>
+              <s xml:lang="fo" cert="high" xml:id="s7pgqrcvmh">Samfelagstýðandi funktiónir finna vit í nógvum ymiskum geirum.</s>
+              <s xml:lang="fo" cert="high" xml:id="woakszwarv">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="sitdor2k33">Skjal I (serliga avgerandi geirar) og II (avgerandi geirar) í NIS2 fyriskipanini lýsa geirar, sum hava samfelagstýðandi funktiónir.</s>
+              <s xml:lang="fo" cert="high" xml:id="wxxg3yl7yt">Flestu, men ikki allir geirar eru viðkomandi í føroyskum høpi.</s>
+              <s xml:lang="fo" cert="high" xml:id="co6e2vxhyf">Við atliti til frammanfyristandandi útpeikar Fjarskiftiseftirlitið samfelagstýðandi økir ella geirar at luttaka í kortleggingini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Dømi um samfelagstýðandi funktiónir kunnu vera elektroniskt samskifti, elektronisk eyðmerking og undirskrift, persóns-, farma- og postflutningur, tíðindaflutningur, gjaldsmiðling, heilsutænastur o.s.fr.</s>
+              <s xml:lang="fo" cert="high" xml:id="hjt33dun6x">Dømi um samfelagstýðandi funktiónir kunnu vera elektroniskt samskifti, elektronisk eyðmerking og undirskrift, persóns-, farma- og postflutningur, tíðindaflutningur, gjaldsmiðling, heilsutænastur o.s.fr.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við undirstøðukervi verður sipað til teir grundleggjandi bygnaðir, hentleikar og skipanir sum stuðla funktiónum og virksemi í samfelagnum.</s>
-              <s xml:lang="fo" cert="high">Dømi um undirstøðukervi kunnu vera dátuviðgerð og dátugoymslur, fjarskiftiskervi, elveiting, vatnveiting, renovatión, vegir, tunlar, sjúkrahús, almannaverk, ellisheim o.s.fr.</s>
+              <s xml:lang="fo" cert="high" xml:id="rt2eizwnvq">Við undirstøðukervi verður sipað til teir grundleggjandi bygnaðir, hentleikar og skipanir sum stuðla funktiónum og virksemi í samfelagnum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ac7pehy5oh">Dømi um undirstøðukervi kunnu vera dátuviðgerð og dátugoymslur, fjarskiftiskervi, elveiting, vatnveiting, renovatión, vegir, tunlar, sjúkrahús, almannaverk, ellisheim o.s.fr.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við í undirstøðukervi skulu roknast hjálpargøgn, skipanir, prosessir, net, tøknir, aktiv og tænastuveitingar, sum eru neyðugar til tess at reka samfelagstýðandi funktiónir ella fáa hesar í rættlag aftur.</s>
+              <s xml:lang="fo" cert="high" xml:id="szjtdl23vf">Við í undirstøðukervi skulu roknast hjálpargøgn, skipanir, prosessir, net, tøknir, aktiv og tænastuveitingar, sum eru neyðugar til tess at reka samfelagstýðandi funktiónir ella fáa hesar í rættlag aftur.</s>
             </p>
             <p>
               <seg xml:lang="fo">At undirstøðukervið er samfelagstýðandi, merkir at tað í stóran mun stuðlar eini samfelagstýðandi funktión, og</seg>
@@ -925,216 +924,216 @@
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin heimilar, at Fjarskiftiseftirlitið kann krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri kortlegging sambært stk. 1, m.a. frá veitarum av samfelagstýðandi tænastum til tað almenna.</s>
+              <s xml:lang="fo" cert="high" xml:id="dc25mlz3ws">Ásetingin heimilar, at Fjarskiftiseftirlitið kann krevja allar upplýsingar, dátur o.a. útflýggjaðar, sum Fjarskiftiseftirlitið metir hava týdning fyri kortlegging sambært stk. 1, m.a. frá veitarum av samfelagstýðandi tænastum til tað almenna.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Upplýsingar, dátur o.a. kunnu t.d.fevna um tøkniligar spesifikatiónir av aktivum og inaktivum eindum, sambond við aðrar eindir, eigara, rakstrarábyrgdara, veitara o.s.fr. Sum útgangsstøði er talan ikki um persónupplýsingar.</s>
-              <s xml:lang="fo" cert="high">Kortini ber ikki til at útihýsa, at í ávísum førum verða persónupplýsingar millum upplýsingar.</s>
-              <s xml:lang="fo" cert="high">Um persónupplýsingar í ávísum førum verða viðgjørdar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini um viðgerð av persónupplýsingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="q7y2hhl7q6">Upplýsingar, dátur o.a. kunnu t.d.fevna um tøkniligar spesifikatiónir av aktivum og inaktivum eindum, sambond við aðrar eindir, eigara, rakstrarábyrgdara, veitara o.s.fr. Sum útgangsstøði er talan ikki um persónupplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ad5rqbmhoo">Kortini ber ikki til at útihýsa, at í ávísum førum verða persónupplýsingar millum upplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ldyu7duxjo">Um persónupplýsingar í ávísum førum verða viðgjørdar, verður viðgerðin í samsvari við meginreglurnar í dátuverndarlógini um viðgerð av persónupplýsingum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Fjarskiftiseftirlitið í sambandi við kortleggingina ger vegleiðingar, sum nágreina, hvørjar upplýsingar talan er um, og hvussu upplýsingar verða savnaðar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ed3br43qws">Fjarskiftiseftirlitið í sambandi við kortleggingina ger vegleiðingar, sum nágreina, hvørjar upplýsingar talan er um, og hvussu upplýsingar verða savnaðar.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 3</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin áleggur øllum skyldu at lata upplýsingar, sum Fjarskiftiseftirlitið krevur samsvarandi stk. 2 við atliti at kortlegging av týðandi undirstøðukervi og sambondum í undirstøðukervinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="d5qh5vbd34">Ásetingin áleggur øllum skyldu at lata upplýsingar, sum Fjarskiftiseftirlitið krevur samsvarandi stk. 2 við atliti at kortlegging av týðandi undirstøðukervi og sambondum í undirstøðukervinum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 4</head>
             <p>
-              <s xml:lang="fo" cert="high">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
-              <s xml:lang="fo" cert="high">Í samsvari við hetta skulu sum veitarar av samfelagstýðandi tænastum skiljast veitarar, ið sambært NIS2 fyriskipanini verða nevndir “<hi rend="italic">essential entities</hi>” og “<hi rend="italic">important entities</hi>”.</s>
-              <s xml:lang="fo" cert="high">Við teimum tillagingum, sum eru hóskandi, havandi í huga, at Føroyar ikki eru limir í ES og tí ikki eru fevndar av teimum ES-fyriskipanum, sum eru nevndar í grein 2 og 3 í NIS2 fyriskipanini, verður lagt upp til, at Fjarskiftiseftirlitið, tá tað ger av, hvørjir veitarar skulu metast at vera samfelagstýðandi, leggur meginreglurnar í grein 2 og grein 3 í NIS2 fyriskipanini til grund, við neyðugum tillagingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="hocqziqnlq">Nettrygdarætlanin hjá landsstýrinum leggur upp til, at komandi nettrygdarlógin skal byggja á meginreglurnar í NIS2 fyriskipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="joso32gj5l">Í samsvari við hetta skulu sum veitarar av samfelagstýðandi tænastum skiljast veitarar, ið sambært NIS2 fyriskipanini verða nevndir “<hi rend="italic">essential entities</hi>” og “<hi rend="italic">important entities</hi>”.</s>
+              <s xml:lang="fo" cert="high" xml:id="jjde2j4wm2">Við teimum tillagingum, sum eru hóskandi, havandi í huga, at Føroyar ikki eru limir í ES og tí ikki eru fevndar av teimum ES-fyriskipanum, sum eru nevndar í grein 2 og 3 í NIS2 fyriskipanini, verður lagt upp til, at Fjarskiftiseftirlitið, tá tað ger av, hvørjir veitarar skulu metast at vera samfelagstýðandi, leggur meginreglurnar í grein 2 og grein 3 í NIS2 fyriskipanini til grund, við neyðugum tillagingum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 5</head>
             <p>
-              <s xml:lang="fo" cert="high">Til tess at tryggja, at kortleggingin av samfelagstýðandi undirstøðukervinum ikki bert er rættvísandi og harvið viðkomandi fyrstu ferð, skrásetingin og viðgerðin verður framd, er neyðugt, at upplýsingarnar verða dagførdar so hvørt broytingar henda í undirstøðukervinum.</s>
-              <s xml:lang="fo" cert="high">Tí er neyðugt, at veitarar av týðandi samfelagstænastum fáa álagt skyldu at boða Fjarskiftiseftirlitinum frá broytingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="mulf5u4p63">Til tess at tryggja, at kortleggingin av samfelagstýðandi undirstøðukervinum ikki bert er rættvísandi og harvið viðkomandi fyrstu ferð, skrásetingin og viðgerðin verður framd, er neyðugt, at upplýsingarnar verða dagførdar so hvørt broytingar henda í undirstøðukervinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="pc6vpxwsi5">Tí er neyðugt, at veitarar av týðandi samfelagstænastum fáa álagt skyldu at boða Fjarskiftiseftirlitinum frá broytingum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 6</head>
             <p>
-              <s xml:lang="fo" cert="high">Sum útgangsstøði letur Fjarskiftiseftirlitið ikki upplýsingar víðari.</s>
-              <s xml:lang="fo" cert="high">Í ávísum førum kann tað tó verða neyðugt í mun til nettrygd, at upplýsingar yvir egið undirstøðukervi og sambond teirra til onnur undirstøðukervi og skipanar, verða latnar viðkomandi parti.</s>
-              <s xml:lang="fo" cert="high">Verða upplýsingar latnar víðari, verða tær skornar soleiðis, at tað ikki verða latnar fleiri upplýsingar enn neyðugt fyri at røkka endamálinum um nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="ma4lwtdgkh">Sum útgangsstøði letur Fjarskiftiseftirlitið ikki upplýsingar víðari.</s>
+              <s xml:lang="fo" cert="high" xml:id="faxgvc4mel">Í ávísum førum kann tað tó verða neyðugt í mun til nettrygd, at upplýsingar yvir egið undirstøðukervi og sambond teirra til onnur undirstøðukervi og skipanar, verða latnar viðkomandi parti.</s>
+              <s xml:lang="fo" cert="high" xml:id="l4424p4saz">Verða upplýsingar latnar víðari, verða tær skornar soleiðis, at tað ikki verða latnar fleiri upplýsingar enn neyðugt fyri at røkka endamálinum um nettrygd.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan er um tískil um eitt yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum til tess at styrkja nettrygdina.</s>
-              <s xml:lang="fo" cert="high">Slík yvirskipað yvirlit mugu ikki fara longur niður í smálutir og ikki røkka breiðari enn neyðugt til tess at røkka endamálinum við nettrygd, og skulu taka atlit til at verja trygdina og handilsloynidómar o.a. hjá øðrum veitarum.</s>
+              <s xml:lang="fo" cert="high" xml:id="c4oikodwnb">Talan er um tískil um eitt yvirskipað yvirlit yvir undirstøðukervi og sambond hjá øðrum veitarum av samfelagstýðandi tænastum til tess at styrkja nettrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="lpcsaz4x4b">Slík yvirskipað yvirlit mugu ikki fara longur niður í smálutir og ikki røkka breiðari enn neyðugt til tess at røkka endamálinum við nettrygd, og skulu taka atlit til at verja trygdina og handilsloynidómar o.a. hjá øðrum veitarum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58, stk. 7</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin hevur til endamáls at geva Fjarskiftiseftirlitinum ítøkiliga heimild at fremja sonevndar portraskanningar av internetinum.</s>
-              <s xml:lang="fo" cert="high">Í sambandi við portraskanningar tekur Fjarskiftiseftirlitið atlit til, at tað ikki stendst rakstrarórógv av skanningini.</s>
-              <s xml:lang="fo" cert="high">Eftir ætlan verða tað serfrøðingar, sum gera skanningarnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="f6u465ihvb">Ásetingin hevur til endamáls at geva Fjarskiftiseftirlitinum ítøkiliga heimild at fremja sonevndar portraskanningar av internetinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="khu2ddkjke">Í sambandi við portraskanningar tekur Fjarskiftiseftirlitið atlit til, at tað ikki stendst rakstrarórógv av skanningini.</s>
+              <s xml:lang="fo" cert="high" xml:id="jmq5aaxbvl">Eftir ætlan verða tað serfrøðingar, sum gera skanningarnar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Orðið internet er ein samanseting av tveimum orðum: “interconnected” og “network”.</s>
-              <s xml:lang="fo" cert="high">Tað fyrra sipar til sambinding ella sínámillum samband og tað seinna til, at hetta hendir í einum kervi ella neti.</s>
-              <s xml:lang="fo" cert="high">Internetið er sniðgivið soleiðis, at alt er opið fyri øllum, uttan so at okkurt er tilvitað stongt ella fjalt.</s>
-              <s xml:lang="fo" cert="high">Hetta er styrkin og samstundis trygdarveikleikin við internetinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="aihtaaqnco">Orðið internet er ein samanseting av tveimum orðum: “interconnected” og “network”.</s>
+              <s xml:lang="fo" cert="high" xml:id="gs5dx3qtks">Tað fyrra sipar til sambinding ella sínámillum samband og tað seinna til, at hetta hendir í einum kervi ella neti.</s>
+              <s xml:lang="fo" cert="high" xml:id="pq3nuneuu7">Internetið er sniðgivið soleiðis, at alt er opið fyri øllum, uttan so at okkurt er tilvitað stongt ella fjalt.</s>
+              <s xml:lang="fo" cert="high" xml:id="m532ly3cgp">Hetta er styrkin og samstundis trygdarveikleikin við internetinum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Niðanfyri er ein sera yvirskipað og einfalt gjørd mynd av, hvat ein portraskanning snýr seg um, og hvussu hon virkar.</s>
-              <s xml:lang="fo" cert="high">Í roynd og veru er hetta meira komplekst, men tað broytir ikki yvirskipaðu myndina ella endamálið við skanningini.</s>
+              <s xml:lang="fo" cert="high" xml:id="bewce6skx6">Niðanfyri er ein sera yvirskipað og einfalt gjørd mynd av, hvat ein portraskanning snýr seg um, og hvussu hon virkar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ubzdx6y5bv">Í roynd og veru er hetta meira komplekst, men tað broytir ikki yvirskipaðu myndina ella endamálið við skanningini.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hús hava vanliga eina eintýdda adressu, men fleiri hurðar, sum geva atkomu til ymsar partar av húsinum; til dømis eina úthurð, har gestir vanliga koma inn, eina kjallarahurð, altanhurð, eina hurð til hjallin o.s.fr. Fyritøkur hava ofta eina inngongd til levering av vørum, eina inngongd til starvsfólk og eina inngongd til kundar.</s>
-              <s xml:lang="fo" cert="high">Hvør hurð hevur sítt serstaka endamál.</s>
-              <s xml:lang="fo" cert="high">Men øll eru á sama bústaði.</s>
+              <s xml:lang="fo" cert="high" xml:id="gd3e6gxrlc">Hús hava vanliga eina eintýdda adressu, men fleiri hurðar, sum geva atkomu til ymsar partar av húsinum; til dømis eina úthurð, har gestir vanliga koma inn, eina kjallarahurð, altanhurð, eina hurð til hjallin o.s.fr. Fyritøkur hava ofta eina inngongd til levering av vørum, eina inngongd til starvsfólk og eina inngongd til kundar.</s>
+              <s xml:lang="fo" cert="high" xml:id="fliq24mq6g">Hvør hurð hevur sítt serstaka endamál.</s>
+              <s xml:lang="fo" cert="high" xml:id="fkrdbpl25p">Men øll eru á sama bústaði.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Á sama hátt við teldum, teldlum, fartelefonum og øðrum tóleindum á internetinum.</s>
-              <s xml:lang="fo" cert="high">Hesi tól hava hvør sína IP-adressu, sum eintýðugt eyðmerkir tær.</s>
-              <s xml:lang="fo" cert="high">Ymiskar trygdarfyriskipanir, so sum brandmúrar (firewalls), tryggja tóleindir, sum eigarin ikki ynskir eru alment atkomuligar.</s>
-              <s xml:lang="fo" cert="high">Men IP-adressan ger, at tann, sum sendir, veit, hvar hann skal senda dáturnar, og tann, sum móttekur, kann somuleiðis síggja, hvør avsendara IP-adressa er skrásett.</s>
+              <s xml:lang="fo" cert="high" xml:id="pgxneeetr5">Á sama hátt við teldum, teldlum, fartelefonum og øðrum tóleindum á internetinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="csjupzjvq7">Hesi tól hava hvør sína IP-adressu, sum eintýðugt eyðmerkir tær.</s>
+              <s xml:lang="fo" cert="high" xml:id="mrkt6hd4l6">Ymiskar trygdarfyriskipanir, so sum brandmúrar (firewalls), tryggja tóleindir, sum eigarin ikki ynskir eru alment atkomuligar.</s>
+              <s xml:lang="fo" cert="high" xml:id="dxbmqsz35v">Men IP-adressan ger, at tann, sum sendir, veit, hvar hann skal senda dáturnar, og tann, sum móttekur, kann somuleiðis síggja, hvør avsendara IP-adressa er skrásett.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Og sum við húsunum, so koma dátur á sama hátt frá internetinum inn á telduna gjøgnum ymiskar hurðar, nevnd portur (Ports); onkur portur eru til internetferðslu umvegis kaga, onnur til teldupost, printarar, VoIP, VPN, on-line spøl, o.s.fr. So ymisk sløg av dátum verða send til somu IP-adressu, men koma inn gjøgnum (ella fara út gjøgnum) ymisk portur.</s>
-              <s xml:lang="fo" cert="high">IP-adressan tryggjar, at dáturnar koma til røttu teldu (rættan bústað) og portrini tryggja, at dáturnar koma inn ella fara út gjøgnum røttu inngongd, har umstøður eru til at viðgera dáturnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="d5fx5dje2t">Og sum við húsunum, so koma dátur á sama hátt frá internetinum inn á telduna gjøgnum ymiskar hurðar, nevnd portur (Ports); onkur portur eru til internetferðslu umvegis kaga, onnur til teldupost, printarar, VoIP, VPN, on-line spøl, o.s.fr. So ymisk sløg av dátum verða send til somu IP-adressu, men koma inn gjøgnum (ella fara út gjøgnum) ymisk portur.</s>
+              <s xml:lang="fo" cert="high" xml:id="a7kqg4ucoo">IP-adressan tryggjar, at dáturnar koma til røttu teldu (rættan bústað) og portrini tryggja, at dáturnar koma inn ella fara út gjøgnum røttu inngongd, har umstøður eru til at viðgera dáturnar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Sum útgangsstøði kunnu øll spyrja upp á øll portur á øllum almennum IP-adressum.</s>
-              <s xml:lang="fo" cert="high">Tað svarar til, at tú fert til eini ávís hús (eina ávísa IP-adressu) og tekur í allar hurðarnar (portrini) til tess at vita, um tær eru opnar.</s>
-              <s xml:lang="fo" cert="high">Eru tær opnar, kanst tú møguliga fáa innlit í hvat er innanfyri.</s>
+              <s xml:lang="fo" cert="high" xml:id="qvckp2o4sy">Sum útgangsstøði kunnu øll spyrja upp á øll portur á øllum almennum IP-adressum.</s>
+              <s xml:lang="fo" cert="high" xml:id="qk5j77b56d">Tað svarar til, at tú fert til eini ávís hús (eina ávísa IP-adressu) og tekur í allar hurðarnar (portrini) til tess at vita, um tær eru opnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="qzj5ckj4gl">Eru tær opnar, kanst tú møguliga fáa innlit í hvat er innanfyri.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Á sama hátt kann álopsmegi spyrja upp á øll portur á eini IP-adressu til tess at skapa sær eitt yvirlit yvir, hvørjar tænastur koyra hvar, og hvat forrit leverar veitingina.</s>
-              <s xml:lang="fo" cert="high">Við kunnleika til veikleikar í ymsum forritum, kunnu hesir aktørar soleiðis finna útav, hvar mest ómakaleyst er at leypa á.</s>
+              <s xml:lang="fo" cert="high" xml:id="dys3wequjw">Á sama hátt kann álopsmegi spyrja upp á øll portur á eini IP-adressu til tess at skapa sær eitt yvirlit yvir, hvørjar tænastur koyra hvar, og hvat forrit leverar veitingina.</s>
+              <s xml:lang="fo" cert="high" xml:id="nrmtweuyxy">Við kunnleika til veikleikar í ymsum forritum, kunnu hesir aktørar soleiðis finna útav, hvar mest ómakaleyst er at leypa á.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Tað er lutfalsliga lætt at skanna portur á internetinum.</s>
-              <s xml:lang="fo" cert="high">Hetta er gerandiskostur hjá sonevndum hakkarum, men eisini hjá trygdarserfrøðingum, tá teir skulu verja eina fyritøku móti óviðkomandi vitjanum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ufqqn2xrvr">Tað er lutfalsliga lætt at skanna portur á internetinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="rmyfvvzz77">Hetta er gerandiskostur hjá sonevndum hakkarum, men eisini hjá trygdarserfrøðingum, tá teir skulu verja eina fyritøku móti óviðkomandi vitjanum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Í einum størri landi kann tað vera trupult at skanna øll portur, tí hetta er tíðarkrevjandi.</s>
-              <s xml:lang="fo" cert="high">Men hetta kann bera til í Føroyum.</s>
-              <s xml:lang="fo" cert="high">Ein slík skanning fer fram við einum forriti, sum einans lesur upplýsingar, sum frammanundan eru alment atkomuligar.</s>
-              <s xml:lang="fo" cert="high">Endamálið við eini slíkari skanning er at meta um trygdarstøðuna og gera tað møguligt at fylgja gongdini og koma við ávaringum og tilmælum.</s>
+              <s xml:lang="fo" cert="high" xml:id="gcqksdwjqp">Í einum størri landi kann tað vera trupult at skanna øll portur, tí hetta er tíðarkrevjandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="uynm5ex4da">Men hetta kann bera til í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="hfejtowos2">Ein slík skanning fer fram við einum forriti, sum einans lesur upplýsingar, sum frammanundan eru alment atkomuligar.</s>
+              <s xml:lang="fo" cert="high" xml:id="mlst7oqc3n">Endamálið við eini slíkari skanning er at meta um trygdarstøðuna og gera tað møguligt at fylgja gongdini og koma við ávaringum og tilmælum.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Ein slík skanning skal gerast við jøvnum millumbilum, bæði til tess at fáa ein aktuellan status og til tess at samanbera við undangjørdar skanningar, og á tann hátt fáa ábendingar um broytingar, sum kunnu hava týdning fyri trygdina.</s>
-              <s xml:lang="fo" cert="high">Talan er soleiðis ikki um at skanna eina ferð, men javnan.</s>
+              <s xml:lang="fo" cert="high" xml:id="ern3j62egd">Ein slík skanning skal gerast við jøvnum millumbilum, bæði til tess at fáa ein aktuellan status og til tess at samanbera við undangjørdar skanningar, og á tann hátt fáa ábendingar um broytingar, sum kunnu hava týdning fyri trygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="tuziffsjos">Talan er soleiðis ikki um at skanna eina ferð, men javnan.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Fjarskiftislógin, § 1, hevur til endamáls at “virka fyri einum vælskipaðum og nýskapandi marknaði fyri fjarskiftiskervi og fjarskiftistænastur til frama fyri allar endabrúkarar”.</s>
-              <s xml:lang="fo" cert="high">Fjarskiftislógin er soleiðis ætlað til at verja samskiftiskervið, og ein alsamt meira týðandi partur av hesum kervi er tað, sum vit nevna “internetið”.</s>
+              <s xml:lang="fo" cert="high" xml:id="gy3wh5adtf">Fjarskiftislógin, § 1, hevur til endamáls at “virka fyri einum vælskipaðum og nýskapandi marknaði fyri fjarskiftiskervi og fjarskiftistænastur til frama fyri allar endabrúkarar”.</s>
+              <s xml:lang="fo" cert="high" xml:id="lehthrjnh2">Fjarskiftislógin er soleiðis ætlað til at verja samskiftiskervið, og ein alsamt meira týðandi partur av hesum kervi er tað, sum vit nevna “internetið”.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">§§ 51 og 52 í fjarskiftislógini snúgva seg um vernd av kervi.</s>
-              <s xml:lang="fo" cert="high">Tað sæst av § 52, at trygd er eitt fyrilit í lógini, og at myndugleikin hevur víttgangandi heimildir, tá ið talan er um neyðstøður, sum hótta m.a. trygdina.</s>
-              <s xml:lang="fo" cert="high">Sambært §§ 54 og 55 í fjarskiftislógini hevur Fjarskiftiseftirlitið eftirlit við, at endamálið við lógini verður rokkið, og at reglurnar í lógini verða hildnar.</s>
+              <s xml:lang="fo" cert="high" xml:id="gawkq6juzp">§§ 51 og 52 í fjarskiftislógini snúgva seg um vernd av kervi.</s>
+              <s xml:lang="fo" cert="high" xml:id="a3uiacqwco">Tað sæst av § 52, at trygd er eitt fyrilit í lógini, og at myndugleikin hevur víttgangandi heimildir, tá ið talan er um neyðstøður, sum hótta m.a. trygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="ou3bohcehl">Sambært §§ 54 og 55 í fjarskiftislógini hevur Fjarskiftiseftirlitið eftirlit við, at endamálið við lógini verður rokkið, og at reglurnar í lógini verða hildnar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Fjarskiftiseftirlitið hevur longu heimild sambært § 58, stk. 1, í fjarskiftislógini at gera stakroyndir og mátingar og seta upp yvirvøkuútgerð og telemetriútbúnað, sum hevur samband við hetta, um tað er neyðugt.</s>
-              <s xml:lang="fo" cert="high">Og sambært § 58, stk. 2, hevur Fjarskiftiseftirlitið heimild at savna inn allar dátur og allar upplýsingar, ið eru neyðugar fyri at fremja eftirlitsuppgávur og yvirvøkuuppgávur sínar.</s>
+              <s xml:lang="fo" cert="high" xml:id="y7o2npaazd">Fjarskiftiseftirlitið hevur longu heimild sambært § 58, stk. 1, í fjarskiftislógini at gera stakroyndir og mátingar og seta upp yvirvøkuútgerð og telemetriútbúnað, sum hevur samband við hetta, um tað er neyðugt.</s>
+              <s xml:lang="fo" cert="high" xml:id="lvxsqvnnle">Og sambært § 58, stk. 2, hevur Fjarskiftiseftirlitið heimild at savna inn allar dátur og allar upplýsingar, ið eru neyðugar fyri at fremja eftirlitsuppgávur og yvirvøkuuppgávur sínar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Somuleiðis hevur Fjarskiftiseftirlitið í § 60 í fjarskiftislógini heimild til at brúka upplýsingarnar til tess at forða fyri misnýtslu, við at geva boð um, at brek ella illa virkandi almenn fjarskiftiskervi o.a. skulu umvælast ella rættast.</s>
+              <s xml:lang="fo" cert="high" xml:id="w22lx2l4hh">Somuleiðis hevur Fjarskiftiseftirlitið í § 60 í fjarskiftislógini heimild til at brúka upplýsingarnar til tess at forða fyri misnýtslu, við at geva boð um, at brek ella illa virkandi almenn fjarskiftiskervi o.a. skulu umvælast ella rættast.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Hóast fjarskiftislógin soleiðis kann tulkast at rúma eini heimild til at fremja portraskanningar av føroyska internetinum, so verður kortini mett, at tað er rættast, at ein greið og ítøkilig heimild verður sett inn í lógina.</s>
+              <s xml:lang="fo" cert="high" xml:id="udjgji3trn">Hóast fjarskiftislógin soleiðis kann tulkast at rúma eini heimild til at fremja portraskanningar av føroyska internetinum, so verður kortini mett, at tað er rættast, at ein greið og ítøkilig heimild verður sett inn í lógina.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Við portraskanningum verður mett, at Fjarskiftiseftirlitið kann vera við til at økja nettrygdina í Føroyum á ein ódýran, skjótan og munadyggan hátt.</s>
+              <s xml:lang="fo" cert="high" xml:id="rsgv4h4tcd">Við portraskanningum verður mett, at Fjarskiftiseftirlitið kann vera við til at økja nettrygdina í Føroyum á ein ódýran, skjótan og munadyggan hátt.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 8</head>
             <p>
-              <s xml:lang="fo" cert="high">Til tess at gagnnýta tær upplýsingar, sum Fjarskiftiseftirlitið savnar og viðger, verður loyvt Fjarskiftiseftirlitinum at lata viðkomandi aktørum í samfelagstýðandi undirstøðukervinum upplýsingar, sum kunnu vera við til at styrkja nettrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="n5kngs4pbi">Til tess at gagnnýta tær upplýsingar, sum Fjarskiftiseftirlitið savnar og viðger, verður loyvt Fjarskiftiseftirlitinum at lata viðkomandi aktørum í samfelagstýðandi undirstøðukervinum upplýsingar, sum kunnu vera við til at styrkja nettrygdina.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan er um upplýsingar, ið eru grundaðar á kortleggingina sambært § 58 a, stk. 1, ella portraskanning sambært stk. 7, og har Fjarskiftiseftirlitið veitir t.d. landsstýrinum, Føroya Gjaldstovu ella einum øðrum veitara av samfelagstýðandi tænastum ráðgeving og vegleiðing.</s>
+              <s xml:lang="fo" cert="high" xml:id="rabitqtx6u">Talan er um upplýsingar, ið eru grundaðar á kortleggingina sambært § 58 a, stk. 1, ella portraskanning sambært stk. 7, og har Fjarskiftiseftirlitið veitir t.d. landsstýrinum, Føroya Gjaldstovu ella einum øðrum veitara av samfelagstýðandi tænastum ráðgeving og vegleiðing.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan kann til dømis vera um yvirskipað yvirlit yvir sambond millum veitarar og kervi, ið geva móttakarunum møguleika fyri at síggja samanhangir, men eisini upplýsingar um ítøkiligar veikleikar hjá ávísum veitarum av samfelagstýðandi tænastum, ella aðrar upplýsingar, sum Fjarskiftiseftirlitið metir kunnu vera við til at styrkja nettrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="avwjeqgnzi">Talan kann til dømis vera um yvirskipað yvirlit yvir sambond millum veitarar og kervi, ið geva móttakarunum møguleika fyri at síggja samanhangir, men eisini upplýsingar um ítøkiligar veikleikar hjá ávísum veitarum av samfelagstýðandi tænastum, ella aðrar upplýsingar, sum Fjarskiftiseftirlitið metir kunnu vera við til at styrkja nettrygdina.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Víðarilatan av upplýsingum skal vera neyðug og proportional sambært endamálinum, og Fjarskiftiseftirlitið skal í tann mun, tað er gjørligt, taka atlit til áhugamálið hjá veitarum at verja handilsloynidómar o.a.</s>
+              <s xml:lang="fo" cert="high" xml:id="ambtbqikhl">Víðarilatan av upplýsingum skal vera neyðug og proportional sambært endamálinum, og Fjarskiftiseftirlitið skal í tann mun, tað er gjørligt, taka atlit til áhugamálið hjá veitarum at verja handilsloynidómar o.a.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 9</head>
             <p>
-              <s xml:lang="fo" cert="high">Ásetingin heimilar Fjarskiftiseftirlitinum at burturbeina upplýsingar.</s>
-              <s xml:lang="fo" cert="high">Í § 58 a, stk. 10, verður ásett, at lóg um skjalasøvn ikki er galdandi fyri viðgerð sambært § 58 a.</s>
-              <s xml:lang="fo" cert="high">Ásetingin knýtir í, at hetta eru ásetingar, sum skulu vera við til at verja nettrygdina í Føroyum móti fremmandum tjóðum.</s>
-              <s xml:lang="fo" cert="high">Upplýsingar í sambandi við kortlegging kunnu hava áhuga fyri óviðkomandi.</s>
-              <s xml:lang="fo" cert="high">Um upplýsingar, sum hava samband við kortlegging, koma óviðkomandi í hendi, kann hetta hava óbótaligan skaða fyri nettrygdina.</s>
-              <s xml:lang="fo" cert="high">Mælt verður tí til, at Fjarskiftiseftirlitið kann gera av, at upplýsingar, sum hava samband við nettrygd, kunnu beinast burtur.</s>
+              <s xml:lang="fo" cert="high" xml:id="wmo6ow6dyd">Ásetingin heimilar Fjarskiftiseftirlitinum at burturbeina upplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="ak4ztzpjvu">Í § 58 a, stk. 10, verður ásett, at lóg um skjalasøvn ikki er galdandi fyri viðgerð sambært § 58 a.</s>
+              <s xml:lang="fo" cert="high" xml:id="lulkwfmpzk">Ásetingin knýtir í, at hetta eru ásetingar, sum skulu vera við til at verja nettrygdina í Føroyum móti fremmandum tjóðum.</s>
+              <s xml:lang="fo" cert="high" xml:id="dbiyevec5a">Upplýsingar í sambandi við kortlegging kunnu hava áhuga fyri óviðkomandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="bu3arsraku">Um upplýsingar, sum hava samband við kortlegging, koma óviðkomandi í hendi, kann hetta hava óbótaligan skaða fyri nettrygdina.</s>
+              <s xml:lang="fo" cert="high" xml:id="ptqs52mm6q">Mælt verður tí til, at Fjarskiftiseftirlitið kann gera av, at upplýsingar, sum hava samband við nettrygd, kunnu beinast burtur.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 10</head>
             <p>
               <!-- <s xml:lang="fo">Endamálið við nettrygd og nettrygdarætlanini er at verja okkara samfelag móti álopum, sum kunnu hava við sær, at tær kt-skipanirnar, sum eru avgerandi fyri, at t.d. heilsuverkið og SEV kunnu veita tænastur, steðga upp - og samfelagið kann liggja lamið í longri tíð</s> -->
-              <s xml:lang="fo">Endamálið við nettrygd og nettrygdarætlanini er at verja okkara samfelag móti álopum, sum kunnu hava við sær, at tær kt-skipanirnar, sum eru avgerandi fyri, at t.d. heilsuverkið og SEV kunnu veita tænastur, steðga upp - og samfelagið kann liggja lamið í longri tíð.</s>
+              <s xml:lang="fo" xml:id="qa66afhp34">Endamálið við nettrygd og nettrygdarætlanini er at verja okkara samfelag móti álopum, sum kunnu hava við sær, at tær kt-skipanirnar, sum eru avgerandi fyri, at t.d. heilsuverkið og SEV kunnu veita tænastur, steðga upp - og samfelagið kann liggja lamið í longri tíð.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lóg um innlit í fyrisitingina, lóg um vernd av persónupplýsingum og lóg um skjalasøvn eru galdandi í sambandi við lóg um fjarskifti.</s>
-              <s xml:lang="fo" cert="high">Í mun til upplýsingar, sum verða savnaðar og viðgjørdar við heimild í § 58 a, eru lógirnar ikki galdandi.</s>
-              <s xml:lang="fo" cert="high">Upplýsingar, sum er latnar øðrum myndugleika, koma undir somu reglu.</s>
+              <s xml:lang="fo" cert="high" xml:id="rqjggrxwyj">Lóg um innlit í fyrisitingina, lóg um vernd av persónupplýsingum og lóg um skjalasøvn eru galdandi í sambandi við lóg um fjarskifti.</s>
+              <s xml:lang="fo" cert="high" xml:id="vhgbejh44k">Í mun til upplýsingar, sum verða savnaðar og viðgjørdar við heimild í § 58 a, eru lógirnar ikki galdandi.</s>
+              <s xml:lang="fo" cert="high" xml:id="yu2szmaypw">Upplýsingar, sum er latnar øðrum myndugleika, koma undir somu reglu.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Innlit í upplýsingar, sum verða savnaðar inn í sambandi við kortlegging, kunnu knýta seg at fyritøkum, sum dríva vinnuligt virksemi, og kunnu skaða bæði trygdina og kappingina, um álopsmegi ella kappingarneytar umvegis Fjarskiftiseftirlitið ella aðrar myndugleikar kunnu fáa upplýsingar, sum vanliga ikki eru tøkar á marknaðinum.</s>
-              <s xml:lang="fo" cert="high">Talan kann vera um bæði trygdar- og handilsloynidómar.</s>
+              <s xml:lang="fo" cert="high" xml:id="tp4m3t4n73">Innlit í upplýsingar, sum verða savnaðar inn í sambandi við kortlegging, kunnu knýta seg at fyritøkum, sum dríva vinnuligt virksemi, og kunnu skaða bæði trygdina og kappingina, um álopsmegi ella kappingarneytar umvegis Fjarskiftiseftirlitið ella aðrar myndugleikar kunnu fáa upplýsingar, sum vanliga ikki eru tøkar á marknaðinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ai45hmnu43">Talan kann vera um bæði trygdar- og handilsloynidómar.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Lóg um innlit í fyrisitingina og lóg um vernd av persónupplýsingum hava m.a. sum endamál at verja rættindi hjá tí einstaka og styrkja rættartrygdina í samfelagnum.</s>
-              <s xml:lang="fo" cert="high">Ætlanin er ikki at seta hesi endamál til viks.</s>
-              <s xml:lang="fo" cert="high">Tó er parturin um innlit eftir hesum lógum ikki í samsvari við endamálið við at fremja nettrygd og verja móti illnati og álopum á samfelagstýðandi undirstøðukervið.</s>
-              <s xml:lang="fo" cert="high">Samstundis skal vera víst á, at skipanin við kortlegging í verandi líki er ein byrjan til lóg um nettrygd.</s>
-              <s xml:lang="fo" cert="high">Eftir ætlan verða skipanir settar í gildi saman við lógini um nettrygd, sum skulu tryggja rættindini hjá tí einstaka og verja rættartrygdina í sambandi við nettrygd.</s>
-              <s xml:lang="fo" cert="high">Ætlanin er ikki at savna persónupplýsingar ella upplýsingar, sum knýta seg at persónum.</s>
-              <s xml:lang="fo" cert="high">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, sum verða savnaðar, verða persónupplýsingarnar viðgjørdar í samsvari við meginreglurnar um dátuvernd og við fyriliti fyri rættindunum hjá tí einstaka.</s>
+              <s xml:lang="fo" cert="high" xml:id="a7mwrhvwqi">Lóg um innlit í fyrisitingina og lóg um vernd av persónupplýsingum hava m.a. sum endamál at verja rættindi hjá tí einstaka og styrkja rættartrygdina í samfelagnum.</s>
+              <s xml:lang="fo" cert="high" xml:id="kmn2yar5wf">Ætlanin er ikki at seta hesi endamál til viks.</s>
+              <s xml:lang="fo" cert="high" xml:id="bicya3rf36">Tó er parturin um innlit eftir hesum lógum ikki í samsvari við endamálið við at fremja nettrygd og verja móti illnati og álopum á samfelagstýðandi undirstøðukervið.</s>
+              <s xml:lang="fo" cert="high" xml:id="p4omwnez7d">Samstundis skal vera víst á, at skipanin við kortlegging í verandi líki er ein byrjan til lóg um nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="pynze5jqji">Eftir ætlan verða skipanir settar í gildi saman við lógini um nettrygd, sum skulu tryggja rættindini hjá tí einstaka og verja rættartrygdina í sambandi við nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="q5sskyfcsb">Ætlanin er ikki at savna persónupplýsingar ella upplýsingar, sum knýta seg at persónum.</s>
+              <s xml:lang="fo" cert="high" xml:id="skunlvausb">Í teimum førum, at persónupplýsingar eru millum upplýsingarnar, sum verða savnaðar, verða persónupplýsingarnar viðgjørdar í samsvari við meginreglurnar um dátuvernd og við fyriliti fyri rættindunum hjá tí einstaka.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high">Talan er um verju av samfelagstýðandi undirstøðukervinum, og tað kann í hesum sambandi vera neyðugt hjá myndugleikanum at strika upplýsingar.</s>
-              <s xml:lang="fo" cert="high">Samstundis er talan um upplýsingar, sum í fyrstu atløgu ikki skulu latast skjalasavninum.</s>
-              <s xml:lang="fo" cert="high">Lógin um skjalasøvn, sum m.a. ásetur, at almennir myndugleikar ikki kunnu strika upplýsingar, áðrenn tær eru avhendaðar til skjalasavn, verður tí á hesum sinni ikki galdandi fyri kortlegging.</s>
+              <s xml:lang="fo" cert="high" xml:id="s3p4gefp76">Talan er um verju av samfelagstýðandi undirstøðukervinum, og tað kann í hesum sambandi vera neyðugt hjá myndugleikanum at strika upplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="l2evfcogxr">Samstundis er talan um upplýsingar, sum í fyrstu atløgu ikki skulu latast skjalasavninum.</s>
+              <s xml:lang="fo" cert="high" xml:id="zsvqx2hkch">Lógin um skjalasøvn, sum m.a. ásetur, at almennir myndugleikar ikki kunnu strika upplýsingar, áðrenn tær eru avhendaðar til skjalasavn, verður tí á hesum sinni ikki galdandi fyri kortlegging.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 11</head>
             <p>
-              <s xml:lang="fo" cert="high">Tað kann gerast neyðugt til tess at røkka endamálinum við nettrygd, at Fjarskiftiseftirlitið letur øðrum eftirlitsmyndugleika upplýsingar.</s>
-              <s xml:lang="fo" cert="high">Talan kann vera um myndugleikar í Føroyum og í øðrum londum.</s>
-              <s xml:lang="fo" cert="high">Fjarskiftiseftirlitið skal í hesum sambandi tryggja sær, at viðurskiftini eru skipað á nøktandi hátt við serligari tagnarskyldu í samsvari við endamálið um nettrygd.</s>
-              <s xml:lang="fo" cert="high">Hetta kann t.d. gerast við avtalu, tagnarskyldu og trygd í sambandi við viðgerðina av upplýsingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="fzouinkdm7">Tað kann gerast neyðugt til tess at røkka endamálinum við nettrygd, at Fjarskiftiseftirlitið letur øðrum eftirlitsmyndugleika upplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="crjyeceu4f">Talan kann vera um myndugleikar í Føroyum og í øðrum londum.</s>
+              <s xml:lang="fo" cert="high" xml:id="eefrtq7e24">Fjarskiftiseftirlitið skal í hesum sambandi tryggja sær, at viðurskiftini eru skipað á nøktandi hátt við serligari tagnarskyldu í samsvari við endamálið um nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="i7ult7wb6m">Hetta kann t.d. gerast við avtalu, tagnarskyldu og trygd í sambandi við viðgerðina av upplýsingum.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">§ 58 a, stk. 12</head>
             <p>
-              <s xml:lang="fo" cert="high">Upplýsingar sambært stk. 11 kunnu latast víðari, um Fjarskiftiseftirlitið metir tað verða neyðugt til tess at røkka endamálinum við nettrygd.</s>
-              <s xml:lang="fo" cert="high">Landsstýrisfólkið kann tó seta í gildi kunngerð, sum í størri mun nágreinar ella fevnir um at lata upplýsingar víðari.</s>
+              <s xml:lang="fo" cert="high" xml:id="hpva4lcrtm">Upplýsingar sambært stk. 11 kunnu latast víðari, um Fjarskiftiseftirlitið metir tað verða neyðugt til tess at røkka endamálinum við nettrygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="nlgsk3s7zl">Landsstýrisfólkið kann tó seta í gildi kunngerð, sum í størri mun nágreinar ella fevnir um at lata upplýsingar víðari.</s>
             </p>
           </div>
           <div type="subsection">
             <head rend="bold">Til § 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Lagt verður upp til, at løgtingslógin kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+              <s xml:lang="fo" cert="high" xml:id="l2sy4o7jsc">Lagt verður upp til, at løgtingslógin kemur í gildi dagin eftir, at hon er kunngjørd.</s>
             </p>
           </div>
         </div>
       </div>
-      <space dim="vertical" />
+      <space dim="vertical"/>
       <div type="signature">
         <dateline><orgName>Uttanríkis- og vinnumálaráðið</orgName>, <date when="2024-03-07">7. mars 2024</date></dateline>
-        <space dim="vertical" />
+        <space dim="vertical"/>
         <signed rend="center">
           <persName ref="https://tingdata.fo/person/e4hsmd5x">
             <hi rend="bold">Høgni Hoydal</hi>
-            <lb />
+            <lb/>
             <roleName>landsstýrismaður</roleName>
           </persName>
         </signed>
