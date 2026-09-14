@@ -988,9 +988,10 @@
             </p>
             <p>
               <s xml:lang="fo" cert="high">Tillagingarskyldan hevur við sær, at arbeiðsgevarin skal seta tiltøk í verk, sum gera tað møguligt hjá einum persóni, ið ber brek, at virka á jøvnum føti við onnur.</s>
-              <s xml:lang="fo" cert="medium">Dømir um, hvussu tillagingarskyldan kann verða framd, er</s>
+              <seg xml:lang="fo">Dømir um, hvussu tillagingarskyldan kann verða framd, er</seg>
             </p>
             <list>
+              <!-- TODO: extract later! -->
               <item>at innrætta rúm ella laga amboð og útgerð til ávísa tørvin,</item>
               <item>at broyta arbeiðsmannagongd,</item>
               <item>broyta arbeiðsbýtið ella starvsinnihaldið ella</item>
@@ -1225,49 +1226,73 @@
           </div>
           <div type="subsection">
             <head rend="bold">Til § 13</head>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 1 </hi>Tá ið brot verður framt á § 6, verða rættindini hjá einum breiðum skara av persónum, sum bera ávísa eyðkennið, skerd, nevniliga øllum teimum, sum í einari ólógligari lýsing verða útihýst frá at søkja.</s>
-              <s xml:lang="fo" cert="high">Tað er ikki møguligt at lata einum breiðum ikki nærri lýstum skara av persónum viðurgjald, og tí verður brot á § 6 revsað við sekt.</s>
-              <s xml:lang="fo" cert="high">Brot á § 6 kann sostatt meldast til løgregluna.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high">Sektaráleggingin fer fram sambært vanligum reglum og kann áleggjast eisini í sambandi við borgarligt rættarsókni, um hetta verður kravt.</s>
-              <s xml:lang="fo" cert="high">Linari revsing kann eisini koma upp á tal sambært vanligum reglum, t.d. ávaring.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 2 </hi>Áseting um revsiábyrgd fyri feløg og aðrar løgfrøðiligar persónar.</s>
-            </p>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 1</head>
+              <p>
+                <s xml:lang="fo" cert="high">Tá ið brot verður framt á § 6, verða rættindini hjá einum breiðum skara av persónum, sum bera ávísa eyðkennið, skerd, nevniliga øllum teimum, sum í einari ólógligari lýsing verða útihýst frá at søkja.</s>
+                <s xml:lang="fo" cert="high">Tað er ikki møguligt at lata einum breiðum ikki nærri lýstum skara av persónum viðurgjald, og tí verður brot á § 6 revsað við sekt.</s>
+                <s xml:lang="fo" cert="high">Brot á § 6 kann sostatt meldast til løgregluna.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Sektaráleggingin fer fram sambært vanligum reglum og kann áleggjast eisini í sambandi við borgarligt rættarsókni, um hetta verður kravt.</s>
+                <s xml:lang="fo" cert="high">Linari revsing kann eisini koma upp á tal sambært vanligum reglum, t.d. ávaring.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 2</head>
+              <p>
+                <s xml:lang="fo" cert="high">Áseting um revsiábyrgd fyri feløg og aðrar løgfrøðiligar persónar.</s>
+              </p>
+            </div>
           </div>
           <div type="subsection">
             <head rend="bold">Til § 14</head>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 1 </hi>Áseting um virkisøki hjá lógini.</s>
-              <s xml:lang="fo" cert="high">Ásetingarnar eru galdandi fyri allan arbeiðsmarknaðin og alt slag av virksemi bæði hjá landi, kommunum, sjálvsognarstovnum, fyritøkum, sjálvstøðugum vinnurekandi, yrkisfeløgum á arbeiðsmarknaðinum o.ø. Eru ásetingar, sum ikki eru í samsvari við lógina, eru tær ikki galdandi.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 2 </hi>Um samsvarandi ella betri vernd er í kollektivum sáttmála á arbeiðsmarknaðinum, er lógin ikki galdandi.</s>
-              <s xml:lang="fo" cert="high">Er eins góð ella betri verja galdandi í kollektivum sáttmála, fylgir tað av sáttmálanum, at mál skulu viðgerast av Fasta Gerðarrætti.</s>
-              <s xml:lang="fo" cert="high">Tilvísingin til § 11, stk. 11 ger tó greitt, at um løntakarin kann prógva, at viðkomandi fakfelag ikki ætlar at fara undir fakrættarliga viðgerð av kravinum, kann løntakarin klaga til klagunevndina.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 3 </hi>Løgtingslóg um javnstøðu millum kvinnur og menn og barsilslógin hava ásetingar, sum seta kvinnuligar arbeiðstakarar í eina betri støðu enn menn.</s>
-              <s xml:lang="fo" cert="high">Hetta er tó ikki í ósamsvari við hesa lóg.</s>
-            </p>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 1</head>
+              <p>
+                <s xml:lang="fo" cert="high">Áseting um virkisøki hjá lógini.</s>
+                <s xml:lang="fo" cert="high">Ásetingarnar eru galdandi fyri allan arbeiðsmarknaðin og alt slag av virksemi bæði hjá landi, kommunum, sjálvsognarstovnum, fyritøkum, sjálvstøðugum vinnurekandi, yrkisfeløgum á arbeiðsmarknaðinum o.ø. Eru ásetingar, sum ikki eru í samsvari við lógina, eru tær ikki galdandi.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 2</head>
+              <p>
+                <s xml:lang="fo" cert="high">Um samsvarandi ella betri vernd er í kollektivum sáttmála á arbeiðsmarknaðinum, er lógin ikki galdandi.</s>
+                <s xml:lang="fo" cert="high">Er eins góð ella betri verja galdandi í kollektivum sáttmála, fylgir tað av sáttmálanum, at mál skulu viðgerast av Fasta Gerðarrætti.</s>
+                <s xml:lang="fo" cert="high">Tilvísingin til § 11, stk. 11 ger tó greitt, at um løntakarin kann prógva, at viðkomandi fakfelag ikki ætlar at fara undir fakrættarliga viðgerð av kravinum, kann løntakarin klaga til klagunevndina.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 3</head>
+              <p>
+                <s xml:lang="fo" cert="high">Løgtingslóg um javnstøðu millum kvinnur og menn og barsilslógin hava ásetingar, sum seta kvinnuligar arbeiðstakarar í eina betri støðu enn menn.</s>
+                <s xml:lang="fo" cert="high">Hetta er tó ikki í ósamsvari við hesa lóg.</s>
+              </p>
+            </div>
           </div>
           <div type="subsection">
             <head rend="bold">Til § 15</head>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 1 </hi>§ 15, stk. 1 er ein áseting, sum heimilar positivum mismuni, tá ið hann verður framdur við heimild í aðrari lóggávu, ella annars av almennum myndugleika, sum setur tiltøk í verk fyri at betra um arbeiðsmøguleikarnar hjá persónum av ávísari rasu, kyni, tjóðskaparligum ella fólkaeyðkenniligum uppruna ella við ávísum húðarliti, átrúnaði ella trúgv, politiskari áskoðan, kynsligum samleika, kynsligari sannføring, aldri ella breki.</s>
-              <s xml:lang="fo" cert="high">Líknandi áseting er í § 1, stk. 2 í løgtingslóg um javnstøðu millum kvinnur og menn.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 2 </hi>Heimild til positivan mismun til frama fyri eldri løntakarar ella persónar við breki.</s>
-            </p>
-            <p>
-              <s xml:lang="fo" cert="high"><hi rend="italic">Stk. 3 </hi>Tað er ikki í ósamsvari við hesa lóg, um tað við lóg ella við heimild í lóg verður sett aldursmark á atgongd til arbeiði.</s>
-              <s xml:lang="fo" cert="high">Orsøkin skal vera at verja børn og yngri arbeiðstakarar.</s>
-              <s xml:lang="fo" cert="high">T.d. er heimild til hetta í løgtingslóg um arbeiðsumhvørvi.</s>
-            </p>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 1</head>
+              <p>
+                <s xml:lang="fo" cert="high">§ 15, stk. 1 er ein áseting, sum heimilar positivum mismuni, tá ið hann verður framdur við heimild í aðrari lóggávu, ella annars av almennum myndugleika, sum setur tiltøk í verk fyri at betra um arbeiðsmøguleikarnar hjá persónum av ávísari rasu, kyni, tjóðskaparligum ella fólkaeyðkenniligum uppruna ella við ávísum húðarliti, átrúnaði ella trúgv, politiskari áskoðan, kynsligum samleika, kynsligari sannføring, aldri ella breki.</s>
+                <s xml:lang="fo" cert="high">Líknandi áseting er í § 1, stk. 2 í løgtingslóg um javnstøðu millum kvinnur og menn.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 2</head>
+              <p>
+                <s xml:lang="fo" cert="high">Heimild til positivan mismun til frama fyri eldri løntakarar ella persónar við breki.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Stk. 3</head>
+              <p>
+                <s xml:lang="fo" cert="high">Tað er ikki í ósamsvari við hesa lóg, um tað við lóg ella við heimild í lóg verður sett aldursmark á atgongd til arbeiði.</s>
+                <s xml:lang="fo" cert="high">Orsøkin skal vera at verja børn og yngri arbeiðstakarar.</s>
+                <s xml:lang="fo" cert="high">T.d. er heimild til hetta í løgtingslóg um arbeiðsumhvørvi.</s>
+              </p>
+            </div>
           </div>
           <div type="subsection">
             <head rend="bold">Til § 16</head>
