@@ -1,0 +1,1073 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um gransking í mannaílegum (ílegulógin)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01" />
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Hans Pauli Strøm</persName>
+            <roleName>landsstýrismaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/12410" />
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2005-03-01">1. mars 2005</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">0.21-2300750/82</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">HV/KP/kwp</cell>
+        </row>
+      </table>
+      <space dim="vertical" />
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical" />
+        <ab rend="bold center">til</ab>
+        <space dim="vertical" />
+        <ab rend="bold center">løgtingslóg um gransking í mannaílegum (ílegulógin)</ab>
+      </ab>
+      <space dim="vertical" />
+      <div type="chapter" n="0">
+        <div n="Kapittul 1">
+          <head rend="bold center">Endamál og allýsingar</head>
+          <div n="Endamál">
+            <head rend="italic">Endamál</head>
+            <div type="bill-section" n="§ 1.">
+              <div n="§ 1. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 1.</label>
+                  <seg xml:lang="fo">Endamálið við lógini er: at verja einstaklingin í sambandi við</seg>
+                  <list>
+                    <item>
+                      <label>1)</label>
+                      <seg xml:lang="fo">ílegugransking, at skapa fortreytir fyri og stimbra</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg xml:lang="fo">gransking í mannaílegum í Føroyum, soleiðis at slík gransking kann vera við til at: menna førleikan at lekja og a. fyribyrgja sjúkum, menna almennu heilsutænastuna. b.</seg>
+                    </item>
+                  </list>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Allýsingar">
+            <head rend="italic">Allýsingar</head>
+            <div type="bill-section" n="§ 2.">
+              <div n="§ 2. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 2.</label>
+                  <seg xml:lang="fo">Í hesi lóg er at skilja:</seg>
+                  <s xml:lang="fo" cert="medium"><hi rend="bold">Ílegugransking: </hi>Lógin fevnir einans um gransking í mannaílegum, sum er tengd at</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Vevnaðarskrá: </hi>Ein biobanki, ið inniheldur vevnað frá menniskjum.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Diagnosuskrá</hi>: Ein skrá av diagnosum, sum heilsuverkið hevur diagnostiserað.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Ættarbandsskrá</hi>: Ættartræ yvir føroyingar.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Vevnaður</hi>: Lívrunnið (organiskt) tilfar, t.d. blóð frá persóni, livandi ella deyðum.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Heilsuupplýsingar</hi>: Upplýsingar, sum fevna um heilsuviðurskifti hjá føroyingum, herundir diagnosur, sjúkuviðgerðir, kanningarúrslit og heilivágsnýtslu.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Navnloynd</hi>: Ávísar dátur eru tiknar burtur, soleiðis at ikki er møguligt at eyðmerkja einstakar persónar.</s>
+                  <s xml:lang="fo" cert="medium">Hesar dátur eru til dømis</s>
+                  <s xml:lang="fo" cert="medium">deyðadagur, føðingarstaður, navn á hjúnafelaga og systkjum og persónsnummar.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">WHO-flokking</hi>: Tann galdandi WHO-flokkingin av sjúkum, nevnd: International Classification of Diseases and Health Related Problems (ICD).</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Heilsuverkið</hi>: Sjúkrahús, kommunulæknar, apoteksverkið og tannlæknar.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Kliniskur ábyrgdarhavari</hi>: Eitt heilsustarvsfólk við løggilding, ið hevur tilknýti til tað føroyska heilsuverkið.</s>
+                  <s xml:lang="fo" cert="high">Kliniski ábyrgdarhavarin hevur ábyrgdina av granskingarætlanini mótvegis einstaklingum og myndugleikum.</s>
+                  <s xml:lang="fo" cert="high">Tann kliniski ábyrgdarhavarin hevur ábyrgdina av, at upplýsingar um fólk, sum verða latnar Ílegusavninum, eru rættar.</s>
+                  <s xml:lang="fo" cert="high">Samskifti við einstaklingar, sum luttaka í granskingarætlanini, gongur bert gjøgnum tann kliniska ábyrgdarhavaran.</s>
+                  <s xml:lang="fo" cert="medium"><hi rend="bold">Persónsupplýsingarlógin</hi>: Ll. nr. 73 frá 08.05.2001 um viðgerð av persónsupplýsingum við seinni broytingum</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Lóg um sjúklingarættindi:</hi> Anordning nr. 827 frá 30.09.2002 om ikrafttræden for Færøerne af lov om patienters retsstilling, við seinni broytingum.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Vísindasiðsemilógin</hi>: Anordning nr. 862 af 30.11.1999 om ikrafttræden for Færøerne af lov om et videnskabsetisk komitésystem og behandling af biomedicinske forskningsprojekter við seinni broytingum.</s>
+                  <s xml:lang="fo" cert="high"><hi rend="bold">Vísindasiðseminevnd Føroya</hi>: Tann í vísindasiðsemilógini nevnda ”Den færøske regionale komité”, ella ”den centrale komité”, um ætlanir verða lagdar til teirra metingar.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 2">
+          <head rend="bold center">Ílegusavnið og einkarættur og</head>
+          <div n="Ílegusavnið">
+            <head rend="italic">Ílegusavnið</head>
+            <div type="bill-section" n="§ 3.">
+              <div n="§ 3. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 3.</label>
+                  <s xml:lang="fo" cert="high">Heimilað verður landsstýrismanninum at stovnseta stovn í heilsuverkinum, nevndur Ílegusavnið, hvørs endamál er at skipa, byggja upp og fyrisita Vevnaðarskránna, Diagnosuskránna og Ættarbandsskránna og viðgera umsóknir um loyvi til at granska í upplýsingum í skráunum.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið hevur heimild til at gera sáttmálar um gransking í upplýsingum í skráunum, undir hesum at krevja gjald fyri tær veitingar og upplýsingar, sum Ílegusavnið gevur atgongd til.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high">Tá Ílegusavnið ger sáttmálar um ílegugransking, skal tað treyta sær, at avtalan stendur undir føroyskum rætti, og at rættarting er í Føroyum/Danmørk.</s>
+                </p>
+              </div>
+              <div n="§ 3. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high">Landsstýrismaðurin hevur heimild til at gera kunngerðir um skipan av Ílegusavninum, og um mannagongdir og trygdar- og fíggjarlig viðurskifti í sambandi við Ílegusavnið.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Einkarættur og sjúklingarættindi">
+            <head rend="italic">Einkarættur og sjúklingarættindi</head>
+            <div type="bill-section" n="§ 4.">
+              <div n="§ 4. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 4.</label>
+                  <s xml:lang="fo" cert="high">Ílegugransking í vevnaði hjá persónum, skrásettum í Føroyum, kann bert verða framd av teimum, sum Ílegusavnið hevur gjørt sáttmála við um gransking.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið hevur einkarætt til at útvega sær, goyma og handfara vevnað og diagnosur til ílegugransking.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high">Ein persónur, sum letur vevnað til Ílegusavnið, skal vera at rokna sum ein sjúklingur í viðgerð eftir lóg um sjúklingarættindi.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high">Sáttmáli um gransking krevur í øllum førum, at til verkætlanina er knýttur ein kliniskur ábyrgdarhavari í føroyska heilsuverkinum.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið hevur rætt at gera avtalu við skikkaðar persónar í heilsuverkinum um at átaka sær klinisku ábyrgdina av ítøkiligum granskingarætlanum.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 6.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 6.</label>
+                  <s xml:lang="fo" cert="high">Landsstýrismaðurin hevur heimild at gera nærri reglur um avtalurnar, sum Ílegusavnið skal gera við klinisku ábyrgdarhavararnar.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 7.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 7.</label>
+                  <s xml:lang="fo" cert="medium">Tann kliniski ábyrgdarhavarin skal vera óheftur fíggjarliga av verkætlanini sum</s>
+                  <s xml:lang="fo" cert="high">Ílegusavninum.</s>
+                </p>
+              </div>
+              <div n="§ 4. Stk. 8.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 8.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið skal í sambandi við ílegugranskingarsáttmálar tryggja virðing fyri mannatign, samleika, sjálvræðisrætti og grundleggjandi frælsisrættindum hins einstaka uttan mannamun.</s>
+                </p>
+              </div>
+            </div>
+            <div type="bill-section" n="§ 5.">
+              <div n="§ 5. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 5.</label>
+                  <s xml:lang="fo" cert="high">Sum grundarlag undir virkseminum liggur tað á Ílegusavninum at stovna og reka Vevnaðar-, Diagnosu- og Ættarbandsskráirnar, við navnloyndum upplýsingum, sum bert Ílegusavnið hevur atgongd til.</s>
+                  <s xml:lang="fo" cert="high">Í sambandi við granskingarsáttmálar hevur Ílegusavnið heimild til at handa tann neyðuga vevnaðin og upplýsingar til granskingarverkætlanir til gransking.</s>
+                </p>
+              </div>
+              <div n="§ 5. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið skal í sáttmálum um gransking altíð tryggja sær, at upplýsingar og vevnaður einans verða nýtt til ta avtalaðu verkætlanina.</s>
+                  <s xml:lang="fo" cert="high">Harumframt skal tryggjast, at vevnaður eftir nýtsluna til verkætlanir antin verður sendur aftur til Ílegusavnið ella fyribeindur.</s>
+                </p>
+              </div>
+            </div>
+            <div type="bill-section" n="§ 6.">
+              <div n="§ 6. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 6.</label>
+                  <s xml:lang="fo" cert="high">Vevnaðar-, Diagnosu-, og Ættarbandsskráirnar skulu leggjast soleiðis til rættis, at innsavning, goymsla, handfaring og nýtsla av skráunum eru fullvæl tryggjaðar og bert verða brúktar til lóglig endamál.</s>
+                </p>
+              </div>
+              <div n="§ 6. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Vevnaðar-, Diagnosu-, og Ættarbandsskráirnar skulu burturav liggja í Føroyum og bert innihalda upplýsingar, sum eru ella kunnu verða viðkomandi fyri ílegugransking.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 3">
+          <head rend="bold center">Vevnaðarskráin, Diagnosuskráin og Ættarbandsskráin</head>
+          <div n="Innsavning til Ílegusavnið">
+            <head rend="italic">Innsavning til Ílegusavnið</head>
+            <div type="bill-section" n="§ 7.">
+              <div n="§ 7. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 7.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið hevur heimild til at útvega sær vevnað, diagnosur og ættarbandsupplýsingar um føroyingar, sum Ílegusavnið metir hava ella kunnu hava týdning fyri ílegugransking.</s>
+                  <s xml:lang="fo" cert="medium">Henda heimild verður at nýta við fyriliti fyri vísindasiðsemilógini,</s>
+                  <s xml:lang="fo" cert="medium">sambandi við flyting av diagnosum frá heilsuverkinum og flyting av ættarbandsskránni yvir í Ílegusavnið.</s>
+                </p>
+              </div>
+              <div n="§ 7. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Heilsuverkið og onnur samstarva eftir nærri avtalu og samsýning við Ílegusavnið um at fáa til vega viðkomandi vevnað og diagnosur.</s>
+                </p>
+              </div>
+              <div n="§ 7. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high">Innsavning av vevnaði frá heilsuverkinum skal avmarkast til ta nøgd, sum Ílegusavnið metir er neyðug til tess at gera kanningarnar.</s>
+                </p>
+              </div>
+              <div n="§ 7. Stk. 4.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 4.</label>
+                  <s xml:lang="fo" cert="high">Tann kliniski ábyrgdarhavarin av einari ávísari granskingarætlan, sum er góðkend av Vísindasiðseminevndini og av Ílegusavninum, hevur rætt til at fáa viðkomandi heilsuupplýsingar frá heilsuverkinum.</s>
+                  <s xml:lang="fo" cert="high">Hetta til tess at tryggja rættleikan av diagnosum o.a.m.</s>
+                </p>
+              </div>
+              <div n="§ 7. Stk. 5.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 5.</label>
+                  <s xml:lang="fo" cert="high">Ílegusavnið útvegar sær upplýsingar til at gera Ættarbandsskránna og hevur í hesum sambandi heimild til at útvega viðkomandi upplýsingar um persónar, skrásettar hjá Landsfólkayvirlitinum, og í skjalatilfari hjá Landsskjalasavninum, eftir nærri avtalu og samsýning.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Goymsla">
+            <head rend="italic">Goymsla</head>
+            <div type="bill-section" n="§ 8.">
+              <div n="§ 8. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 8.</label>
+                  <s xml:lang="fo" cert="high">Av innsavnaðu heilsuupplýsingunum í Diagnosuskránni kunnu bert WHO-flokkaðar diagnosur goymast umframt upplýsingar, sum eru vunnar úr vevnaðinum.</s>
+                  <s xml:lang="fo" cert="high">Í Vevnaðarskránni verður vevnaður goymdur, eisini eftir at vevnaðurin er kannaður.</s>
+                  <s xml:lang="fo" cert="high">Í Ættarbandsskránni verða goymdar upplýsingar um ættarbond.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Nýtsla">
+            <head rend="italic">Nýtsla</head>
+            <div type="bill-section" n="§ 9.">
+              <div n="§ 9. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 9.</label>
+                  <s xml:lang="fo" cert="high">Atgongd hjá Ílegusavninum til nýtslu av skráunum er treytað av, at Ílegusavnið saman við granskingarfyritøku frammanundan hevur fingið eina ílegugranskingarætlan góðkenda av Vísindasiðseminevndini, og kunnað samtykki, sambært lóg um sjúklingarættindi.</s>
+                </p>
+              </div>
+              <div n="§ 9. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="medium">Hóast ásetingarnar í stk. 1 hevur Ílegusavnið atgongd til Diagnosuskránna og Ættarbandsskránna við atliti at útvegan av upplýsingum til heilsufrágreiðingar og</s>
+                  <s xml:lang="fo" cert="medium">forkanningum sum fyrireiking til at gera granskingarsáttmálar.</s>
+                </p>
+              </div>
+            </div>
+            <div type="bill-section" n="§ 10.">
+              <div n="§ 10. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 10.</label>
+                  <s xml:lang="fo" cert="high">Royndir, ið kunnu ávara um arvaligar sjúkur, ella sum antin kunnu eyðmerkja ein persón sum berara av eini arvaeind, ið er orsøkin til eina sjúku, ella avdúka eina arvaeind, ið ger ein persón íbæran fyri eini sjúku, mugu bert fremjast av heilsuávum ella í sambandi við heilsulig endamál og við hóskandi arvafrøðiligari ráðgeving sum fyritreyt.</s>
+                </p>
+              </div>
+              <div n="§ 10. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Ein og hvør mannamunur móti einum persóni, grundaður á hansara íleguarv, er bannaður.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+          <div n="Avhending/rættarsókn">
+            <head rend="italic">Avhending/rættarsókn</head>
+            <div type="bill-section" n="§ 11.">
+              <div n="§ 11. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 11.</label>
+                  <s xml:lang="fo" cert="high">Vevnaðar-, Diagnosu-, og Ættarbandsskráirnar kunnu ikki avhendast til ognar ella trygdar, hvørki heilt ella partvíst, og úttøka ella panting kunnu ikki fremjast í upplýsingum ella vevnaði o.ø.m.</s>
+                </p>
+              </div>
+            </div>
+            <div type="bill-section" n="§ 12.">
+              <div n="§ 12. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 12.</label>
+                  <s xml:lang="fo" cert="high">Brot á hesa lóg ella reglur, sum ásettar eru við heimild í lógini, verða revsað við bót, hefti ella fongsli upp til 3 ár, um ikki strangari revsing er heimilað í aðrari lóggávu.</s>
+                </p>
+              </div>
+              <div n="§ 12. Stk. 2.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 2.</label>
+                  <s xml:lang="fo" cert="high">Feløg o.o. (løgfrøðiligir persónar) kunnu koma undir revsiábyrgd eftir reglunum í kapitli 5 í revsilógini.</s>
+                </p>
+              </div>
+              <div n="§ 12. Stk. 3.">
+                <p rend="bill-text">
+                  <label rend="italic">Stk. 3.</label>
+                  <s xml:lang="fo" cert="high">Fyri brot á § 4 kann hald verða lagt á allan vevnað og á allar diagnosur.</s>
+                </p>
+              </div>
+            </div>
+            <div type="bill-section" n="§ 13.">
+              <div n="§ 13. Stk. 1.">
+                <p rend="bill-text">
+                  <label rend="bold">§ 13.</label>
+                  <s xml:lang="fo" cert="high">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kap. 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <seg xml:lang="fo"><hi rend="italic underline">Endamálið við lógaruppskotinum o.a.m. </hi>Gransking í ílegum hevur <hi rend="italic">helst</hi> við sær:</seg>
+          </p>
+          <list>
+            <item><label>1.</label> skjótari diagnosur og harvið skjótari viðgerð</item>
+            <item><label>2.</label> virknari heilivág</item>
+            <item><label>3.</label> viðgerð við minni hjáárinum</item>
+            <item><label>4.</label> betri heilsutænastu</item>
+          </list>
+        </div>
+        <div type="section">
+          <head rend="italic underline">Hví hesa lóg um Ílegugransking?</head>
+          <p>
+            <s xml:lang="fo" cert="high">Tað tilfeingið, sum verður granskað, er ikki sum ymiskt annað tilfeingið.</s>
+            <s xml:lang="fo" cert="high">Í hesum føri lata einstaklingar vevnað og verða kannaðir fyri møguligar álvarsligar sjúkur.</s>
+            <s xml:lang="fo" cert="high">Økið, sum lógin fevnir um, er ílegugransking tengd at ættartræi, og júst hetta økið er valt, tí at hesar kanningar metast at vera serliga viðbreknar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Á hesum øki er avgjørt, at til hvørja verkætlan krevst ein persónur í føroyska heilsuverkinum, sum kann virka sum sambindingarliður millum einstaklingar og granskarar.</s>
+            <s xml:lang="fo" cert="high">Hesin persónur skal upplýsa einstaklingin um, hvat kanningin ber við sær, og fáa greiðu á, um einstaklingurin eftir gjølligar upplýsingar ynskir at vera við – samstundis sum einstaklingurin skal metast sum ein sjúklingur við ásettum sjúklingarættindum.</s>
+            <s xml:lang="fo" cert="high">Henda treyt í Ílegulógini um kliniskan ábyrgdarhavara í heilsuverkinum, er sett fyri at tryggja mannatign og sjálvræðisrættin hjá tí einstaka, og er ein sera umráðandi táttur í lógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Ein umráðandi partur av tilfeinginum, sum nýtast skal, tá talan er um ílegugransking, ið er tengd at ættartrænum, eru diagnosurnar, sum longu finnast í tí føroyska heilsuverkinum.</s>
+            <s xml:lang="fo" cert="high">Diagnosurnar eru gjørdar í mong ár, við tað at tað føroyska samfelagið hevur goldið fyri eitt heilsuverk, soleiðis at læknar og onnur hava arbeitt, og diagnosur eru gjørdar og goymdar.</s>
+            <s xml:lang="fo" cert="high">Hildið verður tí, at tað er hóskandi og skilagott at tryggja heilsuverkinum samsýning, um so er, at tilfeingið skal nýtast til gransking, sum hevur við sær inntøkur.</s>
+            <s xml:lang="fo" cert="high">Hetta verður gjørt, fyri at møguleiki er at styrkja heilsuverkið og fáa inntøkur til framhaldandi rakstur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Føroyingar hóska væl til ílegugransking.</s>
+            <s xml:lang="fo" cert="high">Fólkið, ið her býr, er einsháttað, tá talan er um arvaligar eginleikar, við tað at fólkið í høvuðsheitum stavar frá nøkrum fáum landnámsmonnum í 9. øld.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Fólkatalið er síðani tá vaksið uttan stórvegis ávirkan uttanífrá.</s>
+            <s xml:lang="fo" cert="high">Hartil er at siga, at ættartræ føroyinga er lutfalsliga fullfíggjað í fleiri hundrað ár sammett við onnur lond, av tí at kirkjubøkur, jarðarbøkur og aðrar skrivligar keldur finnast.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Harumframt hevur skrásetingin av sjúkum og sjúklingum verið góð gjøgnum tíðina.</s>
+            <s xml:lang="fo" cert="high">Av hesum orsøkum munnu Føroyar vera áhugaverdar hjá bæði almennum granskingarstovnum og privatum fyritøkum, ið takast við ílegugransking, við ættarfrøði sum grundarlagi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Endamálið við lógini er sostatt at gera arvatilfeingið hjá føroyingum atkomuligt hjá granskarum á ein tílíkan hátt, at tann einstaki kann kenna seg heilt tryggan í sambandi við granskingina.</s>
+            <s xml:lang="fo" cert="high">Eisini er endamálið við lógini, at bæði Føroyar sum land og granskarar fáa sum mest burturúr tilfeinginum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="medium">vera við til at hjálpa mannaættini at fáa innlit í álvarsligar sjúkur, sum í dag plága hópin av fólki kring allan heim.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Ílegugransking í Føroyum kann hava við sær positiv árin á bæði heilsuverkið og aðra gransking í Føroyum, tað veri seg innan teldufrøði, hagfrøði, læknafrøði – ikki minst djóralækna- og fiskadjóralæknafrøði, lívfrøði og aðrar tílíkar vísindagreinir.</s>
+            <s xml:lang="fo" cert="high">Hesi útlit kunnu væntandi verða við til at fjøltátta føroyskt vinnulív og harvið fáa fíggjarligan týdning fyri samfelagið.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="bold">Samanumtikið</head>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Samanumtikið</hi> skipar lógin Ílegusavnið, ið skal skipa, byggja upp og fyrisita Vevnaðarskránna, Diagnosuskránna og Ættarbandsskránna og viðgera umsóknir um loyvi at granska í skráunum.</s>
+            <s xml:lang="fo" cert="high">Talan er sostatt um, at Ílegusavnið stendur fyri at savna saman skráirnar, so tær eru teldutøkar og atkomuligar, samstundis sum tryggjað verður, at partur av møguligum ágóða av granskingini verður føroyska samfelagnum at gagni.</s>
+            <s xml:lang="fo" cert="high">Viðvíkjandi vísindasiðsemiviðurskiftum og persónsverndarspurningum leggur lógin alt virksemi undir fult eftirlit hjá Vísindasiðseminevndini og Dátueftirlitinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Fyri at Ílegusavnið skal kunna byrja sítt virksemi, er tørvur á, at tann eina skráin, Ættarbandsskráin, verður bygd út, so hon verður fullfíggjað, í fyrstu syftu fyri eitt ávíst tíðarskeið.</s>
+            <s xml:lang="fo" cert="high">Nær vevnaðar- og diagnosuskráirnar verða lidnar, er treytað av fígging og av, hvussu landsins myndugleikar velja at raðfesta arbeiðið við skráunum.</s>
+          </p>
+          <div type="subsection">
+            <head rend="italic underline">Galdandi lóggáva</head>
+            <p>
+              <s xml:lang="fo" cert="high">Umráðandi í arbeiðinum við hesi lóg hevur verið, at lóggávan ikki er í andsøgn við galdandi rættarligar ásetingar innan tey ymsu økini, og at lógin leggur seg fult undir tann tryggleika, sum onnur lóggáva ásetur.</s>
+              <s xml:lang="fo" cert="high">Her verður fyrst og fremst hugsað um vísindasiðsemilógina og um persónsupplýsingarlógina.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Her skal dentur verða lagdur á, at lógaruppskotið ikki bert er í samsvari við galdandi reglur í Føroyum, men eisini er í samsvari við altjóða reglur, hóast hesar ikki eru settar í gildi í Føroyum enn.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Tær reglur, sum eru galdandi fyri Føroyar, og sum hava týdning fyri hetta uppskotið, eru:</seg>
+            </p>
+            <list>
+              <item><label>1.</label> Heimastýrislógin.</item>
+              <item><label>2.</label> Lov nr. 316 af 17. maj 1995 om sundhedsvæsenet på Færøerne.</item>
+              <item><label>3.</label> Ll. nr. 89 frá 4. juni 1996 um Sjúkrahúsverk Føroya.</item>
+              <item><label>4.</label> Ll. nr. 73 frá 8. mei 2001 um viðgerð av persónsupplýsingum (persónsupplýsingarlógin).</item>
+              <item><label>5.</label> Vísindasiðsemilógin (Anordning nr. 862 af 30.11.99 om et videnskabsetisk komitésystem og behandling af biomedicinske forskningsprojekter).</item>
+              <item><label>6.</label> Mannarættindasáttmálin (Convention for the Protection of Human Rights and Fundamental Freedoms).</item>
+              <item><label>7.</label> Anordning nr. 827 frá 30. september 2002 om ikrafttærden for Færøerne af lov om patienters retsstilling.</item>
+            </list>
+            <p>
+              <seg xml:lang="fo">Av øðrum rættarreglum kunnu nevnast:</seg>
+            </p>
+            <list>
+              <item><label>1.</label> Convention on Human Rights and Biomedicin, Oviedo, 4. april 1997. (Bekendtgørelse af Europarådets konvention af 4. april 1997 om menneskerettigheder og biomedicin).</item>
+              <item><label>2.</label> Recommendation No. R (97) 5 of the committee of ministers to member states on the Research Involving Human Subjects).</item>
+              <item><label>4.</label> Lov om patienters retsstilling (Lbk. nr. 272 af 19. april 2001).</item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high">Sum ásett í § 4, stk. 8 er ein ytri karmur lagdur um alla ílegugransking í Føroyum.</s>
+              <s xml:lang="fo" cert="high">Greinin tekur støði í altjóða rættarligum reglum, m.a. Mannarættindasáttmálanum, umframt øðrum sáttmálum, sum nevndir eru omanfyri.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ílegusavnið skal tí í virksemi sínum virða mannatign, samleika, sjálvræðisrætt og grundleggjandi frælsisrættindi hins einstaka uttan mannamun, sum tað er nevnt í § 4, stk. 8.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Heimastýrislógin inniheldur ikki reglur, sum verða settar til viks eftir hesi lóg.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Samstundis verður víst til lógirnar um sjúkrahúsverkið, sum eru við til at geva Løgtinginum málsræði.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic underline">Eitt sindur um ílegugransking</head>
+            <p>
+              <s xml:lang="fo" cert="high">Ílegugransking, sum ætlanin er at skipa og geva loyvi til, hevur til endamáls at staðfesta, hvar á arvastronginum grundirnar til eina sjúku ella til brek møguliga sita.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tað ber í dag til við framkomnari útgerð at kanna allan arvastrongin.</s>
+              <s xml:lang="fo" cert="high">Hetta er ein rættiliga nýggjur møguleiki, tí tøknin, sum talan er um, hevur bert fá ár á baki.</s>
+              <s xml:lang="fo" cert="high">Tað hevur havt við sær, at um allan heim verður nú roynt at staðfesta, hvar á arvastronginum orsøkin ella orsøkirnar til sjúkur sita.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Hetta verður gjørt fyri betur at skilja, hvussu mannakroppurin virkar, serliga í vónini um, at nýggjur og munadyggur heilivágur móti sjúku ella breki kann framleiðast, tá vit hava hesa vitan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Mannakroppurin er samansettur av evarska smáum <hi rend="italic">kyknum</hi>.</s>
+              <s xml:lang="fo" cert="high">Hesar kyknur hava í sær eina <hi rend="italic">kjarnu</hi>, sum inniheldur 46 <hi rend="italic">kromosom</hi>.</s>
+              <s xml:lang="fo" cert="high">Helvtin av hesum kromosomum eru frá faðiri og helvtin frá móður.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ein <hi rend="italic">ílega </hi>(eitt gen) er ein partur av kromosominum, sum svarar fyri einum arvaligum eginleika í likaminum.</s>
+              <s xml:lang="fo" cert="high">Í kromosomunum er ein langur tvíspunnin strongur, sum vit rópa <hi rend="italic">DNA.</hi></s>
+              <s xml:lang="fo" cert="high">Hesin arvastrongur er at samanbera við ein langan samanhangandi tekst, sum er skrivaður við bert 4 bókstavum.</s>
+              <s xml:lang="fo" cert="high">Teir fýra bókstavirnir svara til fýra kemisk evni, vanliga stytt til <hi rend="italic">A, T, G og C.</hi></s>
+              <s xml:lang="fo" cert="high">Tað er raðfylgjan av hesum evnum, sum avger, hvussu aminosýrur verða settar saman til eggjahvítaevni (protein).</s>
+              <s xml:lang="fo" cert="high">Eggjahvítaevnini stýra so í øðrum lagi, hvussu kyknan starvar.</s>
+              <s xml:lang="fo" cert="high">Og kyknurnar stýra likaminum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Granskingin kann fara fram á ymsan hátt.</s>
+              <s xml:lang="fo" cert="high">Ein av hesum hættum er tann, sum byggir á vitan um ættarbond.</s>
+              <s xml:lang="fo" cert="high">Føroyar eru í tí hepnu støðu, at tær eru væl egnaðar til hetta slag av gransking, tí vit hava verið so avbyrgd gjøgnum øldir.</s>
+              <s xml:lang="fo" cert="high">Hetta hevur við sær, at flestu føroyingar onkursvegna eru í ætt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tey umleið fimm túsund fólkini, sum búðu her fyri 2-300 árum síðani, eru nú tíggju faldað í tali, men arvurin er tann sami.</s>
+              <s xml:lang="fo" cert="high">Hetta ger, at í Føryum eins og í Íslandi eru serliga góðir møguleikar at gera hetta kanningararbeiði.</s>
+              <s xml:lang="fo" cert="high">Onnur avbyrgd samfeløg hava helst somu góðu fortreytir, men har kann trupulleikin vera, at teirra heilsuverk ikki hevur haft og/ella hevur so gott skil á, hvat fólki bagir, ella sagt á annan hátt, teirra diagnosur eru ikki so neyvar.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic underline">Søguligt yvirlit</head>
+            <p>
+              <s xml:lang="fo" cert="high">Gransking innan arvaeginleikar er ikki nakað nýtt fyribrigdi.</s>
+              <s xml:lang="fo" cert="high">Menniskjuni hava leingi eygleitt ættarbregi bæði hjá sínum medmenniskjum og hjá djórum og plantum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tað var Georg Mendel, sum um miðju 19. øld legði lunnar undir vísindaliga arvafrøði við sínum kanningum av, hvussu plantur arva eginleikar.</s>
+            </p>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="italic">Í 1900</head>
+            <p>
+              <s xml:lang="fo" cert="high">Í <hi rend="italic">1900</hi> fann Landsteiner blóðflokkarnar AB0, og í 1911 vísti tað seg, at hesir blóðflokkar arvast eftir tí leisti, sum Mendel ásetti.</s>
+            </p>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="italic">Í 1902</head>
+            <p>
+              <s xml:lang="fo" cert="high">Í <hi rend="italic">1902</hi> fingu Sutton og Boveri skil á, at tað eru kromosomini (kjarnutræðrir í kyknukjarna), sum eru berarar av arvaeginleikunum.</s>
+            </p>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="italic">1944</head>
+            <p>
+              <s xml:lang="fo" cert="medium"><hi rend="italic">1944</hi> var árið, tá Avery og starvsfólk hansara almannakunngjørdu, at arvur var tengdur at einum evni, sum vit vanliga rópa DNA, sum er ein stytting av tí enska deoxyribonucleic acid.</s>
+            </p>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="italic">Í 1953</head>
+            <p>
+              <s xml:lang="fo" cert="high">Í <hi rend="italic">1953</hi> fingu Watson og Crick skil á, at DNA er ein tvíspunnin strongur, settur saman av 4 basupørum.</s>
+              <s xml:lang="fo" cert="high">Eftir hetta tók arvafrøðin rættiliga dik á seg.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Størsta verkætlanin yvirhøvur innan ílegugransking er sonevnda HUGO-ætlanin (Human Genome Project), sum byrjaði 1990 og var liðug í 2001.</s>
+              <s xml:lang="fo" cert="high">Henda verkætlan varð sett í gongd í USA, og høvuðsendamálið var at kortleggja allar ílegur menniskjans og almannakunngera úrslitið, soleiðis at einhvør við áhuga fyri hesum kundi nýta úrslitið.</s>
+              <s xml:lang="fo" cert="high">Verkætlanin vísti, at menniskjan hevur umleið 30.000 ílegur.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold underline">Ummæli</head>
+          <p>
+            <s xml:lang="fo" cert="high">Lógaruppskotið hevur verið til hoyringar hjá Dátueftirlitinum, Vísindasiðseminevndini, Føroya landfúta, Ríkisumboðnum, Landssjúkrahúsinum, Klaksvíkar sjúkrahúsi, Suðuroyar sjúkrahúsi, Landsapotekaranum, Granskingarráð Føroya, Fróðskaparsetur Føroya, Løgmansskrivstovuni, Innlendismálaráðnum, Mentadeildini í Mentamálaráðnum, Vinnudeildini í Vinnumálaráðnum, Fíggjarmálaráðnum, Fiskimálaráðnum, Landsskjalasavninum, Føroya Stiftsstjórn, Føroya Gjaldstovu, Læknafelag Føroya, Kommunulæknafelagnum, Felagnum hjá yngri læknum, Felagnum Føroyskir Sjúkrarøktarfrøðingar, MBF, Diabetesfelagnum og Vinnuhúsinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Almanna- og heilsumálaráðið hevur fingið 19 hoyringssvar.</s>
+            <s xml:lang="fo" cert="high">Ein samanskriving av hoyringssvarunum er hjáløgd sum skjal 1.</s>
+            <s xml:lang="fo" cert="high">Hoyringssvarini eru tikin til eftirtektar í tann mun, hetta letur seg gera.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kap. 2.</label> Avleiðingarnar av uppskotinum</head>
+        <div type="section">
+          <head rend="bold">Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur fíggjarligar avleiðingar við sær fyri landið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="italic underline">Hvat viðvíkur útreiðslum fyrsta árið er at viðmerkja: </hi>Tað verður neyðugt at skipa <hi rend="bold">Ættarbandsskránna</hi>, soleiðis at ættarbondini verða lýst í teldutøkum líki, í fyrsta umfari frá umleið ár 1800 og til í dag.</s>
+            <s xml:lang="fo" cert="high">Mett verður, at tað fer at krevja umleið trý ársverk við fólki, sum eru køn í søgu, ættargransking og teldu.</s>
+            <s xml:lang="fo" cert="high">Harumframt verður at fara í gongd við ítøkiligar granskingarætlanir.</s>
+            <s xml:lang="fo" cert="high">Tó er ætlanin at byrja við at gera ættarbandsskránna fyri 19. og 20. øld í fyrstu syftu.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Annað meginøki er at skipa so fyri, at <hi rend="bold">Diagnosuskráin</hi> verður dagførd, góðskumett og skipað, soleiðis at trygd verður fyri, at upplýsingarnar eru rættar og nýtiligar – eisini í granskingarhøpi.</s>
+            <s xml:lang="fo" cert="high">Mettar útreiðslur til hetta arbeiðið eru umleið 1 mió. krónur.</s>
+            <s xml:lang="fo" cert="high">Diagnosuskráin kann savnast og gerast teldutøk so við og við, sum peningur kemur inn ella verður játtaður.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Útvegast má neyðugur útbúnaður til at gera eitt navnloynt og trygt <hi rend="bold">vevnaðarsavn.</hi></s>
+            <s xml:lang="fo" cert="high">Harumframt krevst starvsstovuútbúnaður til at taka út DNA úr vevnaðinum, soleiðis at ikki meira enn neyvt avtalaður partur av vevnaði verður latin teimum einstøku granskingarverkætlanunum.</s>
+            <s xml:lang="fo" cert="high">Mettur kostnaður til hetta er umleið 1 mió. krónur.</s>
+            <s xml:lang="fo" cert="high">Vevnaðarsavnið kann eins og diagnosuskráin savnast og gerast teldutøk so við og við, sum peningur kemur inn ella verður játtaður.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Neyðugt verður at <hi rend="bold">kryptera</hi> nøvnini í diagnosuskránni, ættarbandsskránni og vevnaðarskránni, soleiðis at sami persónur fær sama loyniheiti í teimum trimum skráunum.</s>
+            <s xml:lang="fo" cert="high">Uttan hetta ber ikki til at bera saman skráirnar.</s>
+            <s xml:lang="fo" cert="high">Hetta krypteringsarbeiðið skal fara fram uttan fyri Ílegusavnið.</s>
+            <s xml:lang="fo" cert="high">Mettar útreiðslur til ta fyrstu krypteringina eru umleið 0,5 mió. krónur.</s>
+            <s xml:lang="fo" cert="high">Síðani verða hesar útreiðslur goldnar av teimum einstøku verkætlanunum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Til <hi rend="bold">Ílegusavnið sjálvt</hi> er neyðugt at nýta pening til lønir, men eisini til skrivstovuhald.</s>
+            <s xml:lang="fo" cert="high">Hugsanin er, at ein føst kjarna av starvsfólki skal tryggja framhaldið, men annars skulu so nógvar tænastur, sum til ber, keypast uttanífrá, t.d. løg-, búskapar-, og hagfrøði osfr. Mett verður, at árligu útreiðslurnar verða umleið 3 mió. krónur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Tilsamans er talan um umleið 8,5 mió. krónur, og má hetta metast sum ein minstamarksjáttan fyri at fáa gongd á virksemið.</s>
+            <s xml:lang="fo" cert="high">Eftir umleið eitt ár, tá neyðugu skráirnar osfr. eru stovnsettar, er ætlanin, at virksemið skal fíggjast við inntøkum frá verkætlanum, ið væntandi verða settar í gongd.</s>
+            <s xml:lang="fo" cert="high">Sostatt er ætlanin, at Ílegusavnið, tá verkætlanirnar byrja at kasta pening av sær, ikki skal fáa pengar úr landskassanum, men einans verða fíggjað við inntøkum frá granskingarfyritøkum og granskingarstovnum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur eisini við sær avleiðingar fyri m.a. heilsuverkið, við tað at heilsuverkinum verða álagdar ymsar uppgávur.</s>
+            <s xml:lang="fo" cert="high">T.d. liggur tað á heilsuverkinum at savna og skipa sjúkraskráir, vevnað og heilivágsupplýsingar smb. nærri avtalu og samsýning.</s>
+            <s xml:lang="fo" cert="high">Hetta skal Ílegusavnið í fyrstu syftu gjalda, men verða útreiðslurnar so goldnar aftur av granskingarfyritøkunum, ið hava gjørt sáttmála við Ílegusavnið.</s>
+            <s xml:lang="fo" cert="high">Gjaldið til heilsuverkið kann eitt nú vera, at ein deild fær pening frá Ílegusavninum til at seta tíðaravmarkað eyka skrivstovufólk ella fær pening til, at eitt starvsfólk tekur á seg ábyrgd sum kliniskur ábyrgdarhavari.</s>
+            <s xml:lang="fo" cert="high">Stutt sagt fær deildin eyka pening til at taka á seg nýggjar uppgávur, soleiðis at teirra vanligu uppgávur ikki verða fyri vanbýti.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Harumframt er álagt Landsfólkayvirlitinum og Landsskjalasavninum at lata upplýsingar til Ílegusavnið smb. nærri avtalu og samsýning, sum skulu vera ein partur av grundarlagnum undir Ættarbandsskánni.</s>
+            <s xml:lang="fo" cert="high">Ætlanin er, at tann samsýningin skal verða goldin av játtanini fyri 2005, men framtíðar viðlíkahald, víðkan og menning av ættarskránni verða síðani goldnar gjøgnum granskingarverkætlanir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="italic underline">Hvat viðvíkur inntøkum er at viðmerkja: </hi>Sum nevnt omanfyri, eru tað helst fleiri, sum fáa møguleikan at granska innan ávísar sjúkur við støði í føroyska arvatilfeinginum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Ilt er at meta um, hvørjar inntøkur Ílegusavnið fær komandi árini, tí Ílegusavnið í fyrstu atløgu má útvega granskingargrundarlagið – Vevnaðarskránna, Diagnosuskránna og Ættarbandsskrá føroyinga.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Men tað er eyðsæð, at fyrr ella seinni ger Ílegusavnið granskingarsáttmálar, sum kunnu hava við sær inntøkur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Tað er ikki órímiligt at rokna við, at kravt verður av granskarum, at ein partur av teirra virksemi fer fram í Føroyum, og at teir soleiðis leggja nakað eftir seg, m.a. hvat viðvíkur skatti her á landi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Roknað verður eisini við, at tørvur verður á at keypa tænastur í Føroyum, sum sostatt eisini verða við til bøta um inntøkur landskassans.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Ílegugranskingin fær eisini stóran týdning fyri aðra gransking í landinum.</s>
+            <s xml:lang="fo" cert="high">Serliga kunnu kynsbótaarbeiðið og sjúkufyribyrging innan alivinnuna fáa væl burturúr hesi gransking, og hetta hevur so aftur við sær øktar inntøkur til landskassan.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high">Neyðugt verður at skipa stovnin Ílegusavnið, og harumframt er talan um umsitingarligar avleiðingar og uppgávur fyri heilsuverkið.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Aðrar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high">Mett verður ikki, at lógaruppskotið fær sosialar ella umhvørvisligar avleiðingar ella avleiðingar í mun til altjóða sáttmálar.</s>
+          </p>
+          <div type="subsection">
+            <head rend="italic underline">Yvirlit yvir avleiðingar</head>
+            <p>
+              <s xml:lang="fo" cert="medium">Fyri landið/lands- myndugleikar Fyri kommunalar myndugleikar Fyri pláss/øki í landinum Fyri ávísar sam- felagsbólkar/ felagsskapir Fyri vinnuna Fíggjarligar/ búskaparligar avleiðingar Ja Nei Nei Nei Ja Umsitingarligar avleiðingar Ja Nei Nei Nei Nei Umhvørvisligar avleiðingar Nei Nei Nei Nei Nei Avleiðingar í mun til altjóða avtalur og reglur Nei Nei Nei Nei Nei Sosialar <hi rend="underline">avleiðingar </hi>Nei</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kap. 3.</label> Serligar viðmerkingar</head>
+        <div type="section">
+          <head rend="bold">Til § 1</head>
+          <p>
+            <s xml:lang="fo" cert="high">Greinin lýsir høvuðsendamálið við lógini.</s>
+            <s xml:lang="fo" cert="high">Greinin hevur 2 høvuðstættir, sum eru raðfestir soleiðis, at tann týdningarmesti er fyrstur, nevniliga verjan hjá tí einstaka.</s>
+            <seg xml:lang="fo">Hesir báðir tættirnir kunnu í stuttum lýsast soleiðis:</seg>
+          </p>
+          <div type="subsection">
+            <head rend="italic">Verja</head>
+            <p>
+              <s xml:lang="fo" cert="high">Sum nevnt í almennu viðmerkingunum er tað ein meginregla í flestu londum, at granskingin er fræls, og at ikki eru settir lógarkarmar, sum avmarka granskingarfrælsið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Í løtuni eru sum heild ongar avmarkingar í rættinum til at granska, burtur sæð frá lívfrøðiligari gransking.</s>
+              <s xml:lang="fo" cert="high">Á hesum serliga øki krevst loyvi frá m.a. Vísindasiðseminevndini og Dátueftirlitinum.</s>
+              <s xml:lang="fo" cert="high">Mett verður, at verjan hjá einstaklingunum eigur at styrkjast, soleiðis at trygdin hereftir er á so høgum stigi, sum til ber, m.a. við at tryggja, at gransking einans fer fram í navnloyndum upplýsingum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Fortreytirnar</head>
+            <p>
+              <s xml:lang="fo" cert="high">Tað er greitt, at ílegugransking er sera krevjandi, bæði hvat viðvíkur fíggjarligari orku og sjálvum granskingarførleikanum.</s>
+              <s xml:lang="fo" cert="high">Harumframt krevst stórt álit og vælvild frá øllum teimum, sum á ein ella annan hátt verða biðin um at taka lut í hesi gransking.</s>
+              <s xml:lang="fo" cert="high">Granskingin skal tí fara fram í einum høpi, ið er samskipaðður á ein hátt, sum øll kunnu kenna seg tryggan við.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Fyri at skapa forteytir fyri gransking verður stovnaður ein miðsavnaður, samskipandi stovnur í heilsuverkinum, Ílegusavnið, ið ger avtalur við áhugaðar og skikkaðar granskarar o.a.m. at granska í upplýsingunum, undir strongum krøvum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ílegugransking krevur fakligan førleika á sera høgum stigi.</s>
+              <s xml:lang="fo" cert="high">Bæði tá tað ræður um lívfrøði, teldufrøði, hagfrøði, læknafrøði og aðrar vísindagreinar.</s>
+              <s xml:lang="fo" cert="high">Føroyar hava í dag nakað av førleika á hesum øki.</s>
+              <s xml:lang="fo" cert="high">Ætlanin er í so stóran mun sum gjørligt at krevja, at gransking skal fara fram í Føroyum og harvið menna vitanarstigið í Føroyum og tryggja vinnuliga menning.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 2</head>
+          <p>
+            <s xml:lang="fo" cert="high">Fyri at sleppa undan endurtøkum av longum orðalýsingum og fyri at gera lógartekstin neyvari og lættari at lesa, eru nøkur afturvendandi hugtøk allýst.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 3</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Tað er ikki neyðugt hjá landsstýrismanninum at hava eina lógarheimild fyri at skipa ein almennan stovn.</s>
+              <s xml:lang="fo" cert="high">Hóast hetta er tað á líknandi økjum, m.a. av trygdarávum, vanligt at skipa stovnar, soleiðis at Løgtingið longu frá byrjan setur karmarnar um stovnin (t.d. í fjarskiftislóggávuni).</s>
+              <s xml:lang="fo" cert="high">Hetta hevur við sær, at samstundis sum nýggja lógin verður samtykt, verða karmarnir fyri stovnin, ið skal umsita lógina, lýstir.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Høvuðsendamálið hjá Ílegusavninum er at skapa skráirnar, ið eru fortreytirnar fyri granskingini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Karmurin um lógina er soleiðis, at tíðar- og fíggjarútlit ikki eru løgd føst.</s>
+              <s xml:lang="fo" cert="high">Hetta skal skiljast soleiðis, at tað er ein avgerð fyri politiska myndugleikan, hvussu stór játtanin verður at byrja við og harvið hvussu víðfevndar tær ymisku skráirnar verða, og hvussu skjótt, tær verða gjørdar tøkar.</s>
+              <s xml:lang="fo" cert="high">Jú skjótari Ættarbandsskráin er tøk, jú skjótari kunnu granskingarverkætlanir fara í gongd.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Hugsanin er, at stovnurin hevur ein leiðara og skrivstovuhald, men at allar tænastur annars verða verður gjørd av fólki við kunnleika til ílegusøvn og spurningar hesum viðvíkjandi.</s>
+              <s xml:lang="fo" cert="high">Sostatt verða eftir ætlan ikki mong starvsfólk í Ílegusavninum sum so, men heldur verða tænastur keyptar uttanífrá, so hvørt sum tørvur er á tí.</s>
+              <s xml:lang="fo" cert="high">Eisini kunnu tíðaravmarkað størv verða nýtt.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Sum nevnt undir almennu viðmerkingunum, verður ílegugransking í stóran mun framd av stórum heilivágsfyritøkum og granskingarstovnum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tað krevur stórar útreiðslur at uppbyggja skráirnar hjá Ílegusavninum.</s>
+              <s xml:lang="fo" cert="high">Tí verður ein grundleggjandi fortreyt, at áhugaðir granskarar skulu lata viðurlag fyri tær upplýsingar, teir ynskja at granska í.</s>
+              <s xml:lang="fo" cert="high">Hetta hevur við sær, at Ílegusavnið fer at seta sum treyt fyri at gera sáttmála, at nærri tilskilaðar upphæddir verða goldar Ílegusavninum fyri atgongdina til at granska í upplýsingunum.</s>
+              <s xml:lang="fo" cert="high">Her verður bæði talan um gjøld til landið, goldin sum forskot, fyri at byggja upp og eftirkanna skráirnar, eins og krav um part av inntøkum, ið møgulig kanningarúrslit kunnu hava við sær, sonevnd royalty-gjøld.</s>
+              <s xml:lang="fo" cert="high">Undir útreiðslum, sum Ílegusavnið eftir ætlan krevur gjald fyri, verða eitt nú gjald fyri tann kliniska ábygdarhavaran, sum Ílegusavnið rindar løn til, sí § 4, stk. 7 og serligu viðmerkingarnar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Hetta merkir, at víðfevndir sáttmálar við løgfrøðiligum, fíggjarligum og biotøkniligum treytum skulu gerast í hvørjum einstøkum føri, ið skulu tryggja áhugamálini hjá Ílegusavninum.</s>
+              <s xml:lang="fo" cert="high">Áhugamálini hjá Ílegusavninum eru m.a. at tryggja sjálvberandi rakstur av Ílegusavninum, samsýning til heilsuverkið og Landsskjalasavnið, gransking í Føroyum í stórst møguligan mun og menning av føroyska heilsuverkinum, umframt møguligar royalty-inntøkur.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 3</head>
+            <p>
+              <s xml:lang="fo" cert="high">Rættiliga stórur munur er á norðurlendskum rættarskipanum og rættarskipanum í øðrum londum.</s>
+              <s xml:lang="fo" cert="high">Hetta kann hava við sær ósemjur um, hvat galdandi rættur er.</s>
+              <s xml:lang="fo" cert="high">Tí verður staðfest, at allir sáttmálar stovnsins skulu orðast í samsvari við føroyskan rætt.</s>
+              <s xml:lang="fo" cert="high">Sum eyka vernd er eisini ásett, at rættartingið verður føroyskt/danskt.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 4</head>
+            <p>
+              <s xml:lang="fo" cert="high">Fyri at skipa stovnin eftir heilt føstum og almennum mannagongdum, verður givin heimild til landsstýrismannin at geva nærri kunngerðir um at skipa stovnin.</s>
+              <s xml:lang="fo" cert="high">Somuleiðis er umráðandi, at heimild er til at gera kunngerðir um fyrisiting, mannagongdir fyri trygdar- og fíggjarligar umstøður og annað í sambandi við stovnins dagligu leiðslu.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Møguleikin at gera kunngerðir um trygd er umráðandi fyri at kunna gera mannagongdir, sum lúka tær treytir, ið Dátueftirlitið setur til fysiskar karmar, trygdarkopi og mangt annað.</s>
+              <s xml:lang="fo" cert="high">Harumframt er heimildin at gera kunngerðir við til at tryggja gjøgnumskygni, so ivi ikki verður um ógegni o.s.fr.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 4</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Greinin staðfestir, at fyri at granska í vevnaði hjá persónum, er neyðugt við sáttmála við Ílegusavnið.</s>
+              <s xml:lang="fo" cert="high">Við persónum, ið eru skrásettir í Føroyum, skilst fólk, ið eru skrásett sum búgvandi í Føroyum, tá ið ítøkiliga granskingarætlanin verður sett í verk, umframt tey, ið farin eru og hava verið skrásett sum búgvandi í Føroyum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Við hesum verður staðfest, at Ílegusavnið hevur einkarætt til at fáa til vega upplýsingar, ið eru hesar upplýsingar ikki kunnu savnast av øðrum enn Ílegusavninum.</s>
+              <s xml:lang="fo" cert="high">Hetta er fyri, at Ílegusavnið kann verða ein áhugaverdur samstarvsfelagi hjá granskarum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Um Ílegusavnið ikki hevur einkarætt til innsavning, hevur einkarætturin til at gera sáttmálar einki virði.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Harumframt kann tað t.d. vera óheppið, at fremmandar fyritøkur venda sær beinleiðis til einstaklingar og taka sær upplýsingar úr heilsuverkinum, hóast Vísindasiðseminevndin annars hevur góðkent teirra granskingarætlan, og Dátueftirlitið hevur givið loyvi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Soleiðis sum einkarætturin er orðaður, forðar hann sjálvandi ikki fyri vanligu blóðgevingini, bæði hvat viðvíkur blóðgeving ella kanning, sjúkustaðfesting ella viðgerð.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 3</head>
+            <p>
+              <s xml:lang="fo" cert="high">Fyri at tryggja einstaklingin, sum letur vevnað til ítøkiligar verkætlanir, er avgjørt, at viðkomandi skal verða at rokna sum ein sjúklingur, við teimum rættindum, sum hetta ber við sær.</s>
+              <s xml:lang="fo" cert="high">Hetta er ein eyka trygd, sum verjir einstaklingin.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 4 og 5</head>
+            <p>
+              <s xml:lang="fo" cert="high">Samsvarandi krøvunum í vísindasiðsemilóggávuni er neyðugt at hava ein kliniskan ábyrgdarhavara við í einari granskingarætlan.</s>
+              <s xml:lang="fo" cert="high">Í hesum stykkinum verður harumframt kravt, at tann kliniski ábyrgdarhavarin er ein, sum starvast í tí føroyska heilsuverkinum.</s>
+              <s xml:lang="fo" cert="high">Heilsuverkið umfatar í hesi lóg sjúkrahús, kommunulæknar, apoteksverkið, tannlæknar og heilsustarvsfólk, sum starvast privat.</s>
+              <s xml:lang="fo" cert="high">Ílegusavnið hevur sostatt nógvar valmøguleikar at finna kliniskar ábyrgdarhavarar.</s>
+              <s xml:lang="fo" cert="high">Tann kliniski ábyrgdarhavarin verður knýttur at hvørjari einstakari verkætlan sær, og nýtist tí ikki vera tann sami frá verkætlan til verkætlan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Viðkomandi skal vera sambindingarliður millum Ílegusavnið og tey, ið lata vevnað til granskingina.</s>
+              <s xml:lang="fo" cert="high">Harumframt skal viðkomandi hava ábyrgd av at kanna rættleikan av upplýsingunum frá ymisku pørtunum av heilsuverkinum, áðrenn hesir verða navnloyndir og handaðir Ílegusavninum og síðani handaðir granskarum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Um ikki heilsuverkið vísir á ein kliniskan ábyrgdarhavara, verður her givin heimild til Ílegusavnið at finna ein skikkaðan í heilsuverkinum eftir nærri avtalu við heilsuverkið.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til. stk. 6</head>
+            <p>
+              <s xml:lang="fo" cert="high">Heimild verður givin landsstýrismanninum at gera kunngerðir um avtalurnar við kliniskar ábyrgdarhavarar, sum Ílegusavnið ger.</s>
+              <s xml:lang="fo" cert="high">Henda heimild kann eitt nú nýtast til at seta hóskandi krøv til kliniskar ábyrgdarhavarar.</s>
+              <s xml:lang="fo" cert="high">Støða eigur at verða tikin til spurningar sum hvønn serligan førleika, ein kliniskur ábyrgdarhavari skal hava, hvussu finnast skal fram til kliniskar ábyrgdarhavarar, ella hvussu farast skal fram, um Ílegusavnið ikki metir ein kliniskan ábyrgdarhavara vera skikkaðan.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 7</head>
+            <p>
+              <s xml:lang="fo" cert="high">Her verður staðfest, at tann kliniski ábyrgdarhavarin skal lønast av Ílegusavninum, og ikki verða knýttur at verkætlanini á ein hátt, so viðkomandi hevur fíggjarlig áhugamál í verkætlanini.</s>
+              <s xml:lang="fo" cert="high">Hendan regla er fyri at tryggja, at tann kliniski ábyrgdarhavarin hevur tann leiklut, sum ætlanin er, at hann skal hava.</s>
+              <s xml:lang="fo" cert="high">Ábyrgdarhavarin skal tryggja, at upplýsingarnar, sum givnar verða, eru rættar, og at samskifti við einstaklingar fer fram á rættan hátt.</s>
+              <s xml:lang="fo" cert="high">Hann skal sostatt spyrja eftir samtykki á ein hátt, sum føroysk lóggáva krevur, og syrgja fyri, at sjúklingarættindi hjá fíggjarliga áhugaður.</s>
+              <s xml:lang="fo" cert="high">Um hann hevði fíggjarligan áhuga, kundi tað elvt til iva um gegni o.s.fr.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 8</head>
+            <p>
+              <s xml:lang="fo" cert="high">Stórur dentur er lagdur á, at ílegugranskingin virðir grundleggjandi rættindi menniskjans.</s>
+              <s xml:lang="fo" cert="high">Hesi rættindi eru ásett í altjóða sáttmálum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Nakrir av hesum sáttmálum eru galdandi í Føroyum, og aðrir eru ikki.</s>
+              <s xml:lang="fo" cert="high">Tó hevur verndin eisini fyrilit fyri altjóða reglum, sum annars ikki beinleiðis eru galdandi rættur í Føroyum.</s>
+              <s xml:lang="fo" cert="high">Tað liggur í góðkenningarskipanini hjá Vísindasiðseminevndini, at hon hevur ábyrgd av, at bert vísindasiðsemiliga forsvarligar granskingarætlanir verða góðkendar.</s>
+              <s xml:lang="fo" cert="high">Harumframt koma krøvini smb. persónsupplýsingarlóggávuni, ið Dátueftirlitið umsitur.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 5</head>
+          <p>
+            <s xml:lang="fo" cert="high">Høvuðsuppgávan hjá Ílegusavninum er at stovna og reka Vevnaðar-, Diagnosu- og Ættarbandsskráirnar.</s>
+            <s xml:lang="fo" cert="high">Ætlanin er at skipa skráirnar sambært krøvunum, ið Dátueftirlitið fer at áseta, soleiðis at persónsupplýsingarlógin verður fylgd.</s>
+            <s xml:lang="fo" cert="high">Reglurnar í persónsupplýsingarlógini lúka strangar treytir fyri persónsverju.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Felags fyri allar hesar tríggjar skráir, sum verða grundleggjandi fyri Ílegusavnið, er, at navnloyndin er sett í hásæti.</s>
+            <s xml:lang="fo" cert="high">Hetta merkir, at áðrenn upplýsingar verða handaðar Ílegusavninum, verða upplýsingarnar navnloyndar smb. nærri krøvum frá Dátueftirlitinum.</s>
+            <s xml:lang="fo" cert="high">Navnloyndin er allýst undir § 2.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Endamálið við at stovna og reka skráirnar er, at granskingaráhugað við sáttmálum kunnu fáa atgongd til vevnað og upplýsingar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 6</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Umframt tryggleikan við navnloyndini, sum nevnt undir viðmerkingini til § 5, eru her settar nakrar almennar reglur um, at skipanin av skráunum hjá Ílegusavninum skal hava fullgóða trygd, og at skráirnar bert verða brúktar til lóglig endamál.</s>
+              <s xml:lang="fo" cert="high">Talan verður um krøv sambært persónsupplýsingralógini, fyrisitingarrættinum, revsirættinum o.a.m.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Sum eitt eyka trygdarkrav er ásett, at Vevnaðar-, Diagnosu- og Ættarbandsskráirnar skulu vera í Føroyum, soleiðis at myndugleikarnir her á landi altíð hava fult eftirlit við teimum.</s>
+              <s xml:lang="fo" cert="high">Tá partur av granskingini helst verður framdur uttanfyri Føroyar – men umvegis sáttmála við Ílegusavnið – er sjálvandi neyðugt, at Ílegusavnið letur útlendsku granskarunum navnloyndu heilsuupplýsingarnar.</s>
+              <s xml:lang="fo" cert="high">Somuleiðis er við vevnaði, men her verður støðan tann, at ikki vevnaðurin sjálvur, men einans ekstrakt av vevnaði, verður sent av landinum.</s>
+              <s xml:lang="fo" cert="high">Viðvíkjandi flyting av upplýsingum av landinum verða somuleiðis krøvini smb. persónsupplýsingarlógini galdandi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Eisini er nevnt, at skráirnar hjá Ílegusavninum bert kunnu innihalda upplýsingar, sum eru viðkomandi fyri ílegugranskingina.</s>
+              <s xml:lang="fo" cert="high">Her verða krøvini staðfest, sum persónsupplýsingarlógin annars setur fyri viðgerð av upplýsingum.</s>
+              <s xml:lang="fo" cert="high">T.d. kunnu sosialar upplýsingar, fíggjarviðurskifti, trúarviðurskifti o.l. ikki goymast í skráunum.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 7</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1 og 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Persónsupplýsingarlógin krevur samtykki til allar viðgerðir av persónsupplýsingum.</s>
+              <s xml:lang="fo" cert="high">Sostatt er neyðugt við samtykki, áðrenn vevnaður, diagnosur ella ættarbandsupplýsingar verða flutt yvir í heimild í lóg.</s>
+              <s xml:lang="fo" cert="high">Eftir § 7, stk. 1 er møguligt at flyta diagnosur og ættarbandsskránna yvir í Ílegusavnið uttan samtykki frá einstaklingum.</s>
+              <s xml:lang="fo" cert="high">Undantakið frá kravinum um samtykki er einans til flytingina yvir í Ílegusavnið.</s>
+              <s xml:lang="fo" cert="high">Upplýsingarnar kunnu tí ikki nýtast til nakra gransking uttan samtykki.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="medium">§ 7, stk. 1 er eitt framhald av reglunum um rættin hjá Ílegusavninum at útvega sær upplýsingar.</s>
+              <s xml:lang="fo" cert="high">Tað, sum serliga verður ásett, er, at upplýsingarnar skulu metast at hava ella kunnu hava týdning fyri ílegugransking.</s>
+              <s xml:lang="fo" cert="high">Leggjast skal til merkis, at her er ikki talan um upplýsingarnar, ið kliniski ábyrgdarhavarin í stk. 4 hevur atgongd til fyri at kanna rættleikan av diagnosum.</s>
+              <s xml:lang="fo" cert="high">Ílegusavnið kann einans savna inn og goyma vevnað, flokkingarkotur um diagnosur og ættartræið.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 3</head>
+            <p>
+              <s xml:lang="fo" cert="high">Ongin viðmerking.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 4</head>
+            <p>
+              <s xml:lang="fo" cert="high">Sum støðan er í dag, liggja sjúkrahúsini, serlæknar, kommunulæknar og apoteksverkið inni við nógvum heilsuupplýsingum.</s>
+              <s xml:lang="fo" cert="high">Tað skal vera møguligt hjá kliniska ábyrgdarhavanum at útvega sær hetta tilfar, eftir at granskingarætlanin er góðkend av Vísindasiðseminevndini og Ílegusavninum.</s>
+              <s xml:lang="fo" cert="high">Hetta fyri at tryggja so góða góðsku av diagnosum sum gjørligt við upplýsingum frá heilsuverkinum.</s>
+              <s xml:lang="fo" cert="high">Her skal vísast á, at heilsuupplýsingar, sum allýstir í § 2, ikki eru navnloyndir.</s>
+              <s xml:lang="fo" cert="high">Tí er avgerandi at vísa á, at Ílegusavnið ikki eftir hesari lóg fær handað heilsuupplýsingar, men einans tær eftirkannaðu navnloyndu koturnar til diagnosur.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 5</head>
+            <p>
+              <s xml:lang="fo" cert="high">Tað er ein fortreyt fyri ílegugransking, at upplýsingar um ættarsambond eru so fullfíggjaðar sum gjørligt.</s>
+              <s xml:lang="fo" cert="high">Sum nevnt undir almennu viðmerkingunum, eru Føroyar í eini serstøðu hesum viðvíkjandi, bæði tí Føroyar hava verið avbyrgdar í øldir, og tí at lutfalsliga fullfíggjaðar upplýsingar eru tøkar um ættarsambond.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Fyri at lætta um gerð av Ættarbandsskránni, fær stovnurin heimild til at útvega sær upplýsingar frá Landsfólkayvirlitinum og Landsskjalasavninum.</s>
+              <s xml:lang="fo" cert="high">Hvussu Ættarbandsskráin ítøkiliga skal verða gjørd og av hvørjum, er ikki avgjørt, men Landsskjalasavnið hevur sýnt áhuga fyri at fremja tað neyðuga granskingararbeiðið og gera Ættarbandsskránna smb. eini nærri avtalu og samsýning.</s>
+              <s xml:lang="fo" cert="high">Henda Ættarbandsskrá skal so navnloynd verða latin Ílegusavninum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Sambært viðmerkingunum til persónsupplýsingarlógina er neyðugt við loyvi frá Dátueftirlitinum til slíka ættarbandsskrá.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 8</head>
+          <p>
+            <s xml:lang="fo" cert="high">Heilsuupplýsingar, sum sjúkrahúsini hava í síni varðveitslu, fylgja í dag teirri flokking av diagnosum, sum er altjóða viðurkend.</s>
+            <s xml:lang="fo" cert="high">Hetta merkir, at tær upplýsingar, sum verða lagdar inn í Diagnosuskránna, bert eru neutral tøl, sum standa fyri flokking av ávísari sjúku ella ávísum sjúkufyribrigdi.</s>
+            <s xml:lang="fo" cert="high">Kommunulæknarnir nýta oftast ikki hesa somu flokking av diagnosum.</s>
+            <s xml:lang="fo" cert="high">Her verður tí neyðugt, at tann kliniski ábyrgdarhavarin umsetur til galdandi ICD flokking.</s>
+            <s xml:lang="fo" cert="high">Granskarar, ið hava fingið DNA-úrdrátt, lata hendan úrdrátt aftur, eftir at verkætlanin er liðug.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 9</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Eitt er, at Ílegusavnið umsitur skráirnar, annað er atgongdin til tær.</s>
+              <s xml:lang="fo" cert="high">Eftir § 9 kann Ílegusavnið øll menniskju hava ein persónligan samleika – skilt sum mannatign – sum skal virðast.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Tað krevst sum nevnt ein góðkendur sáttmáli, áður enn atgongd til nýtslu av skráunum er gjørlig.</s>
+              <s xml:lang="fo" cert="high">Her má havast í huga, at Ílegusavnið í hvørjum einstøkum føri kann taka støðu til treytirnar í avtalunum.</s>
+              <s xml:lang="fo" cert="high">Er talan um eitt nú gransking, sum eingi fíggjarlig útlit eru í, kann hugsast, at avtalan einans krevur útreiðslurnar hjá Ílegusavninum goldnar.</s>
+              <s xml:lang="fo" cert="high">Men um talan harafturímóti er um gransking við møguligum fíggjarligum vinningi, kann hugsast, at avtalan treytar størri gjøld frammanundan ella prosentgjøld av møguligum vinningi.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Stykkið 2 er eitt undantak til høvuðsregluna í stk. 1 um, at atgongd til skráirnar einans er loyvd, tá granskingarsáttmáli er góðkendur.</s>
+              <s xml:lang="fo" cert="high">Her skal undirstrikast, at atgongdin hjá Ílegusavninum í stk. 2 einans umfatar Diagnosuskránna og Ættarbandsskránna og <hi rend="bold">ikki Vevnaðarskránna</hi>.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Henda atgongd uttan góðkendan granskingarsáttmála er til hagfrøðiligt endamál (”registerforskning”) og til forkanningar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Talan er í báðum førum um hagtøl, og henda heimild hevur sostatt sum so einki við ílegukanningar at gera.</s>
+              <s xml:lang="fo" cert="high">Eingin vevnaður kann nýtast til forkanningar ella heilsufrøðiligar kanningar eftir § 9, stk. 2.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Ílegusavnið fær í stk. 2 heimild til at gera forkanningar við ávísari sjúku fyri eyga, ið kunnu geva nærri ábendingar um, hvørt týðandi samband tykist vera millum Ættarbandsskránna og Diagnosuskránna.</s>
+              <s xml:lang="fo" cert="high">Hesar forkanningar kunnu betra um samráðingarstøðuna hjá Ílegusavninum og møguleikarnar at gera góðar granskingarsáttmálar.</s>
+              <s xml:lang="fo" cert="high">Atgongdin í stk. 2 krevur tó nærri loyvi frá Vísindasiðseminevndini og Dátueftirlitinum.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 10</head>
+          <p>
+            <s xml:lang="fo" cert="high">Endamálið við hesi áseting er at seta mark fyri nýtslu av royndum, ið kunnu fyriboða arvaligar sjúkur, við tað at slíkar royndir bert mugu fremjast av heilsuávum ella í sambandi við heilsugransking og við hóskandi arvafrøðiligari ráðgeving sum fyritreyt.</s>
+            <s xml:lang="fo" cert="high">Heilsugransking er umfatað av orðingini “heilsulig endamál” í § 10, stk. 1.</s>
+            <s xml:lang="fo" cert="high">Tað er sostatt einki, sum forðar fyri, at gransking við fíggjarligum vinningi fyri eyga fer fram, um granskingin eisini hevur eitt heilsuligt endamál.</s>
+            <s xml:lang="fo" cert="high">Í donsku viðmerkingunum til konventiónina, verður heilsuligt endamál orðað soleiðis, at talan skal vera um “sundhedsrelaterede formål”.</s>
+            <s xml:lang="fo" cert="high">Gransking kann soleiðis fremjast, so leingi sum granskingin eisini er knýtt at heilsuligum endamáli, eitt nú at finna sjúkuberandi ílegur fyri at kunna betra um viðgerð og harvið um fólkaheilsu sum heild.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Tann skjóta menningin innan arvagransking, ið er farin fram seinastu 10 árini, hevur gjørt tað møguligt við nógv størri neyvleika enn áður at eyðmerkja menniskju, ið eru berarar av ávísum arvaeindum knýttar at størri sjúkum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Við støði í teimum serligu trupulleikunum, ið eru tengdir at royndum, ið kunnu fyriboða arvaligar sjúkur, er tað mett neyðugt at skerja nýtsluna til heilsulig endamál.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Ásetingin forðar eitt nú ikki fyri atgongd til at gera fostursjúkugreiningar, so leingi hetta hevur eitt heilsuligt endamál, ella at nýta arvafrøðiligar royndir, til dømis í sambandi við, at fólk verða sett í starv, treytað av, at hesar hava eitt heilsuligt endamál, ið viðvíkur tí setta sjálvum ella øðrum starvsfólkum.</s>
+          </p>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="medium">ógrundaðan mannamun.</s>
+              <s xml:lang="fo" cert="high">Talan er um eina meginreglu, ið er ásett út frá meginreglunum í mannarættindasáttmálanum um forboð móti mannamuni orsakað av kyni, ættarslagi, húðaliti, tungumáli o.ø.m.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 11</head>
+          <p>
+            <s xml:lang="fo" cert="medium">§ 10 er ein regla, sum tryggjar, at upplýsingar og annað úr skráunum hjá Ílegusavninum ikki koma á óviðkomandi hendur, men verða undir fullum ræði hjá Ílegusavninum.</s>
+            <s xml:lang="fo" cert="high">Tí er forboð sett móti avhending.</s>
+            <s xml:lang="fo" cert="high">Eisini er forðað fyri, at rættarsókn kann fremjast.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 12</head>
+          <div type="subsection">
+            <head rend="italic">Til stk. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Hetta stykkið ber við sær, at ein heimild til revsing verður givin fyri brot á hesa serlóggávu.</s>
+              <s xml:lang="fo" cert="high">Samstundis verður tó onnur lóggáva galdandi fyri økið.</s>
+              <s xml:lang="fo" cert="high">Til dømis er brot á tagnarskyldu hjá Ílegusavninum og heilsuverkinum ásett í revsilógini, eins og t.d. innbrot í teldur eisini er regulerað í revsilógini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Men hóast hesar meiri almennu ásetingarnar verður mett neyðugt at hava serligar og strangar reglur fyri brot á hesa lóg, sum kunnu skaða trygdina fyri Ílegusavnið og tess virksemi.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Við hesi áseting verður givið heimild til at revsa juridiskar persónar (feløg o.o.).</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="italic">Til stk. 3</head>
+            <p>
+              <s xml:lang="fo" cert="high">Fyri at tryggja einkarættin og støðuna hjá Ílegusavninum verður mett neyðugt við heimild til at inndraga (konfiskera) vevnað og diagnosur, sum við ílegugransking fyri eyga eru útvegaðar, goymdar ella handfarnar uttan um sáttmála við Ílegusavnið.</s>
+            </p>
+          </div>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 13</head>
+          <p>
+            <s xml:lang="fo" cert="high">Greinin ásetur, nær lógin fær gildi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Hjáløgd fylgiskjøl: Skjal 1:</hi> Samanskriving av hoyringssvarum <hi rend="bold">Skjal 2: </hi>Hoyringssvar frá Føroya Stiftsstjórn.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 3:</hi> Hoyringssvar frá Føroya Landsskjalasavni.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 4:</hi> Hoyringssvar frá Fíggjarmálaráðnum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 5:</hi> Hoyringssvar frá Froðskaparsetur Føroya.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 6:</hi> Hoyringssvar frá Innlendismálaráðnum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 7:</hi> Hoyringssvar frá Vísindasiðseminevndini.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 8:</hi> Hoyringssvar frá Mentamálaráðnum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 9:</hi> Hoyringssvar frá Jens Wang og Hannes Gislason.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 10:</hi> Hoyringssvar frá Granskingarráð Føroya.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 11:</hi> Hoyingssvar frá Løgmanskrivstovuni.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 12:</hi> Hoyringssvar frá Javna.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 13:</hi> Hoyringssvar frá MBF.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 14:</hi> Hoyringssvar frá Fiskimálaráðnum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 15:</hi> Hoyringssvar frá Føroya Arbeiðsgevarafelag (FAG)/Vinnuhúsinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 17:</hi> Hoyringssvar frá Læknafelag Føroya.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 18:</hi> Hoyringssvar frá Dátueftirlitinum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 19:</hi> Hoyringssvar frá Landssjúkrahúsinum.</s>
+            <s xml:lang="fo" cert="high"><hi rend="bold">Skjal 20:</hi> Hoyringssvar frá Ríkisumboðið.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical" />
+      <div type="signature">
+        <dateline><orgName>Almanna- og heilsumálaráðið</orgName>, <date when="2005-03-01">1. mars 2005</date></dateline>
+        <space dim="vertical" />
+        <signed rend="center">
+          <persName>
+            <hi rend="bold">Hans Pauli Strøm</hi>
+            <lb />
+            <roleName>landsstýrismaður</roleName>
+          </persName>
+        </signed>
+        <signed rend="right"> / <persName>Aibritt á Plógv<lb /><roleName>aðalstjóri</roleName></persName></signed>
+      </div>
+    </body>
+  </text>
+</TEI>
