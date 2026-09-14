@@ -37,6 +37,9 @@
       </editorialDecl>
     </encodingDesc>
   </teiHeader>
+  <standOff>
+    <seg xml:lang="fo" type="sentence" resp="#rani">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til, at útboðið av bústøðum kring landið veksur munandi, og at viðurskiftini á føroyska leigumarknaðinum verða meira skipað.</seg>
+  </standOff>
   <text>
     <body>
       <table rend="left align-right">
@@ -116,7 +119,7 @@
               <s xml:lang="fo" cert="high">Føroya Landsstýri tók á heysti 2018 stig til ein umfatandi bústaðapakka, ið millum annað fevnir um hetta lógaruppskotið.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="medium">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til,</s>
+              <seg xml:lang="fo">Bústaðapakkin fevnir um eina røð av tiltøkum tvørtur um aðalráð, ið saman skulu viðvirka til,</seg>
             </p>
             <list>
               <item>at útboðið av bústøðum kring landið veksur munandi, og</item>
@@ -138,31 +141,46 @@
             <p rend="italic underline">
               <seg xml:lang="fo">Átøk at økja um útboð av privatum og almennum leigubústøðum:</seg>
             </p>
-            <div type="sub-subsection" subtype="run-in">
-              <head rend="italic">• Bústaðir</head>
-              <list>
-                <item><hi rend="italic">Bústaðir</hi> fáa heimild til at útskriva lánsbrøv á 250 mió. kr. Lánsbrøvini hava trygd í føstu ognunum hjá Bústøðum. Hetta skal fíggja eina framskundaða bygging av um 200 nýggjum leigubústøðum kring landið.</item>
-                <item>Botnfrádrátturin fyri leiguinntøkur verður hækkaður úr 50 tús. kr. til 100 tús. kr.</item>
-              </list>
-              <p rend="italic underline">
-                <seg xml:lang="fo">Átak at tryggja ein betur skipaðan leigumarknað:</seg>
-              </p>
-              <list>
-                <item>Leigunevndin, sum higartil bara hevur kunnað tikið støðu til hækkingar, fær nú eisini heimild at seta til viks leiguna, sum partarnir sínámillum hava avtalað.</item>
-              </list>
-            </div>
-            <div type="sub-subsection">
-              <head rend="italic underline">Átak at koma teimum, ið hava ein bráðfeingis bústaðatørv, betur til hjálpar</head>
-              <list>
-                <item>Ein bráðtørvslisti, við tilhoyrandi íbúðum, verður stovnaður. Bráðtørvslistin er ætlaður teimum, ið hava ein bráðfeingis bústaðatørv.</item>
-              </list>
-            </div>
-            <div type="sub-subsection">
-              <head rend="italic underline">Átak at javnseta tað privata við tað almenna</head>
-              <list>
-                <item>Almannaverkið fær heimild at gera avtalur við privat um ávísingarrætt til leigubústaðir.</item>
-              </list>
-            </div>
+            <list rend="simple">
+              <item>
+                <ab rend="underline">Átøk at økja um útboð av privatum og almennum leigubústøðum:</ab>
+                <list rend="bulleted">
+                  <item>
+                    <s>Bústaðir fáa heimild til at útskriva lánsbrøv á 250 mió. kr.</s>
+                    <s>Lánsbrøvini hava trygd í føstu ognunum hjá Bústøðum.</s>
+                    <s>Hetta skal fíggja eina framskundaða bygging av um 200 nýggjum leigubústøðum kring landið.</s>
+                  </item>
+                  <item>
+                    <s>Botnfrádrátturin fyri leiguinntøkur verður hækkaður úr 50 tús. kr. til 100 tús. kr.</s>
+                  </item>
+                </list>
+              </item>
+              <item>
+                <ab rend="underline">Átak at tryggja ein betur skipaðan leigumarknað:</ab>
+                <list rend="bulleted">
+                  <item>
+                    <s>Leigunevndin, sum higartil bara hevur kunnað tikið støðu til hækkingar, fær nú eisini heimild at seta til viks leiguna, sum partarnir sínámillum hava avtalað.</s>
+                  </item>
+                </list>
+              </item>
+              <item>
+                <ab rend="underline">Átak at koma teimum, ið hava ein bráðfeingis bústaðatørv, betur til hjálpar</ab>
+                <list rend="bulleted">
+                  <item>
+                    <s>Ein bráðtørvslisti, við tilhoyrandi íbúðum, verður stovnaður.</s>
+                    <s>Bráðtørvslistin er ætlaður teimum, ið hava ein bráðfeingis bústaðatørv.</s>
+                  </item>
+                </list>
+              </item>
+              <item>
+                <ab rend="underline">Átak at javnseta tað privata við tað almenna</ab>
+                <list rend="bulleted">
+                  <item>
+                    <s>Almannaverkið fær heimild at gera avtalur við privat um ávísingarrætt til leigubústaðir.</s>
+                  </item>
+                </list>
+              </item>
+            </list>
           </div>
           <div type="subsection">
             <head rend="bold italic">Um lógaruppskotið</head>
@@ -682,7 +700,7 @@
             <p>
               <s xml:lang="fo" cert="high">Ásetingin setir inn nýtt punktum, sum ger greitt, at Húsalánsgrunnurin/Bústaðir kann útvega lutaíbúðir til lutaíbúðafeløg.</s>
               <s xml:lang="fo" cert="high">Í galdandi lóg um Húsalánsgrunn er ikki greitt, at Húsalánsgrunnurin/Bústaðir kann byggja og útvega lutaíbúðir til lutaíbúðafeløg.</s>
-              <s xml:lang="fo" cert="medium">Í hesum føri merkir “útvega lutaíbúðir til lutaíbúðafeløg”, at “byggja og síðani selja lutaíbúðir til lutaíbúðafeløg.”</s>
+              <s xml:lang="fo" cert="high">Í hesum føri merkir “útvega lutaíbúðir til lutaíbúðafeløg”, at “byggja og síðani selja lutaíbúðir til lutaíbúðafeløg.”</s>
             </p>
             <p>
               <s xml:lang="fo" cert="high">Lutaíbúðir og lutaíbúðafeløg eru nýggj fyribrigdi í Føroyum.</s>
@@ -710,7 +728,7 @@
           <div type="subsection">
             <head rend="bold">Til § 2</head>
             <p>
-              <s xml:lang="fo" cert="high">Áseting um gildiskomu.</s>
+              <seg xml:lang="fo">Áseting um gildiskomu.</seg>
             </p>
           </div>
         </div>
