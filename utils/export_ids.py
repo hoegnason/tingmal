@@ -416,5 +416,5 @@ if __name__ == "__main__":
     #process_files("/home/rani/Repositories/tingmal-public/misc")
     ## process_files("/home/rani/Repositories/tingmal-public/parliamentary-questions/1998")
     ##### process_files("/home/rani/Repositories/tingmal-public/misc/local")
-    process_files("/home/rani/Repositories/tingmal-public/proposals/2024")
+    process_files("/home/rani/Repositories/tingmal-public/proposals")
     process_stand_off_file("/home/rani/Repositories/tingmal-public/misc/joannes-patursson.xml")
