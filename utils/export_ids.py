@@ -211,7 +211,10 @@ def do_work(target_file: str):
 
     used_ids = set()
 
-    for file in xml_files("../"):
+    xml_file_list = list(xml_files("../"))
+    xml_file_list.sort()
+
+    for file in xml_file_list:
         output = parse_sentences(file)
 
         for found_id in output:
@@ -300,7 +303,10 @@ def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
 def process_stand_off_file(stand_off_file):
     sentences = []
 
-    for file in xml_files("../"):
+    xml_file_list = list(xml_files("../"))
+    xml_file_list.sort()
+
+    for file in xml_file_list:
         output = parse_sentences_for_extraction(file)
 
         for item in output:
@@ -352,22 +358,11 @@ def process_stand_off_file(stand_off_file):
             f.write(json.dumps(result, ensure_ascii=False) + '\n')
 
 def process_files(relevant_files_path):
-    # relevant_files = xml_files("/home/rani/Repositories/tingmal/parliamentary-questions")
-    # relevant_files = xml_files("/home/rani/Repositories/tingmal/decisions")
-    relevant_files = xml_files(relevant_files_path)
+    relevant_files = list(xml_files(relevant_files_path))
+    relevant_files.sort()
 
     for relevant_file in relevant_files:
         do_work(str(relevant_file))
-
-    # do_work("/home/rani/Repositories/tingmal/legislation/vegleiding_til_standard_leigusattmalan.xml")
-    # do_work("/home/rani/Repositories/tingmal/decisions/datueftirlitid.xml")
-
-    # return
-
-    # relevant_files = xml_files("/home/rani/Repositories/tingmal/proposals/2006")
-    #
-    #### for relevant_file in relevant_files:
-        #### do_work(str(relevant_file))
 
     sentences = []
 
