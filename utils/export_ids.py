@@ -26,6 +26,27 @@ from lxml import etree
 from id_utils import generate_b32_id
 import json
 
+## Start of Caches
+
+NAMESPACES = {
+    "xml": "http://www.w3.org/XML/1998/namespace",
+    "tei": "http://www.tei-c.org/ns/1.0",
+}
+
+FIND_IDS = etree.XPath(
+    "//*[@xml:id]",
+    namespaces=NAMESPACES,
+)
+
+FIND_SENTENCES = etree.XPath(
+    '//tei:s[@xml:id] | //tei:seg[@type="sentence"][@xml:id]',
+    namespaces=NAMESPACES,
+)
+
+GET_TEXT = etree.XPath("string()", smart_strings=False)
+
+## End of Caches
+
 def xml_files(root: str | Path) -> Iterator[Path]:
     root = Path(root)
     for p in root.rglob("*"):
@@ -71,7 +92,7 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]
 
     # Find elements and add xml:id
     ## for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
-    for element in tree.xpath('//tei:s[@xml:id] | //tei:seg[@type="sentence"][@xml:id]', namespaces=namespaces):
+    for element in FIND_SENTENCES(tree):
 
         found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
 
@@ -94,7 +115,7 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]
 
             if element_text_content is not None:
 
-                results.append((found_id, " ".join(element_text_content.strip().split()), year))
+                results.append((found_id, " ".join(element_text_content.split()), year))
 
     # # Write back with minimal changes
     # result = etree.tostring(tree,
@@ -132,7 +153,7 @@ def parse_sentences(filepath) -> list[str]:
 
     # Find elements and add xml:id
     ## for element in tree.findall('.//{http://www.tei-c.org/ns/1.0}s'):
-    for element in tree.xpath('//*[@xml:id]', namespaces=namespaces):
+    for element in FIND_IDS(tree):
 
         found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
 
@@ -198,8 +219,9 @@ def add_ids_to_file(filepath: str, used_ids: set) -> list[str]:
                            pretty_print=False,
                            method='xml')
 
-    with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(result)
+    if result != content:
+        with open(filepath, 'w', encoding='utf-8') as f:
+            f.write(result)
 
     return results
 
@@ -252,7 +274,7 @@ def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
         pass
 
     # Map IDs to text for fast lookup
-    id_map = {el.get('{http://www.w3.org/XML/1998/namespace}id'): el for el in tree.xpath('//*[@xml:id]', namespaces=namespaces)}
+    id_map = {el.get('{http://www.w3.org/XML/1998/namespace}id'): el for el in FIND_IDS(tree)}
 
     # Process only the joins
     for join in tree.xpath('//tei:standOff/tei:join[@target]', namespaces=namespaces):
@@ -284,7 +306,7 @@ def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
                 print("text_content: " + text_content)
 
                 if text_content is not None:
-                    joined_parts.append(" ".join(text_content.strip().split()))
+                    joined_parts.append(" ".join(text_content.split()))
 
         # Add to results if valid
         if not skip and joined_parts:
