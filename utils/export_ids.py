@@ -45,6 +45,8 @@ FIND_SENTENCES = etree.XPath(
 
 GET_TEXT = etree.XPath("string()", smart_strings=False)
 
+USED_IDS = set()
+
 ## End of Caches
 
 def xml_files(root: str | Path) -> Iterator[Path]:
@@ -70,17 +72,11 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]
 
     results = []
 
-    # Define namespace map
-    namespaces = {
-        'xml': 'http://www.w3.org/XML/1998/namespace',
-        'tei': 'http://www.tei-c.org/ns/1.0'
-    }
-
     # Extract year from publication date in sourceDesc (optional)
     # Get first date without type attribute from sourceDesc
     year = None
     try:
-        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=namespaces)
+        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=NAMESPACES)
         if date_elements:
             date_when = date_elements[0].get('when')
             if date_when and len(date_when) >= 4:
@@ -176,7 +172,7 @@ def parse_sentences(filepath) -> list[str]:
     return results
 
 
-def add_ids_to_file(filepath: str, used_ids: set) -> list[str]:
+def add_ids_to_file(filepath: str) -> list[str]:
     # Parse with a parser that preserves whitespace
     parser = etree.XMLParser(remove_blank_text=False,
                              remove_comments=False,
@@ -191,14 +187,8 @@ def add_ids_to_file(filepath: str, used_ids: set) -> list[str]:
 
     results = []
 
-    # Define namespace map
-    namespaces = {
-        'xml': 'http://www.w3.org/XML/1998/namespace',
-        'tei': 'http://www.tei-c.org/ns/1.0'
-    }
-
     # Find elements and add xml:id
-    for element in tree.xpath('//tei:s | //tei:seg[@type="sentence"]', namespaces=namespaces):
+    for element in tree.xpath('//tei:s | //tei:seg[@type="sentence"]', namespaces=NAMESPACES):
 
         found_id = element.get('{http://www.w3.org/XML/1998/namespace}id')
 
@@ -206,10 +196,11 @@ def add_ids_to_file(filepath: str, used_ids: set) -> list[str]:
 
             generated_id = generate_b32_id()
 
-            if generated_id in used_ids:
+            if generated_id in USED_IDS:
                 raise RuntimeError(f"Generated ID '{generated_id}' is already in use.")
 
             element.set('{http://www.w3.org/XML/1998/namespace}id', generated_id)
+            USED_IDS.add(generated_id)
 
             results.append(found_id)
 
@@ -231,8 +222,6 @@ def do_work(target_file: str):
 
     print("target file: " + target_file)
 
-    used_ids = set()
-
     xml_file_list = list(xml_files("../"))
     xml_file_list.sort()
 
@@ -240,15 +229,11 @@ def do_work(target_file: str):
         output = parse_sentences(file)
 
         for found_id in output:
-            used_ids.add(found_id)
+            USED_IDS.add(found_id)
 
-    print(len(used_ids))
+    print(len(USED_IDS))
 
-    with open("used_ids.txt", "w") as file:
-        for line in used_ids:
-            file.write(line + "\n")
-
-    add_ids_to_file(target_file, used_ids)
+    add_ids_to_file(target_file)
 
 def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
     """Extracts only the sentences defined in the <standOff> <join> elements."""
@@ -256,16 +241,12 @@ def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
     with open(filepath, 'r', encoding='utf-8') as f:
         tree = etree.fromstring(f.read().encode('utf-8'), parser)
 
-    namespaces = {
-        'xml': 'http://www.w3.org/XML/1998/namespace',
-        'tei': 'http://www.tei-c.org/ns/1.0'
-    }
     results = []
 
     # Get year (to match your existing tuple format)
     year = None
     try:
-        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=namespaces)
+        date_elements = tree.xpath('//tei:sourceDesc//tei:date[@when and not(@type)]', namespaces=NAMESPACES)
         if date_elements:
             date_when = date_elements[0].get('when')
             if date_when and len(date_when) >= 4:
@@ -277,7 +258,7 @@ def parse_standoff_sentences(filepath) -> list[tuple[str, str, int | None]]:
     id_map = {el.get('{http://www.w3.org/XML/1998/namespace}id'): el for el in FIND_IDS(tree)}
 
     # Process only the joins
-    for join in tree.xpath('//tei:standOff/tei:join[@target]', namespaces=namespaces):
+    for join in tree.xpath('//tei:standOff/tei:join[@target]', namespaces=NAMESPACES):
         targets = join.get('target').replace('#', '').split()
         joined_parts = []
         skip = False
@@ -385,6 +366,11 @@ def process_files(relevant_files_path):
 
     for relevant_file in relevant_files:
         do_work(str(relevant_file))
+
+    # TODO: remove this later!
+    with open("used_ids.txt", "w") as file:
+        for line in USED_IDS:
+            file.write(line + "\n")
 
     sentences = []
 
