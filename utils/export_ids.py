@@ -346,8 +346,7 @@ def process_stand_off_file(stand_off_file):
     seen_sentences = set()
     deduplicated_sentences: list[dict[str, str | int | None]] = []
 
-    # Or if you want case-insensitive sorting:
-    results = sorted(results, key=lambda x: x['text'].lower())
+    results = sorted(results, key=lambda x: (x['text'].lower(), x['text']))
 
     for sentence in results:
         if sentence['text'] not in seen_sentences:
@@ -395,8 +394,7 @@ def process_files(relevant_files_path):
     seen_sentences = set()
     deduplicated_sentences: list[dict[str, str | int | None]] = []
 
-    # Or if you want case-insensitive sorting:
-    results = sorted(results, key=lambda x: x['text'].lower())
+    results = sorted(results, key=lambda x: (x['text'].lower(), x['text']))
 
     for sentence in results:
         if sentence['text'] not in seen_sentences:
