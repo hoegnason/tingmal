@@ -113,15 +113,6 @@ def parse_sentences_for_extraction(filepath) -> list[tuple[str, str, int | None]
 
                 results.append((found_id, " ".join(element_text_content.split()), year))
 
-    # # Write back with minimal changes
-    # result = etree.tostring(tree,
-    #                        encoding='unicode',
-    #                        pretty_print=False,
-    #                        method='xml')
-    #
-    # with open(filepath, 'w', encoding='utf-8') as f:
-    #     f.write(result)
-
     return results
 
 
@@ -134,8 +125,6 @@ def parse_sentences(filepath) -> list[str]:
     # Read the file
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
-    
-    ## print("Processing file: " + str(filepath))
 
     # Parse the XML
     tree = etree.fromstring(content.encode('utf-8'), parser)
@@ -158,16 +147,6 @@ def parse_sentences(filepath) -> list[str]:
             # element.set('{http://www.w3.org/XML/1998/namespace}id', id_value)
 
             results.append(found_id)
-
-    
-    # # Write back with minimal changes
-    # result = etree.tostring(tree,
-    #                        encoding='unicode',
-    #                        pretty_print=False,
-    #                        method='xml')
-    #
-    # with open(filepath, 'w', encoding='utf-8') as f:
-    #     f.write(result)
 
     return results
 
