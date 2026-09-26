@@ -1,4 +1,29 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Løgtingsmál nr. 82/2024: Uppskot til Løgtingslóg um Talgildu Føroyar 2.0</title>
+        <respStmt>
+          <resp>editorial corrections; the original reading is kept in a comment before each corrected element</resp>
+          <persName xml:id="rani">Rani Høgnason Hansen</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher>Føroya Løgting</publisher>
+          <idno type="logtingsmal">LM-082/2024</idno>
+          <ref target="https://www.logting.fo/mal/mal/?id=11126"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <TEI>
     <teiHeader>
       <fileDesc>
