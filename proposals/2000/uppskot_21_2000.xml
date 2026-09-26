@@ -1,4 +1,29 @@
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Løgtingsmál nr. 21/2000: Uppskot til samtyktar um frágreiðing frá § 19 nevndini um 80-árini</title>
+        <respStmt>
+          <resp>editorial corrections; the original reading is kept in a comment before each corrected element</resp>
+          <persName xml:id="rani">Rani Høgnason Hansen</persName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher>Føroya Løgting</publisher>
+          <idno type="logtingsmal">LM-021/2000</idno>
+          <ref target="https://www.logting.fo/mal/mal/?id=2222"/>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
   <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
       <fileDesc>
