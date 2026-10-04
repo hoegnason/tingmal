@@ -2851,7 +2851,7 @@
           </div>
         </div>
       </div>
-      <ab type="signature">
+      <div type="signature">
         <dateline>
           <orgName>Innlendismálaráðið</orgName>
           <lb/>
@@ -2860,14 +2860,14 @@
         <space dim="vertical"/>
         <signed rend="center">
           <!-- TODO: fix entity linking <persName ref="https://tingdata.fo/person/{id}"> -->
-          <persName ref="">
+          <persName>
             <hi rend="bold">Jógvan við Keldu</hi>
             <lb/>
             <roleName>landsstýrismaður</roleName>
           </persName>
         </signed>
         <signed rend="right"> / <persName>Rúni Joensen</persName></signed>
-      </ab>
+      </div>
     </body>
   </text>
 </TEI>
