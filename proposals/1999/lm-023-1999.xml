@@ -1471,10 +1471,12 @@
               </p>
             </div>
           </div>
-          <space type="vertical"/>
-          <ab>Soleiðis samtykt á stovnandi aðalfundi tann / 2000.</ab>
-          <lb/>
-          <ab>Nevndin:</ab>
+          <div>
+            <space type="vertical"/>
+            <ab>Soleiðis samtykt á stovnandi aðalfundi tann / 2000.</ab>
+            <lb/>
+            <ab>Nevndin:</ab>
+          </div>
         </div>
       </body>
     </text>
@@ -1853,7 +1855,7 @@
           <p>
             <seg>Samsvarandi hesum setir meirilutin fram soljóðandi:</seg>
           </p>
-          <ab>
+          <div>
             <!-- TODO: make it antspeak! -->
             <ab rend="bold antspeak center">broytingaruppskot</ab>
             <list>
@@ -1909,15 +1911,17 @@
               <label rend="bold">Ad. 5)</label>
               <s xml:id="ch4ernxbt2">Við broytingini verður tilvísingin til ”Værdipapircentralen” útgreinað nærri.</s>
             </p>
-          </ab>
+          </div>
           <pb n="3"/>
-          <p>
-            <s xml:id="uugy5vltc2"><hi rend="bold">Minnilutin í nevndini</hi> (Henrik Old og Dan R. Petersen) metir ikki at málið undir viðgerðini hevur verði nóg væl lýst.</s>
-            <s xml:id="ysgmyd42ad">Minnilutin er tó nøgdur við at krav verður sett um, at heimild skal fáast við løgtingslóg til sølu av partabrøvunum.</s>
-            <s xml:id="js6aqa2blc">Minnilutin tekur støðu í tingsalinum.</s>
-          </p>
-          <ab>
-            <ab rend="bold center">Vinnunevndin, 16. desember 1999</ab>
+          <div>
+            <p>
+              <s xml:id="uugy5vltc2"><hi rend="bold">Minnilutin í nevndini</hi> (Henrik Old og Dan R. Petersen) metir ikki at málið undir viðgerðini hevur verði nóg væl lýst.</s>
+              <s xml:id="ysgmyd42ad">Minnilutin er tó nøgdur við at krav verður sett um, at heimild skal fáast við løgtingslóg til sølu av partabrøvunum.</s>
+              <s xml:id="js6aqa2blc">Minnilutin tekur støðu í tingsalinum.</s>
+            </p>
+          </div>
+          <div>
+            <dateline rend="bold center"><orgName>Vinnunevndin</orgName>, <date when="1999-12-16">16. desember 1999</date></dateline>
             <signed>
               <persName>Heini O. Heinesen <lb/><roleName>formaður</roleName></persName>
             </signed>
@@ -1939,7 +1943,7 @@
             <signed>
               <persName>Kári P. Højgaard</persName>
             </signed>
-          </ab>
+          </div>
         </div>
       </body>
     </text>
