@@ -437,26 +437,28 @@
                 </div>
               </div>
               <!-- TODO: fix provision heading later... -->
-              <ab rend="italic">Íløgureglur fyri eftirlønargrunnar og fyri lívstryggingarfeløg í lívstrygginarflokki III</ab>
-              <div type="bill-section" n="§ 8.">
-                <div n="§ 8. Stk. 1.">
-                  <p rend="bill-text">
-                    <label rend="bold">§ 8.</label>
-                    <s xml:lang="fo" cert="high" xml:id="qdylstc5tj">Eftirlønargrunnar og tryggingarfeløg í lívstryggingarflokki III kunnu gera íløgur vegna eftirlønarsamanspararar sambært reglum í lóg um tryggingarvirksemi.</s>
-                  </p>
-                </div>
-                <div n="§ 8. Stk. 2.">
-                  <p rend="bill-text">
-                    <label rend="italic">Stk. 2.</label>
-                    <s xml:lang="fo" cert="high" xml:id="losv7qf7k4">Tryggingar, ið verða gjørdar sambært hesi løgtingslóg og teknaðar undir lívstryggingarflokki III í lívstryggingar-felagi og eftirlønargrunni, skulu vera settar saman soleiðis, at fíggjarligi váðin er hóskandi og gagnligur fyri eftirlønar-samanspararan.</s>
-                    <s xml:lang="fo" cert="high" xml:id="hp7htmorm2">Tá mett verður, um váðin er hóskandi, skal atlit takast til aldur, heilsu, fíggjarstøðu og onnur viðkomandi viður-skiftir.</s>
-                  </p>
-                </div>
-                <div n="§ 8. Stk. 3.">
-                  <p rend="bill-text">
-                    <label rend="italic">Stk. 3.</label>
-                    <s xml:lang="fo" cert="high" xml:id="kyyzazcelu">Landsstýrismaður kann í kunngerð áseta íløgureglur fyri eftirlønargrunnar og tryggingar undir Lívstryggingarflokki III, inngoldnar eftir hesi lóg.</s>
-                  </p>
+              <div>
+                <head rend="italic center">Íløgureglur fyri eftirlønargrunnar og fyri lívstryggingarfeløg í lívstrygginarflokki III</head>
+                <div type="bill-section" n="§ 8.">
+                  <div n="§ 8. Stk. 1.">
+                    <p rend="bill-text">
+                      <label rend="bold">§ 8.</label>
+                      <s xml:lang="fo" cert="high" xml:id="qdylstc5tj">Eftirlønargrunnar og tryggingarfeløg í lívstryggingarflokki III kunnu gera íløgur vegna eftirlønarsamanspararar sambært reglum í lóg um tryggingarvirksemi.</s>
+                    </p>
+                  </div>
+                  <div n="§ 8. Stk. 2.">
+                    <p rend="bill-text">
+                      <label rend="italic">Stk. 2.</label>
+                      <s xml:lang="fo" cert="high" xml:id="losv7qf7k4">Tryggingar, ið verða gjørdar sambært hesi løgtingslóg og teknaðar undir lívstryggingarflokki III í lívstryggingar-felagi og eftirlønargrunni, skulu vera settar saman soleiðis, at fíggjarligi váðin er hóskandi og gagnligur fyri eftirlønar-samanspararan.</s>
+                      <s xml:lang="fo" cert="high" xml:id="hp7htmorm2">Tá mett verður, um váðin er hóskandi, skal atlit takast til aldur, heilsu, fíggjarstøðu og onnur viðkomandi viður-skiftir.</s>
+                    </p>
+                  </div>
+                  <div n="§ 8. Stk. 3.">
+                    <p rend="bill-text">
+                      <label rend="italic">Stk. 3.</label>
+                      <s xml:lang="fo" cert="high" xml:id="kyyzazcelu">Landsstýrismaður kann í kunngerð áseta íløgureglur fyri eftirlønargrunnar og tryggingar undir Lívstryggingarflokki III, inngoldnar eftir hesi lóg.</s>
+                    </p>
+                  </div>
                 </div>
               </div>
             </div>
@@ -809,18 +811,21 @@
               <s xml:lang="fo" cert="high" xml:id="wvwicjzpif">Hetta tryggjar ikki, at persónurin hevur nóg mikið eftir at liva av, tá persónurin verður pensjónistur.</s>
             </p>
             <p>
-              <s xml:lang="fo" cert="high" xml:id="qrjojsr5ua">Mælt verður til, at eftirlønarsamansparing verður gjørd samsvarandi hesum leisti: Í minsta lagi 15 prosent av øllum A- og B-inntøkum skal gjaldast til eftirløn.</s>
-              <s xml:lang="fo" cert="high" xml:id="jqiriqodwg">Eftirlønin skal útgjaldast sum: í minsta lagi 45 prosent lívlong veiting í mesta lagi 55 prosent lutaeftirløn.</s>
-              <s xml:lang="fo" cert="high" xml:id="jnjhlaux6r">Í mesta lagi 15 prosent sum kapitalútgjald.</s>
-              <s xml:lang="fo" cert="high" xml:id="u23l3yt7e5">Eftirlønarsamansparing kann í fyrsta lagi koma til útgjaldingar, tá ið samanspararin nær fólkapensjónsaldri og í seinasta lagi, tá ið samanspararin fær fólkapensjón.</s>
+              <seg>Mælt verður til, at eftirlønarsamansparing verður gjørd samsvarandi hesum leisti:</seg>
             </p>
+            <list rend="bulleted">
+              <item>Í minsta lagi 15 prosent av øllum A- og B-inntøkum skal gjaldast til eftirløn.</item>
+              <item>
+                <seg>Eftirlønin skal útgjaldast sum:</seg>
+                <list rend="bulleted">
+                  <item>í minsta lagi 45 prosent lívlong veiting</item>
+                  <item>í mesta lagi 55 prosent lutaeftirløn.</item>
+                  <item>Í mesta lagi 15 prosent sum kapitalútgjald.</item>
+                </list>
+              </item>
+              <item>Eftirlønarsamansparing kann í fyrsta lagi koma til útgjaldingar, tá ið samanspararin nær fólkapensjónsaldri og í seinasta lagi, tá ið samanspararin fær fólkapensjón.</item>
+            </list>
           </div>
-          <p></p>
-          <p></p>
-          <p>o</p>
-          <p>o</p>
-          <p>o</p>
-          <p></p>
           <div type="section">
             <head rend="italic">Eftirlønarsamansparing í Føroyum í dag</head>
             <p>
@@ -2772,13 +2777,13 @@
             </div>
           </div>
         </div>
-        <space dim="vertical"/>
-        <ab rend="center">
-          <ab rend="center">Vinarliga</ab>
+        <closer rend="center">
+          <salute rend="center">Vinarliga</salute>
           <lb/>
-          <ab rend="bold center">Jørgen Niclasen</ab>
-          <ab rend="center">landsstýrismaður</ab>
-        </ab>
+          <signed rend="center">
+            <persName><hi rend="bold">Jørgen Niclasen</hi> <lb/>landsstýrismaður</persName>
+          </signed>
+        </closer>
       </body>
     </text>
   </TEI>
