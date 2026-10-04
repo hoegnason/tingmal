@@ -44,7 +44,7 @@
           <bibl type="parliamentary_document">
             <publisher>Føroya Løgting</publisher>
             <author>
-              <persName ref="">Bjørn Kalsø</persName>
+              <persName ref="https://tingdata.fo/person/bv25d4pl">Bjørn Kalsø</persName>
               <roleName>landsstýrismaður</roleName>
             </author>
             <ref target="https://www.logting.fo/documents/30155"/>
@@ -5492,7 +5492,7 @@
             <p>
               <s xml:id="amnh2dexlp">Tað kann so ongantíð vera ætlanin, at tað, sum nú verður almannakunngjørt á netinum, ikki kann fáast til høldar, tí at ivi er um upphavsrættarligu heimildina at gera hetta.</s>
             </p>
-            <note id="slfn01">
+            <note xml:id="slfn01">
               <s xml:id="ek6fruoosr">Ein áhugaverd gjøgnumgongd av hesum viðurskiftunum er t.d. at lesa í Revy, árg. 35, nr. 4, jul – aug 2012.</s>
               <seg>Útg. Danmarks Forskningsbiblioteksforening, ið er eitt temanummar um upphavsrætt.</seg>
             </note>
@@ -5652,10 +5652,12 @@
             </p>
           </div>
           <space dim="vertical"/>
-          <ab>Vegna Innlendismálaráðið</ab>
-          <lb/>
-          <ab>Jógvan Svabo Samuelsen, cand. jur.</ab>
-          <ab>fulltrúi, løgdeildin.</ab>
+          <div>
+            <ab>Vegna Innlendismálaráðið</ab>
+            <lb/>
+            <ab>Jógvan Svabo Samuelsen, cand. jur.</ab>
+            <ab>fulltrúi, løgdeildin.</ab>
+          </div>
         </div>
       </body>
     </text>
@@ -5815,7 +5817,7 @@
                   <s xml:id="jk23j4fjyw">Leikarafelagið var ikki einasti hoyringarpartur, ið hevðist at hesum, so avgjørt varð at leggja ásetingar um onnur rættindi aftrat lógartekstinum, sí §§ 33-38.</s>
                 </p>
               </item>
-              <itme>
+              <item>
                 <p>
                   <s xml:id="l3bkol6vjo">At enda í viðgerðini av hoyringssvarinum hjá Leikarafelagnum verða tvær av viðmerkingunum umrøddar í felag.</s>
                   <s xml:id="h6dz2rlx52">Tað snýr seg um at Leikarafelagið vildi hava ‘leiklist’ <pb n="3"/>við í allýsingina av hugverki í § 1, og at Leikarafelagið vildi hava at øll listafólk skuldu metast sum skapandi og ikki útinnandi.</s>
@@ -5827,7 +5829,7 @@
                   <s xml:id="nic2atcwkz">Av tí at rættarstøðan á upphavsrættarøkinum í Norðurlondum er ment í tøttum samstarvi, hevði tað eisini verið óheppið, um Føroyar førkaðu seg ov langt frá tí, ið er galdandi í hinum Norðurlondunum.</s>
                   <s xml:id="m5oc7ktb4y">Um øll listafólk skulu metast sum skapandi, verður mett, at best er, um hetta lógarátak verður gjørt í felag við hini Norðurlondini.</s>
                 </p>
-              </itme>
+              </item>
             </list>
           </div>
           <div n="6.">
