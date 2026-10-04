@@ -115,17 +115,14 @@
               <s xml:id="uwjdjlepwp">Ógreiða hevur verið um, á hvønn hátt frágreiðingin skal leggjast fyri tingið til støðutakan, og hevur formansskapur tingsins tí gjørt av, at løgtingsformaðurin leggur fyri tingið uppskot til samtyktar.</s>
             </p>
           </div>
-          <div type="signature">
-            <closer>
-              <dateline>
-                <hi class="signature-date" rend="bold center">
-                  <name type="place">Á Løgtingi</name>, tann <date when="2000-12-01">1. desember 2000</date></hi>
-              </dateline>
-              <signed rend="bold center">
-                <persName>Finnbogi Ísakson <lb/><roleName>løgtingsformaður</roleName></persName>
-              </signed>
-            </closer>
-          </div>
+          <closer type="signature">
+            <!-- TODO: fix rendering! -->
+            <dateline><placeName type="place">Á Løgtingi</placeName>, tann <date when="2000-12-01">1. desember 2000</date>
+            </dateline>
+            <signed rend="bold center">
+              <persName>Finnbogi Ísakson <lb/><roleName>løgtingsformaður</roleName></persName>
+            </signed>
+          </closer>
         </div>
         <div>
           <ab rend="italic">1. viðgerð 12. desember 2000. Málið beint í rættarnevndina, sum tann 30. januar 2001 legði fram soljóðandi</ab>
@@ -303,7 +300,7 @@
         <div>
           <ab rend="bold right">Føroya Løgting §19-nevndin</ab>
           <space type="vertical"/>
-          <head rend="bold right">Frágreiðing <lb/> um 80-árini</head>
+          <ab rend="bold right">Frágreiðing <lb/> um 80-árini</ab>
           <pb n="9"/>
           <div>
             <head>Inngangur</head>
