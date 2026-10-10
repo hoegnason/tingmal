@@ -321,36 +321,40 @@
                     <seg>Yvirskriftin yvir § 7 og § 7 verða orðaðar soleiðis:</seg>
                   </p>
                   <quote>
-                    <ab n="Søla av egnari framleiðslu">
-                      <ab rend="italic">Søla av egnari framleiðslu</ab>
-                      <ab type="bill-section" n="§ 7.">
-                        <ab n="§ 7. Stk. 1.">
-                          <p rend="bill-text">
-                            <label rend="bold">§ 7.</label>
-                            <s xml:lang="fo" cert="high" xml:id="vosgady7je">Loyvisnevndin kann loyva rúsdrekkaframleiðarum í Føroyum og rúsdrekkaframleiðarum, ið eru fevndir av Hoyvíkssáttmálanum, á egnum sølustað at selja ella lata egna framleiðslu sína av øli og cider, sum í sær hevur í mesta lagi 5,8 rúmprosent av alkoholi.</s>
-                          </p>
-                        </ab>
-                        <ab n="§ 7. Stk. 2.">
-                          <p rend="bill-text">
-                            <label rend="italic">Stk. 2.</label>
-                            <s xml:lang="fo" cert="high" xml:id="zl3cipjjpb">Uttan mun til ásetingina í stk. 1 kann Loyvisnevndin heimila rúsdrekkaframleiðarum at bjóða ella selja vitjandi egna framleiðslu, ið Rúsdrekkasøla Landsins annars hevur einkarætt at selja.</s>
-                          </p>
-                        </ab>
-                        <ab n="§ 7. Stk. 3.">
-                          <p rend="bill-text">
-                            <label rend="italic">Stk. 3.</label>
-                            <s xml:lang="fo" cert="high" xml:id="j7ggt4bdk5">Loyvisnevndin kann taka aftur loyvi eftir stk. 1 og 2 eftir ásetingunum í § 16, um framleiðarin hevur brotið treytirnar fyri loyvinum.</s>
-                            <s xml:lang="fo" cert="high" xml:id="urbeds6irj">Afturtøkan kann verða avmarkað til ávís sølustøð.</s>
-                          </p>
-                        </ab>
-                        <ab n="§ 7. Stk. 4.">
-                          <p rend="bill-text">
-                            <label rend="italic">Stk. 4.</label>
-                            <s xml:lang="fo" cert="high" xml:id="gn7t3jnasu">Landsstýrismaðurin ásetur nærri reglur fyri loyvi eftir stk. 1 og 2.</s>
-                          </p>
-                        </ab>
-                      </ab>
-                    </ab>
+                    <floatingText>
+                      <body>
+                        <div n="Søla av egnari framleiðslu">
+                          <head rend="italic">Søla av egnari framleiðslu</head>
+                          <div type="bill-section" n="§ 7.">
+                            <div n="§ 7. Stk. 1.">
+                              <p rend="bill-text">
+                                <label rend="bold">§ 7.</label>
+                                <s xml:lang="fo" cert="high" xml:id="vosgady7je">Loyvisnevndin kann loyva rúsdrekkaframleiðarum í Føroyum og rúsdrekkaframleiðarum, ið eru fevndir av Hoyvíkssáttmálanum, á egnum sølustað at selja ella lata egna framleiðslu sína av øli og cider, sum í sær hevur í mesta lagi 5,8 rúmprosent av alkoholi.</s>
+                              </p>
+                            </div>
+                            <div n="§ 7. Stk. 2.">
+                              <p rend="bill-text">
+                                <label rend="italic">Stk. 2.</label>
+                                <s xml:lang="fo" cert="high" xml:id="zl3cipjjpb">Uttan mun til ásetingina í stk. 1 kann Loyvisnevndin heimila rúsdrekkaframleiðarum at bjóða ella selja vitjandi egna framleiðslu, ið Rúsdrekkasøla Landsins annars hevur einkarætt at selja.</s>
+                              </p>
+                            </div>
+                            <div n="§ 7. Stk. 3.">
+                              <p rend="bill-text">
+                                <label rend="italic">Stk. 3.</label>
+                                <s xml:lang="fo" cert="high" xml:id="j7ggt4bdk5">Loyvisnevndin kann taka aftur loyvi eftir stk. 1 og 2 eftir ásetingunum í § 16, um framleiðarin hevur brotið treytirnar fyri loyvinum.</s>
+                                <s xml:lang="fo" cert="high" xml:id="urbeds6irj">Afturtøkan kann verða avmarkað til ávís sølustøð.</s>
+                              </p>
+                            </div>
+                            <div n="§ 7. Stk. 4.">
+                              <p rend="bill-text">
+                                <label rend="italic">Stk. 4.</label>
+                                <s xml:lang="fo" cert="high" xml:id="gn7t3jnasu">Landsstýrismaðurin ásetur nærri reglur fyri loyvi eftir stk. 1 og 2.</s>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </body>
+                    </floatingText>
                   </quote>
                 </item>
               </list>
@@ -712,7 +716,9 @@
           </p>
         </div>
         <!-- TODO: fix the provision headings! -->
-        <ab rend="italic center">Søla og útflýggjan</ab>
+        <div type="section">
+          <head rend="italic">Søla og útflýggjan</head>
+        </div>
         <div type="section">
           <head rend="bold">Til § 9</head>
           <p>
@@ -763,7 +769,10 @@
             <s xml:lang="fo" cert="high" xml:id="j6cyqbf4ws">Ásetingin er óbroytt og er tann sama sum § 20 í galdandi løgtingslóg.</s>
           </p>
         </div>
-        <ab rend="italic center">Revsing</ab>
+        <!-- TODO: fix the provision headings! -->
+        <div type="section">
+          <head rend="italic">Revsing</head>
+        </div>
         <div type="section">
           <head rend="bold">Til § 13</head>
           <p>
