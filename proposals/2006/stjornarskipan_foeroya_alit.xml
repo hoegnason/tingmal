@@ -130,7 +130,9 @@
                                 <roleName>rektari; professari</roleName>
                                 <orgName>Fróðskaparsetur Føroya</orgName>
                             </affiliation>
-                            <roleName type="committee">formaður</roleName>
+                            <state type="committee">
+                                <label>formaður</label>
+                            </state>
                         </person>
                         <person xml:id="kari-a-rogvi">
                             <persName>Kári á Rógvi</persName>
@@ -138,7 +140,9 @@
                             <affiliation>
                                 <orgName>Háskóli Íslands</orgName>
                             </affiliation>
-                            <roleName type="committee">næstformaður</roleName>
+                            <state type="committee">
+                                <label>næstformaður</label>
+                            </state>
                         </person>
                         <person xml:id="bardur-larsen">
                             <persName>Bárður Larsen</persName>
@@ -147,7 +151,9 @@
                                 <roleName>ráðgevi</roleName>
                                 <orgName>Kommunusamskipan Føroya</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                         <person xml:id="ingibjorg-berg">
                             <persName>Ingibjørg Berg</persName>
@@ -156,7 +162,9 @@
                                 <roleName>trivnaðarstjóri</roleName>
                                 <orgName>Tórshavnar kommuna</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                         <person xml:id="joannes-hansen">
                             <persName>Jóannes Hansen</persName>
@@ -165,7 +173,9 @@
                                 <roleName>rektari</roleName>
                                 <orgName>Føroya Læraraskúli</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                         <person xml:id="gurid-ann-joensen">
                             <persName>Gurið Ann Joensen</persName>
@@ -174,7 +184,9 @@
                                 <roleName>stjóri</roleName>
                                 <orgName>Kærustovnurin</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                         <person xml:id="herluf-sigvaldsson">
                             <persName>Herluf Sigvaldsson</persName>
@@ -183,7 +195,9 @@
                                 <roleName>deildarstjóri</roleName>
                                 <orgName>Løgmansskrivstovan</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                         <person xml:id="birita-l-poulsen">
                             <persName>Birita L. Poulsen</persName>
@@ -192,7 +206,9 @@
                                 <roleName>ráðgevi</roleName>
                                 <orgName>Løgtingsins Umboðsmaður</orgName>
                             </affiliation>
-                            <roleName type="committee">nevndarlimur</roleName>
+                            <state type="committee">
+                                <label>nevndarlimur</label>
+                            </state>
                         </person>
                     </listPerson>
 
@@ -205,7 +221,9 @@
                         <person xml:id="runi-rasmussen">
                             <persName>Rúni Rasmussen</persName>
                             <education>M.S.Sc.</education>
-                            <roleName type="committee">skrivari</roleName>
+                            <state type="committee">
+                                <label>skrivari</label>
+                            </state>
                         </person>
                     </listPerson>
                 </div>
@@ -218,15 +236,21 @@
                             <listPerson>
                                 <person xml:id="anfinn-kallsberg">
                                     <persName>Anfinn Kallsberg</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="poul-michelsen">
                                     <persName>Poul Michelsen</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="jacob-vestergaard">
                                     <persName>Jacob Vestergaard</persName>
-                                    <roleName>landsstýrismaður</roleName>
+                                    <state type="office">
+                                        <label>landsstýrismaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -236,15 +260,21 @@
                             <listPerson>
                                 <person xml:id="hogni-hoydal">
                                     <persName>Høgni Hoydal</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="annita-a-fridriksmork">
                                     <persName>Annita á Fríðriksmørk</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="finnur-helmsdal">
                                     <persName>Finnur Helmsdal</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -254,15 +284,21 @@
                             <listPerson>
                                 <person xml:id="joannes-eidesgaard">
                                     <persName>Jóannes Eidesgaard</persName>
-                                    <roleName>løgmaður</roleName>
+                                    <state type="office">
+                                        <label>løgmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="john-johannesen">
                                     <persName>John Johannesen</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="kristian-magnussen">
                                     <persName>Kristian Magnussen</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -272,15 +308,21 @@
                             <listPerson>
                                 <person xml:id="edmund-joensen">
                                     <persName>Edmund Joensen</persName>
-                                    <roleName>tingformaður</roleName>
+                                    <state type="office">
+                                        <label>tingformaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="bardur-nielsen">
                                     <persName>Bárður Nielsen</persName>
-                                    <roleName>landsstýrismaður</roleName>
+                                    <state type="office">
+                                        <label>landsstýrismaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="lisabeth-l-petersen">
                                     <persName>Lisabeth L. Petersen</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -290,12 +332,19 @@
                             <listPerson>
                                 <person xml:id="jenis-av-rana">
                                     <persName>Jenis av Rana</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="bill-justinussen">
                                     <persName>Bill Justinussen</persName>
-                                    <roleName>varalimur</roleName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="committee">
+                                        <!-- TODO: reveiw later! -->
+                                        <label>varalimur</label>
+                                    </state>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -305,11 +354,16 @@
                             <listPerson>
                                 <person xml:id="kari-p-hojgaard">
                                     <persName>Kári P. Højgaard</persName>
-                                    <roleName>løgtingsmaður</roleName>
+                                    <state type="office">
+                                        <label>løgtingsmaður</label>
+                                    </state>
                                 </person>
                                 <person xml:id="danjal-petur-hansen">
                                     <persName>Dánjal Petur Hansen</persName>
-                                    <roleName>varamaður</roleName>
+                                    <state type="office">
+                                        <!-- TODO: reveiw later! -->
+                                        <label>varamaður</label>
+                                    </state>
                                 </person>
                             </listPerson>
                         </org>
@@ -317,10 +371,10 @@
                 </div>
             </div>
         </front>
-        <text>
+        <body>
             <div type="introduction">
                 <p>
-                    <s xml:id="tawhuaaxzl"><hi rend="bold">Frágreiðingin um grundlógararbeiði</hi> frá formanninum í grundlógarnevndini, varð latin landsstýrismanninum í sjálvstýrismálum <date when="2001-31-31">31. desember 2001</date>, og eftir at verða løgfrøðiliga kannað og rættað, endaliga lagt fram fyri almenningin <date when="2002-03-14">14. mars 2002</date>.</s>
+                    <s xml:id="tawhuaaxzl"><hi rend="bold">Frágreiðingin um grundlógararbeiði</hi> frá formanninum í grundlógarnevndini, varð latin landsstýrismanninum í sjálvstýrismálum <date when="2001-12-31">31. desember 2001</date>, og eftir at verða løgfrøðiliga kannað og rættað, endaliga lagt fram fyri almenningin <date when="2002-03-14">14. mars 2002</date>.</s>
                     <s xml:id="sin3vazxlv">Eftir at henda formansfrágreiðingin frá 2001 var latin úr hondum, dovnaði politiski áhugin fyri grundlógararbeiðinum eina tíð, tí val stóð fyri durum.</s>
                     <s xml:id="eclvqpx52h">Eftir løgtingsvalið <date when="2002-04-30">30. apríl 2002</date> var semja um at halda fram við arbeiðinum við støði í eini dagførdari lóg um grundlógarnevnd – løgtingslóg nr. 79 frá 8. mai 2003 um grundlógarnevnd.</s>
                     <s xml:id="i7riyhks5t">Arbeiðið byrjaði so smátt aftur av álvara, men politisku leikirnir førdu nú aftur við sær, at løgmaður útskrivaði val at verða <date when="2004-01-20">20. januar 2004</date>.</s>
@@ -1544,6 +1598,6 @@
                     </div>
                 </div>
             </div>
-        </text>
+        </body>
     </text>
 </TEI>

@@ -504,23 +504,59 @@
               <s xml:lang="fo" cert="high" xml:id="fjjhlgqqik">Í triðja lagi vísa avgerðarnotatið og viðmerkingar frá 3. partsmetingum, at váðar fyri seinkingum og fyri hækkaðum kostnaði eru ymiskir fyri ymsu loysnirnar.</s>
               <s xml:lang="fo" cert="high" xml:id="kqcmywhw3a">Her eru partarnir, sum hava gjørt 3. partsmeting, ikki samdir í øllum.</s>
             </p>
-            <list>
-              <item>Bæði Nordmelan og Cowi meta, at tíðarætlanin er optimistisk, men sagt verður eisini, at tíðarætlanin ikki er órealistisk.</item>
-              <item>Báðir partar meta, at við farleið 2 er størri vandi fyri seinkingum í mun til mettu byggitíðina, enn við farleið 1.</item>
-              <item>Nordmelan heldur, at møguleikar eru fyri at bora úr Skúvoy fyri ein lægri kostnað enn metingin hjá P/F Suðuroyartunlinum, men tá eru nakrar fortreytir, sum skulu uppfyllast. Cowi vísir hinvegin á, at tað má væntast at vera dýrari at bora niður úr Skúvoy enn at bora upp í Skúvoy.</item>
-              <item>Nordmelan ivast, um møguligt er at koma í gongd við at bora úr Skúvoy so tíðliga sum ætlað, sum er ein fortreyt fyri, at tíðarætlanin heldur fyri loysnirnar, har borað verður úr Skúvoy.</item>
+            <list rend="bulleted">
+              <item>
+                <s xml:lang="fo" cert="high">Bæði Nordmelan og Cowi meta, at tíðarætlanin er optimistisk, men sagt verður eisini, at tíðarætlanin ikki er órealistisk.</s>
+              </item>
+              <item>
+                <s xml:lang="fo" cert="high">Báðir partar meta, at við farleið 2 er størri vandi fyri seinkingum í mun til mettu byggitíðina, enn við farleið 1.</s>
+              </item>
+              <item>
+                <s xml:lang="fo" cert="high">Nordmelan heldur, at møguleikar eru fyri at bora úr Skúvoy fyri ein lægri kostnað enn metingin hjá P/F Suðuroyartunlinum, men tá eru nakrar fortreytir, sum skulu uppfyllast.</s>
+                <s xml:lang="fo" cert="high">Cowi vísir hinvegin á, at tað má væntast at vera dýrari at bora niður úr Skúvoy enn at bora upp í Skúvoy.</s>
+              </item>
+              <item>
+                <s xml:lang="fo" cert="high">Nordmelan ivast, um møguligt er at koma í gongd við at bora úr Skúvoy so tíðliga sum ætlað, sum er ein fortreyt fyri, at tíðarætlanin heldur fyri loysnirnar, har borað verður úr Skúvoy.</s>
+              </item>
             </list>
-            <ab rend="bold">Talva 1: Farleiðir, kostnaðarmetingar og byggitíð</ab>
-            <!-- TODO: insert table here! -->
-            <ab>
-              <ab>Kelda: Avgerðarnotat, P/F Suðuroyartunnilin (Fylgiskjal 27)</ab>
-              <p>
-                <label>*Viðmerking til loysn 2A:</label>
-                <s xml:id="tosmrswj6r">Fyri farleið 2, er tunnilin so langur, at boring úr Skúvoy verður mett at vera ein fortreyt fyri at fremja verkætlanina, og tí er loysn 2A ógvuliga ivasom.</s>
-                <s xml:id="n47akgkit3">Hetta framgongur eisini av niðurstøðuskjalinum (fylgiskjal 25).</s>
-                <s xml:id="cakwamc6de">Loysnin er kortini tikin við í útrokningum og uppsetingini her, fyri betur at vísa, hvussu stórur partur av muni í kostnaði og byggitíð kemur av longd á undirsjóvartunlinum og hvussu stórur partur kemur av at bora úr Skúvoy.</s>
-              </p>
-            </ab>
+            <table n="1" rows="4" cols="5">
+              <head rend="bold">Talva 1: Farleiðir, kostnaðarmetingar og byggitíð</head>
+              <row role="label">
+                <cell/>
+                <cell role="label" cols="2" rend="bold">Farleið 1: Djúpadalir – Sandvík</cell>
+                <cell role="label" cols="2" rend="bold">Farleið 2: Múlin – Sandvík</cell>
+              </row>
+              <row role="label">
+                <cell/>
+                <cell role="label">A: Bora upp í Skúvoy</cell>
+                <cell role="label">B: Bora úr Skúvoy</cell>
+                <cell role="label">A: Bora upp í Skúvoy<ref type="note" target="#talva-1-note">*</ref></cell>
+                <cell role="label">B: Bora úr Skúvoy</cell>
+              </row>
+              <row role="data">
+                <cell role="label">Kostnaðarmeting, mió. kr.</cell>
+                <cell>4.875</cell>
+                <cell>5.457</cell>
+                <cell>5.369</cell>
+                <cell>5.945</cell>
+              </row>
+              <row role="data">
+                <cell role="label">Byggitíð, ár</cell>
+                <cell>10,1</cell>
+                <cell>8,7</cell>
+                <cell>11,0</cell>
+                <cell>9,3</cell>
+              </row>
+              <note type="source">Kelda: Avgerðarnotat, P/F Suðuroyartunnilin (Fylgiskjal 27)</note>
+              <note xml:id="talva-1-note" type="table-note" n="*">
+                <p>
+                  <label>*Viðmerking til loysn 2A:</label>
+                  <s xml:id="tosmrswj6r">Fyri farleið 2, er tunnilin so langur, at boring úr Skúvoy verður mett at vera ein fortreyt fyri at fremja verkætlanina, og tí er loysn 2A ógvuliga ivasom.</s>
+                  <s xml:id="n47akgkit3">Hetta framgongur eisini av niðurstøðuskjalinum (fylgiskjal 25).</s>
+                  <s xml:id="cakwamc6de">Loysnin er kortini tikin við í útrokningum og uppsetingini her, fyri betur at vísa, hvussu stórur partur av muni í kostnaði og byggitíð kemur av longd á undirsjóvartunlinum og hvussu stórur partur kemur av at bora úr Skúvoy.</s>
+                </p>
+              </note>
+            </table>
             <p>
               <s xml:lang="fo" cert="high" xml:id="razbybnnvk">Eitt neyvari boð upp á kostnað og byggitíð er í síðsta enda treytað av, hvør linjuføring verður vald at fara víðari við, og síðani teimum tilboðum, sum koma inn upp á at gera tunnilin og avleiddu verkætlanirnar.</s>
             </p>
@@ -1102,40 +1138,46 @@
                   <seg xml:lang="fo">Harumframt leggur løgmaður dent á, at tíðin er búgvin til, at Løgtingið tekur støðu til tvey viðurskifti:</seg>
                 </p>
                 <list>
-                  <item><label>1.</label> Skal Suðuroyartunnil við tilhoyrandi tunnils- og vegakervum fyrireikast, prosjekterast og bjóðast út?</item>
-                  <item><label>2.</label> Skal tað framvegis vera P/F Suðuroyartunnil, sum hevur royndir frá væl eydnaðum verkætlanunum við Eysturoyar- og Sandoyartunlunum, sum er byggiharri og skal standa fyri fyrireikingararbeiðinum, prosjekteringini og útboðnum av verkætlanini?</item>
+                  <label>1.</label>
+                  <item>
+                    <s xml:lang="fo" cert="high">Skal Suðuroyartunnil við tilhoyrandi tunnils- og vegakervum fyrireikast, prosjekterast og bjóðast út?</s>
+                  </item>
+                  <label>2.</label>
+                  <item>
+                    <s xml:lang="fo" cert="high">Skal tað framvegis vera P/F Suðuroyartunnil, sum hevur royndir frá væl eydnaðum verkætlanunum við Eysturoyar- og Sandoyartunlunum, sum er byggiharri og skal standa fyri fyrireikingararbeiðinum, prosjekteringini og útboðnum av verkætlanini?</s>
+                  </item>
                 </list>
               </div>
               <div>
                 <head rend="bold">Uppskotið, sum verður lagt fyri Løgtingið, er broytt nakað í mun til tað, sum var sent til ummælis.</head>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="zb2wyhempb">§ 3 er broytt samsvarandi semju í politiska fylgibólkinum um, at tilhoyrandi tunnils- og vegakervi á Sandoynni skal broytast soleiðis, at ferðslan millum Sandoyartunnilin í Traðardali og Suðuroyartunnilin í Djúpadali verður leidd uttanum Sands bygd og landbúnaðarjørðina.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="j5ieqs2abp">Løgmansskrivstovan skal upplýsa, at ein ætlan um at gera tunnil undir Traðarhamar er leysliga umrødd við Sands bygdaráð, men hevur ikki verið til ummælis, og at tað fyriliggja ikki fakligar metingar av, hvørjar umhvørvisligar og fíggjarligar avleiðingar ein møguligur tunnil undir Traðarhamar hevur, og hvønn mun tað ger á val av linjuføring.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="g3f67aq6ma">Løgmansskrivstovan skal somuleiðis vísa á, at vegaføringar og tunnilsætlanir verða fyrireikaðar saman við bygdaráðunum og Umhvørvisstovuni.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="phyxxwpbsc">Serligu viðmerkingarnar til ávísar ásetingar eru tó tillagaðar nakað við nærri útgreiningum fyri at beina burtur ivamál, sum eru komin fram í ummælisskrivunum.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="z2io3uic3f">Tilvísingar í §§ 5, 6 og 8 eru tillagaðar samsvarandi broyting í § 3.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="oob77dpka2">§ 8, stk. 1 er broytt soleiðis, at tilvísingin til náttúruverndarlógina er røtt.</s>
+                  <s xml:lang="fo" cert="high" xml:id="r5a2bo52jc">Talan er um eina tekniska broyting.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="aufwebx35y">Aðrar broytingar eru ikki gjørdar í sjálvum lógartekstinum, men serligu viðmerkingar til § 4 eru tillagaðar og nágreinaðar samsvarandi viðmerking frá Landsverki um ógreidleika viðvíkjandi góðkenningar- og eftirlitsleiklutinum.</s>
+                </p>
+                <p>
+                  <s xml:lang="fo" cert="high" xml:id="hvytypixcn">Ummælisskrivini eru viðfest sum fylgiskjøl 39 – 65 og ein samanskriving av øllum ummælisskrivum er viðløgd sum fylgiskjal 66.</s>
+                  <s xml:lang="fo" cert="high" xml:id="usa5fzessv">Fleiri, sum hava sent ummæli inn í sambandi við hetta lógaruppskotið, hava viðfest áður sent ummælisskriv til løgtingsmál 072/2024 um Suðuroyartunnil, sum fall burtur á ólavsøku.</s>
+                  <s xml:lang="fo" cert="high" xml:id="b5moqlopjn">Tí verður eisini ummælisskrivið frá tí løgtingsmálinum viðfest fylgiskjali 66.</s>
+                </p>
               </div>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="zb2wyhempb">§ 3 er broytt samsvarandi semju í politiska fylgibólkinum um, at tilhoyrandi tunnils- og vegakervi á Sandoynni skal broytast soleiðis, at ferðslan millum Sandoyartunnilin í Traðardali og Suðuroyartunnilin í Djúpadali verður leidd uttanum Sands bygd og landbúnaðarjørðina.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="j5ieqs2abp">Løgmansskrivstovan skal upplýsa, at ein ætlan um at gera tunnil undir Traðarhamar er leysliga umrødd við Sands bygdaráð, men hevur ikki verið til ummælis, og at tað fyriliggja ikki fakligar metingar av, hvørjar umhvørvisligar og fíggjarligar avleiðingar ein møguligur tunnil undir Traðarhamar hevur, og hvønn mun tað ger á val av linjuføring.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="g3f67aq6ma">Løgmansskrivstovan skal somuleiðis vísa á, at vegaføringar og tunnilsætlanir verða fyrireikaðar saman við bygdaráðunum og Umhvørvisstovuni.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="phyxxwpbsc">Serligu viðmerkingarnar til ávísar ásetingar eru tó tillagaðar nakað við nærri útgreiningum fyri at beina burtur ivamál, sum eru komin fram í ummælisskrivunum.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="z2io3uic3f">Tilvísingar í §§ 5, 6 og 8 eru tillagaðar samsvarandi broyting í § 3.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="oob77dpka2">§ 8, stk. 1 er broytt soleiðis, at tilvísingin til náttúruverndarlógina er røtt.</s>
-                <s xml:lang="fo" cert="high" xml:id="r5a2bo52jc">Talan er um eina tekniska broyting.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="aufwebx35y">Aðrar broytingar eru ikki gjørdar í sjálvum lógartekstinum, men serligu viðmerkingar til § 4 eru tillagaðar og nágreinaðar samsvarandi viðmerking frá Landsverki um ógreidleika viðvíkjandi góðkenningar- og eftirlitsleiklutinum.</s>
-              </p>
-              <p>
-                <s xml:lang="fo" cert="high" xml:id="hvytypixcn">Ummælisskrivini eru viðfest sum fylgiskjøl 39 – 65 og ein samanskriving av øllum ummælisskrivum er viðløgd sum fylgiskjal 66.</s>
-                <s xml:lang="fo" cert="high" xml:id="usa5fzessv">Fleiri, sum hava sent ummæli inn í sambandi við hetta lógaruppskotið, hava viðfest áður sent ummælisskriv til løgtingsmál 072/2024 um Suðuroyartunnil, sum fall burtur á ólavsøku.</s>
-                <s xml:lang="fo" cert="high" xml:id="b5moqlopjn">Tí verður eisini ummælisskrivið frá tí løgtingsmálinum viðfest fylgiskjali 66.</s>
-              </p>
             </div>
           </div>
         </div>
@@ -4506,95 +4548,99 @@
               <seg>Fyri at fáa gjørt eina innleiðandi meting av trygdini ísv ein Suðuroyartunnil, hevur arbeiðsbólkurin vent sær til granskingarstovnin SINTEF í Noregi, sum hevur skrivað eina frágreiðing, og avrit av samandráttinum sæst niðanfyri:</seg>
             </p>
             <quote>
-              <ab>
-                <ab rend="bold" xml:lang="no">Formål</ab>
-                <p>
-                  <s xml:lang="no" xml:id="rqgjlwdyky">Hensikten med dette oppdraget er å gi en vurdering av sikkerhet i tunneler for inntil 4 forslag til tunnel linjeføringmellom Sandoy og Suduroy på Færøyene.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="b4y5xbtjjs">Tunnelen blir ettløps og etter alt å dømme et sted mellom 22 km -26 km lang.</s>
-                  <s xml:lang="no" xml:id="ip2zotzfnw">Ett alternativ innebærer mulighet for en rømningsveg til en mindre øy omtrent midtveis, men det blir under alle omstendigheter nødvendig å tenke utover reglene i de norske håndbøkene.</s>
-                  <s xml:lang="no" xml:id="nataveux64">Vurderingen innebærer å se på hva som er mulig, og hvilke tiltak som kan tenkes være nødvendige, for at linjeføringen er forsvarlig.</s>
-                  <s xml:lang="no" xml:id="dno2bztcmr">Det er snakk om en lavtrafikkert tunnel, med estimert ÅDT ca 1600 kjt/døgn.</s>
-                  <s xml:lang="no" xml:id="aqxirad5py">Vurdering av tunnelsikkerhet omfatter trafikksikkerhet, brannsikkerhet, rømning og geologi ved inntil 4 forskjellige linjeføringer.</s>
-                </p>
-              </ab>
-              <ab>
-                <ab rend="bold" xml:lang="no">Oppsummering</ab>
-                <p>
-                  <s xml:lang="no" xml:id="hxc74zlqng">Kapittel 2 beskriver sikkerhet i tunnel på et generelt grunnlag.</s>
-                  <s xml:lang="no" xml:id="mfqd2wzbj5">I den sammenheng er det viktig å skille mellom trafikksikkerhet og brannsikkerhet.</s>
-                  <s xml:lang="no" xml:id="qqfzf2z4uu">Trafikksikkerhet er beskrevet i 5 og Kapittel 2 fokuserer mest på brannsikkerhet.</s>
-                  <s xml:lang="no" xml:id="gcmgompeu7">Det er mange faktorer som spiller inn når sikkerheten skal vurderes: tunnelens geometriske utforming, trafikkstrømsparametere, sikkerhetsstyring, trafikkstyring, overvåking, trafikantadferd og redningstjeneste.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="kk5pujqeoo">Selvredningsprisnippet er meget sentralt ved hendelser som krever at trafikantene må evakuere tunellen, f.eks. ved brann.</s>
-                  <s xml:lang="no" xml:id="xelfs5gmyx">Dette prinsippet innebærer at trafikanter i en tunnel skal kunne ta seg ut av tunnelen på egen hånd, enten til fots eller i eget eller andres kjøretøy.</s>
-                  <s xml:lang="no" xml:id="phauw4cyjq">En forutsetning er at de som er involvert i en situasjon som krever selvredning må kjenne til dette prinsippet og den faktiske faren vedkommende befinner seg i.</s>
-                  <s xml:lang="no" xml:id="rbkp52obz3">Selvredningsprinsippet er i samsvar med EU-direktivet og den norske tunnelsikkerhetsforskriften.</s>
-                  <pb n="36"/>
-                  <s xml:lang="no" xml:id="vz2cqg46my">I tunneler skal det være lagt til rette at folk skal kunne komme seg ut av tunnelen på egen hånd, eller overleve i tunnelen dersom det oppstår en brannsituasjon.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="wntr4nvdsl">Skal selvredning fungere og trafikantene ha en reell sjanse til å gjennomføre evakuering i røykfylte omgivelser på egen hånd, må tunnelen være konstruert og utstyrt med tekniske installasjoner som vil gi hjelp og støtte til trafikantene i en nødssituasjon.</s>
-                  <s xml:lang="no" xml:id="zfvjhfrpcf">Eksempel på tiltak som vil styrke evnen til selvredning er bruk av automatisk deteksjon av hendelse slik at vi sikrer at vi oppdager brann tidlig i forløpet.</s>
-                  <s xml:lang="no" xml:id="d3eq3kd33f">Bruk av innsnakk med høyttalere sikrer at trafikantene får tidlig varsling av hendelse og hvilke farer de befinner seg, samt instruksjon om å starte evakuering.</s>
-                  <s xml:lang="no" xml:id="w5g24lnrsd">Visuelle og akustiske ledesystem kan ivareta selvredning.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="cbjrgdrraf">Kapittel 3 inneholder en kort beskrivelse av de fire alternativene og en meget forenklet risikovurdering av de fire alternativene.</s>
-                  <s xml:lang="no" xml:id="e7h5g45cit">Felles for alle alternativene er at de ikke er spesielt dype og at tunnelen avsluttes i begge ender med stigninger på 5 % eller mindre.</s>
-                  <s xml:lang="no" xml:id="avhs4o6vks">Det er ikke funnet noen spesielle fordeler med å ta tunnelen opp på Skyvøy.</s>
-                  <s xml:lang="no" xml:id="o2t7difzkr">Det bør gjøres en mer detaljert kvalitativ vurdering av de fire alternativene ved en mer detaljert gjennomgang av geometrien for de ulike tunnelalternativene.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="efnoe3rhyd">Kapittel 4 beskriver ulike tiltak for å redusere risiko for brann.</s>
-                  <s xml:lang="no" xml:id="z627b7j2rj">Dette omfatter både brannforebyggende tiltak, f.eks. slokkeutstyr og slokkeanlegg, og sannsynlighetsreduserende tiltak.</s>
-                  <s xml:lang="no" xml:id="tosbrmrzjc">Mange av de tiltakene som hører til i den siste kategorien er beskrevet i kapittel 5.</s>
-                  <s xml:lang="no" xml:id="lzc3l5ydmc">I tillegg beskrives konsekvensreduserende tiltak.</s>
-                  <s xml:lang="no" xml:id="l24efyzsy5">Dersom ulykken blir et faktum skal konsekvensreduserende tiltak bidra til at risiko holdes på et akseptabelt nivå.</s>
-                  <s xml:lang="no" xml:id="e6bsujoflp">Konsekvensreduserende branntekniske tiltak kan deles inn i to typer: aktive og passive.</s>
-                  <s xml:lang="no" xml:id="c6p5ircilg">Aktive tiltak starter når en brann bryter ut og kan være for eksempel brannalarm, slokkeanlegg, branndører med dørlukkere, nødbelysning og røykventilering.</s>
-                  <s xml:lang="no" xml:id="qbutqu35yw">Passive tiltak er generelt innbygget i objekt med funksjon å kunne stå imot en brann under gitt tid, for eksempel brannskiller, overflater med god brannmotstand, branndører, rømningsveier i egen branncelle og utforming av bæresystemet.</s>
-                  <s xml:lang="no" xml:id="ezzvqlzeyy">Notatet beskriver også etablering av sikre rømningsrom, enten sideplasserte rom <pb n="37"/>etablert 90 grader på tunnelaksen eller prefabrikerte redningskammer som plasser eksempelvis i forlengelse av en havarilomme.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="jouiykflec">Kapittel 5 beskriver hvordan trafikken i tunellen vil variere over året, uken og døgnet.</s>
-                  <s xml:lang="no" xml:id="qr6esewfmu">Risikoen knyttet til en uønsket hendelse, dvs. sannsynligheten for at hendelsen skal inntreffe og konsekvensen(e) av hendelsen, henger nøye sammen med trafikkvolumet.</s>
-                  <s xml:lang="no" xml:id="ipyh7mk55w">I minste time vil det kunne være 5-6 kjøretøyer i timen som kjører gjennom tunellen og i største time vil det kunne være godt over 300 kjøretøyer i timen (år 2050).</s>
-                  <s xml:lang="no" xml:id="bvnjveiknm">Det vil si at forholdet mellom minste og største time er ca. 1:60.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="egetmurpyw">Kapittel 5 beskriver videre en del trafikkregulerende tiltak som kan være aktuelle å innføre.</s>
-                  <s xml:lang="no" xml:id="cs4nptskba">Ingen av disse tiltakene er spesielt kostnadskrevende og alle tiltakene har positive effekter på sikkerheten til trafikanter i kjøretøyer i tunnelen.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="k3mjfm4bbf">I dette kapitlet er det dokumentert behovet for å detektere hendelser og varsle trafikantene så raskt som mulig.</s>
-                  <s xml:lang="no" xml:id="k7jk553g4u">I den sammenheng kan tiltaket som inkluderer variabel skilting som sier at bilføreren skal snu og kjøre ut igjen, være et viktig tiltak.</s>
-                  <s xml:lang="no" xml:id="fghijauv33">Det beste er om trafikantene evner å kjøre forbi en brann i en tidlig fase eller kan snu og kjøre ut før de er fanget i røyken.</s>
-                  <s xml:lang="no" xml:id="rfyhyq575m">Etablering av snunisjer, rundkjøringer eller snuplasser (bergrom) der også tunge kjøretøy og busser kan snu er viktig for å ivareta evakuering med bil.</s>
-                  <s xml:lang="no" xml:id="yqlz5aqzxe">Slike tiltak bør etableres ca. hver 4-6 km og utstyres med skilt der det står "Snu og kjør ut".</s>
-                  <s xml:lang="no" xml:id="x62if3t66k">Videre er tiltaket om å få kjøretøyene til å holde god avstand mellom seg og forankjørende kjøretøy et viktig tiltak, både for å hindre påkjøring bakfra ulykker og å redusere faren for spredning av brann fra kjøretøy til kjøretøy.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="fqbkskg62s">Tunnelen er meget lang og har veldig lange strekninger med rett horisontalkurvatur som vil forsterke bilførerens oppfattelse av monotoni.</s>
-                  <s xml:lang="no" xml:id="kmyyzge5ta">Derfor er det viktig at denne monotonien brytes gjennom endringer i tunnelprofil og lyssetting.</s>
-                  <s xml:lang="no" xml:id="szngkt3gxk">Slike endringer i tunnelprofil kan også gjøre det mulig for større kjøretøy/vogntog å snu i de tilfellene det er påkrevd.</s>
-                </p>
-                <pb n="38"/>
-                <p>
-                  <s xml:lang="no" xml:id="txi6qez5g5">Overvåking av fartsgrensen er også et rimelig tiltak som kan gi meget gode effekter mht.</s>
-                  <s xml:lang="no" xml:id="wuihwawfpz">trafikksikkerhet.</s>
-                  <s xml:lang="no" xml:id="ox6q42uyjk">Erfaringene fra norske tunneler er at det registreres til dels meget høye hastigheter og mange kilometers rettstrekning vil nok øke risikoen for denne type uheldig kjøring.</s>
-                </p>
-                <p>
-                  <s xml:lang="no" xml:id="ns3hgqb5gb">Gjennomsnittsmåling, dvs. fotoboks ved inn- og utkjøring av tunnelen, vil være et effektivt tiltak.</s>
-                  <s xml:lang="no" xml:id="occzw5rk7q">Begrensninger på transport av farlig gods er et tiltak som vil redusere konsekvensene dersom det skjer en uønsket hendelse med det farlige godset.</s>
-                  <s xml:lang="no" xml:id="oywikeycfo">Eksempler på slike begrensinger kan være tidsbegrensninger, f.eks. transport bare om natten i lavtrafikkperioder, eller det kan være begrensninger på antall transporter med farlig gods på samme tid.</s>
-                  <s xml:lang="no" xml:id="egdl2fhj2g">Dette kan sammenlignes med slot-tider i luftfarten.</s>
-                  <s xml:lang="no" xml:id="yl4kchotj3">Førere av kjøretøy med farlig gods må søke om en tilgangstid til tunellen og kontrollen av dette systemet kan benytte de samme fotoboksene som brukes for overvåking av fartsgrensen.</s>
-                </p>
-              </ab>
+              <floatingText>
+                <body>
+                  <div>
+                    <head rend="bold" xml:lang="no">Formål</head>
+                    <p>
+                      <s xml:lang="no" xml:id="rqgjlwdyky">Hensikten med dette oppdraget er å gi en vurdering av sikkerhet i tunneler for inntil 4 forslag til tunnel linjeføringmellom Sandoy og Suduroy på Færøyene.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="b4y5xbtjjs">Tunnelen blir ettløps og etter alt å dømme et sted mellom 22 km -26 km lang.</s>
+                      <s xml:lang="no" xml:id="ip2zotzfnw">Ett alternativ innebærer mulighet for en rømningsveg til en mindre øy omtrent midtveis, men det blir under alle omstendigheter nødvendig å tenke utover reglene i de norske håndbøkene.</s>
+                      <s xml:lang="no" xml:id="nataveux64">Vurderingen innebærer å se på hva som er mulig, og hvilke tiltak som kan tenkes være nødvendige, for at linjeføringen er forsvarlig.</s>
+                      <s xml:lang="no" xml:id="dno2bztcmr">Det er snakk om en lavtrafikkert tunnel, med estimert ÅDT ca 1600 kjt/døgn.</s>
+                      <s xml:lang="no" xml:id="aqxirad5py">Vurdering av tunnelsikkerhet omfatter trafikksikkerhet, brannsikkerhet, rømning og geologi ved inntil 4 forskjellige linjeføringer.</s>
+                    </p>
+                  </div>
+                  <div>
+                    <head rend="bold" xml:lang="no">Oppsummering</head>
+                    <p>
+                      <s xml:lang="no" xml:id="hxc74zlqng">Kapittel 2 beskriver sikkerhet i tunnel på et generelt grunnlag.</s>
+                      <s xml:lang="no" xml:id="mfqd2wzbj5">I den sammenheng er det viktig å skille mellom trafikksikkerhet og brannsikkerhet.</s>
+                      <s xml:lang="no" xml:id="qqfzf2z4uu">Trafikksikkerhet er beskrevet i 5 og Kapittel 2 fokuserer mest på brannsikkerhet.</s>
+                      <s xml:lang="no" xml:id="gcmgompeu7">Det er mange faktorer som spiller inn når sikkerheten skal vurderes: tunnelens geometriske utforming, trafikkstrømsparametere, sikkerhetsstyring, trafikkstyring, overvåking, trafikantadferd og redningstjeneste.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="kk5pujqeoo">Selvredningsprisnippet er meget sentralt ved hendelser som krever at trafikantene må evakuere tunellen, f.eks. ved brann.</s>
+                      <s xml:lang="no" xml:id="xelfs5gmyx">Dette prinsippet innebærer at trafikanter i en tunnel skal kunne ta seg ut av tunnelen på egen hånd, enten til fots eller i eget eller andres kjøretøy.</s>
+                      <s xml:lang="no" xml:id="phauw4cyjq">En forutsetning er at de som er involvert i en situasjon som krever selvredning må kjenne til dette prinsippet og den faktiske faren vedkommende befinner seg i.</s>
+                      <s xml:lang="no" xml:id="rbkp52obz3">Selvredningsprinsippet er i samsvar med EU-direktivet og den norske tunnelsikkerhetsforskriften.</s>
+                      <pb n="36"/>
+                      <s xml:lang="no" xml:id="vz2cqg46my">I tunneler skal det være lagt til rette at folk skal kunne komme seg ut av tunnelen på egen hånd, eller overleve i tunnelen dersom det oppstår en brannsituasjon.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="wntr4nvdsl">Skal selvredning fungere og trafikantene ha en reell sjanse til å gjennomføre evakuering i røykfylte omgivelser på egen hånd, må tunnelen være konstruert og utstyrt med tekniske installasjoner som vil gi hjelp og støtte til trafikantene i en nødssituasjon.</s>
+                      <s xml:lang="no" xml:id="zfvjhfrpcf">Eksempel på tiltak som vil styrke evnen til selvredning er bruk av automatisk deteksjon av hendelse slik at vi sikrer at vi oppdager brann tidlig i forløpet.</s>
+                      <s xml:lang="no" xml:id="d3eq3kd33f">Bruk av innsnakk med høyttalere sikrer at trafikantene får tidlig varsling av hendelse og hvilke farer de befinner seg, samt instruksjon om å starte evakuering.</s>
+                      <s xml:lang="no" xml:id="w5g24lnrsd">Visuelle og akustiske ledesystem kan ivareta selvredning.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="cbjrgdrraf">Kapittel 3 inneholder en kort beskrivelse av de fire alternativene og en meget forenklet risikovurdering av de fire alternativene.</s>
+                      <s xml:lang="no" xml:id="e7h5g45cit">Felles for alle alternativene er at de ikke er spesielt dype og at tunnelen avsluttes i begge ender med stigninger på 5 % eller mindre.</s>
+                      <s xml:lang="no" xml:id="avhs4o6vks">Det er ikke funnet noen spesielle fordeler med å ta tunnelen opp på Skyvøy.</s>
+                      <s xml:lang="no" xml:id="o2t7difzkr">Det bør gjøres en mer detaljert kvalitativ vurdering av de fire alternativene ved en mer detaljert gjennomgang av geometrien for de ulike tunnelalternativene.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="efnoe3rhyd">Kapittel 4 beskriver ulike tiltak for å redusere risiko for brann.</s>
+                      <s xml:lang="no" xml:id="z627b7j2rj">Dette omfatter både brannforebyggende tiltak, f.eks. slokkeutstyr og slokkeanlegg, og sannsynlighetsreduserende tiltak.</s>
+                      <s xml:lang="no" xml:id="tosbrmrzjc">Mange av de tiltakene som hører til i den siste kategorien er beskrevet i kapittel 5.</s>
+                      <s xml:lang="no" xml:id="lzc3l5ydmc">I tillegg beskrives konsekvensreduserende tiltak.</s>
+                      <s xml:lang="no" xml:id="l24efyzsy5">Dersom ulykken blir et faktum skal konsekvensreduserende tiltak bidra til at risiko holdes på et akseptabelt nivå.</s>
+                      <s xml:lang="no" xml:id="e6bsujoflp">Konsekvensreduserende branntekniske tiltak kan deles inn i to typer: aktive og passive.</s>
+                      <s xml:lang="no" xml:id="c6p5ircilg">Aktive tiltak starter når en brann bryter ut og kan være for eksempel brannalarm, slokkeanlegg, branndører med dørlukkere, nødbelysning og røykventilering.</s>
+                      <s xml:lang="no" xml:id="qbutqu35yw">Passive tiltak er generelt innbygget i objekt med funksjon å kunne stå imot en brann under gitt tid, for eksempel brannskiller, overflater med god brannmotstand, branndører, rømningsveier i egen branncelle og utforming av bæresystemet.</s>
+                      <s xml:lang="no" xml:id="ezzvqlzeyy">Notatet beskriver også etablering av sikre rømningsrom, enten sideplasserte rom <pb n="37"/>etablert 90 grader på tunnelaksen eller prefabrikerte redningskammer som plasser eksempelvis i forlengelse av en havarilomme.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="jouiykflec">Kapittel 5 beskriver hvordan trafikken i tunellen vil variere over året, uken og døgnet.</s>
+                      <s xml:lang="no" xml:id="qr6esewfmu">Risikoen knyttet til en uønsket hendelse, dvs. sannsynligheten for at hendelsen skal inntreffe og konsekvensen(e) av hendelsen, henger nøye sammen med trafikkvolumet.</s>
+                      <s xml:lang="no" xml:id="ipyh7mk55w">I minste time vil det kunne være 5-6 kjøretøyer i timen som kjører gjennom tunellen og i største time vil det kunne være godt over 300 kjøretøyer i timen (år 2050).</s>
+                      <s xml:lang="no" xml:id="bvnjveiknm">Det vil si at forholdet mellom minste og største time er ca. 1:60.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="egetmurpyw">Kapittel 5 beskriver videre en del trafikkregulerende tiltak som kan være aktuelle å innføre.</s>
+                      <s xml:lang="no" xml:id="cs4nptskba">Ingen av disse tiltakene er spesielt kostnadskrevende og alle tiltakene har positive effekter på sikkerheten til trafikanter i kjøretøyer i tunnelen.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="k3mjfm4bbf">I dette kapitlet er det dokumentert behovet for å detektere hendelser og varsle trafikantene så raskt som mulig.</s>
+                      <s xml:lang="no" xml:id="k7jk553g4u">I den sammenheng kan tiltaket som inkluderer variabel skilting som sier at bilføreren skal snu og kjøre ut igjen, være et viktig tiltak.</s>
+                      <s xml:lang="no" xml:id="fghijauv33">Det beste er om trafikantene evner å kjøre forbi en brann i en tidlig fase eller kan snu og kjøre ut før de er fanget i røyken.</s>
+                      <s xml:lang="no" xml:id="rfyhyq575m">Etablering av snunisjer, rundkjøringer eller snuplasser (bergrom) der også tunge kjøretøy og busser kan snu er viktig for å ivareta evakuering med bil.</s>
+                      <s xml:lang="no" xml:id="yqlz5aqzxe">Slike tiltak bør etableres ca. hver 4-6 km og utstyres med skilt der det står "Snu og kjør ut".</s>
+                      <s xml:lang="no" xml:id="x62if3t66k">Videre er tiltaket om å få kjøretøyene til å holde god avstand mellom seg og forankjørende kjøretøy et viktig tiltak, både for å hindre påkjøring bakfra ulykker og å redusere faren for spredning av brann fra kjøretøy til kjøretøy.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="fqbkskg62s">Tunnelen er meget lang og har veldig lange strekninger med rett horisontalkurvatur som vil forsterke bilførerens oppfattelse av monotoni.</s>
+                      <s xml:lang="no" xml:id="kmyyzge5ta">Derfor er det viktig at denne monotonien brytes gjennom endringer i tunnelprofil og lyssetting.</s>
+                      <s xml:lang="no" xml:id="szngkt3gxk">Slike endringer i tunnelprofil kan også gjøre det mulig for større kjøretøy/vogntog å snu i de tilfellene det er påkrevd.</s>
+                    </p>
+                    <pb n="38"/>
+                    <p>
+                      <s xml:lang="no" xml:id="txi6qez5g5">Overvåking av fartsgrensen er også et rimelig tiltak som kan gi meget gode effekter mht.</s>
+                      <s xml:lang="no" xml:id="wuihwawfpz">trafikksikkerhet.</s>
+                      <s xml:lang="no" xml:id="ox6q42uyjk">Erfaringene fra norske tunneler er at det registreres til dels meget høye hastigheter og mange kilometers rettstrekning vil nok øke risikoen for denne type uheldig kjøring.</s>
+                    </p>
+                    <p>
+                      <s xml:lang="no" xml:id="ns3hgqb5gb">Gjennomsnittsmåling, dvs. fotoboks ved inn- og utkjøring av tunnelen, vil være et effektivt tiltak.</s>
+                      <s xml:lang="no" xml:id="occzw5rk7q">Begrensninger på transport av farlig gods er et tiltak som vil redusere konsekvensene dersom det skjer en uønsket hendelse med det farlige godset.</s>
+                      <s xml:lang="no" xml:id="oywikeycfo">Eksempler på slike begrensinger kan være tidsbegrensninger, f.eks. transport bare om natten i lavtrafikkperioder, eller det kan være begrensninger på antall transporter med farlig gods på samme tid.</s>
+                      <s xml:lang="no" xml:id="egdl2fhj2g">Dette kan sammenlignes med slot-tider i luftfarten.</s>
+                      <s xml:lang="no" xml:id="yl4kchotj3">Førere av kjøretøy med farlig gods må søke om en tilgangstid til tunellen og kontrollen av dette systemet kan benytte de samme fotoboksene som brukes for overvåking av fartsgrensen.</s>
+                    </p>
+                  </div>
+                </body>
+              </floatingText>
             </quote>
             <p>
               <s xml:id="qacrzovwld">Parturin av rapportini frá SINTEF um geologi verður tikið við í brotinum um jarðfrøði.</s>
@@ -5367,10 +5413,9 @@
             </p>
           </div>
           <closer>
-            <ab>Vinarliga</ab>
+            <salute>Vinarliga</salute>
             <lb/>
-            <ab>Sigga Jacobsen</ab>
-            <ab>Deildarleiðari, Vernd</ab>
+            <signed>Sigga Jacobsen <lb/>Deildarleiðari, Vernd</signed>
           </closer>
         </div>
       </body>
@@ -5923,9 +5968,9 @@
             <s xml:id="qnxog57hkw">Búnaðarstovan er altíð fús at veita landsmyndugleikunum landbúnaðarfakliga ráðgeving í sambandi við handfaringina av hesi verkætlanini “<hi rend="italic">um Suðuroyartunnilin við tilhoyrandi tunnilskervum og vegakervum</hi>”.</s>
           </p>
           <closer>
-            <ab>Blíðar heilsur,</ab>
+            <salute>Blíðar heilsur,</salute>
             <pb n="3"/>
-            <ab>Tróndur Leivsson</ab>
+            <signed>Tróndur Leivsson</signed>
           </closer>
         </div>
       </body>
@@ -6779,9 +6824,9 @@
             </p>
           </div>
           <closer>
-            <ab>Vinarliga</ab>
+            <salute>Vinarliga</salute>
             <lb/>
-            <ab>P/F Suðuroyartunnilin</ab>
+            <signed>P/F Suðuroyartunnilin</signed>
           </closer>
         </div>
       </body>
@@ -9036,7 +9081,7 @@
                 <ab>Meirilutin setir fram soljóðandi</ab>
                 <ab rend="bold center">broytingaruppskot</ab>
               </ab>
-              <ab>
+              <div>
                 <p>
                   <seg>Í § 3 verður aftan á stk. 1 sum nýtt stk. sett:</seg>
                   <lb/>
@@ -9048,7 +9093,7 @@
                 <p>
                   <s xml:id="rtgojar4t4">Stk. 2 verður eftir hetta stk. 3.</s>
                 </p>
-              </ab>
+              </div>
               <div>
                 <head rend="bold">Viðmerkingar til broytingaruppskotið:</head>
                 <p>
@@ -9059,8 +9104,10 @@
                   <seg>Landsstýriskvinnan hevur í hesum sambandi víst á, at Umhvørvisstovan viðger í løtuni fleiri mál um økisvernd, har tvey kunnu hugsast at verða ávirkað av verkætlanini um Suðuroyartunnilin:</seg>
                 </p>
                 <list>
-                  <item><label>1.</label> Skúvoy</item>
-                  <item><label>2.</label> Eitt størri samanhangandi øki kring vøtnini á Sandi, sum sannlíkt fer at fevna um Stóra og Lítla vatn, Sandsvatn, Gróthúsvatn, Søltuvík og Norðara og Heimara hálsavatn.</item>
+                  <label>1.</label>
+                  <item>Skúvoy</item>
+                  <label>2.</label>
+                  <item>Eitt størri samanhangandi øki kring vøtnini á Sandi, sum sannlíkt fer at fevna um Stóra og Lítla vatn, Sandsvatn, Gróthúsvatn, Søltuvík og Norðara og Heimara hálsavatn.</item>
                 </list>
                 <p>
                   <s xml:id="obzecavnfd">Aftur at hesum eru sannlíkt áhugaverd djóra- og plantuøkir nær byggilinjunum í Hvalba, hóast einki mál um økisvernd er í gongd.</s>
@@ -9636,7 +9683,7 @@
             </div>
           </div>
           <closer>
-            <ab rend="bold center">Fíggjarnevndin, 19. februar 2026</ab>
+            <dateline rend="bold center">Fíggjarnevndin, <date when="2026-02-19">19. februar 2026</date></dateline>
             <signed>
               <persName>Eyðgunn Samuelsen <lb/><roleName>forkvinna</roleName></persName>
             </signed>

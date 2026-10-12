@@ -9295,14 +9295,15 @@
               <s xml:id="upkbjgn2cs">Sum vit skilja tað, er deiling á hendan hátt ikki víðarigeving.</s>
               <s xml:id="bvm7ne75dj">Vit kundu hugsað okkum, at hettar varð gjørt greiðari í viðmerkingunum.</s>
             </p>
-            <p>
+            <ab>
+              <!-- TODO: fix this later? -->
               <ab>§ 46. Stk. 1, </ab>
               <ab>2) at tryggja áhaldandi trúnað, integritet, atkomu og treystleika frá viðgerðarskipanum og </ab>
               <ab>viðgerðartænastum,</ab>
               <ab>
                 <s xml:id="qnuc5y2zpv">Her vildu vit mett, at orðið haldføri er betri at brúka enn treystleika.</s>
               </ab>
-            </p>
+            </ab>
             <p>
               <label>§ 67. Viðv. § 67.</label>
               <s xml:id="iim6j22oy5">Tað hevði verið skilagott, um ein limur í ráðnum hevur skil fyri strategiska týdninginum av gransking og nýtslu av dátum til vísindalig endamál.</s>
@@ -9343,20 +9344,21 @@
     </teiHeader>
     <text>
       <body>
+        <pb n="1"/>
+        <ab rend="right">
+          <!-- TODO: maybe remove this later! -->
+          <ab>Tórshavn 07. nov 2019</ab>
+          <ab>Journalnr. 230400-2-2019/2</ab>
+          <ab>Viðgjørt: GA/HT</ab>
+        </ab>
+        <ab>
+          <ab>Katrin Thorsvig Hansen</ab>
+          <ab>Løgmansskrivstovan</ab>
+          <ab>Tinganes</ab>
+          <ab>Postrúm 64</ab>
+          <ab>110 Tórshavn</ab>
+        </ab>
         <div>
-          <pb n="1"/>
-          <ab rend="right">
-            <ab>Tórshavn 07. nov 2019</ab>
-            <ab>Journalnr. 230400-2-2019/2</ab>
-            <ab>Viðgjørt: GA/HT</ab>
-          </ab>
-          <ab>
-            <ab>Katrin Thorsvig Hansen</ab>
-            <ab>Løgmansskrivstovan</ab>
-            <ab>Tinganes</ab>
-            <ab>Postrúm 64</ab>
-            <ab>110 Tórshavn</ab>
-          </ab>
           <head>Løgtingsmál nr. xx/2019: Uppskot til løgtingslóg um vernd av persónupplýsingum (Dátuverndarlógin)</head>
           <p>
             <s xml:id="stffmthuaj">Í samband við at Løgtingsmál nr. xx/2019: Uppskot til løgtingslóg um vernd av persónupplýsingum (Dátuverndarlógin) er send Ílegusavninum til hoyringar hava vit nakrar viðmerkingar.</s>
@@ -9521,17 +9523,21 @@
       <body>
         <div>
           <pb n="1"/>
-          <ab rend="right">
-            <ab>08. november 2019</ab>
-            <ab>Journal nr. 130400-7-2019/2</ab>
-            <ab>MM/ÓJ</ab>
-          </ab>
-          <ab>
-            <ab>Løgmansskrivstovan</ab>
-            <ab>Tinganes</ab>
-            <ab>Postrúm 64</ab>
-            <ab>110 Tórshavn</ab>
-          </ab>
+          <opener>
+            <seg type="administrative-metadata" rend="right">
+              <date when="2019-11-08">08. november 2019</date>
+              <lb/>
+              <seg type="journal-reference">Journal nr. <idno type="journal">130400-7-2019/2</idno></seg>
+              <lb/>
+              <seg type="initials">MM/ÓJ</seg>
+            </seg>
+            <address>
+              <addrLine>Løgmansskrivstovan</addrLine>
+              <addrLine>Tinganes</addrLine>
+              <addrLine>Postrúm 64</addrLine>
+              <addrLine>110 Tórshavn</addrLine>
+            </address>
+          </opener>
           <head rend="italic">Hoyringssvar frá Fólkaheilsuráðnum viðv. Løgtingsmál nr. xx/2019: Uppskot til løgtingslóg um vernd av persónupplýsingum (Dátuverndarlógin)</head>
           <p>
             <s xml:id="fjdxjnmfnd">Tað er gleðiligt at lógaruppskotið er grundað á ES-fyriskipanina General Data Protection Regulation (GDPR) við tillagingunum til føroysk viðurskifti.</s>
@@ -9631,16 +9637,16 @@
       <body>
         <div>
           <pb n="1"/>
-          <ab>
-            <ab>Løgmansskrivstovan</ab>
-            <ab>Tinganes</ab>
-            <ab>100 Tórshavn</ab>
-          </ab>
-          <space type="vertical"/>
-          <ab rend="right">
-            <ab>8. november 2019</ab>
-          </ab>
-          <space type="vertical"/>
+          <opener>
+            <address>
+              <addrLine>Løgmansskrivstovan</addrLine>
+              <addrLine>Tinganes</addrLine>
+              <addrLine>100 Tórshavn</addrLine>
+            </address>
+            <dateline rend="right">
+              <date when="2019-11-08">8. november 2019</date>
+            </dateline>
+          </opener>
           <head rend="bold">Viðmerkingar til uppskot til nýggja Dátuverndarlóg fyri Føroyar</head>
           <p>
             <s xml:id="okvbcoropc">Granskingarráðið hevur nakrar viðmerkingar til lógaruppskotið, sum á ymsan hátt viðkemur arbeiði stovnsins.</s>
@@ -9711,13 +9717,10 @@
               <s xml:id="kzqi6hbxjn">Vit vóna, at avvarðandi myndugleikar gera almennar vegleiðingar og leiðreglur, sum til ber at arbeiða útfrá, og at skeið verða skipað uttan kostnað fyri stovnarnar, so tað fíggjarliga ikki verður ein forðing fyri íverksetan.</s>
             </p>
           </div>
-          <ab>
-            <space type="vertical"/>
-            <ab>vegna Granskingarráðið</ab>
-            <space type="vertical"/>
-            <ab>Annika Sølvará</ab>
-            <ab>stjóri</ab>
-          </ab>
+          <closer>
+            <salute>vegna Granskingarráðið</salute>
+            <signed>Annika Sølvará <lb/>stjóri</signed>
+          </closer>
         </div>
       </body>
     </text>
@@ -9755,13 +9758,13 @@
       <body>
         <div>
           <pb n="1"/>
-          <ab>
-            <ab>Katrin Thorsvig Hansen</ab>
-            <ab>Lógartænastan / Løgmansskrivstovan</ab>
-          </ab>
-          <ab rend="right">
-            <ab>Tórshavn, 8. november 2019</ab>
-          </ab>
+          <opener>
+            <address>
+              <addrLine>Katrin Thorsvig Hansen</addrLine>
+              <addrLine>Lógartænastan / Løgmansskrivstovan</addrLine>
+            </address>
+            <dateline rend="right"><placeName>Tórshavn</placeName>, <date when="2019-11-08">8. november 2019</date></dateline>
+          </opener>
           <head rend="bold underline">Ummæli til uppskot til løgtingslóg um vernd av persónupplýsingum (Dátuverndarlógin)</head>
           <p>
             <s xml:id="jsekzu7vql">Fróðskaparsetur Føroya vil við hesum ummæla og gera viðmerkingar til uppskot til løgtingslóg um vernd av persónupplýsingum sambært áheitan, sum varð send stovninum 9. oktober 2019 við svarfreist 8. november s.á.</s>
@@ -10344,13 +10347,10 @@
               <s xml:id="ueoegdmf45">Orðingin “liggja undir almennari myndugleikaútinnan” er ein óneyðuga tung orðing.</s>
             </p>
           </div>
-          <space type="vertical"/>
-          <ab>
-            <ab rend="center">Vinaliga</ab>
-            <space type="vertical"/>
-            <ab rend="center">Súsanna Nordendal</ab>
-            <ab rend="center">virkandi fakligur stjóri</ab>
-          </ab>
+          <closer>
+            <salute>Vinaliga</salute>
+            <signed>Súsanna Nordendal <lb/>virkandi fakligur stjóri</signed>
+          </closer>
         </div>
       </body>
     </text>
@@ -10690,12 +10690,20 @@
     <text>
       <body>
         <div>
-          <!-- TODO: add metadata later... -->
           <pb n="1"/>
-          <ab>
-            <ab>Løgmansskrivstovan</ab>
-            <ab>Lógartænastan</ab>
-          </ab>
+          <opener>
+            <address>
+              <addrLine>Løgmansskrivstovan</addrLine>
+              <addrLine>Lógartænastan</addrLine>
+            </address>
+            <seg type="administrative-metadata" rend="right">
+              <seg>Dagfesting: <date when="2019-11-07" rend="bold">7. november 2019</date></seg>
+              <lb/>
+              <seg>Tygara ref.:</seg>
+              <lb/>
+              <seg>Máltal.: <idno rend="bold">19/00506-3</idno></seg>
+            </seg>
+          </opener>
           <head rend="bold">Viðvíkjandi ummæli av “Uppskot til løgtingslóg um vernd av persónupplýsingum (Dátuverndarlógin)”</head>
           <p>
             <s xml:id="fsl6zfjbdv">Í telduposti, dagfestur 9. oktober 2019, hevur Løgmansskrivstovan sent Uttanríkis- og mentamálaráðnum omanfyri nevnda uppskot til hoyringar.</s>
@@ -10768,7 +10776,9 @@
           </p>
         </div>
         <div>
-          <ab>Til Løgtingsformann Jógvan á Lakjuni</ab>
+          <opener>
+            <seg type="addressee">Til <persName><roleName>Løgtingsformann</roleName> Jógvan á Lakjuni</persName></seg>
+          </opener>
           <head>Uppskot til løgtingslóg um vernd av persónsupplýsingum (Dátuverndarlógin)</head>
           <p>
             <s xml:id="b7x5bg6xwv">Løgmansskrivstovan hevur havt eitt lógaruppskot um vernd av persónsupplýsingum til almenna hoyring.</s>
@@ -11149,7 +11159,9 @@
               </div>
               <div>
                 <head rend="bold">Til nr. 2, 6 og 7</head>
-                <seg>Málsligar rættingar.</seg>
+                <p>
+                  <seg>Málsligar rættingar.</seg>
+                </p>
               </div>
               <pb n="6"/>
               <div>
@@ -11253,10 +11265,12 @@
                 </div>
               </div>
             </div>
-            <space type="vertical"/>
-            <p>
-              <s xml:id="hdqe35hglu">Við hesum broytingum tekur meirilutin undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
-            </p>
+            <space dim="vertical"/>
+            <div type="conclusion">
+              <p>
+                <s xml:id="hdqe35hglu">Við hesum broytingum tekur meirilutin undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
+              </p>
+            </div>
           </div>
           <div>
             <p>
@@ -11266,24 +11280,23 @@
               <s xml:id="p5og2qxhpv">Stovnurin eigur tí at fáa neyðugar stundir at umstilla seg til hetta.</s>
               <s xml:id="govqgs3qg5">Dátueftirlitið skal samstundis eisini gera vegleiðingar til nýggju lógina, og tað er greitt komið fram undir nevndarviðgerðini, at hetta er eitt so mikið umfatandi arbeiði, at tað er sera ivasamt, um hetta verður liðugt, áðrenn lógin kemur í gildi.</s>
             </p>
-            <ab>
-              <p>
-                <seg>Hesin minnilutin skjýtur tí upp at útseta gildiskomuna av lógaruppskotinum í eitt ár og setir fram soljóðandi</seg>
-              </p>
-              <space type="vertical"/>
-              <ab rend="bold center">b r o y t i n g a r u p p s k o t</ab>
-              <space type="vertical"/>
-              <list>
-                <item>
-                  <label>1.</label>
-                  <seg>Í § 81, stk. 1 verður “2021” broytt til: “2022”.</seg>
-                </item>
-                <item>
-                  <label>2.</label>
-                  <seg>Í § 81, stk. 2 og 3 verður “2022” broytt til: “2023”.</seg>
-                </item>
-              </list>
-            </ab>
+            <p>
+              <seg>Hesin minnilutin skjýtur tí upp at útseta gildiskomuna av lógaruppskotinum í eitt ár og setir fram soljóðandi</seg>
+            </p>
+            <space dim="vertical"/>
+            <!-- TODO: fix "a n t s p e a k" later! -->
+            <ab rend="bold center">b r o y t i n g a r u p p s k o t</ab>
+            <space dim="vertical"/>
+            <list>
+              <item>
+                <label>1.</label>
+                <seg>Í § 81, stk. 1 verður “2021” broytt til: “2022”.</seg>
+              </item>
+              <item>
+                <label>2.</label>
+                <seg>Í § 81, stk. 2 og 3 verður “2022” broytt til: “2023”.</seg>
+              </item>
+            </list>
             <p>
               <s xml:id="oclyg3hfqq">Við hesum broytingum tekur hesin minnilutin undir við málinum og mælir Løgtinginum til at samtykkja uppskotið.</s>
             </p>
@@ -11367,10 +11380,8 @@
             </p>
           </div>
           <pb n="10"/>
-          <ab>
-            <space type="vertical"/>
-            <ab rend="bold center">Rættarnevndin, 27. mai 2020</ab>
-            <space type="vertical"/>
+          <closer>
+            <dateline rend="bold center">Rættarnevndin, <date when="2020-05-27">27. mai 2020</date></dateline>
             <signed>
               <persName>Christian F. Andreasen <lb/><roleName>formaður</roleName></persName>
             </signed>
@@ -11392,7 +11403,7 @@
             <signed>
               <persName>Steffan Klein Poulsen</persName>
             </signed>
-          </ab>
+          </closer>
         </div>
       </body>
     </text>

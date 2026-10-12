@@ -1,5 +1,22 @@
 <teiCorpus xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0">
   <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Viðgerð av uppskoti landsstýrisins til løgtingslóg um stýrisskipan Føroya</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <publisher>Føroya Løgting</publisher>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
     <profileDesc>
       <langUsage>
         <language ident="fo">Faroese</language>
@@ -29,77 +46,100 @@
           </org>
         </listOrg>
         <listPerson>
-          <person xml:id="edmund-joensen" affiliation="#party.sb">
+          <person xml:id="edmund-joensen">
             <persName>Edmund Joensen</persName>
+            <affiliation ref="#party.sb"/>
           </person>
-          <person xml:id="hergeir-nielsen" affiliation="#party.tf">
+          <person xml:id="hergeir-nielsen">
             <persName>Hergeir Nielsen</persName>
+            <affiliation ref="#party.tf"/>
           </person>
-          <person xml:id="anfinn-kallsberg" affiliation="#party.ff">
+          <person xml:id="anfinn-kallsberg">
             <persName>Anfinn Kallsberg</persName>
+            <affiliation ref="#party.ff"/>
           </person>
-          <person xml:id="niels-pauli-danielsen" affiliation="#party.kffff">
+          <person xml:id="niels-pauli-danielsen">
             <persName>Niels Pauli Danielsen</persName>
+            <affiliation ref="#party.kffff"/>
           </person>
-          <person xml:id="helena-dam-a-neystaboe" affiliation="#party.sj">
+          <person xml:id="helena-dam-a-neystaboe">
             <persName>Helena Dam á Neystabø</persName>
+            <affiliation ref="#party.sj"/>
           </person>
-          <person xml:id="atli-p-dam" affiliation="#party.jf">
+          <person xml:id="atli-p-dam">
             <persName>Atli P. Dam</persName>
+            <affiliation ref="#party.jf"/>
           </person>
-          <person xml:id="tordur-j-niclasen" affiliation="#party.uttanfl">
+          <person xml:id="tordur-j-niclasen">
             <persName>Tordur J. Niclasen</persName>
+            <affiliation ref="#party.uttanfl"/>
           </person>
-          <person xml:id="marita-petersen" affiliation="#party.jf">
+          <person xml:id="marita-petersen">
             <persName>Marita Petersen</persName>
             <roleName>løgmaður</roleName>
+            <affiliation ref="#party.jf"/>
           </person>
-          <person xml:id="lasse-klein" affiliation="#party.sj">
+          <person xml:id="lasse-klein">
             <persName>Lasse Klein</persName>
             <roleName>chair</roleName>
+            <affiliation ref="#party.sj"/>
           </person>
-          <person xml:id="finnbogi-arge" affiliation="#party.sb">
+          <person xml:id="finnbogi-arge">
             <persName>Finnbogi Arge</persName>
+            <affiliation ref="#party.sb"/>
           </person>
-          <person xml:id="flemming-mikkelsen" affiliation="#party.sb">
+          <person xml:id="flemming-mikkelsen">
             <persName>Flemming Mikkelsen</persName>
+            <affiliation ref="#party.sb"/>
           </person>
-          <person xml:id="finnbogi-isakson" affiliation="#party.tf">
+          <person xml:id="finnbogi-isakson">
             <persName>Finnbogi Ísakson</persName>
             <roleName>landsstýrismaður</roleName>
+            <affiliation ref="#party.tf"/>
           </person>
-          <person xml:id="jakup-lindenskov" affiliation="#party.jf">
+          <person xml:id="jakup-lindenskov">
             <persName>Jákup Lindenskov</persName>
+            <affiliation ref="#party.jf"/>
           </person>
-          <person xml:id="jogvan-ingvard-olsen" affiliation="#party.sb">
+          <person xml:id="jogvan-ingvard-olsen">
             <persName>Jógvan Ingvard Olsen</persName>
+            <affiliation ref="#party.sb"/>
           </person>
-          <person xml:id="vilhelm-johannesen" affiliation="#party.jf">
+          <person xml:id="vilhelm-johannesen">
             <persName>Vilhelm Johannesen</persName>
+            <affiliation ref="#party.jf"/>
           </person>
-          <person xml:id="jogvan-sundstein" affiliation="#party.ff">
+          <person xml:id="jogvan-sundstein">
             <persName>Jógvan Sundstein</persName>
+            <affiliation ref="#party.ff"/>
           </person>
-          <person xml:id="heini-o-heinesen" affiliation="#party.tf">
+          <person xml:id="heini-o-heinesen">
             <persName>Heini O. Heinesen</persName>
+            <affiliation ref="#party.tf"/>
           </person>
-          <person xml:id="birgir-danielsen" affiliation="#party.ff">
+          <person xml:id="birgir-danielsen">
             <persName>Birgir Danielsen</persName>
+            <affiliation ref="#party.ff"/>
           </person>
-          <person xml:id="john-petersen" affiliation="#party.ff">
+          <person xml:id="john-petersen">
             <persName>John Petersen</persName>
+            <affiliation ref="#party.ff"/>
           </person>
-          <person xml:id="oli-breckmann" affiliation="#party.ff">
+          <person xml:id="oli-breckmann">
             <persName>Óli Breckmann</persName>
+            <affiliation ref="#party.ff"/>
           </person>
-          <person xml:id="bjoern-a-heygum" affiliation="#party.sb">
+          <person xml:id="bjoern-a-heygum">
             <persName>Bjørn á Heygum</persName>
+            <affiliation ref="#party.sb"/>
           </person>
-          <person xml:id="jogvan-durhuus" affiliation="#party.tf">
+          <person xml:id="jogvan-durhuus">
             <persName>Jógvan Durhuus</persName>
+            <affiliation ref="#party.tf"/>
           </person>
-          <person xml:id="bjarni-djurholm" affiliation="#party.ff">
+          <person xml:id="bjarni-djurholm">
             <persName>Bjarni Djurholm</persName>
+            <affiliation ref="#party.ff"/>
           </person>
         </listPerson>
       </particDesc>
