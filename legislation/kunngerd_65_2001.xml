@@ -268,8 +268,8 @@
               </p>
             </div>
           </div>
-          <ab type="provision-heading">
-            <ab rend="italic center">Sjálvlesandi</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Sjálvlesandi</head>
             <div type="section" n="§ 9.">
               <div type="subsection" n="§ 9, stk. 1.">
                 <p rend="bill-text">
@@ -302,7 +302,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 4">
           <head rend="bold center">Almennar reglur um próvtøkuhald</head>
@@ -358,12 +358,12 @@
                 <s xml:id="s5rwtjl65k">Mentamálastýrið tilnevnir próvdómarar millum teir lærarar, sum hava undirvísingarførleika í einari ella fleiri lærugreinum innan lærugreinarøðina í studentaskúla- ella HF-skipanini.</s>
                 <seg>Tað er harumframt ein fortreyt,</seg>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <seg>at lærarin í avvarðandi lærugrein hevur fullført eina fulla undirvísingargongd, ið leiðir fram til eina próvtøku, og</seg>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <seg>lærarin hevur próvhoyrt til studentspróvtøku ella hægri fyrireikingarpróvtøku í lærugreinini.</seg>
                   </item>
                 </list>
@@ -380,16 +380,16 @@
                 <label rend="italic">Stk. 4.</label>
                 <seg>Próvdómarin skal</seg>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <seg>síggja til, at próvtøkan samsvarar við endamálini og krøvini annars sambært reglunum í teimum avvarðandi lærugreinunum,</seg>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <seg>hjálpa til og ansa eftir, at próvtøkurnar fara fram sambært galdandi reglum, og</seg>
                   </item>
+                  <label>3)</label>
                   <item>
-                    <label>3)</label>
                     <seg>hjálpa til og ansa eftir, at próvtakararnir fáa eina einsháttaða og rættvísa viðferð, og at avrikið verður dømt á eftirfarandi hátt.</seg>
                   </item>
                 </list>
@@ -1193,33 +1193,33 @@
               <p rend="bill-text">
                 <label rend="bold">§ 43.</label>
                 <seg>Rektarin/skeiðsleiðarin gevur undantaksloyvi viðvíkjandi:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Serligum verkligum tiltøkum og nýtslu av tøkniligum hjálparmiðlum.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Nýtslu av ljóðbondum, stórprenti ella punktskrift. Bílegging av próvtøkuuppgávum á bandi, í stórprenti ella í punktskrift fer fram um Mentamálastýrið.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Nýtslu av serligum orðabókum fyri fremmandamálsligar próvtakarar, ið ikki hava fullført eina samlaða fólkaskúlagongd í Føroyum.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Hjáveru av einum av rektaranum/skeiðsleiðaranum tilnevndum hjálparfólki ella skrivara, sum ikki má vera faklærari hjá próvtakaranum. Tað er ikki loyvt hjálparfólki/skrivara at hjálpa próvtakaranum í fakligum spurningum, bert í verkligum høpi.</seg>
-                  </item>
-                  <item>
-                    <label>5)</label>
-                    <seg>Longdari fyrireikingartíð og/ella próvhoyringartíð, longdari próvtøkutíð til skrivliga próvtøku og longdum tíðarskeiði til høvuðsuppgávuna.</seg>
-                  </item>
-                  <item>
-                    <label>6)</label>
-                    <seg>Frítøku fyri próvhoyring í kortum og myndatilfari fyri sjónbrekaðar próvtakarar.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Serligum verkligum tiltøkum og nýtslu av tøkniligum hjálparmiðlum.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Nýtslu av ljóðbondum, stórprenti ella punktskrift. Bílegging av próvtøkuuppgávum á bandi, í stórprenti ella í punktskrift fer fram um Mentamálastýrið.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Nýtslu av serligum orðabókum fyri fremmandamálsligar próvtakarar, ið ikki hava fullført eina samlaða fólkaskúlagongd í Føroyum.</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Hjáveru av einum av rektaranum/skeiðsleiðaranum tilnevndum hjálparfólki ella skrivara, sum ikki má vera faklærari hjá próvtakaranum. Tað er ikki loyvt hjálparfólki/skrivara at hjálpa próvtakaranum í fakligum spurningum, bert í verkligum høpi.</seg>
+                </item>
+                <label>5)</label>
+                <item>
+                  <seg>Longdari fyrireikingartíð og/ella próvhoyringartíð, longdari próvtøkutíð til skrivliga próvtøku og longdum tíðarskeiði til høvuðsuppgávuna.</seg>
+                </item>
+                <label>6)</label>
+                <item>
+                  <seg>Frítøku fyri próvhoyring í kortum og myndatilfari fyri sjónbrekaðar próvtakarar.</seg>
+                </item>
+              </list>
             </div>
             <div type="subsection" n="§ 43, stk. 2.">
               <p rend="bill-text">
@@ -1313,17 +1313,17 @@
               <p rend="bill-text">
                 <label rend="bold">§ 47.</label>
                 <seg>Rektarin/skeiðsleiðarin gevur próvtakaranum loyvi at fara til sjúkrapróvtøku, tá ið hesar fyritreytir eru í lagi, sbr. tó stk. 3 og 4:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Próvtakarin hevur verið hjá lækna í seinasta lagi próvtøkudagin.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Sjúkan er skjalprógvað við læknaváttan. Mentamálastýrið ger oyðubløð, sum læknin skal nýta í hesum sambandi.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Próvtakarin hevur verið hjá lækna í seinasta lagi próvtøkudagin.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Sjúkan er skjalprógvað við læknaváttan. Mentamálastýrið ger oyðubløð, sum læknin skal nýta í hesum sambandi.</seg>
+                </item>
+              </list>
             </div>
             <div type="subsection" n="§ 47, stk. 2.">
               <p rend="bill-text">
@@ -1385,8 +1385,8 @@
         </div>
         <div type="chapter" n="Kapittul 11">
           <head rend="bold center">Próvtalsgeving</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Felagsreglur</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Felagsreglur</head>
             <div type="section" n="§ 50.">
               <div type="subsection" n="§ 50, stk. 1.">
                 <p rend="bill-text">
@@ -1404,22 +1404,22 @@
                   <seg>Próvtølini, sum eru partar av próvtøkuni, verða givin soleiðis:</seg>
                 </p>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <p>
                       <s xml:id="xiqwmlyu5v">Próvtølini til tær skrivligu próvtøkurnar verða skrivað á próvtalslista, sum verður undirskrivaður av báðum próvdómarunum.</s>
                       <s xml:id="wtqknmkgys">Hesi próvtølini eru endalig, og tey kunnu bert verða broytt av Mentamálastýrinum, sbr. tó § 26, stk. 4.</s>
                       <s xml:id="omjnhfw6od">Um próvdómararnir ikki semjast um eitt próvtal til skrivligu próvtøkuna, verður próvtalið ásett av Mentamálastýrinum við støði í einum skrivligum tilmæli frá báðum próvdómarunum.</s>
                     </p>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <p>
                       <s xml:id="gnq7avld6p">Próvtølini til tær munnligu próvtøkurnar verða ásett sum tilskilað í § 35.</s>
                     </p>
                   </item>
+                  <label>3)</label>
                   <item>
-                    <label>3)</label>
                     <p>
                       <s xml:id="lnxkwb7xs6">Próvtalið fyri høvuðsuppgávuna verður ásett av faklærara/vegleiðara og próvdómara.</s>
                       <s xml:id="aysvuzkzpb">Er semja um endaliga próvtalið í høvuðsuppgávuni, skriva faklærarin/vegleiðarin og próvdómarin próvtalið á hvør sín próvtalslista, ið verður undirskrivaður og sendur skúlanum/skeiðnum.</s>
@@ -1459,9 +1459,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Serligar reglur fyri studentspróvtøkuna</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Serligar reglur fyri studentspróvtøkuna</head>
             <div type="section" n="§ 52.">
               <div type="subsection" n="§ 52, stk. 1.">
                 <p rend="bill-text">
@@ -1535,29 +1535,29 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Serligar reglur fyri HF-próvtøku í einari 2 ára gongd</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Serligar reglur fyri HF-próvtøku í einari 2 ára gongd</head>
             <div type="section" n="§ 54.">
               <div type="subsection" n="§ 54, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 54.</label>
                   <seg>Tá ið roknað verður, um næmingur lýkur treytirnar fyri at standa eina samlaða HF-próvtøku, skal hetta telja við:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Próvtølini í kravda talinum av vallærugreinum, og bert í hesum tali.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Próvtølini í felagslærugreinum, sbr. tó stk. 2.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Próvtølini í kravda talinum av vallærugreinum, og bert í hesum tali.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Próvtølini í felagslærugreinum, sbr. tó stk. 2.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 54, stk. 2.">
                 <p rend="bill-text">
@@ -1579,29 +1579,29 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Serligar reglur fyri stakgreinastudentspróvtøku og stakgreina HF-próvtøku</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Serligar reglur fyri stakgreinastudentspróvtøku og stakgreina HF-próvtøku</head>
             <div type="section" n="§ 55.">
               <div type="subsection" n="§ 55, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 55.</label>
                   <seg>Tá ið roknað verður, um næmingur lýkur treytirnar fyri at standa stakgreinastudentspróvtøku, skal hetta telja við:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Próvtølini í vallærugreinum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Próvtølini í teimum kravdu lærugreinunum.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Próvtølini í vallærugreinum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Próvtølini í teimum kravdu lærugreinunum.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 55, stk. 2.">
                 <p rend="bill-text">
@@ -1621,21 +1621,21 @@
                 <p rend="bill-text">
                   <label rend="bold">§ 56.</label>
                   <seg>Tá ið roknað verður, um næmingur lýkur treytirnar fyri at standa eina samlaða stakgreina HF-próvtøku, skal hetta telja við:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Próvtølini í tí kravda talinum av vallærugreinum og bert í hesum tali.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Próvtølini í felagsslærugreinunum, sbr. tó stk. 2.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Próvtølini í tí kravda talinum av vallærugreinum og bert í hesum tali.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Próvtølini í felagsslærugreinunum, sbr. tó stk. 2.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Próvtalið fyri høvuðsuppgávuna.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 56, stk. 2.">
                 <p rend="bill-text">
@@ -1657,7 +1657,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 12">
           <head rend="bold center">Próvtøkubók</head>
@@ -1799,29 +1799,30 @@
               <p rend="bill-text">
                 <label rend="bold">§ 61.</label>
                 <seg>Á próvnum fyri lokna studentspróvtøku verður tilskilað:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Tey ársmetini, ið telja við til studentspróvtøkuna.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Próvtølini til próvtøkuna, umframt ársmetini, ið telja við sum flutt ársmet. <s xml:id="wqonfomf5g">Tey fluttu ársmetini verða sett í próvtalsteigin, og tað skal greitt tilskilast, at talan er um flutt ársmet, sbr. § 52, stk. 3.</s></seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Miðaltalið av ársmetunum og miðaltalið av próvtølunum, sbr. § 53, stk. 1 og 2.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Próvtøkuúrslitið, sbr. § 53, stk. 3.</seg>
-                  </item>
-                  <item>
-                    <label>5)</label>
-                    <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Tey ársmetini, ið telja við til studentspróvtøkuna.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Próvtølini til próvtøkuna, umframt ársmetini, ið telja við sum flutt ársmet.</seg>
+                  <s xml:id="wqonfomf5g">Tey fluttu ársmetini verða sett í próvtalsteigin, og tað skal greitt tilskilast, at talan er um flutt ársmet, sbr. § 52, stk. 3.</s>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Miðaltalið av ársmetunum og miðaltalið av próvtølunum, sbr. § 53, stk. 1 og 2.</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Próvtøkuúrslitið, sbr. § 53, stk. 3.</seg>
+                </item>
+                <label>5)</label>
+                <item>
+                  <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
+                </item>
+              </list>
             </div>
           </div>
           <div type="section" n="§ 62.">
@@ -1829,21 +1830,21 @@
               <p rend="bill-text">
                 <label rend="bold">§ 62.</label>
                 <seg>Á próvnum fyri lokna stakgreinastudentspróvtøku verður tilskilað:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Tey próvtølini, sum telja við í útrokningini sbrt. § 55.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Próvtøkuúrslitið, sbr. §53, stk. 3.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Tey próvtølini, sum telja við í útrokningini sbrt. § 55.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Próvtøkuúrslitið, sbr. §53, stk. 3.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
+                </item>
+              </list>
             </div>
           </div>
           <div type="section" n="§ 63.">
@@ -1851,29 +1852,29 @@
               <p rend="bill-text">
                 <label rend="bold">§ 63.</label>
                 <seg>Á próvnum fyri lokna HF-próvtøku verður tilskilað:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Tey próvtølini, sum telja við í útrokningini sambært § 54.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Partspróvtøl í tann mun, tað er tilskilað í reglunum fyri tær einstøku lærugreinirnar í HF-próvtøkuni.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Próvtøkuúrslitið, sbr. § 54, stk. 4</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Luttøka í kravdum, skapandi lærugreinum.</seg>
-                  </item>
-                  <item>
-                    <label>5)</label>
-                    <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Tey próvtølini, sum telja við í útrokningini sambært § 54.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Partspróvtøl í tann mun, tað er tilskilað í reglunum fyri tær einstøku lærugreinirnar í HF-próvtøkuni.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Próvtøkuúrslitið, sbr. § 54, stk. 4</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Luttøka í kravdum, skapandi lærugreinum.</seg>
+                </item>
+                <label>5)</label>
+                <item>
+                  <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
+                </item>
+              </list>
             </div>
           </div>
           <div type="section" n="§ 64.">
@@ -1881,33 +1882,33 @@
               <p rend="bill-text">
                 <label rend="bold">§ 64.</label>
                 <seg>Á próvnum fyri lokna stakgreina HF-próvtøku verður tilskilað:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Tey próvtølini, sum telja við í útrokningini sbrt. § 56.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Partspróvtøl í tann mun, tað er tilskilað í reglunum fyri tær einstøku lærugreinirnar í HF-kunngerðini.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Próvtøkuúrslitið, sbr. § 56, stk. 4.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Um næmingurin hevur fylgt undirvísingini í felagslærugreinunum evning, ítrótti ella tónleiki ella einari av teimum vallærugreinunum, sum eru nevndar í HF-kunngerðini.</seg>
-                  </item>
-                  <item>
-                    <label>5)</label>
-                    <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Tey próvtølini, sum telja við í útrokningini sbrt. § 56.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Partspróvtøl í tann mun, tað er tilskilað í reglunum fyri tær einstøku lærugreinirnar í HF-kunngerðini.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Próvtøkuúrslitið, sbr. § 56, stk. 4.</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Um næmingurin hevur fylgt undirvísingini í felagslærugreinunum evning, ítrótti ella tónleiki ella einari av teimum vallærugreinunum, sum eru nevndar í HF-kunngerðini.</seg>
+                </item>
+                <label>5)</label>
+                <item>
+                  <seg>Hvar og í hvørjum próvtøkuskeiði møguligar próvtøkur, sum eru tiknar fyrr, og sum eru partar av samlaðu próvtøkuni, eru tiknar.</seg>
+                </item>
+              </list>
             </div>
           </div>
-          <ab type="provision-heading">
-            <ab rend="italic center">Skjalváttan</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Skjalváttan</head>
             <div type="section" n="§ 65.">
               <div type="subsection" n="§ 65, stk. 1.">
                 <p rend="bill-text">
@@ -1942,9 +1943,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Váttan</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Váttan</head>
             <div type="section" n="§ 66.">
               <div type="subsection" n="§ 66, stk. 1.">
                 <p rend="bill-text">
@@ -1967,7 +1968,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 14">
           <head rend="bold center">Kærur um próvtøku o. a.</head>
@@ -1991,25 +1992,25 @@
                 <s xml:id="cn3njhdifs">Kæran verður latin einsæris og skrivliga.</s>
                 <s xml:id="gt3q43uprb">Kæran skal nágreiniliga tilskila og grundgeva tað, sum kært verður um.</s>
                 <seg>Ein kæra kann fevna um:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Dømingina.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Grundarlagið fyri próvhoyringina.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Próvtøkugongdina.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Burturvísing frá próvtøku.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Dømingina.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Grundarlagið fyri próvhoyringina.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Próvtøkugongdina.</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Burturvísing frá próvtøku.</seg>
+                </item>
+              </list>
             </div>
           </div>
           <div type="section" n="§ 68.">
@@ -2091,20 +2092,20 @@
                 <label rend="italic">Stk. 3.</label>
                 <seg>Avgerð um umdøming hevur sum fortreyt, at</seg>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <seg>avgerandi brek hava verið í mannagongdini við próvtøkuna ella dømingini,</seg>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <seg>próvdómari ella ástøðumaður í sínum tilmæli tala fyri, at próvtalið verður broytt,</seg>
                   </item>
+                  <label>3)</label>
                   <item>
-                    <label>3)</label>
                     <seg>eitt ársmet, sum kært verður um, er í minsta lagi 2 stig undir seinasta støðumet, ella</seg>
                   </item>
+                  <label>4)</label>
                   <item>
-                    <label>4)</label>
                     <seg>serligar umstøður elva til grundaðan iva um dømingina.</seg>
                   </item>
                 </list>
@@ -2123,8 +2124,8 @@
               </p>
             </div>
           </div>
-          <ab type="provision-heading">
-            <ab rend="italic center">Mannagongd, tá ið brek ella brot á galdandi reglur verða staðfest</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Mannagongd, tá ið brek ella brot á galdandi reglur verða staðfest</head>
             <div type="section" n="§ 72.">
               <div type="subsection" n="§ 72, stk. 1.">
                 <p rend="bill-text">
@@ -2191,7 +2192,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 15">
           <head rend="bold center">Ymiskar ásetingar</head>
@@ -2244,11 +2245,10 @@
       </div>
     </body>
     <back>
+      <ab rend="bold">Próvtøkukunngerðin</ab>
+      <ab rend="italic right">Fylgiskjal 4</ab>
+      <ab rend="italic right">Apríl 2001</ab>
       <div>
-        <ab rend="bold">Próvtøkukunngerðin</ab>
-        <ab rend="italic right">Fylgiskjal 4</ab>
-        <ab rend="italic right">Apríl 2001</ab>
-        <space type="vertical"/>
         <head>Reglur um nýtslu av teldu til skrivligar próvtøkur til students- og HF-próvtøkuna, sbr. § 41.</head>
         <div n="1.">
           <head rend="bold">Lærugreinir, har loyvt er at nýta teldu</head>

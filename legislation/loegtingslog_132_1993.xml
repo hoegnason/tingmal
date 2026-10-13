@@ -112,24 +112,24 @@
                 <label rend="bold">§ 3.</label>
                 <seg>Persónur, sum virkar innan almennu fyrisitingina, er ógegnigur um so er, at</seg>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <seg>viðkomandi sjálvur hevur ein serstakan persónligan ella fíggjarligan áhuga í úrslitinum av málinum, ella umboðar ella fyrr í sama máli hevur umboðað onkran, ið hevur ein sovorðnan áhuga,</seg>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <seg>hjúnarfelagin hjá viðkomandi, skyld ella svágd í stígandi ella fallandi linju ella síðulinjuni so nær sum børn hjá systkjum, ella onnur nærskyld hava ein serstakan persónligan ella fíggjarligan áhuga í úrslitinum av málinum ella umboðar onkran, ið hevur ein slíkan áhuga,</seg>
                   </item>
+                  <label>3)</label>
                   <item>
-                    <label>3)</label>
                     <seg>viðkomandi er við í leiðsluni ella á annan hátt hevur nært tilknýti til eitt felag, ein felagsskap ella annan privatan løgfrøðiligan persón, ið hevur ein serstakan áhuga í úrslitinum av málinum,</seg>
                   </item>
+                  <label>4)</label>
                   <item>
-                    <label>4)</label>
                     <seg>málið viðvíkur kæru um ella innan av eftiransingar- ella eftirlitsvirksemi mótvegis einum øðrum almennum myndugleika, og viðkomandi fyrr hevur verið við í tí avgerðini ella til at fremja ta atgerð, sum málið viðvíkur, ella</seg>
                   </item>
+                  <label>5)</label>
                   <item>
-                    <label>5)</label>
                     <seg>tað annars eru viðurskifti, sum kunnu hugsast at vekja iva um, at viðkomandi heldur við einum av pørtunum.</seg>
                   </item>
                 </list>
@@ -237,8 +237,8 @@
         <!-- Kap. 4. -->
         <div type="chapter" n="4">
           <head>Skjalainnlit partanna</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Rætturin til skjalainnlit</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Rætturin til skjalainnlit</head>
             <div type="section" n="§ 9.">
               <div type="subsection" n="§ 9, stk. 1.">
                 <p rend="bill-text">
@@ -254,21 +254,21 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Hvat rætturin til skjalainnlit fevnir um</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Hvat rætturin til skjalainnlit fevnir um</head>
             <div type="section" n="§ 10.">
               <div type="subsection" n="§ 10, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 10.</label>
                   <seg>Rætturin hjá einum parti til skjalainnlit fevnir við teimum í §§ 12-15 nevndu undantøkum um</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>øll skjøl, sum viðvíkja málinum, herundir makaskjøl av teimum skrivum, sum eru send frá myndugleikanum, tá skrivini mugu haldast av verða komin fram til móttakaran, og</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>innføringar í journalir, skráir og aðrar skrásetingar viðvíkjandi skjølum í avvarðandi máli.</seg>
                     </item>
                   </list>
@@ -281,9 +281,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Útsetan av málinum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Útsetan av málinum</head>
             <div type="section" n="§ 11.">
               <div type="subsection" n="§ 11, stk. 1.">
                 <p rend="bill-text">
@@ -298,9 +298,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Undantøka av skjølum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Undantøka av skjølum</head>
             <div type="section" n="§ 12.">
               <div type="subsection" n="§ 12, stk. 1.">
                 <p rend="bill-text">
@@ -308,16 +308,16 @@
                   <s xml:id="t6xaizj2vx">Rætturin til skjalainnlit fevnir ikki um innanhýsis arbeiðsskjøl.</s>
                   <seg>Innanhýsis arbeiðsskjøl eru</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>skjøl, sum verða gjørd av einum myndugleika til egna nýtslu í viðgerðini av einum máli,</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>brævaskifti millum ymiskar deildir innan fyri sama myndugleika og</seg>
                     </item>
+                    <label>3)</label>
                     <item>
-                      <label>3)</label>
                       <seg>brævaskifti millum eitt bý- ella býgdarráð og tess nevndir, deildir og aðrar fyrisitingarligar stovnar ella millum hesar stovnar sínámillum.</seg>
                     </item>
                   </list>
@@ -336,16 +336,16 @@
                   <label rend="bold">§ 13.</label>
                   <seg>Rætturin til skjalainnlit fevnir hóast ásetingarnar í § 12 um innanhýsis arbeiðsskjøl, ið eru til skjals í endaligum líki, tá</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>skjølini bert endurgeva innihaldið av endaligu støðutakan myndugleikans viðvíkjandi avgerðini í einum máli,</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>skjølini bert innihalda eina endurgeving av upplýsingum, sum myndugleikin hevur havt skyldu til at skriva upp sambært løgtingslóg um innlit í fyrisitingina, ella</seg>
                     </item>
+                    <label>3)</label>
                     <item>
-                      <label>3)</label>
                       <seg>skjølini eru sjálvstøðug skjøl, sum eru gjørd av einum myndugleika fyri at fáa til vega prógvandi ella annan samsvarandi greidleika viðvíkjandi teim veruligu umstøðunum í einum máli.</seg>
                     </item>
                   </list>
@@ -357,21 +357,21 @@
                 <p rend="bill-text">
                   <label rend="bold">§ 14.</label>
                   <seg>Rætturin til skjalainnlit fevnir ikki um:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Gerðabøkur hjá landsstýrinum, frásagnir frá fundum millum landsstýrismenn og skjøl, ið verða gjørd av einum myndugleika til nýtslu á sovorðnum fundum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Skjøl, sum verða send øðrum í samband við, at ein myndugleiki hevur skrivarauppgávuna um hendi fyri ein annan myndugleika.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Brævaskifti hjá einum myndugleika við serkøn til nýtslu í rættarmálum, ella tá støða skal takast til møguligt rættarmál.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Gerðabøkur hjá landsstýrinum, frásagnir frá fundum millum landsstýrismenn og skjøl, ið verða gjørd av einum myndugleika til nýtslu á sovorðnum fundum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Skjøl, sum verða send øðrum í samband við, at ein myndugleiki hevur skrivarauppgávuna um hendi fyri ein annan myndugleika.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Brævaskifti hjá einum myndugleika við serkøn til nýtslu í rættarmálum, ella tá støða skal takast til møguligt rættarmál.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 14, stk. 2.">
                 <p rend="bill-text">
@@ -380,33 +380,33 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Undantøka av upplýsingum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Undantøka av upplýsingum</head>
             <div type="section" n="§ 15.">
               <div type="subsection" n="§ 15, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 15.</label>
                   <seg>Rætturin til skjalainnlit kann annars avmarkast í tann mun, áhugin hjá partinum í at kunna nýta kunnleika til skjøl í málinum til at røkja sín tørv má metast at eiga víkja fyri avgerandi umhugsni fyri viðkomandi sjálvum ella øðrum privatum ella almennum áhugamálum, herímillum</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>trygd ella verju ríkisins,</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>uttanríkispolitisk ella uttanríkisfíggjarlig áhugamál, herundir viðurskiftini við aðrar tjóðir ella millumtjóða stovnar,</seg>
                     </item>
+                    <label>3)</label>
                     <item>
-                      <label>3)</label>
                       <seg>fyribyrging, avdúkan og søkjan at lógarbrotum, revsingarfullgerð og líknandi og verju av ákærdum, vitnum ella øðrum í málum um revsi- ella agasókn,</seg>
                     </item>
+                    <label>4)</label>
                     <item>
-                      <label>4)</label>
                       <seg>fremjing af almennum eftirliti, skipanar- ella ráðleggingarvirksemi ella ætlaðum tiltøkum sambært skatta- og avgjaldslóggávuni,</seg>
                     </item>
+                    <label>5)</label>
                     <item>
-                      <label>5)</label>
                       <seg>fíggjarligu áhugamálunum hjá tí almenna, herundir fremjing av vinnuvirksemi tess almenna.</seg>
                     </item>
                   </list>
@@ -419,9 +419,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Avgerð í málum um skjalainnlit</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Avgerð í málum um skjalainnlit</head>
             <div type="section" n="§ 16.">
               <div type="subsection" n="§ 16, stk. 1.">
                 <p rend="bill-text">
@@ -468,7 +468,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <!-- Kap. 5. -->
         <div type="chapter" n="5">
@@ -487,28 +487,28 @@
                 <label rend="italic">Stk. 2.</label>
                 <seg>Ásetingin í stk. 1 er ikki galdandi, um so er, at</seg>
                 <list>
+                  <label>1)</label>
                   <item>
-                    <label>1)</label>
                     <seg>tað, soleiðis sum upplýsingarnar og málið er háttað, ikki kann metast at vera ivingarsamt, at taka avgerð í málinum á verandi grundarlag,</seg>
                   </item>
+                  <label>2)</label>
                   <item>
-                    <label>2)</label>
                     <seg>frest fer at viðføra, at farið verður út um lógásetta freist fyri avgerð í málinum.</seg>
                   </item>
+                  <label>3)</label>
                   <item>
-                    <label>3)</label>
                     <seg>áhugi partanna í, at avgerðin í málinum verður útsett, eigur at víkja fyri avgerandi umhugsni fyri pørtunum sjálvum, ella øðrum privatum áhugamálum, ið tala í móti eini tílíkari útsetan.</seg>
                   </item>
+                  <label>4)</label>
                   <item>
-                    <label>4)</label>
                     <seg>parturin viðvíkjandi av varðandi spurningum ikki hevur rætt til skjalainnlit sambært reglunum í kapittul 4.</seg>
                   </item>
+                  <label>5)</label>
                   <item>
-                    <label>5)</label>
                     <seg>ætlaða avgerðin fer at nema ein víðari óvissan skara av persónum, fyritøkum v.m., ella um framløga av upplýsingunum fyri partinum fer at geva stórar trupulleikar, ella</seg>
                   </item>
+                  <label>6)</label>
                   <item>
-                    <label>6)</label>
                     <seg>tað við lóg eru gjørdar serstakar ásetingar, ið tryggja, at parturin fær høvi til at kunna seg um støðið fyri teirri ætlaðu avgerðini og til at geva ummæli í málinum, áðrenn avgerðin verður tikin.</seg>
                   </item>
                 </list>
@@ -543,8 +543,8 @@
               </p>
             </div>
           </div>
-          <ab type="provision-heading">
-            <ab rend="italic center">Rætturin til at geva ummæli</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Rætturin til at geva ummæli</head>
             <div type="section" n="§ 20.">
               <div type="subsection" n="§ 20, stk. 1.">
                 <p rend="bill-text">
@@ -558,23 +558,23 @@
                   <label rend="italic">Stk. 2.</label>
                   <seg>Ásetingin í stk. 1 er ikki galdandi um</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>frest fer at føra við sær, at farið verður út um lógásetta freist fyri avgerðini í málinum,</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>áhugi partanna í, at av gerðin í málinum verður frest, eigur at víkja fyri munandi umhugsni fyri almennum ella privatum áhugamálum, ið tala ímóti tílíkari frest, ella</seg>
                     </item>
+                    <label>3)</label>
                     <item>
-                      <label>3)</label>
                       <seg>tað við lóg eru ásettar serstakar reglur, ið tryggja partinum høvi til at geva ummæli í málinum, áðrenn avgerð verður tikin.</seg>
                     </item>
                   </list>
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <!-- Kap. 6. -->
         <div type="chapter" n="6">
@@ -655,44 +655,44 @@
         <!-- Kap. 8. -->
         <div type="chapter" n="8">
           <head>Tagnarskylda v.m.</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Tagnarskylda.</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Tagnarskylda.</head>
             <div type="section" n="§ 26.">
               <div type="subsection" n="§ 26, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 26.</label>
                   <seg>Hann sum virkar innan almennu fyrisitingina hevur tagnarskyldu, jbr. orgarligu revsilógina § 152 og §§ 152c-l52f, tá ein upplýsing við lóg ella aðrari gildari áseting hevur trúnaðarfrámerki, ella tá tað annars er neyðugt at halda hana loyniliga fyri at verja serstøk fyrilit viðvíkjandi almennum ella privatum áhugamálum, herundir serstakliga:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>trygd ella verju ríkisins,</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>uttanríkispolitisk ella uttanríkisfíggjarlig áhugamál, herundir viðurskiftini við aðrar tjóðir ella millumtjóða stovnar,</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>fyribyrging, avdúkan og søkjan at lógarbrotum og eisini revsingarfullgerð og verja av ákærdum, vitnum ella øðrum í málum um revsirættarsókn ella agasókn,</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>fremjing av almennum eftirliti, skipanar- ella ráðleggingarvirksemi ella av ætlaðum tiltøkum sambært skatta- og avgjaldslóggávuni,</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>fíggjarligu áhugamálunum hjá tí almenna, herundir fremjing av vinnuvirksemi tess almenna,</seg>
-                    </item>
-                    <item>
-                      <label>6)</label>
-                      <seg>áhugamálið hjá einstaklingum ella privatum feløgum ella felagsskapum í at verja upplýsingar um teirra persónligu ella innanhýsis, herundir fíggjarligu, viðurskifti ella</seg>
-                    </item>
-                    <item>
-                      <label>7)</label>
-                      <seg>fíggjarligu áhugamálini hjá einstaklingum ella privatum feløgum ella felagsskapum í at verja upplýsingar um tøkniligar útbúningar ella mannagongdir ella um rakstrar- ella vinnuviðurskifti.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>trygd ella verju ríkisins,</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>uttanríkispolitisk ella uttanríkisfíggjarlig áhugamál, herundir viðurskiftini við aðrar tjóðir ella millumtjóða stovnar,</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>fyribyrging, avdúkan og søkjan at lógarbrotum og eisini revsingarfullgerð og verja av ákærdum, vitnum ella øðrum í málum um revsirættarsókn ella agasókn,</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>fremjing av almennum eftirliti, skipanar- ella ráðleggingarvirksemi ella av ætlaðum tiltøkum sambært skatta- og avgjaldslóggávuni,</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>fíggjarligu áhugamálunum hjá tí almenna, herundir fremjing av vinnuvirksemi tess almenna,</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg>áhugamálið hjá einstaklingum ella privatum feløgum ella felagsskapum í at verja upplýsingar um teirra persónligu ella innanhýsis, herundir fíggjarligu, viðurskifti ella</seg>
+                  </item>
+                  <label>7)</label>
+                  <item>
+                    <seg>fíggjarligu áhugamálini hjá einstaklingum ella privatum feløgum ella felagsskapum í at verja upplýsingar um tøkniligar útbúningar ella mannagongdir ella um rakstrar- ella vinnuviðurskifti.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 26, stk. 2.">
                 <p rend="bill-text">
@@ -713,9 +713,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Latan av upplýsingum til annan fyrisitingarmyndugleika</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Latan av upplýsingum til annan fyrisitingarmyndugleika</head>
             <div type="section" n="§ 27.">
               <div type="subsection" n="§ 27, stk. 1.">
                 <p rend="bill-text">
@@ -728,20 +728,20 @@
                   <label rend="italic">Stk. 2.</label>
                   <seg>Tær í stk. 1 nevndu upplýsingar kunnu tó latast víðari til annan fyrisitingarmyndugleika tá</seg>
                   <list>
+                    <label>1)</label>
                     <item>
-                      <label>1)</label>
                       <seg>hann, sum upplýsingin viðvíkur, hevur givið samtykki,</seg>
                     </item>
+                    <label>2)</label>
                     <item>
-                      <label>2)</label>
                       <seg>tað fylgir av lóg ella ásetingum við heimild í lóg, at upplýsingin skal latast víðari,</seg>
                     </item>
+                    <label>3)</label>
                     <item>
-                      <label>3)</label>
                       <seg>upplýsingin verður latin víðari fyri at røkja privat ella almenn áhugamál, sum greitt fara fram um fyrilitið fyri teimum áhugamálum, ið geva grund fyri dyljan, herundir umhugsni honum, sum upplýsingin viðvíkur, ella</seg>
                     </item>
+                    <label>4)</label>
                     <item>
-                      <label>4)</label>
                       <seg>tað er ein neyðugur liður í viðgerðini av málinum, at upplýsingin verður latin víðari, ella tað er neyðugt fyri at ein myndugleiki kann fremja eftirlits- ella umsjónaruppgávur.</seg>
                     </item>
                   </list>
@@ -784,21 +784,21 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Ásetingin í stk. 1 er ikki galdandi, um so er, at:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>umsøkjarin hevur givið samtykki,</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>annað fylgir av lóg ella reglum ásettar sambært lóg ella</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>serstøk fyrilit viðvíkjandi umsøkjara ella triðjamanni greitt fara fram um áhuga umsøkjarans í, at ikki verður biðið um upplýsingina.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>umsøkjarin hevur givið samtykki,</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>annað fylgir av lóg ella reglum ásettar sambært lóg ella</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>serstøk fyrilit viðvíkjandi umsøkjara ella triðjamanni greitt fara fram um áhuga umsøkjarans í, at ikki verður biðið um upplýsingina.</seg>
+                  </item>
+                </list>
               </div>
             </div>
             <div type="section" n="§ 29.">
@@ -831,7 +831,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <!-- Kap. 9. -->
         <div type="chapter" n="9">
