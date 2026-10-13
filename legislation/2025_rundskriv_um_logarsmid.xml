@@ -39,11 +39,11 @@
   <text>
     <front>
       <pb n="3"/>
+      <ab rend="bold center">Lógartænastan</ab>
+      <space type="vertical"/>
       <div>
-        <ab rend="bold center">Lógartænastan</ab>
-        <space type="vertical"/>
         <head rend="bold center">Rundskriv um lógarsmíð</head>
-        <head rend="italic center">(Til stjórnarráðini og stovnar undir landinum)</head>
+        <ab rend="italic center">(Til stjórnarráðini og stovnar undir landinum)</ab>
         <p>
           <s xml:id="isgbai6n7t">Í hesum rundskrivi er ásett, hvussu løgtingslógaruppskot og broytingaruppskot skulu orðast og setast upp.</s>
           <s xml:id="eday3vl53j">Krøv til innihaldið í viðmerkingum til hesi uppskot verða eisini ásett.</s>
@@ -72,14 +72,30 @@
         <!-- TODO: fix this later -->
         <ab rend="bold">Rundskrivið er býtt í 8 partar:</ab>
         <list>
-          <item><label rend="bold">Partur I:</label></item>
-          <item><label rend="bold">Partur II:</label></item>
-          <item><label rend="bold">Partur III:</label></item>
-          <item><label rend="bold">Partur IV:</label></item>
-          <item><label rend="bold">Partur V:</label></item>
-          <item><label rend="bold">Partur VI:</label></item>
-          <item><label rend="bold">Partur VII:</label></item>
-          <item><label rend="bold">Partur VIII:</label></item>
+          <item>
+            <label rend="bold">Partur I:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur II:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur III:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur IV:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur V:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur VI:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur VII:</label>
+          </item>
+          <item>
+            <label rend="bold">Partur VIII:</label>
+          </item>
         </list>
         <!-- Insert table of contents later... -->
       </div>
@@ -128,14 +144,38 @@
             <p>
               <seg>Eitt løgtingslógaruppskot kann ofta skipast á henda hátt:</seg>
               <list>
-                <item><label>1)</label> <seg>Ásetingar um virkisøki.</seg></item>
-                <item><label>2)</label> <seg>Greining av hugtøkum.</seg></item>
-                <item><label>3)</label> <seg>Ásetingar um rættindi og skyldur hjá borgaranum.</seg></item>
-                <item><label>4)</label> <seg>Ásetingar um heimild, málsviðgerð, kærumøguleikar o.a.</seg></item>
-                <item><label>5)</label> <seg>Revsiásetingar.</seg></item>
-                <item><label>6)</label> <seg>Ásetingar um gildiskomu.</seg></item>
-                <item><label>7)</label> <seg>Úrgildissetingarreglur og skiftisreglur.</seg></item>
-                <item><label>8)</label> <seg>Ásetingar um fylgisbroytingar í aðrari lóggávu.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Ásetingar um virkisøki.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Greining av hugtøkum.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Ásetingar um rættindi og skyldur hjá borgaranum.</seg>
+                </item>
+                <item>
+                  <label>4)</label>
+                  <seg>Ásetingar um heimild, málsviðgerð, kærumøguleikar o.a.</seg>
+                </item>
+                <item>
+                  <label>5)</label>
+                  <seg>Revsiásetingar.</seg>
+                </item>
+                <item>
+                  <label>6)</label>
+                  <seg>Ásetingar um gildiskomu.</seg>
+                </item>
+                <item>
+                  <label>7)</label>
+                  <seg>Úrgildissetingarreglur og skiftisreglur.</seg>
+                </item>
+                <item>
+                  <label>8)</label>
+                  <seg>Ásetingar um fylgisbroytingar í aðrari lóggávu.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -252,13 +292,15 @@
             </div>
             <div n="1.1.6.1.">
               <head rend="bold">Gásareygu undantøk</head>
-              <seg>Sum undantak kunnu gásareygu verða brúkt, t.d. til merking av vøru ella líknandi:</seg>
-              <ab> <!-- TODO: fix infobox formatting -->
+              <p>
+                <seg>Sum undantak kunnu gásareygu verða brúkt, t.d. til merking av vøru ella líknandi:</seg>
+              </p>
+              <div rend="rul-info-box"> <!-- TODO: fix infobox formatting -->
                 <p>
                   <label rend="italic">Stk. 6.</label>
                   <s xml:id="jmpeh5vpnx">Kelduvatn ella natúrligt mineralvatn, ið er viðgjørt við osonríkaðari luft, skal merkjast soleiðis “Vatnið hevur fingið góðkenda viðgerð við osonríkaðari luft”.</s>
                 </p>
-              </ab>
+              </div>
             </div>
             <div n="1.1.6.2.">
               <head rend="bold">Klombur undantøk</head>
@@ -303,21 +345,66 @@
               <seg>Undantiknar eru niðanfyri nevndu styttingar, sum eru at finna á styttingarlistanum á heimasíðuni hjá Málráðnum:</seg>
               <lb/>
               <list>
-                <item><label>m.a.</label> <seg>millum annað</seg></item>
-                <item><label>o.a.</label> <seg>og annað</seg></item>
-                <item><label>o.a.m. </label> <seg>og annað meir</seg></item>
-                <item><label>o.o.</label> <seg>og onnur</seg></item>
-                <item><label>o.fl.</label> <seg>og fleiri</seg></item>
-                <item><label>o.tíl.</label> <seg>og tílíkt</seg></item>
-                <item><label>o.s.fr.</label> <seg>og so framvegis</seg></item>
-                <item><label>o.ø.</label> <seg>og øðrum</seg></item>
-                <item><label>t.d.</label> <seg>til dømis</seg></item>
-                <item><label>t.e.</label> <seg>tað er</seg></item>
-                <item><label>uml.</label> <seg>umleið</seg></item>
-                <item><label>sbr.</label> <seg>samanber</seg></item>
-                <item><label>sbrt.</label> <seg>sambært</seg></item>
-                <item><label>viðv.</label> <seg>viðvíkjandi</seg></item>
-                <item><label>viðm.</label> <seg>viðmerkingar</seg></item>
+                <item>
+                  <label>m.a.</label>
+                  <seg>millum annað</seg>
+                </item>
+                <item>
+                  <label>o.a.</label>
+                  <seg>og annað</seg>
+                </item>
+                <item>
+                  <label>o.a.m. </label>
+                  <seg>og annað meir</seg>
+                </item>
+                <item>
+                  <label>o.o.</label>
+                  <seg>og onnur</seg>
+                </item>
+                <item>
+                  <label>o.fl.</label>
+                  <seg>og fleiri</seg>
+                </item>
+                <item>
+                  <label>o.tíl.</label>
+                  <seg>og tílíkt</seg>
+                </item>
+                <item>
+                  <label>o.s.fr.</label>
+                  <seg>og so framvegis</seg>
+                </item>
+                <item>
+                  <label>o.ø.</label>
+                  <seg>og øðrum</seg>
+                </item>
+                <item>
+                  <label>t.d.</label>
+                  <seg>til dømis</seg>
+                </item>
+                <item>
+                  <label>t.e.</label>
+                  <seg>tað er</seg>
+                </item>
+                <item>
+                  <label>uml.</label>
+                  <seg>umleið</seg>
+                </item>
+                <item>
+                  <label>sbr.</label>
+                  <seg>samanber</seg>
+                </item>
+                <item>
+                  <label>sbrt.</label>
+                  <seg>sambært</seg>
+                </item>
+                <item>
+                  <label>viðv.</label>
+                  <seg>viðvíkjandi</seg>
+                </item>
+                <item>
+                  <label>viðm.</label>
+                  <seg>viðmerkingar</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -345,18 +432,21 @@
               <seg><hi rend="underline">Sbrt. = sambært:</hi> Verður brúkt um tað, sum stendur í ásetingini, skal vera í sambæri við nakað, sum stendur í eini aðrari áseting.</seg>
               <s xml:id="mmabvtp5dc">Ella um nakað í ásetingini skal vera svarandi til eitthvørt, sum stendur aðra staðni t.d. treytir, freistir o.tíl.</s>
             </p>
-            <ab>
-              <!-- TODO: fix info box formatting -->
-              <ab rend="bold center">Barnaverndarlógin</ab>
-              <p>
-                <label rend="bold">§ 9.</label>
-                <s xml:id="r5jwaarulz">Barnaverndarnevndin tekur avgerð í málum, har samtykki er fingið frá tí ella teimum, ið hava foreldramyndugleikan, og einum barni, ið hevur fylt 15 ár, tó undantikið í málum viðvíkjandi umsorganaryvirtøku og samverurætti, sbr. §§ 19 og 22-24 og viðvíkjandi § 15 a.</s>                
-              </p>
-              <p>
-                <label rend="italic">Stk. 2.</label>
-                <s xml:id="qc53nxlt5g">Harumframt tekur Barnaverndarnevndin avgerð í málum sbrt. § 15, stk. 2, § 17, stk. 1, § 18, stk. 1, § 20, stk. 1 og § 21, stk. 2 uttan samtykki frá tí ella teimum, ið hava foreldramyndugleikan.</s>
-              </p>
-            </ab>
+            <floatingText>
+              <body>
+                <div rend="rul-info-box">
+                  <head rend="bold center">Barnaverndarlógin</head>
+                  <p>
+                    <label rend="bold">§ 9.</label>
+                    <s xml:id="r5jwaarulz">Barnaverndarnevndin tekur avgerð í málum, har samtykki er fingið frá tí ella teimum, ið hava foreldramyndugleikan, og einum barni, ið hevur fylt 15 ár, tó undantikið í málum viðvíkjandi umsorganaryvirtøku og samverurætti, sbr. §§ 19 og 22-24 og viðvíkjandi § 15 a.</s>
+                  </p>
+                  <p>
+                    <label rend="italic">Stk. 2.</label>
+                    <s xml:id="qc53nxlt5g">Harumframt tekur Barnaverndarnevndin avgerð í málum sbrt. § 15, stk. 2, § 17, stk. 1, § 18, stk. 1, § 20, stk. 1 og § 21, stk. 2 uttan samtykki frá tí ella teimum, ið hava foreldramyndugleikan.</s>
+                  </p>
+                </div>
+              </body>
+            </floatingText>
             <p>
               <s xml:id="sazerzread">Í § 9, stk. 1, sum er um mál har samtykki er fingið, verður styttingin sbr. = samanber nýtt at vísa til greinir um mál uttan samtykki.</s>
             </p>
@@ -391,25 +481,28 @@
                 <s xml:id="v6lzcsuxyx">Hevur rættarreglan eitt kunngjørt stytt heiti, kann vísast til hetta í staðin.</s>
                 <s xml:id="o7wrnr2b4d">T.d. skattalógin, eftirlønarlógin ella revsilógin.</s>
               </p>
-              <ab>
-                <!-- TODO: format infobox -->
-                <p>
-                  <label rend="bold">§ 7.</label>
-                  <seg>Kringvarpsstøð við sendiloyvi sambært løgtingslóg um kringvarp kann senda ...</seg>
-                </p>
-                <p>
-                  <label rend="bold">§ 9.</label>
-                  <seg>Málið verður lagt fyri dómsvaldið eftir reglunum í § 78, stk. 3 í revsilógini ...</seg>
-                </p>
-                <p>
-                  <label rend="bold">§ 11.</label>
-                  <seg>Arbeiðsleys hava sambært kunngerð um starvsvenjing fyri arbeiðsleys rætt til ...</seg>
-                </p>
-                <p>
-                  <label rend="bold">§ 17.</label>
-                  <seg>Treytir um nýtslu av Heldini, sum ásettar í rundskrivi um heldina, eru eisini ...</seg>
-                </p>
-              </ab>
+              <floatingText>
+                <body>
+                  <div rend="rul-info-box">
+                    <p>
+                      <label rend="bold">§ 7.</label>
+                      <seg>Kringvarpsstøð við sendiloyvi sambært løgtingslóg um kringvarp kann senda ...</seg>
+                    </p>
+                    <p>
+                      <label rend="bold">§ 9.</label>
+                      <seg>Málið verður lagt fyri dómsvaldið eftir reglunum í § 78, stk. 3 í revsilógini ...</seg>
+                    </p>
+                    <p>
+                      <label rend="bold">§ 11.</label>
+                      <seg>Arbeiðsleys hava sambært kunngerð um starvsvenjing fyri arbeiðsleys rætt til ...</seg>
+                    </p>
+                    <p>
+                      <label rend="bold">§ 17.</label>
+                      <seg>Treytir um nýtslu av Heldini, sum ásettar í rundskrivi um heldina, eru eisini ...</seg>
+                    </p>
+                  </div>
+                </body>
+              </floatingText>
               <p>
                 <s xml:id="ggxb6x5hak">Tó eigur fulla heitið á rættarregluni við nummar og dagfesting at verða skrivað í tær serligu viðmerkingarnar í kapitli 3 í løgtingslógaruppskotinum.</s>
               </p>
@@ -450,23 +543,19 @@
             </div>
             <div n="1.1.10.1.">
               <head rend="underline">Heimasíður o.tíl.</head>
-              <ab>
-                <p>
-                  <label rend="italic">Stk. 2.</label>
-                  <s xml:id="bd34sczsb4">Heilsutrygd kann eftir umsókn góðkenna ein viðgerðarstovn.</s>
-                  <s xml:id="bgwicx6rom">Umsóknin skal latast á serstøkum oyðublaði, ið er at finna á heimasíðuni hjá Heilsutrygd.</s>
-                </p>
-              </ab>
+              <p rend="rul-info-box">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:id="bd34sczsb4">Heilsutrygd kann eftir umsókn góðkenna ein viðgerðarstovn.</s>
+                <s xml:id="bgwicx6rom">Umsóknin skal latast á serstøkum oyðublaði, ið er at finna á heimasíðuni hjá Heilsutrygd.</s>
+              </p>
               <p>
                 <seg>Um neyðugt kann sjálvt økisnavnið eisini verða nevnt:</seg>
-                <ab>
-                  <p>
-                    <label rend="italic">Stk. 2.</label>
-                    <s xml:id="xf3ekjkcu5">Heilsutrygd kann eftir umsókn góðkenna ein viðgerðarstovn.</s>
-                    <s xml:id="es222izqcc">Umsóknin skal latast á serstøkum oyðublaði, ið er at finna á heimasíðuni hjá Heilsutrygd (www.heislutrygd.fo).</s>
-                  </p>
-                </ab>
-              </p>              
+              </p>
+              <p rend="rul-info-box">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:id="xf3ekjkcu5">Heilsutrygd kann eftir umsókn góðkenna ein viðgerðarstovn.</s>
+                <s xml:id="es222izqcc">Umsóknin skal latast á serstøkum oyðublaði, ið er at finna á heimasíðuni hjá Heilsutrygd (www.heislutrygd.fo).</s>
+              </p>
               <p>
                 <seg>Um økisnavnið verður nevnt eigur man einans at vísa til høvuðssíðuna og ikki til undirsíður, sum eitt nú, www.heilsutrygd.fo/viðgerðarstovnar/oyðubløð/</seg>
               </p>
@@ -478,21 +567,17 @@
               <head rend="underline">Teldupostur:</head>
               <p>
                 <seg>Sjálv teldupost adressan verður vanliga ikki nevnd:</seg>
-                <ab>
-                  <p>
-                    <label rend="italic">Stk. 2.</label>
-                    <s xml:id="zwqfxho6xf">Fráboðanin og tann skjalfestingin, ið skal sendast saman við fráboðanini, kunnu latast inn í vanligum posti ella við telduposti.</s>
-                  </p>
-                </ab>
+              </p>
+              <p rend="rul-info-box">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:id="zwqfxho6xf">Fráboðanin og tann skjalfestingin, ið skal sendast saman við fráboðanini, kunnu latast inn í vanligum posti ella við telduposti.</s>
               </p>
               <p>
                 <seg>Í undantaksføri kann teldupost adressan tó verða nevnd:</seg>
-                <ab>
-                  <p>
-                    <label rend="italic">Stk. 2.</label>
-                    <seg>Fráboðanin og tann skjalfestingin, ið skal sendast saman við fráboðanini, kunnu latast inn í vanligum posti ella við telduposti (fráboðan@fráboðan.fo).</seg>
-                  </p>
-                </ab>
+              </p>
+              <p rend="rul-info-box">
+                <label rend="italic">Stk. 2.</label>
+                <seg>Fráboðanin og tann skjalfestingin, ið skal sendast saman við fráboðanini, kunnu latast inn í vanligum posti ella við telduposti (fráboðan@fráboðan.fo).</seg>
               </p>
               <p>
                 <s xml:id="ccr4mpnayc">Teldupostadressur skulu hvørki verða virknar ella undirstrikaðar.</s>
@@ -540,31 +625,42 @@
             </p>
             <p>
               <seg>Skjalið verður sett inn beint aftan á lógartekstin í uppskotinum og frammanfyri viðmerkingarnar til uppskotið, soleiðis at raðfylgjan er hendan:</seg>
-              <lb/>
-              <!-- TODO: format infobox -->
-              <list>
-                <item><label>1)</label> <seg>Løgtingslógaruppskot,</seg></item>
-                <item><label>2)</label> <seg>skjal,</seg></item>
-                <item><label>3)</label> <seg>viðmerkingar til løgtingslógaruppskotið,</seg></item>
-                <item><label>4)</label> <seg>undirskrift hjá landsstýrisfólki, og</seg></item>
-                <item><label>5)</label> <seg>fylgiskjøl.</seg></item>
-              </list>
             </p>
+            <list rend="rul-info-box">
+              <item>
+                <label>1)</label>
+                <seg>Løgtingslógaruppskot,</seg>
+              </item>
+              <item>
+                <label>2)</label>
+                <seg>skjal,</seg>
+              </item>
+              <item>
+                <label>3)</label>
+                <seg>viðmerkingar til løgtingslógaruppskotið,</seg>
+              </item>
+              <item>
+                <label>4)</label>
+                <seg>undirskrift hjá landsstýrisfólki, og</seg>
+              </item>
+              <item>
+                <label>5)</label>
+                <seg>fylgiskjøl.</seg>
+              </item>
+            </list>
             <p>
               <seg>Uppskot til kunngerð hava ikki viðmerkingar, og tí verður skjal til kunngerð sett inn aftan á undirskriftina hjá landstýrisfólkinum, soleiðis at raðfylgjan er hendan:</seg>
-              <lb/>
-              <!-- TODO: format infobox -->
-              <list>
-                <item>1)<label/> <seg>Kunngerðaruppskot,</seg></item>
-                <item>2)<label/> <seg>undirskrift hjá landsstýrisfólki, og</seg></item>
-                <item>3)<label/> <seg>skjal.</seg></item>
-              </list>
             </p>
+            <list rend="rul-info-box">
+              <item>1)<label/> <seg>Kunngerðaruppskot,</seg></item>
+              <item>2)<label/> <seg>undirskrift hjá landsstýrisfólki, og</seg></item>
+              <item>3)<label/> <seg>skjal.</seg></item>
+            </list>
             <p>
               <s xml:id="ihboinu6mf">Uppskot til kunngerðir hava ikki fylgiskjøl.</s>
             </p>
             <p>
-            <seg>Sí eisini nr. 1.2.4. Fylgiskjøl til uppskot og nr. 2.7. Skjøl.</seg>
+              <seg>Sí eisini nr. 1.2.4. Fylgiskjøl til uppskot og nr. 2.7. Skjøl.</seg>
             </p>
           </div>
           <div n="1.1.12.">
@@ -678,7 +774,7 @@
             </p>
           </div>
           <div n="1.1.15.">
-            <head rend="bold">Mannagongd, tá ið uppskot verða latin ritara- og stjórnartænastuni til landsstýrisfund</head>            
+            <head rend="bold">Mannagongd, tá ið uppskot verða latin ritara- og stjórnartænastuni til landsstýrisfund</head>
             <p>
               <s xml:id="ccsczk3sfr">Ritara- og stjórnartænastan á Løgmansskrivstovuni hevur ábyrgd av at samskipa landsstýrisfundirnar.</s>
               <s xml:id="stflvrnh5d">Vanliga er landsstýrisfundur hvønn týsmorgun kl. 9:00.</s>
@@ -837,9 +933,18 @@
               <seg>Hvørjar útreiðslur eru av uppskotinum, og hvussu er ætlanin at fíggja útreiðslurnar:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Í fíggjarlóg ella við eykajáttanarlóg.</seg></item>
-                <item><label>2)</label> <seg>Í fíggjarætlan hjá kommunum.</seg></item>
-                <item><label>3)</label> <seg>Við brúkaragjøldum ella á annan hátt.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Í fíggjarlóg ella við eykajáttanarlóg.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Í fíggjarætlan hjá kommunum.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Við brúkaragjøldum ella á annan hátt.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -850,8 +955,14 @@
               <seg>Fíggjarligu avleiðingarnar kunnu vera tvíbýttar:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Fíggjarligar avleiðingar av endamálinum við uppskotinum.</seg></item>
-                <item><label>2)</label> <seg>Fíggjarligar avleiðingar vegna umsitingarligu avleiðingarnar.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Fíggjarligar avleiðingar av endamálinum við uppskotinum.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Fíggjarligar avleiðingar vegna umsitingarligu avleiðingarnar.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -875,10 +986,22 @@
               <seg>Samanumtikið skal verða greitt soleiðis frá fíggjarligu avleiðingunum:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <s xml:id="s6f6ao7zjz">Útreiðslur og inntøkur skulu allar vera brutto og sundurgreinaðar í slag, t.d. lønir, keyp av veitingum, vørum og búnaði, umframt til óvissur og váðaískoyti.</s></item>
-                <item><label>2)</label> <s xml:id="nsgwx44ftu">Útreiðslur og inntøkur skulu verða lýstar yvir hóskandi áramál, soleiðis at metast kann um samlaða vavið av uppskotinum.</s></item>
-                <item><label>3)</label> <seg>Býti av útreiðslum og inntøkum uppá hvønn part, sum fíggjar</seg></item>
-                <item><label>4)</label> <seg>Játtanarslag.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <s xml:id="s6f6ao7zjz">Útreiðslur og inntøkur skulu allar vera brutto og sundurgreinaðar í slag, t.d. lønir, keyp av veitingum, vørum og búnaði, umframt til óvissur og váðaískoyti.</s>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <s xml:id="nsgwx44ftu">Útreiðslur og inntøkur skulu verða lýstar yvir hóskandi áramál, soleiðis at metast kann um samlaða vavið av uppskotinum.</s>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Býti av útreiðslum og inntøkum uppá hvønn part, sum fíggjar</seg>
+                </item>
+                <item>
+                  <label>4)</label>
+                  <seg>Játtanarslag.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -928,9 +1051,18 @@
               <seg>Tað kunnu vera trý sløg av vinnuligum avleiðingum:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Beinleiðis vinnubúskaparligar avleiðingar.</seg></item>
-                <item><label>2)</label> <seg>Broyttir karmar, sum ávirkar atburðin hjá fyritøkunum.</seg></item>
-                <item><label>3)</label> <seg>Ávirkan á búskapin sum heild.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Beinleiðis vinnubúskaparligar avleiðingar.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Broyttir karmar, sum ávirkar atburðin hjá fyritøkunum.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Ávirkan á búskapin sum heild.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -938,100 +1070,105 @@
             </p>
             <pb n="39"/>
             <list>
+              <label>1)</label>
               <item>
-                <label>1)</label>
-                <ab>
-                  <list>
-                    <head>Beinleiðis vinnubúskaparligar avleiðingar:</head>
-                    <item>
-                      <label>a)</label>
-                      <ab>
-                        <seg>Skattir, avgjøld, stuðul.</seg>
-                        <lb/>
-                        <seg>Dømi: Framleiðslugjøld, arbeiðsmarknaðargjøld, kringvarpsgjald, skattir, landbúnaðarstuðul.</seg>
-                      </ab>
-                    </item>
-                    <item>
-                      <label>b)</label>
-                      <ab>
-                        <seg>Umsitingarligar byrðar ella lættar.</seg>
-                        <lb/>
-                        <seg>Dømi: Forhandarmetingar, pensiónslóggávan, veiðiváttanir, setanarprógv.</seg>
-                      </ab>
-                    </item>
-                    <item>
-                      <label>c)</label>
-                      <list>
-                        <head>Aðrar vinnubúskaparligar avleiðingar av rættarregluni:</head>
-                        <item>
-                          <label>i)</label>
-                          <ab>
-                            <seg>Krøv til innrætting, framleiðsluhátt o.s.fr.</seg>
-                            <lb/>
-                            <seg>Dømi: Byggilóggáva, umhvørvislóggáva, friðingarlóggáva, arbeiðsumhvørvislóggáva.</seg>
-                          </ab>
-                        </item>
-                        <item>
-                          <label>ii)</label>
-                          <ab>
-                            <seg>Avmarkingar ella betri møguleikar fyri framleiðslu ella sølu.</seg>
-                            <lb/>
-                            <seg>Dømi: Afturlatingarlóggáva, rúsdrekkalóggáva, reglur um koyring við vandamiklum góðsi.</seg>
-                          </ab>
-                        </item>
-                      </list>
-                    </item>
-                  </list>
-                  <p>
-                    <s xml:id="vdffa5syjd">Í viðmerkingunum eigur at vera gjørd ein lýsing av beinleiðis vinnubúskaparligum avleiðingum.</s>
-                    <s xml:id="poldm6lyfo">Hesar eiga at verða býttar upp í eingangs og varandi kostnað.</s>
-                    <s xml:id="p52y6u67ul">Eisini eigur at vera gjørd ein kvantifisering í mun til verandi støðu.</s>
-                  </p>
-                </ab>
+
+
+                <list>
+                  <head>Beinleiðis vinnubúskaparligar avleiðingar:</head>
+                  <label>a)</label>
+                  <item>
+                    <p>
+                      <seg>Skattir, avgjøld, stuðul.</seg>
+                    </p>
+                    <p>
+                      <seg>Dømi: Framleiðslugjøld, arbeiðsmarknaðargjøld, kringvarpsgjald, skattir, landbúnaðarstuðul.</seg>
+                    </p>
+                  </item>
+                  <label>b)</label>
+                  <item>
+                    <p>
+                      <seg>Umsitingarligar byrðar ella lættar.</seg>
+                    </p>
+                    <p>
+                      <seg>Dømi: Forhandarmetingar, pensiónslóggávan, veiðiváttanir, setanarprógv.</seg>
+                    </p>
+                  </item>
+                  <label>c)</label>
+                  <item>
+                    <list>
+                      <head>Aðrar vinnubúskaparligar avleiðingar av rættarregluni:</head>
+                      <label>i)</label>
+                      <item>
+                        <p>
+                          <seg>Krøv til innrætting, framleiðsluhátt o.s.fr.</seg>
+                        </p>
+                        <p>
+                          <seg>Dømi: Byggilóggáva, umhvørvislóggáva, friðingarlóggáva, arbeiðsumhvørvislóggáva.</seg>
+                        </p>
+                      </item>
+                      <label>ii)</label>
+                      <item>
+                        <p>
+                          <seg>Avmarkingar ella betri møguleikar fyri framleiðslu ella sølu.</seg>
+                        </p>
+                        <p>
+                          <seg>Dømi: Afturlatingarlóggáva, rúsdrekkalóggáva, reglur um koyring við vandamiklum góðsi.</seg>
+                        </p>
+                      </item>
+                    </list>
+                  </item>
+                </list>
+                <p>
+                  <s xml:id="vdffa5syjd">Í viðmerkingunum eigur at vera gjørd ein lýsing av beinleiðis vinnubúskaparligum avleiðingum.</s>
+                  <s xml:id="poldm6lyfo">Hesar eiga at verða býttar upp í eingangs og varandi kostnað.</s>
+                  <s xml:id="p52y6u67ul">Eisini eigur at vera gjørd ein kvantifisering í mun til verandi støðu.</s>
+                </p>
               </item>
+              <label>2)</label>
               <item>
-                <label>2)</label>
-                <ab>
-                  <list>
-                    <head>Broytt virksemi hjá fyritøkum:</head>
-                    <item>
-                      <label>a)</label>
-                      <ab>
-                        <seg>Marknaðarbroytingar.</seg>
-                        <lb/>
-                        <seg>Herundir: tal á fyritøkum, íverksetan, atgongd til marknaðin, kapping.</seg>
-                        <lb/>
-                        <seg>Dømi: Liberalisering av fjarskiftismarknaðinum, íverksetarafeløg.</seg>
-                      </ab>
-                    </item>
-                    <item>
-                      <label>a)</label>
-                      <ab>
-                        <seg>Broytingar í framleiðslufaktorum.</seg>
-                        <lb/>
-                        <seg>Herundir: Atgongd til kapital og fígging, atgongd til skikkaða arbeiðsmegi, atgongd til náttúrutilfeingi.</seg>
-                        <lb/>
-                        <seg>Dømi: Útlendingalóggáva og arbeiðsloyvi, lóggáva um gongd í haga, handilsavtalur, barsilslóggáva.</seg>
-                      </ab>
-                    </item>
-                  </list>
-                  <p>
-                    <s xml:id="zrn2xyxtrs">Í viðmerkingunum eigur at vera gjørd ein lýsing av broyttum virksemi.</s>
-                    <s xml:id="ph67nbq533">Hetta eigur at verða býtt upp í eingangs og varandi avleiðingar.</s>
-                    <s xml:id="uwlt62xbqr">Eisini eigur at verða gjørd ein kvalitativ lýsing í mun til verandi støðu.</s>
-                  </p>
-                </ab>
+                <list>
+                  <head>Broytt virksemi hjá fyritøkum:</head>
+                  <label>a)</label>
+                  <item>
+                    <p>
+                      <seg>Marknaðarbroytingar.</seg>
+                    </p>
+                    <p>
+                      <seg>Herundir: tal á fyritøkum, íverksetan, atgongd til marknaðin, kapping.</seg>
+                    </p>
+                    <p>
+                      <seg>Dømi: Liberalisering av fjarskiftismarknaðinum, íverksetarafeløg.</seg>
+                    </p>
+                  </item>
+                  <label>a)</label>
+                  <item>
+                    <p>
+                      <seg>Broytingar í framleiðslufaktorum.</seg>
+                    </p>
+                    <p>
+                      <seg>Herundir: Atgongd til kapital og fígging, atgongd til skikkaða arbeiðsmegi, atgongd til náttúrutilfeingi.</seg>
+                    </p>
+                    <p>
+                      <seg>Dømi: Útlendingalóggáva og arbeiðsloyvi, lóggáva um gongd í haga, handilsavtalur, barsilslóggáva.</seg>
+                    </p>
+                  </item>
+                </list>
+                <p>
+                  <s xml:id="zrn2xyxtrs">Í viðmerkingunum eigur at vera gjørd ein lýsing av broyttum virksemi.</s>
+                  <s xml:id="ph67nbq533">Hetta eigur at verða býtt upp í eingangs og varandi avleiðingar.</s>
+                  <s xml:id="uwlt62xbqr">Eisini eigur at verða gjørd ein kvalitativ lýsing í mun til verandi støðu.</s>
+                </p>
               </item>
+              <label>3)</label>
               <item>
-                <label>3)</label>
-                <ab>
-                  <p>
-                    <seg>Ávirkan á vinnubúskapin sum heild.</seg>
-                    <lb/>
-                    <s xml:id="wfizvvqsty">Her verður hugsað um avleidda ávirkan á aðrar vinnugreinar ella vinnubúskapin sum heild, so sum produktivitet, arbeiðsloysi, prísstøðið, inflatión, forbrúk og uppsparing o.a.</s>
-                    <s xml:id="y3to76znne">Um tað er viðkomandi, so eisini ávirkan á BTÚ.</s>
-                  </p>
-                </ab>
+                <p>
+                  <seg>Ávirkan á vinnubúskapin sum heild.</seg>
+                </p>
+                <p>
+                  <s xml:id="wfizvvqsty">Her verður hugsað um avleidda ávirkan á aðrar vinnugreinar ella vinnubúskapin sum heild, so sum produktivitet, arbeiðsloysi, prísstøðið, inflatión, forbrúk og uppsparing o.a.</s>
+                  <s xml:id="y3to76znne">Um tað er viðkomandi, so eisini ávirkan á BTÚ.</s>
+                </p>
               </item>
             </list>
           </div>
@@ -1100,40 +1237,36 @@
               <seg>Í uppskotinum skal lýsast, hvussu uppskotið sampakkar við hesar tvørgangandi sáttmálarnar:</seg>
             </p>
             <list>
+              <label>1)</label>
               <item>
-                <label>1)</label>
-                <div n="1.2.2.8.1">
-                  <head>Evropeiski mannarættindasáttmálan, EMRS.</head>
-                  <p>
-                    <s xml:id="nkvf2znboy">Evropeiski Mannarættindasáttmálin hevur til endamáls at verja borgarar í teimum evropeisku londunum ímóti mannarættindabrotum.</s>
-                    <s xml:id="j2ihm47kmj">Sáttmálin varð samtyktur í Evroparáðnum í 1950 við íblástri frá heimsyvirlýsingini hjá ST.</s>
-                  </p>
-                  <p>
-                    <s xml:id="uckz6tfuuo">Sáttmálin varð settur í gildi fyri Føroyar sum løgtingslóg 1. mai 2000 við anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention.</s>
-                  </p>
-                  <p>
-                    <s xml:id="b6xcl5n45n">Ein røð av ískoytisprotokollum er løgd aftur at sáttmálanum gjøgnum árini.</s>
-                    <s xml:id="djvdfdckac">Í Føroyum er í gildi høvuðssáttmálin frá 4. november 1950 sum broyttur við protokoll nr. 3, 5, 8, 10 og 11 og ískoytisprotokollirnar nr. 1, 4, 6 og 7.</s>
-                  </p>
-                </div>
+                <ab>Evropeiski mannarættindasáttmálan, EMRS.</ab>
+                <p>
+                  <s xml:id="nkvf2znboy">Evropeiski Mannarættindasáttmálin hevur til endamáls at verja borgarar í teimum evropeisku londunum ímóti mannarættindabrotum.</s>
+                  <s xml:id="j2ihm47kmj">Sáttmálin varð samtyktur í Evroparáðnum í 1950 við íblástri frá heimsyvirlýsingini hjá ST.</s>
+                </p>
+                <p>
+                  <s xml:id="uckz6tfuuo">Sáttmálin varð settur í gildi fyri Føroyar sum løgtingslóg 1. mai 2000 við anordning nr. 136 af 25. februar 2000 om ikrafttræden for Færøerne af lov om den europæiske menneskerettighedskonvention.</s>
+                </p>
+                <p>
+                  <s xml:id="b6xcl5n45n">Ein røð av ískoytisprotokollum er løgd aftur at sáttmálanum gjøgnum árini.</s>
+                  <s xml:id="djvdfdckac">Í Føroyum er í gildi høvuðssáttmálin frá 4. november 1950 sum broyttur við protokoll nr. 3, 5, 8, 10 og 11 og ískoytisprotokollirnar nr. 1, 4, 6 og 7.</s>
+                </p>
               </item>
+              <label>2)</label>
               <item>
-                <label>2)</label>
-                <div>
-                  <head>Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</head>
-                  <p>
-                    <s xml:id="eijvywu3uk">Sáttmálin áleggur limalondunum at menna og fremja politikk, lógir og fyrisitingarlig mál, ið skulu tryggja rættindi hjá fólki, ið bera brek.</s>
-                  </p>
-                  <p>
-                    <s xml:id="zi5mxapgqt">Sáttmálin fekk gildi fyri Føroyar tann 23. august 2009.</s>
-                  </p>
-                  <p>
-                    <s xml:id="zxsl4oabpd">Sáttmálin er kunngjørdur við bekendtgørelse nr. 35 af 15. september 2009 af FN-konvention af 13. december 2006 om rettigheder for personer med handicap.</s>
-                  </p>
-                  <p>
-                    <s xml:id="rtavocvqos">Kunning um sáttmálan kann síggjast á heimasíðuni hjá Danska Institut for menneskerettigheder.</s>
-                  </p>
-                </div>
+                <ab>Sáttmáli Sameindu Tjóða um rættindi hjá einstaklingum, ið bera brek.</ab>
+                <p>
+                  <s xml:id="eijvywu3uk">Sáttmálin áleggur limalondunum at menna og fremja politikk, lógir og fyrisitingarlig mál, ið skulu tryggja rættindi hjá fólki, ið bera brek.</s>
+                </p>
+                <p>
+                  <s xml:id="zi5mxapgqt">Sáttmálin fekk gildi fyri Føroyar tann 23. august 2009.</s>
+                </p>
+                <p>
+                  <s xml:id="zxsl4oabpd">Sáttmálin er kunngjørdur við bekendtgørelse nr. 35 af 15. september 2009 af FN-konvention af 13. december 2006 om rettigheder for personer med handicap.</s>
+                </p>
+                <p>
+                  <s xml:id="rtavocvqos">Kunning um sáttmálan kann síggjast á heimasíðuni hjá Danska Institut for menneskerettigheder.</s>
+                </p>
               </item>
             </list>
           </div>
@@ -1350,9 +1483,18 @@
               <seg>Viðmerkingarnar til hvørja einstaka grein eiga at innihalda hesar upplýsingar:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Hvørjar broytingar greinin hevur við sær í mun til galdandi rætt, </seg></item>
-                <item><label>2)</label> <seg>grundgevingina fyri broytingunum, og</seg></item>
-                <item><label>3)</label> <seg>hvørjar avleiðingar broytingarnar fáa.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Hvørjar broytingar greinin hevur við sær í mun til galdandi rætt, </seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>grundgevingina fyri broytingunum, og</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>hvørjar avleiðingar broytingarnar fáa.</seg>
+                </item>
               </list>
             </p>
           </div>
@@ -1379,12 +1521,30 @@
             <seg>Sum dømi um onnur fylgiskjøl kunnu nevnast:</seg>
             <lb/>
             <list>
-              <item><label>1)</label> <seg>Upprit, frágreiðingar ella álit, sum viðgera og lýsa nágreiniligari ta tillaging, sum verður gjørd við uppskotinum.</seg></item>
-              <item><label>2)</label> <seg>Talvur við útrokningum, hagtølum o.tíl.</seg></item>
-              <item><label>3)</label> <seg>Strikumyndir ella myndir.</seg></item>
-              <item><label>4)</label> <seg>Kanningar ella frágreiðingar um fyrisitingarliga siðvenju á økinum.</seg></item>
-              <item><label>5)</label> <seg>Størri vinnubúskaparligar ella umhvørvisligar metingar, sum hava samband við evnið í uppskotinum.</seg></item>
-              <item><label>6)</label> <s xml:id="j7ikzltjoa">Til ríkislógartilmæli verða vanliga viðmerkingarnar til danska lógaruppskotið lagdar við.</s></item>
+              <item>
+                <label>1)</label>
+                <seg>Upprit, frágreiðingar ella álit, sum viðgera og lýsa nágreiniligari ta tillaging, sum verður gjørd við uppskotinum.</seg>
+              </item>
+              <item>
+                <label>2)</label>
+                <seg>Talvur við útrokningum, hagtølum o.tíl.</seg>
+              </item>
+              <item>
+                <label>3)</label>
+                <seg>Strikumyndir ella myndir.</seg>
+              </item>
+              <item>
+                <label>4)</label>
+                <seg>Kanningar ella frágreiðingar um fyrisitingarliga siðvenju á økinum.</seg>
+              </item>
+              <item>
+                <label>5)</label>
+                <seg>Størri vinnubúskaparligar ella umhvørvisligar metingar, sum hava samband við evnið í uppskotinum.</seg>
+              </item>
+              <item>
+                <label>6)</label>
+                <s xml:id="j7ikzltjoa">Til ríkislógartilmæli verða vanliga viðmerkingarnar til danska lógaruppskotið lagdar við.</s>
+              </item>
             </list>
           </p>
           <p>
@@ -1451,11 +1611,16 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Málsviðgjørt:</label>
+                  <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -1470,13 +1635,13 @@
             </p>
             <p>
               <seg>Heiti á løgtingslógaruppskoti verður miðsett og skrivað við feitum stavum:</seg>
-              <ab>
-                <ab rend="bold">Uppskot til</ab>
-                <ab rend="bold">Løgtingslóg</ab>
-                <ab rend="bold">um</ab>
-                <ab rend="bold">havnaloðsing</ab>
-              </ab>
             </p>
+            <ab rend="rul-info-box">
+              <ab rend="bold">Uppskot til</ab>
+              <ab rend="bold">Løgtingslóg</ab>
+              <ab rend="bold">um</ab>
+              <ab rend="bold">havnaloðsing</ab>
+            </ab>
           </div>
           <div n="1.3.4.">
             <head rend="bold">Stytt heiti á løgtingslógaruppskoti</head>
@@ -1492,15 +1657,15 @@
             </p>
             <p>
               <seg>Fær løgtingslógin tilskilað eitt stytt heiti, verður tað sett í klombur og skrivað við feitum stavum á regluna undir vanliga heitinum:</seg>
-              <ab>
-                <ab rend="bold center">Uppskot til</ab>
-                <lb/>
-                <ab rend="bold center">Løgtingslóg</ab>
-                <ab rend="bold center">um</ab>
-                <ab rend="bold center">landsskatt og kommunuskatt</ab>
-                <ab rend="bold center">(Skattalógin)</ab>
-              </ab>
             </p>
+            <ab rend="rul-info-box">
+              <ab rend="bold center">Uppskot til</ab>
+              <lb/>
+              <ab rend="bold center">Løgtingslóg</ab>
+              <ab rend="bold center">um</ab>
+              <ab rend="bold center">landsskatt og kommunuskatt</ab>
+              <ab rend="bold center">(Skattalógin)</ab>
+            </ab>
           </div>
           <div n="1.3.5.">
             <head rend="bold">Uppseting í greinir og stykkir</head>
@@ -1509,29 +1674,32 @@
               <s xml:id="jdiospxe2v">“Stk.” verður skrivað við skákskrift.</s>
             </p>
             <pb n="50"/>
-            <ab>
-              <!-- TODO: format infobox! -->
-              <ab>
-                <p>
-                  <label rend="bold">§ 23.</label>
-                  <seg>Arbeiðsinntøkan og starvssetanin skal skjalprógvast av arbeiðsgevaranum á umsóknarblað, sum ...</seg>
-                </p>
-                <p>
-                  <label rend="italic">Stk. 2.</label>
-                  <seg>Óarbeiðsføri og longdin av óarbeiðsførinum skal skjalprógvast við ...</seg>
-                </p>
-              </ab>
-              <ab>
-                <p>
-                  <label rend="bold">§ 24.</label>
-                  <seg>Almannastovan kann frá viðkomandi persónum, myndugleikum og feløgum, sum hava innlit í viðurskiftini, krevja upplýsingar, sum ...</seg>
-                </p>
-                <p>
-                  <label rend="italic">Stk. 2.</label>
-                  <seg>Eftir samráðingar við ...</seg>
-                </p>
-              </ab>
-            </ab>
+            <floatingText>
+              <body>
+                <div rend="rul-info-box">
+                  <div>
+                    <p>
+                      <label rend="bold">§ 23.</label>
+                      <seg>Arbeiðsinntøkan og starvssetanin skal skjalprógvast av arbeiðsgevaranum á umsóknarblað, sum ...</seg>
+                    </p>
+                    <p>
+                      <label rend="italic">Stk. 2.</label>
+                      <seg>Óarbeiðsføri og longdin av óarbeiðsførinum skal skjalprógvast við ...</seg>
+                    </p>
+                  </div>
+                  <div>
+                    <p>
+                      <label rend="bold">§ 24.</label>
+                      <seg>Almannastovan kann frá viðkomandi persónum, myndugleikum og feløgum, sum hava innlit í viðurskiftini, krevja upplýsingar, sum ...</seg>
+                    </p>
+                    <p>
+                      <label rend="italic">Stk. 2.</label>
+                      <seg>Eftir samráðingar við ...</seg>
+                    </p>
+                  </div>
+                </div>
+              </body>
+            </floatingText>
           </div>
           <div n="1.3.6.">
             <head rend="bold">Uppseting í bøkur, partar, kapitlar og yvirskriftir yvir greinum</head>
@@ -1543,9 +1711,18 @@
             </p>
             <p>
               <list>
-                <item><label>Bøkur verða nevndar:</label> <seg>Fyrsta bók, Onnur bók, Triðja bók ...</seg></item>
-                <item><label>Partar verða nevndir:</label> <seg>Partur I, Partur II, Partur III, Partur IV ...</seg></item>
-                <item><label>Kapitlar verða nevndir:</label> <seg>Kapittul 1, Kapittul 2, Kapittul 3 ...</seg></item>
+                <item>
+                  <label>Bøkur verða nevndar:</label>
+                  <seg>Fyrsta bók, Onnur bók, Triðja bók ...</seg>
+                </item>
+                <item>
+                  <label>Partar verða nevndir:</label>
+                  <seg>Partur I, Partur II, Partur III, Partur IV ...</seg>
+                </item>
+                <item>
+                  <label>Kapitlar verða nevndir:</label>
+                  <seg>Kapittul 1, Kapittul 2, Kapittul 3 ...</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -1558,17 +1735,21 @@
             <p>
               <s xml:id="k437sk6p3r">Er uppskotið býtt sundur í bøkur, partar og kapitlar, skulu tey vera talmerkt og hava heiti.</s>
               <seg>Hevur einstaka ásetingin yvirskrift, verður hon skrivað við skákskrift og miðsett á sjálvstøðuga reglu oman fyri § tekstin:</seg>
-              <pb n="51"/>
-              <ab>
-                <ab rend="bold center">Kapittul 2</ab>
-                <ab rend="bold center">Rætturin til dagpening</ab>
-                <ab rend="italic">Orsøkir</ab>
-                <p>
-                  <label rend="bold">§ 2.</label>
-                  <seg>Dagpeningur verður sambært hesari løgtingslóg veittur orsakað av óarbeiðsføri vegna ...</seg>
-                </p>
-              </ab>
             </p>
+            <pb n="51"/>
+            <floatingText>
+              <body>
+                <div rend="rul-info-box">
+                  <ab rend="bold center">Kapittul 2</ab>
+                  <ab rend="bold center">Rætturin til dagpening</ab>
+                  <ab rend="italic">Orsøkir</ab>
+                  <p>
+                    <label rend="bold">§ 2.</label>
+                    <seg>Dagpeningur verður sambært hesari løgtingslóg veittur orsakað av óarbeiðsføri vegna ...</seg>
+                  </p>
+                </div>
+              </body>
+            </floatingText>
           </div>
           <div n="1.3.7.">
             <head rend="bold">Uppseting í nummar, litra og smá rómartøl</head>
@@ -1581,33 +1762,50 @@
             </p>
             <p>
               <seg>Hava nummur fleiri litra og møguliga eisini smá rómartøl, verða tey sett upp á henda hátt:</seg>
-              <lb/>
-              <list>
-                <item>
-                  <label>1)</label>
-                  <list>
-                    <head>Bólkur AM, koda 175, lítið prutl:</head>
-                    <item><label>a)</label> <seg>Fyri persónar yngri enn 18 ár: kr. 150.</seg></item>
-                    <item>
-                      <label>b)</label>
-                      <list>
-                        <head>Fyri persónar 18 ár og eldri:</head>
-                        <item><label>i)</label> <seg>Fyrsta roynd: kr. 550.</seg></item>
-                        <item><label>ii)</label> <seg>Fylgjandi ástøðisroynd: kr. 300 hvørja ferð.</seg></item>
-                        <item><label>iii)</label> <seg>Fylgjandi verklig roynd: kr. 400 hvørja ferð.</seg></item>
-                        <item><label>iv)</label> <seg>...</seg></item>
-                      </list>
-                    </item>
-                  </list>
-                </item>
-                <item>
-                  <label>2)</label>
-                  <list>
-                    <head>Bólkur PM, koda 180, stórt prutl ...</head>
-                  </list>
-                </item>
-              </list>
             </p>
+            <list rend="rul-info-box">
+              <label>1)</label>
+              <item>
+                <list>
+                  <head>Bólkur AM, koda 175, lítið prutl:</head>
+                  <label>a)</label>
+                  <item>
+                    <seg>Fyri persónar yngri enn 18 ár: kr. 150.</seg>
+                  </item>
+                  <item>
+                    <label>b)</label>
+                    <list>
+                      <head>Fyri persónar 18 ár og eldri:</head>
+                      <label>i)</label>
+                      <item>
+                        <seg>Fyrsta roynd: kr. 550.</seg>
+                      </item>
+                      <label>ii)</label>
+                      <item>
+                        <seg>Fylgjandi ástøðisroynd: kr. 300 hvørja ferð.</seg>
+                      </item>
+                      <label>iii)</label>
+                      <item>
+                        <seg>Fylgjandi verklig roynd: kr. 400 hvørja ferð.</seg>
+                      </item>
+                      <label>iv)</label>
+                      <item>
+                        <seg>...</seg>
+                      </item>
+                    </list>
+                  </item>
+                </list>
+              </item>
+              <label>2)</label>
+              <item>
+                <list>
+                  <head>Bólkur PM, koda 180, stórt prutl ...</head>
+                  <item>
+                    <!-- TODO: fix later! -->
+                  </item>
+                </list>
+              </item>
+            </list>
             <p>
               <s xml:id="sq6wkobpnh">Tá ið uppreksingin endar, skal antin nýggj grein ella stykki setast inn.</s>
               <s xml:id="lncyqxjt4j">Reglubrot við framhaldandi teksti, sum ikki er settur upp í nýggja grein ella stykki, eigur ikki at koma fyri.</s>
@@ -1649,7 +1847,7 @@
                         <list>
                           <head>Váttan um staðið vápnatrygdarskeið:</head>
                           <item>
-                            <label>a)</label>                          
+                            <label>a)</label>
                             <p>
                               <s xml:id="mkffrthtx3">Persónar, føddir 31. desember 1985 ella áðrenn, skulu ikki lata inn váttan um vápnatrygdarskeið.</s>
                               <s xml:id="f53xoeoi5j">Tá verður viðmerkt á oyðiblaðið, at viðkomandi ikki hevur vápnatrygdarskeið.</s>
@@ -1692,7 +1890,7 @@
                   <ab rend="bold center">Kunngerð um kravda eftirútbúgving fyri góðkendar grannskoðarar</ab>
                   <!-- TODO: continue -->
                 </ab>
-              </p>                          
+              </p>
               <p>
                 <s xml:id="plsnsj2vxf">Dømi har “og” verður nýtt:</s>
                 <ab>
@@ -1859,8 +2057,14 @@
                       <seg>Landsstýrisfólkið ásetur reglur um, at ein ella fleiri av veitingarskyldunum:</seg>
                       <lb/>
                       <list>
-                        <item><label>1)</label> <seg>ikki longur skulu bjóðast sum ein partur av veitingarskylduni, ella</seg></item>
-                        <item><label>2)</label> <seg>ikki ella bert í ávísan mun skulu bjóðast nýggjum viðskiftafólkum sum partur av veitingarskylduni.</seg></item>
+                        <item>
+                          <label>1)</label>
+                          <seg>ikki longur skulu bjóðast sum ein partur av veitingarskylduni, ella</seg>
+                        </item>
+                        <item>
+                          <label>2)</label>
+                          <seg>ikki ella bert í ávísan mun skulu bjóðast nýggjum viðskiftafólkum sum partur av veitingarskylduni.</seg>
+                        </item>
                       </list>
                     </p>
                   </ab>
@@ -1896,7 +2100,7 @@
               </p>
             </div>
             <div n="1.4.3.2.">
-              <head rend="bold">Kunngerð gerast í samráð við annað landsstýrisfólk, myndugleika, ráð o.tíl.</head>              
+              <head rend="bold">Kunngerð gerast í samráð við annað landsstýrisfólk, myndugleika, ráð o.tíl.</head>
               <p>
                 <s xml:id="nlsqnmraim">Ásetur heimildarlógin, at ein kunngerð skal gerast í samráð við, eftir ummæli frá ella sambært avtalu o.tíl. við ein annan myndugleika, felagsskap o.tíl., skal tað skrivast inn í inngangin, at samráð hevur verið, ummæli er fingið ella avtala er gjørd.</s>
                 <s xml:id="ghhi7wvhch">Hetta er bert galdandi, tá ið heimildarlógin ásetur tað og ikki í øðrum førum.</s>
@@ -1919,17 +2123,50 @@
             <p>
               <seg>Tað er ikki gjørligt at nevna allar hesar ásetingar, men í øllum førum hesar eiga at hava beinleiðis lógarheimild:</seg>
               <list>
-                <item><label>1)</label> <seg>Revsing, bæði fongsul og sekt.</seg></item>
-                <item><label>2)</label> <seg>Um at krevja brúkaragjald, nýtslugjald, skrásetingargjald o.tíl.</seg></item>
-                <item><label>3)</label> <seg>Um at krevja upplýsingar frá borgara, vinnulívi o.ø.</seg></item>
-                <item><label>4)</label> <seg>Um tvingað talgilt samskifti.</seg></item>
-                <item><label>5)</label> <seg>Um at skera av kærumyndugleikan.</seg></item>
-                <item><label>6)</label> <seg>Um at áseta kærufreist.</seg></item>
-                <item><label>7)</label> <seg>Um at leggja kærumyndugleikan til kærunevnd.</seg></item>
-                <item><label>8)</label> <seg>Um at krevja revsiváttan.</seg></item>
-                <item><label>9)</label> <seg>Um at krevja skráseting.</seg></item>
-                <item><label>10)</label> <seg>Um at gera tvingsilsinntriv.</seg></item>
-                <item><label>11)</label> <seg>Um at taka aftur loyvi.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Revsing, bæði fongsul og sekt.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Um at krevja brúkaragjald, nýtslugjald, skrásetingargjald o.tíl.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Um at krevja upplýsingar frá borgara, vinnulívi o.ø.</seg>
+                </item>
+                <item>
+                  <label>4)</label>
+                  <seg>Um tvingað talgilt samskifti.</seg>
+                </item>
+                <item>
+                  <label>5)</label>
+                  <seg>Um at skera av kærumyndugleikan.</seg>
+                </item>
+                <item>
+                  <label>6)</label>
+                  <seg>Um at áseta kærufreist.</seg>
+                </item>
+                <item>
+                  <label>7)</label>
+                  <seg>Um at leggja kærumyndugleikan til kærunevnd.</seg>
+                </item>
+                <item>
+                  <label>8)</label>
+                  <seg>Um at krevja revsiváttan.</seg>
+                </item>
+                <item>
+                  <label>9)</label>
+                  <seg>Um at krevja skráseting.</seg>
+                </item>
+                <item>
+                  <label>10)</label>
+                  <seg>Um at gera tvingsilsinntriv.</seg>
+                </item>
+                <item>
+                  <label>11)</label>
+                  <seg>Um at taka aftur loyvi.</seg>
+                </item>
               </list>
             </p>
           </div>
@@ -1942,11 +2179,26 @@
               <seg>Tað er ikki gjørligt til fulnar at nevna allar hesar ásetingar, men vanliga verður mett, at hesar ásetingar ikki krevja beinleiðis lógarheimild:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Ásetingar um hvussu málsviðgerðin skal fara fram</seg></item>
-                <item><label>2)</label> <seg>Ásetingar um hvønn myndugleika borgari, vinnulív o.o. skulu venda sær til.</seg></item>
-                <item><label>3)</label> <seg>Sjálvboðið elektroniskt samskifti.</seg></item>
-                <item><label>4)</label> <seg>Endurtøka av óskrivaðum rættarreglum, t.d. at avgerðir hjá stovni kunnu kærast til landsstýrisfólkið.</seg></item>
-                <item><label>5)</label> <seg>Um at endurgeva lógartekst, sí nr. 1.4.8 at endurgeva lógartekst í kunngerð.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Ásetingar um hvussu málsviðgerðin skal fara fram</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Ásetingar um hvønn myndugleika borgari, vinnulív o.o. skulu venda sær til.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Sjálvboðið elektroniskt samskifti.</seg>
+                </item>
+                <item>
+                  <label>4)</label>
+                  <seg>Endurtøka av óskrivaðum rættarreglum, t.d. at avgerðir hjá stovni kunnu kærast til landsstýrisfólkið.</seg>
+                </item>
+                <item>
+                  <label>5)</label>
+                  <seg>Um at endurgeva lógartekst, sí nr. 1.4.8 at endurgeva lógartekst í kunngerð.</seg>
+                </item>
               </list>
             </p>
           </div>
@@ -2037,9 +2289,18 @@
               <seg>Uppskot til kunngerð hava ikki viðmerkingar, og tí verður skjal til kunngerð sett inn aftan á undirskriftina hjá landstýrisfólkinum, soleiðis at raðfylgjan er hendan:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Kunngerðaruppskot,</seg></item>
-                <item><label>2)</label> <seg>undirskrift hjá landsstýrisfólki, og</seg></item>
-                <item><label>3)</label> <seg>skjal.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Kunngerðaruppskot,</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>undirskrift hjá landsstýrisfólki, og</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>skjal.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -2092,11 +2353,26 @@
                 </list>
                 <lb/>
                 <list>
-                  <item><label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna og til politiskan landsstýrisfund.</seg></item>
-                  <item><label rend="italic">Mál nr.:</label> <seg>Journal nr., ið stjórnarráðið ella stovnurin hevur givið uppskotinum.</seg></item>
-                  <item><label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólki, ið hevur viðgjørt málið.</seg></item>
-                  <item><label rend="italic">Ummælistíð:</label> <s xml:id="hoxgyy57ke">Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</s></item>
-                  <item><label rend="italic">Eftirkannað:</label> <s xml:id="tb5hfqfmk5">Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</s></item>
+                  <item>
+                    <label rend="italic">Dagfesting:</label>
+                    <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna og til politiskan landsstýrisfund.</seg>
+                  </item>
+                  <item>
+                    <label rend="italic">Mál nr.:</label>
+                    <seg>Journal nr., ið stjórnarráðið ella stovnurin hevur givið uppskotinum.</seg>
+                  </item>
+                  <item>
+                    <label rend="italic">Málsviðgjørt:</label>
+                    <seg>Forbókstavirnir hjá tí embætisfólki, ið hevur viðgjørt málið.</seg>
+                  </item>
+                  <item>
+                    <label rend="italic">Ummælistíð:</label>
+                    <s xml:id="hoxgyy57ke">Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</s>
+                  </item>
+                  <item>
+                    <label rend="italic">Eftirkannað:</label>
+                    <s xml:id="tb5hfqfmk5">Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</s>
+                  </item>
                 </list>
               </p>
             </ab>
@@ -2117,7 +2393,8 @@
                 <ab rend="bold center">upptøku í gymnasialu miðnámsútbúgvingarnar</ab>
               </ab>
               <p>
-                <label>*</label> <s xml:id="vqbc2jts6k">“Uppskot til” verður tilskilað, tá ið uppskotið verður sent lógartænastuni at eftirkanna.</s>
+                <label>*</label>
+                <s xml:id="vqbc2jts6k">“Uppskot til” verður tilskilað, tá ið uppskotið verður sent lógartænastuni at eftirkanna.</s>
                 <s xml:id="eo2w4s3dyn">Tá ið uppskotið er liðugt eftirkannað, og kunngerðin verður send lógartænastuni at kunngera, verður “Uppskot til” strikað.</s>
               </p>
             </ab>
@@ -2171,8 +2448,14 @@
                   <label rend="bold">§ 2.</label>
                   <seg>Ein roknskapur er í hesi kunngerð at skilja sum:</seg>
                   <list>
-                    <item><label>1)</label> <seg>ein ársfrásøgn, ein ársroknskapur, samtaksroknskapur, ein tíðarskeiðsfrásøgn, ein tíðarskeiðsroknskapur og ein tíðarskeiðssamtaksroknskapur sambært anordning om ikrafttræden for Færøerne av ársroknskaparlógini, umframt,</seg></item>
-                    <item><label>2)</label> <seg>ein annar samsvarandi roknskapur, ið ikki er fevndur av nr. 1, ...</seg></item>
+                    <item>
+                      <label>1)</label>
+                      <seg>ein ársfrásøgn, ein ársroknskapur, samtaksroknskapur, ein tíðarskeiðsfrásøgn, ein tíðarskeiðsroknskapur og ein tíðarskeiðssamtaksroknskapur sambært anordning om ikrafttræden for Færøerne av ársroknskaparlógini, umframt,</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg>ein annar samsvarandi roknskapur, ið ikki er fevndur av nr. 1, ...</seg>
+                    </item>
                   </list>
                 </p>
               </ab>
@@ -2186,9 +2469,18 @@
             </p>
             <p>
               <list>
-                <item><label>Bøkur verða nevndar:</label> <seg>Fyrsta bók, Onnur bók, Triðja bók ...</seg></item>
-                <item><label>Partar verða nevndir:</label> <seg>Partur I, Partur II, Partur III, Partur IV ...</seg></item>
-                <item><label>Kapitlar verða nevndir:</label> <seg>Kapittul 1, Kapittul 2, Kapittul 3 ...</seg></item>
+                <item>
+                  <label>Bøkur verða nevndar:</label>
+                  <seg>Fyrsta bók, Onnur bók, Triðja bók ...</seg>
+                </item>
+                <item>
+                  <label>Partar verða nevndir:</label>
+                  <seg>Partur I, Partur II, Partur III, Partur IV ...</seg>
+                </item>
+                <item>
+                  <label>Kapitlar verða nevndir:</label>
+                  <seg>Kapittul 1, Kapittul 2, Kapittul 3 ...</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -2233,18 +2525,36 @@
                     <label>1)</label>
                     <list>
                       <head>Bólkur AM, koda 175, lítið prutl:</head>
-                      <item><label>a)</label> <seg>Fyri persónar yngri enn 18 ár: kr. 150.</seg></item>
+                      <item>
+                        <label>a)</label>
+                        <seg>Fyri persónar yngri enn 18 ár: kr. 150.</seg>
+                      </item>
                       <item>
                         <label>b)</label>
                         <list>
                           <head>Fyri persónar 18 ár og eldri:</head>
-                          <item><label>i)</label> <seg>Fyrsta roynd: kr. 550.</seg></item>
-                          <item><label>ii)</label> <seg>Fylgjandi ástøðisroynd: kr. 300 hvørja ferð.</seg></item>
-                          <item><label>iii)</label> <seg>Fylgjandi verklig roynd: kr. 400 hvørja ferð.</seg></item>
-                          <item><label>iv)</label> <seg>...</seg></item>
+                          <item>
+                            <label>i)</label>
+                            <seg>Fyrsta roynd: kr. 550.</seg>
+                          </item>
+                          <item>
+                            <label>ii)</label>
+                            <seg>Fylgjandi ástøðisroynd: kr. 300 hvørja ferð.</seg>
+                          </item>
+                          <item>
+                            <label>iii)</label>
+                            <seg>Fylgjandi verklig roynd: kr. 400 hvørja ferð.</seg>
+                          </item>
+                          <item>
+                            <label>iv)</label>
+                            <seg>...</seg>
+                          </item>
                         </list>
                       </item>
-                      <item><label>2)</label> <seg>Bólkur PM, koda 180, stórt prutl ...</seg></item>
+                      <item>
+                        <label>2)</label>
+                        <seg>Bólkur PM, koda 180, stórt prutl ...</seg>
+                      </item>
                     </list>
                   </item>
                 </list>
@@ -2363,7 +2673,7 @@
               <p>
                 <seg>Dømi: Fráboðan nr. 133 frá 23. august 2021 um fríhandilssáttmála millum Danmarkar Kongsríki Føroyum viðvíkjandi og Sameinda Kongsríkið Stórabretlands og Norðurírlands.</seg>
               </p>
-              <ab>
+              <div rend="rul-info-box">
                 <!-- TODO: format infobox! -->
                 <p>
                   <s xml:id="jsaym6fhq5">Hin 31. januar 2019 í London, Sameinda Kongsríkið Stórabrettlands og Norðurírlands, varð fríhandilssáttmáli gjørdur millum ríkisstjórn Danmarkar og Føroya landsstýri øðrumegin og Sameinda Kongsríkið Stórabrettlands og Norðurírlands hinumegin.</s>
@@ -2377,7 +2687,7 @@
                 <p>
                   <seg>Fríhandilssáttmálin ljóðar soleiðis:</seg>
                 </p>
-              </ab>
+              </div>
             </div>
           </div>
         </div>
@@ -2625,7 +2935,10 @@
             <s xml:id="yoefw5t3a4">Tað kann verða gjørt samstundis, sum onnur lógarbroyting verður gjørd.</s>
             <seg>Tá ið danski teksturin skal verða strikaður, verður tað gjørt sum sjálvstøðug lógarbroyting við orðingini:</seg>
             <ab>
-              <list><label rend="bold">1.</label> <s xml:id="dugxpzl72g">Danski tvíteksturin í løgtingslógini verður strikaður.</s></list>
+              <list>
+                <label rend="bold">1.</label>
+                <s xml:id="dugxpzl72g">Danski tvíteksturin í løgtingslógini verður strikaður.</s>
+              </list>
             </ab>
           </p>
           <p>
@@ -2637,9 +2950,18 @@
           <p>
             <seg>Tá ið greinir, stykki, punktum, orð o.a. skulu broytast, kann tað verða gjørt á tríggjar hættir:</seg>
             <list>
-              <item><label>1)</label> <s xml:id="fkh5iikv5b">Galdandi ásetingar kunnu broytast.</s></item>
-              <item><label>2)</label> <s xml:id="ou2edsry4g">Nýggjar ásetingar kunnu setast inn.</s></item>
-              <item><label>3)</label> <s xml:id="kjso6ctxch">Galdandi ásetingar kunnu strikast.</s></item>
+              <item>
+                <label>1)</label>
+                <s xml:id="fkh5iikv5b">Galdandi ásetingar kunnu broytast.</s>
+              </item>
+              <item>
+                <label>2)</label>
+                <s xml:id="ou2edsry4g">Nýggjar ásetingar kunnu setast inn.</s>
+              </item>
+              <item>
+                <label>3)</label>
+                <s xml:id="kjso6ctxch">Galdandi ásetingar kunnu strikast.</s>
+              </item>
             </list>
           </p>
           <p>
@@ -2678,19 +3000,19 @@
         <div n="2.2.">
           <head rend="bold">Uppseting av broytingarlógum</head>
           <div n="2.2.0.">
-          <p>
-            <s xml:id="fxzt4nl7mk">Øll broytingarlógaruppskot skulu vera sett upp tøkniliga sum ásett í hesum rundskrivi.</s>
-            <s xml:id="iubnmxwlzw">Krøvini eru ásett niðanfyri.</s>
-          </p>
-          <p>
-            <seg>Ásetingarnar í nr. 1.3.2, 1.3.9 og 1.3.10 um uppseting av løgtingslógaruppskoti eru eisini galdandi fyri broytingarlógir:</seg>
-            <lb/>
-            <list>
-              <item>Nr. 1.3.2. Word, skrift, skriftstødd, talvur, myndir og slóðir.</item>
-              <item>Nr. 1.3.9. Undirskriftir.</item>
-              <item>Nr. 1.3.10. Heitið landsstýrismaður, landsstýriskvinna og landsstýrisfólk.</item>
-            </list>
-          </p>
+            <p>
+              <s xml:id="fxzt4nl7mk">Øll broytingarlógaruppskot skulu vera sett upp tøkniliga sum ásett í hesum rundskrivi.</s>
+              <s xml:id="iubnmxwlzw">Krøvini eru ásett niðanfyri.</s>
+            </p>
+            <p>
+              <seg>Ásetingarnar í nr. 1.3.2, 1.3.9 og 1.3.10 um uppseting av løgtingslógaruppskoti eru eisini galdandi fyri broytingarlógir:</seg>
+              <lb/>
+              <list>
+                <item>Nr. 1.3.2. Word, skrift, skriftstødd, talvur, myndir og slóðir.</item>
+                <item>Nr. 1.3.9. Undirskriftir.</item>
+                <item>Nr. 1.3.10. Heitið landsstýrismaður, landsstýriskvinna og landsstýrisfólk.</item>
+              </list>
+            </p>
           </div>
           <div n="2.2.1.">
             <head rend="bold">Skabelónir til broytingarlógaruppskot</head>
@@ -3299,7 +3621,7 @@
               </p>
             </div>
             <div n="3.1.8.3.">
-              <head rend="bold">Ígildisseting av parti av løgtingslóg við kunngerð</head>            
+              <head rend="bold">Ígildisseting av parti av løgtingslóg við kunngerð</head>
               <p>
                 <seg>Dømi 1: Kunngerð nr. 103 frá 22. juli 2013 um gildiskomu av reglum í løgtingslóg um sjómenn, løgtingslóg um trygd á sjónum og løgtingslóg um manning av skipum:</seg>
                 <lb/>
@@ -3357,11 +3679,26 @@
                     <seg>Í árunum 2024, 2025, 2026, 2027 og 2028 verður nýtt serstøk tíðarrokning um summartíð í hesum tíðarskeiðum:</seg>
                     <lb/>
                     <list>
-                      <item><label>1)</label> <seg>Í 2024 í tíðini millum 31. mars og 27. oktober.</seg></item>
-                      <item><label>2)</label> <seg>Í 2025 í tíðini millum 30. mars og 26. oktober.</seg></item>
-                      <item><label>3)</label> <seg>Í 2026 í tíðini millum 29. mars og 25. oktober.</seg></item>
-                      <item><label>4)</label> <seg>Í 2027 í tíðini millum 28. mars og 31. oktober.</seg></item>
-                      <item><label>5)</label> <seg>Í 2028 í tíðini millum 26. mars og 29. oktober.</seg></item>
+                      <item>
+                        <label>1)</label>
+                        <seg>Í 2024 í tíðini millum 31. mars og 27. oktober.</seg>
+                      </item>
+                      <item>
+                        <label>2)</label>
+                        <seg>Í 2025 í tíðini millum 30. mars og 26. oktober.</seg>
+                      </item>
+                      <item>
+                        <label>3)</label>
+                        <seg>Í 2026 í tíðini millum 29. mars og 25. oktober.</seg>
+                      </item>
+                      <item>
+                        <label>4)</label>
+                        <seg>Í 2027 í tíðini millum 28. mars og 31. oktober.</seg>
+                      </item>
+                      <item>
+                        <label>5)</label>
+                        <seg>Í 2028 í tíðini millum 26. mars og 29. oktober.</seg>
+                      </item>
                     </list>
                   </p>
                 </ab>
@@ -3371,10 +3708,10 @@
                   </p>
                 </ab>
                 <ab>
-                <p>
-                  <label rend="bold">§ 3.</label>
-                  <s xml:id="u2cslvjodn">Henda kunngerð kemur í gildi dagin eftir, at hon er kunngjørd.</s>
-                </p>
+                  <p>
+                    <label rend="bold">§ 3.</label>
+                    <s xml:id="u2cslvjodn">Henda kunngerð kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+                  </p>
                 </ab>
               </ab>
               <p>
@@ -3602,7 +3939,7 @@
             </p>
           </div>
           <div n="3.2.2.">
-            <head rend="bold">Úrgildisseting av løgtingslóg ella kunngerð ávísan dag</head>          
+            <head rend="bold">Úrgildisseting av løgtingslóg ella kunngerð ávísan dag</head>
             <p>
               <s xml:id="g4ssogbfgu">Um tað verður mett at hava týdning fyri borgaran o.o. at vita, júst nær løgtingslógin ella kunngerðin fór úr gildi, verður mælt til at seta løgtingslóg ella kunngerð úr gildi ávísan dag.</s>
             </p>
@@ -3637,9 +3974,18 @@
                   <seg>Við hesum verða settar úr gildi:</seg>
                   <lb/>
                   <list>
-                    <item><label>1)</label> <seg>Lov nr. 43 af 13. marts 1891 om Vivisektioner,</seg></item>
-                    <item><label>2)</label> <seg>Lov nr. 34 af 11. marts 1892 om Ødelæggelse af Ravnenes Yngel paa Færøerne, og</seg></item>
-                    <item><label>3)</label> <seg>Lov nr. 51 af 14. marts 1931 om Hesteavlens fremme på Færøerne.</seg></item>
+                    <item>
+                      <label>1)</label>
+                      <seg>Lov nr. 43 af 13. marts 1891 om Vivisektioner,</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg>Lov nr. 34 af 11. marts 1892 om Ødelæggelse af Ravnenes Yngel paa Færøerne, og</seg>
+                    </item>
+                    <item>
+                      <label>3)</label>
+                      <seg>Lov nr. 51 af 14. marts 1931 om Hesteavlens fremme på Færøerne.</seg>
+                    </item>
                   </list>
                 </p>
               </ab>
@@ -4929,8 +5275,10 @@
       <div type="part" n="IV">
         <head rend="bold">Uppseting av ríkislógartilmælum</head>
         <div n="4.1.">
-          <head rend="bold"><s xml:id="q5xlapdh2p">Hvat er eitt ríkislógartilmæli?</s></head>
-          <div n="4.1.0.">          
+          <head rend="bold">
+            <s xml:id="q5xlapdh2p">Hvat er eitt ríkislógartilmæli?</s>
+          </head>
+          <div n="4.1.0.">
             <p>
               <s xml:id="m2ku5wvddb">Á teimum málsøkjum, sum ikki eru yvirtikin, er donsk ríkislóggáva galdandi.</s>
               <s xml:id="w7s5xcuxyw">Ríkislógir eru fólkatingslógir, sum verða samtyktar av Fólkatinginum í Danmark.</s>
@@ -5064,10 +5412,22 @@
                       <label>1.</label>
                       <list>
                         <head><hi rend="bold">Almennar viðmerkingar</hi>, t.v.s.</head>
-                        <item><label>a)</label> <seg>Frágreiðing um galdandi lóggávu og upplýsingar um, hvussu hevur verið, og kann verða funnist at henni,</seg></item>
-                        <item><label>a)</label> <seg>ein stuttur samandráttur av nýskapanini við uppskotinum,</seg></item>
-                        <item><label>a)</label> <seg>hvør fíggjarligur kostnaður stendst av uppskotinum,</seg></item>
-                        <item><label>a)</label> <seg>hvørjir almennir stovnar ella aðrir hava havt uppskotið til ummælis, og hvørjar viðmerkingar teirra hava verið, og</seg></item>
+                        <item>
+                          <label>a)</label>
+                          <seg>Frágreiðing um galdandi lóggávu og upplýsingar um, hvussu hevur verið, og kann verða funnist at henni,</seg>
+                        </item>
+                        <item>
+                          <label>a)</label>
+                          <seg>ein stuttur samandráttur av nýskapanini við uppskotinum,</seg>
+                        </item>
+                        <item>
+                          <label>a)</label>
+                          <seg>hvør fíggjarligur kostnaður stendst av uppskotinum,</seg>
+                        </item>
+                        <item>
+                          <label>a)</label>
+                          <seg>hvørjir almennir stovnar ella aðrir hava havt uppskotið til ummælis, og hvørjar viðmerkingar teirra hava verið, og</seg>
+                        </item>
                       </list>
                     </item>
                     <item>
@@ -5087,27 +5447,27 @@
           </div>
           <div n="4.2.2.">
             <head rend="bold">Kunngerð við heimild í ríkislóg (bekendtgørelse)</head>
+            <p>
+              <s xml:id="zvq33homrs">Sambært § 49 í løgtingslóg um stýrisskipan Føroya er tað avvarðandi landsstýrisfólk, sum ummælir uppskot til kunngerðir, sum ráðharri sendir landsstýrinum við atliti at gildisseting í Føroyum.</s>
+              <s xml:id="hshjnoczbi">Talan er ofta um kunngerðir, sum longu eru galdandi í Danmark, og at ríkismyndugleikarnir í flestu førum hava gjørt uppskotini.</s>
+            </p>
+            <p>
+              <s xml:id="giipdztz2k">Í nøkrum førum verður gjørd ein serstøk kunngerð fyri Føroyar, tá ið t.d. danska kunngerðin á málsøkinum ikki er hóskandi fyri Føroyar, ella tá ið talan er um kunngerð, sum hevur heimild í serstakari ríkislóg fyri Føroyar.</s>
+            </p>
+            <p>
+              <seg>Sí sum dømi: Bekendtgørelse nr. 1607 frá 12. december 2016 for Færøerne om godkendelse som adoptant.</seg>
+            </p>
+            <p>
+              <s xml:id="jlm3szobcf">Í donskum kunngerðum eigur serliga at verða hugt eftir, um tað í innganginum verður víst til lóg ella kunngerð, sum er sett í gildi í Føroyum, og hvørjar tillagingar eru gjørdar til føroysk viðurskifti.</s>
+            </p>
+            <ab>
+              <ab rend="bold center">Stýrisskipan Føroya</ab>
               <p>
-                <s xml:id="zvq33homrs">Sambært § 49 í løgtingslóg um stýrisskipan Føroya er tað avvarðandi landsstýrisfólk, sum ummælir uppskot til kunngerðir, sum ráðharri sendir landsstýrinum við atliti at gildisseting í Føroyum.</s>
-                <s xml:id="hshjnoczbi">Talan er ofta um kunngerðir, sum longu eru galdandi í Danmark, og at ríkismyndugleikarnir í flestu førum hava gjørt uppskotini.</s>
+                <label rend="bold">§ 49.</label>
+                <s xml:id="g7b2dhwj4r">Landsstýrið ummælir tey uppskot til kongligar fyriskipanir, sum ikki seta ríkislóg í gildi í Føroyum.</s>
+                <s xml:id="wc7gysdjq4">Hetta geldur somuleiðis fyri allar kunngerðir, sum ráðharri sendir heimastýrinum við atliti at gildisseting í Føroyum.</s>
               </p>
-              <p>
-                <s xml:id="giipdztz2k">Í nøkrum førum verður gjørd ein serstøk kunngerð fyri Føroyar, tá ið t.d. danska kunngerðin á málsøkinum ikki er hóskandi fyri Føroyar, ella tá ið talan er um kunngerð, sum hevur heimild í serstakari ríkislóg fyri Føroyar.</s>
-              </p>
-              <p>
-                <seg>Sí sum dømi: Bekendtgørelse nr. 1607 frá 12. december 2016 for Færøerne om godkendelse som adoptant.</seg>
-              </p>
-              <p>
-                <s xml:id="jlm3szobcf">Í donskum kunngerðum eigur serliga at verða hugt eftir, um tað í innganginum verður víst til lóg ella kunngerð, sum er sett í gildi í Føroyum, og hvørjar tillagingar eru gjørdar til føroysk viðurskifti.</s>
-              </p>
-              <ab>
-                <ab rend="bold center">Stýrisskipan Føroya</ab>
-                <p>
-                  <label rend="bold">§ 49.</label>
-                  <s xml:id="g7b2dhwj4r">Landsstýrið ummælir tey uppskot til kongligar fyriskipanir, sum ikki seta ríkislóg í gildi í Føroyum.</s>
-                  <s xml:id="wc7gysdjq4">Hetta geldur somuleiðis fyri allar kunngerðir, sum ráðharri sendir heimastýrinum við atliti at gildisseting í Føroyum.</s>
-                </p>
-              </ab>
+            </ab>
           </div>
           <div n="4.2.3.">
             <head rend="bold">Anordningar sum ikki seta ríkislóg í gildi</head>
@@ -5122,9 +5482,18 @@
               <seg>Dømi:</seg>
               <lb/>
               <list>
-                <item><label>1)</label> <seg>Anordning nr. 889 af 26.06.2024 om udmøntning af indenlandsk mønt.</seg></item>
-                <item><label>2)</label> <seg>Anordning nr. 382 frá 12. juli 1982 om hvalfangst.</seg></item>
-                <item><label>3)</label> <seg>Anordning nr. 598 af 21.12.1976 om fiskeriterritoriet ved Færøerne.</seg></item>
+                <item>
+                  <label>1)</label>
+                  <seg>Anordning nr. 889 af 26.06.2024 om udmøntning af indenlandsk mønt.</seg>
+                </item>
+                <item>
+                  <label>2)</label>
+                  <seg>Anordning nr. 382 frá 12. juli 1982 om hvalfangst.</seg>
+                </item>
+                <item>
+                  <label>3)</label>
+                  <seg>Anordning nr. 598 af 21.12.1976 om fiskeriterritoriet ved Færøerne.</seg>
+                </item>
               </list>
             </p>
             <p>
@@ -5154,7 +5523,7 @@
             </p>
           </div>
           <div n="4.3.2.">
-            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>            
+            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>
             <p>
               <s xml:id="rz53627ajd">Ríkislógartilmælið verður skrivað í Word.</s>
               <s xml:id="zy4jyycbvy">Skriftin skal vera Times New Roman, skriftstøddin skal vera 12, og reglugloppið skal vera 1,0.</s>
@@ -5178,11 +5547,16 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Málsviðgjørt:</label>
+                  <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -5190,7 +5564,7 @@
           <div n="4.3.3.">
             <head rend="bold">Heiti á ríkislógartilmæli við ígildisseting av ríkislóg við kongligari fyriskipan (anordning)</head>
             <p>
-            <seg>Heitið á ríkislógaruppskoti verður miðsett og skrivað við feitum stavum:</seg>
+              <seg>Heitið á ríkislógaruppskoti verður miðsett og skrivað við feitum stavum:</seg>
             </p>
             <ab>
               <seg>Dømi við ígildisseting av einari <hi rend="italic">høvuðslóg</hi>: Lov om psykologer m.v. verður sett í gildi í Føroyum:</seg>
@@ -5276,20 +5650,20 @@
             </ab>
           </div>
           <div n="4.3.7.">
-            <head rend="bold">Frágreiðandi heiti</head>            
+            <head rend="bold">Frágreiðandi heiti</head>
             <ab>
               <seg>Mælt verður til at geva einum broytingaruppskoti eitt frágreiðandi heiti, sum stutt og greitt og til fulnar lýsir, hvat broytingin snýr seg um, t.d. (Gennemførelse af virksomhedspant):</seg>
               <lb/>
               <ab>
                 <ab rend="bold center">Uppskot til</ab>
-                  <lb/>
-                  <ab rend="bold center">Ríkislógartilmæli um at seta í gildi fyri Føroyar</ab>
-                  <lb/>
-                  <ab rend="bold center">Anordning om delvis ikrafttræden for Færøerne af lov om ændring af</ab>
-                  <lb/>
-                  <ab rend="bold center">konkursloven</ab>
-                  <lb/>
-                  <ab rend="center">(Gennemførelse af virksomhedspant)</ab>
+                <lb/>
+                <ab rend="bold center">Ríkislógartilmæli um at seta í gildi fyri Føroyar</ab>
+                <lb/>
+                <ab rend="bold center">Anordning om delvis ikrafttræden for Færøerne af lov om ændring af</ab>
+                <lb/>
+                <ab rend="bold center">konkursloven</ab>
+                <lb/>
+                <ab rend="center">(Gennemførelse af virksomhedspant)</ab>
               </ab>
             </ab>
           </div>
@@ -5454,7 +5828,7 @@
               </ab>
             </div>
             <div n="4.4.5.2.">
-              <head rend="bold">Høvuðslóg og seinni lógarbroytingar verða settar í gildi</head>            
+              <head rend="bold">Høvuðslóg og seinni lógarbroytingar verða settar í gildi</head>
               <p>
                 <s xml:id="rf7gsze3z6">Verða við lógaruppskotinum høvuðslógin og seinni broytingar settar í gildi í Føroyum í senn, eiga allar ríkislógirnar, tvs.</s>
                 <s xml:id="a6mwkgnpbt">bæði høvuðslógin og broytingarlógirnar, at verða nevndar í innganginum.</s>
@@ -5481,7 +5855,7 @@
               </ab>
             </div>
             <div n="4.4.5.4.">
-              <head rend="bold">Broyting í kongligari fyriskipan (ændringsanordning)</head>              
+              <head rend="bold">Broyting í kongligari fyriskipan (ændringsanordning)</head>
               <p>
                 <s xml:id="nd2nqjpega">Í innganginum til eina kongliga fyriskipan (ændringsanordning), sum skal seta eina broytingarlóg í gildi, eigur bara at verða víst til eina kongliga fyriskipan, sum er galdandi og kunngjørd í Føroyum.</s>
               </p>
@@ -5586,7 +5960,7 @@
             </p>
           </div>
           <div n="4.4.9.">
-            <head rend="bold">Lógin hevur tilvísingar til ES-reglur, sum eisini skulu galda í Føroyum</head>          
+            <head rend="bold">Lógin hevur tilvísingar til ES-reglur, sum eisini skulu galda í Føroyum</head>
             <p>
               <s xml:id="hwhk4kzwbl">Føroyar eru ikki partur av Evropeiska Samveldinum eins og Danmark.</s>
               <s xml:id="dplgewhzj7">Eru tað í ríkislógini, sum skal setast í gildi í Føroyum, tilvísingar til ES-fyriskipanir og ES-direktivir, er tað neyðugt, at hesar ES-rættarreglur eisini eru partur av lógaruppskotinum.</s>
@@ -5644,11 +6018,26 @@
             <seg>Sum fylgiskjal til ríkislógartilmæli kann leggjast hjá t.d.:</seg>
             <lb/>
             <list>
-              <item><label>1)</label> <seg>Javntekstur,</seg></item>
-              <item><label>2)</label> <seg>ein samandráttur av uppskotinum, sum ríkismyndugleikarnir hava gjørt,</seg></item>
-              <item><label>3)</label> <seg>lógaruppskotið við viðmerkingum, soleiðis sum tað varð lagt fyri Fólkatingið,</seg></item>
-              <item><label>4)</label> <seg>betænkning, sum hevur verið grundarstøðið fyri lógini, og</seg></item>
-              <item><label>5)</label> <seg>ummælir o.a.</seg></item>
+              <item>
+                <label>1)</label>
+                <seg>Javntekstur,</seg>
+              </item>
+              <item>
+                <label>2)</label>
+                <seg>ein samandráttur av uppskotinum, sum ríkismyndugleikarnir hava gjørt,</seg>
+              </item>
+              <item>
+                <label>3)</label>
+                <seg>lógaruppskotið við viðmerkingum, soleiðis sum tað varð lagt fyri Fólkatingið,</seg>
+              </item>
+              <item>
+                <label>4)</label>
+                <seg>betænkning, sum hevur verið grundarstøðið fyri lógini, og</seg>
+              </item>
+              <item>
+                <label>5)</label>
+                <seg>ummælir o.a.</seg>
+              </item>
             </list>
           </p>
           <p>
@@ -5818,7 +6207,7 @@
             </p>
           </div>
           <div n="5.2.2.">
-            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>          
+            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>
             <p>
               <s xml:id="g7tsjj6a4y">ES-rættarregluuppskotið verður skrivað í Word.</s>
               <s xml:id="ceiyilkmke">Skriftin skal vera Times New Roman, skriftstøddin skal vera 12, og reglugloppið skal vera 1,0.</s>
@@ -5842,11 +6231,16 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Málsviðgjørt:</label>
+                  <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -5869,7 +6263,7 @@
             <ab>
               <p>
                 <label rend="bold">§ 1.</label>
-                <s xml:id="phvqu6nkxr">Ásetingarnar í artikli 1 til 28 í Europa-Parlamentets og Rådets forordning (EU) nr. 537/2014 om specifikke krav til lovpligtig revison af virksomheder af interesse for offentligheden, sbr. skjal 1 til hesa løgtingslóg, hava gildi í Føroyum.</s>                
+                <s xml:id="phvqu6nkxr">Ásetingarnar í artikli 1 til 28 í Europa-Parlamentets og Rådets forordning (EU) nr. 537/2014 om specifikke krav til lovpligtig revison af virksomheder af interesse for offentligheden, sbr. skjal 1 til hesa løgtingslóg, hava gildi í Føroyum.</s>
               </p>
               <p>
                 <label rend="italic">Stk. 2.</label>
@@ -5882,15 +6276,42 @@
                 <seg>Viðkomandi lóggáva viðvíkjandi Europa-Parlamentets og Rådets forordning (EU) nr. 537/2014 om specifikke krav til lovpligtig revison af virksomheder af interesse for offentligheden er:</seg>
                 <lb/>
                 <list>
-                  <item><label>1)</label> <seg>Løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir.</seg></item>
-                  <item><label>2)</label> <seg>Anordning om ikrafttræden for Færøerne af årsregnskabsloven.</seg></item>
-                  <item><label>3)</label> <seg>Bekendtgørelse af anordning om ikrafttræden for Færøerne af lov om finansiel virksomhed.</seg></item>
-                  <item><label>4)</label> <seg>Løgtingslóg um tryggingarvirksemi.</seg></item>
-                  <item><label>5)</label> <seg>Lov for Færøerne om kapitalkrav og tilsynsmæssige krav for kreditinstitutter og investeringsselskaber.</seg></item>
-                  <item><label>6)</label> <seg>Anordning om ikrafttræden for Færøerne af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v.</seg></item>
-                  <item><label>7)</label> <seg>Anordning om ikrafttræden for Færøerne af lov om værdipapirhandel m.v.</seg></item>
-                  <item><label>8)</label> <seg>Anordning om ikrafttræden for Færøerne af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven).</seg></item>
-                  <item><label>9)</label> <seg>Løgtingslóg um fyribyrgjandi tiltøk ímóti hvítvaski av vinningi og fígging av yvirgangi.</seg></item>
+                  <item>
+                    <label>1)</label>
+                    <seg>Løgtingslóg um góðkendar grannskoðarar og grannskoðanarvirkir.</seg>
+                  </item>
+                  <item>
+                    <label>2)</label>
+                    <seg>Anordning om ikrafttræden for Færøerne af årsregnskabsloven.</seg>
+                  </item>
+                  <item>
+                    <label>3)</label>
+                    <seg>Bekendtgørelse af anordning om ikrafttræden for Færøerne af lov om finansiel virksomhed.</seg>
+                  </item>
+                  <item>
+                    <label>4)</label>
+                    <seg>Løgtingslóg um tryggingarvirksemi.</seg>
+                  </item>
+                  <item>
+                    <label>5)</label>
+                    <seg>Lov for Færøerne om kapitalkrav og tilsynsmæssige krav for kreditinstitutter og investeringsselskaber.</seg>
+                  </item>
+                  <item>
+                    <label>6)</label>
+                    <seg>Anordning om ikrafttræden for Færøerne af lov om investeringsforeninger og specialforeninger samt andre kollektive investeringsordninger m.v.</seg>
+                  </item>
+                  <item>
+                    <label>7)</label>
+                    <seg>Anordning om ikrafttræden for Færøerne af lov om værdipapirhandel m.v.</seg>
+                  </item>
+                  <item>
+                    <label>8)</label>
+                    <seg>Anordning om ikrafttræden for Færøerne af lov om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven).</seg>
+                  </item>
+                  <item>
+                    <label>9)</label>
+                    <seg>Løgtingslóg um fyribyrgjandi tiltøk ímóti hvítvaski av vinningi og fígging av yvirgangi.</seg>
+                  </item>
                 </list>
               </p>
             </ab>
@@ -6050,11 +6471,16 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Málsviðgjørt:</label>
+                  <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -6081,9 +6507,18 @@
                   <label rend="bold">§ 1.</label>
                   <seg>Uttan so, at annað er ásett í einstøku kapitlunum í skjali 2, er henda kunngerð galdandi fyri:</seg>
                   <list>
-                    <item><label>1)</label> <seg>Ferðamannaskip í altjóða sigling, uttan mun til stødd.</seg></item>
-                    <item><label>2)</label> <seg>Handilsskip, 15 metrar og longri, ella við einum dimensiónstali uppá 100 ella meira uttan mun til, um skipið er í innanoyggja sigling ella í altjóða sigling, sí tó stk. 2.</seg></item>
-                    <item><label>3)</label> <seg>Stuttleikafør, 24 metrar og longri.</seg></item>
+                    <item>
+                      <label>1)</label>
+                      <seg>Ferðamannaskip í altjóða sigling, uttan mun til stødd.</seg>
+                    </item>
+                    <item>
+                      <label>2)</label>
+                      <seg>Handilsskip, 15 metrar og longri, ella við einum dimensiónstali uppá 100 ella meira uttan mun til, um skipið er í innanoyggja sigling ella í altjóða sigling, sí tó stk. 2.</seg>
+                    </item>
+                    <item>
+                      <label>3)</label>
+                      <seg>Stuttleikafør, 24 metrar og longri.</seg>
+                    </item>
                   </list>
                 </p>
                 <p>
@@ -6286,7 +6721,9 @@
             </p>
           </div>
           <div n="6.2.4.">
-            <head rend="bold"><s xml:id="acvfqbugmq">Hvussu viðger landsstýrið hesar sáttmálar og avtalur?</s></head>
+            <head rend="bold">
+              <s xml:id="acvfqbugmq">Hvussu viðger landsstýrið hesar sáttmálar og avtalur?</s>
+            </head>
             <p>
               <seg>Tá ið landsstýrið skal avgreiða ein millumtjóðasáttmála ella avtalu, sum ikki skal leggjast fyri Løgtingið til góðkenningar, verður tað gjørt soleiðis:</seg>
               <lb/>
@@ -6334,7 +6771,7 @@
             </p>
           </div>
           <div n="6.3.2.">
-            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>          
+            <head rend="bold">Word, skrift, skriftstødd, talvur, myndir og slóðir</head>
             <p>
               <s xml:id="cz7ejlrgff">Uppskotið verður skrivað í Word.</s>
               <s xml:id="aqbdv7vxcl">Skriftin skal vera Times New Roman, skriftstøddin skal vera 12, og reglugloppið skal vera 1,0.</s>
@@ -6358,11 +6795,16 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Málsviðgjørt:</label> <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Málsviðgjørt:</label>
+                  <seg>Forbókstavirnir hjá tí embætisfólkinum, ið hevur viðgjørt málið.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -6430,7 +6872,9 @@
             </p>
           </div>
           <div n="6.3.5.">
-            <head rend="bold"><s xml:id="niwxo2lmju">Hvør málslig útgáva av sáttmálanum ella avtaluni skal setast inn?</s></head>
+            <head rend="bold">
+              <s xml:id="niwxo2lmju">Hvør málslig útgáva av sáttmálanum ella avtaluni skal setast inn?</s>
+            </head>
             <p>
               <s xml:id="moxoih2gwp">Millumtjóðasáttmálar og avtalur eru vanliga skrivaðar á fleiri málum.</s>
               <s xml:id="eb4smfqxqn">Hjá okkum er vanligt at síggja eina danska og eina enska útgávu.</s>
@@ -6605,9 +7049,18 @@
               <ab>
                 <ab rend="bold">Hjáløgd fylgiskjøl</ab>
                 <list>
-                  <item><label>Fylgiskjal 1:</label> <seg>Agreement for Scientific and Technological Cooperation Between the European Union and the Faroe Islands Associating the Faroe Islands to Horizon 2020 – the Framework Programme for Research and Innovation (2014-2020)</seg></item>
-                  <item><label>Fylgiskjal 2:</label> <seg>Reglugerð (ES) nr. 1291/2013 hjá ES Tinginum og ES Ráðnum frá 11. desember 2013, ið ásetur Horizon 2020 – Rammuskráin um gransking og innovatión (2014-2020)</seg></item>
-                  <item><label>Fylgiskjal 3:</label> <seg>Avgerð Ráðsins 2013/743/EU frá 3. desember 2013, ið setur serstøku skránna Horizon 2020 – Rammuskráin um gransking og innovatión (2014 2020) í gildi</seg></item>
+                  <item>
+                    <label>Fylgiskjal 1:</label>
+                    <seg>Agreement for Scientific and Technological Cooperation Between the European Union and the Faroe Islands Associating the Faroe Islands to Horizon 2020 – the Framework Programme for Research and Innovation (2014-2020)</seg>
+                  </item>
+                  <item>
+                    <label>Fylgiskjal 2:</label>
+                    <seg>Reglugerð (ES) nr. 1291/2013 hjá ES Tinginum og ES Ráðnum frá 11. desember 2013, ið ásetur Horizon 2020 – Rammuskráin um gransking og innovatión (2014-2020)</seg>
+                  </item>
+                  <item>
+                    <label>Fylgiskjal 3:</label>
+                    <seg>Avgerð Ráðsins 2013/743/EU frá 3. desember 2013, ið setur serstøku skránna Horizon 2020 – Rammuskráin um gransking og innovatión (2014 2020) í gildi</seg>
+                  </item>
                 </list>
               </ab>
             </ab>
@@ -6656,75 +7109,84 @@
           <p>
             <seg>Saman við lógaruppskotinum vóru løgd hjá hesi skjøl:</seg>
             <list>
-              <item><label>1)</label> <seg>FATCA-Agreement,</seg></item>
-              <item><label>2)</label> <seg>Annex I og</seg></item>
-              <item><label>3)</label> <seg>Annex II.</seg></item>
+              <item>
+                <label>1)</label>
+                <seg>FATCA-Agreement,</seg>
+              </item>
+              <item>
+                <label>2)</label>
+                <seg>Annex I og</seg>
+              </item>
+              <item>
+                <label>3)</label>
+                <seg>Annex II.</seg>
+              </item>
             </list>
           </p>
         </div>
         <div n="6.7.">
           <head rend="bold">Millumtjóðasáttmáli ella avtala verður løgtingslóg</head>
-          
-            <p>
-              <s xml:id="kpoavsohhv">Í heilt serligum førum kann ein millumtjóðasáttmáli ella avtala beinleiðis verða løgtingslóg.</s>
-              <s xml:id="tmgqosc5b7">Hetta merkir, at sjálvur millumtjóðasáttmálateksturin ella avtaluteksturin gerst føroysk løgtingslóg.</s>
-            </p>
-            <p>
-              <s xml:id="qvmlqjguqt">Millumtjóðasáttmálin ella avtalan er tá vorðin partur av okkara rættarreglum og hevur tá sama rættarvirknað sum øll onnur lóggáva.</s>
-            </p>
-            <p>
-              <s xml:id="dbh5e6dsuz">Tað verður mælt frá at gera sjálvan millumtjóðasáttmálan ella avtaluna til løgtingslóg.</s>
-            </p>
-            <p>
-              <s xml:id="dyulvfvo67">Millumtjóðasáttmálar og avtalur kunnu vera meira og minni greitt orðaðar.</s>
-              <s xml:id="ul5t74tnda">Við at gera millumtjóðasáttmála ella avtalu beinleiðis til løgtingslóg, er vandi fyri, at ivi kann vera um rættarstøðuna, um t.d. onnur føroyskt lóggáva gongur ímóti tí, sum er ásett í millumtjóðasáttmálanum ella avtaluni.</s>
-            </p>
+
+          <p>
+            <s xml:id="kpoavsohhv">Í heilt serligum førum kann ein millumtjóðasáttmáli ella avtala beinleiðis verða løgtingslóg.</s>
+            <s xml:id="tmgqosc5b7">Hetta merkir, at sjálvur millumtjóðasáttmálateksturin ella avtaluteksturin gerst føroysk løgtingslóg.</s>
+          </p>
+          <p>
+            <s xml:id="qvmlqjguqt">Millumtjóðasáttmálin ella avtalan er tá vorðin partur av okkara rættarreglum og hevur tá sama rættarvirknað sum øll onnur lóggáva.</s>
+          </p>
+          <p>
+            <s xml:id="dbh5e6dsuz">Tað verður mælt frá at gera sjálvan millumtjóðasáttmálan ella avtaluna til løgtingslóg.</s>
+          </p>
+          <p>
+            <s xml:id="dyulvfvo67">Millumtjóðasáttmálar og avtalur kunnu vera meira og minni greitt orðaðar.</s>
+            <s xml:id="ul5t74tnda">Við at gera millumtjóðasáttmála ella avtalu beinleiðis til løgtingslóg, er vandi fyri, at ivi kann vera um rættarstøðuna, um t.d. onnur føroyskt lóggáva gongur ímóti tí, sum er ásett í millumtjóðasáttmálanum ella avtaluni.</s>
+          </p>
+          <ab>
+            <seg>Dømi: Løgtingslóg um at seta í gildi protokoll til norðurlendskan tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at Føroyum og Danmark:</seg>
+            <lb/>
             <ab>
-              <seg>Dømi: Løgtingslóg um at seta í gildi protokoll til norðurlendskan tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at Føroyum og Danmark:</seg>
+              <ab rend="bold center">Løgtingslóg um at seta í gildi protokoll til norðurlendska</ab>
+              <ab rend="bold center">tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at</ab>
+              <ab rend="bold center">Føroyum og Danmark</ab>
               <lb/>
+              <ab>Samsvarandi samtykt Løgtingsins staðfestir og kunnger løgmaður hesa løgtingslóg:</ab>
               <ab>
-                <ab rend="bold center">Løgtingslóg um at seta í gildi protokoll til norðurlendska</ab>
-                <ab rend="bold center">tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at</ab>
-                <ab rend="bold center">Føroyum og Danmark</ab>
-                <lb/>
-                <ab>Samsvarandi samtykt Løgtingsins staðfestir og kunnger løgmaður hesa løgtingslóg:</ab>
+                <p>
+                  <label rend="bold">§ 1.</label>
+                  <s xml:id="gikotea7nm">Ásetingarnar í niðanfyristandandi protokoll frá 23. oktober 2014 til norðurlendska tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at Føroyum og Danmark fáa við hesum løgtingslógargildi.</s>
+                </p>
+              </ab>
+              <ab>
+                <p>
+                  <label rend="bold">§ 2.</label>
+                  <s xml:id="mz5qjh3wms">Henda løgtingslóg kemur í gildi 1. januar 2015 og hevur virknað fyri inntøkuskattir, sum verða álíknaðir fyri skattaár, sum byrja tann 1. januar 2015 ella seinni.</s>
+                </p>
+              </ab>
+              <ab>
+                <ab rend="bold center">Avtala millum Danmark og Føroyar</ab>
+                <p>
+                  <seg>Danska ríkisstjórnin og Føroya landsstýri, sum ynskja at gera eina avtalu um broyting av sáttmálanum frá 23. september 1996 millum tey norðurlendsku londini at sleppa undan tvískatting, hvat viðvíkur inntøku- og ognarskattum, við atliti til Føroyar og Danmark, eru vorðin samd um hetta:</seg>
+                </p>
                 <ab>
+                  <ab rend="bold">Grein 1</ab>
                   <p>
-                    <label rend="bold">§ 1.</label>
-                    <s xml:id="gikotea7nm">Ásetingarnar í niðanfyristandandi protokoll frá 23. oktober 2014 til norðurlendska tvískattasáttmálan viðvíkjandi skatting av eftirlønum við atliti at Føroyum og Danmark fáa við hesum løgtingslógargildi.</s>
+                    <seg>Ásetingarnar í parti VII til grein 18 í Protokol, skjal 1, til sáttmálan frá 23. september 1996 millum tey norðurlendsku londini at sleppa undan tvískatting, hvat viðvíkur inntøku- og ognarskattum verða settar úr gildi og í staðin verður sett:</seg>
                   </p>
-                </ab>
-                <ab>
-                  <p>
-                    <label rend="bold">§ 2.</label>
-                    <s xml:id="mz5qjh3wms">Henda løgtingslóg kemur í gildi 1. januar 2015 og hevur virknað fyri inntøkuskattir, sum verða álíknaðir fyri skattaár, sum byrja tann 1. januar 2015 ella seinni.</s>
-                  </p>
-                </ab>
-                <ab>
-                  <ab rend="bold center">Avtala millum Danmark og Føroyar</ab>
-                  <p>
-                    <seg>Danska ríkisstjórnin og Føroya landsstýri, sum ynskja at gera eina avtalu um broyting av sáttmálanum frá 23. september 1996 millum tey norðurlendsku londini at sleppa undan tvískatting, hvat viðvíkur inntøku- og ognarskattum, við atliti til Føroyar og Danmark, eru vorðin samd um hetta:</seg>
-                  </p>
-                  <ab>
-                    <ab rend="bold">Grein 1</ab>
-                    <p>
-                      <seg>Ásetingarnar í parti VII til grein 18 í Protokol, skjal 1, til sáttmálan frá 23. september 1996 millum tey norðurlendsku londini at sleppa undan tvískatting, hvat viðvíkur inntøku- og ognarskattum verða settar úr gildi og í staðin verður sett:</seg>
-                    </p>
-                  </ab>
                 </ab>
               </ab>
             </ab>
-            <pb n="229"/>
+          </ab>
+          <pb n="229"/>
+          <ab>
+            <seg>Dømi: Anordning nr. 136 frá 25. februar 2000 om ikrafttræden for Færøerne af lov om den Europæiske Menneskerettighedskonvention: </seg>
+            <lb/>
             <ab>
-              <seg>Dømi: Anordning nr. 136 frá 25. februar 2000 om ikrafttræden for Færøerne af lov om den Europæiske Menneskerettighedskonvention: </seg>
+              <ab rend="bold center">Anordning om ikrafttræden for Færøerne af lov om Den Europæiske</ab>
+              <ab rend="bold center">Menneskerettighedskonvention</ab>
               <lb/>
-              <ab>
-                <ab rend="bold center">Anordning om ikrafttræden for Færøerne af lov om Den Europæiske</ab>
-                <ab rend="bold center">Menneskerettighedskonvention</ab>
-                <lb/>
-                <!-- TODO: finish the info box here! -->
-              </ab>
+              <!-- TODO: finish the info box here! -->
             </ab>
+          </ab>
         </div>
         <div n="6.8.">
           <head rend="bold">Fráboðan í kunngerðarblaðnum um millumtjóðasáttmála ella avtalu</head>
@@ -6736,7 +7198,7 @@
           </div>
           <div n="6.8.1.">
             <head rend="bold">Millumtjóðasáttmálar sum Føroyar hava gjørt við onnur lond</head>
-            <ab>Hesir millumlandasáttmálar og avtalur verða kunngjørdar við eini fráboðan:</ab> 
+            <ab>Hesir millumlandasáttmálar og avtalur verða kunngjørdar við eini fráboðan:</ab>
             <ab>
               <seg>Dømi:</seg>
               <lb/>
@@ -6763,7 +7225,7 @@
                 <lb/>
                 <ab>(allur sáttmálateksturin)</ab>
               </ab>
-            </ab>           
+            </ab>
           </div>
           <pb n="232"/>
           <div n="6.8.2.">
@@ -6806,7 +7268,9 @@
         <div n="7.1.">
           <head rend="bold">Um rundskriv</head>
           <div n="7.1.1.">
-            <head rend="bold"><s xml:id="q5h4osmfcx">Hvat er eitt rundskriv?</s></head>
+            <head rend="bold">
+              <s xml:id="q5h4osmfcx">Hvat er eitt rundskriv?</s>
+            </head>
             <p>
               <s xml:id="sgingtxdru">Rundskriv er tað, sum á donskum verður nevnt cirkulære ella cirkulæreskrivelse.</s>
               <s xml:id="pymhfcx47q">Rundskriv verða nýtt til almenn ella ítøkilig tænastuboð.</s>
@@ -6827,7 +7291,9 @@
             </p>
           </div>
           <div n="7.1.2.">
-            <head rend="bold"><s xml:id="sbtolib7dh">Hvønn venda rundskriv sær til?</s></head>
+            <head rend="bold">
+              <s xml:id="sbtolib7dh">Hvønn venda rundskriv sær til?</s>
+            </head>
             <p>
               <s xml:id="nyt74s5flu">Rundskriv eru bindandi ásetingar, ið venda sær til almennar myndugleikar ella starvsfólk hjá almennum myndugleikum.</s>
               <s xml:id="e7ep42lllg">Rundskriv hava ikki ásetingar, ið viðkoma rættarstøðuni hjá vanliga borgaranum.</s>
@@ -6954,10 +7420,14 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -7162,7 +7632,9 @@
         <div n="8.1.">
           <head rend="bold">Um leiðbeiningar</head>
           <div n="8.1.1.">
-            <head rend="bold"><s xml:id="dwf2xgimps">Hvat er ein leiðbeining?</s></head>
+            <head rend="bold">
+              <s xml:id="dwf2xgimps">Hvat er ein leiðbeining?</s>
+            </head>
             <p>
               <s xml:id="rwrbangb54">Leiðbeiningar verða nýttar til at leiðbeina um nýtslu og innihald av lógartilfari o.tíl. Leiðbeiningar verða t.d. nýttar til kunning um innihaldið í lógum og kunngerðum, har greitt verður frá innihaldinum í teimum á ein lætt skiljandi hátt.</s>
               <s xml:id="mlcfpwaz3p">Leiðbeiningar verða eisini nýttar í sambandi við umsiting og tulking av ásetingum í lógum, kunngerðum, rundskrivum o.ø. Í leiðbeining kann eisini verða víst á, hvussu ein ávís bindandi áseting kann verða hildin.</s>
@@ -7182,7 +7654,9 @@
             </p>
           </div>
           <div n="8.1.2.">
-            <head rend="bold"><s xml:id="gnpxdhb6lq">Hvønn binda leiðbeiningar?</s></head>
+            <head rend="bold">
+              <s xml:id="gnpxdhb6lq">Hvønn binda leiðbeiningar?</s>
+            </head>
             <p>
               <s xml:id="hcqbp7xxck">Leiðbeiningar eru ikki bindandi, men verða vanliga nýttar at greiða frá tilfari, sum er bindandi.</s>
               <s xml:id="g2ncpjw2fl">Leiðbeiningar áseta ikki í sjálvum sær bindandi reglur um rættarstøðuna hjá vanliga borgaranum, myndugleikum, stovnum ella starvsfólki.</s>
@@ -7264,10 +7738,14 @@
               </ab>
               <list>
                 <item>
-                  <label rend="italic">Dagfesting:</label> <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
-                  <label rend="italic">Mál nr.:</label> <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
-                  <label rend="italic">Ummælistíð:</label> <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
-                  <label rend="italic">Eftirkannað:</label> <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
+                  <label rend="italic">Dagfesting:</label>
+                  <seg>Dagurin, uppskotið verður sent ávikavist til ummælis, til lógartænastuna, til politiskan og formligan landsstýrisfund og til Løgtingið.</seg>
+                  <label rend="italic">Mál nr.:</label>
+                  <seg>Journalnummarið, ið stovnurin hevur givið uppskotinum.</seg>
+                  <label rend="italic">Ummælistíð:</label>
+                  <seg>Styttingin N/A skal brúkast, tá ið uppskot ikki hava verið til ummælis.</seg>
+                  <label rend="italic">Eftirkannað:</label>
+                  <seg>Lógartænastan dagfestir, nær eftirkanningin av uppskotinum er send stjórnarráðnum.</seg>
                 </item>
               </list>
             </ab>
@@ -7429,27 +7907,33 @@
           <s xml:id="tq7f3ywq45">Hetta rundskriv kemur í staðin fyri: <lb/>Rundskriv nr. 9001 frá 26. oktober 2018 um lógarsmíð.</s>
         </p>
         <list>
-          <item><label>Skjal 1:</label> <seg>Dømi um uppseting av upprunalóg, broytingarlóg o.a.</seg></item>
-          <item><label>Skjal 2:</label> <seg>Javntekstur.</seg></item>
+          <item>
+            <label>Skjal 1:</label>
+            <seg>Dømi um uppseting av upprunalóg, broytingarlóg o.a.</seg>
+          </item>
+          <item>
+            <label>Skjal 2:</label>
+            <seg>Javntekstur.</seg>
+          </item>
         </list>
       </div>
       <space type="vertical"/>
       <div type="signature">
-          <dateline>
-              <placeName>Gongin</placeName>, tann <date when="2025-10-20">20. oktober 2025</date>
-          </dateline>
-          <space type="vertical"/>
-          <p>Vinarliga</p>
-          <space type="vertical"/>
-          <signed rend="boldcenter">
-              <seg><persName>Bjarni K. Petersen</persName> (sign.)</seg>
-              <lb/>
-              <seg>landsstýrismaður</seg>
-          </signed>
-          <space type="vertical"/>
-          <signed style="text-align: right;">
-              <persName>/ Nella Festirstein (sign.)</persName>
-          </signed>
+        <dateline>
+          <placeName>Gongin</placeName>, tann <date when="2025-10-20">20. oktober 2025</date>
+        </dateline>
+        <space type="vertical"/>
+        <p>Vinarliga</p>
+        <space type="vertical"/>
+        <signed rend="boldcenter">
+          <seg><persName>Bjarni K. Petersen</persName> (sign.)</seg>
+          <lb/>
+          <seg>landsstýrismaður</seg>
+        </signed>
+        <space type="vertical"/>
+        <signed style="text-align: right;">
+          <persName>/ Nella Festirstein (sign.)</persName>
+        </signed>
       </div>
     </back>
   </text>

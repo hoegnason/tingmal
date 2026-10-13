@@ -118,8 +118,8 @@
         </div>
         <div type="chapter" n="Kapittul 2">
           <head rend="bold center">Felags ásetingar um skráseting og almannakunngering</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Innlating av fráboðan til skrásetingar og skráseting og almannakunngering av innkallingum o.a.</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Innlating av fráboðan til skrásetingar og skráseting og almannakunngering av innkallingum o.a.</head>
             <div type="section" n="§ 2.">
               <div type="subsection" n="§ 2, stk. 1.">
                 <p rend="bill-text">
@@ -156,9 +156,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Ábyrgd fyri innlatnu fráboðanini</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Ábyrgd fyri innlatnu fráboðanini</head>
             <div type="section" n="§ 5.">
               <div type="subsection" n="§ 5, stk. 1.">
                 <p rend="bill-text">
@@ -181,9 +181,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Málslig krøv</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Málslig krøv</head>
             <div type="section" n="§ 7.">
               <div type="subsection" n="§ 7, stk. 1.">
                 <p rend="bill-text">
@@ -216,9 +216,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Skrásetingarprógv</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Skrásetingarprógv</head>
             <div type="section" n="§ 8.">
               <div type="subsection" n="§ 8, stk. 1.">
                 <p rend="bill-text">
@@ -230,22 +230,22 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Skráseting Føroya kann senda brøv o.tíl. til feløg og persónar um viðurskifti, sum eru umfatað av vinnufelagalógini, ella reglugerðir kunngjørdar sambært løgtingslógini, soleiðis:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Sum talgildur postur til talgilda postrúmið hjá felagnum ella persónunum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Við telduposti til ein teldupostbústað, sum felagið ella persónurin hava upplýst í sambandi við eitt ávíst mál ella áheitan</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Sum talgildur postur til talgilda postrúmið hjá felagnum ella persónunum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Við telduposti til ein teldupostbústað, sum felagið ella persónurin hava upplýst í sambandi við eitt ávíst mál ella áheitan</seg>
+                  </item>
+                </list>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Skrásetingargjøld</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Skrásetingargjøld</head>
             <div type="section" n="§ 9.">
               <div type="subsection" n="§ 9, stk. 1.">
                 <p rend="bill-text">
@@ -272,9 +272,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Almannakunngering</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Almannakunngering</head>
             <div type="section" n="§ 10.">
               <div type="subsection" n="§ 10, stk. 1.">
                 <p rend="bill-text">
@@ -293,22 +293,23 @@
               <div type="subsection" n="§ 11, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 11.</label>
-                  <seg>Skjøl hjá fyritøkum, ið Skráseting Føroya hevur, eru almenn. Hetta er tó ikki galdandi fyri skjøl, ið eru undantikin sambært løgtingslóg um innlit í fyrisitingina ella løgtingslóg um fyrisitingarlóg, undir hesum fylgjandi skjøl:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Váttanir um persónlig viðurskifti.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Roknskapir, ið sambært lóg ikki eru almennir.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Upplýsingar um handilslig og rakstrarlig viðurskifti og líknandi hjá vinnurekandi grunnum, ið skrásetingin sum grunsmyndugleiki hevur kunnleika til sambært § 57, stk. 3 í anordning om ikrafttræden for Færøerne af lov om erhvervsdrivende fonde, tá tað hevur týðandi fíggjarligan týdning fyri grunnin, at hesi verður undantikin skjalainnliti, sbr. § 61, stk. 2, í grunnalógini, sbr. § 12 í løgtingslóg um innlit í fyrisitingina.</seg>
-                    </item>
-                  </list>
+                  <s>Skjøl hjá fyritøkum, ið Skráseting Føroya hevur, eru almenn.</s>
+                  <seg>Hetta er tó ikki galdandi fyri skjøl, ið eru undantikin sambært løgtingslóg um innlit í fyrisitingina ella løgtingslóg um fyrisitingarlóg, undir hesum fylgjandi skjøl:</seg>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Váttanir um persónlig viðurskifti.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Roknskapir, ið sambært lóg ikki eru almennir.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Upplýsingar um handilslig og rakstrarlig viðurskifti og líknandi hjá vinnurekandi grunnum, ið skrásetingin sum grunsmyndugleiki hevur kunnleika til sambært § 57, stk. 3 í anordning om ikrafttræden for Færøerne af lov om erhvervsdrivende fonde, tá tað hevur týðandi fíggjarligan týdning fyri grunnin, at hesi verður undantikin skjalainnliti, sbr. § 61, stk. 2, í grunnalógini, sbr. § 12 í løgtingslóg um innlit í fyrisitingina.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 11, stk. 2.">
                 <p rend="bill-text">
@@ -349,52 +350,52 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 3">
           <head rend="bold center">Fráboðan og skráseting av kapitalfeløgum og av feløgum og øðrum fyritøkum, sum eru undir eftirliti av Fíggjareftirlitinum ella Tryggingareftirlitinum, ella har virksemi bert kann útinnast sambært loyvi frá Fíggjareftirlitinum ella Tryggingareftirlitinum</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Stovnan</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Stovnan</head>
             <div type="section" n="§ 13.">
               <div type="subsection" n="§ 13, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 13.</label>
                   <seg>Fráboðan um stovnan av kapitalfeløgum til skrásetingar, ella skráseting í kt-skipan, í tann mun ein tílík skipan er ment, skal í minsta lagi áseta:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navn og møgulig hjánøvn felagsins.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Bústað og heimstaðarkommuna felagsins.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Stovningardag og endamál felagsins.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Roknskaparár og fyrsta roknskaparskeið felagsins.</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>Støddina á felagskapitalinum og inngjaldshátt, støddina á inngoldnu upphæddini, um bert ein partur av felagskapitalinum er goldin, sbr. § 40, stk. 2 í vinnufelagalógini, og støddina á einari møguligari yvirkursupphædd.</seg>
-                    </item>
-                    <item>
-                      <label>6)</label>
-                      <seg>Fult navn, funktión í felagnum, føðidag, sbr. tó § 14, stk. 5, ella skrásetingarnummar og bústað hjá stovnarum, nevndarlimum, stjórum, limum av umsjónarráð og varalimum. Um stovnarin er eitt útlendskt felag, skal tað vera upplýst, í hvørjari partafelagsskráseting felagið er skrásett, og skrásetingarnummar.</seg>
-                    </item>
-                    <item>
-                      <label>7)</label>
-                      <seg>Fult navn, føðidag, sbr. tó § 14, stk. 5, ella skrásetingarnummar og bústað hjá grannskoðara, um felagið er fevnt av grannskoðaraskyldu, ella um felagið sjálvboðið hevur valt at lata ársroknskapin grannskoða.</seg>
-                    </item>
-                    <item>
-                      <label>8)</label>
-                      <seg>Fyri partnarafeløg upplýsingar um fult navn á luttakarum, sum hefta uttan avmarking, funktión í felagnum, føðidag, sbr. tó § 14, stk. 5 ella skrásetingarnummar, bústað og støddina á innskotinum hjá teimum einstøku luttakarunum.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navn og møgulig hjánøvn felagsins.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Bústað og heimstaðarkommuna felagsins.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Stovningardag og endamál felagsins.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Roknskaparár og fyrsta roknskaparskeið felagsins.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>Støddina á felagskapitalinum og inngjaldshátt, støddina á inngoldnu upphæddini, um bert ein partur av felagskapitalinum er goldin, sbr. § 40, stk. 2 í vinnufelagalógini, og støddina á einari møguligari yvirkursupphædd.</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg>Fult navn, funktión í felagnum, føðidag, sbr. tó § 14, stk. 5, ella skrásetingarnummar og bústað hjá stovnarum, nevndarlimum, stjórum, limum av umsjónarráð og varalimum. Um stovnarin er eitt útlendskt felag, skal tað vera upplýst, í hvørjari partafelagsskráseting felagið er skrásett, og skrásetingarnummar.</seg>
+                  </item>
+                  <label>7)</label>
+                  <item>
+                    <seg>Fult navn, føðidag, sbr. tó § 14, stk. 5, ella skrásetingarnummar og bústað hjá grannskoðara, um felagið er fevnt av grannskoðaraskyldu, ella um felagið sjálvboðið hevur valt at lata ársroknskapin grannskoða.</seg>
+                  </item>
+                  <label>8)</label>
+                  <item>
+                    <seg>Fyri partnarafeløg upplýsingar um fult navn á luttakarum, sum hefta uttan avmarking, funktión í felagnum, føðidag, sbr. tó § 14, stk. 5 ella skrásetingarnummar, bústað og støddina á innskotinum hjá teimum einstøku luttakarunum.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 13, stk. 2.">
                 <p rend="bill-text">
@@ -408,45 +409,46 @@
                 <p rend="bill-text">
                   <label rend="bold">§ 14.</label>
                   <seg>Saman við innlatnu fráboðanini skal latast:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Stovningarskjal, undir hesum viðtøkur felagsins, og møgulig onnur skjøl, ið eru gjørd í sambandi við stovningina.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Prógv fyri inngjalding av felagskapitalinum, sbr. stk. 2 og 3.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Fyri partnarafeløg upplýsingar um fult navn á luttakarum, sum hefta uttan avmarking, funktión í felagnum, bústaður og møguligt innskot.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Stovningarskjal, undir hesum viðtøkur felagsins, og møgulig onnur skjøl, ið eru gjørd í sambandi við stovningina.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Prógv fyri inngjalding av felagskapitalinum, sbr. stk. 2 og 3.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Fyri partnarafeløg upplýsingar um fult navn á luttakarum, sum hefta uttan avmarking, funktión í felagnum, bústaður og møguligt innskot.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 14, stk. 2.">
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Sum prógv fyri kontant inngjaldi av felagskapitalinum, sbr. tó stk. 3, kann nýtast:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Bankaskjal, ið vísir at peningurin saman við yvirkursinum er inngoldin á eina konto, ið felagið undir stovnan eigur. Útskrift frá heimagreiðslu ella netbanka er ikki nøktandi prógv.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Avrit av viðskiftakonto hjá sakførara, har tað er ávíst, at peningurin er bókaður hjá viðkomandi felag undir stovnan.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Váttan frá sakførara um, at peningurin er inngoldin á bankakonto ella viðskiftakonto hjá sakføraranum, sum er ogn hjá kapitalfelagnum.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Váttan frá einum góðkendum grannskoðara um, at peningurin er inngoldin á eina bankakonto, sum er ogn hjá felagnum undir stovnan ella sum er tøkur sum kassapeningur.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Bankaskjal, ið vísir at peningurin saman við yvirkursinum er inngoldin á eina konto, ið felagið undir stovnan eigur.</seg>
+                    <s>Útskrift frá heimagreiðslu ella netbanka er ikki nøktandi prógv.</s>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Avrit av viðskiftakonto hjá sakførara, har tað er ávíst, at peningurin er bókaður hjá viðkomandi felag undir stovnan.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Váttan frá sakførara um, at peningurin er inngoldin á bankakonto ella viðskiftakonto hjá sakføraranum, sum er ogn hjá kapitalfelagnum.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Váttan frá einum góðkendum grannskoðara um, at peningurin er inngoldin á eina bankakonto, sum er ogn hjá felagnum undir stovnan ella sum er tøkur sum kassapeningur.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 14, stk. 3.">
                 <p rend="bill-text">
@@ -479,53 +481,53 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Stovnan av deild hjá útlendskum kapitalfeløgum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Stovnan av deild hjá útlendskum kapitalfeløgum</head>
             <div type="section" n="§ 15.">
               <div type="subsection" n="§ 15, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 15.</label>
                   <seg>Fráboðan um stovnan av deild hjá einum útlendskum felag skal í minsta lagi upplýsa:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navnið á útlendska felagnum, rættarliga form og heimstað, møguliga skráseting og skrásetingarnummar í heimlandinum, endamálið við felagnum, teknaða felagskapitalin og roknskaparár.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Navn á deildini, bústað og endamál.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Fult navn, føðidag, sbr. tó stk. 3, og bústað hjá teimum við tekningarrætti í tí útlendska felagnum og fyri filialleiðararnar.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navnið á útlendska felagnum, rættarliga form og heimstað, møguliga skráseting og skrásetingarnummar í heimlandinum, endamálið við felagnum, teknaða felagskapitalin og roknskaparár.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Navn á deildini, bústað og endamál.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Fult navn, føðidag, sbr. tó stk. 3, og bústað hjá teimum við tekningarrætti í tí útlendska felagnum og fyri filialleiðararnar.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 15, stk. 2.">
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Formligt prógv, ið hægst er 3 mánaðir gamalt, um at útlendska felagið er lógliga til í heimlandinum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Stovningarskjalið hjá útlendska felagnum og viðtøkur.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Fulltrú til filialleiðararnar.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Fyri kapitalfeløg formligt prógv frá heimlandinum hjá viðkomandi felag, sum vísir, at eitt føroyskt felag við sama endamáli sum fráboðaða deildin kann reka eina fyritøku í viðkomandi landi gjøgnum eina deild.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Formligt prógv, ið hægst er 3 mánaðir gamalt, um at útlendska felagið er lógliga til í heimlandinum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Stovningarskjalið hjá útlendska felagnum og viðtøkur.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Fulltrú til filialleiðararnar.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Fyri kapitalfeløg formligt prógv frá heimlandinum hjá viðkomandi felag, sum vísir, at eitt føroyskt felag við sama endamáli sum fráboðaða deildin kann reka eina fyritøku í viðkomandi landi gjøgnum eina deild.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 15, stk. 3.">
                 <p rend="bill-text">
@@ -534,9 +536,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Broytingar í skrásettum viðurskiftum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Broytingar í skrásettum viðurskiftum</head>
             <div type="section" n="§ 16.">
               <div type="subsection" n="§ 16, stk. 1.">
                 <p rend="bill-text">
@@ -599,9 +601,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Likvidatión</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Likvidatión</head>
             <div type="section" n="§ 17.">
               <div type="subsection" n="§ 17, stk. 1.">
                 <p rend="bill-text">
@@ -614,67 +616,68 @@
               <div type="subsection" n="§ 18, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 18.</label>
-                  <seg>Fráboðan um endaliga likvidatión av einum kapitalfelag skal gerast í seinasta lagi 2 vikur eftir, at avgerðin um endaliga likvidatión er tikin. Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av, at avgerðin er lógliga samtykt , aðalfundaravrit.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Endaligur likvidatiónsroknskapur umframt møgulig ársfrásøgn fyri endað roknskaparár.</seg>
-                    </item>
-                  </list>
+                  <s>Fráboðan um endaliga likvidatión av einum kapitalfelag skal gerast í seinasta lagi 2 vikur eftir, at avgerðin um endaliga likvidatión er tikin.</s>
+                  <seg>Saman við fráboðanini skal fylgja:</seg>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av, at avgerðin er lógliga samtykt , aðalfundaravrit.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Endaligur likvidatiónsroknskapur umframt møgulig ársfrásøgn fyri endað roknskaparár.</seg>
+                  </item>
+                </list>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Uppafturtøka</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Uppafturtøka</head>
             <div type="section" n="§ 19.">
               <div type="subsection" n="§ 19, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 19.</label>
                   <seg>Fráboðan um uppafturtøku av einum kapitalfelag, ið er undir tvingsilsavtøku, sbr. § 232 í vinnufelagalógini, skal minst upplýsa um:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Fult navn, funktión í felagnum, føðidag, sbr. tó stk. 3, og bústað hjá nevndarlimum, stjórum og limum av umsjónarráð og tiltakslimum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Fult navn, føðidag, sbr. tó stk. 3, ella skrásetingar nr. og bústað hjá grannskoðara, um felagið er fevnt av grannskoðaraskyldu sambært ársroknskaparlógini, ella felagið sjálvboðið hevur valt at fáa ársroknskapin grannskoðaðan.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Fult navn, funktión í felagnum, føðidag, sbr. tó stk. 3, og bústað hjá nevndarlimum, stjórum og limum av umsjónarráð og tiltakslimum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Fult navn, føðidag, sbr. tó stk. 3, ella skrásetingar nr. og bústað hjá grannskoðara, um felagið er fevnt av grannskoðaraskyldu sambært ársroknskaparlógini, ella felagið sjálvboðið hevur valt at fáa ársroknskapin grannskoðaðan.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 19, stk. 2.">
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av, at broytingin er lógliga samtykt.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Nýggjar dagfestar og dagførdar viðtøkur, um viðtøkurnar eru broyttar í sambandi við uppafturtøkuna.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Váttan frá einum metingarfólki, sbr. § 37 í vinnufelagalógini, um, at felagskapitalurin er til staðar í sambandi við uppafturtøkuna av felagnum, og at ólóglig lán ikki eru givin í stríð við § 210, stk. 1 í vinnufelagalógini.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Manglandi ársfrásøgn, ið skuldi verið send inn áðrenn fráboðanin varð móttikin.</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>Skjalfesting av, at ein møguligur likvidator, avtøkustjóri, ið er tilnevndur av skiftirættinum, gevur samtykki til uppafturtøkuna.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av, at broytingin er lógliga samtykt.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Nýggjar dagfestar og dagførdar viðtøkur, um viðtøkurnar eru broyttar í sambandi við uppafturtøkuna.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Váttan frá einum metingarfólki, sbr. § 37 í vinnufelagalógini, um, at felagskapitalurin er til staðar í sambandi við uppafturtøkuna av felagnum, og at ólóglig lán ikki eru givin í stríð við § 210, stk. 1 í vinnufelagalógini.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Manglandi ársfrásøgn, ið skuldi verið send inn áðrenn fráboðanin varð móttikin.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>Skjalfesting av, at ein møguligur likvidator, avtøkustjóri, ið er tilnevndur av skiftirættinum, gevur samtykki til uppafturtøkuna.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 19, stk. 3.">
                 <p rend="bill-text">
@@ -691,9 +694,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Partafeløg landsins og feløg, sum hava partabrøv upptikin til handils á einum reguleraðum marknaði</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Partafeløg landsins og feløg, sum hava partabrøv upptikin til handils á einum reguleraðum marknaði</head>
             <div type="section" n="§ 21.">
               <div type="subsection" n="§ 21, stk. 1.">
                 <p rend="bill-text">
@@ -708,9 +711,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Samanlegging</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Samanlegging</head>
             <div type="section" n="§ 22.">
               <div type="subsection" n="§ 22, stk. 1.">
                 <p rend="bill-text">
@@ -722,48 +725,48 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av at avgerðin er lógliga viðtikin, útskrift úr gerðabók.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Dagfestar viðtøkur við fullfíggjaðu nýggju orðingini, um viðtøkurnar hjá framhaldandi felagnum eru broyttar í sambandi við samanleggingina.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Dagfestar viðtøkur hjá møguligum nýggjum feløgum, ið íkoma í sambandi við samanleggingina.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Fylgjandi skjøl skulu harafturat sendast við, uttan so, at skjølini ikki skulu gerast, ella tey eru innsend saman við samanleggingarætlanini ella fráboðanini um at velja samanleggingarætlan frá:</seg>
-                      <list>
-                        <item>
-                          <label>a)</label>
-                          <seg>Samanleggingarfrágreiðing, sbr. § 238 í vinnufelagalógini.</seg>
-                        </item>
-                        <item>
-                          <label>b)</label>
-                          <seg>Millumjavni, sbr. § 239 í vinnufelagalógini.</seg>
-                        </item>
-                        <item>
-                          <label>c)</label>
-                          <seg>Metingarfrágreiðing, sbr. § 240 í vinnufelagalógini.</seg>
-                        </item>
-                        <item>
-                          <label>d)</label>
-                          <seg>Ummæli metingarfólksins av samanleggingini, undir hesum eini møguligari samanleggingarætlan sbr. § 241 í vinnufelagalógini.</seg>
-                        </item>
-                      </list>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av at avgerðin er lógliga viðtikin, útskrift úr gerðabók.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Dagfestar viðtøkur við fullfíggjaðu nýggju orðingini, um viðtøkurnar hjá framhaldandi felagnum eru broyttar í sambandi við samanleggingina.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Dagfestar viðtøkur hjá møguligum nýggjum feløgum, ið íkoma í sambandi við samanleggingina.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Fylgjandi skjøl skulu harafturat sendast við, uttan so, at skjølini ikki skulu gerast, ella tey eru innsend saman við samanleggingarætlanini ella fráboðanini um at velja samanleggingarætlan frá:</seg>
+                    <list>
+                      <label>a)</label>
+                      <item>
+                        <seg>Samanleggingarfrágreiðing, sbr. § 238 í vinnufelagalógini.</seg>
+                      </item>
+                      <label>b)</label>
+                      <item>
+                        <seg>Millumjavni, sbr. § 239 í vinnufelagalógini.</seg>
+                      </item>
+                      <label>c)</label>
+                      <item>
+                        <seg>Metingarfrágreiðing, sbr. § 240 í vinnufelagalógini.</seg>
+                      </item>
+                      <label>d)</label>
+                      <item>
+                        <seg>Ummæli metingarfólksins av samanleggingini, undir hesum eini møguligari samanleggingarætlan sbr. § 241 í vinnufelagalógini.</seg>
+                      </item>
+                    </list>
+                  </item>
+                </list>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Kloyving</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Kloyving</head>
             <div type="section" n="§ 23.">
               <div type="subsection" n="§ 23, stk. 1.">
                 <p rend="bill-text">
@@ -775,87 +778,87 @@
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av at avgerðin er lógliga viðtikin, aðalfundaravrit.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Dagfestar viðtøkur við fullfíggjaðu nýggju orðingini, um viðtøkurnar hjá luttakandi feløgunum eru broyttar í sambandi við kloyvingina.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Dagfestar viðtøkur hjá møguligum nýggjum feløgum, ið íkoma í sambandi við kloyvingina.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Fylgjandi skjøl skulu harafturat sendast við, uttan so, at skjølini ikki skulu gerast, ella tey eru innsend saman við kloyvingarætlanini ella fráboðanini um at velja kloyvingarætlanina frá:</seg>
-                      <list>
-                        <item>
-                          <label>a)</label>
-                          <seg>Kloyvingarfrágreiðing, sbr. § 256 í vinnufelagslógini.</seg>
-                        </item>
-                        <item>
-                          <label>b)</label>
-                          <seg>Millumjavna, sbr. § 257 í vinnufelagslógini.</seg>
-                        </item>
-                        <item>
-                          <label>c)</label>
-                          <seg>Metingarfrágreiðing, sbr. § 258 í vinnufelagslógini.</seg>
-                        </item>
-                        <item>
-                          <label>d)</label>
-                          <seg>Ummæli metingarfólksins av kloyvingarætlanini, sbr. § 259 í vinnufelagalógini.</seg>
-                        </item>
-                      </list>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av at avgerðin er lógliga viðtikin, aðalfundaravrit.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Dagfestar viðtøkur við fullfíggjaðu nýggju orðingini, um viðtøkurnar hjá luttakandi feløgunum eru broyttar í sambandi við kloyvingina.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Dagfestar viðtøkur hjá møguligum nýggjum feløgum, ið íkoma í sambandi við kloyvingina.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Fylgjandi skjøl skulu harafturat sendast við, uttan so, at skjølini ikki skulu gerast, ella tey eru innsend saman við kloyvingarætlanini ella fráboðanini um at velja kloyvingarætlanina frá:</seg>
+                    <list>
+                      <label>a)</label>
+                      <item>
+                        <seg>Kloyvingarfrágreiðing, sbr. § 256 í vinnufelagslógini.</seg>
+                      </item>
+                      <label>b)</label>
+                      <item>
+                        <seg>Millumjavna, sbr. § 257 í vinnufelagslógini.</seg>
+                      </item>
+                      <label>c)</label>
+                      <item>
+                        <seg>Metingarfrágreiðing, sbr. § 258 í vinnufelagslógini.</seg>
+                      </item>
+                      <label>d)</label>
+                      <item>
+                        <seg>Ummæli metingarfólksins av kloyvingarætlanini, sbr. § 259 í vinnufelagalógini.</seg>
+                      </item>
+                    </list>
+                  </item>
+                </list>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 4">
           <head rend="bold center">Skráseting av fyritøkum fevndar av vinnufyritøkulógini</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Stovnan</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Stovnan</head>
             <div type="section" n="§ 24.">
               <div type="subsection" n="§ 24, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 24.</label>
                   <seg>Fráboðan um stovnan av einari vinnurekandi fyritøku við avmarkaðari ábyrgd, sbr. §§ 3 og 4 í vinnufyritøkulógini, skal í minsta lagi tilskila:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navn og møgulig hjánøvn hjá fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Bústað og heimstaðarkommunu hjá fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Stovningardag, endamál og seinasta viðtøkudag hjá fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Roknskaparár og fyrsta roknskaparskeið hjá fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>Fult navn, funktión í fyritøkuni, føðidag, sbr. tó stk. 4, og bústað hjá nevndarlimum og stjórum, ella samsvarandi leiðslustovni.</seg>
-                    </item>
-                    <item>
-                      <label>6)</label>
-                      <seg>Hvør hevur tekningarrætt í fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>7)</label>
-                      <seg>Prógv fyri, at minst tveir luttakarar eru í fyritøkuni.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navn og møgulig hjánøvn hjá fyritøkuni.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Bústað og heimstaðarkommunu hjá fyritøkuni.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Stovningardag, endamál og seinasta viðtøkudag hjá fyritøkuni.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Roknskaparár og fyrsta roknskaparskeið hjá fyritøkuni.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>Fult navn, funktión í fyritøkuni, føðidag, sbr. tó stk. 4, og bústað hjá nevndarlimum og stjórum, ella samsvarandi leiðslustovni.</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg>Hvør hevur tekningarrætt í fyritøkuni.</seg>
+                  </item>
+                  <label>7)</label>
+                  <item>
+                    <seg>Prógv fyri, at minst tveir luttakarar eru í fyritøkuni.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 24, stk. 2.">
                 <p rend="bill-text">
@@ -881,17 +884,17 @@
                 <p rend="bill-text">
                   <label rend="bold">§ 25.</label>
                   <seg>Fráboðan um stovnan av einum íognarfelag ella einum kommanditfelag, ið er fevnt av § 2, stk. 3, 2. pkt. í vinnufyritøkulógini, skal umframt tær upplýsingar, ið eru nevndar í § 24, stk. 1 í hesi kunngerð, eisini upplýsa:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navn, bústað og skrásetingar nr. hjá teimum ábyrgdarhavandi luttakarunum í fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Fult navn, føðidag, sbr. tó stk. 3, ella skrásetingar nr. og bústað hjá grannskoðaranum í fyritøkuni.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navn, bústað og skrásetingar nr. hjá teimum ábyrgdarhavandi luttakarunum í fyritøkuni.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Fult navn, føðidag, sbr. tó stk. 3, ella skrásetingar nr. og bústað hjá grannskoðaranum í fyritøkuni.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 25, stk. 2.">
                 <p rend="bill-text">
@@ -906,53 +909,53 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Stovnan av deild hjá útlendskari fyritøku</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Stovnan av deild hjá útlendskari fyritøku</head>
             <div type="section" n="§ 26.">
               <div type="subsection" n="§ 26, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 26.</label>
                   <seg>Fráboðan um stovnan av deild hjá einari útlendskari fyritøku við avmarkaðari ábyrgd, sbr. § 8, stk. 3 og 4 í vinnufyritøkulógini, skal minst innihalda:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navnið á útlendska felagnum, rættarligur formur, bústaður og heimstaður, møgulig skráseting og skrásetingarnummar í heimlandinum, endamálið við felagnum og roknskaparár.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Navn á deildini, bústað og endamál.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Fult navn, føðidag, sbr. tó stk. 3, og bústað hjá teimum við tekningarrætti í tí útlendska felagnum og fyri filialleiðararnar.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navnið á útlendska felagnum, rættarligur formur, bústaður og heimstaður, møgulig skráseting og skrásetingarnummar í heimlandinum, endamálið við felagnum og roknskaparár.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Navn á deildini, bústað og endamál.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Fult navn, føðidag, sbr. tó stk. 3, og bústað hjá teimum við tekningarrætti í tí útlendska felagnum og fyri filialleiðararnar.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 26, stk. 2.">
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Formligt prógv fyri, at útlendska felagið er lógliga galdandi í heimlandinum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Fulltrú hjá filialleiðaranum.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Ein váttan frá fyritøkuni um, at fyritøkan hevur skyldu til at geva seg undir føroyskan rætt og avgerðir við føroyskar dómstólar í øllum rættarviðurskiftum her í landinum.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Formligt prógv frá heimlandinum hjá viðkomandi fyritøku, sum vísir, at ein føroysk fyritøka við sama endamáli sum fráboðaða deildin kann reka eina fyritøku í viðkomandi landi gjøgnum eina deild.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Formligt prógv fyri, at útlendska felagið er lógliga galdandi í heimlandinum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Fulltrú hjá filialleiðaranum.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Ein váttan frá fyritøkuni um, at fyritøkan hevur skyldu til at geva seg undir føroyskan rætt og avgerðir við føroyskar dómstólar í øllum rættarviðurskiftum her í landinum.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Formligt prógv frá heimlandinum hjá viðkomandi fyritøku, sum vísir, at ein føroysk fyritøka við sama endamáli sum fráboðaða deildin kann reka eina fyritøku í viðkomandi landi gjøgnum eina deild.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 26, stk. 3.">
                 <p rend="bill-text">
@@ -961,9 +964,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Broytingar í skrásettum viðurskiftum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Broytingar í skrásettum viðurskiftum</head>
             <div type="section" n="§ 27.">
               <div type="subsection" n="§ 27, stk. 1.">
                 <p rend="bill-text">
@@ -978,9 +981,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Likvidatión</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Likvidatión</head>
             <div type="section" n="§ 28.">
               <div type="subsection" n="§ 28, stk. 1.">
                 <p rend="bill-text">
@@ -993,47 +996,48 @@
               <div type="subsection" n="§ 29, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 29.</label>
-                  <seg>Fráboðan um endaliga likvidatión av eini fyritøku við avmarkaðari ábyrgd skal gerast í seinasta lagi 2 vikur eftir, at avgerðin um endaliga likvidatión er tikin. Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av, at avgerðin er lógliga samtykt, aðalfundaravrit.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Endaligur likvidatiónsroknskapur umframt møgulig ársfrásøgn fyri roknskaparár, ið enda undir likvidatiónini.</seg>
-                    </item>
-                  </list>
+                  <s>Fráboðan um endaliga likvidatión av eini fyritøku við avmarkaðari ábyrgd skal gerast í seinasta lagi 2 vikur eftir, at avgerðin um endaliga likvidatión er tikin.</s>
+                  <seg>Saman við fráboðanini skal fylgja:</seg>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av, at avgerðin er lógliga samtykt, aðalfundaravrit.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Endaligur likvidatiónsroknskapur umframt møgulig ársfrásøgn fyri roknskaparár, ið enda undir likvidatiónini.</seg>
+                  </item>
+                </list>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Uppafturtøka</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Uppafturtøka</head>
             <div type="section" n="§ 30.">
               <div type="subsection" n="§ 30, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 30.</label>
                   <seg>Sum fylgiskjal til fráboðan um uppafturtøku av eini fyritøku við avmarkaðari ábyrgd, sbr. §§ 3 og 4 í vinnufyritøkulógini, skal vera:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Skjalfesting av, at broytingin er lógliga samtykt, aðalfundaravrit.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Nýggjar dagfestar og dagførdar viðtøkur, um viðtøkurnar eru broyttar í sambandi við uppafturtøkuna.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Manglandi ársfrásøgn ella undantaksváttan, ið skuldi verið send inn áðrenn fráboðanin varð móttikin.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Skjalfesting fyri, at ein møguligur likvidator, avtøkustjóri, ið er tilnevndur av skiftirættinum, gevur samtykki til uppafturtøkuna.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Skjalfesting av, at broytingin er lógliga samtykt, aðalfundaravrit.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Nýggjar dagfestar og dagførdar viðtøkur, um viðtøkurnar eru broyttar í sambandi við uppafturtøkuna.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Manglandi ársfrásøgn ella undantaksváttan, ið skuldi verið send inn áðrenn fráboðanin varð móttikin.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Skjalfesting fyri, at ein møguligur likvidator, avtøkustjóri, ið er tilnevndur av skiftirættinum, gevur samtykki til uppafturtøkuna.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 30, stk. 2.">
                 <p rend="bill-text">
@@ -1047,25 +1051,25 @@
                 <p rend="bill-text">
                   <label rend="bold">§ 31.</label>
                   <seg>Fráboðan um endurstovnan av einum íognarfelag ella kommandittfelag, ið er fevnt av § 12 vinnufyritøkulógini, skal umframt upplýsingarnar í § 26, stk. 1 í hesi kunngerð eisini upplýsa:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navn, bústað og føðidag ella skrásetingar nummar hjá ábyrgum luttakarunum í fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Navn, føðidag, sbr. tó stk. 2, og bústað hjá limunum í leiðsluni í fyritøkuni.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Um felagið er strikað av tí at ársfrásøgn ella undantaksváttan ikki er innsend, sbr. § 12, stk. 1, nr. 3 í vinnufyritøkulógini, skulu ársfrásagnir ella undantaksváttanir sendast inn fyri manglandi tíðarskeiðið.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Um felagið eitt tíðarskeið hevur havt ábyrgar luttakarar, sum vóru kapitalfeløg, men hetta ikki hevur verið fráboðað, skulu upplýsingar um tað sendast inn fyri manglandi tíðarskeiðið.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navn, bústað og føðidag ella skrásetingar nummar hjá ábyrgum luttakarunum í fyritøkuni.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Navn, føðidag, sbr. tó stk. 2, og bústað hjá limunum í leiðsluni í fyritøkuni.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Um felagið er strikað av tí at ársfrásøgn ella undantaksváttan ikki er innsend, sbr. § 12, stk. 1, nr. 3 í vinnufyritøkulógini, skulu ársfrásagnir ella undantaksváttanir sendast inn fyri manglandi tíðarskeiðið.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Um felagið eitt tíðarskeið hevur havt ábyrgar luttakarar, sum vóru kapitalfeløg, men hetta ikki hevur verið fráboðað, skulu upplýsingar um tað sendast inn fyri manglandi tíðarskeiðið.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 31, stk. 2.">
                 <p rend="bill-text">
@@ -1074,9 +1078,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Fyritøkur, ið hava partabrøv upptikin til handils á einum reguleraðum marknaði</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Fyritøkur, ið hava partabrøv upptikin til handils á einum reguleraðum marknaði</head>
             <div type="section" n="§ 32.">
               <div type="subsection" n="§ 32, stk. 1.">
                 <p rend="bill-text">
@@ -1085,76 +1089,76 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 5">
           <head rend="bold center">Skráseting av vinnurekandi grunnum</head>
-          <ab type="provision-heading">
-            <ab rend="italic center">Stovnan o.a.</ab>
+          <div type="provision-heading">
+            <head rend="italic center">Stovnan o.a.</head>
             <div type="section" n="§ 33.">
               <div type="subsection" n="§ 33, stk. 1.">
                 <p rend="bill-text">
                   <label rend="bold">§ 33.</label>
                   <seg>Fráboðan um stovnan av vinnurekandi grunni ella fráboðan um, at ein grunnur er vorðin vinnurekandi, sbr. § 51 í anordning om ikrafttræden for Færøerne af lov om erhvervsdrivende fonde, skal í minsta lagi tilskila:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Navn og møgulig hjánøvn hjá grunninum.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Bústað og heimstaðarkommunu hjá grunninum.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Stovningardag, endamál og seinasta viðtøkudag hjá grunninum.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Roknskaparár og fyrsta roknskaparskeið hjá grunninum.</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>Støddina á grunskapitalinum, og um hesin er goldin í reiðum peningi ella í øðrum virðum.</seg>
-                    </item>
-                    <item>
-                      <label>6)</label>
-                      <seg>Fult navn, funktión í grunninum, føðidag, sbr. tó stk. 3, og bústað hjá nevndarlimum og møguligum stjórum, grannskoðarum og møguligum tiltakslimum fyri nevndarlimir, stjórar og grannskoðarar.</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Navn og møgulig hjánøvn hjá grunninum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Bústað og heimstaðarkommunu hjá grunninum.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Stovningardag, endamál og seinasta viðtøkudag hjá grunninum.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Roknskaparár og fyrsta roknskaparskeið hjá grunninum.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>Støddina á grunskapitalinum, og um hesin er goldin í reiðum peningi ella í øðrum virðum.</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg>Fult navn, funktión í grunninum, føðidag, sbr. tó stk. 3, og bústað hjá nevndarlimum og møguligum stjórum, grannskoðarum og møguligum tiltakslimum fyri nevndarlimir, stjórar og grannskoðarar.</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 33, stk. 2.">
                 <p rend="bill-text">
                   <label rend="italic">Stk. 2.</label>
                   <seg>Saman við fráboðanini skal fylgja:</seg>
-                  <list>
-                    <item>
-                      <label>1)</label>
-                      <seg>Rættarliga grundarlagið fyri, at grunnurin er settur á stovn, testamenti, gávubræv ella annað.</seg>
-                    </item>
-                    <item>
-                      <label>2)</label>
-                      <seg>Viðtøkur og onnur skjøl, gjørd í sambandi við stovningina.</seg>
-                    </item>
-                    <item>
-                      <label>3)</label>
-                      <seg>Skjalprógv um, at ásetti grunskapitalurin er inngoldin til grunnin.</seg>
-                    </item>
-                    <item>
-                      <label>4)</label>
-                      <seg>Skjalprógv um, at grunnurin er vinnurekandi.</seg>
-                    </item>
-                    <item>
-                      <label>5)</label>
-                      <seg>Upplýsingar um, hvørt grunnurin móttekur almennan stuðul, og um grunnurin er álagdur annað alment eftirlit.</seg>
-                    </item>
-                    <item>
-                      <label>6)</label>
-                      <seg>Seinasta ársfrágreiðingin um talan er um ein verandi grunn, ið verður umskipaður til vinnurekandi grunn sambært § 51</seg>
-                    </item>
-                  </list>
                 </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg>Rættarliga grundarlagið fyri, at grunnurin er settur á stovn, testamenti, gávubræv ella annað.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg>Viðtøkur og onnur skjøl, gjørd í sambandi við stovningina.</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg>Skjalprógv um, at ásetti grunskapitalurin er inngoldin til grunnin.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg>Skjalprógv um, at grunnurin er vinnurekandi.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg>Upplýsingar um, hvørt grunnurin móttekur almennan stuðul, og um grunnurin er álagdur annað alment eftirlit.</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg>Seinasta ársfrágreiðingin um talan er um ein verandi grunn, ið verður umskipaður til vinnurekandi grunn sambært § 51</seg>
+                  </item>
+                </list>
               </div>
               <div type="subsection" n="§ 33, stk. 3.">
                 <p rend="bill-text">
@@ -1163,9 +1167,9 @@
                 </p>
               </div>
             </div>
-          </ab>
-          <ab type="provision-heading">
-            <ab rend="italic center">Broyting í skrásettum viðurskiftum</ab>
+          </div>
+          <div type="provision-heading">
+            <head rend="italic center">Broyting í skrásettum viðurskiftum</head>
             <div type="section" n="§ 34.">
               <div type="subsection" n="§ 34, stk. 1.">
                 <p rend="bill-text">
@@ -1180,7 +1184,7 @@
                 </p>
               </div>
             </div>
-          </ab>
+          </div>
         </div>
         <div type="chapter" n="Kapittul 6">
           <head rend="bold center">Kæra</head>
@@ -1212,29 +1216,29 @@
               <p rend="bill-text">
                 <label rend="italic">Stk. 2.</label>
                 <seg>Samstundis fara úr gildi:</seg>
-                <list>
-                  <item>
-                    <label>1)</label>
-                    <seg>Bekendtgørelse nr. 1382 af 11. december 2007 for Færøerne om anmeldelse, registrering og offentliggørelse m.v. hos den færøske registreringsmyndighed.</seg>
-                  </item>
-                  <item>
-                    <label>2)</label>
-                    <seg>Kunngerð nr. 97 frá 18. november 2008 um gjøld fyri vinnurekandi grunnar.</seg>
-                  </item>
-                  <item>
-                    <label>3)</label>
-                    <seg>Kunngerð nr. 86 frá 11. juni 2009 um gjøld fyri útflýggjan av upplýsingum og skjølum frá Skráseting Føroya.</seg>
-                  </item>
-                  <item>
-                    <label>4)</label>
-                    <seg>Kunngerð nr. 87 frá 11. juni 2009 um gjøld Skráseting Føroya fyri parta- og smápartafeløg.</seg>
-                  </item>
-                  <item>
-                    <label>5)</label>
-                    <seg>Kunngerð nr. 89 frá 18. juni 2009 um gjøld Skráseting Føroya fyri vinnurekandi virki.</seg>
-                  </item>
-                </list>
               </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg>Bekendtgørelse nr. 1382 af 11. december 2007 for Færøerne om anmeldelse, registrering og offentliggørelse m.v. hos den færøske registreringsmyndighed.</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg>Kunngerð nr. 97 frá 18. november 2008 um gjøld fyri vinnurekandi grunnar.</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg>Kunngerð nr. 86 frá 11. juni 2009 um gjøld fyri útflýggjan av upplýsingum og skjølum frá Skráseting Føroya.</seg>
+                </item>
+                <label>4)</label>
+                <item>
+                  <seg>Kunngerð nr. 87 frá 11. juni 2009 um gjøld Skráseting Føroya fyri parta- og smápartafeløg.</seg>
+                </item>
+                <label>5)</label>
+                <item>
+                  <seg>Kunngerð nr. 89 frá 18. juni 2009 um gjøld Skráseting Føroya fyri vinnurekandi virki.</seg>
+                </item>
+              </list>
             </div>
           </div>
         </div>
@@ -1244,164 +1248,167 @@
       <div>
         <ab rend="bold right">Skjal 1</ab>
         <ab rend="bold center">Takstir</ab>
-        <head rend="bold">Skrásetingargjøld og ársgjøld fyri skrásetingarskyldugar fyritøkur</head>
-        <div n="1.">
-          <head rend="bold">Fyritøkur fevndar av skyldu at rinda skrásetingargjøld</head>
-          <p n="1.1.">
-            <seg>Skráseting hjá Skráseting Føroya viðvíkjandi fylgjandi fyritøkum er álagt gjald:</seg>
-          </p>
-          <list>
-            <item>
-              <label>1)</label>
-              <seg>Parta-, og smápartafeløg, herundir íverksetarafeløg.</seg>
-            </item>
-            <item>
-              <label>2)</label>
-              <seg>Partnarafeløg.</seg>
-            </item>
-            <item>
-              <label>3)</label>
-              <seg>Deildir hjá útlendskum kapitalfeløgum og fyritøkum við avmarkaðari ábyrgd.</seg>
-            </item>
-            <item>
-              <label>4)</label>
-              <seg>Fyritøkur, sum eru fevndar av lóg um ávísar vinnurekandi fyritøkur, tó undantikið íognarfeløg (Í/F) og komandittfeløg (K/F).</seg>
-            </item>
-            <item>
-              <label>5)</label>
-              <seg>Fíggjarligar fyritøkur, sum eru undir eftirliti av Fíggjareftirlitinum ella Tryggingareftirlitinum, ella har virksemið bert kann útinnast sambært loyvi frá Fíggjareftirlitinum ella Tryggingareftirlitinum, og sum ikki eru partafeløg, men skulu skrásetast sambært reglunum um partafeløg:</seg>
-              <list>
-                <item>
-                  <label>a)</label>
-                  <seg>Sparikassar.</seg>
-                </item>
-                <item>
-                  <label>b)</label>
-                  <seg>Íløgufeløg.</seg>
-                </item>
-                <item>
-                  <label>c)</label>
-                  <seg>Tvørgangandi eftirlønargrunnar.</seg>
-                </item>
-                <item>
-                  <label>d)</label>
-                  <seg>Sínámillum tryggingarfeløg undantikið feløg, sum eru fevnd av § 179 í løgtingslóg um tryggingarvirksemi.</seg>
-                </item>
-                <item>
-                  <label>e)</label>
-                  <seg>Firma eftirlønargrunnar.</seg>
-                </item>
-                <item>
-                  <label>f)</label>
-                  <seg>Sparivirki.</seg>
-                </item>
-              </list>
-            </item>
-          </list>
-          <p n="1.2.">
-            <s xml:id="y3ghw43jxa">Fyri skráseting viðvíkjandi omanfyri nevndu fyritøkum skal rindast skrásetingargjald eftir teimum takstum, sum eru ásettir í parti 2.</s>
-          </p>
-        </div>
         <div>
-          <head rend="bold">Takstir</head>
-          <p>
-            <seg>Fyri fyritøkur, nevndar í parti 1.1., skal rindast skrásetingargjald eftir niðanfyri nevndu takstum:</seg>
-          </p>
-          <div n="2.1.">
-            <head rend="bold">Skrásetingargjald</head>
-          </div>
-          <div n="2.2.">
-            <head rend="bold">Eykagjald fyri fráboðan av nýggjum parta-, smáparta- og íverksetarafeløgum</head>
-            <p>
-              <s xml:id="xm4jxzzess">Fyri fráboðan av nýggjum parta-, smáparta- og íverksetarafeløgum verður umframt gjaldið, nevnt í pkt. 2.1., harafturat goldið eitt eyka gjald upp á 4‰ av teknaða partapeninginum, har hetta gjald tó ikki má fara upp um 25.000 kr.</s>
+          <head rend="bold">Skrásetingargjøld og ársgjøld fyri skrásetingarskyldugar fyritøkur</head>
+          <div n="1.">
+            <head rend="bold">Fyritøkur fevndar av skyldu at rinda skrásetingargjøld</head>
+            <p n="1.1.">
+              <seg>Skráseting hjá Skráseting Føroya viðvíkjandi fylgjandi fyritøkum er álagt gjald:</seg>
+            </p>
+            <list>
+              <label>1)</label>
+              <item>
+                <seg>Parta-, og smápartafeløg, herundir íverksetarafeløg.</seg>
+              </item>
+              <label>2)</label>
+              <item>
+                <seg>Partnarafeløg.</seg>
+              </item>
+              <label>3)</label>
+              <item>
+                <seg>Deildir hjá útlendskum kapitalfeløgum og fyritøkum við avmarkaðari ábyrgd.</seg>
+              </item>
+              <label>4)</label>
+              <item>
+                <seg>Fyritøkur, sum eru fevndar av lóg um ávísar vinnurekandi fyritøkur, tó undantikið íognarfeløg (Í/F) og komandittfeløg (K/F).</seg>
+              </item>
+              <label>5)</label>
+              <item>
+                <seg>Fíggjarligar fyritøkur, sum eru undir eftirliti av Fíggjareftirlitinum ella Tryggingareftirlitinum, ella har virksemið bert kann útinnast sambært loyvi frá Fíggjareftirlitinum ella Tryggingareftirlitinum, og sum ikki eru partafeløg, men skulu skrásetast sambært reglunum um partafeløg:</seg>
+                <list>
+                  <label>a)</label>
+                  <item>
+                    <seg>Sparikassar.</seg>
+                  </item>
+                  <label>b)</label>
+                  <item>
+                    <seg>Íløgufeløg.</seg>
+                  </item>
+                  <label>c)</label>
+                  <item>
+                    <seg>Tvørgangandi eftirlønargrunnar.</seg>
+                  </item>
+                  <label>d)</label>
+                  <item>
+                    <seg>Sínámillum tryggingarfeløg undantikið feløg, sum eru fevnd av § 179 í løgtingslóg um tryggingarvirksemi.</seg>
+                  </item>
+                  <label>e)</label>
+                  <item>
+                    <seg>Firma eftirlønargrunnar.</seg>
+                  </item>
+                  <label>f)</label>
+                  <item>
+                    <seg>Sparivirki.</seg>
+                  </item>
+                </list>
+              </item>
+            </list>
+            <p n="1.2.">
+              <s xml:id="y3ghw43jxa">Fyri skráseting viðvíkjandi omanfyri nevndu fyritøkum skal rindast skrásetingargjald eftir teimum takstum, sum eru ásettir í parti 2.</s>
             </p>
           </div>
-          <div n="2.3.">
-            <head rend="bold">Eykagjald fyri fráboðan av nýggjum feløgum, stovnað við samanlegging</head>
+          <div>
+            <head rend="bold">Takstir</head>
             <p>
-              <s xml:id="wo5zgt3pyu">Fyri fráboðan av nýggjum feløgum, stovnað við samanlegging, verður eykagjaldið, sbr. pkt. 2.2., tó goldið av tí upphæddini, sum partapeningur felagsins er meira enn samlaði partapeningurin í teimum báðum samanløgdu feløgunum.</s>
+              <seg>Fyri fyritøkur, nevndar í parti 1.1., skal rindast skrásetingargjald eftir niðanfyri nevndu takstum:</seg>
             </p>
-          </div>
-          <div n="2.4.">
-            <head rend="bold">Eykagjald fyri hækking av partapeningi í parta-, smáparta- og íverksetarafeløgum</head>
-            <p>
-              <s xml:id="kpemfbmgas">Sama gjald, sum nevnt í pkt. 2.2., verður latið fyri fráboðan um hækking av partapeningi í parta-, smáparta- og íverksetarafeløgum.</s>
-              <s xml:id="qvu4qafiks">Fyri samstundis lækking og hækking, verður gjaldið tó bert latið av tí upphædd, ið er útyvir lækkingina.</s>
-              <s xml:id="jh4trivyyn">Gjaldið má heldur ikki í hesum førum fara upp um 25.000 kr.</s>
-            </p>
-          </div>
-          <div n="2.5.">
-            <head rend="bold">Broytingarfráboðan um uppafturtøku av rakstrinum hjá einum parta-, smáparta ella íverksetarafelag</head>
-            <p>
-              <s xml:id="px6xvvvx56">Viðvíkur broytingarfráboðanin uppafturtøku av rakstrinum hjá einum parta-, smáparta- ella íverksetarafelag, verða goldnar 5.000 kr. fyri hvørja fráboðan sær í teimum førum, har Skráseting Føroya hevur heitt á skiftirættin um at avtaka felagið.</s>
-            </p>
-          </div>
-          <div n="2.6.">
-            <head rend="bold">Fráboðan av deildum og virkisdeildum í útlendskum fyritøkum</head>
-            <p>
-              <s xml:id="eu6cwydv6w">Fyri fráboðan av deildum og virkisdeildum í útlendskum fyritøkum, sum hava heimstað uttan fyri Føroyar, verða goldnar 2000 kr.</s>
-            </p>
-          </div>
-          <div n="2.7.">
-            <head rend="bold">Ársgjald fyri feløg</head>
-            <p>
-              <s xml:id="ugi62hr2o2">Fyri innsending og kunngerðing av ársroknskapum v.m. verða goldnar 1200 kr. um árið, fyri smáparta- og íverksetarafeløg tó 700 kr.</s>
-              <s xml:id="ukzsbyqopq">Tað í 1. pkt. nevnda gjald fevnir eisini um fráboðan um broyting av ársroknskaparári, grannskoðaraviðurskiftum, navni ella heimstaði.</s>
-            </p>
-          </div>
-          <div n="2.8.">
-            <head rend="bold">Hjánøvn hjá partafeløgum og smáparta- og íverksetarafeløgum</head>
-            <p>
-              <s xml:id="pe4k7mz4gd">Fyri skráseting av hjánøvnum omanfyri 5 í einum partafelag, einum smáparta- og íverksetarafelag umframt í øðrum fyritøkum, sum fylgja navnareglunum í vinnufelagalógini, skal rindast eitt gjald upp á 1.000 kr. fyri hvørt hjánavn, sbr. § 3, stk. 2 í vinnufelagalógini.</s>
-            </p>
-          </div>
-          <div n="2.9.">
-            <head rend="bold">Fráboðan av vinnurekandi grunnum</head>
-            <p>
-              <s xml:id="fsdndotytm">Fyri fráboðan av vinnurekandi grunnum verða goldnar 1700 kr.</s>
-            </p>
-          </div>
-          <div n="2.10.">
-            <head rend="bold">Ársgjald fyri vinnurekandi grunnar</head>
-            <p>
-              <s xml:id="freadscah7">Fyri vinnurekandi grunnar skal rindast eitt ársgjald upp á 900 kr. og ískoyti, ið er ½ ‰ av eginpeninginum, tó í minsta lagi 300 kr. og í mesta lagi 25.000 kr.</s>
-            </p>
-            <p>
-              <s xml:id="h4ivp3pfa4">Ársgjaldið fyri vinnurekandi grunnar skal rinda fyri móttøku og almannakunngering av ársfrásagnum, umsiting av viðkomandi lóggávu og fyri ikki serliga prísásettar veitingar.</s>
-            </p>
-            <p>
-              <s xml:id="sivvupbuia">Ársgjaldið verður rindað fyri eitt heilt kalendaraár.</s>
-              <s xml:id="cchsg3c5qc">Ársgjaldið verður roknað við grundarlagi í ársfrásøgnini hjá grunninum fyri seinasta roknskaparár.</s>
-              <s xml:id="dgnrhxgwtn">Tað verður rundað niður til næstu heilu krónuupphædd.</s>
-              <s xml:id="mr52laekeg">Ársgjaldið fellur til gjaldingar 5 mánaðir eftir, at eitt roknskaparár er endað.</s>
-            </p>
-          </div>
-          <div n="2.11.">
-            <head rend="bold">Gjaldsfreist</head>
-            <p>
-              <s xml:id="o3hje2hib5">Gjald fellur til gjaldingar tá ið serligt uppkrav er móttikið.</s>
-              <s xml:id="rcf5wdoi7c">Feløg, ið eru undir avtøku, tá ið uppkravið verður sent, skulu ikki gjalda.</s>
-            </p>
-            <p>
-              <s xml:id="e7oq2iv3ay">Um ársgjald ikki verður goldið, verður fyri áminningar álagt gjald á 100 kr.</s>
-            </p>
+            <div n="2.1.">
+              <head rend="bold">Skrásetingargjald</head>
+            </div>
+            <div n="2.2.">
+              <head rend="bold">Eykagjald fyri fráboðan av nýggjum parta-, smáparta- og íverksetarafeløgum</head>
+              <p>
+                <s xml:id="xm4jxzzess">Fyri fráboðan av nýggjum parta-, smáparta- og íverksetarafeløgum verður umframt gjaldið, nevnt í pkt. 2.1., harafturat goldið eitt eyka gjald upp á 4‰ av teknaða partapeninginum, har hetta gjald tó ikki má fara upp um 25.000 kr.</s>
+              </p>
+            </div>
+            <div n="2.3.">
+              <head rend="bold">Eykagjald fyri fráboðan av nýggjum feløgum, stovnað við samanlegging</head>
+              <p>
+                <s xml:id="wo5zgt3pyu">Fyri fráboðan av nýggjum feløgum, stovnað við samanlegging, verður eykagjaldið, sbr. pkt. 2.2., tó goldið av tí upphæddini, sum partapeningur felagsins er meira enn samlaði partapeningurin í teimum báðum samanløgdu feløgunum.</s>
+              </p>
+            </div>
+            <div n="2.4.">
+              <head rend="bold">Eykagjald fyri hækking av partapeningi í parta-, smáparta- og íverksetarafeløgum</head>
+              <p>
+                <s xml:id="kpemfbmgas">Sama gjald, sum nevnt í pkt. 2.2., verður latið fyri fráboðan um hækking av partapeningi í parta-, smáparta- og íverksetarafeløgum.</s>
+                <s xml:id="qvu4qafiks">Fyri samstundis lækking og hækking, verður gjaldið tó bert latið av tí upphædd, ið er útyvir lækkingina.</s>
+                <s xml:id="jh4trivyyn">Gjaldið má heldur ikki í hesum førum fara upp um 25.000 kr.</s>
+              </p>
+            </div>
+            <div n="2.5.">
+              <head rend="bold">Broytingarfráboðan um uppafturtøku av rakstrinum hjá einum parta-, smáparta ella íverksetarafelag</head>
+              <p>
+                <s xml:id="px6xvvvx56">Viðvíkur broytingarfráboðanin uppafturtøku av rakstrinum hjá einum parta-, smáparta- ella íverksetarafelag, verða goldnar 5.000 kr. fyri hvørja fráboðan sær í teimum førum, har Skráseting Føroya hevur heitt á skiftirættin um at avtaka felagið.</s>
+              </p>
+            </div>
+            <div n="2.6.">
+              <head rend="bold">Fráboðan av deildum og virkisdeildum í útlendskum fyritøkum</head>
+              <p>
+                <s xml:id="eu6cwydv6w">Fyri fráboðan av deildum og virkisdeildum í útlendskum fyritøkum, sum hava heimstað uttan fyri Føroyar, verða goldnar 2000 kr.</s>
+              </p>
+            </div>
+            <div n="2.7.">
+              <head rend="bold">Ársgjald fyri feløg</head>
+              <p>
+                <s xml:id="ugi62hr2o2">Fyri innsending og kunngerðing av ársroknskapum v.m. verða goldnar 1200 kr. um árið, fyri smáparta- og íverksetarafeløg tó 700 kr.</s>
+                <s xml:id="ukzsbyqopq">Tað í 1. pkt. nevnda gjald fevnir eisini um fráboðan um broyting av ársroknskaparári, grannskoðaraviðurskiftum, navni ella heimstaði.</s>
+              </p>
+            </div>
+            <div n="2.8.">
+              <head rend="bold">Hjánøvn hjá partafeløgum og smáparta- og íverksetarafeløgum</head>
+              <p>
+                <s xml:id="pe4k7mz4gd">Fyri skráseting av hjánøvnum omanfyri 5 í einum partafelag, einum smáparta- og íverksetarafelag umframt í øðrum fyritøkum, sum fylgja navnareglunum í vinnufelagalógini, skal rindast eitt gjald upp á 1.000 kr. fyri hvørt hjánavn, sbr. § 3, stk. 2 í vinnufelagalógini.</s>
+              </p>
+            </div>
+            <div n="2.9.">
+              <head rend="bold">Fráboðan av vinnurekandi grunnum</head>
+              <p>
+                <s xml:id="fsdndotytm">Fyri fráboðan av vinnurekandi grunnum verða goldnar 1700 kr.</s>
+              </p>
+            </div>
+            <div n="2.10.">
+              <head rend="bold">Ársgjald fyri vinnurekandi grunnar</head>
+              <p>
+                <s xml:id="freadscah7">Fyri vinnurekandi grunnar skal rindast eitt ársgjald upp á 900 kr. og ískoyti, ið er ½ ‰ av eginpeninginum, tó í minsta lagi 300 kr. og í mesta lagi 25.000 kr.</s>
+              </p>
+              <p>
+                <s xml:id="h4ivp3pfa4">Ársgjaldið fyri vinnurekandi grunnar skal rinda fyri móttøku og almannakunngering av ársfrásagnum, umsiting av viðkomandi lóggávu og fyri ikki serliga prísásettar veitingar.</s>
+              </p>
+              <p>
+                <s xml:id="sivvupbuia">Ársgjaldið verður rindað fyri eitt heilt kalendaraár.</s>
+                <s xml:id="cchsg3c5qc">Ársgjaldið verður roknað við grundarlagi í ársfrásøgnini hjá grunninum fyri seinasta roknskaparár.</s>
+                <s xml:id="dgnrhxgwtn">Tað verður rundað niður til næstu heilu krónuupphædd.</s>
+                <s xml:id="mr52laekeg">Ársgjaldið fellur til gjaldingar 5 mánaðir eftir, at eitt roknskaparár er endað.</s>
+              </p>
+            </div>
+            <div n="2.11.">
+              <head rend="bold">Gjaldsfreist</head>
+              <p>
+                <s xml:id="o3hje2hib5">Gjald fellur til gjaldingar tá ið serligt uppkrav er móttikið.</s>
+                <s xml:id="rcf5wdoi7c">Feløg, ið eru undir avtøku, tá ið uppkravið verður sent, skulu ikki gjalda.</s>
+              </p>
+              <p>
+                <s xml:id="e7oq2iv3ay">Um ársgjald ikki verður goldið, verður fyri áminningar álagt gjald á 100 kr.</s>
+              </p>
+            </div>
           </div>
         </div>
       </div>
       <div>
         <ab rend="bold right">Skjal 2</ab>
-        <space type="vertical"/>
-        <head rend="bold">Gjøld fyri veitingar</head>
-        <p>
-          <seg>Fyri váttað avrit av niðanfyri nevndu skjølum er gjaldið:</seg>
-        </p>
-        <!-- TODO: insert table later... -->
-        <p>
-          <s xml:id="om2tfz5rcb">Fyri serstakar váttanir v.m. og fyri allar ella ávísar edv-grundaðar upplýsingar fyri fleiri virkir ella persónar verður goldið eftir rokning.</s>
-        </p>
-        <p>
-          <s xml:id="axsfakropw">Við bílegging av øllum óváttaðum roknskapum í einum roknskaparári verða goldnar 80 kr. fyri hvønn.</s>
-        </p>
+        <div>
+          <head rend="bold">Gjøld fyri veitingar</head>
+          <p>
+            <seg>Fyri váttað avrit av niðanfyri nevndu skjølum er gjaldið:</seg>
+          </p>
+          <!-- TODO: insert table later... -->
+          <p>
+            <s xml:id="om2tfz5rcb">Fyri serstakar váttanir v.m. og fyri allar ella ávísar edv-grundaðar upplýsingar fyri fleiri virkir ella persónar verður goldið eftir rokning.</s>
+          </p>
+          <p>
+            <s xml:id="axsfakropw">Við bílegging av øllum óváttaðum roknskapum í einum roknskaparári verða goldnar 80 kr. fyri hvønn.</s>
+          </p>
+        </div>
       </div>
     </back>
   </text>
