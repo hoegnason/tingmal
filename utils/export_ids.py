@@ -389,12 +389,12 @@ def process_files(relevant_files_path):
 
 
 if __name__ == "__main__":
-    #process_files("/home/rani/Repositories/tingmal-public/coalition-agreements")
-    #process_files("/home/rani/Repositories/tingmal-public/debates")
-    ######### process_files("/home/rani/Repositories/tingmal-public/decisions")
-    #process_files("/home/rani/Repositories/tingmal-public/legislation/2016")
-    #process_files("/home/rani/Repositories/tingmal-public/misc")
-    ## process_files("/home/rani/Repositories/tingmal-public/parliamentary-questions/1998")
-    ##### process_files("/home/rani/Repositories/tingmal-public/misc/local")
+    process_files("/home/rani/Repositories/tingmal-public/coalition-agreements")
+    process_files("/home/rani/Repositories/tingmal-public/debates")
+    process_files("/home/rani/Repositories/tingmal-public/decisions")
+    process_files("/home/rani/Repositories/tingmal-public/legislation")
+    process_files("/home/rani/Repositories/tingmal-public/misc")
+    process_files("/home/rani/Repositories/tingmal-public/parliamentary-questions")
     process_files("/home/rani/Repositories/tingmal-public/proposals")
+    process_files("/home/rani/Repositories/tingmal-public/reports")
     process_stand_off_file("/home/rani/Repositories/tingmal-public/misc/joannes-patursson.xml")
