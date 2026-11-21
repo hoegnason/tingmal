@@ -690,7 +690,7 @@
         <dateline><orgName>Uttanríkis- og mentamálaráðið</orgName>, <date when="2022-02-14">14. februar 2022</date></dateline>
         <space dim="vertical"/>
         <signed rend="center">
-          <persName>
+          <persName ref="https://tingdata.fo/person/d2canfar">
             <hi rend="bold">Jenis av Rana</hi>
             <lb/>
             <roleName>landsstýrismaður</roleName>
@@ -701,8 +701,10 @@
       <div type="section">
         <head rend="bold">Yvirlit yvir fylgiskjøl</head>
         <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Ummæli frá Fíggjarmálaráðnum</item>
-          <item><label>Fylgiskjal 2:</label> Ummæli frá Listafólkasamband Føroya</item>
+          <label>Fylgiskjal 1:</label>
+          <item>Ummæli frá Fíggjarmálaráðnum</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Ummæli frá Listafólkasamband Føroya</item>
         </list>
       </div>
     </body>

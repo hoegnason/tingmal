@@ -801,7 +801,7 @@
         <dateline><orgName>Umhvørvis- og vinnumálaráðið</orgName>, <date when="2022-03-07">tann 7. mars 2022</date></dateline>
         <space dim="vertical"/>
         <signed rend="center">
-          <persName>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">
             <hi rend="bold">Magnus Rasmussen</hi>
             <lb/>
             <roleName>landsstýrismaður</roleName>
@@ -812,8 +812,10 @@
       <div type="section">
         <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
         <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Ummæli frá Vinnuhúsinum</item>
-          <item><label>Fylgiskjal 2:</label> Ummæli frá Landsverk</item>
+          <label>Fylgiskjal 1:</label>
+          <item>Ummæli frá Vinnuhúsinum</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Ummæli frá Landsverk</item>
         </list>
       </div>
     </body>
