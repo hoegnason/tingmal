@@ -44,6 +44,8 @@ tingmal/
 │   ├── section52a_coverage.py    # Compute parliamentary question coverage
 │   ├── detect_gaps.py            # Detect gaps in question numbering
 │   ├── export_ids.py             # Export and manage sentence IDs
+│   ├── export_person_refs.py     # Map person names to tingdata.fo references
+│   ├── person_refs.json          # Name -> person reference mapping (generated)
 │   └── id_utils.py               # Generate unique base32 IDs
 └── sentences.jsonl            # Deduplicated sentence-level dataset (23,664+ sentences)
 ```
@@ -322,6 +324,19 @@ python3 export_ids.py
 - `add_ids_to_file(filepath, used_ids)` - Adds missing IDs
 - `parse_sentences_for_extraction(filepath)` - Extracts sentence text
 - `process_files(path)` - Main processing loop
+
+### `export_person_refs.py`
+Maps person names to their `https://tingdata.fo/person/...` references, using every
+`<persName ref="...">` in `proposals/` and `parliamentary-questions/`:
+
+```bash
+python3 utils/export_person_refs.py
+```
+
+Writes `utils/person_refs.json`, a JSON object `{name: reference}` sorted by name. Every
+spelling that occurs with a reference becomes a key; the role (`<roleName>`) is left out.
+A name that occurs with more than one reference is reported with file and line, and the
+most frequent reference is used - such a conflict is an error in the XML.
 
 ### `id_utils.py`
 ID generation utility (imported by other scripts):
