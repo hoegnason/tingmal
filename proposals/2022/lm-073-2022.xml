@@ -1,0 +1,773 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um broyting í løgtingslóg um loyvisgjald á alivinnu (Broytingar í tøkugjaldinum)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+          </author>
+          <author>
+            <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/55692"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2023-03-07">7. mars 2023</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um loyvisgjald á alivinnu</ab>
+        <ab rend="center">(Broytingar í tøkugjaldinum)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 64 frá 15. mai 2014 um loyvisgjald á alivinnu, sum broytt við løgtingslóg nr. 162 frá 24. desember 2015, løgtingslóg nr. 180 frá 21. desember 2018 og løgtingslóg nr. 159 frá 10. desember 2021, verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label rend="bold">1.</label>
+            <item>
+              <p>
+                <seg>Í § 2 verður aftan á stk. 3 sum nýtt stk. sett:</seg>
+              </p>
+              <q>
+                <p>
+                  <label rend="italic">Stk. 4.</label>
+                  <s>Við átekning í fíggjarlógini til inntøkujáttanina í fíggjarárinum verður ásett, hvør framleiðslukostnaður fyri kilo verður nýttur.</s>
+                  <s>Fyri fíggjarárið 2023 verður framleiðslukostnaður á 39,15 kr. fyri kilo nýttur.</s>
+                </p>
+              </q>
+              <p>
+                <s>Stk. 4-8 verða eftir hetta stk. 5-9.</s>
+              </p>
+            </item>
+            <label rend="bold">2.</label>
+            <item>
+              <p>
+                <seg>§ 2, stk. 4, sum verður stk. 5, verður orðað soleiðis:</seg>
+              </p>
+              <q>
+                <p>
+                  <seg>Gjaldið verður ásett soleiðis:</seg>
+                </p>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <s>Er miðal altjóða marknaðarprísurin lægri enn framleiðslukostnaðurin, er gjaldið 0,5%.</s>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <s>Er miðal altjóða marknaðarprísurin tann sami sum ella upp til 5 kr. hægri enn framleiðslukostnaðurin, er gjaldið 2,5%.</s>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <s>Er miðal altjóða marknaðarprísurin millum 5 kr. og 15 kr. hægri enn framleiðslukostnaðurin, er gjaldið 5%.</s>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <s>Er miðal altjóða marknaðarprísurin millum 15 kr. og 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 7,5%.</s>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <s>Er miðal altjóða marknaðarprísurin meir enn 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 10%.</s>
+                  </item>
+                </list>
+              </q>
+            </item>
+            <label rend="bold">3.</label>
+            <item>
+              <p>
+                <seg>Í § 2, stk. 7, sum verður stk. 8, verður “1. oktober” broytt til: “1. november”.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s>Henda løgtingslóg kemur í gildi 1. juli 2023.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="1.1.">
+          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+          <p>
+            <s xml:lang="fo" cert="high">Viðmerkast kann, at hetta lógaruppskotið tekur støði í einum áður framløgdum lógaruppskoti frá undanfarna landsstýri, løgtingsmál nr. 19/2022.</s>
+            <s xml:lang="fo" cert="high">Tað uppskotið datt burtur vegna løgtingsvalið í desember 2022.</s>
+            <s xml:lang="fo" cert="high">Sambandsflokkurin hevur í hesum uppskotinum lagt dent á at tillaga, leggja afturat og broyta almennu viðmerkingarnar og eisini rættað til tekstin um avleiðingarnar av uppskotinum og serligar viðmerkingar, umframt at broyta gildiskomuna í sjálvum lógartekstinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Orsakirnar til at leggja fram hetta lógaruppskotið eru tvinnar.</s>
+            <s xml:lang="fo" cert="high">Fyri tað fyrsta hevur prísstøðið á altjóða marknaðinum fyri sølu av laksi verið støðugt hækkandi, síðan lógin um loyvisgjald upprunaliga varð sett í gildi.</s>
+            <s xml:lang="fo" cert="high">Tí metir Sambandsflokkurin, at tað er rímiligt, at alivinnan skal gjalda eitt lutfalsliga hægri gjald, tá prísurin á altjóða marknaðinum er óvanliga høgur.</s>
+            <s xml:lang="fo" cert="high">Fyri tað næsta er framleiðslukostnaðurin, sum er grundarlagið undir útrokningini av tøkugjaldinum í alivinnuni, munandi hækkaður seinnu árini.</s>
+            <s xml:lang="fo" cert="high">Tað er týdningarmikið, at framleiðslukostnaðurin leypandi verður lagaður til veruliga kostnaðin.</s>
+            <s xml:lang="fo" cert="high">Um framleiðslukostnaðurin ikki verður tillagaður, kunnu íkoma støður, har alifyritøkur fara at rinda skeivt tøkugjald, sæð í mun til veruliga framleiðslukostnaðin.</s>
+          </p>
+        </div>
+        <div type="section" n="1.2.">
+          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+          <p>
+            <s xml:lang="fo" cert="high">Galdandi lógin á økinum er løgtingslóg nr. 64 frá 15. mai 2014 um loyvisgjald á alivinnu, sum broytt við løgtingslóg nr. 162 frá 24. desember 2015, løgtingslóg nr. 180 frá 21. desember 2018 og løgtingslóg nr. 159 frá 10. desember 2021.</s>
+          </p>
+          <div type="subsection">
+            <head rend="italic">Stutt um lógina</head>
+            <p>
+              <s xml:lang="fo" cert="high">Grundarlagið fyri útrokningini av tøkugjaldinum er altjóða ásetti marknaðarprísurin, sum er skrásettur á “Fish Pool Index”, FPI (einasti altjóða skrásetti laksaprísur).</s>
+              <s xml:lang="fo" cert="high">Útrokningargrundar-lagið er mánaðarliga tøkan av alifiski í kruvdari vekt, faldað við miðal altjóða marknaðar-prísinum í sama mánaði.</s>
+              <s xml:lang="fo" cert="high">Gjaldið verður ásett sum ávíst prosent av avgjaldsgrundarlagnum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Við átekning í løgtingsfíggjarlógini fyri fíggjarárið 2022 er ásett, at mánaðarligi miðal-spotprísurin í evrum fyri kruvdan laks sambært “Fish Pool Index” verður brúktur sum altjóða marknaðarprísur til útrokning av avgjaldsgrundarlagnum undir loyvisgjaldinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Umroknað verður til danskar krónur við at nýta sentralkursin hjá Danmarks Nationalbank.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Loyvisgjaldið á alivinnuna er ikki at meta sum ein skattur, men heldur sum eitt nýtslugjald, sum landsmyndugleikarnir áleggja fyri rættin at gagnnýta føroysku aliøkini.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Meginreglan í tøkugjaldsskipanini er, at jú hægri alifiskaprísurin er, tess hægri er gjaldið:</seg>
+            </p>
+            <list>
+              <item>Er prísurin 36 kr. kilo ella hægri, er gjaldið 5%.</item>
+              <item>Er prísurin millum 32 kr. og 36 kr. kilo, er gjaldið 2,5%.</item>
+              <item>Er prísurin lægri enn 32 kr. kilo, er gjaldið 0,5%.</item>
+            </list>
+            <p>
+              <s xml:lang="fo" cert="high">Alifyritøkur kunnu draga loyvisgjaldið frá skattskyldugu inntøkuni á sama hátt, sum tær kunnu draga frá aðrar rakstrarútreiðslur, sum hava beinleiðis samband við virksemið hjá fyritøkuni.</s>
+              <s xml:lang="fo" cert="medium">Rakstarútreiðslur eru sambært § 31 í skattalógini “.... útreiðslur, sum í árinum ganga til at vinna inntøkur, tryggja tær og halda teimum við ...”</s>
+            </p>
+          </div>
+        </div>
+        <div type="section" n="1.3.">
+          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high">Høvuðsendamálið við lógaruppskotinum er at tillaga lógina um loyvisgjald, soleiðis at ali-fyritøkurnar skulu gjalda lutfalsliga meira, tá laksaprísurin er høgur.</s>
+            <s xml:lang="fo" cert="high">Eisini er endamálið, at framleiðslukostnaðurin verður ásettur einaferð um árið fyri at tryggja, at útrokningin av avgjaldsgrundarlagnum er røtt, og tekur støði í endaligu ársroknskapartølunum hjá alivinnuni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Frameftir verður minstagjaldið á 0,5% einans goldið, tá miðal altjóða marknaðarprísurin er lægri enn framleiðslukostnaðurin.</s>
+            <s xml:lang="fo" cert="high">Er prísurin hægri enn framleiðslukostnaðurin, byrjar skipanin við stigvísum hækkingum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Framleiðslukostnaðurin at nýta fyri 2023, sum byggir á ársroknskapartøl frá 2021, er útroknaður til at vera 39,15 kr. fyri kilo.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Fyri alivinnu og fyri umsitingina av skipanini, er eitt nýtslugjald/ tøkugjald, sum er grundað á ein kendan framleiðslukostað og ein kendan søluprís, ein einføld og gjøgnumskygd skipan at umsita.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Í einum áðurlagda lógaruppskoti frá undanfarna landsstýri, løgtingsmál nr. 19/2022 varð greitt frá í viðmerkingunum, at eftir áheitan frá TAKS varð eisini skotið upp at gera eina tekniska broyting í § 2, stk. 7.</s>
+            <s xml:lang="fo" cert="high">Í § 2, stk. 7 í løgtingslógini um loyvisgjald á alivinnu er ásett, at tøkugjaldið fellur til gjaldingar í fýra gjøldum ávikavist 1. februar, 1. mai, 1. august og 1. oktober við gjaldfreist tann 20. í mánaðinum.</s>
+            <s xml:lang="fo" cert="high">Skotið varð tá upp, at fjórða árliga gjaldið skal fella til gjaldingar 1. november heldur enn 1. oktober.</s>
+            <s xml:lang="fo" cert="high">Uppskotsstillararnir hava eisini tikið hesa broyting við í fyriliggjandi uppskoti.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Longu tá lógin varð samtykt á fyrsta sinni, var ætlanin, at gjaldingin av tøkugjaldinum skuldi gerast pr. ársfjórðing eins og við meirvirðisgjaldinum, t.e. at fjórða gjaldið skuldi falla til gjaldingar 1. november við gjaldfreist tann 20. í mánaðinum.</s>
+            <s xml:lang="fo" cert="high">TAKS og alivinnan virka longu, sum var lógin broytt, og tískil hevur henda tekniska broytingin hvørki fíggjarligar ella umsitingarligar avleiðingar fyri partarnar.</s>
+          </p>
+        </div>
+        <div type="section" n="1.4.">
+          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high">Lógarbroytingin ger, at alifyritøkur skulu gjalda lutfalsliga hægri tøkugjald, tá laksaprísurin er høgur, og samstundis gjalda minni, tá prísurin er lágur.</s>
+            <s xml:lang="fo" cert="high">Harumframt verður framleiðslu-kostnaðurin fastlagdur árliga - forskotin við tveimum árum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Avgjaldsgrundarlagið er tann nøgdin, alifelagið hevur slaktað ein ávísan mánað, faldað við miðal altjóða marknaðarprísinum sama mánað.</s>
+            <s xml:lang="fo" cert="high">Tøkugjaldið verður funnið við at avgjaldsgrundarlagið verður faldað við viðkomandi prosentsatsi, ið er stigvíst hækkandi, alt eftir hvør miðal altjóða marknaðarprísurin er.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Eftir nýggju ásetingunum í lógini, verða gjøldini frameftir hesi:</seg>
+          </p>
+          <list>
+            <item>Er prísurin lægri enn framleiðslukostnaðurin, er gjaldið 0,5%</item>
+            <item>Er prísurin hin sami sum ella 5 kr. hægri enn framleiðslukostnaðurin, er gjaldið 2,5%</item>
+            <item>Er prísurin millum 5 og 15 kr. hægri enn framleiðslukostnaðurin, er gjaldið 5,0%</item>
+            <item>Er prísurin millum 15 og 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 7,5%</item>
+            <item>Er prísurin meir enn 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 10%</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high">Sjá annars yvirlitið í fylgiskjali 1: Útrokningar av tøkugjaldi o.a., sum m.a. vísir samanhang millum eina samlaða framleiðslu upp á 90 tús. tons og ein framleiðslukostnað upp á 39,15 kr. pr. kg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Endamálið við stigvísa gjaldinum í mun til altjóða marknaðarprísin er, at stigini verða ásett við støði í meting av framleiðslukostnaðinum hjá alifyritøkunum, t.e. at tá marknaðarprísurin á laksi nærkast metta framleiðslukostnaðinum, so lækkar prosentvísa gjaldið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Hildið verður fast í grundregluni um at krevja eitt nýtslugjald fyri framíhjárættindi at gagnnýta føroysku aliøkini.</s>
+            <s xml:lang="fo" cert="high">Nýtslugjald verður kravt, uttan mun til, hvussu laksaprísurin háttar sær.</s>
+            <s xml:lang="fo" cert="high">Er laksaprísurin lægri enn framleiðslukostnaðurin, er gjaldið 0,5%.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Mánaðarligi miðalspotprísurin í evrum fyri kruvdan laks sambært “Fish Pool Index” verður framvegis brúktur sum altjóða marknaðarprísur at rokna avgjaldsgrundarlagið undir loyvisgjaldinum.</s>
+            <s xml:lang="fo" cert="high">Umroknað verður framvegis til danskar krónur við at nýta sentralkursin hjá Danmarks Nationalbank.</s>
+          </p>
+        </div>
+        <div type="section" n="1.5.">
+          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+          <p>
+            <s xml:lang="fo" cert="high">Hetta uppskotið hevur ikki verið til hoyringar ella ummælis hjá áhugabólkum í alivinnuni.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+        <div type="section" n="2.1.">
+          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur fíggjarligar avleiðingar fyri land og kommunur.</s>
+          </p>
+          <div type="subsection">
+            <head rend="bold">Talva 1: Tøkugjald fyri árini 2018-2022</head>
+            <table>
+              <row role="label">
+                <cell>Tøkugjald</cell>
+                <cell>2018</cell>
+                <cell>2019</cell>
+                <cell>2020</cell>
+                <cell>2021</cell>
+                <cell>2022M</cell>
+              </row>
+              <row>
+                <cell>Verandi skipan</cell>
+                <cell>136.400.000</cell>
+                <cell>140.000.000</cell>
+                <cell>85.700.000</cell>
+                <cell>196.000.000</cell>
+                <cell>267.798.125</cell>
+              </row>
+            </table>
+            <p>
+              <s xml:lang="fo" cert="high">Í talvu 1 eitt sæst, hvussu nógv landið hevur fingið inn í tøkugjaldi árini 2018-2022 eftir verandi skipan.</s>
+              <s xml:lang="fo" cert="high">Í 2021 vóru prísirnir lutfalsliga lágir, men hóast hetta fekk landið 196 mió. kr. inn í tøkugjaldi.</s>
+              <s xml:lang="fo" cert="high">Hevði nýggja skipanin verið galdandi í 2021, hevði landið fingið umleið 60-65 mió. kr. minni inn í tøkugjaldi.</s>
+              <s xml:lang="fo" cert="high">Orsøkin til hetta er, at framleiðslukostnaðurin er hækkaður munandi, síðani tøkugjaldið seinast í 2018 varð stillað, og at marknaðarprísurin í fleiri vikur í 2021 lá undir framleiðslukostnað.</s>
+              <s xml:lang="fo" cert="high">Fyri hesi tíðarskeið rindaði alivinnan sostatt eitt tøkugjald, hóast raksturin gav undirskot.</s>
+              <s xml:lang="fo" cert="high">Hinvegin, um broytti stigin var galdandi í 2022, har laksaprísirnir hava verið sera høgir, so hevði landskassin fingið umleið 160 mió.kr. eyka inn í tøkugjaldi í 2022.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold underline">Talva 2: Mett tøkugjøld fyri árini 2023-2024</head>
+            <table>
+              <row role="label">
+                <cell>Tøkugjald</cell>
+                <cell>2022M</cell>
+                <cell>2023M</cell>
+                <cell>2024M</cell>
+              </row>
+              <row>
+                <cell>Verandi skipan</cell>
+                <cell>267.798.125</cell>
+                <cell>255.789.514</cell>
+                <cell>240.799.795</cell>
+              </row>
+              <row>
+                <cell>Nýggja skipanin</cell>
+                <cell>428.137.881</cell>
+                <cell>330.490.384</cell>
+                <cell>268.117.555</cell>
+              </row>
+              <row>
+                <cell>Munur</cell>
+                <cell>160.339.756</cell>
+                <cell>74.700.870</cell>
+                <cell>27.317.760</cell>
+              </row>
+            </table>
+            <p>
+              <s xml:lang="fo" cert="high">Talva 2 vísir m.a. mettar árligar inntøkur frá tøkugjaldinum fyri tíðarskeiðið 2022-2024.</s>
+              <s xml:lang="fo" cert="high">Fyri at kunna gera árligar samanberingar, verður ikki tikið hædd fyri, at lógin kemur í gildi 2023.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Sum sagt, so tryggjar nýggja skipanin, at alifyritøkur skulu gjalda lutfalsliga hægri tøkugjald, tá laksaprísurin er høgur, og samstundis gjalda minni, tá prísurin er lágur.</s>
+              <s xml:lang="fo" cert="high">Í talvu 2 sæst, hvussu nógv landið væntar í meirinntøku av nýggju skipanini árini 2023 og 2024.</s>
+              <s xml:lang="fo" cert="high">Metingin omanfyri tekur støði í forward prísinum á Fish Pool fyri 2022, 2023 og 2024.</s>
+              <s xml:lang="fo" cert="high">Samlaða tøkan í tonsum í 2022 er mett at vera 10% lægri enn í 2021, meðan tøkan í 2023 og 2024 verður mett at hækka 5% hvørt árið.</s>
+            </p>
+            <div type="sub-subsection">
+              <head rend="italic">Avleiðing fyri tøkugjaldið</head>
+              <p>
+                <s xml:lang="fo" cert="high">Eftir verandi skipan hevði landið fingið 255,8 mió. kr. í tøkugjaldi í 2023.</s>
+                <s xml:lang="fo" cert="high">Eftir nýggju skipanini fær landið 292,8 mió. kr. í tøkugjaldi í 2023.</s>
+                <s xml:lang="fo" cert="high">Metingin er sostatt, at landskassin fær 37 mió. kr. í øktari inntøku sum avleiðing av lógaruppskotinum, grundað á, at lógaruppskotið kemur í gildi 1. juli 2023.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Avleiðing fyri partafelagsskattin</head>
+              <p>
+                <s xml:lang="fo" cert="high">Tøkugjaldið er at meta sum ein rakstrarkostnaður hjá alifyritøkunum, og skal tí dragast frá í skattskyldugu inntøkuni sambært skattalógini.</s>
+                <s xml:lang="fo" cert="high">Økta tøkugjaldið ger, at úrslitini hjá alifyritøkunum minka og harvið rinda hesi minni í partafelagsskatti.</s>
+                <s xml:lang="fo" cert="high">Partafelagsskatturin er í løtuni 18%.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Kommunurnar fáa 30% av partafelagsskattinum og landið fær 70%, so hetta ávirkar eisini kommunurnar.</s>
+                <s xml:lang="fo" cert="high">Taka vit t.d. árið 2023 frá 1. juli, har metta meirinntøkan, sum avleiðing av nýggju skipanini, er 37 mió. kr., so minkar partafelagsskatturin við umleið 6,6 mió. kr.</s>
+                <s xml:lang="fo" cert="high">Netto eru sostatt umleið 30,4 mió. kr. eftir til almennu kassarnar.</s>
+                <s xml:lang="fo" cert="high">Partafelagsskatturin verður tó inngoldin árið eftir, at ársúrslitið fyriliggur, í hesum førinum í 2024.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Avleiðing fyri skatt á vinningsbýti</head>
+              <p>
+                <s xml:lang="fo" cert="high">Eitt økt tøkugjald merkir, alt annað líka, at minni verður at luta út til partaeigararnar, og tí minkar skatturin av vinningsbýti eisini.</s>
+                <s xml:lang="fo" cert="high">Í miðal fær landið 7,4% av rakstrarúrslitinum inn í vinningsbýtisskatti.</s>
+                <s xml:lang="fo" cert="high">Hetta merkir, at um vit økja rakstrarkostnaðin hjá alivinnuni við einum øktum tøkugjaldi, so missa vit 7,4% av hesi øktu inntøkuni sum ein lækkaðan vinningsbýtisskatt.</s>
+                <s xml:lang="fo" cert="high">Hetta svarar til á leið 5,4 mió. kr. árliga.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Samlaða avleiðingin fyri almennu kassarnar</head>
+              <p>
+                <s xml:lang="fo" cert="high">Um vit rokna við at fáa 27,3 mió. kr. eyka í tøkugjaldi næsta ár, 2024, so missa vit 4,9 mió. kr. í partafelagsskatti og 2 mió. kr. í vinningsbýtisskatti.</s>
+                <s xml:lang="fo" cert="high">Økta nettoinntøkan til almennu kassarnar verður sostatt 20,4 mió. kr.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Tað hevur týdning, at tær fíggjarligu avleiðingarnar, sum eitt hægri tøkugjøld hevur á kommunukassarnar og harvið lægri inntøkur frá partafelagskatti, verða kompenseraðar og peningur fluttur frá landinum til tær kommunur, sum hava inntøkur frá alifyritøkum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div type="section" n="2.2.">
+          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki umsitingarligar avleiðingar fyri land og kommunur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.3.">
+          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+          <p>
+            <s xml:lang="fo" cert="high">Føroysku alifyritøkurnar verða ávirkaðar av uppskotinum.</s>
+            <s xml:lang="fo" cert="high">Fyri alivinnuna hevur uppskotið við sær, at tøkugjaldið í 2023 væntandi økist við umleið 37 mió. kr. - grundað á, at lógin fær gildi 1. juli 2023.</s>
+            <s xml:lang="fo" cert="high">Hetta merkir, at rakstrarkostnaðurin hjá føroysku alifyritøkunum hækkar umleið 37 mió. kr.</s>
+            <s xml:lang="fo" cert="high">Økti rakstrarkostnaðurin merkir, at alifyritøkurnar, alt annað líka, rinda lutfalsliga minni í partafelagsskatti og rinda lutfalsliga minni út í vinningsbýti.</s>
+          </p>
+        </div>
+        <div type="section" n="2.4.">
+          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki avleiðingar fyri umhvørvið.</s>
+          </p>
+        </div>
+        <div type="section" n="2.5.">
+          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur fíggjarligar avleiðingar fyri nøkur øki í landinum.</s>
+            <s xml:lang="fo" cert="high">Tær kommunur, sum í dag fáa partafelagsskatt, sum stavar frá alifyritøkunum, fara at fáa eitt provenutap.</s>
+          </p>
+        </div>
+        <div type="section" n="2.6.">
+          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+          </p>
+        </div>
+        <div type="section" n="2.7.">
+          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið sampakkar við millumtjóðasáttmálar á økinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.8.">
+          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið samsvarar við tvørgangandi millumtjóðasáttmálar, sum eru viðkomandi fyri upp-skotið.</s>
+          </p>
+        </div>
+        <div type="section" n="2.9.">
+          <head rend="bold"><label>2.9.</label> Markaforðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið elvir ikki til markaforðingar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.10.">
+          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki ásetingar um revsing, panting og sektir og ger ikki onnur størri inntriv í rættindini hjá fólki.</s>
+          </p>
+        </div>
+        <div type="section" n="2.11.">
+          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high">Tað eru ikki ásetingar um skattir og avgjøld í uppskotinum, sbr. pkt. 2.12 niðanfyri.</s>
+          </p>
+        </div>
+        <div type="section" n="2.12.">
+          <head rend="bold"><label>2.12.</label> Gjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high">Loyvisgjaldið á alivinnuna er ikki at meta sum ein skattur, men heldur sum eitt nýtslugjald, sum landsmyndugleikarnir áleggja fyri rættin at gagnnýta føroysku aliøkini.</s>
+          </p>
+        </div>
+        <div type="section" n="2.13.">
+          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið áleggur ikki likamligum ella løgfrøðiligum persónum skyldur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.14.">
+          <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið leggur ikki heimildir til landsstýrismannin, ein stovn undir landinum ella til kommunur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.15.">
+          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
+          </p>
+        </div>
+        <div type="section" n="2.16.">
+          <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+          <p>
+            <s xml:lang="fo" cert="high">Uppskotið hevur ikki aðrar avleiðingar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.17.">
+          <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið ella landsmyndugleikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss ella øki í landinum</cell>
+              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Ja</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Sosialar avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+        <div type="section" n="3.1.">
+          <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
+          <div type="subsection">
+            <head rend="bold">Til § 1</head>
+            <p>
+              <s xml:lang="fo" cert="high">Avgjaldsgrundarlagið verður framvegis roknað sum tann nøgdin, alifelagið hevur slaktað í kruvdari vekt, faldað við miðal altjóða marknaðarprísinum sama mánað.</s>
+              <s xml:lang="fo" cert="high">Hetta er eins og í galdandi lóg.</s>
+              <s xml:lang="fo" cert="high">Mánaðarligi miðalspotprísurin í evrum fyri kruvdan laks sambært Fish Pool Index verður framvegis brúktur sum altjóða marknaðarprísur at rokna avgjaldsgrundarlagið undir loyvisgjaldinum.</s>
+              <s xml:lang="fo" cert="high">Hetta er sama skipan, sum eftir galdandi lóg.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Framleiðslukostnaðurin fyri kilo verður útroknaður árliga.</s>
+              <s xml:lang="fo" cert="high">Hetta verður gjørt við støði í almennu roknskapunum hjá alifyritøkunum.</s>
+              <s xml:lang="fo" cert="high">Tað eru ársroknskapirnir í undanfarna ári, sum verða nýttir í hesum høpi.</s>
+              <s xml:lang="fo" cert="high">Sostatt eru tað roknskapirnir fyri 2021, ið verða nýttir, tá framleiðslukostnaðurin skal ásetast fyri 2023.</s>
+              <s xml:lang="fo" cert="high">Framleiðslukostnaðurin fyri 2023, sum byggir á roknskapartøl frá 2021, er roknaður til at vera 39,15 kr. fyri kilo.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Hátturin, ið verður nýttur til at finna framleiðslukostnaðin, er hesin:</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">Framleiðslukostnaður</hi> =</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">+</hi>Kostnaðir til rávørur og hjálpartilfar</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">+</hi>Goymslubroytingar</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">+</hi>Aðrir uttanhýsis kostnaðir</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">+</hi>Starvsfólkakostnaðir</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">+</hi>Av- og niðurskrivingarkostnaðir</seg>
+            </p>
+            <p>
+              <seg xml:lang="fo"><hi rend="bold">÷</hi>Tøkugjaldið til landskassan.</seg>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Kostnaðir til rávørur og hjálpartilfar:</hi> Kostnaðir til rávørur og hjálpartilfar eru sum oftast uppgivnir í rakstrarroknskapinum sum ein serstakur postur.</s>
+              <s xml:lang="fo" cert="high">Tó upplýsa summar fyritøkur einans aðrar uttanhýsis kostnaðir í einum bruttoposti, har kostnaðir til rávørur og hjálpartilfar eru innroknaðir.</s>
+              <s xml:lang="fo" cert="high">Í slíkum føri eru tað einans aðrir uttanhýsis kostnaðir, sum verða nýttir í útrokningini.</s>
+              <s xml:lang="fo" cert="high">Tað er rakstarroknskapurin í ársfrásøgnini, sum skal nýtast í útrokningini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Goymslubroytingar:</hi> Her er talan um goymslubroytingar av liðugvørum og vørum í gerð.</s>
+              <s xml:lang="fo" cert="high">Virðið á goymslubroytingunum er tað í rakstrarroknskapinum uppgivna virðið.</s>
+              <s xml:lang="fo" cert="high">Tað er rakstrarroknskapurin í ársfrásøgnini, sum skal nýtast í útrokningini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Aðrir uttanhýsis kostnaðir:</hi> Aðrir uttanhýsis kostnaðir eru uppgivnir í rakstrarroknskapinum.</s>
+              <s xml:lang="fo" cert="high">Summar fyritøkur uppgeva aðrar uttanhýsis kostnaðir í einum bruttoposti, sum eisini umfatar kostnaðir til rávørur og hjálpartilfar.</s>
+              <s xml:lang="fo" cert="high">Aðrar fyritøkur skilja ímillum aðrar uttanhýsis kostnaðir og kostnaðir til rávørur og hjálpartilfar.</s>
+              <s xml:lang="fo" cert="high">Fyri útrokningina er tað umráðandi, at bæði aðrir uttanhýsis kostnaðir og kostnaðir til rávørur og hjálpartilfar verða tiknir við.</s>
+              <s xml:lang="fo" cert="high">Tað er rakstrarroknskapurin í ársfrásøgnini, sum skal nýtast í útrokningini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Starvsfólkakostnaðir:</hi> Starvsfólkakostnaðir eru teir, ið eru uppgivnir í rakstrarroknskapinum.</s>
+              <s xml:lang="fo" cert="high">Tað er rakstrarroknskapurin í ársfrásøgnini, sum skal nýtast í útrokningini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Av- og niðurskrivingar:</hi> Tað eru av- og niðurskrivingarnar í rakstrarroknskapinum, sum skulu nýtast.</s>
+              <s xml:lang="fo" cert="high">Í hesum sambandi er tað rakstrarroknskapurin í ársfrásøgnini, sum skal nýtast til útrokningina.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high"><hi rend="italic">Tøkugjaldið til landskassan:</hi> Hjá alifyritøkunum er tøkugjaldið ein kostnaður, sum verður skrásettur í rakstrarroknskapinum, undir aðrir uttanhýsis kostnaðir.</s>
+              <s xml:lang="fo" cert="high">Tøkugjaldið er ikki at meta sum ein framleiðslukostnaður og verður tí trekt frá í útrokningini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Framleiðslukostnaðurin fyri kilo er samlaði framleiðslukostnaðurin / tøkan í kruvdari vekt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Hetta roknistykkið verður gjørt fyri alipartin av alifyritøkunum í Føroyum.</s>
+              <s xml:lang="fo" cert="high">Eru tað alifyritøkur, sum eisini hava annað virksemi, t.d. fóðurframleiðslu, fiskavirking á landi, o.s.fr., skal hetta ikki takast við, tá framleiðslukostnaðurin verður útroknaður.</s>
+              <s xml:lang="fo" cert="high">Tað eru einans roknskapartølini frá sjálvum alivirkseminum, sum verða nýtt í hesum høpi.</s>
+              <s xml:lang="fo" cert="high">Hesi eru at finna í ársroknskapunum hjá føroysku alifyritøkunum.</s>
+            </p>
+            <table>
+              <row role="label">
+                <cell>Alifyritøkur tilsamans</cell>
+                <cell>2016</cell>
+                <cell>2017</cell>
+                <cell>2018</cell>
+                <cell>2019</cell>
+                <cell>2020</cell>
+                <cell>2021</cell>
+              </row>
+              <row>
+                <cell>Framleiðslukostnaður u. starvsfólk og tøkugjald</cell>
+                <cell>1.953.073</cell>
+                <cell>1.996.778</cell>
+                <cell>1.994.379</cell>
+                <cell>2.384.152</cell>
+                <cell>2.267.735</cell>
+                <cell>3.102.783</cell>
+              </row>
+              <row>
+                <cell>Starvsfólkakostnaður</cell>
+                <cell>76.463</cell>
+                <cell>91.717</cell>
+                <cell>103.739</cell>
+                <cell>118.999</cell>
+                <cell>137.397</cell>
+                <cell>166.667</cell>
+              </row>
+              <row>
+                <cell>Avskrivingar</cell>
+                <cell>139.874</cell>
+                <cell>199.409</cell>
+                <cell>242.320</cell>
+                <cell>336.492</cell>
+                <cell>368.693</cell>
+                <cell>442.518</cell>
+              </row>
+              <row>
+                <cell>Framleiðslukostnaður tilsamans</cell>
+                <cell>2.169.410</cell>
+                <cell>2.287.904</cell>
+                <cell>2.340.438</cell>
+                <cell>2.839.643</cell>
+                <cell>2.773.825</cell>
+                <cell>3.711.968</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>Tøka, kruvd vekt</cell>
+                <cell>68.271</cell>
+                <cell>71.172</cell>
+                <cell>64.732</cell>
+                <cell>77.863</cell>
+                <cell>72.918</cell>
+                <cell>94.823</cell>
+              </row>
+              <row>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+                <cell/>
+              </row>
+              <row>
+                <cell>Samlaður kostnaður/kg.</cell>
+                <cell>31,78</cell>
+                <cell>32,15</cell>
+                <cell>36,16</cell>
+                <cell>36,47</cell>
+                <cell>38,04</cell>
+                <cell>39,15</cell>
+              </row>
+            </table>
+            <p>
+              <s xml:lang="fo" cert="high">Uppskotið broytir lógina soleiðis, at alifyritøkurnar skulu gjalda lutfalsliga meira, tá laksaprísirnir eru høgir.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high">Avgjaldsgrundarlagið er tann nøgdin, alifelagið hevur slaktað ein ávísan mánað, faldað við miðal altjóða marknaðarprísinum sama mánað.</s>
+              <s xml:lang="fo" cert="high">Tøkugjaldið verður funnið við, at avgjaldsgrundarlagið verður faldað við viðkomandi prosentsatsi, ið er stigvíst hækkandi, alt eftir hvør miðal altjóða marknaðarprísurin er.</s>
+            </p>
+            <div type="sub-subsection">
+              <head rend="italic">Gamla skipanin - galdandi lóg</head>
+              <p>
+                <s xml:lang="fo" cert="high">Er prísurin 36 kr. kilo ella hægri, er gjaldið 5%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin millum 32 kr. og 36 kr. kilo, er gjaldið 2,5%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin lægri enn 32 kr. kilo, er gjaldið 0,5%.</s>
+              </p>
+            </div>
+            <div type="sub-subsection">
+              <head rend="italic">Nýggja skipanin - lógaruppskotið</head>
+              <p>
+                <s xml:lang="fo" cert="high">Er prísurin meir enn 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 10%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin millum 15 og 30 kr. hægri enn framleiðslukostnaðurin, er gjaldið 7,5%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin millum 5 og 15 kr. hægri enn framleiðslukostnaðurin, er gjaldið 5,0%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin hin sami sum ella 5 kr. hægri enn framleiðslukostnaður, er gjaldið 2,5%.</s>
+                <s xml:lang="fo" cert="high">Er prísurin lægri enn framleiðslukostnaðurin, er gjaldið 0,5%.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Í § 2, stk. 7 í løgtingslógini um loyvisgjald á alivinnu er ásett, at tøkugjaldið fellur til gjaldingar í 4 gjøldum ávikavist 1. februar, 1. mai, 1. august og 1. oktober við gjaldfreist tann 20. í mánaðinum.</s>
+                <s xml:lang="fo" cert="high">Lógarbroytingin ger, at fjórða árliga gjaldið skal fella til gjaldingar 1. november heldur enn 1. oktober.</s>
+              </p>
+              <p>
+                <s xml:lang="fo" cert="high">Longu tá lógin varð samtykt á fyrsta sinni, var ætlanin, at gjaldingin av tøkugjaldinum skuldi gerast pr. ársfjórðing eins og við meirvirðisgjaldinum, t.e. at fjórða gjaldið skuldi fella til gjaldingar 1. november við gjaldfreist tann 20. í mánaðinum.</s>
+              </p>
+            </div>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Til § 2</head>
+            <p>
+              <s xml:lang="fo" cert="high">Eftir uppskotinum skal lógin fáa gildi 1. juli 2023.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2023-03-07">7. mars 2023</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName ref="https://tingdata.fo/person/yt2jgtfq">Bárður á Steig Nielsen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/xrtgvc5v">Eyðdis Hartmann Niclasen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/oiw7eayq">Magnus Rasmussen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/iwlhy6tm">Erhard Joensen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/zs6x6ggd">Helgi Abrahamsen</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/axgzg3wm">Johan Dahl</persName>
+        </signed>
+        <signed>
+          <persName ref="https://tingdata.fo/person/c5qwuztj">Kaj Leo Holm Johannesen</persName>
+        </signed>
+      </div>
+      <div type="section">
+        <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
+        <list rend="simple list-of-appendices">
+          <label>Fylgiskjal 1:</label>
+          <item>Útrokningar av tøkugjaldi o.a.</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
