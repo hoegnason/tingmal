@@ -45,6 +45,7 @@ tingmal/
 │   ├── detect_gaps.py            # Detect gaps in question numbering
 │   ├── export_ids.py             # Export and manage sentence IDs
 │   ├── export_person_refs.py     # Map person names to tingdata.fo references
+│   ├── add_person_refs.py        # Add person references to new files from the mapping
 │   ├── person_refs.json          # Name -> person reference mapping (generated)
 │   └── id_utils.py               # Generate unique base32 IDs
 └── sentences.jsonl            # Deduplicated sentence-level dataset (23,664+ sentences)
@@ -337,6 +338,26 @@ Writes `utils/person_refs.json`, a JSON object `{name: reference}` sorted by nam
 spelling that occurs with a reference becomes a key; the role (`<roleName>`) is left out.
 A name that occurs with more than one reference is reported with file and line, and the
 most frequent reference is used - such a conflict is an error in the XML.
+
+### `add_person_refs.py`
+Adds person references to `<persName>` elements, looking each name up in
+`utils/person_refs.json`:
+
+```bash
+# show what would change
+python3 utils/add_person_refs.py --signatures proposals/2022/lm-029-2022.xml
+
+# change the files
+python3 utils/add_person_refs.py --signatures --write proposals/2022/lm-029-2022.xml
+```
+
+- Fills `<persName ref="">` where the reference is empty.
+- With `--signatures`, also adds a reference to a `<persName>` without a `ref` attribute
+  directly inside `<signed>`.
+- Takes files or folders. A reference that is already filled in is never changed, and
+  names that are not in the mapping are left as they are and listed.
+- Only the `<persName>` start tags are rewritten; the rest of the file stays byte for byte
+  the same. Nothing is written without `--write`.
 
 ### `id_utils.py`
 ID generation utility (imported by other scripts):
