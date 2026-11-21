@@ -12,7 +12,6 @@
           <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
           <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
         </availability>
-        <date when="1970-01-01"/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="parliamentary_document">
@@ -2683,7 +2682,7 @@
         <dateline><orgName>Almanna- og mentamálaráðið</orgName>, <date when="2023-03-07">7. mars 2023</date></dateline>
         <space dim="vertical"/>
         <signed rend="center">
-          <persName>
+          <persName ref="https://tingdata.fo/person/qeyobdp7">
             <hi rend="bold">Sirið Stenberg</hi>
             <lb/>
             <roleName>landsstýrismaður</roleName>
@@ -2694,16 +2693,26 @@
       <div type="section">
         <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
         <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Bókasøvn ein mannarættur. Álit um dagføring av bókasavnslógini.</item>
-          <item><label>Fylgiskjal 2:</label> Viðmerkingar frá Kommunufelagnum</item>
-          <item><label>Fylgiskjal 3:</label> Viðmerkingar frá Undirvísingarstýrinum</item>
-          <item><label>Fylgiskjal 4:</label> Viðmerkingar frá Føroya Lærarafelag</item>
-          <item><label>Fylgiskjal 5:</label> Viðmerkingar frá Yrkisfelagnum Miðnám</item>
-          <item><label>Fylgiskjal 6:</label> Viðmerkingar frá Miðnámi á Kambsdali</item>
-          <item><label>Fylgiskjal 7:</label> Viðmerkingar frá Fjølriti</item>
-          <item><label>Fylgiskjal 8:</label> Viðmerkingar frá Rithøvundafelagi Føroya</item>
-          <item><label>Fylgiskjal 9:</label> Viðmerkingar frá Arnbirni Ó. Dalsgarð</item>
-          <item><label>Fylgiskjal 10:</label> Viðmerkingar frá Martini Næs</item>
+          <label>Fylgiskjal 1:</label>
+          <item>Bókasøvn ein mannarættur. Álit um dagføring av bókasavnslógini.</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Viðmerkingar frá Kommunufelagnum</item>
+          <label>Fylgiskjal 3:</label>
+          <item>Viðmerkingar frá Undirvísingarstýrinum</item>
+          <label>Fylgiskjal 4:</label>
+          <item>Viðmerkingar frá Føroya Lærarafelag</item>
+          <label>Fylgiskjal 5:</label>
+          <item>Viðmerkingar frá Yrkisfelagnum Miðnám</item>
+          <label>Fylgiskjal 6:</label>
+          <item>Viðmerkingar frá Miðnámi á Kambsdali</item>
+          <label>Fylgiskjal 7:</label>
+          <item>Viðmerkingar frá Fjølriti</item>
+          <label>Fylgiskjal 8:</label>
+          <item>Viðmerkingar frá Rithøvundafelagi Føroya</item>
+          <label>Fylgiskjal 9:</label>
+          <item>Viðmerkingar frá Arnbirni Ó. Dalsgarð</item>
+          <label>Fylgiskjal 10:</label>
+          <item>Viðmerkingar frá Martini Næs</item>
         </list>
       </div>
     </body>

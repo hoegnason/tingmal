@@ -409,7 +409,7 @@
         <dateline><orgName>Heilsumálaráðið</orgName>, <date when="2023-03-07">7. mars 2023</date></dateline>
         <space dim="vertical"/>
         <signed rend="center">
-          <persName>
+          <persName ref="https://tingdata.fo/person/t2bkdx7d">
             <hi rend="bold">Margit Stórá</hi>
             <lb/>
             <roleName>landsstýrismaður</roleName>
@@ -420,8 +420,10 @@
       <div type="section">
         <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
         <list rend="simple list-of-appendices">
-          <item><label>Fylgiskjal 1:</label> Kostnaðarmeting</item>
-          <item><label>Fylgiskjal 2:</label> Prosjekt</item>
+          <label>Fylgiskjal 1:</label>
+          <item>Kostnaðarmeting</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Prosjekt</item>
         </list>
       </div>
     </body>
