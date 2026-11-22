@@ -1,0 +1,1079 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um broyting í løgtingslóg um toll (Atgongd til ferðafólkalistar, tillaging til verandi mannagongdir, bygnaðin á TAKS og umsiting av tolløkinum, reglur um innheinting og panting, laga tollsatsir til handilssáttmálan millum Føroyar og ES og millum Føroyar og Stóra Bretland o.a.)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>landsstýrismaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/45988"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2021-02-11">11.02.2021</date>
+          <idno type="case-number">20/00427</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Dagfesting:</cell>
+          <cell rend="meta-cell">11.02.2021</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Mál nr.:</cell>
+          <cell rend="meta-cell">20/00427</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Málsviðgjørt:</cell>
+          <cell rend="meta-cell">TM</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Eftirkannað:</cell>
+          <cell rend="meta-cell">19.11.2020</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um toll</ab>
+        <ab rend="center">(Atgongd til ferðafólkalistar, tillaging til verandi mannagongdir, bygnaðin á TAKS og</ab>
+        <ab rend="center">umsiting av tolløkinum, reglur um innheinting og panting, laga tollsatsir til handilssáttmálan</ab>
+        <ab rend="center">millum Føroyar og ES og millum Føroyar og Stóra Bretland o.a.)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <!-- TODO: add notmative text later! -->
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="1.1.">
+          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h2qxgo2atw">Løgtingslóg nr. 121 frá 23. desember 1991 (vanliga nevnd tolllógin) varð seinast broytt við § 49 í løgtingslóg nr. 91 frá 7. juni 2020, sum er ein fylgilóg til nýggju rættargangslógina, sum kom í gildi 1. januar 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="tbh2yhhtqp">Innihaldsliga varð tolllógin seinast broytt við løgtingslóg nr. 33 frá 30. apríl 2011.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nvwinfw5wc">TAKS hevur gjørt Fíggjarmálaráðið varugt við, at tørvur er á at dagføra og broyta nakrar av ásetingunum í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="rr34aukhsr">Talan er um ásetingar, sum ikki eru tíðarhóskandi og sum ikki samsvara við galdandi mannagongdir og umsitingina av tolllógini í dag.</s>
+            <s xml:lang="fo" cert="high" xml:id="trxlakllzz">Talan er eisini um at skipa atgongdina hjá tollvaldinum til ferðafólkalistar hjá flutningsfeløgum við kunngerð.</s>
+            <s xml:lang="fo" cert="high" xml:id="plsjm7r3gc">Harafturat verður skotið upp at gera nakrar tøkniligar dagføringar av tolllógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fcvdnjp662">Ein onnur broyting er, at tollsatsirnir (toll- og vøruskráin), sum higartil hava verið lýstir í løgtingslóg fyri seg (í løgtingslógini um tollsatsir), verða lýstir sum skjal í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="ezmotuzffb">Toll- og vøruskráin er skjalið, har øll vørunummur, tollur og onnur avgjøld á vørum, eru lýst.</s>
+            <s xml:lang="fo" cert="high" xml:id="u3ifeplh5o">Broytingin hevur við sær, at løgtingslógin um tollsatsir verður strikað og at toll- og vøruskráin í staðin verður lýst sum skjal í tolllógini.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Nakrar av týdningarmestu broytingunum í uppskotinum eru hesar:</seg>
+          </p>
+          <list>
+            <!-- TODO: extract later! -->
+            <item>Atgongdin hjá tollvaldinum til ferðafólkalistar hjá flutningsfeløgum verður skipað við kunngerð</item>
+            <item>Toll- og vøruskráin verður lýst sum skjal í tolllógini, og løgtingslógin um tollsatsir fer úr gildi</item>
+            <item>Tollsatsirnir verða lagaðir til broytta handilssáttmálan millum Føroyar og ES og til handilssáttmálan millum Føroyar og Stóra Bretland</item>
+            <item>Tollvaldið kann eftir uppskotinum krevja, at skip, sum sigla í føroyska tolløkinum, leggja at bryggju, tá tollvaldið ætlar at kanna skipið</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="on42wg5kws">Aftrat hesum dømunum omanfyri verða gjørdar fleiri aðrar broytingar, harav fleiri eru tøkniligar dagføringar og fylgibroytingar av øðrum broytingum.</s>
+          </p>
+        </div>
+        <div type="section" n="1.2.">
+          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="aoyh3gyft3">Galdandi lóggáva er, eins og greitt frá omanfyri, tolllógin, sum innihaldsliga seinast varð broytt í 2011.</s>
+            <s xml:lang="fo" cert="high" xml:id="gbcamp7vgz">Rættarstøðan í galdandi tolllóg, tá ið umræður tær ymisku broytingarnar, sum skotið verður upp at gera, er lýst í brotinum 3.1 viðmerkingar til ta einstøku broytingina.</s>
+          </p>
+        </div>
+        <div type="section" n="1.3.">
+          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a6owvio5bh">Endamálið við uppskotinum er at dagføra og at broyta nakrar ásetingar í tolllógini, sum ikki samsvara við galdandi mannagongdir, bygnaðin á TAKS og við umsitingina av tolllógini og tolløkinum í dag.</s>
+            <s xml:lang="fo" cert="high" xml:id="mcxyfudkxc">Nakrar av broytingunum hava til endamáls at styrkja um amboðini hjá TAKS at hava eftirlit við innflutningi av rúsevnum og líknandi, harundir at skipa atgongdina hjá tollvaldinum til ferðafólkalistar hjá flutningsfeløgum við kunngerð.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xanodzpgnl">Eitt endamál er eisini, at tollsatsirnir (toll- og vøruskráin), sum higartil hava verið lýstir í løgtingslóg fyri seg (í løgtingslógini um tollsatsir), verða lýstir sum skjal í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="phsuhpsacb">Toll- og vøruskráin er skjalið, har øll vørunummur, tollur og onnur avgjøld á vørum, eru lýst.</s>
+            <s xml:lang="fo" cert="high" xml:id="xjhqpesbk6">Mett verður, at greiðast er, at toll- og vøruskráin er lýst sum skjal í tolllógini heldur enn at vera í sjálvstøðugari lóg (løgtingslóg um tollsatsir).</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sz5jkct3dh">Harafturat er handilssáttmálin millum Føroyar og ES broyttur soleiðis, at seyða- ella geitakjøt og ávísar framleiðslur av seyða- og geitakjøti úr ES í avmarkaðum nøgdum kunnu innflytast tollfrítt til Føroya.</s>
+            <s xml:lang="fo" cert="high" xml:id="q6zptbw42d">Eitt endamál við lógaruppskotinum er eisini at laga tollsatsirnar til handilssáttmálan millum Føroyar og ES.</s>
+            <s xml:lang="fo" cert="high" xml:id="ltz2hnutfb">Kvotur eru eisini á útflutningi av seyða- og geitakjøti úr Stórabretlandi til Føroyar.</s>
+            <s xml:lang="fo" cert="high" xml:id="dwgb3yeurr">Tí er eisini neyðugt at laga tolllógina til handilssáttmálan millum Føroyar og Stóra Bretland.</s>
+          </p>
+        </div>
+        <div type="section" n="1.4.">
+          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qiycdh5zgb">Í lógaruppskotinum er ein røð av broytingum og dagføringum í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="tif7sa3nq4">Broytingarnar og dagføringarnar eru ymiskar og hava ymisk endamál.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="trrm5jf37f">Ein broyting er til dømis, at landsstýrismaðurin, sum varðar av tolllógini, fær heimild til at áseta reglur um atgongd hjá TAKS til ferðafólkaskipanir (ferðafólkalistar).</s>
+            <s xml:lang="fo" cert="high" xml:id="qq4m7fv5vk">Hetta er fyri at kunna hava nøktandi tolleftirlit.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h5a42u75pf">Ein onnur broyting er, at tollsatsirnir (toll- og vøruskráin), sum higartil hava verið lýstir í løgtingslóg fyri seg (í løgtingslógini um tollsatsir), verða lýstir sum skjal í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="p4ryyrbomf">Toll- og vøruskráin er skjalið, har øll vørunummur, tollur og onnur avgjøld á vørum, eru lýst.</s>
+            <s xml:lang="fo" cert="high" xml:id="budhazcegp">Broytingin hevur við sær, at løgtingslógin um tollsatsir verður strikað og at toll- og vøruskráin í staðin verður lýst sum skjal í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="aqzgokrysb">Mett verður, at greiðast er, at toll- og vøruskráin er lýst sum skjal í tolllógini heldur enn at vera í sjálvstøðugari lóg (løgtingslóg um tollsatsir).</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="o6p5cezy5s">Harafturat er handilssáttmálin millum Føroyar og ES broyttur soleiðis, at seyða- ella geitakjøt og ávísar framleiðslur av seyða- og geitakjøti úr ES í avmarkaðum nøgdum kunnu innflytast tollfrítt til Føroya.</s>
+            <s xml:lang="fo" cert="high" xml:id="m4hsowq4qt">Eitt endamál við lógaruppskotinum er eisini at laga tollsatsirnar til handilssáttmálan millum Føroyar og ES og til handilssáttmálan millum Føroyar og Stóra Bretland.</s>
+            <s xml:lang="fo" cert="high" xml:id="yiyw26kxpk">Kvotur eru eisini á útflutningi av seyða- og geitakjøti úr Stórabretlandi til Føroyar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ysgoue3swg">Aftrat dømunum omanfyri verða gjørdar fleiri aðrar broytingar, harav fleiri eru tøkniligar dagføringar og fylgibroytingar av øðrum broytingum.</s>
+          </p>
+        </div>
+        <div type="section" n="1.5.">
+          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ulmfawadcq">Lógaruppskotið er gjørt í samráði við TAKS, og TAKS hevur víst á tørvin á at dagføra og broyta tolllógina.</s>
+            <s xml:lang="fo" cert="high" xml:id="k7liprlf62">Lógaruppskotið hevur ligið til almenna hoyring á hoyringarportalinum hjá landsstýrinum.</s>
+            <seg xml:lang="fo">Harafturat varð uppskotið sent til ummælis hjá:</seg>
+          </p>
+          <list>
+            <item>Føroya Politi</item>
+            <item>Vinnuhúsinum</item>
+            <item>Atlantic Airways</item>
+            <item>P/F Smyril-Line</item>
+            <item>P/F Samskip</item>
+            <item>P/F Faroe Ship</item>
+            <item>Sp/f Safari Transport</item>
+            <item>Faroe Express</item>
+            <item>Sp/f Norlink Cargo Express</item>
+            <item>P/F Postverk Føroya</item>
+            <item>Sp/f Eur Express</item>
+            <item>Kommunufelagnum</item>
+            <item>P/f Vága Floghavn</item>
+            <item>Dátueftirlitinum</item>
+            <item>Uttanríkis- og mentamálaráðnum</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a64s6dfoq6">Fíggjarmálaráðið móttók ummæli av lógaruppskotinum frá Dátueftirlitinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xqjoxeheoz">Eingin annar av hoyringarpørtunum hevði viðmerkingar til lógaruppskotið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="vnbpx7hqvs">Dátueftirlitið vísir í ummælisskrivinum á, at við uppskotinum til § 28, stk. 8 kann tollvaldið fáa beinleiðis atgongd til skipanir hjá flutningsfeløgum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xkdalqi3zp">At geva myndugleikum beinleiðis atgongd til skipanir við persónupplýsingum eigur bert at verða brúkt í einstøkum førum og við varsemi, m.a. tí, at hetta hevur við sær, at annar enn tann, sum hevur savnað upplýsingarnar fær atgongd til tær.</s>
+            <s xml:lang="fo" cert="high" xml:id="iuzzjn2pin">Sambært siðvenju hjá Dátueftirlitinum skal slík beinleiðis atgongd í útgangsstøðinum heimilast í lóg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="as7at7bpoy">Fíggjarmálaráðið hevur broytt uppskotið til § 28, stk. 8 soleiðis, at atgongdin verður beinleiðis heimilað í tolllógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="v3c4nq4ium">Dátueftirlitið vísir eisini á, at tað fleiri ferðir í viðmerkingunum verður víst til persónsupplýsingarlógina, og at hetta eigur at verða rættað til dátuverndarlógina, sum kom í gildi 1. januar 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="cwnfflpcpg">Fíggjarmálaráðið hevur rættað hetta soleiðis, at lógaruppskotið vísir til dátuverndarlógina.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+        <div type="section" n="2.1.">
+          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qc2f367zgy">Mett verður ikki, at lógaruppskotið hevur við sær fíggjarligar avleiðingar ella útreiðslur fyri landið ella kommunur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.2.">
+          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="s7rjgtc47a">Verður lógaruppskotið samtykt, fer tað at lætta um umsitingina hjá TAKS av øllum tolløkinum, harundir tolleftirlitinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="pr75heuma5">Lógaruppskotið gevur landsstýrismanninum heimild at áseta reglur um, at havnarmyndugleikar og flogferðslumyndugleikar skulu lata tollvaldinum tøkar upplýsingar um komu og fráferð hjá skipum, bátum og flogførum, um uppskipan og avskipan av vørum og um ílandsetan og umborðtøku av ferðafólki.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kzrhtqnwaz">Lógaruppskotið hevur ikki aðrar umsitingarligar avleiðingar við sær fyri kommunur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.3.">
+          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="g5aed33pui">Lógaruppskotið ásetur, at fyritøkur, sum reka ferðafólkaflutning ella tann, ið førir skip ella flogfar, sum flytur ferðafólk til ella úr Føroyum, hevur skyldu at lata tollvaldinum tøkar upplýsingar um ferðafólk og manning til tolleftirlitsendamál.</s>
+            <s xml:lang="fo" cert="high" xml:id="lxkueqdqvl">Lógaruppskotið gevur eisini landsstýrismanninum heimild at áseta nærri reglur um hesa upplýsingarskylduna.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nlhdre65te">Sambært galdandi tolllóg skulu flutningsfeløg lata TAKS góðsupplýsingar elektroniskt.</s>
+            <s xml:lang="fo" cert="high" xml:id="selnfpy22p">Skotið verður upp, at eisini speditørar skulu lata góðsupplýsingar elektroniskt.</s>
+            <s xml:lang="fo" cert="high" xml:id="qwtmyk4qzo">Flutningsfeløgini, sum regluliga flyta vørur til føroyska tolløkið lata í dag góðsupplýsingarnar elektroniskt.</s>
+            <s xml:lang="fo" cert="high" xml:id="mb4pwem3iz">Ætlanin er ikki at broyta nakað í, hvussu hetta fer fram.</s>
+            <s xml:lang="fo" cert="high" xml:id="dkny4deil5">Harafturat verður ásett, at landsstýrismaðurin ásetur nærri reglur um upplýsingarskylduna.</s>
+            <s xml:lang="fo" cert="high" xml:id="wc3ja2lfp4">Víst verður til serligu viðmerkingarnar til broyting nr. 13 í lógaruppskotinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.4.">
+          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sylxgv3hrz">Lógaruppskotið hevur ikki við sær avleiðingar fyri umhvørvið.</s>
+          </p>
+        </div>
+        <div type="section" n="2.5.">
+          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gc33vdr25f">Lógaruppskotið hevur ikki við sær serligar fíggjarligar, umsitingarligar, umhvørvisligar ella sosialar avleiðingar fyri serstøk øki í landinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.6.">
+          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sbwcxa2hp5">Lógaruppskotið hevur ikki við sær avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+          </p>
+        </div>
+        <div type="section" n="2.7.">
+          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mrvmizs4do">Eitt endamál við lógaruppskotinum er at laga tollsatsirnar til handilssáttmálan millum Føroyar og ES, sum er broyttur.</s>
+            <s xml:lang="fo" cert="high" xml:id="uasi6ne3bh">Handilssáttmálin millum Føroyar og ES er broyttur soleiðis, at seyða- ella geitakjøt og ávísar framleiðslur av seyða- og geitakjøti úr ES í avmarkaðum nøgdum kunnu innflytast tollfrítt til Føroya.</s>
+            <s xml:lang="fo" cert="high" xml:id="vigk3gkx3n">Kvotur eru eisini á útflutningi av seyða- og geitakjøti úr Stórabretlandi til Føroyar.</s>
+            <s xml:lang="fo" cert="high" xml:id="gmfc3nqirc">Tí er eisini neyðugt at laga tolllógina til handilssáttmálan millum Føroyar og Stóra Bretland.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="urxrg57hab">Aðrir millumtjóðasáttmálar eru ikki á økinum, sum lógaruppskotið fevnir um, og uppskotið hevur ikki avleiðingar við sær í mun til tílíkar sáttmálar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.8.">
+          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gkut4w2st7">Fíggjarmálaráðnum kunnugt, eru ikki tvørgangandi millumtjóðasáttmálar, sum eru viðkomandi fyri lógaruppskotið.</s>
+          </p>
+        </div>
+        <div type="section" n="2.9.">
+          <head rend="bold"><label>2.9.</label> Markaforðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="vyhueomx2h">Kendar markaforðingar eru ikki á økinum, sum lógaruppskotið fevnir um.</s>
+            <s xml:lang="fo" cert="high" xml:id="ohqtes3fhy">Lógaruppskotið verður ikki mett at hava við sær markaforðingar, sum ikki eru til staðar í sambandi við galdandi tolllóg.</s>
+          </p>
+        </div>
+        <div type="section" n="2.10.">
+          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="s3ef5spdp7">Í lógaruppskotinum verður skotið upp at gera nakrar smávegis broytingar í revsireglunum í tolllógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="f3ghrmqmxg">Talan er um broytingarnar nr. 34 til nr. 42.</s>
+            <s xml:lang="fo" cert="high" xml:id="petrxyd5kl">Víst verður til serligu viðmerkingarnar til broytingarnar nr. 34 til nr. 42.</s>
+          </p>
+        </div>
+        <div type="section" n="2.11.">
+          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jo732g3zgx">Í lógaruppskotinum eru ikki ásetingar um skatt ella avgjøld.</s>
+          </p>
+        </div>
+        <div type="section" n="2.12.">
+          <head rend="bold"><label>2.12.</label> Gjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jwd22ct4wx">Í lógaruppskotinum verður skotið upp í § 1 (broyting nr. 22), at landsstýrismaðurin fær heimild til at áseta nærri reglur um tænastugjøld fyri avgreiðslur í teimum førum, har elektroniskar sjálvgreiðslur ikki verða brúktar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="r6nhgrfdtj">Endamálið er at fáa borgarar og vinnufyritøkur at nýta tær elektronisku sjálvgreiðslurnar, sum eru mentar, ella fara at verða mentar á tolløkinum, við at áleggja gjald fyri avgreiðslur, um elektronisku sjálvgreiðslurnar verða valdar frá.</s>
+            <s xml:lang="fo" cert="high" xml:id="d7mx7l25cq">Elektronisku sjálvgreiðslurnar eru mentar fyri at lætta um umsitingina av toll- og skattaøkinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.13.">
+          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ou7te6nnps">Við lógaruppskotinum verður ásett nýggj, neyvari skylda at lata tollvaldinum upplýsingar um ferðafólk og manning á skipum og flogførum í § 28, stk. 8 í tolllógini (broyting nr. 26).</s>
+            <s xml:lang="fo" cert="high" xml:id="mlwbnzhvh7">Í galdandi tolllóg er skylda at lata upplýsingar um m.a. ferðafólk og manning í § 28, stk. 3.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sdopgglmfn">Í dag er ásett í § 5 í kunngerð um tolleftirlit, at havnamyndugleikar hava skyldu at siga tollvaldinum frá ófráboðaðum skipum, sum koma til tolløkið, og at siga frá, um teir eru varugir við, at skip uppskipa ella innskipa vørur ólógliga.</s>
+            <s xml:lang="fo" cert="high" xml:id="yqoq3j2kbz">Eisini er ásett í § 15 í kunngerðini, at floghavnsmyndugleikar skulu boða tollvaldinum frá komu hjá væntaðum og óvæntaðum flogførum.</s>
+            <s xml:lang="fo" cert="high" xml:id="egayiybbja">Í lógaruppskotinum verður skotið upp (broyting nr. 26), at fráboðanarskyldan verður sett í lógina, heldur enn sum í dag, har hon bara er ásett í kunngerð.</s>
+            <seg xml:lang="fo">Í lógaruppskotinum verður eisini skotið upp (broyting nr. 28), at “<hi rend="italic">Ferðandi til ella frá tolløkinum, sum hava við sær tøkan pening samsvarandi 10.000 evrur ella meira, skulu, uttan at biðið verður um tað, steðga til tolleftirlit og hava skyldu at boða tollvaldinum frá øllum tøkum peningi, tey hava við sær</hi>.”</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="s5xdvlarfl">Í 2011 vórðu reglur settar í §§ 27 a og 27 b í tolllógini um, at tollvaldið hevði eftirlit millum annað við tøkum peningi og at persónar, sum senda tøkan pening samsvarandi við 10.000 evrur ella meira til ella frá tolløkinum, skulu boða tollvaldinum frá tøka peninginum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="b357daqpor">Mett verður, at tað eigur at verða nágreinað í tolllógina, at skyldan at boða frá tøkum peningi eisini er galdandi fyri persónar, sum hava tøkan pening við sær, tá tey ferðast til ella frá tolløkinum, ikki bert tá tøkur peningur verður sendur til ella úr Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ee3wezlee4">Tí verður skotið upp at áseta eina skyldu hjá ferðandi til og úr Føroyum at boða frá tøkum peningi samsvarandi 10.000 evrum ella meira.</s>
+          </p>
+        </div>
+        <div type="section" n="2.14.">
+          <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kw2magz6kp">Lógaruppskotið skjýtur upp (broyting nr. 13), at landsstýrismaðurin ásetir nærri reglur um skylduna, sum flutningsfyritøkur og speditørar hava at lata TAKS góðsupplýsingar elektroniskt sambært § 10 b, stk. 1 í tolllógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qklxp7axev">Talan er um nærri reglur um, hvørjar góðsupplýsingar flutningsfyritøkurnar skulu lata, hvørjar upplýsingar speditørar skulu lata, hvussu upplýsingarnar skulu latast, um tað skal vera í serligum formati, og nær upplýsingarnar skulu latast og líknandi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="e3cef5d5tq">Lógaruppskotið skjýtur eisini upp (broyting nr. 22), at landsstýrismaðurin kann áseta nærri reglur um tænastugjøld fyri avgreiðslur í førum, tá elektroniskar sjálvgreiðslur ikki verða brúktar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tqneu2kafu">Talan er um heimild at krevja gjald fyri avgreiðslur, tá borgarar ella virkir velja elektroniskar sjálvgreiðslur frá.</s>
+            <s xml:lang="fo" cert="high" xml:id="olxhhfub5b">Víst verður eisini til serligu viðmerkingina til § 1, nr. 25.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kju7a7v3ha">Harafturat verður skotið upp í lógaruppskotinum (broyting nr. 26), at neyvari ásetingar verða gjørdar um, hvørjar upplýsingar skulu latast tollvaldinum um ferðafólk og manning við flogførum og skipum í flúgving og sigling til og úr Føroyum.</s>
+            <seg xml:lang="fo">Sett verður í § 28 sum stk. 8:</seg>
+          </p>
+          <quote>
+            <p>
+              <label rend="italic">Stk. 8.</label>
+              <s xml:id="sp4z4sihuf">Fyritøka, ið rekur ferðafólkaflutning ella tann, ið førir skip ella flogfar, sum flytur ferðafólk til ella úr Føroyum, hevur skyldu at lata tollvaldinum tøkar upplýsingar um ferðafólk og manning til tolleftirlitsendamál.</s>
+              <s xml:id="jdwm2pzsd6">Tollvaldið kann fáa beinleiðis atgongd til skipan hjá tí, ið rekur ferðafólkaflutning.</s>
+              <s xml:id="b3d47jxsdd">Landsstýrismaðurin kann áseta nærri reglur um upplýsingarskylduna, harundir at upplýsingarnar skulu latast ella gerast tøkar fyri tollvaldinum elektroniskt í serligum formati.</s>
+            </p>
+          </quote>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ien3v7heup">Landsstýrismaðurin fær sostatt við uppskotinum heimild til frameftir at áseta, til dømis í kunngerð, hvørjar upplýsingar um ferðafólk og manning umborð á skipum og flogførum, flutningsfeløgini skulu lata tollvaldinum, umframt hvussu upplýsingarnar skulu latast.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lpc3r5sfdh">Skotið verður eisini upp í lógaruppskotinum (broyting nr. 29), at um tekin eru um ólógligt virksemi í sambandi við tøkan pening, kann tollvaldið krevja upplýsingar, skráseta og viðgera upplýsingar um persónin og um tøka peningin.</s>
+            <s xml:lang="fo" cert="high" xml:id="olshrffvve">Ásetingin gevur tollvaldinum heimild til at krevja, at ferðandi millum annað upplýsa um seg sjálvan og um peningin, og tollvaldið fær heimild til at skráseta upplýsingarnar og at viðgera teir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jf75u6hnpw">Upplýsingarnar, sum kunnu krevjast, skrásetast og viðgerast eru millum annað fult navn, føðidato, føðistaður, tjóðskapur, hvør eigur tøka peningin, hvør skal hava peningin, upphæddina, hvat slag av tøkum peningi talan er um, reiður peningur, handhavaskjøl ella líknandi, hvar peningurin stavar frá, hvat peningurin ætlandi skal nýtast til, hvussu ætlanin er at flyta peningin víðari, við hvørjum flutningsfari v.m.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nppaqxd2wp">Víst verður eisini til serligu viðmerkingarnar til broyting nr. 29.</s>
+          </p>
+        </div>
+        <div type="section" n="2.15.">
+          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="vn5ooabvhf">Í lógaruppskotinum verður skotið upp (broyting nr. 31), at “<hi rend="italic">Ásetingin í stk. 9 er somuleiðis galdandi fyri persónar, sum hava ella kunnu ætlast at hava við sær tøkan pening, samsvarandi við 10.000 evrur ella meira, ella sum hava ella kunnu ætlast at hava við sær vørur, sum av trygdarorsøkum, heilsuorsøkum, djóralæknafrøðiligum orsøkum, plantupatologiskum orsøkum, gjaldoyra orsøkum ella øðrum orsøkum eru bannaðar innflutningi, útflutningi ella transit.</hi>”</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="j5i2qfb2xm">Sambært § 29, stk. 8, sum verður stk. 9, hevur tollvaldið heimild at seta eftir, og steðga persónum, ið bera seg undan, ella mugu ætlast at bera seg undan eftirliti og sum hava ella mugu ætlast at hava óavgreiddar vørur við sær.</s>
+            <s xml:lang="fo" cert="high" xml:id="vf6fniy5al">Í slíkum førum hevur tollvaldið eisini sambært galdandi § 29, stk. 8 rætt til at gera eftirlit í húsum, flutningsførum v.m., tá ið hetta verður gjørt beinleiðis í sambandi við, at sett verður eftir persóninum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ivgp3svk6a">Við hesum uppskotinum verður sama heimild givin tollvaldinum at seta eftir persónum og steðga persónum, sum hava ella mugu ætlast at hava við sær tøkan pening samsvarandi 10.000 evrur ella meir, og at gera eftirlit í húsum, flutningsførum v.m., um tað verður gjørt í beinleiðis sambandi við, at man fylgir eftir persóninum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lzgkrl7tpb">Somu heimild fær tollvaldið, um persónur hevur ella kann ætlast at hava við sær vørur, sum eru nevndar í § 27 a, tað er vørur, sum eru bannaðar innflutningi, útflutningi ella transit og hetta bann er sett av trygdar-, heilsu-, djóralæknafrøðiligum-, plantupatologiskum, gjaldoyra- ella øðrum orsøkum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gwt6tx5qja">Mett verður, at neyðugt er, at TAKS fær hesar heimildirnar, um tolleftirlitið í Føroyum framhaldandi skal vera munagott.</s>
+          </p>
+        </div>
+        <div type="section" n="2.16.">
+          <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="audkbfbmye">Lógaruppskotið hevur ikki við sær aðrar avleiðingar enn tær, sum eru nevndar omanfyri.</s>
+          </p>
+        </div>
+        <div type="section" n="2.17.">
+          <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið ella landsmyndugleikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss ella øki í landinum</cell>
+              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Sosialar avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+        <div type="section" n="3.1.">
+          <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
+          <div type="subsection">
+            <head rend="bold">Til § 1</head>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 1</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="nfm5hgoch5">Alla staðni í lógini har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar eru hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 2</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cwx757mfet">Galdandi orðing í § 4, stk. 1, 2. pkt. er: “Tollsatsirnir eru hjálagdir sum fylgiskjal.”</s>
+              <s xml:lang="fo" cert="high" xml:id="gtc7wkvfrq">Fíggjarmálaráðið heldur tað vera rættast, at ein fullfíggjað toll- og vøruskrá verður lýst, og ikki bara tey vørunummur, sum hava toll.</s>
+              <s xml:lang="fo" cert="high" xml:id="iqos6kwicj">Tí skal ásetingin ikki bara vísa til “tollsatsir” men til toll- og vøruskránna.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="piwo7bdup7">Harafturat eiga skjøl, sum eru partur av sjálvari løgtingslógini, at hava heitið “skjøl” og ikki “fylgiskjøl”.</s>
+              <s xml:lang="fo" cert="high" xml:id="lllgkhacfr">Mælt verður tí eisini til, at verandi skjal til § 4, stk. 1 í tolllógini verður strikað og at skjalið, sum er lýst til lóg um tollsatsir, tann fullfíggjaða toll- og vøruskráin, verður sett í staðin.</s>
+              <s xml:lang="fo" cert="high" xml:id="lsdivofsox">Harvið er eisini neyðugt at seta úr gildi lóg um tollsatsir.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tj3ji2oacu">Við gildi frá 1. januar 2004 vóru tey vørunummur í toll- og vøruskránni, sum høvdu toll, lýst sum fylgiskjal til § 4, stk. 1 í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="fymsak5uub">Áðrenn 2004 var toll- og vøruskráin lýst við kunngerð.</s>
+              <s xml:lang="fo" cert="high" xml:id="tprvbu5sin">Frá 1. januar 2016 varð toll- og vøruskráin lýst sum skjal til lóg um tollsatsir.</s>
+              <s xml:lang="fo" cert="high" xml:id="ijo376y7ix">Tá varð toll- og vøruskráin lýst við øllum vørunumrum, ikki bara teimum, sum hava toll.</s>
+              <s xml:lang="fo" cert="high" xml:id="wapz4xjanx">Skjalið, sum var lýst til § 4, stk. 1 í tolllógini, var tó ikki strikað, samstundis sum fullfíggjaða toll- og vøruskráin varð lýst sum skjal til lóg um tollsatsir.</s>
+              <s xml:lang="fo" cert="high" xml:id="l5zfnoi75m">Nú eru tvey skjøl, sum hava ásetingar um toll.</s>
+              <s xml:lang="fo" cert="high" xml:id="rscyrszwdh">Tí er neyðugt, at annað verður strikað.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="y3wblcc4yk">TAKS heldur tað vera rættast, at toll- og vøruskráin við øllum vørunumrunum og øllum tollsatsum verður lýst sum skjal til tolllógina og ikki sum skjal til aðra lóg.</s>
+              <s xml:lang="fo" cert="high" xml:id="mzz3fum5ku">Hetta er tí, at grundarlagið fyri nýtslu av toll- og vøruskránni er ásett í tolllógini, serliga eru tað §§ 2 – 4.</s>
+              <s xml:lang="fo" cert="high" xml:id="xz7m7q3aog">Her er ásett, at tollur skal rindast fyri allar vørur, sum verða innfluttar á tolløkið, og sum ikki eru frítiknar eftir ásetingunum í tolllógini §§ 3, 4 og kap. 3, at avgerandi fyri tollsatsirnar og tarifering er toll- og vøruskráin, og at fyri vørur, sum eru fevndar av handilssáttmála millum Føroyar og onnur lond ella felagsskapir, fellur tollurin burtur ella verður lækkaður.</s>
+              <s xml:lang="fo" cert="high" xml:id="tzqyfrsmih">Soleiðis er grundarlagið fyri nýtslu av toll- og vøruskránni ásett í tolllógini, og tí verður mett rættast, at toll- og vøruskráin verður lýst sum skjal til tolllógina.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 3</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="n2jyl3clwf">Alla staðni í lógini, har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar liggja hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 4</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="jdu5rgsyt3">Handilssáttmálin millum Føroyar og ES er broyttur soleiðis, at seyða- ella geitakjøt og ávísar framleiðslur av seyða- og geitakjøti úr ES í avmarkaðum nøgdum kunnu innflytast tollfrítt til Føroya.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ahjqwczox6">Nøgdirnar, sum kunnu innflytast tollfrítt úr ES, eru upp til 40 tons um árið í 2020, 2021 og 2022.</s>
+              <s xml:lang="fo" cert="high" xml:id="owv32hri2d">Frá 2023 kunnu 80 tons innflytast til Føroya uttan toll.</s>
+              <s xml:lang="fo" cert="high" xml:id="dqa5p6zkjp">Kvotur eru eisini á útflutningi av seyða- og geitakjøti úr Stórabretlandi til Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="xydarzg6ou">Tí er eisini neyðugt at laga tolllógina til handilssáttmálan millum Føroyar og Stóra Bretland.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 5</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v6xkim76rk">Broytingin í nr. 5 strikar § 5 í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="b6qxspjm25">Sambært § 5 í tolllógini er toll- og vøruskráin til skjals og kann keypast frá Toll- og skattstovu Føroya, og landsstýrið ásetur gjaldið fyri toll- og vøruskránna.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="xm2vdpbxvl">Fíggjarmálaráðið og TAKS mæla til at strika § 5 í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="zuh57tgy6s">Í dag er toll- og vøruskráin ikki bara til skjals, men liggur eisini alment atkomulig og ókeypis á heimasíðuni hjá TAKS.</s>
+              <s xml:lang="fo" cert="high" xml:id="hngflrfnfz">§ 5 í galdandi tolllóg tekur ikki hædd fyri møguleikunum, sum eru komnir við internetinum og heimasíðum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 6</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vugajb237h">Alla staðni í lógini, har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar eru hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 7</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="r3mn2ffqru">Alla staðni í lógini, har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar eru hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 8</head>
+            <p>
+              <s xml:lang="fo" cert="low" xml:id="pqdoqgzzfb">§ 6, litra g í galdandi tolllóg ásetur, at untantikið tolli er: “Protesur (tó undantikið tannprotesur), hoyritól og glaseygu v.m.”</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uejbctjdrg">Sambært toll- og vøruskránni (lóg um tollsatsir) er ongin gatt-tollur á protesum.</s>
+              <seg xml:lang="fo">Allar protesur eru í vørubólki 9021, eisini tannprotesur (9021.21.10, 9021.21.90 ella 9021.29.00), hoyritól (9021.40.00) og eygnaprotesur (9021.39.10).</seg>
+              <s xml:lang="fo" cert="high" xml:id="yspw5sy7e2">Ongin tollur er á nøkrum vørum í vørubólki 9021.</s>
+              <s xml:lang="fo" cert="high" xml:id="un4a6z5h3r">Ongin tollur er tí á teimum vørum, sum í dag eru nevndar í § 6, litra g í tolllógini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mub3wxd2so">Tað hevur sostatt ongar avleiðingar við sær at strika § 6, litra g í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="pch22lvwcy">Ásetingin verður strikað fyri at rudda upp í dupultreguleringum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 9</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ulzo42iwwy">Galdandi lóg, § 7, stk. 1, litra a, ásetur, at tollvaldinum verður heimilað at veita tollfrían innflutning við eftirliti fyri tað, ið skipum og flogførum tørvar, meðan tey eru stødd á tolløkinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="rplhmnxofd">Mælt verður til at nágreina, at ásetingin heimilar at veita tollfrían innflutning fyri tað, sum skipum og flogførum tørvar til nýtslu umborð, tað vil siga, sum verður forbrúkt, meðan tey eru stødd á føroyskum tolløki, og at ásetingin bara fevnir um tað, sum skip og flogfør hava við sær, tá tey koma til tolløkið uttanífrá.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rxxpqhs7sd">Viðmerkjast kann, at proviantering í Føroyum verður gjørd eftir ásetingini í § 28 í tolllógini og tilhoyrandi kunngerð.</s>
+              <s xml:lang="fo" cert="high" xml:id="snxkebg3vw">§ 28 í tolllógini ásetur, at skip og flogfør kunnu toll- og avgjaldsfrítt taka við proviant og aðrar neyðsynjarvørur at nýta umborð ella at selja til ferðafólk.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="alrq6lf7nc">Tað kann tykjast ógreitt, hvat verandi orðing í § 7, stk. 1, litra a fevnir um: “tað, ið skipum og flogførum tørvar, meðan tey eru stødd á tolløkinum”.</s>
+              <s xml:lang="fo" cert="high" xml:id="h6vtvqt6xu">Mett verður ikki, at ætlanin hevur verið at frítaka meira enn tað, sum verður forbrúkt umborð, og harvið ikki lutir, sum til dømis verða settir í skipið, so sum motorar, eykalutir v.m. Slík vøra eigur at verða tollviðgjørd eftir galdandi reglum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="pbyty5oss3">Viðmerkjast kann, at er til dømis talan um skip undir fremmandum flaggi, sum fær vøru flutta til Føroyar, og sum síðan verður sett í skipið og flutt av landinum aftur við skipinum, so kann vera talan um vøru í transit.</s>
+              <s xml:lang="fo" cert="high" xml:id="wfwlfk4sr6">Vøra í transit er undantikin tolli sbrt. § 12, stk. 2 í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="voxqh5nfqo">Vøra í transit er vøra, sum verður útflutt aftur í sama líki og standi, sum hon er innflutt í.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="w64ifcjuts">Eisini kann viðmerkjast, at tolllógin heimilar, at tollur kann verða afturrindaður fyri vørur, sum verða endurútfluttar.</s>
+              <s xml:lang="fo" cert="high" xml:id="pexvmt3hof">Hetta er ásett í § 24, stk. 1 í tolllógini.</s>
+              <s xml:lang="fo" cert="high" xml:id="bmnbeltuju">§ 7, stk. 1, litra a eigur tí bara at fevna um vørur, ið skipum og flogførum tørvar til nýtslu umborð, meðan tey eru stødd á tolløkinum, og sum tey hava við, tá tey koma í føroyskt tolløki.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 10</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ufytirkgfg">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 11</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ab2ashyt2j">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 12</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="badtg3xmq2">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 13</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mc6nuhesfq">Sambært § 10 b, stk. 1 skulu flutningsfeløg lata TAKS góðsupplýsingar elektroniskt.</s>
+              <s xml:lang="fo" cert="high" xml:id="wttputkxkm">Skotið verður upp, at eisini speditørar skulu lata góðsupplýsingar elektroniskt.</s>
+              <s xml:lang="fo" cert="high" xml:id="v23oy23paq">Flutningsfeløgini, sum regluliga flyta vørur til føroyska tolløkið, lata í dag góðsupplýsingarnar elektroniskt.</s>
+              <s xml:lang="fo" cert="high" xml:id="wj5mngbd3s">Ætlanin er ikki at gera nakra broyting í, hvussu hetta fer fram.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rnm766cd6y">Í teimum førum, tá góðs verður flutt til speditørar, og flutningsfeløgini bara lata høvuðsgóðsupplýsingar til skipanina hjá TAKS, skulu speditørar býta høvuðsgóðsið sundur, splitta høvuðsgóðsið soleiðis, at eisini undirupplýsingarnar um góðsið koma í skipanina hjá TAKS.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mr7h2u26q7">Bara um fullfíggjaðar upplýsingar um góðsið eru í skipanini hjá TAKS, ber til hjá móttakaranum, ella hjá speditørinum vegna móttakaran, at tollavgreiða vøruna út frá góðsupplýsingum í skipanini.</s>
+              <s xml:lang="fo" cert="high" xml:id="ng3caqgwhm">Fyri at kunna tollavgreiða vøruna, er neyðugt at vøran er útgreinað uppá avsendara og móttakara, soleiðis at ítøkiligu fakturarnar kunnu knýtast at einstøku vørunum, sum skulu tollavgreiðast.</s>
+              <s xml:lang="fo" cert="high" xml:id="yzwopvyhil">Reglur um, at speditørar skulu býta høvuðsgóðs, ella splitta høvuðsgóðs, eru longu ásettar í kunngerð um undantaksloyvi frá flutningsfeløgum og speditørum at flyta vørur beinleiðis til móttakaran.</s>
+              <s xml:lang="fo" cert="high" xml:id="o5nzqehxha">Ásetingarnar eru í § 6 í nevndu kunngerð.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bw6s3b34dr">Soleiðis er ikki talan um at áleggja speditørum nýggjar skyldur ella at seta í verk nýggjar mannagongdir.</s>
+              <s xml:lang="fo" cert="high" xml:id="r5ehwnuyyd">Talan er bara um at laga til orðingarnar í lóggávuni soleiðis, at lóg, kunngerð og tær arbeiðsgongdir sum longu eru í dag, samsvara.</s>
+              <s xml:lang="fo" cert="high" xml:id="kf3wuycnth">Eisini verður mælt til at nýta orðingina <hi rend="italic">flutningfyritøkur</hi> í staðin fyri orðingina <hi rend="italic">flutningsfeløg</hi>.</s>
+              <s xml:lang="fo" cert="high" xml:id="f7rn5wftex">Í dag verða orðingarnar <hi rend="italic">flutningsfeløg</hi>, <hi rend="italic">flutningsfyritøkur</hi> og <hi rend="italic">skipaavgreiðslur</hi> nýttar í lógini fyri tað sama, sí eisini § 13.</s>
+              <s xml:lang="fo" cert="high" xml:id="zoyud62gfd">Mælt verður til at nýta orðingina flutningsfyritøkur í tolllógini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ujvojqru2l">Við broytingini verður eisini heimild til at áseta nærri reglur um, hvørjar upplýsingar skulu latast um góðs, hvørjar upplýsingar flutningsfyritøkurnar skulu lata, hvørjar upplýsingar speditørar skulu lata, hvussu upplýsingarnar skulu latast, um tað skal vera í serligum formati og nær upplýsingarnar skulu latast v.m.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 14</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="jl22mvmdkk">Heitið tollavgreiðsla verður brúkt í fleiri ásetingum í lógini, millum annað í § 10 a, § 12, stk. 1 og § 13, stk. 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="n4ws7zcdu4">Mett verður, at rættast er, at sama heiti verður brúkt allastaðni í lógin.</s>
+              <s xml:lang="fo" cert="high" xml:id="nz77c7xdxy">Ongin innihaldslig broyting verður gjørd.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="tzakpkisaq">Mælt verður til, at speditørar eisini verða nevndir í § 13, stk. 1 og ikki bara skipari og flutningsfyritøka.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gt3zrwl55c">Sambært § 13, stk. 1 í tolllógini mugu vørur ikki verða útflýggjaðar, áðrenn tollavgreiðsla er framd.</s>
+              <s xml:lang="fo" cert="high" xml:id="hjrqko45kt">Hetta er, um undantak ikki er veitt eftir § 13, stk. 2 og 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="a4el3fzgsf">Ásett er eisini, at verða vørur útflýggjaðar móti forboðnum, stendur skiparin ella flutningsfyritøkan til svars fyri, at tollurin verður goldin, og kann harafturat áleggjast sekt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="pw72dsnapk">Speditørar hava eisini vøru í varðveitslu, áðrenn vøra verður tollavgreidd, antin av móttakaranum ella speditørinum sjálvum vegna móttakaran.</s>
+              <s xml:lang="fo" cert="high" xml:id="cmabia6a47">Tí eiga speditørar eisini at hava ábyrgd av tolli, um teir útflýggja vøru, áðrenn vøran er tollavgreidd, umframt at teimum kann áleggjast sekt.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 15</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mmkq4trkug">Mælt verður til at nágreina í § 13, stk. 3 og 4, at ásetingarnar eisini fevna um speditørar, ikki bara flutningsfyritøkur.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="osw2myovp4">Sambært § 13, stk. 3 í tolllógini kann TAKS loyva flutningsfeløgum at flyta vørur beinleiðis til móttakaran, treytað av at tollavgreiðslan verður gjørd elektroniskt, og at trygd frammanundan er veitt fyri tolli og avgjøldum.</s>
+              <s xml:lang="fo" cert="high" xml:id="lw54ofue5i">Eisini er ásett, at flutningsfyritøkurnar tá hava ábyrgd av, at tollur og avgjøld verða goldin.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qow6nmd6rd">Landsstýrismaðurin kann við heimild í § 13, stk. 3 áseta nærri reglur viðvíkjandi undantøkunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="a7ilimkowo">Við hesi heimild er kunngerð gjørd, sum longu heimilar at geva bæði flutningsfeløgum og speditørum loyvi at útflýggja vørur beinleiðis til móttakaran.</s>
+              <s xml:lang="fo" cert="high" xml:id="flmu367ktm">Við kunngerð er tí longu loyvt speditørum at flyta vørur beinleiðis til móttakaran.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="toqwq6p3hx">Tá orðið flutningsfyritøka verður nevnt í tolllógini hevur vanliga verið hugsað um flutningsfyritøkur, sum flyta vørur til tolløkið.</s>
+              <s xml:lang="fo" cert="high" xml:id="nwqdecanuo">Her er vanliga ikki hugsað um fyritøkur, sum flyta vørur í Føroyum, frá uppskipan og út til innflytaran.</s>
+              <s xml:lang="fo" cert="high" xml:id="nm5mx4wh6z">Tí hevur vanliga ikki verið hugsað um speditørar, tá hugtakið flutningsfyritøka hevur verið brúkt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ag6xvubmxa">Mett verður rættast, at nágreinað verður í lógini, at heimildin at geva loyvi til at útflýggja vørur beinleiðis til móttakaran og ábyrgdin, sum fylgir við, ikki bara fevnir um tær flutningsfyritøkur, sum flyta vørurnar til tollløkið, men eisini fevnir um speditørar, sum flyta vørur víðari til móttakaran og sum í nógvum førum tollavgreiða vørurnar fyri móttakaran.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uogbuufszj">Mett verður rættast, at lógin greitt tilskilar, at ikki bara flutningsfyritøkurnar kunnu fáa loyvi at flyta vørur beinleiðis til móttakaran, men eisini speditørar, sum, tá teir fáa slíkt loyvi, eisini ábyrgjast fyri tolli og avgjøldum av vøruni og koma undir treytirnar, sum lógin og kunngerðin áseta.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qrfavwghlq">Eisini verður mælt til at brúka heitið flutningfyritøka í staðin fyri heitið flutningsfelag.</s>
+              <s xml:lang="fo" cert="high" xml:id="zy22tpiysz">Heitið flutningsfyritøka verður eisini nýtt aðrastaðni í lógini.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 16</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uikj4pj5hp">Sambært § 13, stk. 4 kann TAKS krevja trygd frá skipaavgreiðslum og øðrum flutningsfeløgum fyri toll og avgjøld á vørum, ið verða útflýggjaðar uttan loyvi frá TAKS.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="r4klmqwlkx">Mælt verður til at nevna speditørar eisini, so greitt er, at ikki bara flutningsfyritøkur men eisini speditørar skulu stilla trygd fyri toll og avgjøld á vørum, sum verða útflýggjaðar uttan loyvi frá TAKS.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gy36pjhvrb">Eisini verður mælt til at broyta orðingina “skipaavgreiðslum og øðrum flutningsfeløgum” til “flutningsfyritøkur”.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 17</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="k2m6nzoa6k">Sambært § 18 kann tollvaldið selja vøru við almennari uppboðssølu til rindan av tolli v.m., ella tollvaldið kann koyra vørurnar burtur undir tolleftirliti, um tollur ikki er greiddur í seinasta lagi 2 mánaðir aftaná, at gjaldfreistin er úti.</s>
+              <s xml:lang="fo" cert="high" xml:id="sbkt4wp67n">Skotið verður upp at broyta freistina til 2 mánaðir aftaná, at vøran er uppskipað ella um vøran ikki verður uppskipað, tá vøran er komin til tolløkið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zguot64s65">Sambært § 12, stk. 1, 1. pkt. í tolllógini fellur tollur til gjaldingar, tá tollavgreiðslan fer fram.</s>
+              <s xml:lang="fo" cert="high" xml:id="kz7orwhjhd">Hetta merkir, at um móttakarin av einhvørjari orsøk ikki tollavgreiðir vøruna, so er tollurin ongantíð fallin til gjaldingar, og eftir galdandi lóg eru treytirnar í slíkum førum ikki loknar fyri at nýta heimildirnar í § 18 til at selja vøru til rindan av tolli og avgjøldum ella til at burturbeina vøruna.</s>
+              <s xml:lang="fo" cert="high" xml:id="nyzih27d6t">Tí verður mælt til at broyta § 18 soleiðis, at treytin verður, at um vøran ikki er tollgreidd 2 mánaðir aftaná at vøran er uppskipað ella komin til tolløkið, so kann vøran verða seld ella burturbeind samsvarandi ásetingunum í § 18.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="d6g5b2nbms">At vøran skal vera tollgreidd merkir, at vøran skal verða tollað í skipanini hjá TAKS.</s>
+              <s xml:lang="fo" cert="high" xml:id="njotmrnvuy">Um móttakarin hevur tollkreditt, so fellur tollurin ikki til gjaldingar fyrr enn 28. í mánaðinum aftaná, at vøran er móttikin.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 18</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qnukufnrd5">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 19</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="fpw7ejpepn">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 20</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ze26ffzkii">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 21</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bmse2ts7ar">Alla staðni í lógini har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar eru hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 22</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="hho54gt6ro">Heimild verður fingin til at krevja gjald fyri avgreiðslur, tá borgarar ella virkir velja elektroniskar sjálvgreiðslur frá.</s>
+              <s xml:lang="fo" cert="high" xml:id="kowmopwj5y">Heldur enn at áseta krav um at elektroniskar sjálvgreiðslur í hvørjum einstøkum føri skulu brúkast, verður roynt at fáa borgarar og virkir at nýta tær elektronisku sjálvgreiðslurnar, sum eru mentar, ella fara at verða mentar á tolløkinum, við at áleggja gjald fyri avgreiðslur, um sjálvgreiðslurnar verða valdar frá.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="i4pyrnlyb5">Eitt tílíkt gjald kann ikki vera hægri enn útreiðslurnar, sum umsitingarmyndugleikin (TAKS) hevur av virkseminum, tað vil siga kostnaðurin av at avgreiða viðurskiftini.</s>
+              <s xml:lang="fo" cert="high" xml:id="ithlslqgqv">Tað verður ásett í kunngerð, hvørji gjøld vera galdandi fyri ávísar avgreiðslur í førum, har TAKS hevur ment sjálvgreiðslur og hesar ikki verða brúktar.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 23</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vnihogp66s">Tey vørunummur, sum eru nevnd í § 24, stk. 2 í tolllógini, eru útgingin.</s>
+              <s xml:lang="fo" cert="high" xml:id="fgroz5twyb">Ídnaðarfiskur er í dag í vørunummrunum 05.11.91.10 og 05.11.91.90.</s>
+              <s xml:lang="fo" cert="high" xml:id="w367kyrtvu">Eisini er í dag ongin tollur ella onnur avgjøld á ídnaðarfiski.</s>
+              <s xml:lang="fo" cert="high" xml:id="x7ivctz7do">Ídnaðarfiskur hevur við innflutningi ongan toll og heldur ikki onnur avgjøld, og hetta er galdandi uttan mun til, um tað eru útflutningsfyritøkur ella onnur, sum innflyta.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="d2ihotl6sg">Tá ongin tollur ella onnur avgjøld eru ásett fyri ídnaðarfisk, er óneyðugt at hava nakrar serásetingar í tolllógini um frítøku av ídnaðarfiski.</s>
+              <s xml:lang="fo" cert="high" xml:id="kr4ox54sbv">Tí verður mælt til at strika orðingar um ídnaðarfisk.</s>
+              <s xml:lang="fo" cert="high" xml:id="dp4bjiyjs3">Ongin innihaldslig broyting verður tí gjørd við at strika orðingarnar.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 24</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wvhk63f5qt">Rætta heitið við bygnaðinum á toll- og skattaøkinum í dag er TAKS.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 25</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="e2tahxeyz3">Sambært galdandi § 28, stk. 2 skulu skip, ið tollvaldið ætlar at kanna, leggja stilt, tá ið tollvaldið krevur tað.</s>
+              <s xml:lang="fo" cert="high" xml:id="hs67ue3s7w">Skotið verður upp, at tollvaldið skal kunna krevja, at skip, sum sigla í føroyska tolløkinum, skulu leggja at bryggju, tá tollvaldið ætlar at kanna skipið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="e2qlvjxy46">Orsøkin til broytingina er, at tollvaldi hevur ikki útgerð til at gera eftirlit á opnum havi.</s>
+              <s xml:lang="fo" cert="high" xml:id="rwihdki3qg">Eisini er tað sera kostnaðarmikið, um eftirlitið skal gerast á opnum havi.</s>
+              <s xml:lang="fo" cert="high" xml:id="jsnuhpcchv">Somuleiðis er tryggari, at biðja skipið koma at bryggju.</s>
+              <s xml:lang="fo" cert="high" xml:id="f3dkrsblbj">Bæði tá ið umræður trygd á sjónum og trygdina hjá tollarunum, um funnið verður fram til eitt hvør lógarbrot.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uqmqbqcpvj">Fyri at kunna tryggja nøktandi eftirlit verður mett neyðugt, at tollvaldið kann krevja skip til bryggju í førum, tá eftirlitið ikki kann gerast á annan hátt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bzh4r6vzll">Leggjast kann aftrat, at øll skip hava sambært Havrættarsáttmálanum rætt til skaðaleysa gjøgnumsigling í uttara sjóumveldinum, t.e. úr grundlinjunum og út á 12 fjórðingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="jvojjuvseh">Fremmand skip hava ikki krav uppá at koma í havn ella í innara sjóumveldið, t.e. innanfyri grundlinjurnar, uttan í neyðstøðu.</s>
+              <s xml:lang="fo" cert="high" xml:id="sdbyguv4cr">Orðingin “<hi rend="italic">skaðaleys gjøgnumsigling</hi>” er lýst í greinunum 17-19 í Havrættarsáttmálanum, og gjøgnumsiglingin skal vera uttan steðg og hóskandi skjót.</s>
+              <s xml:lang="fo" cert="high" xml:id="t25edfyfvs">Steðgur kann góðtakast, um hetta er neyðugt fyri vanliga sigling ella í neyðstøðu.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 26</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ysb5ya4w6m">Talan er um at áseta neyvari, hvørjar upplýsingar skulu latast tollvaldinum um ferðafólk og manning við flogførum og skipum í flúgving og sigling til og úr Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="gjaungwb3d">Ásett verður beinleiðis í tolllógini, at tollvaldið kann fáa beinleiðis atgongd til skipan hjá tí, ið rekur ferðafólkaflutning.</s>
+              <s xml:lang="fo" cert="high" xml:id="qqib5t56qe">Sambært siðvenju hjá Dátueftirlitinum skal slík beinleiðis atgongd í útgangsstøðinum heimilast í lóg.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gyyfho2nzx">Sambært § 28, stk. 3 í galdandi tolllóg hevur tann, ið førir skip ella flogfør, ið flyta ferðafólk, skyldu til at geva og prógva tær fyri eftirlitinum neyðugu upplýsingarnar um m.a. ferðafólk og manning, sum er umborð.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="xm7xvjyn5a">Skotið verður upp, at tað frameftir verður nærri ásett í kunngerð, hvørjar upplýsingar um ferðafólk og manning umborð á skipum og flogførum, flutningsfeløgini skulu lata tollvaldinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="zuzodkzcdp">Tí verður mælt til at seta nýtt stykki inn í § 28, sum gevur landsstýrismanninum heimild til at áseta nærri reglur um, hvørjar upplýsingar skulu latast, umframt hvussu upplýsingarnar skulu latast, t.d. at upplýsingarnar skulu latast elektroniskt í serligum formati, hvussu ofta upplýsingarnar skulu latast v.m.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="l7gtfptkea">Flutningsfeløgini skulu lata upplýsingar um ferðafólk og manning í sambandi við ferðir til og úr Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="pxzpucerx5">Hetta er bæði galdandi fyri føroysk feløg, men eisini útlendsk feløg, sum flyta ferðafólk til ella úr Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="bytmb56jzb">Talan er um upplýsingar um ferðafólk og manning á bæði flogførum og skipum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cyltcf7s4u">Talan er bara um upplýsingar, sum flutningsfyritøkurnar longu hava um ferðafólk og manning.</s>
+              <s xml:lang="fo" cert="high" xml:id="p3tejjaqu6">Tað verður soleiðis ikki við ásetingini álagt flutningsfeløgunum at innheinta fleiri upplýsingar, enn tey longu gera.</s>
+              <s xml:lang="fo" cert="high" xml:id="shxyzekrus">Heimildin hevur við sær, at tað verður ásett nærri í kunngerð, hvørjar upplýsingar skulu latast tollvaldinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ek3ypd46fp">Soleiðis verður eisini meira greitt, hvørji sløg av upplýsingum verða latnar tollvaldinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="a2euv24paf">Heimildin er avmarkað til tað slagið av upplýsingum, sum verður mett neyðugt fyri at hava tolleftirlit.</s>
+              <s xml:lang="fo" cert="high" xml:id="v6z5hgms3g">Hetta eru upplýsingar, sum eru neyðugar fyri at fremja tað eftirlit, sum tolllóggávan fevnir um.</s>
+              <s xml:lang="fo" cert="high" xml:id="jv7rmx4hm7">Talan er um eftirlit við vørum, sum verða innfluttar, eru í transit ella verða útfluttar.</s>
+              <s xml:lang="fo" cert="high" xml:id="wmniz5jufa">Hetta bæði hvat viðvíkur vørum, sum skulu gevast upp til tollingar, t.v.s. skulu skrásetast og rinda toll- og avgjøld, og eisini upplýsingar, sum eru neyðugar fyri at hava tað eftirlit, sum er ásett í § 27 a í tolllógini.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="l3cy3tadcp">§ 27 a í tolllógini ásetur, at tollvaldið hevur eftirlit við, at tað ikki verða framd brot á forboð ímóti innflutningi, útflutningi ella transit, sum eru ásett av trygdar-, heilsu-, djóralæknafrøðiligum-, plantupatologiskum, gjaldoyra- ella øðrum orsøkum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tp6jnfcnll">Tollvaldið hevur eisini sambært hesi áseting eftirlit við, at tøkur peningur samsvarandi 10.000 evrum ella meira ikki verða flutt inn ella út uttan fráboðan til tolleftirlitið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vexes2tu2r">Fyri at kunna gera eitt nøktandi eftirlit er neyðugt hjá tollvaldinum at kunna fylgja við í, hvør ferðast til og úr Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="i63cnxddf7">Upplýsingarnar, sum tollvaldið hevur brúk fyri til eftirlitið, eru til dømis navn, kyn, føðidagur, tjóðskapur, passnummar, nær passið gongur út, hvar viðkomandi er føddur, bókingar- og bíleggingarupplýsingar, nær bílegging er framd, og nær ferðaseðil er útskrivaður, hvør hevur bílagt, ferðaskrivstova, ferðadagfesting, ferðaætlan, harundir sigling ella flúgving áðrenn og aftaná (connecting flights), eldri bíleggingar, upplýsingar um hvør ferðast saman, um hesar eru tøkar, kontaktupplýsingar, upplýsingar um gjalding, seturnummar ella kamarsnummar og um viðføri.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="uj6zbdm7sx">Heimildin fevnir ikki um at lata viðkvæmar persónsupplýsingar.</s>
+              <s xml:lang="fo" cert="high" xml:id="xkdryg6zlu">Sambært dátuverndarlógini eru viðkvæmar upplýsingar upplýsingar um lit og ættarslag, um átrúnaðarliga, heimsspekiliga ella politiska sannføring, um revsiverd og kynslig viðurskifti, heilsustøðu, yrkisfelagsligt tilknýti, munandi sosialar trupulleikar og onnur heilt privat viðurskifti.</s>
+              <s xml:lang="fo" cert="high" xml:id="oq3eivhror">Tollvaldið kann ikki fáa upplýsingar um til dømis serligar veitingar, sum kunnu upplýsa um sjúku ella brek og sum flutningsfyritøka møguliga hevur skrásett um ferðafólkið.</s>
+              <s xml:lang="fo" cert="high" xml:id="dt5z7fgccl">Tílíkar upplýsingar skulu í so fall skiljast frá, so tollvaldið ikki sær hesar upplýsingar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="p5e5xag24u">Við at áseta neyvari reglur í kunngerð um, hvørjar upplýsingar skulu latast og hvussu upplýsingarnar verða latnar, skal tryggjast, at tað heldur ikki ber til at síggja aðrar upplýsingar enn tær, sum mettar verða neyðugar til tolleftirlitið.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lxqrmohqli">Upplýsingarnar um ferðafólk og manning verða brúktar til at gera váðagreiningar.</s>
+              <s xml:lang="fo" cert="high" xml:id="t3loygubc2">Upplýsingarnar hava stóran týdning sum liður í at avgera, hvat viðføri og hvørjir persónar skulu takast út til fysiskt eftirlit.</s>
+              <s xml:lang="fo" cert="high" xml:id="j63ce52z2n">Upplýsingarnar viðvirka til, at tollvaldið kann útpeika, hvørji ferðafólk og viðføri skulu kannast nærri fyri millum annað at tryggja, at ólógligar vørur ikki koma til landið.</s>
+              <s xml:lang="fo" cert="high" xml:id="dq3mkn5jr2">Nevnast kann, at upplýsingarnar og greiningarnar, sum eru gjørdar við støði í upplýsingunum, hava víst seg gagnligar til dømis í sambandi við eftirlit við innflutningi av rúsevnum, sum er ein av týdningarmiklu uppgávunum hjá tollvaldinum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="a53odehanx">Sambært § 28, stk. 3 í galdandi tolllóg skal tollvaldið fáa upplýsingar um ferðafólk og manning, sum mettar verða neyðugar til tolleftirlit.</s>
+              <s xml:lang="fo" cert="high" xml:id="e4s342voxc">Tollvaldið hevur higartil fingið upplýsingar til eftirlitsendamál á ymiskan hátt.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lh5tmdjem3">Tollvaldið fær í dag ikki allar upplýsingar, sum eru neyðugar til tolleftirlitið og fær heldur ikki upplýsingarnar á ein hátt, sum er nøktandi til at gera tað neyðuga greiningararbeiðið fyri at hava eitt nøktandi tolleftirlit.</s>
+              <s xml:lang="fo" cert="high" xml:id="ujg2qx2tzn">Tað, at atgongdin til upplýsingar fæst á ymsan hátt, og at upplýsingarnar ikki eru skipaðar einsháttað, ger tað trupult at hava eina einsháttaða viðgerð og at tað er sera trupult at gera eina váðagreining í nóg góðari tíð til at kunna tryggja eitt nøktandi fysiskt eftirlit, tá fólk koma.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="zda7b4rqdg">Tær upplýsingar, sum verða latnar tollvaldinum, skulu varðveitast og viðgerast í samsvari við dátuverndararlógina.</s>
+              <s xml:lang="fo" cert="high" xml:id="vbbky3irfl">TAKS skal tryggja, at upplýsingarnar verða viðgjørdar trygt, tað vil siga at bara viðgerð fer fram, sum hevur heimild í lógini, og soleiðis at persónsupplýsingar ikki ólógliga forkomast, missast ella skerjast, og at tær ikki koma óviðkomandi til kunnleika ella verða misnýttar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lyzxkn5wul">Í innanhýsis mannagongdum verða reglur gjørdar fyri, hvussu tolleftirlitið kann viðgera upplýsingarnar, herundir, hvussu upplýsingarnar verða varðveittar, nær upplýsingarnar ikki longur kunnu vera tøkar elektroniskt v.m. Slíkar ásetingar skulu liva upp til ásetingarnar í dátuverndarlógini og verða settar í verk og eftirkannaðar sum fastur partur av internu mannagongdunum hjá TAKS.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cpxdqcf24s">Upplýsast kann, at í donsku tolllógini er sama heimild til at innheinta upplýsingar um ferðafólk og manning, sum TAKS hevur í dag í § 28, stk. 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="uigewmq6yj">Hendan heimildin varð nýtt í nógv ár til at fáa upplýsingar um ferðafólk.</s>
+              <s xml:lang="fo" cert="high" xml:id="w4hqbqyw6d">Í 2014 varð tó ein neyvari heimild, líknandi tí, sum her verður skotin upp, sett í donsku tolllógina.</s>
+              <s xml:lang="fo" cert="high" xml:id="vcbmppxv3s">Ásett varð í kunngerð, hvørjar upplýsingar tollvaldið skuldi hava.</s>
+              <s xml:lang="fo" cert="high" xml:id="q7saxj2yml">Tann neyvara heimildin í donsku tolllógini og viðkomandi ásetingar í kunngerðini vóru settar úr gildi, tá nýggja danska PNR-lógin (lov om indsamling, anvendelse og opbevaring af oplysninger om flypassagerer) kom í gildi 1. januar 2019.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="us34aedrrm">PNR-lógin regulerar atgongdina bæði hjá tollvaldinum, politinum, politiets efterretningstjeneste og forsvarets efterretninsgstjeneste til upplýsingar um ferðafólk við flogførum.</s>
+              <s xml:lang="fo" cert="high" xml:id="kggjpzmuq5">Eisini regulerar lógin víðarigeving av upplýsingunum til myndugleikar í øðrum londum og altjóða felagsskapir.</s>
+              <s xml:lang="fo" cert="high" xml:id="oxhj5lp6al">Við PNR-lógini fær danska tollvaldið atgongd til somu upplýsingar, sum tey fingu frammanundan um ferðafólk við flogførum og somu upplýsingar, sum tollvaldið í Føroyum skal fáa við tilmæltu ásetingunum og sum tollvaldið lutvíst hevur fingið frammanundan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yihrtpedsi">Eisini kann viðmerkjast, at tollmyndugleikarnir í t.d. Noregi og Íslandi hava atgongd til skipanir hjá flutningsfeløgunum og hava á tann hátt atgongd til somu upplýsingar, sum ætlanin er at føroyska tollvaldið skal fáa frá flutningsfeløgunum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="pfnpvrgwyi">Uppskotið til nýtt stk. 9 í § 28 snýr seg um, at landsstýrismaðurin fær heimild at áseta reglur um, at havnarmyndugleikar og flogferðslumyndugleikar skulu lata tollvaldinum tøkar upplýsingar um komu og fráferð hjá skipum, bátum og flogførum, um uppskipan og avskipan av vørum og um ílandsetan og umborðtøku av ferðafólki.</s>
+              <s xml:lang="fo" cert="high" xml:id="wixbm435vx">Í dag er ásett í § 5 í kunngerð um tolleftirlit, at havnamyndugleikar hava skyldu at siga tollvaldinum frá ófráboðaðum skipum, sum koma til tolløkið, og at siga frá, um teir eru varugir við, at skip uppskipa ella innskipa vørur ólógliga.</s>
+              <s xml:lang="fo" cert="high" xml:id="xqcwxm3duf">Eisini er ásett í § 15 í kunngerðini, at floghavnsmyndugleikar skulu boða tollvaldinum frá komu hjá væntaðum og óvantæðum flogførum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qweelbs6pf">Fráboðanir frá floghavnsmyndugleikunum og havnamyndugleikunum hava stóran týdning fyri at kunna tryggja tolleftirlit við flogførum og skipum, sum koma til Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="lpnjmsq223">TAKS og Fíggjarmálaráðið halda tað vera rættast, at fráboðanarskyldan verður ásett í lógini heldur enn í kunngerð sum í dag.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ytjjrz4jos">Tollvaldið fær í dag fráboðanir frá floghavnsmyndugleikanum og í ávísum førum frá havnamyndugleikum um ófráboðaðar komur.</s>
+              <s xml:lang="fo" cert="high" xml:id="km4k2jygkx">Skipanin hevur virkað væl, tollvaldið hevur fingið gjørt sítt arbeiði og hevur fingið tey skjøl, sum eru kravd sambært galdandi lóg, tá flogfør og skip koma til Føroya, umframt at løgreglan hevur fingið gjørt sítt passeftirlit, tá flogfør koma úr økjum uttanfyri Schengen.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wlab7xofms">Tørvurin á eftirliti í sambandi við at skip og bátar koma til Føroyar er í dag nógv størri, tí sum samfelagið hevur háttað seg, er vorðið vanligari, at privatpersónar sigla millum lond við egnum førum og koma inn í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="jz5f6p25bz">Tí er neyðugt, at tollvaldið hevur fleiri eygu á hesum og fær fráboðanir, eisini tá havnamyndugleikar gerast varugir við bátar, sum ikki hava boðað frá komu ella síggja bátar uppskipa ella innskipa vørur uttan fráboðan.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="eeem6wghev">Hetta samstarvið er alneyðugt fyri at kunna tryggja eftirlitið við innflutningi til Føroyar.</s>
+              <s xml:lang="fo" cert="high" xml:id="s3vlqxhpm4">Talan er ikki um at leggja uppgávur út á kommunurnar, men at staðfesta eitt neyðugt samstarv, og sum í summum økjum kundi verið betri, men sum eisini hevur virkað væl í fleiri førum.</s>
+              <s xml:lang="fo" cert="high" xml:id="swaevfkzvu">Endamálið er at kunna steðga ferðslu av ólógligari vøru.</s>
+              <s xml:lang="fo" cert="high" xml:id="gg5hxfj6ih">Ynskið er, at samstarvið verður ein natúrligur partur av rakstrinum av havnunum kring landið, hetta fyri at tryggja skipað viðurskifti soleiðis, at tollvaldið hevur umstøður til eina og hvørja tíð at gera sítt arbeiði til lítar.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="v5eyfl7ggf">Tá ið umræður upp- og innskipan av vørum, hevur samfelagið eisini broytt seg soleiðis, at skip ikki longur koma inn til ávísar havnir at upp- og innskipa, men leggja at, har tørvur er á upp- og innskipan.</s>
+              <s xml:lang="fo" cert="high" xml:id="lgdrqfjpjp">Samstarv millum myndugleikarnar er neyðugt fyri at tryggja, at alt fer lógliga fram og undir skipaðum viðurskiftum.</s>
+              <s xml:lang="fo" cert="high" xml:id="zsepdtm7zv">Í øðrum londum er eisini vanligt við slíkum samstarvi millum floghavnsmyndugleikar, havnamyndugleikar og tollmyndugleikar.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 27</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="r62e3x6ygy">Alla staðni í lógini har heimildir eru lagdar landsstýrinum at gera neyvari reglur, verður hetta broytt, soleiðis at heimildirnar eru hjá landsstýrismanninum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 28</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="vzk7mfgxh7">Í 2011 vórðu reglur settar í §§ 27 a og 27 b í tolllógini um, at tollvaldið hevði eftirlit millum annað við tøkum peningi og at persónar, sum senda tøkan pening samsvarandi við 10.000 evrur ella meira til ella frá tolløkinum, skulu boða tollvaldinum frá tøka peninginum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="oq4kujz4hj">Mett verður, at tað eigur at verða nágreinað í tolllógini, at skyldan at boða frá tøkum peningi eisini er galdandi fyri persónar, sum hava tøkan pening við sær, tá tey ferðast til ella frá tolløkinum, ikki bert tá tøkur peningur verður sendur til ella úr Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ici27yqt3d">Tí verður skotið upp at seta inn nýtt stykki í § 29, sum ásetur skylduna hjá ferðandi til og úr Føroyum at boða frá tøkum peningi samsvarandi 10.000 evrum ella meira.</s>
+              <s xml:lang="fo" cert="high" xml:id="cunvgjqzrz">Heimildin hjá tollvaldinum sambært § 27 b í tolllógini til at eftirhalda tøkan pening, tá hildið verður, at hann kemur frá broti ella fer at verða nýttur til brot á revsilógina ella aðra lóggávu, sum er undir almennari lógsókn, kann eisini nýtast í hesum førum, tá ferðandi hava tøkan pening við sær, eins og tá tøkur peningur verður sendur til ella úr Føroyum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 29</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wy56nbmelb">§ 29, stk. 3, sum verður stk. 4, ásetir, at persónar, sum eru fevndir av stk. 1-3 skulu, tá ið tollvaldið krevur tað, uppgeva navn og bústað.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qzqfel6mqj">Tað sama verður galdandi fyri persónar, sum skulu steðga til tolleftirlit og boða frá tøkum peningi samsvarandi 10.000 evrum ella meir, sum tey hava við sær.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rujg66lssx">Skotið verður upp, at um tekin eru um ólógligt virksemi í sambandi við tøkan pening, kann tollvaldið krevja upplýsingar, skráseta og viðgera upplýsingar um persónin og um tøka peningin.</s>
+              <s xml:lang="fo" cert="high" xml:id="xparoishzq">Ásetingin gevur tollvaldinum heimild til at krevja, at ferðandi millum annað upplýsa um seg sjálvan, og um peningin og tollvaldið fær heimild til at skráseta upplýsingarnar og at viðgera tær.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qrnd5au4un">Hetta er ikki bara galdandi fyri upphæddir samsvarandi 10.000 evrur ella meira, men upplýsingar um tøkan pening uttan mun til upphædd.</s>
+              <s xml:lang="fo" cert="high" xml:id="quph23kcjm">Hinvegin er tað eitt krav, at tollvaldið metir, at tekin er um ólógligt virksemi, sum hevur tilknýti til peningin.</s>
+              <s xml:lang="fo" cert="high" xml:id="i6ijdekzlj">Tá ásett er, at tað skal vera tekin um ólógligt virksemi, so er ikki krav, at tað skal vera beinleiðis illgruni til ávíst ólógligt virksemi, men at ábendingar eru, sum møguliga týða uppá ólógligt virksemi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gzq2qcpjz3">Upplýsingarnar sum kunnu krevjast, skrásetast og viðgerast eru millum annað fult navn, føðidato, føðistaður, tjóðskapur, hvør eigur tøka peningin, hvør skal hava peningin, upphæddina, hvat slag av tøkum peningi talan er um, reiður peningur, handhavaskjøl ella líknandi, hvar peningurin stavar frá, hvat peningurin ætlandi skal nýtast til, hvussu ætlanin er at flyta peningin víðari, við hvørjum flutningsfari v.m.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 30</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="mxcdob7535">Talan er um fylgibroyting av, at stk. 5 verður stk. 6.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 31</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="qdsfw2xw6m">Sambært § 29, stk. 8, sum verður stk. 9, hevur tollvaldið heimild at seta eftir og steðga persónum, ið bera seg undan, ella mugu ætlast at bera seg undan eftirliti og sum hava ella mugu ætlast at hava óavgreiddar vørur við sær.</s>
+              <s xml:lang="fo" cert="high" xml:id="a4ueyxvwbp">Í slíkum førum hevur tollvaldið eisini sambært galdandi § 29, stk. 8 rætt til at gera eftirlit í húsum, flutningsførum v.m., tá ið hetta verður gjørt beinleiðis í sambandi við, at sett verður eftir persóninum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cszrdia2v7">Við hesum uppskotinum verður sama heimild givin tollvaldinum at seta eftir persónum og steðga persónum, sum hava ella mugu ætlast at hava við sær tøkan pening samsvarandi 10.000 evrur ella meira, og at gera eftirlit í húsum, flutningsførum v.m., um tað verður gjørt í beinleiðis sambandi við, at man fylgir eftir persóninum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="iei2ngpxtc">Somu heimild fær tollvaldið, um persónur hevur ella kann ætlast at hava við sær vørur, sum eru nevndar í § 27 a, tað er vørur, sum eru bannaðar innflutningi, útflutningi ella transit, og hetta bann er sett av trygdar-, heilsu-, djóralæknafrøðiligum-, plantupatologiskum, gjaldoyra- ella øðrum orsøkum.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 32</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cvsguhw2nz">Sambært § 30, stk. 3 í tolllógini er ein treyt um, at eftirkanning, ið ikki bert avmarkast til uttanáklæðini, bert kann gerast eftir boðum frá ovasta hjáverandi tollyvirmanni, umframt at tað eru nóg góðar grundir til at halda, at viðkomandi hevur ólógligar vørur uppi á sær v.m.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="urkbdn5k4n">Mælt verður til at strika kravið um, at tollyvirmaður skal geva boð um útvíðkaða kanning av fólki.</s>
+              <s xml:lang="fo" cert="high" xml:id="hyibkvibnj">Kravið stavar frá tíðini, tá ið tollyvirmenn starvaðust hjá tolleftirlitinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="ftr2rctk74">TAKS er í dag skipað við einum tollleiðara og tollarum, sum eru javnsettir.</s>
+              <s xml:lang="fo" cert="high" xml:id="ukmv5su4er">Teir tollarar, sum eru á vakt, taka støðu í samráði við hvønn annan.</s>
+              <s xml:lang="fo" cert="high" xml:id="ufexaukjmo">Í dag er ikki talan um, at ein tollari er omanfyri annan tollara, og TAKS hevur ikki tollyvirmenn í starvi.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="di7ei5be6o">Kravið eigur tí at verða strikað soleiðis, at spurnartekin ikki verða sett við heimildina at gera víðkaða kanning, tá nóg góðar grundir eru til at halda, at viðkomandi hevur ólógligar vørur uppi á sær.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 33</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ft7g2xqc3d">Heitið <hi rend="italic">Rentur og innheinting</hi> er rættari heiti fyri kapittul 9 a.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 34</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="lvuhmvde5l">Skotið verður upp at flyta revsiásetingina fyri ikki at boða frá tøkum peningi til § 36 í tolllógini, har eisini onnur brot á fráboðanarskyldur eru.</s>
+              <s xml:lang="fo" cert="high" xml:id="edux5licn7">Víst verður til viðmerkingina til broyting nr. 39.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 35</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="g3fkfd7lh5">Nágreinað verður, at heimildin at revsa fyri við tilætlan ella grovum ósketni at keypa ella selja smuglaðar vørur eisini fevnir um við grovum ósketni ella tilætlað at ogna sær vørur.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="oh3nxtnuza">Heimild verður sostatt eisini at revsa ikki bara ein, sum tilætlað ella av grovum ósketni keypir, tað vil siga letur pening ella onnur virði afturfyri ella tekur ímóti frá øðrum smuglaðar vørur, men eisini ein, sum sjálvstøðugt, uttan at keypa frá øðrum ella taka ímóti frá øðrum, tilætlað ella av grovum ósketni sjálvstøðugt ognar sær smuglaðar vørur.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 36</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="xfzkqaa4ve">Sambært § 35, nr. 2 kann tann verða revsaður, ið tilætlað ella av grovum ósketni ikki lýkur skyldu til at frambjóða vørur, ið eru undir tollstongsli fyri tollvaldinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tbfm72by3l">Ásetingin hevur ta fortreyt, at ein skylda er ásett sambært tolllógini at frambjóða vørur, ið eru undir tollstongsli fyri tollvaldinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="aysirogznc">Ongin slík skylda er beinleiðis ásett í lóggávuni.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="sqhka4zkig">Tí verður orðingin broytt, soleiðis at heimild verður at revsa tann, sum hevur ábyrgd av vøru, sum er løgd undir tollstongsul, sum ikki kann vísa vøruna fram fyri tollvaldinum, tá tollvaldið hevur eftirlit við vøru undir tollstongsli.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 37</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="xjqvjj2hhh">Heimild verður ásett at revsa við sekt tann, ið tilætlað ella av grovum ósketni brýtur § 28, stk. 8.</s>
+              <s xml:lang="fo" cert="high" xml:id="cz5i77oreb">Í § 28, stk. 8 verður við hesum uppskoti ásett nýggj neyvari skylda at lata upplýsingar um ferðafólk og manning á skipum og flogførum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bof2uhij5l">Í dag er skylda at lata upplýsingar um millum annað ferðafólk og manning í § 28, stk. 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="nwhclwtwax">Revsiheimild fyri brot á § 28, stk. 3 er í dag ásett í bæði § 36, stk. 1, nr. 1 og 2.</s>
+              <s xml:lang="fo" cert="high" xml:id="yctswuhdqy">Mett verður, at brot á neyvaru ásetingina í § 28, stk. 8 eigur at hava somu revsiáseting sum brot á § 28, stk. 3.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 38</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="kh4urcqraq">Heimild verður sett inn at revsa fyri brot á § 28, stk. 8, sum er neyvara skyldan at lata upplýsingar um ferðafólk og manning á skipum og flogførum.</s>
+              <s xml:lang="fo" cert="high" xml:id="xw5fujdihg">Víst verður til viðmerkingarnar til broyting nr. 41.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 39</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="cehlifrhnf">Revsiheimildin, sum var í § 31, stk. 1, nr. 7 verður flutt til § 36, stk. 1, nr. 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="fwanzcyz7m">Heimildin verður sostatt tann sama at revsa fyri tilætlað ella av grovum ósketni ikki at boða frá tøkum peningi í sendingum.</s>
+              <s xml:lang="fo" cert="high" xml:id="lu5cmya74s">Skyldan at boða frá tøkum peningi í sendingum er í § 27 a, stk. 2.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="klqlhjej36">Harafturat verður revsiheimild sett inn fyri brot framd tilætlað ella av grovum ósketni á fráboðanarskyldu av tøkum peningi, sum ferðafólk hava við sær.</s>
+              <s xml:lang="fo" cert="high" xml:id="krbix6hgem">Hendan skyldan verður við uppskotinum sett inn í § 29, stk. 3.</s>
+              <s xml:lang="fo" cert="high" xml:id="rqau3tjbma">Heimild verður at revsa við sekt, um ferðandi tilætlað ella av grovum ósketni ikki boða frá tøkari upphædd samsvarandi 10.000 evrur eins og fyri sendingum við tøkum peningi.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 40</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="gff3y3mvid">Skotið verður upp at seta inn heimild at áseta sekt, um flutningsfyritøka ella speditørur tilætlað ella av grovum ósketni ikki letur upplýsingar elektroniskt sum ásett í § 10 b, stk. 1, um undantak ikki er fingið sbrt. § 10 b, stk. 2.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 41</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="hlojruxz4b">Í § 39 eru ásetingar um, at tollvaldið ella løgreglan tollvaldsins vegna, undir ávísum treytum kunnu taka í varðveitslu ella leggja hald á vørur, sum eru innsmuglaðar ella, sum tollur og avgjøld ikki eru rindað av. Hetta er somuleiðis galdandi fyri vørur, sum tollvaldið er komið fram á í sambandi við eftirlit sambært § 29, stk. 8, sum nú verður stk. 9.</s>
+              <s xml:lang="fo" cert="high" xml:id="betaf4lxww">Hetta er, tá tollvaldið setir eftir persóni, sum hevur ella kann ætlast at hava óavgreiddar vørur við sær ella, tá tollvaldið í sambandi við, at sett er eftir persóni, hevur gjørt eftirlit í húsum, flutningsførum v.m.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="p2odbjuatv">Heimildin verður víðkað til eisini at fevna um vøru, sum tolleftirlitið er komið fram á í sambandi við eftirlit framt eftir § 29, stk. 10, sum gevur tollvaldinum samsvarandi heimildir sum ásettar í § 29, stk. 8, sum verður stk. 9, tá talan er um tøkan pening samsvarandi við 10.000 evrur ella meira ella vørur, sum av trygdar-, heilsu-, djóralæknafrøðiligum-, plantupatologiskum, gjaldoyra- ella øðrum orsøkum eru bannaðar innflutningi, útflutningi ella transit.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Nr. 42</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="n75xt7yggh">Sambært § 40 í tolllógini kunnu flutningsfør, ið hava verið nýtt til innsmugling ella roynd til innsmugling av vørum ella til flutning av sovorðnum innsmuglaðum vørum á tolløkið, haldast aftur av tollvaldinum ella av løgregluni tollvaldsins vegna, til tær toll- og avgjaldsupphæddir og sakarmálskostnaður, ið skyldast av ánara ella skipara, manning ella øðrum í tænastu á flutningsfarinum, eru goldnar ella trygd veitt fyri hesum.</s>
+            </p>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="wjpnezkz3h">Galdandi áseting fevnir ikki um sektarupphæddir.</s>
+              <s xml:lang="fo" cert="high" xml:id="sfuur52uki">Tað vil siga, at flutningsfør kunnu bara haldast aftur, til toll- og avgjaldsupphæddir og sakarmálskostnaður er rindaður og ikki til sektarupphæddir eru rindaðar.</s>
+              <s xml:lang="fo" cert="high" xml:id="gymlitzgjw">Mælt verður til at broyta hetta, so flutningsfør eisini kunnu haldast aftur, til sektarupphædir eru rindaðar.</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Til § 2</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="yzr2aryn77">Áseting um gildiskomu.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2021-02-11">11. februar 2021.</date></dateline>
+        <space dim="vertical"/>
+        <signed rend="center">
+          <persName ref="https://tingdata.fo/person/kykjv24i">
+            <hi rend="bold">Jørgen Niclasen</hi>
+            <lb/>
+            <roleName>landsstýrismaður</roleName>
+          </persName>
+        </signed>
+        <signed rend="right"> / <persName>Bjarni Askham Bjarnason</persName></signed>
+      </div>
+      <div type="section">
+        <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
+        <list rend="simple list-of-appendices">
+          <label>Fylgiskjal 1:</label>
+          <item>Javntekstur</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Hoyringarsvar frá Dátueftirlitinum</item>
+          <label>Fylgiskjal 3:</label>
+          <item>Hoyringarsvar frá Atlantic Airways</item>
+          <label>Fylgiskjal 4:</label>
+          <item>Hoyringarsvar frá Føroya Landfúta</item>
+          <label>Fylgiskjal 5:</label>
+          <item>Hoyringarsvar frá Vinnuhúsinum</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,987 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um veiðigjøld fyri fiskiskap (Veiðigjaldslógin)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>landsstýrismaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/47469"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2021-04-13">13.04.2021</date>
+          <idno type="case-number">21/00010</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Dagfesting:</cell>
+          <cell rend="meta-cell">13.04.2021</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Mál nr.:</cell>
+          <cell rend="meta-cell">21/00010</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Málsviðgjørt:</cell>
+          <cell rend="meta-cell">DH</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Ummælistíð:</cell>
+          <cell rend="meta-cell">22.03.2021/29.03.2021</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Eftirkannað:</cell>
+          <cell rend="meta-cell">30.03.2021</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg</ab>
+        <ab rend="bold center">um</ab>
+        <ab rend="bold center">veiðigjøld fyri fiskiskap</ab>
+        <ab rend="bold center">(Veiðigjaldslógin)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div n="Skylda at rinda veiðigjald">
+          <head rend="italic">Skylda at rinda veiðigjald</head>
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <s xml:lang="fo" cert="high" xml:id="mh6laufcrc">Eigari av fiskifari, undir føroyskum flaggi, sum veiðir av rættindum, Føroyar ráða yvir, skal rinda veiðigjald av veiðu av makreli, norðhavssild, svartkjafti og botnfiski í Barentshavinum.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <seg xml:lang="fo">Veiðigjald skal ikki rindast av:</seg>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg xml:lang="fo">veiðu, tá rættindini at veiða eru keypt á uppboðssølu, og uppboðssølugjald skal rindast fyri kvotuna, ella</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg xml:lang="fo">kvotum, latnar fiskiførum á føroysku landleiðunum, sambært §§ 18 og 19 í løgtingslóg um sjófeingi ella fiskiførum við fiskiloyvi til fiskiskap við gørnum eftir havtasku og svartkalva á føroysku landleiðunum.</seg>
+                  </item>
+                </list>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Allýsingar">
+          <head rend="italic">Allýsingar</head>
+          <div type="bill-section" n="§ 3.">
+            <div n="§ 3. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <seg xml:lang="fo">Í hesi løgtingslóg merkir:</seg>
+                <list type="number">
+                  <label>1)</label>
+                  <item>
+                    <seg xml:lang="fo">Botnfiskur í Barentshavinum: Botnfiskur, sum persónur ella felag fær loyvi at fiska sambært:</seg>
+                    <list type="litra">
+                      <label>a)</label>
+                      <item>
+                        <seg xml:lang="fo">fiskiloyvi til botnfisk í russiskum sjógvi í Barentshavinum,</seg>
+                      </item>
+                      <label>b)</label>
+                      <item>
+                        <seg xml:lang="fo">fiskiloyvi til botnfisk í norskum sjógvi norðan fyri 62°N, ella</seg>
+                      </item>
+                      <label>c)</label>
+                      <item>
+                        <seg xml:lang="fo">fiskiloyvi til botnfisk við Svalbard.</seg>
+                      </item>
+                    </list>
+                  </item>
+                </list>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Veiðigjald">
+          <head rend="italic">Veiðigjald</head>
+          <div type="bill-section" n="§ 4.">
+            <div n="§ 4. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="li23azo5aa">Veiðigjald verður ásett fyri hvørt fiskaslag sær fyri eitt ár í senn, sum eitt krónugjald fyri hvørt kilo í rundari vekt.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 5.">
+            <div n="§ 5. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="suwan5krz7">Veiðigjald á makrel, norðhavssild og svartkjaft verður roknað eftir ásetingunum í § 9, stk. 1 og 2 og verður lagt á veiðu, landað 1. august til og við 31. juli.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="tli4vlsceq">Á hvørjum ári, seinast 15. juli, ásetir landsstýrismaðurin í kunngerð veiðigjald fyri makrel, norðhavssild og svartkjaft, sum skal vera galdandi 1. august til og við 31. juli árið eftir, samanber tó § 7, stk. 2.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 6.">
+            <div n="§ 6. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="j7jfwkn6fs">Veiðigjald á botnfisk í Barentshavinum verður roknað eftir ásetingunum í § 9, stk. 1 og 3, og verður lagt á veiðu, sum er landað frá 1. januar til og við 31. desember.</s>
+              </p>
+            </div>
+            <div n="§ 6. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="ax4clnodi5">Í seinasta lagi 15. desember á hvørjum ári ásetir landsstýrismaðurin í kunngerð veiðigjald á botnfisk í Barentshavinum, sum skal vera galdandi frá 1. januar til og við 31. desember, samanber tó § 7, stk. 2.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 7.">
+            <div n="§ 7. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 7.</label>
+                <s xml:lang="fo" cert="high" xml:id="kzpi6k6ur4">Fer tøka kvotan, sum er sett av til fiskifør undir føroyskum flaggi at fiska, undir 50% av miðal tøku kvotuni, sum er sett av til fiskifør undir føroyskum flaggi at fiska seinastu 5 árini, lækkar veiðigjaldið, tað árið, kvotan er galdandi, niður í 50% av veiðigjaldinum, útroknað eftir § 9.</s>
+              </p>
+            </div>
+            <div n="§ 7. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="a2m3k5r62x">Tá staðfestast kann at tøka kvotan, sum er sett av til fiskifør undir føroyskum flaggi at fiska eitt ár, er lægri enn mørkini, sum eru ásett í stk. 1, skal landsstýrismaðurin í kunngerð áseta lækkaða veiðigjaldið sambært stk. 1.</s>
+                <s xml:lang="fo" cert="high" xml:id="sc3kwsk6ge">Er talan um kvotu av makreli, norðhavssild ella svartkjafti, ásetir landsstýrismaðurin í seinasta lagi 15. juli í kunngerð veiðigjaldið sambært stk. 1, sum skal vera galdandi frá 1. august til og við 31. desember.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 8.">
+            <div n="§ 8. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 8.</label>
+                <s xml:lang="fo" cert="high" xml:id="vx2xxcxdhd">Tá veiðigjald verður álagt, skulu teir í skjali 2 og skjali 3 nevndu umrokningarfaktorar nýtast til umrokning av fiski og fiskavøru til runda vekt.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Útrokning av veiðigjaldi">
+          <head rend="italic">Útrokning av veiðigjaldi</head>
+          <div type="bill-section" n="§ 9.">
+            <div n="§ 9. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 9.</label>
+                <s xml:lang="fo" cert="high" xml:id="n4mvc4oqrk">Veiðigjaldið er tað í skjali 1 ásetta prosentið av miðal avreiðingarvirðinum fyri hvørt kilo í rundari vekt fyri hvørt fiskaslag sær.</s>
+              </p>
+            </div>
+            <div n="§ 9. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="kdfdistu32">Miðal avreiðingarvirðið fyri makrel, norðhavssild og svartkjaft verður gjørt upp fyri hvørt fiskaslag sær.</s>
+                <s xml:lang="fo" cert="high" xml:id="nomhdvmfjj">Uppgerðin verður gjørd við støði í avreiðingarprísum og nøgdum í rundari vekt fyri nevndu fiskasløg, sum fiskifør undir føroyskum flaggi landa feskt óvirkað, og sum eru avreidd og fráboðað Vørn 1. juli árið frammanundan, at veiðigjaldið skal áleggjast, og til og við 30. juni sama ár, veiðigjaldið skal áleggjast.</s>
+              </p>
+            </div>
+            <div n="§ 9. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="qgggug7map">Fyri botnfisk í Barentshavinum verður miðal avreiðingarvirðið gjørt upp við støði í prísum og nøgdum av toski í rundari vekt, sum er seldur á almennari uppboðssølu í Føroyum frá 1. desember annað árið frammanundan, at veiðigjaldið skal áleggjast, til og við 30. november árið frammanundan, at veiðigjaldið skal áleggjast.</s>
+                <s xml:lang="fo" cert="high" xml:id="hrpnu43vwy">Selda nøgdin av fiski og fiskavøru skal umroknast til runda vekt eftir ásetingunum um umrokningarfaktorar, ásettir við heimild í løgtingslóg um sjófeingi.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Upplýsingarskylda">
+          <head rend="italic">Upplýsingarskylda</head>
+          <div type="bill-section" n="§ 10.">
+            <div n="§ 10. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 10.</label>
+                <s xml:lang="fo" cert="high" xml:id="v6tud6bo6c">Tann, sum rekur almenna uppboðssølu av fiski í Føroyum, skal í seinasta lagi 5. desember á hvørjum ári lata Vørn upplýsingar um prís og nøgd av toski, sum er seldur á uppboðssølu frá 1. desember árið fyri til og við 30. november.</s>
+                <s xml:lang="fo" cert="high" xml:id="qxybajkmba">Vørn letur landsstýrismanninum upplýsingarnar um tosk seldan um almenna uppboðssølu og umroknað til miðal avreiðingarvirði í rundari vekt.</s>
+                <s xml:lang="fo" cert="high" xml:id="z5zpy3k5tm">Fiskur og fiskavøra skal umroknast til runda vekt eftir ásetingunum um umrokningarfaktorar, ásettir við heimild í løgtingslóg um sjófeingi.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 11.">
+            <div n="§ 11. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 11.</label>
+                <s xml:lang="fo" cert="high" xml:id="ovi5ynbkbc">Vørn skal í seinasta lagi 5. juli á hvørjum ári lata landsstýrismanninum upplýsingar um prís og nøgd í rundari vekt av makreli, norðhavssild og svartkjafti, sum fiskifør undir føroyskum flaggi hava landað feskt óvirkað, og sum er avreidd og fráboðað Vørn 1. juli árið frammanundan til og við 30. juni.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Innkrevjing">
+          <head rend="italic">Innkrevjing</head>
+          <div type="bill-section" n="§ 12.">
+            <div n="§ 12. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 12.</label>
+                <s xml:lang="fo" cert="high" xml:id="semqbvikpy">Veiðigjald fellur til gjaldingar so hvørt, veiðan er landað.</s>
+              </p>
+            </div>
+            <div n="§ 12. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="mka73r4j4g">Vørn ger upp veiðigjaldið og sendir eigara av fiskifari rokning.</s>
+              </p>
+            </div>
+            <div n="§ 12. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="rxynwsuqmj">Gjaldfreistin er 10 dagar eftir dagfesting á rokning.</s>
+              </p>
+            </div>
+            <div n="§ 12. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="bqrqnxhlwm">Rinda rættindahavarar ikki rættstundis, skal renta rindast við 0,7% fyri hvønn byrjaðan mánað.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 13.">
+            <div n="§ 13. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 13.</label>
+                <s xml:lang="fo" cert="high" xml:id="qoset2w3wg">Veiðigjald, umframt renta og møguligur innheintingarkostnaður, kann verða innheintað við panting.</s>
+                <s xml:lang="fo" cert="high" xml:id="jm32osmkgu">TAKS fremur panting eftir reglunum um innheinting av skattum, tó er § 7, stk. 1 í lov for Færøerne om inddrivelse af skatter og afgifter til det offentlige m.m. ikki galdandi.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Revsiásetingar">
+          <head rend="italic">Revsiásetingar</head>
+          <div type="bill-section" n="§ 14.">
+            <div n="§ 14. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 14.</label>
+                <s xml:lang="fo" cert="high" xml:id="ygb2cpnuvj">Er ikki harðari revsing ásett eftir aðrari lóg, verður tann, sum við tí í hyggju at sleppa undan at gjalda veiðigjald sambært hesi løgtingslóg, greiðir rangt frá, ella á annan hátt gevur villleiðandi upplýsingar, tá gjøldini skulu gerast upp ella áleggjast, revsaður við sekt ella fongsli upp í 2 ár.</s>
+              </p>
+            </div>
+            <div n="§ 14. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="mpvcuahrpu">Er brotið framt av stórum gáloysni, er revsingin sekt ella, tá ið talan er um skerpandi umstøður, fongsul upp í 4 mánaðir.</s>
+              </p>
+            </div>
+            <div n="§ 14. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="fqfmqdlx77">Feløg og aðrir løgfrøðiligir persónar koma undir revsiábyrgd eftir reglunum í kapitli 5 í revsilógini.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Gildiskoma o.a.">
+          <head rend="italic">Gildiskoma o.a.</head>
+          <div type="bill-section" n="§ 15.">
+            <div n="§ 15. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 15.</label>
+                <s xml:lang="fo" cert="high" xml:id="afid77pzou">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+              </p>
+            </div>
+            <div n="§ 15. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="eymxmihpz5">Stk. 5 kemur í gildi 1. august 2021.</s>
+              </p>
+            </div>
+            <div n="§ 15. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="uz4dt4yt2s">Veiðigjald á makrel, norðhavssild og svartkjaft er galdandi fyri veiðu landað frá og við 1. august 2021.</s>
+              </p>
+            </div>
+            <div n="§ 15. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="s77huumyrg">Veiðigjald á botnfisk í Barentshavinum er galdandi fyri veiðu landað frá og við 1. januar 2022.</s>
+              </p>
+            </div>
+            <div n="§ 15. Stk. 5.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="turjsgrbah">Í løgtingslóg um serstakar treytir fyri fiskiskapi eftir makreli, norðhavssild og svartkjafti í 2018, 2019, 2020 og 2021 og botnfiski í Barentshavinum í 2020 og 2021 verður § 1, stk. 2, nr. 1-3 strikað.</s>
+                <s xml:lang="fo" cert="high" xml:id="a4ucedlhgn">Nr. 4 verður eftir hetta nr. 1.</s>
+              </p>
+            </div>
+            <div n="§ 15. Stk. 6.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="v76pdsjjfd">Løgtingslóg um serstakar treytir fyri fiskiskapi eftir makreli, norðhavssild og svartkjafti í 2018, 2019, 2020 og 2021 og botnfiski í Barentshavinum í 2020 og 2021 fer úr gildi 1. januar 2022.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <!-- TODO: add appendix/schedules later! -->
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="1.1.">
+          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="njm3ee3vrn">Samgongan hevur sett sær fyri at dagføra skipanina við veiðigjøldum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="db6rthh5jl">Skipanin við uppboðssølum bleiv avtikin við løgtingslóg um sjófeingi, sum varð samtykt av Løgtinginum 21. desember 2019.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wv5o46fbar">Hetta lógaruppskotið miðar eftir at fremja málið um at dagføra skipanina við veiðigjøldum soleiðis, at tey frameftir fylgja gongdini í vinnuni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sc4t2pnohf">Á hendan hátt kann fiskivinnan undir tryggum kørmum skapa virði til bæði land og vinnu.</s>
+          </p>
+        </div>
+        <div type="section" n="1.2.">
+          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hqs2jgzro2">Veiðigjøld fyri makrel, norðhavssild, svartkjaft og botnfisk í Barentshavinum eru í dag ásett í løgtinglóg nr. 172 frá 20. desember 2017.</s>
+            <s xml:lang="fo" cert="high" xml:id="zpxxmvkzvb">Talan er um veiðigjøld, har goldið verður eitt kilogjald fyri rættin at fiska hvørt fiskaslag.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="va7hbwrhpe">Higartil hevur tað verið soleiðis, at tað er Løgtingið, sum hevur ásett gjøldini fyri eitt ár í senn.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Fyri 2020 og 2021 eru veiðigjøldini hesi:</seg>
+          </p>
+          <list rend="simple">
+            <label>1)</label>
+            <item>1,50 kr. fyri hvørt fiskað kilo í rundari vekt av makreli,</item>
+            <label>2)</label>
+            <item>0,60 kr. fyri hvørt fiskað kilo í rundari vekt av norðhavssild,</item>
+            <label>3)</label>
+            <item>0,25 kr. fyri hvørt fiskað kilo í rundari vekt av svartkjafti, og</item>
+            <label>4)</label>
+            <item>0,50 kr. fyri hvørt fiskað kilo í rundari vekt av botnfiski,</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hdxocu2lwt">Gjaldið er lætt at umsita hjá bæði vinnu og fyrisiting við tað, at tað bert er treytað av, hvussu nógv verður fiskað.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ztmmanrvtj">Heimaflotin er frítikin fyri veiðigjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="ggi3v5b5st">Í lógini verður hetta skilmarkað sum eigarar av fiskiførum á føroysku landleiðunum, sambært §§ 18 og 19 í løgtingslóg um sjófeingi.</s>
+            <s xml:lang="fo" cert="high" xml:id="jurekymytp">Hetta merkir, at makrelur, sum verður latin til hendan bólk, ikki rindar veiðigjald.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yeksa2nhy6">Ein atfinning móti verandi skipan er lítla gjøgnumskygnið, hvussu gjøldini verða ásett, og hvørji gjøld og treytir eru galdandi fram í tíð.</s>
+            <s xml:lang="fo" cert="high" xml:id="irwtftzqkd">Hetta ger óvissuna í fiskivinnunu størri enn neyðugt, og ger tað trupult at leggja virksemið til rættis.</s>
+            <s xml:lang="fo" cert="high" xml:id="mwvdpry66t">Somuleiðis hevur verið ført fram, at gjøldini verða ásett í mun til, hvat manglar á fíggjarlógini, og ikki í mun til støðuna í fiskivinnuni.</s>
+          </p>
+        </div>
+        <div type="section" n="1.3.">
+          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gbt3akhzyw">Hetta uppskotið miðar fram ímóti at fáa skipanina við veiðigjaldi í eina fasta legu til gagns fyri vinnu og fyrisiting.</s>
+            <s xml:lang="fo" cert="high" xml:id="nuxfm3butu">Lógaruppskotið leggur seg eftir, at veiðigjaldið frameftir verður tillagað eftir skipaðum viðurskiftum, sum fylgja umstøðunum í fiskiskapinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="glw4u6wgwj">Á tann hátt kann størri vissa fáast fyri, hvussu veiðigjaldið verður ásett frameftir, og minkar óvissuna í fiskivinnuni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lgwjaxvmgp">Hetta ber við sær, at veiðigjøld framhaldandi kunnu vera eitt munagott ískoyti til landsbúskapin uttan at taka grundarlagið undan fiskivinnuni.</s>
+          </p>
+        </div>
+        <div type="section" n="1.4.">
+          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ocgyalk25k">Skotið verður upp, at skipanin við veiðigjøldum verður avmarkað til tey fiskasløg, sum í dag hava eitt ásett veiðigjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="sfttayayqt">T.e. makrelur, norðhavssild, svartkjaftur og botnfiskur í Barentshavinum og við Svalbard.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bnpopcbcvj">Á sama hátt sum í galdandi lóggávu skulu rættindi, sum latin verða heimaflotanum eftir hesi løgtingslóg, vera frítikin fyri veiðigjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="iiunpukd7v">Í mun til galdandi løgtingslóg verða kvotur, sum verða latnar garnaskipum, eisini frítiknar fyri veiðigjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="r3hpy6pmtz">Orsøkin til hetta er, at hesin bólkur av misgáum ikki er við í galdandi løgtinglóg nr. 172 frá 2017 um veiðigjøld.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Skipanin fyri makrel, norðhavssild og svartkjaft:</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="av242c2cei">Uppskotið er eitt gjald á hvørt fiskaslag, har goldið verður fyri hvørt fiskað kilo.</s>
+            <s xml:lang="fo" cert="high" xml:id="hq3hjxipql">Gjaldið verður kunngjørt í juli at vera galdandi frá 1. august til 31. juli árið eftir.</s>
+            <s xml:lang="fo" cert="high" xml:id="bro7mrsos4">Orsøkin til, at skotið verður upp at áseta gjaldið um summarið, er, at tá er ein natúrligur steðgur í fiskiskapinum eftir uppsjóvarfiski, meðan hann um veturin vanliga er í hæddini við ymiskum fiskasløgum.</s>
+            <s xml:lang="fo" cert="high" xml:id="clbavpsoiv">Hetta gevur vinnuni vissu fyri, hvussu stórt gjaldið er, tá fiskiskapurin verður lagdur til rættis fyri tær ymsu vertíðirnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="twfvyxunx5">Grundarlagið fyri veiðigjaldinum er miðalavreiðingarprísurin fyri óviðgjørdan, feskan makrel, norðhavssild og svartkjaft, sum føroysk skip hava avreitt fyri í tíðarskeiðnum 1. juli til 30. juni árið fyri.</s>
+            <s xml:lang="fo" cert="high" xml:id="na7eoy4l5p">Ítøkiliga merkir hetta, at bert avreiðingar hjá RSW-skipum (refrigerated sea water) verða roknaðar upp í grundarlagið.</s>
+            <s xml:lang="fo" cert="high" xml:id="pdbl4eexap">Hinvegin verða skip, sum virka veiðuna umborð, ikki tikin við.</s>
+            <s xml:lang="fo" cert="high" xml:id="tul4l6kgkt">Á tann hátt verður veiðigjaldið ikki ávirkað av, at fiskur verður virkaður umborð.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Dømi:</seg>
+          </p>
+          <p>
+            <seg xml:lang="fo">Prísurin á óvirkaðum makreli frá 1. juli 2021 til 30. juni 2022 verður 8,20 kr./kg</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="y7hloynily">Sambært skjali 1 verður veiðigjaldið tá 20%.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Veiðigjaldið frá 1. august 2022 til 31. juli 2023 verður tá:</seg>
+          </p>
+          <p>
+            <seg xml:lang="fo">8,20 kr./kg x 20% = 1,64 kr./kg</seg>
+          </p>
+          <p>
+            <seg xml:lang="fo">Skipanin fyri botnfisk í Barenthavinum og við Svalbard:</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="z745ymjl6b">Fiskað verður í Barentshavinum og við Svalbard alt árið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ztkwxy6er3">Tí verður mælt til, at veiðigjaldið verður ásett at galda frá 1. januar til 31. desember, grundað á miðalprísir á fiskamarknaðinum frá 1. desember til 30. november árið fyri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="voqo4dztsx">Av tí, at fá føroysk skip fiska botnfisk í Barentshavinum og við Svalbard, er ikki mett umboðandi at nýta avreiðingarprísir sum grundarlag undir gjaldinum á sama hátt sum við uppsjóvarfiski.</s>
+            <s xml:lang="fo" cert="high" xml:id="prw5c5tmnb">Harumframt hava skipini í fleiri førum ymiskar framleiðslur umborð, og tí kundi eitt veiðigjald, sum var tengt at avreiðingarvirðinum, skeiklað valið millum virðisøkjandi virking umborð og á landi.</s>
+            <s xml:lang="fo" cert="high" xml:id="cdk4bg4qsp">Harumframt verður eisini meira torgreitt hjá myndugleikanum at hava eftirlit við ymsum umrokningarfaktorum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ragqkov6pu">Hóast fiskiskapur eftir toski í Barentshavinum og við Svalbard ikki beinleiðis kann samanberast við fiskiskap eftir toski undir Føroyum, verður mælt til at brúka miðal avreiðingarprísin á toski á Fiskamarknaði Føroya sum grundarlag fyri áseting av veiðigjaldinum, har prísurin verður umroknaður til krónur fyri hvørt kilo av rundum fiski.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cpt6ja3eyd">Toskur er tann størsti parturin (umleið 85 %) av botnfiskakvotuni í Barentshavinum og við Svalbard, og tí verður avgjaldið fyri tosk eisini nýtt sum avgjald fyri annan botnfisk, hóast toskaprísurin vanliga er tann hægsti miðalprísurin fyri hesi fiskasløg.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Dømi:</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="td2ghms6b4">Miðalprísurin fyri tosk, umroknaður til rund kilo, sum er seldur á almennum uppboði frá 1. desember 2021 til 30. november 2022, er 14,95 kr./kg.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Sambært skjali 1 er veiðigjaldið tá 3,25 % Veiðigjaldið fyri botnfisk í Barentshavinum og við Svalbard verður tá:</seg>
+          </p>
+          <p>
+            <seg xml:lang="fo">14,95 kr./kg. x 3,25% = 0,49 kr./kg.</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="msyreqcekz">Veiðigjaldið fellur til gjaldingar so hvørt, veiðan er landað.</s>
+            <s xml:lang="fo" cert="high" xml:id="edvcbnf544">Vørn ger upp veiðigjaldið og sendir eigara av fiskifari rokning.</s>
+            <s xml:lang="fo" cert="high" xml:id="evslrbrfdz">Gjaldfreistin er 10 dagar eftir dagfesting á rokning.</s>
+            <s xml:lang="fo" cert="high" xml:id="hfveknsjhz">Rinda rættindahavarar ikki rættstundis, skal renta rindast við 0,7 % fyri hvønn byrjaðan mánað.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Trygging fyri stóran niðurskurð í kvotum:</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xl73eot3zg">Tilmælt verður, at fer føroyska kvotan undir 50 % av miðal tøku kvotuni til føroysk fiskifør seinastu 5 árini, minkar veiðigjaldið niður í 50 % av roknaða gjaldinum fyri tað árið.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Dømi:</seg>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cyxloe2yqa">Samlaða kvotan av makreli, sum er tøk til føroysk skip árini 2020-2024, er tilsamans 500.000 tons, sum samsvarar við 100.000 tons í miðal hvørt ár.</s>
+            <s xml:lang="fo" cert="high" xml:id="ui35tyaa5t">Um makrelkvotan í 2025, sum er tøk til føroyska nýtslu, er minni enn 50.000 tons, skal gjaldið, sum varð ásett um summarið 2024, minkast við eini helvt frá 1. januar 2025 til 31. juli 2025.</s>
+            <s xml:lang="fo" cert="high" xml:id="okdasfvbm3">Somuleiðis verður veiðigjaldið frá 1. august til 31. desember 2025 minkað við 50 % í mun til roknaða gjaldið sambært § 9.</s>
+          </p>
+        </div>
+        <div type="section" n="1.5.">
+          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="biq55asnvf">Í arbeiðinum at viðgera hesa veiðigjaldsskipan hava luttikið: Fíggjarmálaráðið, TAKS, Vørn, og umboð fyri Føroya Reiðarafelag og Felagið Nótaskip.</s>
+            <s xml:lang="fo" cert="high" xml:id="olqzef2sgz">Frágreiðing frá arbeiðinum er viðløgd í hoyringini.</s>
+            <s xml:lang="fo" cert="high" xml:id="uowxrhde2v">Lógaruppskotið er gjørt í samráð við TAKS.</s>
+            <s xml:lang="fo" cert="high" xml:id="a4phs2lyh5">Umframt at vera sent til ummælis hjá áður nevndu stovnum og feløgum hevur hetta lógaruppskot verið til ummælis hjá: Fiskamarknaði Føroya, Landsbanka Føroya, Føroya Fiskimannafelagi, Føroya Skipara- og Navigatørfelagi, Maskinmeistarafelagnum, Føroya Ráfiskakeypararfelagi, Vinnuhúsinum, Føroya Arbeiðarafelagi, Havnar Arbeiðarafelagi, Havnar Arbeiðskvinnufelagið, Klaksvíkar Arbeiðsmannafelagið og Klaksvíkar Arbeiðskvinnufelagið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ytgpbnlrb5">Harumframt hevur uppskotið verið til almenna hoyring á ummælisportalinum hjá landsstýrinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mhkzcblhsu">Sjey hoyringarkriv komu til uppskotið um løgtingslóg um veiðigjøld fyri fiskiskap.</s>
+            <s xml:lang="fo" cert="high" xml:id="afo5r6ab3q">Hoyringarskriv komu frá Føroya Fiskimannafelagi, Føroya Skipara- og Navigatørfelagnum, Maskinmeistarafelagnum, Føroya reiðarafelagi, Felagnum Nótaskip, Føroya Arbeiðsgevarafelagi og Landsbankanum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="d7ncvbrynh">Fíggjarmálaráðið hevur ikki broytt innihaldið í lógaruppskotinum eftir, at hoyringarskrivini komu inn.</s>
+            <seg xml:lang="fo">Niðanfyri er ein stutt samanumtøka av hoyringarskrivunum</seg>
+          </p>
+          <div type="subsection">
+            <head rend="bold">Hvør rindar veiðigjald</head>
+            <p>
+              <s xml:id="beoawlvukw">Manningarfeløgini (<hi rend="bold">Føroya Fiskimannafelag, Føroya Skipara- og Navigatørfelag og Maskinmeistarafelagið</hi>) vísa á, at tað eru reiðaríini, og ikki manningin, sum skulu rinda veiðigjaldið.</s>
+            </p>
+            <div>
+              <head rend="italic">Viðmerkingar frá Fíggjarmálaráðnum:</head>
+              <p rend="italic">
+                <s xml:lang="fo" cert="high" xml:id="bzubtdmyya">Hvussu reiðarí og manning býta útreiðslur sínar sínámillum er partur av arbeiðsmarknaðinum og verður ikki viðgjørt í hesum lógaruppskoti.</s>
+              </p>
+            </div>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Rætti prísur</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ghhaqsu43n">Fyri at tryggja rættan avreiðingarprís, mælir <hi rend="bold">Føroya Skipara- og Navigatørfelag</hi> til, at veiddur uppsjóvarfiskur verður seldur á uppboði.</s>
+              <s xml:lang="fo" cert="high" xml:id="ugzqodtwf4"><hi rend="bold">Landsbanki Føroya</hi> mælir til javnan at kanna, um prísirnir, sum verða nýttir til at áseta veiðigjaldið, samsvara við marknaðarprísin.</s>
+              <s xml:lang="fo" cert="high" xml:id="zsvhzyry4g"><hi rend="bold">Føroya Reiðarafelag</hi> mælir til at fylgja tilmælinum frá arbeiðsbólkinum, um at partur av veiðuni skal kunna landast uttanlands.</s>
+            </p>
+            <div>
+              <head>Viðmerkingar frá Fíggjarmálaráðnum:</head>
+              <p rend="italic">
+                <s xml:lang="fo" cert="high" xml:id="w4cnlqk3pd">Fiskimálaráðið hevur havt uppskot um broyting í løgtingslóg um sjófeingi til hoyringar.</s>
+                <s xml:lang="fo" cert="high" xml:id="g7zj4xyxwm">Lógaruppskotið verður ætlandi lagt fram í hesari tingsetuni.</s>
+                <s xml:lang="fo" cert="high" xml:id="xck3kjcua7">Í uppskotinum verður loyvt, at skip kunnu landa og avreiða í mesta lagi 15% av veiðuni fyri hvørt fiskaslag sær uttanlands.</s>
+              </p>
+            </div>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="bold">Føroya Skipara- og Navigatørfelag</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="y7qtrnlhwn"><hi rend="bold">Føroya Skipara- og Navigatørfelag </hi>mælir til at taka gjaldið inn á annan hátt, í staðin fyri at goldið verður so hvørt tað verður landað, tí at hetta er at leggja seg út í sáttmálaviðurskifti.</s>
+              <s xml:lang="fo" cert="high" xml:id="nhjfjyzwbg">Føroya Skipara- og Navigatørfelag, hevur tó einki uppskot um, hvussu gjaldið so skal krevjast inn.</s>
+            </p>
+            <div>
+              <head rend="italic">Viðmerkingar frá Fíggjarmálaráðnum:</head>
+              <p rend="italic">
+                <s xml:lang="fo" cert="high" xml:id="r2iutmiomh">Hvussu reiðari og manning býta útreiðslur sínar sínamillum er partur av arbeiðsmarknaðinum og verður ikki viðgjørt í hesum lógaruppskoti.</s>
+              </p>
+            </div>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="bold">Maskinmeistarafelagið</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="bhtmrewgpl"><hi rend="bold">Maskinmeistarafelagið</hi> spyr, um ásetingarnar um 50% í §7 skulu skiljast absolutt.</s>
+            </p>
+            <div>
+              <head rend="italic">Viðmerkingar frá Fíggjarmálaráðnum:</head>
+              <p rend="italic">
+                <s xml:lang="fo" cert="high" xml:id="nwoup7atkq">Ja, reglurnar eru, at veiðigjaldið verður lækkað 50%, um tøka føroyska kvotan er minni enn 50 % av miðal tøku kvotutni til føroysk skip seinastu 5 árini.</s>
+              </p>
+            </div>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="bold">Føroya Reiðarafelag og Felagið Nótaskip</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="ncqju6ml5r"><hi rend="bold">Føroya Reiðarafelag og Felagið Nótaskip</hi> vísa á, at veiðigjøldini eru høg í Føroyum samanborið við gjøldini í grannalondunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="tik2vqybai">Feløgini hava tó gjørt semju um gjøldini, soleiðis at slík skipan væntandi kann koma í fasta legu frameftir.</s>
+              <s xml:lang="fo" cert="high" xml:id="uzzmwisjr7">Feløgini vísa eisini á, at skipanin er einføld, gjøgnumskygd og krevur ikki tað stóra av reiðaríum og almennum mynduleikum.</s>
+              <s xml:lang="fo" cert="high" xml:id="mjkyyuyuid">Bæði Reiðarafelagið og Felagið Nótaskip vísa á, at tær metingar av tilfeingisrentuni, sum hava verið frammi, eftir teirra tykki, eru yvirmettar.</s>
+            </p>
+          </div>
+          <div type="subsection" subtype="run-in">
+            <head rend="bold">Landsbanki Føroya</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="rfzdjxipk4"><hi rend="bold">Landsbanki Føroya</hi> vísir í sínum hoyringarskrivi á, at besta loysnin hevði verið at selt rættindini beinleiðis.</s>
+              <s xml:lang="fo" cert="high" xml:id="hlej5bhdm5">Tá hetta ikki er politiskt møguligt, er skipanin við kilogjøldum ein góð skipan, tí hon er løtt at umsita og er gjøgnumskygd.</s>
+              <s xml:lang="fo" cert="high" xml:id="qogdhm4mkp">Landsbankin vísir eisini á, at tey meta tað ikki búskaparliga skilagott, at partar av flotanum ikki rinda veiðigjald.</s>
+              <s xml:lang="fo" cert="high" xml:id="a3molkjkps">Landsbankin metir, at 300 mió. krónur helst er væl minni, enn tilfeingisrentan er, og tí metir landsbankin, at gjaldið ikki stendur mát við virðið á rættindunum.</s>
+              <s xml:lang="fo" cert="high" xml:id="y5iwunmg64">Landsbankin mælir til, at óheftar metingar eiga at verða gjørdar av tilfeingisrentuni á hvørjum ári, og at gjøldini síðani verða sett eftir tí.</s>
+            </p>
+            <div>
+              <head>Viðmerkingar frá Fíggjarmálaráðnum:</head>
+              <p>
+                <s xml:lang="fo" cert="high" rend="italic" xml:id="d3itl762pv">Í lógaruppskotinum verður gjaldið sett eftir fiskaprísinum árið fyri og á tann hátt verður rindað forskotið í mun til støðuna á marknaðinum.</s>
+                <s xml:lang="fo" cert="high" rend="italic" xml:id="gekp2erfij">Um tilfeingisrentan á hvørjum ári skal gerast upp, verður hesin trupulleiki enn størri, tí tað tekur tíð at rokna tilfeingisrentuna út, og tí hevði veiðigjaldið verið í mun til, hvussu støðan var longur aftur í tíð.</s>
+                <s xml:lang="fo" cert="high" rend="italic" xml:id="oodntm3gk6">Har afturat vísir Fíggjarmálaráðið á, at metingar av tilfeingisrentuni eru óvissar og byggja á tøl, sum í dag ikki eru tøk.</s>
+                <s xml:lang="fo" cert="high" rend="italic" xml:id="h7bcdkghz7">Hetta hevði gjørt skipanina óneyðuga tunga at umsita.</s>
+                <s xml:lang="fo" cert="high" xml:id="yknzciyhx7"><hi rend="italic">Upphæddin á gjøldunum er tikin úr samgonguskjalinum, har tað stendur, at støðið verður tikið í 2018. </hi>.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+        <div type="section" n="2.1.">
+          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ku4h5jxl76">Lógin hevur fíggjarligar avleiðingar fyri landið, tí at lógin ásetir, hvussu nógv skal rindast fyri veiðirættindini.</s>
+            <s xml:lang="fo" cert="high" xml:id="q2dupybfni">Øll inntøkan fellur til landskassan.</s>
+            <s xml:lang="fo" cert="high" xml:id="dm26jekvfo">Metingin hjá Fíggjarmálaráðnum er, at inntøkur landskassans fara at liggja áleið á sama støði, sum tað er ásett í fíggjarlógini fyri 2021, sum eru 314 mió. krónur, íroknað inntøkur frá 3 og 8 ára rættindum, sum vórðu seld á uppboði í 2018 og 2019.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="rfcfklijmi">Árligu inntøkurnar frá veiðigjøldum eru mettar at liggja um 250 mió. krónur við støði í 2021 kvotum og søguligum prísum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yn7npouyt2">Av tí at einki er fiskað av makreli í ES sjógvi í 2021, verður roknað við einum lægri miðalprísi enn vanligt fyri makrel frá 1. juli 2020 til 30. juni 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="ldyjrcrikz">Hetta kann ávirka veiðigjaldsinntøkuna fyri makrel, so at hon verður minni í 2021 og 2022, orsakað av lága prísinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="z7hibz4xwj">Í 2022 fara 3 ára rættindi, sum vórðu seld í 2019, frá at rinda uppboðssølugjald til at rinda gjald, sum er ásett eftir hesi løgtingslóg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="i3jrzr4eoa">Í 2026 og 2027 fara 8 ára rættindi, sum vórðu seld í 2018 og 2019, frá at rinda uppboðssølugjald til at rinda veiðigjald eftir hesi løgtingslóg, sum merkir eitt lægri gjald til landið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dybjaldfs7">Metingar frá Fíggjarmálaráðnum eru, at fíggjarligi missurin fyri landskassan av hesum er áleið 40 mió. krónur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ntkoqegwdh">Mælt verður til at hendan skipanin verður eftirmett í 2025, áðrenn uppboðsølugjøldini frá 8 ára loyvum detta burtur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.2.">
+          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="eh5yo54bry">Áðrenn veiðigjaldið kann ásetast, er neyðugt at rokna út miðalprísin fyri feskan óviðgjørdan makrel, norðhavssild og svartkjaft og finna fram miðalprísin fyri tosk, sum er seldur á almennum uppboði í Føroyum, umroknað til rundan fisk.</s>
+            <s xml:lang="fo" cert="high" xml:id="lu3kbo3ksd">Hesum tekur Vørn sær av.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xkr4vxve4u">Eisini er neyðugt at áleggja góðkendum uppboðsølum av fiski, at koma við upplýsingum, sum skulu til at rokna út miðalprís fyri rundan tosk.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="j3hqhp5ce5">Veiðigjaldið verður eftir hesi løgtingslóg kravt inn á sama hátt sum í dag, við at Vørn krevur inn gjald fyri hvørt fiskað kilo.</s>
+          </p>
+        </div>
+        <div type="section" n="2.3.">
+          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mlds2vl5y6">Uppskotið hevur fíggjarligar avleiðingar fyri vinnuna, tí at løgtingslógin ásetir, hvat skal gjaldast fyri fiskirættindini.</s>
+            <s xml:lang="fo" cert="high" xml:id="mjpggeurxx">Gjøldini eru tó á sama støði og fyri neyvt somu fiskasløg, sum rindað verður fyri í dag, og tí eru avleiðingarnar avmarkaðar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="he2wby2den">Eitt undantak eru tó rættindi, sum latin verða garnaskipum, sum við hesum lógaruppskotinum sleppa undan veiðigjaldi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tpumktx2rf">Veiðigjaldið verður sambært lógaruppskotinum kravt inn á sama hátt, sum í dag.</s>
+            <s xml:lang="fo" cert="high" xml:id="njagqc6ojy">Tí hevur lógin ongar umsitingarligar avleiðingar fyri vinnuna.</s>
+          </p>
+        </div>
+        <div type="section" n="2.4.">
+          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zimzacazlm">Lógaruppskotið hevur ongar avleiðingar fyri umhvørvið.</s>
+          </p>
+        </div>
+        <div type="section" n="2.5.">
+          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="iym5wjgkfn">Lógaruppskotið hevur ongar avleiðingar fyri serstøk øki í landinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.6.">
+          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="toe6tgkshv">Lógaruppskotið hevur ongar avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir.</s>
+          </p>
+        </div>
+        <div type="section" n="2.7.">
+          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jjqm3yyrie">Lógaruppskotið hevur ongar avleiðingar fyri millumtjóðasáttmálar á økinum.</s>
+          </p>
+        </div>
+        <div type="section" n="2.8.">
+          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="m3jqmlpt46">Lógaruppskotið hevur ongar avleiðingar fyri tvørgangandi millumtjóðasáttmálar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.9.">
+          <head rend="bold"><label>2.9.</label> Markaforðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nabooogriw">Lógaruppskotið elvir ikki til markaforðingar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.10.">
+          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ohrjgoavax">Lógaruppskotið hevur ásetingar um revsing og panting.</s>
+            <s xml:lang="fo" cert="high" xml:id="w43vh2vywc">Tað eru somu ásetingar, sum eru galdandi í dag sambært løgtingslóg nr. 172 frá 2017.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h32j7kysuv">Lógaruppskotið hevur ásetingar um revsing fyri at geva skeivar ella villleiðandi upplýsingar við tí í hyggju at sleppa undan at gjalda veiðigjald eftir lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="d25kmtexof">Revsiramman er ásett til sama støði sum fyri skattasvik eftir skattalóggávuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="lelpyylywe">Mett verður rímiligt, at revsingin fyri at geva skeivar upplýsingar fyri at sleppa undan at rinda veiðigjald eftir hesi løgtingslóg er á sama støði sum skattasvik eftir skattalóggávuni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ggqzte5zzp">Verður veiðigjaldið sambært lógaruppskotinum ikki goldið eftir uppkravi frá Vørn, gevur uppskotið heimild til, at TAKS kann panta veiðigjaldið.</s>
+            <s xml:lang="fo" cert="high" xml:id="tnlmseeyia">TAKS fremur pantingina eftir reglunum um innkrevjing av skattum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xvi4s4grrh">Á sama hátt sum í §135, stk. 3 í skattalógini, verður 2 ára freistin fyri panting, sett úr gildi.</s>
+          </p>
+        </div>
+        <div type="section" n="2.11.">
+          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mivs7b6pu7">Lógaruppskotið hevur ongar ásetingar um skattir og avgjøld.</s>
+          </p>
+        </div>
+        <div type="section" n="2.12.">
+          <head rend="bold"><label>2.12.</label> Gjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wfvs5jfwlc">Lógaruppskotið ásetir veiðigjald fyri hvørt fiskað kilo av makreli, norðhavssild, svartkjafti og botnfiski í Barentshavinum og við Svalbard sambært ásetingunum í § 9 og skjali 1.</s>
+          </p>
+        </div>
+        <div type="section" n="2.13.">
+          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hc33u5duwq">Lógaruppskotið áleggur almennum fiskauppboðssølum at veita Vørn upplýsingar um nøgd og prís fyri sølu av toski.</s>
+          </p>
+        </div>
+        <div type="section" n="2.14.">
+          <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x6ldwgqhvr">Lógaruppskotið áleggur landsstýrismanninum í kunngerð at áseta veiðigjøldini.</s>
+          </p>
+        </div>
+        <div type="section" n="2.15.">
+          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="vd6qaha73j">Lógaruppskotið gevur ikki almennum myndugleika atgongd til privata ogn.</s>
+          </p>
+        </div>
+        <div type="section" n="2.16.">
+          <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dkvpilw3uh">Mett verður ikki, at lógaruppskotið hevur aðrar avleiðingar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.17.">
+          <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið ella landsmyndugleikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss ella øki í landinum</cell>
+              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Sosialar avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+        <div type="section">
+          <head rend="bold">Til § 1</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mus5lmmyft">Skyldan at rinda veiðigjald sambært hesi løgtingslóg áliggur eigaranum av fiskifarinum, og er avmarkað til veiðu av nevndu fiskasløgum.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 2</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mtibw2jna6">Persónar ella feløg, sum á uppboði hava keypt rættindi at veiða, rinda í gildistíðini uppboðssølugjald.</s>
+            <s xml:lang="fo" cert="high" xml:id="ukga6uag3j">Tí skal veiðigjald sambært hesi løgtingslóg ikki eisini rindast fyri veiðuna.</s>
+            <s xml:lang="fo" cert="high" xml:id="wiwwqo2xmw">Tá gildistíðin á uppboðssølurættindunum er runnin, skal veiðigjald rindast sambært hesi løgtingslóg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="op4xxdpyn7">Veiðigjald skal heldur ikki rindast av kvotum, sum verða latnar til skip í heimaflotanum.</s>
+            <s xml:lang="fo" cert="high" xml:id="c2rgakfhe5">Hetta er til fiskifør, sum eru fevnd av §§ 18 og 19 í sjófeingislógini, umframt til tey fiskifør, sum hava fiskiloyvi til fiskiskap eftir havtasku og svartkalva við gørnum á føroysku landleiðunum.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 3</head>
+          <p>
+            <seg xml:lang="fo">Allýsingar.</seg>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til §§ 4 – 9 Áseting og útrokning av veiðigjaldinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yf6bd76jjg">Veiðigjaldið er eitt kilogjald á hvørt fiskaslag.</s>
+            <s xml:lang="fo" cert="high" xml:id="bwhr6wk46x">Fyrimunurin við einum kilogjaldi er, at tað er einfalt at umsita hjá vinnu og fyrisiting, og tað er eins fyri øll skip.</s>
+            <s xml:lang="fo" cert="high" xml:id="dsachzxxsl">Tað ger, at tann, sum megnar at fáa meira burturúr, sjálvur fær vinningin av hesum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gv5dsnx3kl">Tað er nøgdin, sum verður landað, umroknað til runda vekt, sum er grundarlag fyri rindan av veiðigjaldinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="pq5ajfwavw">Kilogjaldið verður ásett sum eitt prosent av einum miðal avreiðingarvirði.</s>
+            <s xml:lang="fo" cert="high" xml:id="nncqpywggt">Gjaldið verður stigvaksandi soleiðis, at verður miðalprísurin høgur, verður lutfalsliga meira goldið í veiðigjaldi.</s>
+            <s xml:lang="fo" cert="high" xml:id="nhudfzualq">Øvugt, er miðalprísurin lágur, verður gjaldið lutfalsliga lægri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h2sxiix253">Fyri <hi rend="italic">uppsjóvarfisk</hi> verður gjaldið roknað og ásett í juli mánaði og álagt fyri veiðu, sum er landað frá 1. august til og við 31. juli árið eftir.</s>
+            <s xml:lang="fo" cert="high" xml:id="vyuw2rbu7j">Orsøkin til at gjaldið verður ásett um summarið er, at tá er ein natúrligur steðgur í fiskiskapinum eftir uppsjóvarfiski, meðan hann um veturin vanliga er í hæddini við ymiskum fiskasløgum.</s>
+            <s xml:lang="fo" cert="high" xml:id="riftdy5obi">Hetta gevur vinnuni vissu fyri, hvussu stórt gjaldið er, tá fiskiskapurin verður lagdur til rættis fyri tær ymsu vertíðirnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hl7g2qsfz5">Grundarlagið fyri útrokningini av veiðigjaldinum á uppsjóvarfisk er miðal avreiðingarprísurin fyri óviðgjørdan, feskan makrel, norðhavssild og svartkjaft, sum føroysk skip hava avreitt fyri í tíðarskeiðnum frá 1. juli til 30. juni árið fyri.</s>
+            <s xml:lang="fo" cert="high" xml:id="xnnswfnvnq">Hetta merkir, at bert avreiðingar hjá RSW-skipum (refrigerated sea water) verða roknaðar upp í grundarlagið.</s>
+            <s xml:lang="fo" cert="high" xml:id="kah6hkupah">Hinvegin verða skip, sum virka veiðuna umborð, ikki tikin við.</s>
+            <s xml:lang="fo" cert="high" xml:id="sdyj4p7pwx">Á tann hátt verður veiðigjaldið ikki ávirkað av, at fiskur verður virkaður umborð.</s>
+            <s xml:lang="fo" cert="high" xml:id="cpxwekyn5w">Fiskur, sum er heilfrystur umborð, verður heldur ikki tikin við í miðalprísin.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="rcncid5q4n">Avreiðingarprísir fáast frá avreiðingarseðlum, latnum Vørn fyri avreiðingar frá 1. juli árið fyri til og við 30. juni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="japy6bwtjb">Grundarlagið fyri veiðigjaldinum á <hi rend="italic">botnfisk í Barentshavinum</hi> er miðal avreiðingarprísurin á toski, seldur á almennari uppboðssølu í Føroyum, har prísurin verður umroknaður til krónur fyri hvørt kilo av rundum fiski.</s>
+            <s xml:lang="fo" cert="high" xml:id="laeir7n2bh">Av tí, at fá føroysk skip fiska botnfisk í Barentshavinum, er ikki mett umboðandi at nýta hesar avreiðingarprísir sum grundarlag undir gjaldinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="uyh47eztsv">Harumframt hava skipini í fleiri førum ymiskar framleiðslur umborð, og tí kundi eitt veiðigjald, sum var tengt at avreiðingarvirðinum, skeiklað valið millum virðisøkjandi virking umborð og á landi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hx4kythdkm">Toskur er tann størsti parturin (umleið 85 %) av botnfiskakvotuni í Barentshavinum, og tí verður avgjaldið fyri tosk eisini nýtt sum avgjald fyri annan botnfisk, hóast toskaprísurin vanliga er tann hægsti miðalprísurin fyri hesi fiskasløg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x62kdlnxcu">Fiskað verður í Barentshavinum alt árið.</s>
+            <s xml:lang="fo" cert="high" xml:id="zzncw7ld5z">Tí er veiðigjaldið á botnfisk í Barentshavinum ásett at galda frá 1. januar til 31. desember, og verður grundað á miðalprísir á fiskamarknaðinum frá 1. desember til 30. november árið fyri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="y6pwg6tc6a">Eitt høgt gjald kann virka serliga tyngjandi, tá ið lítið er at fiska.</s>
+            <s xml:lang="fo" cert="high" xml:id="k5xlhr5u75">Minkar tøka kvotan til føroysk skip serliga nógv, verður veiðigjaldið tí lækkað í mun til tað krónugjald, sum er útroknað eftir § 9.</s>
+            <s xml:lang="fo" cert="high" xml:id="voxvttmph4">Lækkar tøka kvotan til føroysk skip niður um 50 % av miðal tøku kvotuni til føroysk skip seinastu 5 árini, lækkar veiðigjaldið niður í 50 % av tí gjaldi, sum er útroknað eftir § 9.</s>
+            <s xml:lang="fo" cert="high" xml:id="sszejyl3ak">Eitt lægri veiðigjald verður tá galdandi alt kvotuárið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ml55nnjevd">Tá veiðigjaldið á uppsjóvarfisk er galdandi frá 1. august til 31. juli, og kvotuárið er frá 1. januar til 31. desember, merkir hetta, at eitt lækkað veiðigjald skal roknast fyri tíðarskeiðið frá 1. januar til 31. juli, og eitt annað lækkað veiðigjald skal roknast fyri tíðarskeiðið frá 1. august til 31. desember.</s>
+          </p>
+          <p>
+            <label>Dømi:</label>
+            <s xml:lang="fo" cert="high" xml:id="xxlzgfutyk">Samlaða kvotan av makreli, sum er tøk til føroysk skip árini 2020-2024, er tilsamans 500.000 tons, sum samsvarar við 100.000 tons í miðal hvørt ár.</s>
+            <s xml:lang="fo" cert="high" xml:id="aqwhfnomfg">Um makrelkvotan í 2025, sum er tøk til føroyska nýtslu, er minni enn 50.000 tons, skal gjaldið, sum var ásett um summarið 2024, minkast við eini helvt frá 1. januar 2025 til 31. juli 2025.</s>
+            <s xml:lang="fo" cert="high" xml:id="awsdkupqgh">Somuleiðis verður veiðigjaldið frá 1. august til 31. desember 2025 minkað við 50 % í mun til roknaða gjaldið sambært § 9.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="rfo2ovv7lw">Kvotan, sum er tøk til fiskifør undir føroyskum flaggi at fiska, er kvotan, ið Føroyar árliga seta sær av nevndu fiskasløgum, aftaná umbýti við onnur lond.</s>
+            <s xml:lang="fo" cert="high" xml:id="dtuhxmdf5l">Tað er kvotan, sum er tøk til fiskifør undir føroyskum flaggi, íroknað kvotu, ið er sett av til hjáveiðu, royndarfiskiskap o.a., rannsóknir, vinnuligar royndir og verkætlanir.</s>
+            <s xml:lang="fo" cert="high" xml:id="x6c64ztlte">Talan er um alt, sum er sett av til fiskifør undir føroyskum flaggi at fiska.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 10 - 11 Upplýsingarskylda</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fgepcrnf7l">Upplýsingarskylda verður áløgd Vørn og tí, sum rekur almenna uppboðssølu av fiski í Føroyum, at veita upplýsingar um avreiðingarprísir, sum á hvørjum ári skulu brúkast sum grundarlag undir útrokning av veiðigjaldinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zjq3i37huy">Fiskamarknaður Føroya, sum er góðkendur at halda almenna uppboðssølu av fiski í Føroyum, skal eftir ásetingini árliga lata upplýsingar um prís og nøgd av toski, sum er seldur um almennu uppboðssøluna.</s>
+            <s xml:lang="fo" cert="high" xml:id="ebz2rcggvg">Tað er Vørn, sum skal umrokna seldu nøgdirnar til runda vekt og gera upp miðal avreiðingarvirðið út frá upplýsingunum frá almennu uppboðssøluni og lata landsstýrismanninum upplýsingarnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="qtfo7uvelc">Vørn skal nýta teir umrokningarfaktorar, sum eru ásettir við heimild í løgtingslóg um sjófeingi.</s>
+            <s xml:lang="fo" cert="high" xml:id="bmvzwp6he7">Fyri tosk, veiddur í føroyskum sjógvi, eru í dag umrokningarfaktorar ásettir í kunngerð nr. 44 frá 2003 um umrokningarfaktorar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 12 - 13</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="weg2weu3cs">Tað er Vørn, sum skal gera upp gjaldið, sum einstaki eigarin av fiskifari skal rinda, og sendir rokning til eigaran.</s>
+            <s xml:lang="fo" cert="high" xml:id="wjcsfnaqin">Í verandi løgtingslóg er ásett, at gjaldið skal gerast upp mánaðarliga.</s>
+            <s xml:lang="fo" cert="high" xml:id="g3wcbo6gne">Tað verður ikki mett neyðugt at áseta í løgtingslóg, at gjaldið skal gerast upp fyri ávíst tíðarskeið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ksinsiz4pk">Tað er hvør landing, sum er grundarlag fyri uppgerð av veiðigjaldinum, og Vørn ger í dag upp veiðigjaldið, so hvørt sum Vørn fær upplýsingar um landingarnar eftir ásetingunum við heimild í løgtingslóg um sjófeingi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="o5kbnavd7h">Rættindahavarar fáa 10 daga freist til at rinda gjaldið.</s>
+            <s xml:lang="fo" cert="high" xml:id="emxcs6knve">Verður gjaldið ikki goldið innan freistina, verður renta roknað, sum er 0,7 % um mánaðin, sum er sama renta, sum skal rindast sambært skattalóggávuni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="olc4fthbim">TAKS kann krevja inn veiðigjaldið umframt rentur og innheintingarkostnað við panting eftir reglunum um innkrevjing av skattum.</s>
+            <s xml:lang="fo" cert="high" xml:id="pmpunxmqum">Í lov for Færøerne om inddrivelse af skatter og afgifter til det offentlige m.m. er ásett, at útpantningarrætturin er galdandi inntil 2 ár eftir, at kravið er fallið til gjaldingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="pg4z7ytqyf">Hendan avmarking í heimildini at panta verður sett úr gildi fyri krøv eftir hesi løgtingslóg soleiðis, at rætturin hjá TAKS at panta ikki er avmarkaður til 2 ár frá tí, at kravið er fallið til gjaldingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="znyx2zbq26">Neyðugt verður soleiðis at fremja eina møguliga panting, áðrenn peningakravið er fyrnað.</s>
+            <s xml:lang="fo" cert="high" xml:id="ucyq2662fr">Vanlig fyrningarfreist fyri krøv eftir lógini er 5 ár sbrt. lov om forældelse af visse fordringer frá 1908, um ikki serligt grundarlag er fingið fyri kravinum, so sum ein dómur ella sjálvboðin sátt.</s>
+            <s xml:lang="fo" cert="high" xml:id="mvcqp2p7bd">Viðmerkjast kann, at sama áseting viðvíkjandi freistini at panta er í § 135, stk. 3 í skattalógini.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 14</head>
+          <p>
+            <label>Stk. 1-3.</label>
+            <s xml:lang="fo" cert="high" xml:id="v4gijymofj">Við hesum uppskoti verður heimild fingin til at revsa tann, sum gevur skeivar ella villleiðandi upplýsingar, um hetta er fyri at sleppa undan veiðigjaldi eftir lógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sp3ya3jcgh">Illgruni hevur verið um, at skip avreiða t.d. makrel sum onnur fiskasløg, t.d. tá ið landað verður til ídnað.</s>
+            <s xml:lang="fo" cert="high" xml:id="f5iz444ib6">Av tí, at veiðigjald ikki verður lagt á øll fiskasløg, umframt at veiðigjaldið er ymiskt fyri ymisk fiskasløg, kann tað vera rættiliga stórur munur á gjøldunum, sum skulu rindast alt eftir, hvat fiskaslag talan er um.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mtp2qve3n7">Revsiramman er sett á sama støði, sum revsiramman fyri skattasvik eftir skattalóggávuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="vxgxwgrs7k">Mett verður eisini hóskandi at nýta somu sektarupphæddir, sum vanliga verða nýttar í málum um skattasvik eftir skattalóggávuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="vdruwelrtx">Her kann vísast til, at sektin fyri brot á skattalóggávuna, um talan er um brot, framt við vilja, vanliga verður ásett til tvær ferðir skattin, sum ikki er komin til skattingar, og fyri brot, sum er framt av grovum ósketni, verður sektin vanliga ásett til eina ferð skattin, sum ikki er komin til skattingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="kcmp5zojli">Herðandi ella linnandi umstøður kunnu gera, at sektin verður hækkað ella lækkað.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 15</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="l4lcagdmqh">Veiðigjaldskipanin er kemur í gildi, so hvørt sum gjøldini sambært § 5 og § 6 í hesari lóg skulu kunngerast.</s>
+            <s xml:lang="fo" cert="high" xml:id="zhh6nxgv63">Hetta merkir, at veiðigjald fyri makrel, sild og svartkjaft, sambært hesari lóg, kemur í gildi 1. august 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="iw4fdepars">Veiðigjaldið fyri botnfisk, sambært hesari lóg, kemur í gildi 1. januar 2022.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="i7rf5tqpas">So hvørt sum veiðigjøldini í hesari lóg verða sett í gildi, detta verandi veiðigjøld, sambært løgtingslóg nr. 172 frá 2017, burtur.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2021-04-13">13. apríl 2021</date></dateline>
+        <space dim="vertical"/>
+        <signed rend="center">
+          <persName ref="https://tingdata.fo/person/kykjv24i">
+            <hi rend="bold">Jørgen Niclasen</hi>
+            <lb/>
+            <roleName>landsstýrismaður</roleName>
+          </persName>
+        </signed>
+        <signed rend="right"> / <persName>Bjarni Askham Bjarnason</persName></signed>
+      </div>
+      <div type="section">
+        <head rend="bold">Yvirlit yvir fylgiskjøl:</head>
+        <list rend="simple list-of-appendices">
+          <label>Fylgiskjal 1:</label>
+          <item>Tilmæli um skipan fyri veiðigjøld frá 2021 og frameftir</item>
+          <label>Fylgiskjal 2:</label>
+          <item>Hoyringarskriv frá Føroya Fiskimannafelagi</item>
+          <label>Fylgiskjal 3:</label>
+          <item>Hoyringarskriv frá Føroya Skipara- og Navigatørfelagi</item>
+          <label>Fylgiskjal 4:</label>
+          <item>Hoyringarskriv frá Maskinmeistarafelagnum</item>
+          <label>Fylgiskjal 5:</label>
+          <item>Hoyringarskriv frá Føroya Reiðarafelagi</item>
+          <label>Fylgiskjal 6:</label>
+          <item>Hoyringarskriv frá Felagnum Nótaskip</item>
+          <label>Fylgiskjal 7:</label>
+          <item>Hoyringarskriv frá Føroya Arbeiðsgevarafelagi</item>
+          <label>Fylgiskjal 8:</label>
+          <item>Hoyringarskriv frá Landsbanka Føroya</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um broyting í løgtingslóg um Talgildu Føroyar (Heimild at hækka útreiðslur)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/kykjv24i">Jørgen Niclasen</persName>
+            <roleName>landsstýrismaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/45994"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2021-02-16">16/02/2021</date>
+          <idno type="case-number">20/00494</idno>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Dagfesting:</cell>
+          <cell rend="meta-cell">16/02/2021</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Mál nr.:</cell>
+          <cell rend="meta-cell">20/00494</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Málsviðgjørt:</cell>
+          <cell rend="meta-cell">MM</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Eftirkannað:</cell>
+          <cell rend="meta-cell">21. januar 2021</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um Talgildu Føroyar</ab>
+        <ab rend="center">(Heimild at hækka útreiðslur)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 77 frá 29. mai 2017 um Talgildu Føroyar verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label rend="bold">1.</label>
+            <item>
+              <p>
+                <seg>Í § 1, stk. 2 verður “145 mió. kr.” broytt til: “153 mió. kr.”.</seg>
+              </p>
+            </item>
+            <label rend="bold">2.</label>
+            <item>
+              <p>
+                <seg>Í § 1, stk. 3 verður “85 mió. kr.” broytt til: “93 mió. kr.”.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="dtecm75ayf">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="q67pij25bs">Talgildu Føroyar er ein verkætlan, sum varð skipað undir Gjaldstovuni í 2016, og skuldi eftir ætlan koyra fram til árslok 2020.</s>
+            <s xml:lang="fo" cert="high" xml:id="kvici7m5l6">Arbeiðið í Talgildu Føroyum er grundað á tilmæli úr heildarætlan um Talgildu Føroyar frá 1. oktober 2015.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Fýra høvuðstættir eru í verkætlanini Talgildu Føroyar:</seg>
+          </p>
+          <list>
+            <!-- TODO: extract later! -->
+            <item>Samleikin: Ein trygg elektronisk innritan og undirskrift.</item>
+            <item>Vangin: Ein felags tænastuportalur, ið gevur borgaranum skjóta og einfalda atgongd til almennar tænastur og dátur.</item>
+            <item>Grundardátur: Grundardáturnar eru upplýsingar um persónar, virki, fasta ogn, adressur, og talgild kort.</item>
+            <item>Heldin: Pallur til trygt og standardiserað dátusamskifti.</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="t3qcgtyp5x">Nærum allir tættir í verkætlanini eru framdir, undantikið tveir tættir undir ”Grundardátur”.</s>
+            <s xml:lang="fo" cert="high" xml:id="siua7xcmj3">Tað eru verkætlanirnar virkisskrá og tinglýsingarskipan, sum eru talgildar.</s>
+            <s xml:lang="fo" cert="high" xml:id="p66ozdplx4">Hesar verkætlanir eru framvegis ikki framdar vegna vantandi fígging frá kommununum.</s>
+            <s xml:lang="fo" cert="high" xml:id="htickujcns">Tórshavnar Kommuna hevur tó verið partur av verkætlanini síðan 2018, og fleiri kommunur eru blivnar partur av verkætlanini í seinnu hálvu av 2020.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tqiiacpwzq">Upprunaliga varð mett, at samlaða Talgildu Føroyar verkætlanin kostaði 150 mió. kr. í tíðarskeiðinum 2016-2020.</s>
+            <s xml:lang="fo" cert="high" xml:id="j4ioo7xnsp">Verklagslóg, sum var grundarlagið fyri samlaðu verkætlanini, varð samtykt av Løgtinginum í 2017.</s>
+            <s xml:lang="fo" cert="high" xml:id="zl2weokcr4">Arbeitt hevur verið við einum fíggingarmyndli, har landið rindaði 90 mió. kr., meðan kommunur og týðandi áhugapartar rindaðu tær írestandi 60 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="gsn2bydisj">Avtalur vóru í fyrsta umfari fingnar við nevndu partar um 37 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="we3nltnpxz">Sostatt vantaðu 23 mió. kr. í ætlaðu fíggingini á 150 mió. kr., harav 15 mió. kr. frá kommunum (fyriuttan Tórshavnar Kommunu, sum avtala varð gjørd við).</s>
+            <s xml:lang="fo" cert="high" xml:id="csdk5spkvd">Arbeitt varð sostatt eftir einari samlaðari fígging á 127 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="cmwg6p7hjc">Á sumri 2020 høvdu fleiri kommunur rindað sín part.</s>
+            <s xml:lang="fo" cert="high" xml:id="l2fo6xggzh">Samanlagt er talan um eina upphædd svarandi til 6 mió. kr., harav 1 mió. kr. vórðu brúktar í 2020, meðan hinar 5 mió. kr. vórðu settar á játtanina fyri 2021.</s>
+            <s xml:lang="fo" cert="high" xml:id="rrbgjixmqt">Av tí at peningurin frá kommununum er komin so seint, verður verkætlanin longd við umleið 1,5 ári.</s>
+            <s xml:lang="fo" cert="high" xml:id="qbk3seo2hx">Hetta merkir at verkætlanin dýrkar, og tí fæst ikki tað sama fyri peningin hjá kommunum, sum upprunaliga roknað við.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cgks7pergj">Hóast allar kommunur í Føroyum gerast partur av verkætlanini, røkkur henda fígging í dag hvørki til at menna eina virkisskrá ella tinglýsingarskipan.</s>
+            <s xml:lang="fo" cert="high" xml:id="r5ypzu3s5x">Orsøkin til hetta er fyrst og fremst seinkanin av hesum verkætlanum, soleiðis at neyðugt er at leingja Talgildu Føroyar verkætlanina og hava fólk í starvi longur.</s>
+            <s xml:lang="fo" cert="high" xml:id="rx5fdqwmid">Harafturat er kostnaðarstøðið fyri verkætlanina hækkað í mun til kostnaðarmetingarnar, sum vórðu gjørdar í 2015.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="e34hw7bay6">Ætlanin er tískil at menna nýggja talgilda virkisskrá í 2021/2022.</s>
+            <s xml:lang="fo" cert="high" xml:id="vscf7unf2o">Umframt eina virkisskrá er ætlanin at gera nýggja heildarætlan fyri Talgildu Føroyar (2. útgáva) og menna fleiri tænastur á Vanganum.</s>
+            <s xml:lang="fo" cert="high" xml:id="quu3ltwcwm">Talgilda tinglýsingarskipanin verður tikin úr verkætlanini, og verður í staðin partur av nýggju heildarætlanini fyri Talgildu Føroyar (2. útgáva).</s>
+            <s xml:lang="fo" cert="high" xml:id="d5soywa6xc">Í hesum sambandi verður nýggj verklagslóg væntandi løgd fyri Løgtingið í 2021.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zykauqqf6d">Ein virkisskrá er ein almenn skrá við grundardátum um løgfrøðiligar eindir, framleiðslueindir og undirframleiðslueindir í Føroyum, sbrt. løgtingslóg nr. 70 frá 9. mai 2019 um Virkisskrá.</s>
+            <s xml:lang="fo" cert="high" xml:id="cp3z6voznn">Tílíkar eindir fevna millum annað um virki, stovnar, felagsskapir og aðrar fyrisitingarligar eindir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="aiuf7frgo6">Grundardátur eru grundleggjandi upplýsingar um nevndu eindir, ið verða nýttar av flest øllum almennum myndugleikum, borgarum og virkjum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ynzo4tg5go">Grundardátur eru m.a. upplýsingar um V-tal, navn, virkishátt, adressu, nevnd, starvsfólkatal v.m. Virkisskráin verður undirstøði undir hesum dátum og tryggjar eina álítandi, munadygga og skynsama útvegan og nýtslu av grundardátum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h2ny2363wr">Í Føroyum finst eingin almenn skrá við grundardátum um eindir, sum eintýdd eyðmerkir føroyskar eindir.</s>
+            <s xml:lang="fo" cert="high" xml:id="qi5jzt3bvb">Fleiri stovnar og virki viðlíkahalda tískil sína egnu skrá yvir eindir í Føroyum, og summi styðja seg í ávísan mun til skránna hjá TAKS.</s>
+            <s xml:lang="fo" cert="high" xml:id="qzqavjrji6">Eingin ella lítil samskipan er av hesi innsavnan, og trupult er at samskifta og endurnýta somu grundardátur millum almennar stovnar og privatar eindir.</s>
+            <s xml:lang="fo" cert="high" xml:id="hb7r2ixdbj">Eisini hevur hetta við sær, at neyðugt er við handligum viðlíkahaldi á hvørjum stovni/virki, tá ið ein eind t.d. skal broyta navn, bústað og telefonnummar v.m.. Við einari almennari virkisskrá verður lættari at finna, útvega og viðlíkahalda hesar grundardátur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lesdwlshw3">Føroyar eru limur í altjóða skattasamstarvinum Global Forum, sum snýr seg um gjøgnumskygni og umbýting av skattaupplýsingum millum limalond.</s>
+            <s xml:lang="fo" cert="high" xml:id="dqbpzhyfbb">TAKS útflýggjar og umbýtir í dag grundardátur og skattaupplýsingar við limalond, har føroyskar fyritøkur hava virksemi.</s>
+            <s xml:lang="fo" cert="high" xml:id="cbxfaru6yg">Í hesum sambandi fær TAKS m.a. upplýsingar frá Skráseting Føroya, Hagstovuni og peningastovnum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="oiqymujdvw">Global Forum krevur m.a., at limalondini menna eina virkisskrá, sum skal lúka serligar treytir.</s>
+            <s xml:lang="fo" cert="high" xml:id="qwlrtrelkq">TAKS og Skráseting Føroya eru við til at menna virkisskránna í mun til tær treytir, sum Global Forum setir.</s>
+            <s xml:lang="fo" cert="high" xml:id="uxsa3xwc36">TAKS fær við virkisskránni lættari atgongd til grundardátur í mun til tað framhaldandi arbeiði við at útflýggja og umbýta upplýsingar við limalond.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="k6gipudtxr">Umframt eina virkisskrá skulu limalondini menna eina eigaraskrá, sum er eitt yvirlit yvir, hvørjir reellu eigararnir í einari ávísari fyritøku eru.</s>
+            <s xml:lang="fo" cert="high" xml:id="igorkl5dck">Slíkt yvirlit finst ikki í Føroyum í dag, men verður ein partur av nýggju virkisskránni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ma72mlmsyz">Við jøvnum millumbilum verður føroyska lóggávuverkið og umsitingin skoðað av umsjónarfólki frá Global Forum.</s>
+            <s xml:lang="fo" cert="high" xml:id="bws6ntwthf">Er lóggávuverkið og umsitingin ikki í samsvari við krøvini frá Global Forum, kann hetta hava negativa ávirkan á føroyskar fyritøkur, við tað at kreditvirðið og møguleikin fyri at taka lán á altjóða marknaðinum versnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="h2xfsfdbot">Í § 1, stk. 3 í galdandi løgtingslóg nr. 77 frá 29. mai 2017 um Talgildu Føroyar er ásett, at útreiðslurnar hjá landsstýrismanninum í mesta lagi kunnu verða 85 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="d5eyfumnyy">Hetta hámark er nátt við árslok 2020 og neyðugt er tí at hækka ásettu upphæddina við 8 mió. kr., frá 85 mió. kr. til 93 mió. kr., til at menna nýggja virkisskrá, gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="prrcck5mft">Mett verður, at við fígging frá øllum kommununum í Føroyum, umframt einari játtan á 8 mió. kr., sum ásett í hesum uppskoti, er møguligt at menna nýggja virkisskrá, gera nýggja heildarætlan og menna fleiri tænastur á Vanganum.</s>
+          </p>
+        </div>
+        <div type="section" n="1.1.">
+          <head rend="bold"><label>1.1.</label> Orsakir til uppskotið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qh67xyd2je">Orsøkin til, at lógaruppskotið verður gjørt, er at fáa til vegar heimild til at hækka útreiðslurnar hjá landinum til verkætlanina Talgildu Føroyar við 8 mió. kr., til at menna nýggja virkisskrá, gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+          </p>
+        </div>
+        <div type="section" n="1.2.">
+          <head rend="bold"><label>1.2.</label> Galdandi lóggáva</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jk6eh7g4iy">Løgtingslóg nr. 77 frá 29. mai 2017 um Talgildu Føroyar.</s>
+            <s xml:lang="fo" cert="high" xml:id="hvmqvndjjc">Løgtingslóg nr. 70 frá 9. mai 2019 um Virkisskrá.</s>
+          </p>
+        </div>
+        <div type="section" n="1.3.">
+          <head rend="bold"><label>1.3.</label> Endamálið við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="spst3fe3zr">Endamálið við lógaruppskotinum er at tryggja neyðuga lógarheimild til at hækka útreiðslurnar hjá landinum til at menna eina nýggja almenna virkisskrá, har grundardáturnar altíð eru dagførdar, álítandi og ókeypis.</s>
+            <s xml:lang="fo" cert="high" xml:id="h57oi4ka5v">Harumframt er ætlanin at gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+          </p>
+        </div>
+        <div type="section" n="1.4.">
+          <head rend="bold"><label>1.4.</label> Samandráttur av nýskipanini við uppskotinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kilxhxmq3x">Í § 1, stk. 3 í galdandi løgtingslóg nr. 77 frá 29. mai 2017 um Talgildu Føroyar er ásett, at útreiðslurnar hjá landsstýrismanninum í mesta lagi kunnu verða 85 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="uqmgqmr7zs">Hetta hámark er nátt við árslok 2020 og neyðugt er tí at hækka ásettu upphæddina við 8 mió. kr., frá 85 mió. kr. til 93 mió.kr., til at menna nýggja virkisskrá, gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Við einari almennari virkisskrá fær føroyska samfelagið:</seg>
+          </p>
+          <list>
+            <item>Eina fullfíggjaða og álítandi virkisskrá, sum kann gagnnýtast av øllum.</item>
+            <item>Dagførda, álítandi og ókeypis atgongd til grundardátur um løgfrøðiligar eindir, framleiðslueindir og undirframleiðslueindir.</item>
+            <item>Økt gjøgnumskygni og betri hagtalsgrundarlag.</item>
+            <item>Dupultskráseting fellur burtur.</item>
+            <item>Útflýggjan og móttøka av grundardátum millum ymiskar partar verður lættari.</item>
+          </list>
+        </div>
+        <div type="section" n="1.5.">
+          <head rend="bold"><label>1.5.</label> Ummæli og ummælisskjal</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ztwwea5nss">Fíggjarmálaráðið metir ikki, at neyðugt er at senda uppskotið í hoyring, grundað á at broytingin einans skal tryggja neyðuga lógarheimild til at hækka útreiðslurnar hjá landinum til verkætlanina Talgildu Føroyar.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kapittul 2.</label> Avleiðingarnar av uppskotinum</head>
+        <div type="section" n="2.1.">
+          <head rend="bold"><label>2.1.</label> Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wbixd6w7ux">Lógaruppskotið hevur við sær, at útreiðslurnar hjá landinum til verkætlanina Talgildu Føroyar hækka við 8 mió. kr., frá 85 mió. kr. til 93 mió.kr., til at menna nýggja virkisskrá, gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mzyz2ehdwx">Mett verður, at tá ið virkisskráin er liðug, skulu 0,2 ársverk afturat á Gjaldstovuni til at umsita og viðlíkahalda KT-skipanina til virkisskránna.</s>
+            <s xml:lang="fo" cert="high" xml:id="x6r77cyxkd">Harafturat skal 1 ársverk afturat á Hagstovuni til at viðlíkahalda grundardátur um almennar stovnar og framleiðslueindir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ojqqjioacc">TAKS og Skráseting Føroya skulu viðlíkahalda grundardátur um eindir, ið hesir stovnar viðlíkahalda frammanundan.</s>
+            <s xml:lang="fo" cert="high" xml:id="vjhqgyyddb">Mett verður tí, at nýggja virkisskráin ikki hevur fíggjarligar avleiðingar fyri hesar stovnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="icc5nbxidh">Lógaruppskotið hevur ikki fíggjarligar avleiðingar fyri kommunurnar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.2.">
+          <head rend="bold"><label>2.2.</label> Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a3rpikrckj">Talgildu Føroyar skulu menna nýggju virkisskránna, meðan Gjaldstovan skal umsita og viðlíkahalda KT-skipanina til virkisskránna, tá ið hon er liðug.</s>
+            <s xml:lang="fo" cert="high" xml:id="ylh2asz55z">Hagstovan skal viðlíkahalda grundardátur í virkisskránni um almennar stovnar og framleiðslueindir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wr6tn2iqqj">TAKS og Skráseting Føroya skulu viðlíkahalda grundardátur um eindir, ið hesir stovnar viðlíkahalda frammanundan.</s>
+            <s xml:lang="fo" cert="high" xml:id="f32vylazmn">Mett verður tí, at nýggja virkisskráin ikki hevur umsitingarligar avleiðingar fyri hesar stovnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="scguq3vacz">Við virkisskránni verður møguligt hjá borgarum og fyritøkum at heinta grundardátur um eindir í Føroyum á alnótini.</s>
+            <s xml:lang="fo" cert="high" xml:id="mfx22cv3t6">Hetta fer at leysgeva orku í umsitingini hjá bæði almennum stovnum og privatum fyritøkum.</s>
+            <s xml:lang="fo" cert="high" xml:id="j3mlqt5bvf">Harafturat verður møguligt at dagføra skráir hjá almennum stovnum og privatum fyritøkum sjálvvirkandi, sum eisini leysgevur orku í umsitingini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cfnusnlrml">Broytingin hevur ikki aðrar umsitingarligar avleiðingar fyri kommunurnar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.3.">
+          <head rend="bold"><label>2.3.</label> Avleiðingar fyri vinnuna</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qutq7zalwr">Broytingin hevur jaliga ávirkan á umstøðurnar hjá vinnuni at virka í, við tað at nýggja talgilda virkisskráin ger tað møguligt hjá borgarum og fyritøkum at heinta grundardátur um eindir í Føroyum á alnótini.</s>
+            <s xml:lang="fo" cert="high" xml:id="ybpgjbd4pd">Hetta leysgevur orku í umsitingini hjá bæði almennum stovnum og privatum fyritøkum.</s>
+            <s xml:lang="fo" cert="high" xml:id="rhnstb7euh">Harafturat verður møguligt at dagføra skráir hjá almennum stovnum og privatum fyritøkum sjálvvirkandi, sum eisini leysgevur orku í umsitingini.</s>
+          </p>
+        </div>
+        <div type="section" n="2.4.">
+          <head rend="bold"><label>2.4.</label> Avleiðingar fyri umhvørvið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="m2adnjcq65">Ein talgild virkisskrá letur upp fyri, at minni pappír verður brúkt í almennari- og privatari umsiting.</s>
+          </p>
+        </div>
+        <div type="section" n="2.5.">
+          <head rend="bold"><label>2.5.</label> Avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fymm3hnttf">Lógaruppskotið hevur ikki avleiðingar fyri serstøk øki.</s>
+          </p>
+        </div>
+        <div type="section" n="2.6.">
+          <head rend="bold"><label>2.6.</label> Avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ldru5oehr4">Talgildingin hevur jaligar sosialar avleiðingar fyri borgarar í síni heild.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="g3hl23i6dy">Talgildingin skal gera tað lættari hjá teimum við skerdum førleikum og teimum, sum eru stødd á útoyggj, til skips ella uttanlands at brúka talgildar tænastur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.7.">
+          <head rend="bold"><label>2.7.</label> Millumtjóðasáttmálar á økinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ybljvtrtdw">Føroyar eru limur í altjóða skattasamstarvinum Global Forum, sum snýr seg um gjøgnumskygni og umbýting av skattaupplýsingum millum limalond.</s>
+            <s xml:lang="fo" cert="high" xml:id="hthuvs65br">TAKS útflýggjar og umbýtir í dag grundardátur og skattaupplýsingar við limalond, har føroyskar fyritøkur hava virksemi.</s>
+            <s xml:lang="fo" cert="high" xml:id="fdryx5xl7a">Í hesum sambandi fær TAKS m.a. upplýsingar frá Skráseting Føroya, Hagstovuni og peningastovnum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dprj677ap5">Global Forum krevur m.a., at limalondini menna eina virkisskrá, sum skal lúka serligar treytir.</s>
+            <s xml:lang="fo" cert="high" xml:id="dcn7xlmwbp">TAKS og Skráseting Føroya eru við til at menna virkisskránna í mun til tær treytir, sum Global Forum setir.</s>
+            <s xml:lang="fo" cert="high" xml:id="oympk5mpvc">TAKS fær við virkisskránni lættari atgongd til grundardátur í mun til tað framhaldandi arbeiðið við at útflýggja og umbýta upplýsingar við limalond.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x7wr2ze6tk">Umframt eina virkisskrá skulu limalondini menna eina eigaraskrá, sum er eitt yvirlit yvir, hvørjir reellu eigararnir í einari ávísari fyritøku eru.</s>
+            <s xml:lang="fo" cert="high" xml:id="f4nzzqlq6s">Slíkt yvirlit finst ikki í Føroyum í dag, men verður ein partur av nýggju virkisskránni.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wwm5itpcvd">Við jøvnum millumbilum verður føroyska lóggávuverkið og umsitingin skoðað av umsjónarfólki frá Global Forum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mnxje4za2y">Er lóggávuverkið og umsitingin ikki í samsvari við krøvini frá Global Forum, kann hetta hava negativa ávirkan á føroyskar fyritøkur, við tað at kreditvirðið og møguleikin fyri at taka lán á altjóða marknaðinum versnar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.8.">
+          <head rend="bold"><label>2.8.</label> Tvørgangandi millumtjóðasáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ful7jzgrsw">Uppskotið hevur ikki týdning fyri tvørgangandi millumtjóða sáttmálar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.9.">
+          <head rend="bold"><label>2.9.</label> Markaforðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ndp4blmu2a">Uppskotið elvir ikki til markaforðingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="v2kunw7s3y">Ein talgild virkisskrá hevur jaligar avleiðingar fyri almennar myndugleikar, borgarar og virki í síni heild, við tað at tað verður lættari at finna, útvega og viðlíkahalda grundardátur um eindir í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="b3czyda7se">Eisini fær TAKS lættari atgongd til grundardátur í mun til tað framhaldandi arbeiðið við at útflýggja og umbýta upplýsingar við limalond.</s>
+          </p>
+        </div>
+        <div type="section" n="2.10.">
+          <head rend="bold"><label>2.10.</label> Revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="aexqv74cb6">Uppskotið elvir ikki til revsing, fyrisitingarligar sektir, pantiheimildir ella onnur størri inntriv.</s>
+          </p>
+        </div>
+        <div type="section" n="2.11.">
+          <head rend="bold"><label>2.11.</label> Skattir og avgjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="isvizmebvj">Lógaruppskotið inniheldur ikki ásetingar um skattir og avgjøld.</s>
+          </p>
+        </div>
+        <div type="section" n="2.12.">
+          <head rend="bold"><label>2.12.</label> Gjøld</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lvizfhccbr">Lógaruppskotið inniheldur ikki ásetingar um gjøld.</s>
+          </p>
+        </div>
+        <div type="section" n="2.13.">
+          <head rend="bold"><label>2.13.</label> Áleggur lógaruppskotið likamligum ella løgfrøðiligum persónum skyldur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uzaytxgeow">Lógaruppskotið áleggur ikki likamligum ella løgfrøðiligum persónum skyldur.</s>
+          </p>
+        </div>
+        <div type="section" n="2.14.">
+          <head rend="bold"><label>2.14.</label> Leggur lógaruppskotið heimildir til landsstýrismannin, ein stovn undir landsstýrinum ella til kommunur?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="i7g6d6aqbf">Lógaruppskotið heimilar landsstýrismanninum at hækka útreiðslurnar hjá landinum til verkætlanina Talgildu Føroyar við 8 mió. kr., frá 85 mió. kr. til 93 mió.kr.</s>
+          </p>
+        </div>
+        <div type="section" n="2.15.">
+          <head rend="bold"><label>2.15.</label> Gevur lógaruppskotið almennum myndugleikum atgongd til privata ogn?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="praau36zit">Lógaruppskotið gevur ikki almennum myndugleikum atgongd til privata ogn.</s>
+          </p>
+        </div>
+        <div type="section" n="2.16.">
+          <head rend="bold"><label>2.16.</label> Hevur lógaruppskotið aðrar avleiðingar?</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uplgxdbepl">Lógaruppskotið hevur ikki aðrar avleiðingar.</s>
+          </p>
+        </div>
+        <div type="section" n="2.17.">
+          <head rend="bold"><label>2.17.</label> Talvan: Yvirlit yvir avleiðingarnar av lógaruppskotinum</head>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið ella landsmyndugleikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss ella øki í landinum</cell>
+              <cell>Fyri ávísar samfelagsbólkar ella felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar ella búskaparligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Sosialar avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+        <div type="section" n="3.1.">
+          <head rend="bold"><label>3.1.</label> Viðmerkingar til ta einstøku greinina</head>
+          <div type="subsection">
+            <head rend="bold">Til § 1</head>
+            <p>
+              <seg xml:lang="fo">Í § 1, stk. 3 verður “85 mió. kr.” broytt til “93 mió. kr.”.</seg>
+              <s xml:lang="fo" cert="high" xml:id="zehispywnu">Broytingin í § 1, nr. 2 gevur landsstýrismanninum heimild at hækka útreiðslurnar hjá landinum til verkætlanina Talgildu Føroyar við 8 mió. kr., frá 85 mió. kr. til 93 mió. kr., til at menna nýggja virkisskrá, gera nýggja heildarætlan fyri Talgildu Føroyar og menna fleiri tænastur á Vanganum, sbrt. § 1, nr. 2 í hesum uppskoti.</s>
+            </p>
+            <p>
+              <seg xml:lang="fo">Í § 1, stk. 2 verður “145 mió. kr.” broytt til “153 mió. kr.”.</seg>
+              <s xml:lang="fo" cert="high" xml:id="ckljv2obg7">Við broytingini í § 1, nr. 1 verður tann samlaða upphæddin til verkætlanina Talgildu Føroyar hækkað við 8 mió. kr., frá 145 mió. kr. til 153 mió. kr.</s>
+              <s xml:lang="fo" cert="high" xml:id="z25ufjoemw">Tann samlaða upphæddin fevnir um fígging frá landinum, kommunum og samstarvsfeløgum (privatum og almennum partafeløgum o.l.).</s>
+            </p>
+          </div>
+          <div type="subsection">
+            <head rend="bold">Til § 2</head>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="kjopy3dj6s">§ 2 ásetir gildiskomu fyri hesa løgtingslóg um broyting í løgtingslóg um Talgildu Føroyar.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline><orgName>Fíggjarmálaráðið</orgName>, <date when="2021-02-16">16. februar 2021</date></dateline>
+        <space dim="vertical"/>
+        <signed rend="center">
+          <persName ref="https://tingdata.fo/person/kykjv24i">
+            <hi rend="bold">Jørgen Niclasen</hi>
+            <lb/>
+            <roleName>landsstýrismaður</roleName>
+          </persName>
+        </signed>
+        <signed rend="right"> / <persName>Bjarni Askham Bjarnason</persName></signed>
+      </div>
+      <div type="section">
+        <head rend="bold">Fylgiskjøl:</head>
+        <list rend="simple list-of-appendices">
+          <label>Fylgiskjal 1:</label>
+          <item>Javntekstur</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>
