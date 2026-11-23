@@ -1,0 +1,108 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot um avtøku av løgtingslóg um karensdagar - og biðið verður um, at hesi bæði uppskotini verða viðgjørd undir einum. Á Føroya Løgtingi, 30. oktober 1998 Jenis av Rana løgtingsmaður</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="https://tingdata.fo/person/d2canfar">Jenis av Rana</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/3898"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="1998-10-30">30. oktober 1998</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="center">Uppskot um avtøku av løgtingslóg um karensdagar - og biðið verður um, at hesi bæði uppskotini</ab>
+        <ab rend="center">verða viðgjørd undir einum.</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Á Føroya Løgtingi, 30. oktober 1998</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Jenis av Rana</ab>
+        <ab rend="bold center">løgtingsmaður</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í lóg fyri Føroyar um dagpening vegna sjúku og barnsburð, jb. lógarkunngerð nr. 102 frá 2. mars 1988, sum seinast broytt við løgtingslóg nr. 94 frá 13. juni 1995, verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <seg>Í §§ 4 og 13 verður “3.” broytt til “1.”</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>Í § 9, stk. 3 verður “3.” broytt til “1.”</seg>
+              </p>
+            </item>
+            <label>3)</label>
+            <item>
+              <p>
+                <seg>Í § 14 verða orðini “efter 1 uges sygdom” strikað.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="gef35zive7">Hendan lóg fær gildi 1. januar 1999.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="w5ive2mvfg">Miðflokkurin hevur d.d. lagt fyri Løgtingið uppskot um at seta úr gildi løgtingslóg nr. 187 um avmarkingar av løn í sambandi við sjúku, sokallaða karensdagalógin.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uorlma6uih">Karensdagalógin viðvíkir viðurskiftum teirra fastløntu undir sjúku, meðan endamálið við hesum uppskotinum er at javnseta tímalønt o.o., sum fáa dagpening undir sjúku, við tey fastløntu, soleiðis at tey fáa sjúkradagpening frá 1. degi, og ikki sum nú 3. degi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="owirnrrsxz">Viðvíkjandi viðmerkingum annars verður víst til viðmerkingarnar til løgtingsmál nr.21/1998: Uppskot um avtøku av løgtingslóg um karensdagar - og biðið verður um, at hesi bæði uppskotini verða viðgjørd undir einum.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Føroya Løgtingi</placeName>, <date when="1998-10-30">30. oktober 1998</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName ref="https://tingdata.fo/person/d2canfar">
+            <hi rend="bold">Jenis av Rana</hi>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

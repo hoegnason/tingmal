@@ -311,6 +311,25 @@ python3 utils/detect_gaps.py
 
 Identifies missing question numbers (e.g., 52-015-2020 through 52-019-2020).
 
+### `import_bills.py`
+Copies bills extracted by `bill_extractor` (expected next to this repository, in
+`../bill_extractor/output/<YEAR>/`) into `proposals/<YEAR>/`:
+
+```bash
+# show what would be copied
+python3 utils/import_bills.py --max-low 1 --max-medium 1 2005
+
+# copy the files
+python3 utils/import_bills.py --max-low 1 --max-medium 1 --write 2005
+```
+
+- A bill that is already in `proposals/` is never overwritten, and a bill without `<s>`
+  elements is skipped.
+- `--max-low N` and `--max-medium N` skip bills with more than N `<s cert="low">` or
+  `<s cert="medium">`. Without years, all year folders are checked.
+- Every bill is listed with what happens to it and why. The files are copied byte for
+  byte; nothing is written without `--write`.
+
 ### `export_ids.py`
 Core processing script - assigns IDs and generates `sentences.jsonl`:
 

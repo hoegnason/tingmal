@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um altjóðarættarligu sáttmálar Føroya landsstýris at gera</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <author>
+            <persName ref="">Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/19112"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2009-02-18">tann 18. februar 2009</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um altjóðarættarligu sáttmálar Føroya landsstýris at gera</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <div n="§ 1. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 1.</label>
+              <s xml:lang="fo" cert="high" xml:id="hdgspqr5nv">Lóg nr. 80 frá 15. mai 2005 um altjóðarættarligu sáttmálar Føroya landsstýris at gera verður sett úr gildi.</s>
+            </p>
+          </div>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <div n="§ 2. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 2.</label>
+              <s xml:lang="fo" cert="high" xml:id="p5ed52lzky">Henda lóg kemur í gildi á ólavsøku 2009.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kr2smozzla">Heimildarlógin sonevnda, ið nevnir Føroyar “Kongeriget Danmark, for så vidt angår Færøerne”, varð av røttum nevnd eitt stig til viks og trý stig aftur.</s>
+            <s xml:lang="fo" cert="high" xml:id="emkr7kin64">Teir garðar, ið heimastýrislógin hevði lagað um Føroya heimildir sum land og Føroya fólk sum tjóð, vóru rapaðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="x3feukt5r5">Við heimildarlógini varð lagað upp fyri hvørt lið og garðarnir umvaldir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tas3ptcjrc">Nú allir føroyingar fegnast um nýggja Uttanríkisráð okkara og nýggja embæti sum landsstýrismaður í uttanríkismálum, býðst høvi at fara undir nýggjar samráðingar um Føroya støðu.</s>
+            <s xml:lang="fo" cert="high" xml:id="kdmo6ct52z">Vit mugu tryggja okkum, at vit ongar aðrar avmarkingar ganga undir enn tær, ið onnur ríki og lond krevja í hvørjum altjóða høpi sær.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wjlfc4lfjz">Vegna aftustig lógarinnar er onki annað at gera enn at taka hana av. Síðani ber til at byggja á siðvenjuna eftir 1948 – og antin tamba hana enn meira ella taka upp samráðingar um møguliga nýggja skipan, ið veruliga flytur mørk.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2009-02-18">tann 18. februar 2009</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+        <signed>
+          <persName>Kári á Rógvi<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

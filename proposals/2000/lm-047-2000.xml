@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um sjómenn</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Henrik Old</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/6669"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2000-12-19">tann 19. desember 2000</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um sjómenn</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 4 frá 15.01.1988 um sjómenn, sum seinast broytt við løgtingslóg nr. 62 frá 03.07.1998, verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label rend="bold">1)</label>
+            <item>
+              <p>
+                <s xml:id="vu6rfliqzu">Í § 8, stk. 1, verður orðið ”tríggjar” broytt til ”tveir” og orðini ”6 mánaðir” broytt til ”2 mánaðir”.</s>
+              </p>
+            </item>
+            <label rend="bold">2)</label>
+            <item>
+              <p>
+                <s xml:id="baukrzsne5">Í § 8, stk. 2 verða orðini ”ein mánað” broytt til ”14 dagar”.</s>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="vzeqxf7nmj">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="r5hlzgtv3f">Sum skipanin er í dag, er útmynstringartíðin hjá manning við handilsskipum 4 mánaðir, meðan manning við fiskiskipum hevur rætt til fría heimferð eftir 3 mánaðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="kraqk32cbu">Í báðum omanfyri nevndu førum við teimum avmarkingum í sambandi við bíligari og lagaligari ferðing, sum nevndar eru í løgtingslógini um sjómenn, nr. 4 frá 15. januar 1988.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="knlxo7e5cs">Skipini, serliga fiskiskipini, verða alt størri og størri, og túrarnir verða harvið ofta langir, og tá harafturat ofta verður landað uttanlanda, tá ið fiskað verður á fjarleiðum, verða túrarnir ofta 3 og 4 mánaðir og meir, har menninir eru burtur frá heiminum.</s>
+            <s xml:lang="fo" cert="high" xml:id="v6gdhgtyqw">At vera burtur so langa tíð er í okkara grannalondum fyri langari tíð síðani søga, og tí er eisini rættast her at stytta tíðana niður í 2 mánaðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="scq5ibacw4">Hetta hevði eisini bøtt um møguleikarna at manna skipini, tá fiskimøguleikarnir eru minni góðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="fsndk5hqot">Verður uppskotið samtykt, vil tað soleiðis minka um óvissuna hjá sjómonnum um, hvørt ein túrur verður 2, 3 ella 4 mánaðir.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2000-12-19">tann 19. desember 2000</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Henrik Old</hi>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um skrásetingargjald á motorakførum v.m.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Heðin Mortensen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/7039"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2001-02-28">tann 28. februar 2001</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um skrásetingargjald á motorakførum v.m.</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <s xml:id="etocsiesmk">Í løgtingslóg nr. 175 frá 18.12.1992 um skrásetingargjald á motorakførum v.m., sum seinast broytt við løgtingslóg nr. 11 frá 09.02.2001, verður § 12 strikað.</s>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="kw5dne7ien">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd, og er galdandi frá 1. januar 2002.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="scj4kbgfpp">Í løgtingslóg nr. 175 frá 18. desember 1992 um skrásetingargjald á motorakførum v.m verður ásett støddin á avgjøldum v.m. fyri ymisk sløg av akførum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nttt7nhwep">Sambært § 12 í somu lóg er avgjaldið fyri kampingvognar 45% av avgjaldskylduga virðinum, meðan tað sambært §§ 13 og 14 einki avgjald er á ávikavist viðfestivognum við sløkkiútgerð og øðrum viðfestivognum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="g3vsibklxx">Fyri tey sum dáma væl kampinglívið og henda hátt at ferðast uppá, hevur hetta ta avleiðing, at tey ikki fáa teirra kampingvognar skrásettar í Føroyum, men noyðast at hava teir standandi uttanlanda, av tí at avgjaldið er so stórt.</s>
+            <s xml:lang="fo" cert="high" xml:id="zdfb2tpvzd">Hetta førir so eisini við sær, at tey tíverri ikki hava møguleika fyri at uppliva okkara egna land við kampingvogni, nú ætlanir eru frammi um at gera nýggj kampingpláss í Føroyum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ckfdeofyf7">Hetta kundi annars verið við til at ment ferðavinnuna.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="om52lidgny">Heitt verður tí á landsstýrið um at fáa broytt omanfyri nevndu lóg soleiðis, at avgjaldið í § 12 verður strikað.</s>
+            <s xml:lang="fo" cert="high" xml:id="qt7r3bbeyt">Viðmerkjast kann, at í t.d. Danmark verður einki avgjald kravt fyri kampingvognar.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2001-02-28">tann 28. februar 2001</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Heðin Mortensen</hi>
+            <lb/>
+            <roleName rend="bold">løgtingsmaður</roleName>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

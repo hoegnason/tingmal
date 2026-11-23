@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um Føroya yrkisskúla fyri fiskiídnað og havbúnað</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/5456"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Lms. j. nr.:</cell>
+          <cell rend="meta-cell">523-0010/2000</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">PP/poh/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um Føroya yrkisskúla fyri fiskiídnað og havbúnað</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 43 frá 5. mai 1987 um Føroya yrkisskúla fyri fiskiídnað og havbúnað við seinni broyting verður í § 6 sett inn sum nýtt litra d: ”d) eina yrkisgymnasiala útbúgving innan fiskivinnu og havbúnað”.</seg>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s>Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high">Formliga grundarlagið hjá Fiskivinnuskúlanum er løgtingslóg nr. 43 frá 5. mai 1987 um Føroya Yrkisskúla fyri fiskiídnað og havbúnað.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Lógin umrøður eina útbúgving og lærugreinar, ið ikki svara til tað virksemi, ið fer fram á skúlanum í dag.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Síðani 1995 hevur skúlin staðið fyri eini 3-ára yrkisgymnasialari útbúgving við støðisári uttan heimild í lógini og uttan nakra kunngerð fyri útbúgvingini.</s>
+            <s xml:lang="fo" cert="high">Hetta hevur sjálvsagt elvt til nógvar trupulleikar, bæði fyri fyrisiting og skúla.</s>
+            <s xml:lang="fo" cert="high">Misnøgdin um hesi viðurskifti er ofta komin til sjóndar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Skal útbúgvingin umsitast á nøktandi hátt, er alneyðugt, at formliga grundarlagið er til staðar.</s>
+            <s xml:lang="fo" cert="high">Í seinastuni hevur Undirvísingar- og Mentamálastýrið tí, í samráði við skúlastjóran, tilevnað eina kunngerð fyri útbúgvingini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Henda kann tó ikki setast í gildi, fyrr enn lógin gevur heimild fyri tí.</s>
+            <s xml:lang="fo" cert="high">Sostatt verður hetta uppskot til lógarbroyting lagt fyri Løgtingið fyri at útvega neyðugu heimildina til oman fyri nevndu kunngerð.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high">Lógaruppskotið hevur ikki meirkostnað við sær.</s>
+          </p>
+          <!--
+          TODO: fix signature extraction! 
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Signar á Brúnni </hi>landsstýrismaður / Petur Petersen</s>
+          </p>
+          -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
