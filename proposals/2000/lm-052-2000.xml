@@ -1,0 +1,111 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensjónistar v.fl.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Páll á Reynatúgvu</persName>
+          </author>
+          <author>
+            <persName ref="">Finnur Helmsdal</persName>
+          </author>
+          <author>
+            <persName ref="">Rúna Sivertsen</persName>
+          </author>
+          <author>
+            <persName ref="">Jóanis Nielsen</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/6716"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2001-01-16">16. januar 2001</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um viðbót til ávísar pensjónistar v.fl.</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 35 frá 16. apríl 1997 um viðbót til ávísar pensjónistar v.fl., sum broytt við løgtingslóg nr. 28 frá 13. mars 2000, verður gjørd henda broyting:</seg>
+          </p>
+          <p>
+            <seg>§ 1, stk. 2, verður orðað soleiðis:</seg>
+          </p>
+          <q>
+            <p>
+              <label rend="italic">Stk. 2.</label>
+              <s xml:id="opnvnsrxo6">Viðbótarupphæddin sambært hesi løgtinglóg verður ásett í serligari løgtingslóg.</s>
+              <s xml:id="bjs3kjkbfu">Á sama hátt verður møgulig javning ásett.</s>
+            </p>
+          </q>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="e43eflsspo">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd, og hevur virknað frá og við útgjaldingini av veitingum fyri februar mánað 2001.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cwb2qbsec7">Í løgtingsmáli nr. 30/2000: Uppskot til løgtingslóg um broyting í løgtingslóg um áseting og javning av almannaveitingum skjýtur landsstýrið upp at áseta viðbótina sbr. løgtingslóg um viðbót til ávísar pensjónistar v.fl. í 2001 til 3.528 kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="rxrn7tem3r">Seinni, í skrivi 22. desember 2000, mælir landsstýrið trivnaðarnevndini til at bera so í bandi, at upphæddin verður hækkað til kr. 4.400.</s>
+            <s xml:lang="fo" cert="high" xml:id="lrt5r2r4sj">Somuleiðis verður mælt trivnaðarnevndini til, at løgtingslógin um viðbót til ávísar pensjónistar verður broytt soleiðis, at sjálv upphæddin bara verður í lógini um áseting og javning av almannaveitingum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zre7ip7k6i">Mælt verður tí Løgtinginum til at samtykkja, at viðbótarupphæddin ikki longur verður ásett í viðbótarlógini, men í lógini um áseting og javning av almannaveitingum.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á LØGTINGI</placeName>, <date when="2001-01-16">16. januar 2001</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Páll á Reynatúgvu</persName>
+        </signed>
+        <signed>
+          <persName>Finnur Helmsdal</persName>
+        </signed>
+        <signed>
+          <persName>Rúna Sivertsen</persName>
+        </signed>
+        <signed>
+          <persName>Jóanis Nielsen</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
