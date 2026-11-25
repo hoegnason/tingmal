@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um toll</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/5062"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Lms. j. nr.:</cell>
+          <cell rend="meta-cell">688-7/98</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Fms. j. nr.:</cell>
+          <cell rend="meta-cell">2520-23/91</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">DMK/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um toll</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 121 frá 23. desember 1991 um toll, sum seinast broytt við løgtingslóg nr. 100 frá 29. desember 1998, verður í § 36, stk. 1, nr. 4, "§ 12, 4. stk. og" strikað.</seg>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="h232xq2coe">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="e4oyldo4ue">Undir ásetingunum í tolllógini um revsing stendur í § 36, stk. 1, nr. 4, at "Við bót verður hann revsaður, ið tilætlað ella av grovum ósketni: Brýtur § 12, stk. 4,….".</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="t6pbr2cpvq">Av tí at § 12, stk. 4, í tolllógini ikki finst longur, kann ikki revsast, um ein brýtur § 12, stk. 4.</s>
+            <s xml:lang="fo" cert="high" xml:id="u45533ahns">Av misgáum er hendan revsiáseting ikki broytt, tá §12, stk. 4, varð tikið úr lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="lqto5ku6zq">Hetta verður við hesum rættað.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Viðmerkingar til broytingina</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="czf4nxi6ko">Henda broyting hevur til endamáls at rætta eina villu í § 36 í tolllógini, nevniliga at strika, at brot á § 12, stk. 4, kunnu verða revsað, tá § 12, stk. 4, ikki longur finst í tolllógini.</s>
+          </p>
+          <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Karsten Hansen </hi>landsstýrismaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Petur Alberg Lamhauge</s>
+          </p>
+          -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

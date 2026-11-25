@@ -1,0 +1,103 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um broyting í løgtingslóg um meirvirðisgjald (Rætting av nummari á grein)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Helena Dam á Neystabø</persName>
+          </author>
+          <author>
+            <persName ref="">Pauli Trond Petersen</persName>
+          </author>
+          <author>
+            <persName ref="">Ruth Vang</persName>
+          </author>
+          <author>
+            <persName ref="">Jacob Vestergaard</persName>
+          </author>
+          <author>
+            <persName ref="">Bill Justinussen</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/39582"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2017-08-23">23. august 2017</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um broyting í løgtingslóg um meirvirðisgjald</ab>
+        <ab rend="center">(Rætting av nummari á grein)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <s xml:id="cnke5243n6">Í løgtingslóg nr. 92 frá 6. juni 2017 um broyting í løgtingslóg um meirvirðisgjald verður í § 1, nr. 1 ”Aftan á § 3 b.” broytt til: ”Aftan á § 3 c.” og ”<hi rend="bold">§ 3 c.</hi>”verður broytt til: ”<hi rend="bold">§ 3 d.</hi>”.</s>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="jlo4swuhum">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="xy7afnwnhi">Á vári 2017 vórðu tvær broytingar í mvg-lógini samtyktar, sum í báðum førum seta eina nýggja § 3 c inn.</s>
+          <s xml:lang="fo" cert="high" xml:id="tf2yfurzjx">Soleiðis eru tað nú tvær ymiskar greinar í mvg-lógini, sum eita § 3 c.</s>
+          <s xml:lang="fo" cert="high" xml:id="rsfthg44nq">Talan er um løgtingsmál nr. 70/2016 (løgtingslóg nr. 80/2017) og løgtingsmál nr. 122/2016 (løgtingslóg nr. 92/2017).</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="ee6gt2436j">Við hesum uppskoti verður feilurin rættaður soleiðis, at tann eina greinin verður broytt til § 3 d.</s>
+        </p>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2017-08-23">23. august 2017</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Helena Dam á Neystabø</persName>
+        </signed>
+        <signed>
+          <persName>Pauli Trond Petersen</persName>
+        </signed>
+        <signed>
+          <persName>Ruth Vang</persName>
+        </signed>
+        <signed>
+          <persName>Jacob Vestergaard</persName>
+        </signed>
+        <signed>
+          <persName>Bill Justinussen</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

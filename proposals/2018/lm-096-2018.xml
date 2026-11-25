@@ -1,0 +1,114 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um at dagføra vegir og tunlar</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Bill Justinussen</persName>
+          </author>
+          <author>
+            <persName ref="">Jenis av Rana</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/42777"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2019-02-20">20. februar 2019</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg</ab>
+        <ab rend="bold center">um</ab>
+        <ab rend="bold center">at dagføra vegir og tunlar</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <div n="§ 1. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 1.</label>
+              <s xml:lang="fo" cert="high" xml:id="ywhdtr7kq2">Landsstýrismanninum verður heimilað at dagføra vegir og tunlar.</s>
+            </p>
+          </div>
+          <div n="§ 1. Stk. 2.">
+            <p rend="bill-text">
+              <label rend="italic">Stk. 2.</label>
+              <s xml:lang="fo" cert="high" xml:id="jz67traesu">Útreiðslan til verkætlanina kann í mesta lagi vera 200 mió. kr.</s>
+            </p>
+          </div>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <div n="§ 2. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 2.</label>
+              <s xml:lang="fo" cert="high" xml:id="h3zpxpmgwl">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd, og fer úr gildi 31. desember 2029.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uwupayz3hs">Endamálið við verklagslógini er at dagføra vegir og brýr við tí endamáli at fáa tað aftur, sum Landsverk er afturúrsiglt av ov lítlari viðlíkahaldsjáttan seinastu mongu árini.</s>
+            <seg xml:lang="fo">Landsverk sigur í nýggju samferðsluætlanini soljóðandi:</seg>
+          </p>
+          <quote>
+
+          </quote>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yhb2ukf3rp">Samstundis eigur játtanin til landsvegahaldið at økjast frá 42 mió. kr. til 70 mió. kr. um árið, so viðlíkahaldsstøðið kann haldast.</s>
+            <s xml:lang="fo" cert="high" xml:id="qagggbr3wa">Fyri at fáa eftirsleipið aftur, eiga aðrar 20 mió. kr. at verða játtaðar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="axjqcfwios">Landsverk ger neyðugu raðfestingarnar yvir, hvussu eftirsleipið kann fáast av vegnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="s6hnvs7utm">Treytin fyri, at henda verklagslóg kann gjøgnumførast, er, at ásett verður á fíggjarlógini 20 mió. kr. um árið frá 2019-2028, sum vera eyðmerktar til at dagføra og viðlíkahalda vegir og tunlar.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold">
+          <placeName>Á Løgtingi</placeName>
+          <date when="2019-02-20">20. februar 2019</date>
+        </dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Bill Justinussen</hi>
+          </persName>
+        </signed>
+        <signed>
+          <persName>
+            <hi rend="bold">Jenis av Rana</hi>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
