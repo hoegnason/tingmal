@@ -1,0 +1,992 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um fólka- og farmaflutning</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/6978"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <standOff>
+    <!-- From § 1., stk 1. -->
+    <seg type="sentence" resp="rani" xml:id="ygzl4nrhui">Í hesi lóg er vinnuligur flutningur at skilja sum reglubundin flutningur móti gjaldi við akfari ella skipi, og sum er ætlaður almenninginum.</seg>
+    <seg type="sentence" resp="rani" xml:id="z3uolkzu3u">Í hesi lóg er fólkaflutningur at skilja sum vinnuligur flutningur av ferðafólki.</seg>
+    <seg type="sentence" resp="rani" xml:id="xot4gzxndv">Í hesi lóg er farmaflutningur at skilja sum vinnuligur flutningur av farmi.</seg>
+    <seg type="sentence" resp="rani" xml:id="lw67l2rh3o">Í hesi lóg er farmur at skilja sum vanligir pakkar, ið viga meira enn 20 kg, umframt vørur, lutir, kassar o.t., ið ikki kunnu sendast sum postur.</seg>
+    <seg type="sentence" resp="rani" xml:id="tjqa7ykl5q">Í hesi lóg er sjóvegis flutningur at skilja sum vinnuligur flutningur við skipi ella báti millum tvær ella fleiri føroyskar havnir ella lendingar.</seg>
+    <seg type="sentence" resp="rani" xml:id="jtyzc2u4jq">Í hesi lóg er landvegis flutningur at skilja sum vinnuligur flutningur við akfari á landi.</seg>
+    <seg type="sentence" resp="rani" xml:id="scsmjhgynm">Í hesi lóg er útbjóðing at skilja sum innheinting av tilboðum uppá rakstur av flutningi á farleiðum.</seg>
+
+    <!-- From § 2., stk 1. -->
+    <seg type="sentence" resp="rani" xml:id="jgaoo24zod">Landið hevur skyldu til at skipa fyri nøktandi sjóvegis fólkaflutningi, farmaflutningi og/ella flutningi av akførum, og nøktandi landvegis fólkaflutningi, á teimum farleiðum, har tað hevur stóran samfelagsligan týdning, at skipað verður fyri slíkum flutningi.</seg>
+
+    <!-- From § 5. Stk. 2. -->
+    <!-- TODO: should this be a list starting with a colon? -->
+    <seg type="sentence" resp="rani" xml:id="xhdzszzw4k">Útbjóðingartilfarið skal í minsta lagi lýsa tíðarskeið, farleið og tænastustig.</seg>
+
+    <!-- From endamál við uppskotinum -->
+    <!-- TODO: should we use a long list list instead of multiple sentences? -->
+    <seg type="sentence" resp="rani" xml:id="jy6vfun4fr">Endamál lógarinnar er at nøktandi innanlands fólkaflutningur og sjóvegis farmaflutningur verður tryggjaður landinum í síni heild.</seg>
+    <seg type="sentence" resp="rani" xml:id="jf6tbh3v3y">Endamál lógarinnar er at flutningurin verður skipaður, so borgarar landsins framhaldandi fáa eina góða tænastu við so fáum útreiðslum sum møguligt.</seg>
+    <seg type="sentence" resp="rani" xml:id="zpepjthdyv">Endamál lógarinnar er at flutningurin verður lagaður eftir skiftandi tørvi.</seg>
+    <seg type="sentence" resp="rani" xml:id="bxqi4jjrfr">Endamál lógarinnar er at fortreytir verða skaptar fyri kapping, og at kollektiva ferðslan mennist.</seg>
+
+    <!-- From "Í nevnda verki verður Vinnumálastýrinum mælt til at: " -->
+    <!-- TODO: should we use a long list list instead of multiple sentences? -->
+    <seg type="sentence" resp="rani" xml:id="mte36gmntc">Í nevnda verki verður Vinnumálastýrinum mælt til at fyrireika formligar karmar hjá SL at virka innanfyri, herundir Bygdaleiðir.</seg>
+    <seg type="sentence" resp="rani" xml:id="vr7dnz4agy">Í nevnda verki verður Vinnumálastýrinum mælt til at orða ein samferðslupolitikk, herundir politikk um kollektiva ferðslu.</seg>
+    <seg type="sentence" resp="rani" xml:id="phw3shhw55">Í nevnda verki verður Vinnumálastýrinum mælt til at viðgera frágreiðingina ”Karmar fyri framtíðar virkseminum - ein frágreiðing um fortreytir, møguleikar og avmarkingar.”</seg>
+  </standOff>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Lms. j. nr.:</cell>
+          <cell rend="meta-cell">524-0034/2000</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Vms. j. nr.:</cell>
+          <cell rend="meta-cell">200000804</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">NW/bj/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um fólka- og farmaflutning</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div n="Allýsingar">
+          <head rend="italic">Allýsingar</head>
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <seg xml:lang="fo">Í hesi lóg er:</seg>
+              </p>
+              <list rend="simple">
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Vinnuligur flutningur </hi>at skilja sum reglubundin flutningur móti gjaldi við akfari ella skipi, og sum er ætlaður almenninginum.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Fólkaflutningur</hi> at skilja sum vinnuligur flutningur av ferðafólki.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Farmaflutningur</hi> at skilja sum vinnuligur flutningur av farmi.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Farmur</hi> at skilja sum vanligir pakkar, ið viga meira enn 20 kg, umframt vørur, lutir, kassar o.t., ið ikki kunnu sendast sum postur.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Sjóvegis flutningur</hi> at skilja sum vinnuligur flutningur við skipi ella báti millum tvær ella fleiri føroyskar havnir ella lendingar.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Landvegis flutningur </hi>at skilja sum vinnuligur flutningur við akfari á landi.</seg>
+                </item>
+                <item>
+                  <seg xml:lang="fo"><hi rend="italic">Útbjóðing</hi> at skilja sum innheinting av tilboðum uppá rakstur av flutningi á farleiðum.</seg>
+                </item>
+              </list>
+            </div>
+          </div>
+        </div>
+        <div n="Flutningsskylda">
+          <head rend="italic">Flutningsskylda</head>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <seg xml:lang="fo">Landið hevur skyldu til at skipa fyri:</seg>
+              </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg xml:lang="fo">nøktandi sjóvegis fólkaflutningi, farmaflutningi og/ella flutningi av akførum, og</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg xml:lang="fo">nøktandi landvegis fólkaflutningi, á teimum farleiðum, har tað hevur stóran samfelagsligan týdning, at skipað verður fyri slíkum flutningi.</seg>
+                </item>
+              </list>
+            </div>
+            <div n="§ 2. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="drxjvqzkoe">Landsstýrismaðurin ásetir í kunngerð tær farleiðir, sum stk. 1 fevnir um.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="wqhfva6hkd">Hóast stk. 1 hevur landið ikki skyldu til at skipa fyri flutningi, um so er, at nøktandi flutningur verður skipaður av øðrum á teimum farleiðum, ið verða ásettar í kunngerð við heimild í stk. 2.</s>
+              </p>
+            </div>
+            <div n="§ 2. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="j3dkdoqhbr">Landsstýrismaðurin kann seta reglur um, at farmur skal lúka ávís krøv til stødd, vekt, innihald og innpakking, fyri at farmurin kann verða fevndur av flutningsskyldu landsins undir stk. 1.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Loyvisviðurskifti">
+          <head rend="italic">Loyvisviðurskifti</head>
+          <div type="bill-section" n="§ 3.">
+            <div n="§ 3. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="kgbzwvkaxr">Til at skipa fyri tí í § 2, stk. 1, nr. 1 ella nr. 2, nevnda flutningi á einari ella fleiri av teimum farleiðum, ið eru ásettar í kunngerð við heimild í § 2, stk. 2, krevst loyvi frá landsstýrismanninum, ella øðrum myndugleika, sum landsstýrismaðurin heimilar til tess.</s>
+                <s xml:lang="fo" cert="high" xml:id="ykd3vjl5rz">Kravið um loyvi er tó ikki galdandi, um landið sjálvt skipar fyri flutninginum.</s>
+              </p>
+            </div>
+            <div n="§ 3. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="cuwl5r5rsq">Landsstýrismaðurin skal veita loyvi, um umsøkjari er fíggjarliga og yrkisliga førur fyri at skipa fyri nøktandi fólkaflutningi á teimum farleiðum, ið søkt verður um loyvi til, og gevur seg undir tær treytir, ið landsstýrismaðurin ásetir sbrt. stk. 3.</s>
+              </p>
+            </div>
+            <div n="§ 3. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <seg xml:lang="fo">Landsstýrismaðurin kann seta treytir, ið umsøkjari skal geva seg undir, áðrenn loyvi verður veitt, herundir treytir um:</seg>
+                <list>
+                  <!-- TODO: extract later! -->
+                  <label>1)</label>
+                  <item>
+                    <seg xml:lang="fo">Góðkenning av almennum viðskiftatreytum.</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg xml:lang="fo">Tænastu- og dygdarstig.</seg>
+                    <s xml:id="gfmflcxmfh">Herundir eisini um samskipaða ferðaætlan.</s>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg xml:lang="fo">Samstarv við aðrar vinnurekandi á økinum til tess at tryggja almenninginum besta flutningin.</seg>
+                  </item>
+                  <label>4)</label>
+                  <item>
+                    <seg xml:lang="fo">Hámarksgjøld fyri flutning.</seg>
+                  </item>
+                  <label>5)</label>
+                  <item>
+                    <seg xml:lang="fo">Skyldu at uppihalda flutningi, ið er týðandi fyri samfelagið, hóast óvanligar umstøður.</seg>
+                  </item>
+                  <label>6)</label>
+                  <item>
+                    <seg xml:lang="fo">At umsøkjari, sum treyt fyri at fáa loyvi til ávísa farleið, bindur seg til at skipa fyri nærri tilskilaðum flutningi á aðrari farleið.</seg>
+                  </item>
+                  <label>7)</label>
+                  <item>
+                    <seg xml:lang="fo">At umsøkjari, sum treyt fyri at fáa loyvi til ávísa farleið, skal gjalda eitt javningargjald, til tess at tryggja góðan flutning um alt landið.</seg>
+                  </item>
+                </list>
+              </p>
+            </div>
+            <div n="§ 3. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="us5cjzazee">Landsstýrismaðurin kann taka loyvið aftur, um loyvishavarin ikki heldur loyvistreytirnar.</s>
+              </p>
+            </div>
+            <div n="§ 3. Stk. 5.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="xeclfahif6">Landsstýrismaðurin kann seta nærri reglur um mannagongd í sambandi við loyvisveitingar.</s>
+
+              </p>
+            </div>
+            <div n="§ 3. Stk. 6.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="ahk64qcavg">Heimilað verður landsstýrismanninum at áseta í kunngerð, at tað í einari skiftisskipan uppá ikki meira enn 6 mánaðar frá tí degi, at kunngerðin kemur í gildi, kann víkjast frá kravinum um loyvi eftir § 3, stk. 1.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Rakstur á farleiðum">
+          <head rend="italic">Rakstur á farleiðum</head>
+          <div type="bill-section" n="§ 4.">
+            <div n="§ 4. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 4.</label>
+                <seg xml:lang="fo">Til at skipa fyri flutningi hevur landsstýrismaðurin hesar møguleikar:</seg>
+              </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <s xml:lang="fo" cert="high" xml:id="e62vsouyfr">Rakstur av flutningi á farleið, har nøktandi flutningur ikki verður skipaður av øðrum, kann bjóðast út.</s>
+                  <s xml:id="d4gmpy4bks">Landsstýrismaðurin hevur heimild til at avtala gjald fyri raksturin.</s>
+                </item>
+                <label>2)</label>
+                <item>
+                  <s xml:lang="fo" cert="high" xml:id="rafswclmwt">Á teimum farleiðum, har nøktandi flutningur ikki verður skipaður av øðrum, kann landið sjálvt reka flutning.</s>
+                </item>
+                <label>3)</label>
+                <item>
+                  <s xml:lang="fo" cert="high" xml:id="sxtg5cvpx5">Undir óvanligum umstøðum kann fyribilsavtala verða gjørd við einstakling ella felag um at reka flutning, uttan at raksturin hevur verið bjóðaður út frammanundan, til tess at tryggja, at flutningsskylda landsins verður hildin.</s>
+                  <s xml:lang="fo" cert="high" xml:id="oqa3hbpy2d">Raksturin skal tó skjótast møguligt, og í seinasta lagi 6 mánaðir eftir, at fyribilsavtalan varð gjørd um raksturin, verða boðin út.</s>
+                </item>
+              </list>
+            </div>
+          </div>
+        </div>
+        <div n="Útbjóðingarreglur">
+          <head rend="italic">Útbjóðingarreglur</head>
+          <div type="bill-section" n="§ 5.">
+            <div n="§ 5. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="nrp3u5k5lo">Tá útbjóðing verður framd sambært hesari lóg, eru reglurnar í løgtingslóg nr. 106, frá 15. november 1984 um útbjóðing v.m. galdandi.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <seg xml:lang="fo">Útbjóðingartilfarið skal í minsta lagi lýsa:</seg>
+              </p>
+              <list>
+                <label>1)</label>
+                <item>
+                  <seg xml:lang="fo">Tíðarskeið</seg>
+                </item>
+                <label>2)</label>
+                <item>
+                  <seg xml:lang="fo">Farleið</seg>
+                </item>
+                <label>3)</label>
+                <item>
+                  <seg xml:lang="fo">Tænastustig</seg>
+                </item>
+              </list>
+            </div>
+            <div n="§ 5. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="ia2ognaoj2">Landsstýrismaðurin kann áseta nærri reglur um útbjóðing av rakstri av flutningi á farleiðum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Tyrluflúgving">
+          <head rend="italic">Tyrluflúgving</head>
+          <div type="bill-section" n="§ 6.">
+            <div n="§ 6. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="dr3bvcqco4">Landsstýrismaðurin kann gera avtalur um gjald fyri innanoyggja tyrluflúgving.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Revsireglur">
+          <head rend="italic">Revsireglur</head>
+          <div type="bill-section" n="§ 7.">
+            <div n="§ 7. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 7.</label>
+                <s xml:lang="fo" cert="high" xml:id="byz7mhdq4h">Brot á § 3, stk. 1, verður revsað við bót.</s>
+              </p>
+            </div>
+            <div n="§ 7. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="h23fvm4qh4">Í kunngerð, sum er gjørd við heimild í hesari lóg, kann verða ásett, at brot á ásetingar í kunngerðini verður revsað við bót.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Gildiskoma">
+          <head rend="italic">Gildiskoma</head>
+          <div type="bill-section" n="§ 8.">
+            <div n="§ 8. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 8.</label>
+                <s xml:lang="fo" cert="high" xml:id="mant7vhdnp">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd, og samstundis fer úr gildi løgtingslóg nr. 51. frá 1. juni 1977 um fólka- og farmaflutning, við seinni broytingum.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="ohhuqkgxqr">Loyvi til fólka- og/ella farmaflutning, ið er veitt eftir tí í stk. 1 nevndu lóg, verður verandi í gildi sbrt. ásetingunum í loyvinum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Almennar viðmerkingar:</head>
+        <div type="section">
+          <head rend="italic">Endamál við uppskotinum</head>
+          <p>
+            <seg xml:lang="fo">Endamál lógarinnar er:</seg>
+          </p>
+          <list>
+            <label>a)</label>
+            <item><hi rend="italic">at</hi> nøktandi innanlands fólkaflutningur og sjóvegis farmaflutningur verður tryggjaður landinum í síni heild,</item>
+            <label>b)</label>
+            <item><hi rend="italic">at</hi> flutningurin verður skipaður, so borgarar landsins framhaldandi fáa eina góða tænastu við so fáum útreiðslum sum møguligt,</item>
+            <label>c)</label>
+            <item><hi rend="italic">at</hi> flutningurin verður lagaður eftir skiftandi tørvi,</item>
+            <label>d)</label>
+            <item><hi rend="italic"> at</hi> fortreytir verða skaptar fyri kapping, og at kollektiva ferðslan mennist.</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cgznruzo6w">Ein fortreyt fyri at røkka hesum endamáli er, at privatar fyritøkur og einstaklingar í størri mun enn í dag fáa møguleika at bjóða sínar tænastur fram, antin hesin flutningur verður skipaður av landinum ella av øðrum pørtum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bloytfu2ga">Fleiri farleiðir eru helst av slíkum slagi, at privat halda seg aftur at reka farleiðirnar, tí tær handilsliga sæð eru ivasamar og geva undirskot.</s>
+            <s xml:lang="fo" cert="high" xml:id="cvhuo34zmz">Í slíkum førum eigur landið sum meginreglu ikki sjálvt at átaka sær at reka farleiðirnar við egnum flutningstólum v.m., men bjóða farleiðirnar út til privat at reka, tó við einum ískoyti frá tí almenna, fyri at tey privatu kunnu eggjast til at átaka sær at reka farleiðirnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="ubybh3xfkd">Um fleiri fyritøkur ella einstaklingar eru, sum kunnu átaka sær at reka farleiðir, ið tað almenna skipar fyri, skuldi slík útbjóðing av farleiðum havt við sær, at tað gerst bíligari fyri tað almenna, og at tænastustøðið helst gerst betri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gowvitxe65">Tá farleiðir verða útbjóðaðar, kunnu fleiri bjóðast út undir einum, og hetta hevur eyðsýndar fyrimunir við sær fyri báðar partar.</s>
+            <s xml:lang="fo" cert="high" xml:id="fdzsprwu47">Soleiðis sum t.d. busskoyringin er skipað í dag, eru eingir stórrakstrarfyrimunir hjá nøkrum privatum, tí í flestu førum er talan um einmansfyritøkur við bert einum bussi.</s>
+            <s xml:lang="fo" cert="high" xml:id="vjsteprqxt">Stórrakstrarfyrimunir, so sum betrað nýtsla av kapasiteti, fyrisiting, innkeypi, viðlíkahaldi o.ø., eru ikki til, og hetta dýrkar tí munandi um kostnaðin av bussrakstrinum, sum tað almenna rindar fyri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="orgdknx35b">Eftir uppskotinum hava teir, sum søkja um loyvi til flutning, krav uppá at fáa loyvi, um teir lúka nøkur førleikakrøv og annars geva seg undir nakrar treytir, sum neyðugar eru, m.a. til tess at Strandfaraskip Landsins kann uppihalda einari samskipaðari flutningstænastu.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Orsøkin til løgtingslógaruppskotið</head>
+          <p>
+            <seg xml:lang="fo">Í samgonguskjalinum frá 9. mai 1998 undir pkt. 12. Samferðslu- og samskiftismál, verður m.a. skilað soleiðis til:</seg>
+          </p>
+          <quote>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="q4krbwt3sb">Landsstýrið hevur skyldu at tryggja hóskandi ferða- og flutningssamband millum tey ymsu plássini í Føroyum.</s>
+              <s xml:lang="fo" cert="high" xml:id="fztdi4tlqs">Samgongan ásannar, at ferða- og flutningssamband hevur alstóran týdning fyri vinnumøguleikar og trivnað í landinum.</s>
+            </p>
+            <ab>……</ab>
+            <p>
+              <s xml:lang="fo" cert="high" xml:id="oehorcpd4w">Kannað verður, um rationaliseringar kunnu gerast í samferðslukervinum.</s>
+              <s xml:lang="fo" cert="high" xml:id="iv72hnh46j">Uppgávur kunnu bjóðast út til privatar at røkja, har hetta gevur fíggjarligan og tænastuligan fyrimun.</s>
+            </p>
+          </quote>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zbhe3p5kj5">Vinnumálastýrið hevur í longri tíð arbeitt við eini endurskoðan av virkseminum hjá tí almenna við fólka- og farmaflutningi, sum verður rikið av Strandfaraskipum Landsins (hereftir nevnt SL).</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a4sdeq2yti">Hetta er gjørt við atliti til at rationalisera og effektivisera almenna virksemið, meðan málið samstundis er at uppihalda ein fyri landið nøktandi vinnuligan fólka- og farmaflutning.</s>
+            <s xml:lang="fo" cert="high" xml:id="fbdtqxa3bt">Ein av aðaltættunum í hesum arbeiði hevur verið, at tað almenna sum meginreglu bert skal skipa fyri og/ella reka farleiðir, har privata vinnulívið ikki heldur seg til.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo" cert="high">Í hesum sambandi boðaði Vinnumálastýrið SL frá í brævi, dagf. 1. sept. 2000, sbr. <hi rend="italic">skjal 5,</hi> at framtíðar virksemi stovnsins skuldi skipast soleiðis:</seg>
+          </p>
+          <list>
+            <label>1.</label>
+            <item>
+              <p>
+                <s xml:id="zuwiewl7td">Virksemið hjá SL - tað veri seg Oyggjaleiðir, Bygdaleiðir ella Farmaleiðir - skal í mest møguligan mun bjóðast út til privat at reka.</s>
+              </p>
+            </item>
+            <label>2.</label>
+            <item>
+              <p>
+                <s xml:id="cxiqn5bmtx">SL skal eiga minst møgulig flutningstól - skip, bussar og lastbilar - eftir at virksemið er boðið út.</s>
+              </p>
+            </item>
+            <label>3.</label>
+            <item>
+              <p>
+                <s xml:id="bohbwdunpt">SL verður skipað sum ein samferðslueind, sum hevur ábyrgdina av at gera og røkja allar sáttmálar, sum landið ger við privat um keyp av flutningstænastum, tað veri seg fólkaflutning ella farmaflutning.</s>
+              </p>
+            </item>
+            <label>4.</label>
+            <item>
+              <p>
+                <s xml:id="eyxy6w7bex">Samferðslueindin hevur um hendi rakstur av tænastum, sum ikki kunnu bjóðast út.</s>
+                <s xml:id="hcfpozr3yd">Hesin parturin av virkseminum hjá samferðslueindini eigur at vera so lítil sum gjørligt.</s>
+              </p>
+            </item>
+            <label>5.</label>
+            <item>
+              <p>
+                <s xml:id="yn3ougcvks">Samferðslueindin samskipar ferðaætlanir o.l. soleiðis, at innanlands sambandið verður so gott sum til ber.</s>
+              </p>
+            </item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="thlihj7tku">Virksemið hjá SL verður vanliga býtt sundur í Oyggjaleiðir, Bygdaleiðir og Farmaleiðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="ddjri5mrox">Oyggjaleiðir er sjóvegisflutningur, Bygdaleiðir er landvegis flutningur av ferðafólki (busskoyring), og Farmaleiðir er so farmaflutningurin.</s>
+            <s xml:lang="fo" cert="high" xml:id="jg6bamm4of">SL hevur síðani juli 1998 gjørt eitt umfatandi greiningararbeiði við at endurskoða raksturin av Bygdaleiðum, nevnt ”Nýskipan av virkseminum Bygdaleiðir”, givið út 31. august 2000.</s>
+            <s xml:lang="fo" cert="high" xml:id="lf37zcirz7">Frágreiðingin er løgd við sum <hi rend="italic">skjal 7</hi> til lógaruppskotið.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Í nevnda verki verður Vinnumálastýrinum mælt til at:</seg>
+          </p>
+          <list rend="bulleted">
+            <item>Fyrireika formligar karmar hjá SL at virka innanfyri, herundir Bygdaleiðir</item>
+            <item>Orða ein samferðslupolitikk, herundir politikk um kollektiva ferðslu</item>
+            <item>Viðgera frágreiðingina ”Karmar fyri framtíðar virkseminum - ein frágreiðing um fortreytir, møguleikar og avmarkingar.”</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="evddmhljzr">Síðstnevnda frágreiðing frá februar 2000 varð umbiðin av Løgtinginum í desember 1999 og verður løgd við sum <hi rend="italic">skjal 6</hi>.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="g3yrbmougt">Sum heitið eisini vísir til, er fyrstnevnda greiningararbeiðið bert fyri tann partin av virkseminum hjá SL, sum hevur við Bygdaleiðir at gera.</s>
+            <s xml:lang="fo" cert="high" xml:id="ogj5h7z52j">Farmaleiðir hevur tó eisini í samráð við Kappingarráðið gjørt eina lýsing av virkseminum hjá hesum partinum av flutningsskipanini.</s>
+            <s xml:lang="fo" cert="high" xml:id="q3l5f7wfwr">Einki slíkt greiningararbeiði er gjørt viðvíkjandi Oyggjaleiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="lw2pqhce2r">Uppskotið til løgtingslóg fevnir tó bæði um virksemið hjá Bygdaleiðum og Oyggjaleiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="np7wjqmjll">Ætlanin var eisini, at uppskotið skuldi fevna um farmaflutning við akfari, men Kappingarráðið gjørdi vart við, at um farmaflutningsskyldan hjá SL varð ásett í kunngerð við heimild í lóg, kundi tað gera støðuna verri hjá teimum privatu veitarunum á økinum, av tí at málsræði Kappingarráðsins verður skert.</s>
+            <s xml:lang="fo" cert="high" xml:id="zryv4oahni">Avrátt varð tí at halda farmaflutningin við akfari uttan fyri lógina, og regulera hendan flutningin kappingarrættarliga.</s>
+            <s xml:lang="fo" cert="high" xml:id="zegde7jdwh">Í so máta verður eingin broyting í mun til støðuna í dag, tó undantikið, at privat feløg ikki hava fyri neyðini at søkja um loyvi til at reka reglubundnan farmaflutning við akfari.</s>
+            <s xml:lang="fo" cert="high" xml:id="drpfkbuxvl">Henda broytingin merkir ikki, at SL skal leggja niður virksemi sítt innan farmaflutning á landi.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Galdandi lóggáva</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="azyhf35myr">Virksemi landsins viðv. innanlands fólka- og farmaflutningi er skipað í Strandfaraskipum Landsins, sum er landsfyritøka undir Vinnumálastýrinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="zhhrbwa4o2">Eingin løgtingslóg regulerar generelt, hvat hetta virksemið skal fevna um, herundir hvørjar farleiðir tað liggur á tí almenna at uppihalda, undantikið tó, at Løgtingið við løgtingslóg nr. 38 frá 23. apríl 1999, sum broytti løgtingslógina um fólka- og farmaflutning, ásetti, hvar landsstýrið skal skipa fyri sjóvegis farleiðum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jcmibmsb32">Fyri virksemið hjá SL hevur landsstýrismaðurin í vinnumálum gjørt eina reglugerð, Reglugerð fyri Strandfaraskip Landsins, dagfest 22. januar 1997, <hi rend="italic">skjal 4</hi>.</s>
+            <s xml:lang="fo" cert="high" xml:id="c6vkl7cmk5">Sambært reglugerðini hevur SL til uppgávu at lúka landsins tørv á innanlands fólka- og farmaflutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="zuepnlbcap">Ásett er, at raksturin í so stóran mun sum gjørligt skal vera á handilsligum støði.</s>
+            <s xml:lang="fo" cert="high" xml:id="uh6aqozjxg">Sæð burtur frá sjóvegis farleiðunum eru tað sostatt fyrisitingarligar avgerðir, sum eru avgerandi fyri, um landið yvirhøvur skal uppihalda fólka- og farmaflutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="aujq6qtxzu">Politiska stýringin av hesum fer so fram yvir játtanina á fíggjarlógini fyri hvørt ár.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yimmtinguy">Galdandi er løgtingslóg nr. 51 frá 1. juni 1977, <hi rend="italic">skjal 1,</hi> um fólka- og farmaflutning, sum seinast broytt við løgtingslóg nr. 38 frá 23. apríl 1999.</s>
+            <s xml:lang="fo" cert="high" xml:id="xabeubiwlt">Høvuðsinnihaldið í hesi løgtingslóg er, at tað krevst skrivligt loyvi frá landsstýrismanninum til ávís sløg av fólka- og farmaflutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="df6pmbafhx">Talan er ikki um einkarrætt.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Samandráttur av nýskipanini</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wkyrc2b2gq">Nýskipanin liggur serliga í, at tað almenna í sínum rakstri av almenna fólka- og farmaflutninginum fær høvi til at leggja skipanina um soleiðis, at tað í størri mun verða privat, sum átaka sær at reka ymsar farleiðir, tað veri seg land- ella sjóvegis.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="beyp3gdk4d">Sum nevnt omanfyri, eru ongar generellar reglur, hvørki í løgtingslóg ella aðrastaðni, sum fastleggja, hvørjar farleiðir tað almenna metir seg hava skyldu til at uppihalda, burtursæð frá sjóvegis farleiðunum, sum vórðu lógarfestar í 1999.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="q5v34lfepv">Landsstýrismaðurin er av tí áskoðan, at tað ikki er rætt at áseta hesar skyldur í løgtingslóg, men at hetta er ein fyrisitingarligur spurningur, sum eigur at verða ásettur í kunngerð.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gikq7orqy6">Sum javndømi kann nevnast, at tað ikki í landsvegalógini er ásett, hvørjir vegir, ið eru landsvegir, men at landsstýrismaðurin við heimild í landsvegalógini kann áseta, hvørjir vegir eru landsvegir, og at kunngerð verður givin um hetta.</s>
+            <s xml:lang="fo" cert="high" xml:id="ujyvuieayy">Tí er sum nýskapan tikið við í § 2, at landsstýrismaðurin í kunngerð ásetir, hvørjar farleiðir landið skal hava skyldu til at uppihalda, um ikki hesar farleiðir verða røktar av øðrum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hlmowjguja">Kunngerðin skal ikki bert fevna um sjóvegis farleiðirnar, sum eru við í verandi løgtingslóg um fólka- og farmaflutning, men eisini landvegis farleiðirnar, tó bert fyri fólkaflutningin.</s>
+            <s xml:lang="fo" cert="high" xml:id="zta5poojrj">Hetta verður eisini mett at hava stóran týdning fyri møguleikarnar hjá SL at umsita sítt virkisøki, tí ongar almennar reglur eru at halda seg til, tá avgerðir skulu takast, um SL hevur skyldu at skipa fyri flutningi á einari farleið ella ikki.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x7adacookp">Í § 2 í uppskotinum er tí ásett, at landsstýrismaðurin í kunngerð ásetir, hvar tað er av stórum samfelagsligum týdningi, at skipað verður fyri nøktandi flutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="tjhl4jqg4c">Á hesum farleiðum hevur tað almenna skyldu til at skipa fyri nøktandi fólkaflutningi og sjóvegis farmaflutningi, um ikki aðrir partar skipa fyri flutningi á hesum farleiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="cetjsjyutv">Hetta merkir eisini, at um privat avgera at taka seg burtur úr flutningi á teimum farleiðum, har tað í kunngerð er ásett, at farleiðin hevur stóran samfelagsligan týdning, hevur landið eina skyldu til at tryggja, at flutningur verður skipaður á hesum farleiðum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hpehlz77d6">Í uppskotinum verður skilt ímillum at skipa fyri flutningi á einari farleið og at reka farleiðina.</s>
+            <s xml:lang="fo" cert="high" xml:id="kzkmxllwms">Tað almenna kann skipa fyri flutninginum á einari farleið, og síðani bjóða raksturin út til privat, og hevur landsstýrismaðurin tá heimild at lata tí privata eitt gjald afturfyri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zsphkfkc2d">Tað almenna kann eisini sjálvt skipa fyri og reka eina farleið við egnum flutningstólum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xea4leikgz">Triði møguleikin er, at privat bæði skipa fyri og reka eina ella fleiri farleiðir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="t4bioax4je">Í hesum seinasta føri er neyðugt at søkja um loyvi frá landsstýrismanninum, um farleiðin er fevnd av kunngerðini um farleiðir av stórum samfelagsligum týdningi, sbrt. § 2, og kann landsstýrismaðurin tá leggja ymsar treytir við loyvinum, til tess at tryggja, at flutningurin er nøktandi fyri brúkararnar á farleiðini.</s>
+            <s xml:lang="fo" cert="high" xml:id="wv7pjlrois">Um tann privati annars ikki brýtur loyvistreytirnar, kann viðkomandi persónur ella felag annars skipa raksturin, sum viðkomandi heldur vera best, tó við atliti at galdandi rættarreglum.</s>
+            <s xml:lang="fo" cert="high" xml:id="copztmrxcv">Er farleiðin ikki nevnd í kunngerðini, krevst einki loyvi frá landsstýrismanninum, og tann privati kann tá frítt skipa raksturin, tó við atliti at galdandi rættarreglum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="afdb5l5f2g">Tá tann privati bæði skipar fyri og rekur eina farleið, tekur tann privati allan fíggjarliga váðan upp á seg, men fær eisini allar inntøkur frá virkseminum.</s>
+            <s xml:lang="fo" cert="high" xml:id="uxumrlknhd">Landsstýrismanninum verður tó heimilað í loyvistreytunum at teingja saman undirskots- og yvirskotsgevandi farleiðir, og/ella áleggja loyvishavaranum eitt javningargjald, til tess at tryggja nøktandi fólkaflutning um alt landið.</s>
+            <s xml:lang="fo" cert="high" xml:id="zf35o2bntw">Hetta kann gerast fyri at tryggja, at privat feløg ikki bert søkja um loyvi til tær yvirskotsgevandi farleiðirnar, meðan landið situr eftir við teimum undirskotsgevandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="r2kahtm5yr">Tær yvirskotsgevandi farleiðirnar eru tó so mikið fáar í tali, at hesin møguleikin væntandi bert verður nýttur í einstøkum førum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ws633mplhh">Tá landið ger av at bjóða út raksturin av farleiðum, verður útbjóðingin skipað eftir reglunum í løgtingslóg nr. 106 frá 15.11.1984 um útbjóðing, <hi rend="italic">skjal 2,</hi> sum vanliga regulerar útbjóðing upp á arbeiði og veitingar innan byggivirksemi.</s>
+            <s xml:lang="fo" cert="high" xml:id="sc3fbskf6a">Mett verður tó, at hesar reglur eisini eru hóskandi fyri útbjóðing av flutningsuppgávum á farleiðum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a22lgnrpfm">Útbjóðingarmøguleikin og møguleikin fyri, at privat sjálvi skipa fyri flutninginum, førir væntandi við sær, at leikluturin hjá tí almenna í fólkaflutninginum í størri mun verður sum samskipanareind og umsitingarmyndugleiki, og bert tá eingin átekur sær at skipa fyri og/ella reka farleiðir, sum sbrt. kunngerð eru av stórum samfelagsligum týdningi, skal tað almenna sjálvt skipa fyri flutninginum og/ella reka farleiðirnar við egnum flutningstólum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jsbxzakyf7">Landið kann tó eisini skipa fyri flutningi á øðrum farleiðum enn teimum, har landið sambært kunngerð hevur flutningsskyldu.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Ummæli av uppskotinum</head>
+          <p>
+            <seg xml:lang="fo">Uppskotið til løgtingslóg um fólkaflutning varð sent til ummælis hjá hesum stovnum og fyritøkum:</seg>
+          </p>
+          <list>
+            <label>1.</label>
+            <item>Strandfaraskipum Landsins</item>
+            <label>2.</label>
+            <item>Postverki Føroya</item>
+            <label>3.</label>
+            <item>Atlantic Airways</item>
+            <label>4.</label>
+            <item>Smyril Line</item>
+            <label>5.</label>
+            <item>Bussfelag Føroya/Bussamtøkuni</item>
+            <label>6.</label>
+            <item>Eimskip</item>
+            <label>7.</label>
+            <item>Skipafelagnum Føroyar</item>
+            <label>8.</label>
+            <item>Føroya Kommunufelag</item>
+            <label>9.</label>
+            <item>Kommunusamskipan Føroya</item>
+            <label>10.</label>
+            <item>7-mannabólkinum hjá fakfeløgum</item>
+            <label>11.</label>
+            <item>Kappingarráðnum</item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jowugtq2zc">Harumframt hevur uppskotið ligið á heimasíðuni hjá Vinnumálastýrinum, og í tíðindaskrivi hevur verið boðað frá, at viðmerkingar til uppskotið eru vælkomnar, so aðrir viðkomandi partar hava eisini fingið høvi at gjørt vart við seg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hoqaiirasw">Vinnumálastýrið hevur fingið ummælisskriv frá Strandfaraskipum Landsins, Postverki Føroya, Bussfelag Føroya/Bussamtøkuni, Føroya kommunufelag, Kommunusamskipanini, Starvsmannafelagnum og frá Kappingarráðnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="xxjnfibomp">Avrit av øllum ummælum eru hjáløgd sum skjøl til lógaruppskotið.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Strandfaraskip Landsins</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jlmjzsordi"><hi rend="italic">Strandfaraskip Landsins</hi> viðmerkti í sínum ummæli, at um landsstýrismaðurin skal veita loyvi til eina flutningsfyritøku, sum lýkur ásettar treytir, merkir hetta, at allar farleiðir, sum geva yvirskot, fara at verða riknar av privatum fyritøkum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ycneyzlyie">Vinnumálastýrið er ikki samt í hesum og vísir í hesum sambandi á møguleikan fyri í loyvistreytunum at teingja undirskots- og yvirskotsgevandi farleiðir saman og til møguleikan fyri at áleggja eitt javningargjald.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tauv5niczj">SL mælir eisini til, at onnur allýsing verður gjørd av hugtakinum flutningsskylda, og mælir frá, at hendan verður útgreinað í kunngerð.</s>
+            <s xml:lang="fo" cert="high" xml:id="klqfwjha54">Vinnumálastýrið heldur tað tó vera neyðugt at útgreina hesa skyldu gjøllari fyri at kunna áseta tær farleiðir, har loyvi krevst til tess at skipa fyri flutningi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jppf6thzsh">Eisini viðmerkti SL, at tað ongastaðni í lógaruppskotinum verður víst á, at landsstýrismaðurin hevur skyldu til at tryggja sær neyðugu fakligu ráðgevingina innan fólka- og farmaflutning, t.d. frá ráðum, felagsskapum og/ella brúkarum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wvvrmb2ilt">Vinnumálastýrið er tó av tí áskoðan, at ein slík skylda ikki eigur at vera ásett í lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="ncvybd56sg">Hevur landsstýrismaðurin tørv á fakligari servitan, kann hann fáa hesa ráðgeving frá stýri og/ella stovnum, ið hann varðir av. Annars er tað ein vanlig fyrisitingarlig skylda at fáa til vega neyðugar upplýsingar, áðrenn avgerð verður tikin í einum máli.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Kappingarráðið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kuxgohsbzz"><hi rend="italic">Kappingarráðið</hi> mælti Vinnumálastýrinum til at skilja fólkaflutning (t.e. við skipum og bussum) og farmaflutning við skipi frá innanlands farmaflutningi við akfari.</s>
+            <s xml:lang="fo" cert="high" xml:id="hn5h27cefd">Hesin farmaflutningur við akfari, sum upprunaliga var fevndur av lógaruppskotinum, átti í staðin framhaldandi at verða reguleraður kappingarrættarliga.</s>
+            <s xml:lang="fo" cert="high" xml:id="ovbs2c2bvv">Kappingarráðið var av tí áskoðan, at um flutningsskyldan hjá SL fyri farmaflutning við akfari varð útgreinað í kunngerð, fór hetta at føra við sær, at málsræði Kappingarráðsins varð skert á einum øki, har nógvir privatir veitarar eru í kapping við almennar veitarar.</s>
+            <s xml:lang="fo" cert="high" xml:id="vdlkcxz2ky">Kappingarráðið gjørdi í hesum sambandi vart við, at tað almenna, sum støðan er í dag, hevur eitt dupult alment veitingaflutningskervi, har bæði Postverkið og SL hava ávísar flutningsskyldur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nuyvqva2z6">Kappingarráðið metti eisini, at tann skipan fyri loyvisveitingar, ið tað sambært viðmerkingunum var ætlanin at fremja, kundi vera óheppin.</s>
+            <s xml:lang="fo" cert="high" xml:id="qharmzanns">Eftir hesari skipan kundi SL bæði virka sum operatørur og loyvisveitari, sambært fulltrú frá landsstýrismanninum.</s>
+            <s xml:lang="fo" cert="high" xml:id="lltekyz44a">Hetta merkir í veruleikanum, at SL fær innlit í ymisk viðurskifti hjá kappingarneytunum, og kann hetta vera óheppið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sy36r6i7cu">Vinnumálastýrið hevur valt at laga lógaruppskotið til partar av sjónarmiðum Kappingarráðsins.</s>
+            <s xml:lang="fo" cert="high" xml:id="plvr6iopnp">Hetta merkir fyrst og fremst, at lógaruppskotið er broytt, so tað ikki fevnir um farmaflutning við akførum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jqzscgbm2v">Vinnumálastýrið heldur tað tó ikki vera ein stóran trupulleika, at SL fer at umsita loyvisveitingaskipanina, um farmaflutningurin við akførum ikki verður fevndur av lógaruppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="hccg7uhlgi">Sum greitt frá omanfyri, hevur SL fingið boð um, at framtíðar virksemið skal skipast soleiðis, at SL í mest møguligan mun minkar um operatørvirksemið, og í staðin mest virkar sum samskipanareind.</s>
+            <s xml:lang="fo" cert="high" xml:id="z7ac3qbkoy">Til virksemið er umskipað, fer SL í einari skiftistíð bæði at virka sum regulator og sum operatør, men hetta verður mett at vera ein minni trupulleiki, enn tað at uppbyggja dupultfyrisiting í einum øðrum almennum stovni ella í Vinnumálastýrinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="wj4s32rrlc">Vinnumálastýrið fer tó at hava eftirlit við, at tær loyvistreytir, ið SL setir mótvegis loyvisumsøkjarum, eru sakligar og glærar.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Postverk Føroya</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wygzsqlkss"><hi rend="italic">Postverk Føroya</hi> tók sum heild undir við lógaruppskotinum, men hevði onkrar viðmerkingar til einstøku greinirnar og til viðmerkingarnar til lógaruppskotið.</s>
+            <s xml:lang="fo" cert="high" xml:id="bf66yhhbas">Postverk Føroya helt tað vera óheppið at teingja undirskotsgevandi farleiðir saman við yvirskotsgevandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="vwfqvejjeo">Rættast var at krevja eitt møguligt útjavningargjald ella hava styttri loyvistíðarskeið á teimum yvirskotsgevandi rutunum, so hesi loyvi kunnu seljast til hægstbjóðandi við jøvnum millumbilum.</s>
+            <s xml:lang="fo" cert="high" xml:id="n5ac6p6yrd">Vinnumálastýrið hevur valt at tillaga lógaruppskotið, so møguleiki eisini er at krevja eitt javningargjald, til tess at tryggja eina góða tænastu um alt landið.</s>
+            <s xml:lang="fo" cert="high" xml:id="pljiu2k2nd">Hetta merkir, at tað bæði er møguleiki fyri at teingja undirskotsgevandi og yvirskotsgevandi farleiðir saman, og/ella at krevja eitt javningargjald, alt eftir hvussu umstøðurnar eru á viðkomandi farleiðum.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Bussfelag Føroya</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="n5fj7mxgug"><hi rend="italic">Bussfelag Føroya</hi> er fegið um, at stig verður tikið til at fáa greiðari reglur á økinum, men viðmerkir, at eingin útbjóðing má fremjast uttan so, at nágreiniligt útbjóðingartilfar verður gjørt, soleiðis at allir busseigarar verða javnt settir.</s>
+            <s xml:lang="fo" cert="high" xml:id="kmr3av3xvs">Eisini ger bussfelagið vart við, at SL sambært verandi sáttmála hevur skyldu til at yvirtaka teir bussar, sum eftir eitt møguligt útbjóðingarumfar ikki fáa koyringina fyri Bygdaleiðir.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Starvsmannafelagið</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="znfbyvsqcd"><hi rend="italic">Starvsmannafelagið</hi> tekur ikki undir við at privatisera almennar uppgávur, sum grundleggjandi hava til endamáls at røkja samhaldsfasta tænastu til allar borgarar landsins.</s>
+            <s xml:lang="fo" cert="high" xml:id="gw3xscthbn">Verður henda leiðin tó vald, heldur Starvsmannfelagið tað vera eitt minsta krav, at allar avleiðingar, bæði tænastu-, sáttmála- og starvsfólkaliga verða væl og virðiliga útgreinaðar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uq54cclxpb">Starvsmannafelagið heldur ikki lógaruppskotið vera búgvið at leggja fyri Løgtingið og mælir í staðin til, at tað verður tikið til nýggja viðgerð saman við øllum pørtum, sum verða ávirkaðir av hesi møguligu broyting.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Føroya Kommunufelag</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yeo3fhewrb"><hi rend="italic">Føroya Kommunufelag</hi> tekur undir við lógaruppskotinum.</s>
+          </p>
+        </div>
+        <div type="section" subtype="run-in">
+          <head rend="italic">Kommunusamskipan Føroya</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zqpuxmipzh"><hi rend="italic">Kommunusamskipan Føroya</hi> hevur sent lógaruppskotið til einstøku limakommunurnar, og býráðið í Fuglafjarðar kommuna hevur boðað frá, at tað ongar viðmerkingar hevur til lógaruppskotið.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Avleiðingarnar av uppskotinum:</head>
+        <div type="section">
+          <head rend="italic">1. Fíggjarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="a2qfvn2u2a">Uppskotið hevur ongar fíggjarligar avleiðingar fyri kommunurnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wbilg3p6vv">Fíggjarligu avleiðingarnar fyri landið er ilt at meta um, tí tað veldst í stóran mun um, hvussu nýggja skipanin fer at rigga, og um tey útbjóðingarumfør, sum standa fyri framman, fara at hava ta ávirkan, sum ætlanin er.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="btwjiwpe2r">Har møguleikar eru fyri, at fleiri veitarar fara at kappast um útbjóðaðar farleiðir, er væntandi, at tað verður bíligari at reka hesar leiðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="bzqltukvg3">Hinvegin er eisini væntandi, at privat hava áhuga fyri sjálvi at skipa fyri rakstrinum á teimum farleiðum, har SL í dag hevur eitt yvirskot, t.d. á flogleiðini.</s>
+            <s xml:lang="fo" cert="high" xml:id="nbdvh4hgdz">Fyri at forða fyri, at privat bert skipa fyri flutningi á farleiðum, sum í dag eru yvirskotsgevandi, er tó í loyvistreytunum møguleiki fyri at teingja yvirskotsgevandi farleiðir saman við undirskotsgevandi farleiðum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="y7awv4qhaq">SL hevur fyribils mett, at útbjóðing av farleiðunum hjá Bygdaleiðum kann tálma útreiðsluvøkstrinum við uml. 2 mió. kr. í mun til støðuna í dag, uttan at tænastustøðið versnar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="eaffzz4bbr">Um SL hevur skyldu til at yvirtaka bussarnar hjá teimum privatu operatørunum, sum aftaná eitt útbjóðingarumfar ikki fáa nakra koyring, kunnu ávísar útreiðslur standast av hesum.</s>
+            <s xml:lang="fo" cert="high" xml:id="jalcibzlke">Um so er, skuldi góður møguleiki tó verið at selt bussarnar aftur, so spurningurin er, um fíggjarliga avleiðingin verður so týðandi.</s>
+            <s xml:lang="fo" cert="high" xml:id="uvmtutckgw">Í øllum førum verður ikki talan um eina afturvendandi útreiðslu, men bert í sambandi við at skipanin verður løgd um.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">2. Umsitingarligar avleiðingar fyri land og kommunur</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="w2g2dggudr">Uppskotið hevur ongar umsitingarligar avleiðingar fyri kommunurnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="xg2z7tam4i">Umsitingarligu avleiðingarnar fyri landið stava frá, at tað krevst meira av umsitingini enn eftir verandi løgtingslóg um fólka- og farmaflutning.</s>
+            <s xml:lang="fo" cert="high" xml:id="a2u6ofopfq">Í verandi løgtingslóg liggur ávíst umsitingarligt virksemi í at umsita tey loyvi (serloyvi), sum skulu til fyri at reka fólkaflutning.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="eq7fiojnwv">Umsitingin verður nakað meira umfatandi, tí talan er um, at Vinnumálastýrið ella annar myndugleiki, ið landsstýrismaðurin gevur heimild til tess, skal tryggja sær, at umsøkjarar eru fíggjarliga og yrkisliga førir fyri at skipa fyri tí fólkaflutningi, teir søkja um loyvi til.</s>
+            <s xml:lang="fo" cert="high" xml:id="vxqdn7uxzl">Hartil kemur so arbeiðið, sum stendst av at seta upp ella góðkenna standard viðskiftatreytir, sum umsøkjarar skulu geva seg undir í sambandi við, at loyvi verða givin.</s>
+            <s xml:lang="fo" cert="high" xml:id="o7pzjnrx4r">Umsitingin verður í stóran mun løgd til SL, sum hevur førleika til at seta krøv til tænastu- og dygdarstig, samskifti millum umsøkjarar, ferðaætlanir v.m.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bdaadykoq7">Eisini verður ávís umsiting av at bjóða út farleiðir, og eftirkanna, at treytirnar verða hildnar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">3. Fíggjarligar avleiðingar fyri vinnuna</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dfnz7srddv">Fíggjarligu avleiðingarnar fyri vinnuna, sum standast av uppskotinum, er ilt at meta um.</s>
+            <s xml:lang="fo" cert="high" xml:id="mqzpw7nmyb">Roknað verður við, at við útbjóðing av stórum parti av teimum farleiðum, sum SL røkir, verður tað helst í fyrsta umfari fólkaflutningur landvegis, sum privat virki fara at taka upp á seg.</s>
+            <s xml:lang="fo" cert="high" xml:id="ifawjyqdha">Teir busseigarar, sum í løtuni hava sáttmála við SL, verða helst fyri munandi broytingum, tá útbjóðingin fer fram.</s>
+            <s xml:lang="fo" cert="high" xml:id="xf3m77gn3y">Helst verður tað soleiðis, at ein ávís miðsavning verður í ymisku høvuðsøkjunum, og at tey feløg ella teir einstaklingar, ið vinna útbjóðingina, hava tørv á flutningstólum, meðan støku busseigararnir, sum ikki bjóða ella vinna útbjóðingina, standa eftir við flutningstólum.</s>
+            <s xml:lang="fo" cert="high" xml:id="i3pnjp7exv">Hevur Strandferðslan skyldu til at yvirtaka hesar bussar, verður avleiðingin fyri einstaka busseigaran tó avmarkað.</s>
+            <s xml:lang="fo" cert="high" xml:id="etce4xmcee">Hvat viðvíkur sjóvegis flutningi er eingin privatur, sum í løtuni rekur vinnuliga farleið fyri egna rokning og váða.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">4. Umhvørvisligar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xpfkgb2mbi">Umhvørvisliga eru ongar avleiðingar av uppskotinum í mun til verandi skipan av fólkaflutningi.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">5. Fíggjarligar, umsitingarligar og umhvørvisligar avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mwm4bwriwd">Tað eru ongar avleiðingar fyri serstøk øki í landinum av umsitingarligum, umhvørvisligum ella sosialum slagi í mun til verandi skipan av fólka- og farmaflutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="klyo6h2qck">Í hvønn mun, uppskotið hevur fíggjarligar avleiðingar fyri serstøk øki í landinum, veldst um, hvør støðan verður, eftir at farleiðirnar eru bodnar út.</s>
+            <s xml:lang="fo" cert="high" xml:id="zx6p3e47vu">Hugsast kann, at fyritøkur fara at samstarva fyri betur at vera førar fyri at bjóða upp á farleiðir, og tann vegin fáa ávísar stórrakstrarfyrimunir.</s>
+            <s xml:lang="fo" cert="high" xml:id="faxtrngq47">Hetta kann so hava fíggjarligar avleiðingar fyri serstøk øki í landinum, tí onkustaðni verða privatar fyritøkur lagdar niður, og aðrastaðni verður helst miðsavning av fyritøkum, sum taka seg saman í feløg v.m.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">6. Sosialar avleiðingar fyri ávísar samfelagsbólkar ella felagsskapir</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xzr2xoy4t3">Avleiðingar av sosialum slagi eru ikki í mun til verandi skipan av fólka- og farmaflutningi.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">7. Avleiðingar fyri millumtjóða sáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x3m74lywbo">Tað eru ongir millumtjóðasáttmálar av slíkum slagi, sum gera, at serligt atlit er til slíkar, og ongar avleiðingar av slíkum sáttmálum í mun til verandi skipan av fólka- og farmaflutningi.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">8. Umsitingarligar avleiðingar av loyviskrøvum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mjywryhyq5">Umsitingarligar avleiðingar av loyviskrøvum eru skilaðar til undir pkt. 2.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="italic">Yvirlit yvir avleiðingar av uppskotinum</head>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið/lands- myndugleikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss/øki í landinum</cell>
+              <cell>Fyri ávísar sam- felagsbólkar/ felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar/ búskaparligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Ongar</cell>
+              <cell>Torført at meta um, men helst positivar</cell>
+              <cell>Ongar</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+              <cell>Ongar</cell>
+            </row>
+            <row>
+              <cell>Sosialar avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell/>
+              <cell>Ongar</cell>
+              <cell/>
+            </row>
+          </table>
+          <p rend="bold">
+            <seg xml:lang="fo">Viðmerkingar til tær einstøku greinarnar:</seg>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 1.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qk5wqbmnad">Allýsingarnar eru settar í fyri at lætta um lógartekstin.</s>
+            <s xml:lang="fo" cert="high" xml:id="an22vmw5i5">Tað er bert tann vinnuligi flutningurin, sum er reguleraður í lógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="r72mefne5u">Tí er hugtakið fastlagt til at fevna um <hi rend="italic">reglubundnan</hi> flutning móti <hi rend="italic">gjaldi og </hi>ætlaður<hi rend="italic"> almenninginum</hi>.</s>
+            <s xml:lang="fo" cert="high" xml:id="qwjsik63qe">Við at nýta ”reglubundnan” sum ein part av hugtakinum verður hugsað um, at tað er tann skipaði flutningurin við føstum tíðum, prísum v.m., sum hugsað verður um.</s>
+            <s xml:lang="fo" cert="high" xml:id="yiwt54lsat">Lógin fevnir sostatt ikki um vanliga koyring við hýruvogni, tá einstakir túrar verða koyrdir við bussi, ella tá einstakir túrar verða sigldir við eitt nú útlendskum ferðafólki.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="s43qxgkoux">Samstundis liggja avmarkingarnar í allýsingini í, at flutningurin er móti <hi rend="italic">gjaldi,</hi> og at tað er tænasta, sum verður bjóðað <hi rend="italic">almenninginum.</hi></s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bmsxvrmyqx">Eisini liggur tann avmarking í, at lógin ikki fevnir um loftflutning, tí skilað er til, at flutningurin skal vera við akfari ella skipi.</s>
+            <s xml:lang="fo" cert="high" xml:id="ayqaoar2ce">Tyrluflúgving er ikki føroyskt málsøki.</s>
+            <s xml:lang="fo" cert="high" xml:id="gthxprsxbe">Tó er í § 7 heimilað landsstýrismanninum at gera avtalur um gjald fyri innanoyggja tyrluflúgving.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mmdncmour4">Hugtakið “farmur” verður eisini allýst í greinini.</s>
+            <s xml:lang="fo" cert="high" xml:id="j4w2on6snj">Orsøkin til, at farmur bert fevnir um pakkar, ið eru størri enn 20 kg, er, at landið sambært lógaruppskotinum um postvirksemi hevur skyldu til at tryggja flutning av pakkum upp til 20 kg.</s>
+            <s xml:lang="fo" cert="high" xml:id="yskw3dkl2a">Eingin orsøk er tí til at endurtaka eitt slíkt krav í lógaruppskotinum um fólka- og farmaflutning.</s>
+            <s xml:lang="fo" cert="high" xml:id="d5umltelxt">Tó kann vera ringt ella ógjørligt at senda ávísar lutir, ið eru lættari enn 20 kg, sum vanligan pakkapost, og tí verður ásett, at lutir, ið ikki kunnu sendast sum postur, eru at skilja sum farmur, eisini um teir eru lættari enn 20 kg.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bddkvr3equ">Landvegis flutningur fevnir um flutning við akfari á landi.</s>
+            <s xml:lang="fo" cert="high" xml:id="bzm4gv3dxg">Talan er eisini um landvegis flutning, hóast akfarið fyri ein part verður flutt við skipi millum tvær føroyskar havnir.</s>
+            <s xml:lang="fo" cert="high" xml:id="qrl2gko5el">Ein bussur, ið koyrir millum Klaksvík og Havnina, er sostatt at meta sum landvegis flutningur, hóast bussurin ein part av leiðini verður fluttur við ferju um Leirvíksfjørð.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 2.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fcohw4k4w6">Reglan er nýggj í føroyskari lóggávu.</s>
+            <s xml:lang="fo" cert="high" xml:id="h7xxl7y4ll">Frammanundan hevur í løgtingslóg verið ásett, at tað almenna hevði skyldu til at reka ávísar sjóleiðir, meðan einki hevur verið ásett formliga í rættarreglum um landvegis fólkaflutning.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="n3u6bcfduv">Nú er parturin um sjóleiðirnar tikin burtur úr løgtingslógini, og í staðin verður skylda landsins sett við støði í kunngerð, sum landsstýrismaðurin letur frá sær.</s>
+            <s xml:lang="fo" cert="high" xml:id="zs77jls3jw">Hervið slepst eisini undan, at løgtingslógin javnan verður broytt, sum umstøðurnar krevja tað.</s>
+            <s xml:lang="fo" cert="high" xml:id="gbzyxk7xmm">Samstundis verður ásetingin víðkað soleiðis, at kunngerðin ikki bert fevnir um sjóvegis farleiðirnar, men eisini fevnir um tær farleiðir á landi, har tað almenna skipar fyri fólkaflutningi í dag.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ovkod3fhql">Kunngerðin skal áseta á hvørjum farleiðum, tað er av stórum samfelagsligum týdningi, at skipað verður fyri nøktandi flutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="maa2xg772f">Eftir stk. 1 hevur landið skyldu at skipa fyri nøktandi flutningi á teimum farleiðum, ið verða nevndar í kunngerðini.</s>
+            <s xml:lang="fo" cert="high" xml:id="zkaf24eod5">Tó hevur landið sbrt. stk. 3 ikki hesa flutningsskyldu um nøktandi flutningur verður skipaður av øðrum.</s>
+            <s xml:lang="fo" cert="high" xml:id="fsvqwv7spo">Hetta merkir, at um privat felag e.l. skipar fyri nøktandi fólkaflutningi á einari farleið, ið er nevnd í kunngerðini, fellur kravið burtur um, at landið skal skipa fyri flutningi á hesari farleið.</s>
+            <s xml:lang="fo" cert="high" xml:id="ihxrknjbok">Í tí løtu, at mett verður, at flutningurin ikki er nøktandi, tekur flutningsskyldan hjá landinum við, og hevur landið tá skyldu at skipa fyri nøktandi flutningi.</s>
+            <s xml:lang="fo" cert="high" xml:id="vl44ypnxmp">Serligar loyvistreytir kunnu tryggja, at privatur veitari ikki gevst frá degi til dags við flutninginum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="pnhokfxuyk">Flutningsskyldan sambært § 2, stk. 1, er ein minstaskylda, og landið kann tí eisini skipa fyri flutningi á øðrum farleiðum enn teimum, ið nevndar verða í kunngerðini eftir § 2, stk. 2.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lglrsercil">Í stk. 4 verður ásett, at landsstýrismaðurin kann seta reglur um, at farmur skal lúka ávís krøv til stødd, skap, innihald og innpakking, fyri at farmurin skal vera fevndur av flutningsskylduni eftir stk. 1.</s>
+            <s xml:lang="fo" cert="high" xml:id="tvboq6rx6g">Orsøkin til hesa áseting er, at serliga á summum sjóvegis farleiðum eru umstøðurnar at flyta farm tvørligar, og at tað tí eigur at vera møguligt at gera ávísar avmarkingar, tá tað snýr seg um flutningsskyldu landsins.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 3.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="o5uox3m5na">Í verandi løgtingslóg um fólka- og farmaflutning, <hi rend="italic">skjal 1, </hi>sum verður sett úr gildi, um uppskotið verður løgtingslóg, er krav um, at landsstýrið skal geva loyvi (serloyvi) til fólka- og farmaflutning.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="feqkrkznws">Hetta krav er endurtikið í verandi uppskoti, men í broyttum líki.</s>
+            <s xml:lang="fo" cert="high" xml:id="ipvl4wkoru">Í stk. 1 er ásett, at til at skipa fyri fólkaflutningi á teimum farleiðum, sum eru ásettar í kunngerð við heimild í § 2, stk. 2, men har landið ikki sjálvt skipar fyri flutninginum, krevst loyvi.</s>
+            <s xml:lang="fo" cert="high" xml:id="u44kly526j">Um landið skipar fyri flutninginum, t.d. við at bjóða raksturin út, ber til at kanna, um umsøkjari fíggjarliga og yrkisliga er førur fyri at reka farleiðina, og í útbjóðingartreytunum kann setast krav um ferðaætlan, samskipan við aðrar leiðir v.m. Tí er ikki neyðugt at søkja um loyvi í teimum førum, har bjóðað verður út.</s>
+            <s xml:lang="fo" cert="high" xml:id="yvvvcwplbz">Eftir stk. 2 í uppskotinum hevur ein umsøkjari krav uppá at fáa loyvi, um hann lýkur tey førleikakrøv, sum sett verða til, at hann er fíggjarliga og yrkisliga førur fyri at reka fólkaflutning, og gevur seg undir treytir, ið landsstýrismaðurin setur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hkae3b4zdb">Landsstýrismaðurin skal í síni meting av fíggjarliga og yrkisliga førleikanum leggja eina heildarmeting til grund, har kannað verður, um umsøkjarin er væl fyri fíggjarliga, hevur skil í sínum fíggjarviðurskiftum, og hevur útbúgving ella royndir á økinum, sum vísa, at hann er førur fyri at fara undir virksemið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yge5fuhi2l">Í stk. 3 verður skilað til, at landsstýrismaðurin, ella annar myndugleiki, ið landsstýrismaðurin heimilar til tess, hevur møguleikar fyri at seta treytir ið umsøkjarin skal geva seg undir fyri at fáa loyvi.</s>
+            <s xml:lang="fo" cert="high" xml:id="vzf26xbt76">Tær undir nr. 1 til 7 nevndu treytir eru bert dømi um, hvørjar treytir landsstýrismaður kann leggja við loyvinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ynxnzkklpa">Leikluturin hjá SL verður her at samskipa fólkaflutningin í landinum, og til tess er neyðugt at kunna leggja við slíkar treytir, sum her eru nevndar, fyri at tænastan skal gerast best møgulig.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="snpblu3tch">Hildið verður, at tað er ein styrki, at SL kemur at virka sum ein samferðslueind, tí tað verður framhaldandi sami stovnur, sum tryggjar samskipan av flutninginum bæði á sjógvi og landi – millum skip og bussar.</s>
+            <s xml:lang="fo" cert="high" xml:id="h6re5qbl4s">Á henda hátt verða góðir møguleikar fyri effektivari tilrættalegging og stýring av flutninginum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bqyapmibg2">Roknað verður við, at kravt verður av umsøkjarunum, at teir hava sett upp viðskiftatreytir, ella at teir geva seg undir standard viðskiftatreytir, sum landsstýrismaðurin setir.</s>
+            <s xml:lang="fo" cert="high" xml:id="yvzhnlr3wm">Hildið verður rímiligt, at tað almenna ikki sjálvt skal avgera ítøkiligu prísirnar, sum tey privatu seta, men hinvegin bert skal regulera við hámarksprísi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x6z6d2jdus">Í stk. 4 er ásett, at landsstýrismaðurin kann taka loyvið aftur, um loyvishavari misheldur loyvistreytirnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="quvk5vijrd">Hetta verður hildið at vera neyðugt fyri at tryggja, at tænastustøðið ikki lækkar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bquoc5bzgp">Í stk. 5 verður heimild givin landsstýrismanninum í kunngerðini at áseta, at hóast kravið um loyvi í § 3, stk. 1, kann í einari skiftistíð uppá 6 mánaðir frá tí degi, kunngerðin kemur í gildi, verða skipað fyri vinnuligum flutningi uttan loyvi.</s>
+            <s xml:lang="fo" cert="high" xml:id="bynvwzdkzp">Orsøkin til hesa áseting er, at tað er ynskiligt at geva teimum, ið reka vinnuligan flutning í dag, og sum verða umfatað av lógini, ein møguleika at søkja um loyvi, so hesi ikki noyðast at steðga við virkseminum, til eitt loyvi fyriliggur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wdas4tgtfa">Í stk. 6 er ásett, at landsstýrismaðurin kann seta nærri reglur um mannagongd í sambandi við loyvisveitingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="zagnatfpnr">Orsøkin til hetta er, at tað kann verða tørvur á at staðfesta ymisk viðurskifti í sambandi við loyvisveitingarnar.</s>
+            <s xml:lang="fo" cert="high" xml:id="fibp4xmnbx">T.d. kann verða ásett í slíkari kunngerð, hvussu mannagongdin er, um søkt verður um at skipa fyri vinnuligum flutningi á farleið, ið landið sjálvt rekur, ella sum er boðin út.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 4.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="w62xkucow4">Um aðrir partar ikki skipa fyri nøktandi flutningi, hevur landið skyldu til at skipa fyri hesum flutningi á teimum farleiðum, ið verða ásettar í kunngerð.</s>
+            <s xml:lang="fo" cert="high" xml:id="bumcnhgsha">Til tess at skipa fyri flutningi á farleiðini, verður í hesari grein ásett, at landið hevur tríggjar møguleikar.</s>
+            <s xml:lang="fo" cert="high" xml:id="fpvfombnzp">Fyrsti møguleikin er, at farleið verður bjóðað út til aðrar partar at reka.</s>
+            <s xml:lang="fo" cert="high" xml:id="xlllxcltly">Sum nevnt omanfyri, er ætlanin, at so stórur partur av rakstrinum sum møguligt skal bjóðast út, hóast einki krav er ásett í lógini um útbjóðing av farleiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="odae7xxxve">Næsti møguleikin er, at landið sjálvt rekur farleiðina.</s>
+            <s xml:lang="fo" cert="high" xml:id="va5l67m74b">Triði møguleikin er bert ætlaður at nýta í undantaksføri, har tað fyri at tryggja, at landið heldur sína flutningsskyldu, er neyðugt í skundi at gera eina avtalu við privatan veitara at reka flutning á einari farleið, uttan at raksturin er bjóðaður út frammaundan.</s>
+            <s xml:lang="fo" cert="high" xml:id="zob3rdq3pf">Fyri at tryggja øðrum veitarum møguleika at bjóða upp á hesa koyring, er tó eisini ásett, at raksturin skal verða bjóðaður út í seinasta lagi 6 mánaðir aftaná, at avtalan varð gjørd.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="p44nuny4nq">Vert er at leggja til merkis, at løgtingslóg nr. 98 frá 20. juni 1995, <hi rend="italic">skjal 3</hi>, um at avmarka møguleikar hjá skuldarum at taka lut í útbjóðingum hjá tí almenna, er orðað á ein tílíkan hátt, at slík útbjóðing, sum her er talan um, er fevnd av nevndu lóg.</s>
+            <s xml:lang="fo" cert="high" xml:id="iyph6uxwws">Møguleikarnir hjá persónum, sum ikki hava goldið falnan skatt, avgjøld o.l. til tað almenna, eru tí skerdir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="faceza27st">Galdandi sáttmálar um busskoyring á Bygdaleiðum fóru úr gildi 31. desember 2000 og eru fyribils longdir eitt ár.</s>
+            <s xml:lang="fo" cert="high" xml:id="capxpyeayi">Mett verður, at nýggja skipanin stigvíst kann setast í verk í 2001 í samráð við privatu arbeiðstakararnar í einstøku økjunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="l5zalbcvwi">Skipanin fæst tó helst ikki at virka fullkomiliga fyrr enn í 2002, av tí at tað er orkukrevjandi at leggja alt tilrættis, áðrenn so stórar broytingar verða settar í verk.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 5.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="y7yftt4ok5">Hildið verður, at tað er hóskandi at nýta meginreglurnar í løgtingslógini um útbjóðing.</s>
+            <s xml:lang="fo" cert="high" xml:id="tqi735namy">Við undantaki av § 1 í løgtingslógini um útbjóðing, sum skilmarkar økið, ið lógin er galdandi fyri, kunnu allar greinirnar annars nýtast til at skipa útbjóðingina eftir.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ywphuucflx">Verandi útbjóðingarlóg er væl kend í Føroyum, og hevur virkað sum ein góður karmur um byggivirksemi.</s>
+            <s xml:lang="fo" cert="high" xml:id="idm5hl2ylw">Føroyska útbjóðingarlógin er tikin úr donskum, og nógvar siðvenjur og rættarsiðvenjur eru tengdar at hesum rættiliga einføldu reglum, og er hetta eisini ein fyrimunur.</s>
+            <s xml:lang="fo" cert="high" xml:id="kcwn57nha4">Í stk. 2 er ásett, at útbjóðingartilfarið í minsta lagi skal lýsa tíðarskeið, farleið og tænastustig, men óivað verða onnur viðurskifti eisini ásett í útbjóðingartilfarinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fgvtxtpxrb">Tíðarskeiðið, ið verður ásett í útbjóðingartreytunum, má tryggja ein ávísan kontinuitet, men hinvegin má ansast eftir, at tíðarskeiðið ikki verður so langt, at kappingin verður avmarkað.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 6.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tuxm4ivuti">Í hesari grein verður heimilað landsstýrismanninum at gera avtalur um gjald fyri innanoyggja tyrluflúgving.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 7.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kyhi6hubjr">Ásett verður, at um skipað verður fyri vinnuligum fólka- ella farmaflutningi uttan loyvi á teimum leiðum, ið eru ásettar í kunngerð, verður hetta revsað við bót.</s>
+            <s xml:lang="fo" cert="high" xml:id="axm222x4xo">Í stk. 2 verður heimild givin til at áseta sektarrevsing í kunngerðum, givnar eftir hesari lóg, fyri brot á ásetingar í hesum kunngerðunum.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 8.</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zwcy3dsjxw">Í hesari grein er ásett, at lógin kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:lang="fo" cert="high" xml:id="ghgu47nmdo">Samstundis fer verandi lóg um farma- og fólkaflutning úr gildi.</s>
+            <s xml:lang="fo" cert="high" xml:id="hfos43jgid">Loyvi, ið er veitt eftir verandi lóg, verður tó framvegis í gildi sbrt. innihaldinum í loyvinum.</s>
+          </p>
+          <!-- TODO: fix signature extraction 
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Bjarni Djurholm </hi>landsstýrismaður / Arni Poulsen</s>
+          </p>
+          -->
+        </div>
+      </div>
+      <div type="section">
+        <head>Skjalatilfar:</head>
+        <list rend="simple list-of-appendices">
+          <label>Skjal 1:</label>
+          <item>Løgtingslóg nr. 51. frá 01.06.1977 um fólka- og farmafluting, við seinni broytingum</item>
+          <label>Skjal 2:</label>
+          <item>Løgtingslóg nr. 106 frá 15.11.1984 um útbjóðing</item>
+          <label>Skjal 3:</label>
+          <item>Løgtingslóg nr. 98 frá 20. juni 1995 um at avmarka møguleikar hjá skuldarum at taka lut í útbjóðingum hjá tí almenna</item>
+          <label>Skjal 4:</label>
+          <item>Reglugerð fyri Strandfaraskip Landsins, dagfest 22. januar 1997</item>
+          <label>Skjal 5:</label>
+          <item>Bræv frá Vinnumálastýrinum til Strandfaraskip Landsins, dagf. 1. sept. 2000, um framtíðar bygnaðin hjá stovninum</item>
+          <label>Skjal 6:</label>
+          <item>Frágreiðing frá Strandfaraskipum Landsins, frá februar 2000, nevnd: ”Karmar fyri framtíðar virkseminum - ein frágreiðing um fortreytir, møguleikar og avmarkingar”, umbiðin av Løgtinginum í desember 1999. Er eisini til taks á heimasíðuni hjá Strandfaraskipum Landsins: www.ssl.fo</item>
+          <label>Skjal 7:</label>
+          <item>Greiningararbeiði hjá Strandfaraskipum Landsins nevnt: ”Nýskipan av virkseminum - Bygdaleiðir”, dagfest 31. august 2000. Er eisini til taks á heimasíðuni hjá Strandfaraskipum Landsins: www.ssl.fo</item>
+          <label>Skjal 8:</label>
+          <item>Ummæli frá Strandfaraskipum Landsins, dagf. 4. desember og 16. november 2000</item>
+          <label>Skjal 9:</label>
+          <item>Ummæli frá Kappingarráðnum, dagf. 20. desember 2000</item>
+          <label>Skjal 10:</label>
+          <item>Ummæli frá Postverki Føroya, dagf. 19. desember 2000</item>
+          <label>Skjal 11:</label>
+          <item>Ummæli frá Starvsmannafelagnum, dagf. 18. desember 2000</item>
+          <label>Skjal 12:</label>
+          <item>Ummæli frá Føroya Kommunufelag, dagf. 13. desember 2000</item>
+          <label>Skjal 13:</label>
+          <item>Ummæli frá Fuglafjarðar Kommunu (limur í Kommunusamskipan Føroya), dagf. 12. desember 2000</item>
+          <label>Skjal 14:</label>
+          <item>Ummæli frá Bussfelag Føroya v/ Advokatskrivstovan, dagf. 13. desember 2000</item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um samsýning og eftirløn landsstýrismanna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Kári P. Højgaard</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <author>
+            <persName ref="">Kári á Rógvi</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <author>
+            <persName ref="">Kaj Leo Johannesen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <author>
+            <persName ref="">Magni Laksáfoss</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/17029"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2008-02-22">tann 22. februar 2008</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um samsýning og eftirløn landsstýrismanna</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 10 frá 8. januar 1993 um samsýning og eftirløn landsstýrismanna v.m., sum seinast broytt við Ll. nr. 65 frá 18. mai 2006, verður gjørd henda broyting:</seg>
+          </p>
+          <list>
+            <label>1.</label>
+            <item>
+              <p>
+                <!-- TODO: re-review this later! -->
+                <s xml:id="f6unxwa33d">Í § 2, stk. 2 verður sett inn sum nýtt pkt.: “Onnur almenn løn verður mótroknað”</s>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="ulykqybz3r">Henda løgtingslóg kemur í gildi dagin eftir kunngerð.</s>
+            <s xml:id="c3zxympytq">Landsstýrismenn, loystir úr starvi fyri gildiskomu, kunnu velja, at onnur almenn løn ikki skal verða mótroknað.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar.</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="ey5tpbqlbk">Landsstýrismenn fáa uppsagnarløn í upp til hálvt ár.</s>
+          <s xml:lang="fo" cert="high" xml:id="lr5ylxkcpr">Hetta kann sigast vera rímilig skipan, tó at mong eru, ið ikki hava so góðar treytir.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="flnwjwa72s">Rímiligt er hinvegin ikki, at landsstýrismenn fáa uppsagnarløn afturat aðrari almennari løn.</s>
+          <s xml:lang="fo" cert="high" xml:id="nvabtc3ocn">Fleiri fyrrverandi landsstýrismenn fáa bæði uppsagnarløn og løgtingsmannaløn ella eitt nú læraraløn ella aðra almenna løn (frá landi, kommunu, stati ella øðrum almennum stovni).</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="gdwwylrjhq">Tí verður skotin upp tann einfalda broyting, at onnur almenn løn í sama tíðarskeiði verður mótroknað.</s>
+          <s xml:lang="fo" cert="high" xml:id="sq5lrd7ida">Hetta merkir, at bert tann hægra lønin verður útgoldin.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="z5gifnmw4r">Fyri landsstýrismenn, ið sagdir vóru úr starvi nýliga, kann sigast, at teirra uppsagnarløn longu var forvunnin og tí ikki kann strikast.</s>
+          <s xml:lang="fo" cert="high" xml:id="i37ohauvq2">Landsstýrismenn í hesi støðu kunnu boða frá, at teir ikki vilja verða mótroknaðir og vilja hava fleiri almennar lønir útgoldnar samstundis.</s>
+        </p>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2008-02-22">tann 22. februar 2008</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Kári P. Højgaard<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+        <signed>
+          <persName>Kári á Rógvi<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+        <signed>
+          <persName>Kaj Leo Johannesen<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+        <signed>
+          <persName>Magni Laksáfoss<lb/><roleName>løgtingsmaður</roleName></persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Untitled Bill</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Marjus Dam</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <author>
+            <persName ref="">Jóanis Nielsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/9200"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2002-10-14">tann 14. oktober 2002</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 136 frá 8. september 1992 um meirvirðisgjald, sum seinast broytt við løgtingslóg nr. 12 frá 25. februar 2002, verður í § 12, stk. 1 sett sum nýtt litra o: "O. Gjald fyri nýtslu av undirsjóvartunlum.”</seg>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="as2uhmaeqe">Løgtingslógin fær gildi 26. november 2002.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="rb5jztoxxl">Í Mvg lógini er tann grundregla galdandi, at fólkaflutningur er mvg fríur, eins og flutningur av akførum við strandferðsluni innanoyggja.</s>
+          <s xml:lang="fo" cert="high" xml:id="m4pptrxrrr">Við Vágatunlinum, sum í næstum verður latin upp fyri flutningi, fáa vit eina nýggja ferðsluskipan, nevniliga at ferðast undir sundum og firðum.</s>
+          <s xml:lang="fo" cert="high" xml:id="tje5ffrh6e">Henda skipan var ikki til, tá mvg lógin fekk gildi.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="dsdionjac6">Fyri at javnseta tær ymsu ferðsluskipanirnar verður tí skotið upp, at bummpengarnir verða mvg fríir.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="dj7edlfhoj">Sum kunnugt er tað eitt alment partafelag, sum eigur allan partapeningin í Vágatunlinum, og er hetta felag mvg skrásett.</s>
+          <s xml:lang="fo" cert="high" xml:id="p7ykah4sec">Skotið verður tí upp, at broytingin í mvg lógini verður gjørd í § 12 og ikki í § 2, har heimildin fyri mvg frítøku av fólkaflutingi v.m. er at finna.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="ov3dx3pou2">Um mett verður, at inntøkurnar hjá felagnum verða 16 mió kr. árliga og rakstarútreiðslurnar 7 mió kr. sum mett, førir uppskotið við sær ein inntøkumiss fyri landskassan upp á kr. 2,25 mió kr. árliga.</s>
+        </p>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2002-10-14">tann 14. oktober 2002</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Marjus Dam</hi>
+            <lb/>
+            <roleName rend="bold">løgtingsmaður</roleName>
+          </persName>
+        </signed>
+        <signed>
+          <persName>
+            <hi rend="bold">Jóanis Nielsen</hi>
+            <lb/>
+            <roleName rend="bold">løgtingsmaður</roleName>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

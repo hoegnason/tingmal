@@ -1,0 +1,502 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um yrkisskeið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Høgni Hoydal</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/11013"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2004-02-23">23. februar 2004</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <standOff>
+    <!-- From § 2. Stk. 1. -->
+    <seg type="sentence" resp="rani" xml:id="cg73ijtpp6">Yrkisskeiðini hava til endamáls at hjálpa einstaklingum at nøkta grundleggjandi krøv til førleika í vinnuni, at viðlíkahalda og menna verandi vinnuførleika, og at menna og viðlíkahalda ástøðiligan førleika.</seg>
+    <!-- From § 4. Stk. 1. -->
+    <!-- TODO: should this be multiple sentences instead of one? -->
+    <seg type="sentence" resp="rani" xml:id="f64ooyvifh">Yrkisskeiðini fevna um skeið, sum menna vinnuførleikarnar hjá tí einstaka luttakaranum og skeið, sum bøta um møguleikarnar hjá tí einstaka luttakaranum at fáa útbúgving ella arbeiði.</seg>
+  </standOff>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um yrkisskeið</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div n="Kapittul 1">
+          <head rend="bold center">Stevnumið og skipan</head>
+          <div type="bill-section" n="§ 1.">
+            <div n="§ 1. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 1.</label>
+                <s xml:lang="fo" cert="high" xml:id="olsm65xrpe">Landsstýrismanninum verður heimilað at skipa fyri yrkisskeiðum og hava eftirlit við teimum.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 2.">
+            <div n="§ 2. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 2.</label>
+                <seg xml:lang="fo">Yrkisskeiðini hava til endamáls:</seg>
+                <list>
+                  <label>1)</label>
+                  <item>
+                    <seg xml:lang="fo">at hjálpa einstaklingum at nøkta grundleggjandi krøv til førleika í vinnuni,</seg>
+                  </item>
+                  <label>2)</label>
+                  <item>
+                    <seg xml:lang="fo">at viðlíkahalda og menna verandi vinnuførleika, og</seg>
+                  </item>
+                  <label>3)</label>
+                  <item>
+                    <seg xml:lang="fo">at menna og viðlíkahalda ástøðiligan førleika.</seg>
+                  </item>
+                </list>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 3.">
+            <div n="§ 3. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="rrifn5ozxp">Yrkisútbúgvingarráðið og yrkisnevndirnar, eru tær sum nevndar eru í løgtingslóg nr. 94 frá 29. desember 1998 um yrkisútbúgvingar við seinni broytingum.</s>
+              </p>
+            </div>
+            <div n="§ 3. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="k5fwo3lmdq">Yrkisnevndarfyrisitingin er fyrisiting smb. § 20, stk. 7 í í løgtingslóg nr. 94 frá 29. desember 1998 um yrkisútbúgvingar við seinni broytingum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 2">
+          <head rend="bold center">Innihaldið</head>
+          <div type="bill-section" n="§ 4.">
+            <div n="§ 4. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 4.</label>
+                <seg xml:lang="fo">Yrkisskeiðini fevna um:</seg>
+                <list>
+                  <item>
+                    <label>1)</label>
+                    <seg xml:lang="fo">skeið, sum menna vinnuførleikarnar hjá tí einstaka luttakaranum,</seg>
+                  </item>
+                  <item>
+                    <label>2)</label>
+                    <seg xml:lang="fo">skeið, sum bøta um møguleikarnar hjá tí einstaka luttakaranum at fáa útbúgving ella arbeiði.</seg>
+                  </item>
+                </list>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 5.">
+            <div n="§ 5. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="ygiohpovfp">Yrkisskeiðini verða skipað í eindum, eftir teimum fortreytum, sum luttakararnir hava, og eiga, har hetta ber til, innihaldsliga at verða knýtt at verandi yrkisútbúgvingum, soleiðis at tey fevna um somu tættir, sum eru í yrkislærugreinunum.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="urtq5ejipr">Yrkisskeið kunnu takast í skeiðsrøðum og setast saman til styttri yrkisrættaðar útbúgvingar.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="v5zp22gp3m">Skeið við einum almennandi innihaldi kunnu verða hildin sambært hesi lóg, um endamálið er sbr. § 2.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="p5lmryxjfm">Í reglunum fyri hvørt góðkent yrkisskeið sbr. § 6, stk. 2 og 3 skal verða ásett, um próvtøka verður hildin, og hvørjar fremjingarreglur tá eru galdandi.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 5.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="ynv6jgdejj">Fyri yrkisskeið, sum ikki verða sett saman til eina útbúgving, sbr. § 8, stk. 6, skal útbúgvingarstaðið geva luttakarum skeiðsváttan ella prógv samsvarandi reglum, sum landsstýrismaðurin ásetir eftir tilmæli frá Yrkisútbúgvingarráðnum.</s>
+              </p>
+            </div>
+            <div n="§ 5. Stk. 6.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="pg63vc2qiu">Góðkenning av einstaka skeiðnum sbr. § 6, stk. 2 eigur í mest møguligan mun at tryggja, at tey kunnu avriksflytast til aðrar útbúgvingar.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 3">
+          <head rend="bold center">Góðkenningarmyndugleiki</head>
+          <div type="bill-section" n="§ 6.">
+            <div n="§ 6. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="n6xamata6o">Yrkisnevndin fyri avvarðandi yrkisskeið, sbr. § 8, stk. 3-5, viðger og ger tilmæli um tey ávísu skeiðini.</s>
+              </p>
+            </div>
+            <div n="§ 6. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="wmnfmmwz5n">Yrkisútbúgvingarráðið góðkennir tey yrkisskeið, sum avvarðandi yrkisnevnd hevur tilmælt, sbr. § 8, stk. 3, og kunnger avvarðandi myndugleikum og vinnu um góðkenningina og samtyktu skeiðsreglurnar.</s>
+              </p>
+            </div>
+            <div n="§ 6. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="ufqdzu5lmo">Er talan um samanhangandi skeið, sum enda við ávísari styttri yrkisrættaðari útbúgving, sbr. § 5, stk. 2, ásetir landsstýrismaðurin reglurnar fyri útbúgvingina eftir tilmæli frá Yrkisútbúgvingarráðnum.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 7.">
+            <div n="§ 7. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 7.</label>
+                <s xml:lang="fo" cert="high" xml:id="uwbc2ufhkv">Yrkisskeiðini kunnu fara fram á serligum útbúgvingarstøðum, sum avvarðandi yrkisnevnd hevur góðkent.</s>
+                <s xml:lang="fo" cert="high" xml:id="e37qdrw4sd">Landsstýrismaðurin ásetir nærri reglur um góðkenning av serligum útbúgvingarstøðum, her í millum hvørjar førleikar útbúgvingarstaðið skal hava til tess at halda góðkend skeið.</s>
+              </p>
+            </div>
+            <div n="§ 7. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="aadqhgxzwh">Leiðarin fyri útbúgvingarstaðið hevur mótvegis landsstýrismanninum ábyrgdina av undirvísingini og møguligum próvtøkum, um hetta er ásett í reglunum fyri tað einstaka skeiðið, og at skriva út skeiðsváttan.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 4">
+          <head rend="bold center">Fyriskipan og fyrisiting</head>
+          <div type="bill-section" n="§ 8.">
+            <div n="§ 8. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 8.</label>
+                <s xml:lang="fo" cert="high" xml:id="zigsrtwe7k">Landsstýrismaðurin ásetir eftir tilmæli frá Yrkisútbúgvingarráðnum nærri reglur um yvirskipað viðurskifti við atliti at yrkisskeiðunum.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="kpip7jibs3">Yrkisútbúgvingarráðið ger av, hvørji yrkisskeið koma undir skipanina eftir hesi lóg, og í hvønn mun einstøk skeið og/ella samanhangandi skeið kunnu geva avriksflutning eftir gjøllari reglum, sum landsstýrismaðurin ásetir eftir tilmæli frá Yrkisútbúgvingarráðnum.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="gqliielbsw">Til tess at tryggja, at yrkisskeiðini lúka almenn og faklig krøv í samsvari við endamálsorðingina í § 2, ger yrkisnevndin, sum Yrkisútbúgvingarráðið frammanundan hevur tilnevnt til ávísa útbúgving, ráðnum tilmæli um góðkenning av ávísum yrkisskeiði.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 4.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 4.</label>
+                <s xml:lang="fo" cert="high" xml:id="l2k4t3f2np">Um eingin yrkisnevnd frammanundan er tilnevnd, sbr. stk. 3, skal Yrkisútbúgvingarráðið tilnevna 2 fastar limir í eina yrkisnevnd, umboðandi ávikavist arbeiðsgevarar og løntakarar.</s>
+                <s xml:lang="fo" cert="high" xml:id="zl6ue3ftng">Afturat føstu limunum, skal avvarðandi arbeiðsgevarafelag velja 1 lim og avvarðandi løntakarafelag 1 lim í nevndina.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 5.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 5.</label>
+                <s xml:lang="fo" cert="high" xml:id="msscxuhgln">Yrkisnevndin skal í síni viðgerð tryggja, at góðkend yrkisskeið í mest møguligan mun eru samskipað við yrkis- og miðnámsútbúgvingarnar, soleiðis at til ber hjá tí einstaka skeiðsluttakaranum at taka útbúgving sína innan ein felags karm.</s>
+              </p>
+            </div>
+            <div n="§ 8. Stk. 6.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 6.</label>
+                <s xml:lang="fo" cert="high" xml:id="nhkbdxqlgv">Yrkisnevndafyrisitingin skrivar út prógv, tá ið skeið verða sett saman til eina útbúgving sbrt. § 5, stk. 2 eftir reglum, sum landsstýrismaðurin ásetir, sbr. stk. 1.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 5">
+          <head rend="bold center">Fígging</head>
+          <div type="bill-section" n="§ 9.">
+            <div n="§ 9. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 9.</label>
+                <s xml:lang="fo" cert="high" xml:id="rbuo2pibgj">Yrkisskeiðini verða fíggjað við luttøkugjaldi.</s>
+              </p>
+            </div>
+            <div n="§ 9. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="e6bjoprbou">Tann, sum søkir um góðkenning av yrkisskeiði, rindar eitt umsitingargjald til landskassan til at fíggja avleiddu útreiðslurnar hjá yrkisnevndunum og Yrkisútbúgvingarráðnum.</s>
+              </p>
+            </div>
+            <div n="§ 9. Stk. 3.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 3.</label>
+                <s xml:lang="fo" cert="high" xml:id="fagevq2dn6">Landsstýrismaðurin ásetir eftir tilmæli frá Yrkisútbúgvingarráðnum gjøllari reglur um støddina av umsitingargjaldinum, og hvussu gjaldið verður umsitið.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 6">
+          <head rend="bold center">Aðrar ásetingar</head>
+          <div type="bill-section" n="§ 10.">
+            <div n="§ 10. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 10.</label>
+                <s xml:lang="fo" cert="high" xml:id="ppqo6bbmid">Kæra um avgerð, sum leiðarin fyri útbúgvingarstaðið tekur í námsfrøðiligum málum, og kæra um avgerðir, tiknar í sambandi við próvtøku, kunnu í seinasta lagi 4 vikur eftir, at avgerð er kunngjørd viðkomandi, leggjast fyri landsstýrismannin eftir reglum, ið landsstýrismaðurin hevur ásett, sbr. § 8, stk. 1.</s>
+              </p>
+            </div>
+            <div n="§ 10. Stk. 2.">
+              <p rend="bill-text">
+                <label rend="italic">Stk. 2.</label>
+                <s xml:lang="fo" cert="high" xml:id="c356at7vvk">Kæra um avgerð hjá Yrkisútbúgvingarráðnum og yrkisnevnd um ikki at góðkenna yrkisskeið ella útbúgvingarstað, sbr. ávíkavist § 6, stk. 2 og § 7, stk. 1, kann í seinasta lagi 4 vikur eftir, at umsøkjarin er kunnaður um avgerðina, latast kærunevndini viðvíkjandi góðkenning av læruplássum sambært lógini um yrkisútbúgvingar.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 11.">
+            <div n="§ 11. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 11.</label>
+                <s xml:lang="fo" cert="high" xml:id="eha6i7hgup">Tær einstøku skeiðsreglurnar, sbr. § 8, stk. 1, skulu áseta, um luttakarar hava møtiskyldu og skyldu at lata inn møgulig kravd avrik.</s>
+              </p>
+            </div>
+          </div>
+          <div type="bill-section" n="§ 12.">
+            <div n="§ 12. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 12.</label>
+                <s xml:lang="fo" cert="high" xml:id="mk5z7qrbxs">Útbúgvingarstaðið hevur ábyrgdina av, at skeiðsluttakarar eru tryggjaðir móti skaða, sum teimum kann verða fyri undir undirvísingini og møguligum starvsroyndum.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div n="Kapittul 7">
+          <head rend="bold center">Gildiskoma</head>
+          <div type="bill-section" n="§ 13.">
+            <div n="§ 13. Stk. 1.">
+              <p rend="bill-text">
+                <label rend="bold">§ 13.</label>
+                <s xml:lang="fo" cert="high" xml:id="mr7f2epkxb">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section">
+          <head rend="bold">Almennar viðmerkingar:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jnxk3bqgk6">Endamálið við einari lóggávu á økinum er at fáa sjálvstøðugar og skipaðar karmar fyri yrkisskeið, sum skulu menna førleikarnar hjá starvsfólkum í vinnu, umframt at skapa øðrum, so sum arbeiðsleysum og vinnutarnaðum, møguleikar at ogna sær neyðugar fakligar og persónligar førleikar.</s>
+            <s xml:lang="fo" cert="high" xml:id="bwyxalkys6">Mett verður sostatt, at orðingin um "arbeiðsmarknaðarútbúgvingar" í yrkisútbúgvingarlógini frá 1998 ikki er nøktandi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kodah5jqpp">Tílíkir skipaðir karmar vera hildnir vera neyðugir í einum samfelagi, har størri og størri krøv verða sett, bæði við atliti at verandi arbeiðsmarknaðarviðurskiftum og teimum broytiligu viðurskiftunum, sum eyðkenna eitt tøkniliga framkomið samfelag, har einki stendur í stað, men alsamt broytist frá degi til dags.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uenwdwbh7k">Roknast má tí við, at førleikarnir hjá starvsfólkinum at laga seg til nýggjar umstøður fara at gerast ein umráðandi fortreyt fyri eini væl virkandi vinnu, eins og framkomnum almennum stovnum komandi árini.</s>
+            <s xml:lang="fo" cert="high" xml:id="joejyt2ow4">Talan verður bæði um serstakar fakligar førleikar og persónligar førleikar, eins og evni at umstilla seg í einum skjótt broytiligum samfelagi.</s>
+            <s xml:lang="fo" cert="high" xml:id="rlerabtew7">Tað verður hildið at vera sera týdningarmikið, tá talan er um førleikamennandi skeið, at tey hava eina lóggávu, sum tryggjar teir neyðugu karmarnar fyri slíkum virksemi, umframt at neyðug og galdandi førleikakrøv tryggja, at virksemið fer fram á einum fullgóðum og samsvarandi høgum stigi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="x6vsctxsib">Avvarðandi partar á arbeiðsmarknaðinum, umframt umboð fyri fleiri aðalráð, hava luttikið í nevndararbeiðnum, ið liggur til grund fyri lógaruppskotinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="ascwe2ap5g">Somuleiðis er tað latið Yrkisútbúgvingarráðnum til kunningar og viðmerkingar.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Avleiðingar av uppskotinum</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tsw2prnzbi">Tað, sum sermerkir skipanina av yrkisskeiðunum, er, at tað er vinnan, sum í stóran mun skipar fyri skeiðunum/útbúgvingunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="coibtkeq2b">Tað er eisini vinnan sjálv, sum í høvuðsheitum rindar útreiðslurnar til menningina av skeiðunum og útreiðslurnar til undirvísingina.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dei7dvxcvt">Tann, sum søkir um góðkenning av yrkisskeiði, rindar eina ávísa upphædd – eitt umsitingargjald – til útreiðslurnar hjá yrkisnevndunum og Yrkisútbúgvingarráðnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="qjgjouubx5">Sostatt rinda arbeiðspláss fyri øll skeið, ið tey sjálvi biðja um.</s>
+            <s xml:lang="fo" cert="high" xml:id="l36m7ut7ut">Tað verður tí ikki mett, at lógin fer at hava við sær øktar fíggjarligar skyldur fyri landskassan.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Serligar viðmerkingar:</head>
+        <div type="section">
+          <head rend="bold italic">Til § 1:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zzu3ouzck5">Við yrkisskeiðum verður hugsað um útbúgvingar og skeið fyri starvsfólk í privatu vinnuni og almennu umsitingini.</s>
+            <s xml:lang="fo" cert="high" xml:id="a6be3qrpzs">Undantikið lógum á t.d. forsorgarøkinum er eingin lóggáva um slíkt útbúgvingarvirksemi.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="maosmpasbo">Tað verður hildið at vera sera týdningarmikið, tá ið talan er um førleikamennandi skeið, at tey hava eina lóggávu, sum kann tryggja teir neyðugu karmarnar fyri slíkum virksemi, umframt at neyðug og galdandi førleikakrøv skulu tryggja, at virksemið fer fram á einum fullgóðum og nóg høgum støði.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 2:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ikd5gc3gib">Endamálið við skeiðunum er at menna neyðugar førleikar, bæði hjá teimum, sum frammanundan hava eina útbúgving, men eisini hjá teimum, sum onga útbúgving hava, ella sum t.d. eru arbeiðsleys ella vinnutarnað.</s>
+            <s xml:lang="fo" cert="high" xml:id="urbuiwhtiz">Talan kann verða um skeið, sum geva fakliga ella persónliga menning og almennandi førleika.</s>
+          </p>
+          <p>
+            <seg xml:lang="fo">Yrkisskeiðini venda sær eitt nú til</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <seg>arbeiðarar og serarbeiðarar,</seg>
+            </item>
+            <label>2)</label>
+            <item>
+              <seg>starvsfólk við yrkisútbúgving,</seg>
+            </item>
+            <label>3)</label>
+            <item>
+              <seg>fólk við tøkningaútbúgving, og</seg>
+            </item>
+            <label>4)</label>
+            <item>
+              <seg>aðrar bólkar, ið kunnu javnsetast við 1), 2) og 3).</seg>
+            </item>
+          </list>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 3:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bteylf5yhu">Verandi ráðsskipan, sambært ásetingunum í kap. 5 í lógini um yrkisútbúgvingar við atliti at yrkisútbúgvingunum, er í høvuðsheitum eisini galdandi við atliti at skipanini við yrkisskeiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="iu543xn45z">Tá talan er um fyrisitingina av yrkisskeiðum, verður hugsað um somu fyrisiting, sum umsitur verandi yrkisútbúgvingar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 4:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qnysyh4ntn">Talan er fyrst og fremst um at gera neyðugar karmar, sum skulu skapa grundarlag fyri førleikamenningini hjá fólki í vinnu.</s>
+            <s xml:lang="fo" cert="high" xml:id="mmfixmjx23">Eisini er lógin ætlað sum karmur um styttri yrkisrættaðar útbúgvingar, so sum merkonomútbúgvingina, sum er sett saman av fleiri styttri skeiðum (lærugreinum).</s>
+            <s xml:lang="fo" cert="high" xml:id="sbpwcvhhz6">Hugsast kann eisini um skeiðsvirksemi sum eitt fakligt ella ástøðiligt ískoyti til eina støðisútbúgving (FHS, SIF ella SIT).</s>
+            <s xml:lang="fo" cert="high" xml:id="ig5kq26vt6">Harumframt er lógarkarmurin eisini grundarlag undir skeiðs- ella útbúgvingarvirksemi hjá teimum, sum annaðhvørt eru uttan arbeiði, ella sum av eini hvørjari orsøk eru vinnutarnað.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 5:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fnj3f2ytwe">Endamálið við yrkisskeiðunum er at skapa fortreytirnar fyri førleikamenning.</s>
+            <s xml:lang="fo" cert="high" xml:id="qysqzjvi5b">Tí eiga skeiðini at verða skipað eftir fortreytunum hjá teimum luttakandi, soleiðis at sum mest fæst burturúr.</s>
+            <s xml:lang="fo" cert="high" xml:id="oxmeami42l">Talan kann verða um at skipa skeiðini í hóskandi eindir, alt eftir fakligu ella persónligu eginleikunum og fortreytunum hjá teimum, sum søkja um at verða tikin upp til skeiðini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="uvu7czg5am">Er talan um at menna ein fakligan førleika, eigur innihaldið í frálæruni, í tann mun tað ber til, at hava somu tættir, sum eru í yrkisútbúgvingunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="meats3swgh">Hetta fyri at gera tað møguligt at nýta ta undirvísingarskipan, sum longu finst, so tann luttakandi seinni í mest møguligan mun kann fáa góðskrivað fingnu frálæruna í einari møguligari yrkisútbúgving.</s>
+            <s xml:lang="fo" cert="high" xml:id="zan2lqrwek">Nærri ásetingar um próvtøkur, prógv og váttanir vera partar av neyvari reglum um yrkisskeið, ið Yrkisútbúgvingarráðið mælir til.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="sjgiaa2eci">Við samansett yrkisskeið kann talan verða um styttri yrkisrættaðar útbúgvingar, sum í vavi svara til eina serarbeiðaraútbúgving.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til §§ 6 og 7:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bryfrxdywl">Eins og við skipanini við yrkisútbúgvingum, skal yrkisnevndin viðgera og tilmæla innihaldið í yrkisskeiðunum.</s>
+            <s xml:lang="fo" cert="high" xml:id="aekahuyhdc">Á sama hátt skal Yrkisútbúgvingarráðið eftir lógini um yrkisútbúgvingar verða góðkenningarmyndugleiki, tá ið talan er um skipanina um yrkisskeið.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jhccdqgzxb">Við at nýta somu ráðsskipan, sum er galdandi í skipanini fyri yrkisútbúgvingar, fæst størri gagnnýtsla av tí fakligu vitanini og tí samanseting, sum Yrkisútbúgvingarráðið, yrkisnevndirnar og tann avvarðandi fyrisitingin hava.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="hgt3wqmrzk">Yrkisskeiðini fara vanliga fram á útbúgvingarstøðum, sum avvarðandi yrkisnevnd hevur góðkent sbr. løgtingslóg nr. 94 frá 29. desember 1998 um yrkisútbúgvingar við seinni broytingum, men kann eisini fara fram á serligum útbúgvingarstøðum, sum avvarðandi yrkisnevnd hevur góðkent.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bkvfoakxlr">Góðkenningin av útbúgvingarstøðum verður gjørd av yrkisnevndini, eins og tá ið talan er um læruplássgóðkenning.</s>
+            <s xml:lang="fo" cert="high" xml:id="y33pis3djr">Í hesum sambandi verða nærri reglur um góðkenning ásettar í komandi kunngerð um yrkisskeið, eisini nevnd undir viðmerkingunum til § 8.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 8:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wfb456yvy7">Somu yrkisnevndirnar, sum eru tilnevndar av Yrkisútbúgvingarráðnum, m.a. við atliti at læruplássgóðkenning, fara eisini at taka støðu til innihaldið í yrkisskeiðum.</s>
+            <s xml:lang="fo" cert="high" xml:id="utqrc66qev">Um so er, at eingin yrkisnevnd hevur førleika at meta um eitt yrkisskeið, sum t.d. kann vera sett saman av fleiri og ymiskum verkligum og ástøðiligum pørtum, tilnevnir Yrkisútbúgvingarráðið eina serliga yrkisnevnd við 2 føstum limum.</s>
+            <s xml:lang="fo" cert="high" xml:id="mqsyc6gm67">Aftrat føstu limunum verða tilnevndir 2 limir eftir tilmæli frá ávikavist avvarðandi arbeiðsgevarafelag og avvarðandi løntakarafelag, og sum í mest møguligan mun hava ein fakligan førleika við atliti at tí ávísa yrkisskeiðinum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kn7shmugwg">Fyrisitingin av yrkisskeiðunum er tann sama, sum frammanundan fyrisitur yrkisútbúgvingarskipanina.</s>
+            <s xml:lang="fo" cert="high" xml:id="jbasshdl4r">Hesa fyrisiting hevur Yrkisdepilin í Mentamálaráðnum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="bmxbicvdva">Skeiðini fylgja í høvuðsheitum somu mannagongdum, sum eru galdandi á yrkisútbúgvingarøkinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="h3swjc6rio">Í einari kunngerð, sbr. § 8, stk. 1, verða tó ásettar neyvari reglur fyri yrkisskeiðini.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 9:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="yomd7cmplv">Útbjóðari av einum skeiði skal fíggja allar útreiðslurnar við luttøkugjaldi.</s>
+            <s xml:lang="fo" cert="high" xml:id="e5c3ngfaly">Luttøkugjaldari kann vera arbeiðspláss, yrkis- ella fakfelag, landskassin, einstaklingur, Arbeiðsloysisskipanin, Almannastovan o.o.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="dgdxvldsan">Tann, sum søkir um skeiðsgóðkenning, rindar eitt sonevnt umsitingargjald av avleiddu útreiðslunum av arbeiðnum hjá yrkisnevndini, Yrkisútbúgvingarráðnum og fyrisitingini.</s>
+            <s xml:lang="fo" cert="high" xml:id="v6q2xlw762">Umsitingargjaldið eigur at vera á sama støði sum tað umsitingargjald, ið er knýtt at stovnan av lærusáttmálum, sbr. kunngerð nr. 73 frá 8. august 2002 um umsitingargjald vinnunnar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til §§ 10 og 11:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ci5jtx6j5w">Luttakari kann kæra avgerðir, sum tann, ið hevur ábyrgdina av einum yrkisskeiði, hevur tikið, til landsstýrismannin.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="z5chfl4xsa">Um umsókn um at fáa yrkisskeið ella útbúgvingarstað góðkent verður havnað, kann umsøkjarin ella útbúgvingarstaðið kæra avgerðina til kærunevndina viðvíkjandi góðkenning av læruplássum, sum er sett við atliti at yrkisútbúgvingum, sbr. kunngerð um kærunevnd í sambandi við góðkenning av virkjum sum lærupláss.</s>
+            <s xml:lang="fo" cert="high" xml:id="dcdzx6yiut">Kærunevndin er evsti kærumyndugleiki.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 12:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xtyr6gcw2t">Útbúgvingarstaðið hevur ábyrgdina av, at skeiðsluttakarar eru tryggjaðir móti skaðum, sum teimum kunnu verða fyri í undirvísingini.</s>
+            <s xml:lang="fo" cert="high" xml:id="a5unzasfe2">Hetta merkir, at um so er, at luttakari ikki er tryggjaður móti møguligum skaðum, skal útbúgvingarstaðið syrgja fyri, at luttakari verður tryggjaður.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold italic">Til § 13:</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xamnh7c2so">Mælt verður til, at lógin kemur í gildi beinanvegin.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold">
+          <placeName>Á Løgtingi</placeName>
+          <date when="2004-02-23">23. februar 2004</date>
+        </dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Høgni Hoydal</hi>
+            <lb/>
+            <roleName rend="bold">løgtingsmaður</roleName>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

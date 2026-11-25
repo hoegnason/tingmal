@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Untitled Bill</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/4564"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <!-- TODO: fix this table extraction later! -->
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">1306-1/92</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">HíS/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <div n="§ 1. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 1.</label>
+              <s xml:lang="fo" cert="high" xml:id="vua3ipmziw">Løgtingslóg nr. 187 frá 28. desember 1992 um avmarking av løn í samband við sjúku verður tikin av.</s>
+            </p>
+          </div>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <div n="§ 2. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 2.</label>
+              <s xml:lang="fo" cert="high" xml:id="hpzpxzuxet">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd, og hevur virknað frá 1. juli 1999.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Almennar viðmerkingar:</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="mbmwvw44jr">Við løgtingsmáli nr. 23/1992 varð uppskot til løgtingslóg um avmarking av løn í samband við sjúku løgd fyri Løgtingið og samtykt sum løgtingslóg nr. 187 frá 28. desember 1992.</s>
+          <s xml:lang="fo" cert="high" xml:id="ck2k2bnagg">Lógin ásetir, at løntakarar, sum hava rætt til løn undir sjúku frá arbeiðsgevaranum, missa rættin til løn 2 teir fyrstu sjúkradagarnar.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="yeqdkinkjp">Sambært viðmerkingunum til lógina var orsøkin fyri, at uppskotið í síni tíð varð lagt fram, at landsstýrið ætlaði at minka um lønarútreiðslurnar hjá tí almenna.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="cfjp76le7r">Í sambandi við sáttmálasamráðingarnar í vár varð semja gjørd millum Fíggjarmálastýrið og Starvsmannafelagið.</s>
+          <s xml:lang="fo" cert="high" xml:id="dxvq6ydrc2">Ein partur av hesi semju bar yvirskriftina ”Avtala um karensdagar”.</s>
+          <s xml:lang="fo" cert="high" xml:id="dmgmud67id">Av hesi semju framgongur, at landsstýrismaðurin í fíggjarmálum bindur ”seg til at skipa fyri, at lógaruppskot verður lagt fyri Løgtingið um, at karensdagalógin verður tikin av innan 1. september 1999, og verða karensdagarnir reguleraðir frá 1. juli 1999”, og tí verður hetta lógaruppskot lagt fyri Løgtingið.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="abtemacbmg">Viðvíkjandi fíggjarliga kostnaðinum av uppskotinum skal viðmerkjast, at tá ið lógin um karensdagarnar í síni tíð varð løgd fyri Løgtingið, metti landsstýrið, sambært viðmerkingunum, at tað fór at spara umleið 5. mió. kr.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="mtyt7zy44n">Lógin hevur ongar umsitingarligar avleiðingar fyri fyrisitingina.</s>
+        </p>
+        <!-- TODO: fix signature extraction later!
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Finnbogi Arge </hi>landsstýrismaður / Arni Poulsen</s>
+          </p>
+          -->
+      </div>
+    </body>
+  </text>
+</TEI>

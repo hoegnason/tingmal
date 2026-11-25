@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Løgtingslóg um broyting í løgtingslóg um bjargingarútgerð á opnum bátum og á førum undir 20 tons (BRT/GT)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/3827"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Løgtingslóg</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">um</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">broyting í løgtingslóg um bjargingarútgerð á opnum bátum og á førum undir 20 tons</ab>
+        <ab rend="bold center">(BRT/GT)</ab>
+      </ab>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 72 frá 13. mai 1992 um bjargingarútgerð á opnum bátum og á førum undir 20 tons (BRT/GT) verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <s xml:id="ozbmkd2ccp">Í § 2, nr. 12 verður orðingin “Skrokksertifikat, bert fyri glastrevjabátar” strikað.</s>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>§ 4 verður orðað soleiðis:</seg>
+              </p>
+              <q resp="rani">
+                <p>
+                  <label rend="bold">§ 4.</label>
+                  <s xml:id="d5t4xvax7q">Kappróðrarfør og bátar undir 20 fót (6,20m) koma ikki undir reglurnar í §§ 2 og 3 í hesi lóg.</s>
+                  <s xml:id="brwvunv7ps">Landsstýrismanninum verður heimilað at áseta nærri reglur um útgerð á kappróðrarbátum og førum, sum ikki koma undir §§ 2 og 3 í hesi lóg.</s>
+                </p>
+              </q>
+            </item>
+            <label>3)</label>
+            <item>
+              <p>
+                <seg>§ 7, stk. 1 verður orðað soleiðis:</seg>
+              </p>
+              <q resp="rani">
+                <p>
+                  <s xml:id="ibmmzxis6h">Landsstýrismanninum verður heimilað at áseta nærri reglur um nýtslu og burturbeining av neyðrakettum og um keyp og sølu av slíkari útgerð.</s>
+                </p>
+              </q>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="sg7bry4xkk">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="of5wiatwsl">Samstundis fer danski teksturin í løgtingslóg nr. 72 frá 13. mai 1992 um bjargingarútgerð á opnum bátum og á førum undir 20 tons (BRT/GT) úr gildi.</s>
+          </p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um almannapensjónir o. a.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Bárður Nielsen</persName>
+            <roleName>løgtingsmaður</roleName>
+          </author>
+          <ref target="https://www.logting.fo/documents/9802"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2003-02-11">tann 11. februar 2003</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um almannapensjónir o. a.</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 48 frá 10. mai 1999 um almannapensjónir o.a., sum seinast broytt við løgtingslóg nr. 91 frá 3. desember 2002, verður í § 20, stk. 2, nr. 1 “verður” broytt til “er”</seg>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="cessi73xqo">Løgtingslógin fær gildi 1. juli 2003.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="zk45hrmise">Sum støðan er í dag, verður grundupphæddin til fólkapensjón útgoldin uttan mun til fíggjarligu viðurskiftini hjá tí, ið fær pensjónina útgoldna.</s>
+            <s xml:lang="fo" cert="high" xml:id="e4etkopdty">Men hevur fólkapensjónisturin aðra inntøku, verður viðbótin til pensjónina lækkað við 60% av inntøkugrundarlagnum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="wuhawmsfsj">Inntøkugrundarlagið verður roknað sum skattskylduga inntøkan sambært skattalógini, umframt aðrar inntøkur, harímillum renta av føroyskum lánsbrøvum og innistandandi peningi í peningastovni ella postgiro, ið verður skattað eftir reglunum í rentuskattalógini.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xece77lrfm">Tað, at lógin vísir til rentu, “ið <hi rend="italic">verður</hi> skattað eftir reglunum í rentuskattalógini”, merkir, at talan er um bruttorentu.</s>
+            <s xml:lang="fo" cert="high" xml:id="pictb54iif">Fyri at sleppa undan hesum, verður skotið upp, at orðið “verður” verður broytt til “er”.</s>
+            <s xml:lang="fo" cert="high" xml:id="undp72zu2n">Harvið verður víst til nettorentuna.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="egwil7pv2y">Tað kann ikki vera rætt, at pensjónistar, ið fyrst hava goldið rentuskatt av innistandandi peningi, harafturat skulu missa pensjón av tí, sum teir hava goldið í rentuskatti.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="xmmtk6n6yn">Mett verður, at uppskotið fer at hava við sær eina ávísa meirútreiðslu fyri landskassan, men sambært serfrøðingum er ómøguligt frammanundan at rokna út, hvussu stór henda upphædd verður.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2003-02-11">tann 11. februar 2003</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Bárður Nielsen</hi>
+            <lb/>
+            <roleName rend="bold">løgtingsmaður</roleName>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Untitled Bill</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Flemming Mikkelsen</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/5328"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2000-02-29">tann 29. februar 2000</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í § 2 í løgtingslóg nr. 51 frá 01.06.1977 um fólka- og farmaflutning, sum seinast broytt við løgtingslóg nr. 38 frá 23.04.1999, verður sum nýtt stk. 2 sett inn soljóðandi áseting:</seg>
+          </p>
+          <q>
+            <p>
+              <label rend="italic">Stk. 2.</label>
+              <s xml:id="h2jkq4hdhn">Sami prísur verður á flutningsgjøldum fyri ávikavist fólk og bilar á øllum sjóleiðum.</s>
+            </p>
+          </q>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="fxllcv55cl">Løgtingslógin fær gildi 1. januar 2001.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ff6gc3pj6h">Endamálið við uppskotinum er at javnstilla suðuroyar- og mykinesleiðina við aðrar sjóvegis leiðir í landinum, við at lækka ferðaseðlaprísirnar soleiðis, at sami prísur er galdandi á øllum sjóvegis farleiðum í landinum.</s>
+          </p>
+          <p rend="bold">
+            <s xml:lang="fo" cert="high" xml:id="tjqlwddi64">Fyri Landskassan fer ein slík lækking í ferðaseðlaprísinum at kosta 4 milliónir krónur, um ferðslan er tann sama sum nú.</s>
+            <s xml:lang="fo" cert="high" xml:id="w7aa4jb7jo">Hetta er, um prísurin fyri ferðafólk fer niður á 30 kr. fyri allar farleiðir og tilsvarandi niður á 80 kr. fyri bilar.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="lmt574hl4q">Væntast kann tó, at eitt ferðslulop fer at verða, tá ið prísirnir lækka.</s>
+            <s xml:lang="fo" cert="high" xml:id="g42ojwbpgc">Hetta merkir, at útreiðslan hjá landskassanum verður minni, tess størri ferðslulopið verður.</s>
+            <s xml:lang="fo" cert="high" xml:id="h5arjveuks">Hvussu stórt ferðslulopið verður, er ringt at meta um heilt nágreiniliga.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ufwqumwo6r">Sambandsflokkurin heldur, at fyri tey, ið ferðast um Suðuroyar- og Mykinesfjørð, verður talan um eina hart tiltrongda ábót.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="d6ug7ham6w">Sambandsflokkurin heldur, at tá ið fjarleikakostnaður ikki ávirkar flestu farleiðir í landinum, er ikki rætt, at tað bara skal ávirka tvær farleiðir í landinum, nevniliga um Mykines- og Suðuroyarfjørð.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ijnxeazmrg">Sambandsflokkurin heldur, at hendan broyting er til gagns fyri tey, ið ferðast um hesar farleiðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="tncd5mamfx">Somuleiðis vil ein samtykt av hesum uppskoti geva til kennar ein vilja frá Løgtinginum at fremja ein politik, sum styrkir um útjaðaran.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2000-02-29">tann 29. februar 2000</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>
+            <hi rend="bold">Flemming Mikkelsen</hi>
+          </persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
