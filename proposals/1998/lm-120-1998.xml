@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Untitled Bill</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Bjarni Djurholm</persName>
+          </author>
+          <author>
+            <persName ref="">Kristian Magnussen</persName>
+          </author>
+          <author>
+            <persName ref="">Jógvan Durhuus</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/4388"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="1999-03-12">tann 12. mars 1999</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 45 frá 29. juni 1972 um føroysku kommunurnar, sum seinast broytt við løgtingslóg nr. 34 frá 29. mai 1985, verður § 14, stk. 2, orðað soleiðis:</seg>
+          </p>
+          <q>
+            <p>
+              <label rend="italic">Stk. 2.</label>
+              <s xml:id="n57f5f6hao">Val av teimum í stk. 1 umrøddu nevndum fer fram beint aftaná val av formanni og næstformanni.</s>
+              <s xml:id="fjsljjp7hd">Valt verður eftir lutfalsvalháttinum.</s>
+              <s xml:id="k5jovl62cf">Hesar nevndir skulu hvør sær altíð vera í minniluta í bygda(r)ráðnum.</s>
+              <s xml:id="gkngykxsxe">Í starvstíð bygda(r)ráðsins kann fara fram nýval av nevndum, og § 10, stk. 2, verður tá nýtt samsvarandi.</s>
+            </p>
+          </q>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="kkqcalr5ap">Hendan lóg kemur í gildi dagin eftir, hon er kunngjørd.</s>
+            <s xml:id="gjn7h62o4i">Samstundis fer danski teksturin í løgtingslóg nr. 45 frá 29. juni 1972 um føroysku kommunurnar, sum seinast broytt við løgtingslóg nr. 34 frá 29. mai 1985, úr gildi.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="hkekadiusn">Sambært kommunulógini er ikki samsvar millum umskipan og val af kommunalum nevndum.</s>
+          <s xml:lang="fo" cert="high" xml:id="o27ir5quas">Hetta hevur víst seg at vera óheppið, og verður tí skotið upp at broyta lógina soleiðis, at samsvar verður millum umskipan og val av nevndum.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="buuuzk57hj">Í uppskotinum verður nevnt, at nýval av nevndum kann fara fram.</s>
+          <s xml:lang="fo" cert="high" xml:id="iwum7txara">Hetta merkir, at nýval til staka nevnd ikki kann fara fram.</s>
+          <s xml:lang="fo" cert="high" xml:id="jwek5ai3yn">Fíggjarnevndin og allar føstu nevndirnar mugu veljast av nýggjum.</s>
+        </p>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Føroya løgtingi</placeName>, <date when="1999-03-12">tann 12. mars 1999</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Bjarni Djurholm</persName>
+        </signed>
+        <signed>
+          <persName>Kristian Magnussen</persName>
+        </signed>
+        <signed>
+          <persName>Jógvan Durhuus</persName>
+        </signed>
+      </div>
+      <div>
+        <!-- TODO: review later! -->
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="sv4m652yk4">Vísandi til tingskipanina § 54 stk. 2 viðmæla undirritaðu tingmenn, at uppskotið kann verða lagt fram og fáa viðgerð, hóast frestin í § 54 stk 1 er farin.</s>
+        </p>
+        <p>
+          <dateline>Tórshavn, <date when="1999-03-12">hin 12. mars 1999</date>.</dateline>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um lønhæddaravgjald</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/3980"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">2520-38/93</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">DMK/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um lønhæddaravgjald</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 193 frá 10. desember 1993 um lønhæddaravgjald verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <seg>Í § 7, stk. 7 verður "Føroya Gjaldstova" broytt til: "Toll- og Skattstova Føroya".</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>§ 13, verður strikað.</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <s xml:id="zv2ysnpv3y">Í § 14, stk. 1 verður "lógmæti" broytt til: "samleikaprógv".</s>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="tat67x7fep">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="oswbd6dwk6">Samstundis fer danski teksturin í løgtingslóg nr. 193 frá 10. desember 1993 úr gildi.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fpfx2vzqj4">Talan er einans um smáar tekniskar broytignar, sum ikki geva høvi til aðrar viðmerkingar enn tað, sum tilskilað er niðanfyri.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mvb2ztnqmt">Uppskotið hevur ikki eyka útreiðslur við sær.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Viðmerkingar til tær einstøku broytingarnar</head>
+          <p>
+            <label>Til 1)</label>
+            <s xml:lang="fo" cert="high" xml:id="zdqsrnnoxg">Pantiheimildin skal framyvir vera hjá Toll- og Skattstovu Føroya.</s>
+            <s xml:lang="fo" cert="high" xml:id="cxixt5t5ff">Tí er neyðugt við hesi broyting.</s>
+          </p>
+          <p>
+            <label>Til 2)</label>
+            <s xml:lang="fo" cert="high" xml:id="ear3bmuyt5">Ætlanin er, at nýggj lóg verður sett í gildi um eftirgeving av almennari skuld.</s>
+          </p>
+          <p>
+            <label>Til 3)</label>
+            <s xml:lang="fo" cert="high" xml:id="cjzbphta7j">Skotið verður tí upp at strika § 13.</s>
+            <s xml:lang="fo" cert="high" xml:id="ucdb3mdoa7">Samleikaprógv verður mett at vera lættari orðaval enn lógmæti.</s>
+          </p>
+          <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Karsten Hansen </hi>landsstýrismaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Petur Alberg Lamhauge</s>
+          </p>
+          -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,86 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til broyting í Tingskipanini</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Poul Michelsen</persName>
+          </author>
+          <author>
+            <persName ref="">Janus Rein</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/27307"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2012-02-29">29. februar 2012</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <standOff>
+    <seg type="sentence" resp="#rani" xml:id="b4tzaqxjy7">Uppskotssetarin kann fáa orðið í 5 minuttir, áðrenn framsøgumenninir fáa tað.</seg>
+  </standOff>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <ab rend="bold center">til</ab>
+        <ab rend="bold center">broyting í Tingskipanini</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="section" n="0">
+          <p>
+            <seg>Í § 69, stk. 1 verður sett sum nýtt 4. pkt.: “Uppskotssetarin kann fáa orðið í 5 minuttir, áðrenn framsøgumenninir fáa tað”.</seg>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar:</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qstd37qdpr">Skrivaði teksturin í einum løgtingsuppskoti er minni enn so altíð somikið greiður, at hann einsamallur er nóg gott grundarlag undir sakligari viðgerð og støðutakan.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="jgus4k3dns">Hetta kann elva til nógvar misskiljingar undir eini viðgerð av einum máli, og at viðgerðin tí fer av sporinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="f3leog74yl">Hetta ger seg serliga galdandi, tá løgmaður ella landsstýrismenn hava lagt uppskot fyri Løgtingið, tí landsstýrismaðurini ikki fær orðið, fyrr enn bæði framsøgufólk og mangan nógvir aðrir tinglimir hava havt tað.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="gl4ycxhmc4">Tað ber til at minka um vandan fyri hesum, um uppskotssetarin sleppur at lýsa málið nágreiniligari tíðliga í viðgerðini og helst, áðrenn framsøgufólkini fáa orðið.</s>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2012-02-29">29. februar 2012</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Poul Michelsen</persName>
+        </signed>
+        <signed>
+          <persName>Janus Rein</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>

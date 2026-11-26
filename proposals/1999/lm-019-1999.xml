@@ -1,0 +1,110 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um tiltøk at minka um tubbaksnýtsluna</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/5341"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">Lms. j. nr.:</cell>
+          <cell rend="meta-cell">687-19/99</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Ahs. j. nr.:</cell>
+          <cell rend="meta-cell">0.12-9800559/17</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">JK/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um tiltøk at minka um tubbaksnýtsluna</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 94 frá 4. oktober 1984 um tiltøk at minka um tubbaksnýtsluna verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <seg>Í § 5, stk. 2, verður ”tubbaksráðnum, jbr. § 6,” broytt til: ”Fyribyrgingarráðnum”.</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>§ 6 verður strikað.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="uw7htlzk3n">Henda løgtingslóg kemur í gildi 1. januar 2000.</s>
+          </p>
+          <p>
+            <label rend="italic">Stk. 2.</label>
+            <s xml:id="vpniqnhoyh">Samstundis fer danski teksturin í lógini úr gildi.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kinsawfmp3">Í sambandi við at uppskot til løgtingslóg um fyribyrgingarráð verður lagt fyri Løgtingið, verður neyðugt at fremja hesar broytingar í tubbakslógini.</s>
+            <s xml:lang="fo" cert="high" xml:id="hud3rogkos">Orsøkin er, at ætlaða fyribyrgingarráðið kemur at verða sett í staðin fyri m.a. Tubbaksráðið, sum verður tikið av, tá ið lógin um fyribyrgingarráð verður samtykt.</s>
+            <s xml:lang="fo" cert="high" xml:id="vfbdtjpyxk">Fyribyrgingarráðið kemur eftir ætlan at yvirtaka tær uppgávur, sum í dag liggja hjá Tubbaksráðnum.</s>
+            <s xml:lang="fo" cert="high" xml:id="kh27vvfbpo">Hetta lógaruppskotið hoyrir tí náttúrliga saman við uppskotinum til løgtingslóg um fyribyrgingarráð.</s>
+          </p>
+          <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Eyðun Elttør </hi>landsstýrismaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Høgni Joensen</s>
+          </p>
+          -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

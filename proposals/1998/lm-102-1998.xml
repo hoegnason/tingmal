@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um barnagjald til einsamallar uppihaldarar v.fl.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/4305"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">687-11/99</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">JHSS/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um barnagjald til einsamallar uppihaldarar v.fl.</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 71 frá 20. mai 1996 um barnagjald til einsamallar uppihaldarar v.fl., sum seinast broytt við løgtingslóg nr. 25 frá 14. mars 1997 verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <seg>§ 9, stk. 3 verður strikað.</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>§ 18, stk. 2 verður strikað.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="vvj3cxr56p">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd, og er galdandi frá 1. januar 1999.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Almennar viðmerkingar</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="zubgtxmgxa">Frá 1. januar í ár kom ein broyting í skattalógina, sum førdi við sær, at barnapeningur o.a. ikki longur skuldi skattast hjá barninum.</s>
+          <s xml:lang="fo" cert="high" xml:id="a6jxmi4kwg">Eitt broytingarupskot til skattalógina sum eisini verður framlagt nú, førir við sær, at ongin verður skattaður av teimum upphæddum, sum verða útgoldnar sum barnapeningur o.a.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="rvylbgljor">Mett verður eisini, at tað er rættast, at øll skattaviðurskifti verða umsitin í skattalógini.</s>
+        </p>
+        <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Helena Dam á Neystabø </hi>landsstýrismaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Høgni Joensen</s>
+          </p>
+          -->
+      </div>
+    </body>
+  </text>
+</TEI>

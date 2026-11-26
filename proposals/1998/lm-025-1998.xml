@@ -1,0 +1,107 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um flaggið</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/3920"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">112-3/93</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">SPS/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um flaggið</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 42 frá 17. juli 1959 um flaggið verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label>1)</label>
+            <item>
+              <p>
+                <seg>Í § 1 verður aftaná orðið “fagurreyður” sett: “(PMS 186)”.</seg>
+              </p>
+            </item>
+            <label>2)</label>
+            <item>
+              <p>
+                <seg>Í § 1 verður aftaná orðið “azurblárandaður” sett: “(PMS 3005)”.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="spxklmmgyl">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="z6j3f7amss">Samstundis verður danski teksturin í lógini strikaður.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="qat7bzlus5">Í lógini um flaggið er ásett, at reyði liturin í flagginum er fagurreyður og blái liturin er azurbláur.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ph2w37dun5">Flaggframleiðarar, prentsmiðjur, málarar og onnur við skili fyri hesum, og sum nýta litirnar í arbeiði sínum, eru á einum máli um, at illa ber til nágreiniliga at siga, hvussu liturin fagurreyður og azurbláur sær út.</s>
+            <s xml:lang="fo" cert="high" xml:id="tg36crmfkn">Hetta letur seg gera, um ásett verður, hvørji altjóða numrini á litunum eru.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="nabbpb4wpg">Málið hevur verið lagt fram í vár, men fall burtur, tá løgtingsval varð útskrivað.</s>
+          </p>
+          <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Høgni Hoydal </hi>landsstýrismaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Rúni Joensen</s>
+          </p>
+          -->
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

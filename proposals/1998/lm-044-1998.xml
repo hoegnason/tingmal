@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til løgtingslóg um broyting í løgtingslóg um stuðul til bygging av fiskiførum á føroyskum skipasmiðjum til útflutnings</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+        <date when="1970-01-01"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/4001"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">1400-8/91</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">HW/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <ab>
+        <ab rend="bold center">Uppskot</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">løgtingslóg um broyting í løgtingslóg um stuðul til bygging av fiskiførum á føroyskum</ab>
+        <ab rend="bold center">skipasmiðjum til útflutnings</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 38 frá 20. mai 1988 um stuðul til bygging av fiskiførum á føroyskum skipasmiðjum til útflutnings, sum seinast broytt við løgtingslóg nr. 83 frá 13. juni 1995 verður gjørd henda broyting:</seg>
+          </p>
+          <p>
+            <seg>Í § 5, stk. 2 verður “6 %” broytt til: “12 %”.</seg>
+          </p>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="d52xdy6jki">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            <s xml:id="s7ibx6s47n">Samstundis verður danski teksturin í lógini strikaður.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar.</head>
+
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="qhznjvqgsl">§ 5, stk. 1 í lógini varð broytt við løgtingslóg nr. 46 frá 8. mars 1994, soleiðis at landsstýrinum varð heimilað at veita upp til 12% í rentustudningi til felag, ið byggir fiskiskip á føroyskari skipasmiðju.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="tholyhut6g">Mett verður tí eisini rættast, at § 5, stk. 2 verður samsvarandi, tí at treytin fyri at veita studning í sambandi við umbygging er, at umbyggingarvirðið er 8 mió. kr. ella meira.</s>
+          <s xml:lang="fo" cert="high" xml:id="w6iu7dpksc">Ein slík umbygging vil tí í flestu førum í kostnaði verða at javnmeta við bygging.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="qzkmliluxe">Málið hevur verið lagt fram í vár, men datt burtur, tá løgtingsval varð útskrivað.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="ue5esizrkc">Fíggjarligar avleiðingar í hesum uppskoti eru avmarkaðar til ta upphædd, sum í dag er avsett á fíggjarlógini.</s>
+        </p>
+        <!-- TODO: fix signature detection
+          <p>
+            <s xml:lang="fo"><hi rend="bold">Høgni Hoydal </hi>varaløgmaður</s>
+          </p>
+          <p>
+            <s xml:lang="fo">/ Kaj P. Mortensen</s>
+          </p>
+          -->
+      </div>
+    </body>
+  </text>
+</TEI>
