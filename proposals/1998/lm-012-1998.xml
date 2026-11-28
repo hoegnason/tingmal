@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Untitled Bill</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <ref target="https://www.logting.fo/documents/3846"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <table rend="left align-right">
+        <row>
+          <cell rend="meta-cell">J.Nr.:</cell>
+          <cell rend="meta-cell">367-5/90</cell>
+        </row>
+        <row>
+          <cell rend="meta-cell">Viðgjørt:</cell>
+          <cell rend="meta-cell">DK/pm</cell>
+        </row>
+      </table>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <div n="§ 1. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 1.</label>
+              <s xml:lang="fo" cert="high" xml:id="xvehzxzkro">Løgtingslóg nr. 83 frá 24. oktober 1978 um vaktar- og bjargingartænastuna verður avtikin.</s>
+              <!-- TODO: fix metadata table leaking into normative text
+              <s xml:lang="fo"><hi rend="bold">Tórshavn, tann </hi>22-09-98 <hi rend="bold">J.Nr.: </hi>367-5/90 <hi rend="bold">(at tilskila í svari)</hi></s>
+              <s xml:lang="fo"><hi rend="bold">Viðgjørt:</hi> DK/pm</s>
+              <s xml:lang="fo" rend="bold">Tygara skriv</s>
+               -->
+            </p>
+          </div>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <div n="§ 2. Stk. 1.">
+            <p rend="bill-text">
+              <label rend="bold">§ 2.</label>
+              <s xml:lang="fo" cert="high" xml:id="yukb47vu4t">Henda lóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div type="chapter">
+        <head rend="bold">Viðmerkingar</head>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="o3h3bw423m">Løgtingsmálið varð lagt fyri tingið í vár, men fall burtur vegna løgtingsvalið 1998.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="xnu5wig4yi">Vaktar- og bjargingartænastan er sambært løgtingslóg nr. 83 frá 24. oktober 1978 sett á stovn, sum stovnur undir landsstýrinum.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="eycibpgjey">Eftir at stýrisskipanarlógin er komin í gildi, er tað landsstýrismaðurin á økinum, sum ger av, hvussu stovnar undir hansara málsøki verða skipaðir.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="ycrvrgwyfd">Eftir sum løgtingslógin um vaktar- og bjargingartænastuna bert ásetir fyrisitingina av stovninum, verður lógin tikin av. Vaktar- og bjargingartænastan er løgd saman við Fiskiveiðieftirlitinum, og eru nærri reglur ásettar í løgtingslóg nr. 28 frá 10. mars 1994 um vinnuligan fiskiskap við seinni broytingum.</s>
+        </p>
+        <p>
+          <s xml:lang="fo" cert="high" xml:id="buqw6tdlsh">Mett verður ikki, at avtøka av hesi lóg fer at broyta nakað um kostnaðin umsitingarliga, tí umsitingin er tann sama.</s>
+        </p>
+        <!-- TODO: fix signature extraction
+          <p>
+            <s xml:lang="fo"><hi rend="bold">John Petersen</hi> landsstýrismaður / Kaj P Mortensen</s>
+          </p>
+           -->
+      </div>
+    </body>
+  </text>
+</TEI>

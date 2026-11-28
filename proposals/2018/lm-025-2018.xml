@@ -1,0 +1,268 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fo">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Uppskot til Løgtingslóg um broyting í løgtingslóg um tinglýsingaravgjald (Lækking av avgjaldinum)</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Rani Høgnason Hansen</publisher>
+        <idno type="url">https://github.com/hoegnason/tingmal</idno>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</licence>
+          <p>This TEI file is part of the "Tingmál" dataset of digitised Faroese parliamentary documents. The structured markup and annotations are original work by the publisher.</p>
+          <p>Original content is used here under §9 of the Faroese Copyright Act (upphavsrettarlógin), which permits reproduction of public legislative documents.</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="parliamentary_document">
+          <publisher>Føroya Løgting</publisher>
+          <author>
+            <persName ref="">Elsebeth Mercedis Gunnleygsdóttur</persName>
+          </author>
+          <ref target="https://www.logting.fo/documents/41946"/>
+          <note type="source_format">PDF document, machine-readable text</note>
+          <date when="2018-09-19">19. september 2018</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction>
+          <p>Automatically extracted from PDF using bill_extractor. Text content is machine-readable; no OCR was used.</p>
+        </correction>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <standOff>
+    <!-- TODO: re-review -->
+    <!-- <seg type="sentence" resp="rani">Tinglýsingaravgjald verður rindað tá fastogn skiftir eigara, tá veð verður tinglýst í ogn í sambandi við lántøku, og tá ognarfyrivarni verður tinglýst í leysafæ (t.d. í bilum og øðrum akførum).</seg> -->
+
+    <!-- TODO: figure out if we sould expand the list to a single sentence or multiple -->
+    <seg type="sentence" resp="rani" xml:id="iw54gcrzs7">Tinglýsingaravgjald verður rindað tá fastogn skiftir eigara.</seg>
+    <seg type="sentence" resp="rani" xml:id="uqo67lq4mq">Tinglýsingaravgjald verður rindað tá veð verður tinglýst í ogn í sambandi við lántøku.</seg>
+    <seg type="sentence" resp="rani" xml:id="swqxqba62t">Tinglýsingaravgjald verður rindað tá ognarfyrivarni verður tinglýst í leysafæ (t.d. í bilum og øðrum akførum).</seg>
+
+    <seg type="sentence" resp="rani" xml:id="pfrmcxy36b">Við arvaskifti verður tó einki avgjald rindað.</seg>
+  </standOff>
+  <text>
+    <body>
+      <ab>
+        <ab rend="bold center">Uppskot til</ab>
+        <space dim="vertical"/>
+        <ab rend="bold center">Løgtingslóg um broyting í løgtingslóg um tinglýsingaravgjald</ab>
+        <ab rend="center">(Lækking av avgjaldinum)</ab>
+      </ab>
+      <space dim="vertical"/>
+      <div type="chapter" n="0">
+        <div type="bill-section" n="§ 1.">
+          <head rend="bold center">§ 1</head>
+          <p>
+            <seg>Í løgtingslóg nr. 8 frá 28. februar 2006 um tinglýsingaravgjald, sum broytt við løgtingslóg nr. 50 frá 2. juni 2008, løgtingslóg nr. 123 frá 15. desember 2014 og løgtingslóg nr. 156 frá 23. desember 2015, verða gjørdar hesar broytingar:</seg>
+          </p>
+          <list>
+            <label rend="bold">1.</label>
+            <item>
+              <p>
+                <seg>Í § 1, stk. 2 verður “1%” broytt til: “0,5%”.</seg>
+              </p>
+            </item>
+            <label rend="bold">2.</label>
+            <item>
+              <p>
+                <seg>Í § 3 a, stk. 1, 2. pkt. verður “1%” broytt til: “0,5%”.</seg>
+              </p>
+            </item>
+            <label rend="bold">3.</label>
+            <item>
+              <p>
+                <seg>Í § 3 b verður “1%” broytt til: “0,5%”.</seg>
+              </p>
+            </item>
+          </list>
+        </div>
+        <div type="bill-section" n="§ 2.">
+          <head rend="bold center">§ 2</head>
+          <p>
+            <s xml:id="pqhi4y35nr">Henda løgtingslóg kemur í gildi dagin eftir, at hon er kunngjørd.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="1">
+        <head rend="bold"><label>Kapittul 1.</label> Almennar viðmerkingar</head>
+        <div type="section" n="0">
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="cnthudsmcv">Endamálið við uppskotinum er millum annað at hjálpa teimum ungu, sum skulu seta føtur undir egið borð í Føroyum, og at hjálpa vinnufyritøkum, størri og smærri.</s>
+            <seg xml:lang="fo">Tinglýsingaravgjald verður rindað</seg>
+          </p>
+          <list>
+            <item>tá fastogn skiftir eigara</item>
+            <item>tá veð verður tinglýst í ogn í sambandi við lántøku</item>
+            <item>
+              <seg>tá ognarfyrivarni verður tinglýst í leysafæ (t.d. í bilum og øðrum akførum).</seg>
+              <seg>Við arvaskifti verður tó einki avgjald rindað</seg>
+            </item>
+          </list>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fevtrds3ka">Núverandi tinglýsingaravgjald er 1%.</s>
+            <s xml:lang="fo" cert="high" xml:id="tctqw5hmoy">Í hesum uppskotinum verður mælt til at lækka avgjaldið til 0,5%.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ws4vj36z43">Sum nevnt omanfyri, er endamálið við uppskotinum at hjálpa teimum, sum skulu seta føtur undir egið borð, og at hjálpa vinnuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="tsfmrbtswm">Her verður ikki bara hugsað um stóru, sterku vinnufyritøkurnar, men allar vinnufyritøkur, størri sum smærri.</s>
+            <s xml:lang="fo" cert="high" xml:id="qqsdvco2va">Vit hava nógvar smærri vinnufyritøkur, sum stríðast fyri at fáa tað at hanga saman.</s>
+            <s xml:lang="fo" cert="high" xml:id="zqt33mthlp">Talan er í nógvum førum um einstaklingar.</s>
+            <s xml:lang="fo" cert="high" xml:id="tmixeakysm">Vit ynskja eitt innovativt og framtakshugað vinnulív, men nógvu avgjøldini eru eitt haft um beinini og eitt ok bæði hjá vinnu og privatfólki.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="aocd6yhgit">Hendan samgongan hækkaði tinglýsingaravgjaldið við 0,5% í desember 2015.</s>
+            <s xml:lang="fo" cert="high" xml:id="hjodnfzebk">Tað er ikki óvanligt, at sethús í dag kosta uml. 3 mill. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="aa7kmpzxyu">Tað eru ofta ungar barnafamiljur, sum byggja ella keypa hús og íbúðir.</s>
+            <s xml:lang="fo" cert="high" xml:id="hnf65lhj4h">Hesi fáa tískil ein eykakostnað uppá 15.000 kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="lnakvf3rjr">Nøkur minni og onnur meira.</s>
+            <s xml:lang="fo" cert="high" xml:id="opupps4iuw">Eitt eyka vælkomuavgjald til tilflytarar samstundis sum vit ynskja fólkavøkstur.</s>
+            <s xml:lang="fo" cert="high" xml:id="vfxxiqu5mx">Ætlanirnar um fólkavøkstur eru góðar, men tað er skeivur vegur at náa málinum at blíva við at hækka og leggja nýggj avgjøld á tey, sum skulu seta búgv.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="kq64sktdah">Umframt tinglýsingaravgjaldið er heilsutrygdargjaldið hækkað, inngjaldið til samhaldsfasta hækkað, avgjaldið á diesel og bensin er hækkað, vegskatturin hækkaður, hækkað kringvarpsgjald, hækkað gjald til barsilsskipanina og ætlanir um at hækka gjaldið til samhaldsfasta uppaftur meira.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="e2zbakrpsl">Skipini hjá Varðanum høvdu afturgongd á 19% ella 115 milliónir kr. í 2017.</s>
+            <s xml:lang="fo" cert="high" xml:id="pjtex3bww6">Høvuðsorsøkin var uppboðssølan av uppsjóvarfiski, sí https://r7.fo/news/7671/stor-afturgond-hja-vardanum.</s>
+            <s xml:lang="fo" cert="high" xml:id="etynieyvvq">Um vit taka hinar stóru aktørarnar, snýr tað seg um 100 tals milliónir krónur, sum hendan samgongan hevur tikið meira frá vinnuni.</s>
+            <s xml:lang="fo" cert="high" xml:id="lhcq3yg4im">Men hóast 100 tals milliónir krónur í avgjøldum og meirinntøku frá vinnuni, so verður vanligi løntakarin framvegis undirdýktur í avgjøldum, sum ongantíð áður.</s>
+            <s xml:lang="fo" cert="high" xml:id="pxscmdnotm">Vanligi løntakarin merkir ongan mun, um fiskivinnan nú rindar hesar 100 tals milliónirnar meira.</s>
+            <s xml:lang="fo" cert="high" xml:id="x4ad5zb34x">Var tað ikki meiningin við orðunum um, at ríkidømið í havinum skuldi koma øllum til góðar!</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="fj3mts42he">Tíðin er nú komin til, at vanligi løntakarin merkir nakað til lyftini áðrenn valið um, at ríkidømið skal út í hvønn krók í landinum.</s>
+            <s xml:lang="fo" cert="high" xml:id="kcdzp2edvw">Ein skjótur og einfaldur máti er at byrja við avgjøldunum, og tað er sera ómakaleyst.</s>
+            <s xml:lang="fo" cert="high" xml:id="ozkb6e2bli">Avgjøldini skulu minkast og/ella avtakast.</s>
+            <s xml:lang="fo" cert="high" xml:id="zyntlkk7yo">Vit skulu aftur til at kalla ein spaka fyri ein spaka og skatt fyri skatt og ikki innføra avgjøld av øllum handa slagi.</s>
+            <s xml:lang="fo" cert="high" xml:id="sg3eafukm3">Tíðirnar eru sera góðar og tað skal skattgjaldarin merkja á sínum egna kroppi.</s>
+            <s xml:lang="fo" cert="high" xml:id="xrd7dhnbv2">Allir føroyingar og allar Føroyar skulu merkja tað.</s>
+            <s xml:lang="fo" cert="high" xml:id="t3trdqcoqg">Sum nevnt oman fyri var tað eisini eitt vallyfti, at allir føroyingar, allar Føroyar, skuldu fáa ágóða av fiskiríkidøminum.</s>
+          </p>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="g6zksm2yis">At lækka tinglýsingaravgjaldið hevði lætt um hjá øllum, sum skulu seta búgv, byggja ella keypa bústað.</s>
+            <s xml:lang="fo" cert="high" xml:id="seiomoapqm">Hevði eisini lætt um hjá vinnuni, sum frammanundan rindar 100 tals milliónir krónur í avgjøldum og rindar fyri at sleppa til arbeiðis.</s>
+            <s xml:lang="fo" cert="high" xml:id="cknbrw6urd">Hevði eisini verið ein lætti hjá smærru vinnufyritøkunum at sloppið undan hesum eykaskattinum.</s>
+          </p>
+        </div>
+      </div>
+      <div type="chapter" n="2">
+        <head rend="bold"><label>Kapittul 2.</label> Avleiðingar av uppskotinum</head>
+        <div type="section">
+          <head rend="bold">Fíggjarligar/búskaparligar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mlgheijacm">Uppskotið hevur fíggjarligar avleiðingar fyri landskassan.</s>
+            <s xml:lang="fo" cert="high" xml:id="k7eweg22pg">Roknað verður við, at uppskotið hevur við sær eina minni inntøku til landskassan á umleið 25 mió. kr.</s>
+            <s xml:lang="fo" cert="high" xml:id="g6ct5jgo23">Fyri borgarar og vinnufyritøkur fer uppskotið at hava við sær, at tinglýsingarkostnaðurin minkar úr 1% niður í 0,5% av virðinum á ognini ella veðupphæddini.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Umsitingarligar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="mdrs6ou5hr">Uppskotið hevur ikki umsitingarligar avleiðingar í mun til galdandi lóg.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Umhvørvisligar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="ilqxdxwbx4">Uppskotið hevur ikki við sær umhvørvisligar avleiðingar.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Avleiðingar fyri serstøk øki í landinum</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="pppbfqt52r">Uppskotið hevur ikki avleiðingar fyri serstøk øki í landinum.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Sosialar avleiðingar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="drowjmxgom">Uppskotið hevur jaligar sosialar avleiðingar fyri tey sum keypa hús ella tinglýsa veð í ogn í sambandi við lántøku.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Avleiðingar í mun til millumtjóða sáttmálar</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="abc7macqgz">Uppskotið hevur ikki avleiðingar í mun til millumtjóða sáttmálar.</s>
+          </p>
+          <table>
+            <row role="label">
+              <cell/>
+              <cell>Fyri landið/ landsmyndug- leikar</cell>
+              <cell>Fyri kommunalar myndugleikar</cell>
+              <cell>Fyri pláss/øki í landinum</cell>
+              <cell>Fyri ávísar samfelagsbólkar /felagsskapir</cell>
+              <cell>Fyri vinnuna</cell>
+            </row>
+            <row>
+              <cell>Fíggjarligar/ búskaparligar avleiðingar</cell>
+              <cell>Ja</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+              <cell>Ja</cell>
+            </row>
+            <row>
+              <cell>Umsitingarligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Umhvørvisligar avleiðingar</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Avleiðingar í mun til altjóða avtalur og reglur</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+              <cell>Nei</cell>
+            </row>
+            <row>
+              <cell>Sosialar Avleiðingar</cell>
+              <cell/>
+              <cell/>
+              <cell>Nei</cell>
+              <cell>Ja</cell>
+              <cell/>
+            </row>
+          </table>
+        </div>
+      </div>
+      <div type="chapter" n="3">
+        <head rend="bold"><label>Kapittul 3.</label> Serligar viðmerkingar</head>
+        <div type="section">
+          <head rend="bold">Til § 1, nr. 1-3</head>
+          <p>
+            <s xml:lang="fo" cert="high" xml:id="tojs7eafrt">Tinglýsingaravgjaldið verður lækkað úr 1% niður í 0,5%.</s>
+          </p>
+        </div>
+        <div type="section">
+          <head rend="bold">Til § 2</head>
+          <p>
+            <seg xml:lang="fo">Áseting um gildiskomu.</seg>
+          </p>
+        </div>
+      </div>
+      <space dim="vertical"/>
+      <div type="signature">
+        <dateline rend="bold"><placeName>Á Løgtingi</placeName>, <date when="2018-09-19">19. september 2018</date></dateline>
+        <space dim="vertical"/>
+        <signed>
+          <persName>Elsebeth Mercedis Gunnleygsdóttur</persName>
+        </signed>
+      </div>
+    </body>
+  </text>
+</TEI>
